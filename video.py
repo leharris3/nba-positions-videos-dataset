@@ -17,8 +17,9 @@ class Video:
             print(f"Error creating video with path {path}.")
             raise Exception
 
-    # normalize + replace video in place
-    def normalize(self):
+    def normalize(self) -> str:
+        """Normalize a video given a path and save."""
+
         try:
             directory = os.path.dirname(self.path)
             file_name = os.path.splitext(os.path.basename(self.path))[0]
@@ -37,8 +38,7 @@ class Video:
                 temp_path
             ]
             subprocess.run(command)
-            os.remove(self.path)
-            os.rename(temp_path, self.path)
+            return temp_path
         except:
             print(f"Failed to normalize video at {self.path}.")
             raise Exception
