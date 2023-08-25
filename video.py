@@ -7,19 +7,16 @@ class Video:
     """Instance of a game video."""
 
     def __init__(self, path: str) -> None:
-        if not os.path.exists(path):
-            print(f"Error creating video: invalid valid path at {path}.")
-            raise Exception
+        assert os.path.exists(
+            path), f"Error creating video: invalid valid path at {path}."
         self.path = os.path.abspath(path)
         try:
             self.title = path[-29: -8]
             self.network = path[-7: -4]
         except:
-            print(f"Error creating video with path {path}.")
-            raise Exception
+            raise Exception(f"Error: bad title format for video at {path}.")
 
-    # TODO: change preset -> slow for better compression
-    def normalize(self) -> str:
+    def normalize(self, preset: str) -> str:
         """Normalize a video given a path and save."""
 
         try:
@@ -34,7 +31,7 @@ class Video:
                 "-r", "25",
                 "-c:v", "libx264",
                 "-crf", "23",
-                "-preset", "ultrafast",
+                "-preset", preset,
                 "-c:a", "aac",
                 "-b:a", "0",
                 "-loglevel", "info",
@@ -43,18 +40,18 @@ class Video:
             subprocess.run(command)
             return temp_path
         except:
-            print(f"Failed to normalize video at {self.path}.")
-            raise Exception
+            raise Exception(f"Failed to normalize video at {self.path}.")
 
-    def is_normalized(self):
+    def is_normalized(self) -> bool:
+        """Helper function. Returns true/false if video is already normalized."""
+
         try:
             cap = cv2.VideoCapture(self.path)
-            if not cap.isOpened():
-                return False
-            frame_width = int(cap.get(3))
-            frame_height = int(cap.get(4))
-            fps = int(cap.get(5))
-            if frame_width == 1280 and frame_height == 720 and fps == 25:
-                return True
         except:
+            raise Exception(f"Error: bad path to video: {self.path}.")
+        if not cap.isOpened():
             return False
+        frame_width = int(cap.get(3))
+        frame_height = int(cap.get(4))
+        fps = int(cap.get(5))
+        return frame_width == 1280 and frame_height == 720 and fps == 25

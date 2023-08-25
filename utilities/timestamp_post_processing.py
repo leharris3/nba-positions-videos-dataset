@@ -6,7 +6,7 @@ MIN_QUARTER = 1
 MAX_QUARTER = 4
 
 
-def postprocess_timestamps(json_path: str) -> str:
+def postprocess_timestamps(json_path: str):
     """Interpolate and remove noise from extracted timestamps."""
 
     try:
@@ -42,13 +42,7 @@ def postprocess_timestamps(json_path: str) -> str:
                 modified_data[frame] = time
                 frame_count = 0
 
-    modified_json_path = json_path.rstrip('.json') + '_modified.json'
-
-    with open(modified_json_path, 'w') as file:
-        json.dump(modified_data, file, indent=4)
-
-    print(f"Modified timestamp data has been saved to: {modified_json_path}.")
-    return modified_json_path
+    return modified_data
 
 
 # Usage example

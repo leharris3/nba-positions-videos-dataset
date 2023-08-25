@@ -7,14 +7,15 @@ import numpy as np
 
 # MARK: Change to your local path to tessract.exe
 PATH_TO_TESSERACT = r"/usr/local/bin/pytesseract"
+OUTPUT_CODEC = "mp4v"
+BREAK_POINT = 10
+PRINT_FRAME_OFFSET = 50
 PRINT_FRAME_OFFSET = 1000
 LARGE_STEP = 1000
 MOD_STEP = 25
 BREAK_POINT = -1
 QUARTER_CONFIG = r'--oem 1 --psm 10 -c tessedit_char_whitelist=1234 load_system_dawg=0 load_freq_dawg=0 load_punc_dawg=0'
 CLOCK_CONFIG = r'--oem 1 --psm 3 -c tessedit_char_whitelist=0123456789.: -c load_system_dawg=0 load_freq_dawg=0 load_punc_dawg=0'
-TIMESTAMPS = {}
-# TRIM_VIDEO_BITRATE = 1000000
 
 ROIS = {
     "TNT_QUARTER": {"x_start": 866, "width": 14, "y_start": 1168-560, "height": 24},
@@ -31,110 +32,82 @@ ROIS = {
 
 
 def extract_timestamps_plus_trim(video_path: str, network: str):
-    """Extract timestamps from video. Removes frames w/o valid timestamps and save as a trimmed video."""
+    """Extract timestamps from video. Removes frames w/o valid timestamps and saves as a trimmed video."""
 
-    # pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
-    QUARTER, CLOCK = f"{network}_QUARTER", f"{network}_CLOCK"
-
-    step = LARGE_STEP  # process each step frame
-    try:
-        q_width_start, q_width_offset, q_height_start, q_height_offset = ROIS[
-            QUARTER]["x_start"], ROIS[QUARTER]["width"], ROIS[QUARTER]["y_start"], ROIS[QUARTER]["height"]
-        clk_width_start, clk_width_offset, clk_height_start, clk_height_offset = ROIS[
-            CLOCK]["x_start"], ROIS[CLOCK]["width"], ROIS[CLOCK]["y_start"], ROIS[CLOCK]["height"]
-    except:
-        print(f"Error: invalid network: {network}!")
-        raise Exception
+    timestamps = {}
+    quarter, clock = f"{network}_QUARTER", f"{network}_CLOCK"
+    step, q_width_start, q_width_offset, q_height_start, q_height_offset = LARGE_STEP, *[
+        ROIS[quarter][param] for param in ("x_start", "width", "y_start", "height")]
+    clk_width_start, clk_width_offset, clk_height_start, clk_height_offset = [
+        ROIS[clock][param] for param in ("x_start", "width", "y_start", "height")]
 
     capture = cv2.VideoCapture(video_path)
-    quarter, time_seconds = None, None
-    new_frame_index = 0
-    first_timestamp_spotted = False
+    total_frames, output_width, output_height, output_fps = map(int, (
+        capture.get(cv2.CAP_PROP_FRAME_COUNT),
+        capture.get(cv2.CAP_PROP_FRAME_WIDTH),
+        capture.get(cv2.CAP_PROP_FRAME_HEIGHT),
+        capture.get(cv2.CAP_PROP_FPS)
+    ))
 
-    total_frames = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))
-    output_width = int(capture.get(cv2.CAP_PROP_FRAME_WIDTH))
-    output_height = int(capture.get(cv2.CAP_PROP_FRAME_HEIGHT))
-    output_fps = capture.get(cv2.CAP_PROP_FPS)
-    output_fourcc = cv2.VideoWriter_fourcc(*"mp4v")
     output_path = f"{video_path.strip('.mp4')}_trim.mp4"
+    video_writer = cv2.VideoWriter(
+        output_path, cv2.VideoWriter_fourcc(*OUTPUT_CODEC), output_fps, (output_width, output_height))
 
-    try:
-        video_writer = cv2.VideoWriter(
-            output_path, output_fourcc, output_fps, (output_width, output_height))
-    except:
-        print(
-            f"Error: could not create a video writer for video at {video_path}.")
-        raise Exception
+    quarter, time_seconds, new_frame_index, first_timestamp_spotted = None, None, 0, False
 
     for frame_index in range(total_frames):
         if new_frame_index == BREAK_POINT:
             break
-
         ret, frame = capture.read()
         if not ret:
             break
-
         try:
             q_roi = frame[q_height_start: q_height_start + q_height_offset,
                           q_width_start: q_width_start + q_width_offset]
             clk_roi = frame[clk_height_start: clk_height_start + clk_height_offset,
                             clk_width_start: clk_width_start + clk_width_offset]
         except:
-            print(
+            raise Exception(
                 f"Error: invalid clock or quarter roi provided for video at {video_path}.")
-            raise Exception
 
         if (frame_index % step) != 0:
             if quarter is not None and time_seconds is not None:
-                TIMESTAMPS[new_frame_index] = [
+                timestamps[new_frame_index] = [
                     quarter, time_seconds]
                 video_writer.write(frame)
                 new_frame_index += 1
         else:
-            # Preprocess quarter ROI
-            preprocessed_q_roi = preprocess_image(q_roi)
-            roi_pil_q = Image.fromarray(preprocessed_q_roi)
-            q_result = pytesseract.image_to_string(
-                roi_pil_q, config=QUARTER_CONFIG)
-
-            # Preprocess clock ROI
-            preprocessed_clk_roi = preprocess_image(clk_roi)
-            roi_pil_clk = Image.fromarray(preprocessed_clk_roi)
-            clk_result = pytesseract.image_to_string(
-                roi_pil_clk, config=CLOCK_CONFIG)
-
-            q_result, clk_result = q_result.strip(), clk_result.strip()
-            if q_result != "" or clk_result != "":
+            q_result = preprocess_and_ocr(q_roi, QUARTER_CONFIG)
+            clk_result = preprocess_and_ocr(clk_roi, CLOCK_CONFIG)
+            if q_result or clk_result:
                 print(q_result, clk_result)
-
             if new_frame_index <= 10:
-                cv2.imwrite("q_roi.png", preprocessed_q_roi)
-            if new_frame_index <= 10:
-                cv2.imwrite("clk_roi.png", preprocessed_clk_roi)
+                cv2.imwrite("q_roi.png", q_result)
+                cv2.imwrite("clk_roi.png", clk_result)
 
-            try:
-                quarter = int(q_result[0])
-                time_seconds = convert_time_to_seconds(clk_result)
-                if quarter is not None and time_seconds is not None:
-                    TIMESTAMPS[new_frame_index] = [quarter, time_seconds]
-                    if not first_timestamp_spotted:
-                        first_timestamp_spotted = True
-                        step = MOD_STEP
-                    video_writer.write(frame)
-                    new_frame_index += 1
-            except:
-                pass  # no new valid timestamp values
+            quarter = int(q_result[0]) if q_result else None
+            time_seconds = convert_time_to_seconds(clk_result)
+            if quarter and time_seconds:
+                timestamps[new_frame_index] = [quarter, time_seconds]
+                if not first_timestamp_spotted:
+                    first_timestamp_spotted = True
+                    step = MOD_STEP
+                video_writer.write(frame)
+                new_frame_index += 1
 
         if (frame_index % PRINT_FRAME_OFFSET) == 0:
-            progress = (frame_index + 1) / total_frames
-            print_progress(progress=progress)
+            print_progress(progress=(frame_index + 1) / total_frames)
 
-    # Release the VideoWriter and capture objects
     video_writer.release()
     capture.release()
-    # os.remove(video_path)
-    # os.rename(output_path, video_path)
-    return TIMESTAMPS
+    return timestamps, output_path
+
+
+def preprocess_and_ocr(roi, config):
+    preprocessed_roi = preprocess_image(roi)
+    roi_pil = Image.fromarray(preprocessed_roi)
+    result = pytesseract.image_to_string(roi_pil, config=config).strip()
+    return result
 
 
 def preprocess_image(image):
