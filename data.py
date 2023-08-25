@@ -1,6 +1,7 @@
 import os
 import json
 import py7zr
+import shutil
 
 
 class Data:
@@ -21,13 +22,16 @@ class Data:
         else:
             self.raw_data = Data.load_json(path)
 
-    def unzip(self, to: str) -> None:
+    def unzip(self, to: str) -> str:
         if not os.path.exists(to):
             print(f"Error: invalid path at {to}.")
             raise Exception
         # extract all .7z files to path
         try:
-            with py7zr.SevenZipFile(self.path, mode='r') as archive:
+            temp_zip_path = f"{to}.7z"
+            # old data path -> new folder
+            shutil.copy(self.path, temp_zip_path)
+            with py7zr.SevenZipFile(temp_zip_path, mode='r') as archive:
                 archive.extractall(to)
             new_path = ""
             for root, _, files in os.walk(to):
@@ -36,15 +40,16 @@ class Data:
                         new_path = os.path.join(root, file)
             if new_path == "":
                 print(
-                    f"Error: unzipped .json path not found while unzipping {to}.")
-            self.path = os.path.abspath(new_path)
+                    f"Error: unzipped .json path not found while unzipping to: {to}.")
+            os.remove(temp_zip_path)  # remove temp zip file
+            return new_path  # return path of unzipped data
         except:
             print(f"Error extracting .7z files from {self.path} to {to}.")
             raise Exception
-        self.raw_data = Data.load_json(self.path)
+        self.raw_data = self.load_json(self.path)
 
-    @staticmethod
-    def load_json(path: str):
+    @classmethod
+    def load_json(cls, path: str):
         if not os.path.exists(path):
             print(f"Error: invalid path at {path}.")
             raise Exception

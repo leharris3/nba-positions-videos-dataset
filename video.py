@@ -1,5 +1,6 @@
 import os
 import subprocess
+import cv2
 
 
 class Video:
@@ -17,6 +18,7 @@ class Video:
             print(f"Error creating video with path {path}.")
             raise Exception
 
+    # TODO: change preset -> slow for better compression
     def normalize(self) -> str:
         """Normalize a video given a path and save."""
 
@@ -24,6 +26,7 @@ class Video:
             directory = os.path.dirname(self.path)
             file_name = os.path.splitext(os.path.basename(self.path))[0]
             temp_path = os.path.join(directory, f"{file_name}_converted.mp4")
+            assert not os.path.exists(temp_path)
             command = [
                 "ffmpeg",
                 "-i", self.path,
@@ -42,3 +45,16 @@ class Video:
         except:
             print(f"Failed to normalize video at {self.path}.")
             raise Exception
+
+    def is_normalized(self):
+        try:
+            cap = cv2.VideoCapture(self.path)
+            if not cap.isOpened():
+                return False
+            frame_width = int(cap.get(3))
+            frame_height = int(cap.get(4))
+            fps = int(cap.get(5))
+            if frame_width == 1280 and frame_height == 720 and fps == 25:
+                return True
+        except:
+            return False
