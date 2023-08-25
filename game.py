@@ -1,12 +1,3 @@
-# Classes
-# Game: Data + Video for a Game
-# Data: (One Data File for Game)
-# Video: One Video File for a Game
-
-# Utilites
-# temporal_alignment
-# spatial alignment
-
 import os
 import shutil
 import json
@@ -19,8 +10,6 @@ from video import Video
 from data import Data
 from timestamps import Timestamps
 from utilities.files import File
-
-EXAMPLE_PATH = "/content/drive/MyDrive/Research/sportvu-plus-videos/statvu-plus-plus/01.14.2016.LAL.at.GSW.TNT/01.14.2016.LAL.at.GSW.TNT.mp4"
 
 
 class Game:
