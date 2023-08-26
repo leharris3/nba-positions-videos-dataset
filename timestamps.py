@@ -3,7 +3,7 @@ import os
 from video import Video
 from data import Data
 
-from utilities.timestamp_extraction import extract_timestamps_plus_trim
+from utilities.timestamp_extraction import extract_timestamps
 from utilities.timestamp_post_processing import postprocess_timestamps
 from utilities.timestamp_visualization import viz_timestamp_mapping
 from utilities.files import File
@@ -45,7 +45,7 @@ class Timestamps:
 
         assert self.path != None and not os.path.exists(
             self.path), f"Error: timestamp obj path is none or timestamps already exist at {self.path}."
-        timestamps = json.dumps(extract_timestamps_plus_trim(
+        timestamps = json.dumps(extract_timestamps(
             self.video.path, self.video.network))
         assert os.path.exists(
             self.video.path), f"Error: video no longer exists at path {self.video.path}!"
