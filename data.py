@@ -21,6 +21,21 @@ class Data:
         self.is_zipped = True if path[-3:] == ".7z" else False
         if not self.is_zipped:
             self.raw_data = self.load_json(path)
+    
+
+    def get_moments(self):
+        """Return all moments from a SportVU data file. """
+
+        assert self.raw_data, f"Error: data file at {self.path} is None."
+        return [moment for event in self.raw_data["events"] for moment in event["moments"]]
+
+    def get_frames_moments_mapped(self):
+        """Returns moment at each frame in a video."""
+
+        moments = [moment for moment in self.get_moments() if len(
+            moment) > 6 and moment[6] != -1]
+        assert moments, f"Error: no timestamps information for data at {self.path}."
+        return {str(moment[6]): moment for moment in moments}
 
     def get_data(self):
         """Data getter."""
@@ -57,16 +72,4 @@ class Data:
             raise Exception(
                 f"Error: could not read in .json data from {path}.")
 
-    def get_moments(self):
-        """Return all moments from a SportVU data file. """
-
-        assert self.raw_data, f"Error: data file at {self.path} is None."
-        return [moment for event in self.raw_data["events"] for moment in event["moments"]]
-
-    def get_frames_moments_mapped(self):
-        """Returns moment at each frame in a video."""
-
-        moments = [moment for moment in self.get_moments() if len(
-            moment) > 6 and moment[6] != -1]
-        assert moments, f"Error: no timestamps information for data at {self.path}."
-        return {str(moment[6]): moment for moment in moments}
+ 

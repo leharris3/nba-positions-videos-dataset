@@ -1,8 +1,5 @@
 import os
 import shutil
-import json
-from sqlite3 import Time
-import time
 from utilities.timestamp_visualization import viz_timestamp_mapping
 from utilities.timestamp_mapping import map_timestamps_to_statvu
 
@@ -22,10 +19,15 @@ class Game:
         self.network = video.network
 
     def get_folder_path(self) -> str:
-        return f"videos-plus-data/{self.video.title}.{self.video.network}"
+        folder_path = f"videos-plus-data/{self.video.title}.{self.video.network}"
+        assert os.path.exists(
+            folder_path), f"Error: folder path: {folder_path} DNE for Game object."
+        return folder_path
 
     @classmethod
     def __init_with_title__(cls, title: str, network: str) -> object:
+        """Init a game object with data from the statvu-raw-data folder."""
+
         full_title = f"{title}.{network}"
         path_to_data = f"statvu-raw-data/{title}.7z"
         path_to_video = f"unprocessed-videos/{full_title}.mp4"
