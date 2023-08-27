@@ -99,8 +99,9 @@ class Game:
         timestamps_path = timestamps.extract_timestamps()
         trimmed_timestamps_path = self.video.trim_video_from_timestamps(
             timestamps_path)
-        assert False, "Break Point"
 
+        assert False, "Break"
+        File.replace_path(timestamps.get_path(), trimmed_timestamps_path)
         map_timestamps_to_statvu(timestamps, self.data)
 
     def spatial_alignment(self) -> None:

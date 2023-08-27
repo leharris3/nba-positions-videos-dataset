@@ -6,9 +6,10 @@ class File:
     """Some file related helper methods."""
 
     @classmethod
-    def replace_path(cls, old_path: str, new_path: str) -> None:
+    def replace_path(cls, replace_file_at_path: str, with_file_at_path: str) -> None:
         """Replace the file at old_path with file at new path. Rename new_path to old_path."""
 
+        old_path, new_path = replace_file_at_path, with_file_at_path
         try:
             os.remove(old_path)
             os.rename(new_path, old_path)
@@ -35,6 +36,7 @@ class File:
         try:
             out_file = open(to, "w")
             json.dump(data, out_file, indent=4)
+            assert os.path.exists(to)
         except:
             raise Exception(
                 f"Error: could not save modified data file to: {to}.")
