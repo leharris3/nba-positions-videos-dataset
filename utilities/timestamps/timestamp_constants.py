@@ -1,10 +1,11 @@
 PATH_TO_TESSERACT = r"/usr/local/bin/pytesseract"
 PRINT_FRAME_OFFSET = 1000
-LARGE_STEP = 1000
-MOD_STEP = 25
+LARGE_STEP = 25
+MOD_STEP = 5
 BREAK_POINT = -1
 QUARTER_CONFIG = r'--oem 1 --psm 10 -c tessedit_char_whitelist=1234 load_system_dawg=0 load_freq_dawg=0 load_punc_dawg=0'
 CLOCK_CONFIG = r'--oem 1 --psm 3 -c tessedit_char_whitelist=0123456789.: -c load_system_dawg=0 load_freq_dawg=0 load_punc_dawg=0'
+TRIM_VIDEO_BITRATE = 1000000
 
 ROIS = {
     "TNT_QUARTER": {"x_start": 866, "width": 14, "y_start": 1168-560, "height": 24},

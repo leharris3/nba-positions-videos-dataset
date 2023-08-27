@@ -21,7 +21,6 @@ class Data:
         self.is_zipped = True if path[-3:] == ".7z" else False
         if not self.is_zipped:
             self.raw_data = self.load_json(path)
-    
 
     def get_moments(self):
         """Return all moments from a SportVU data file. """
@@ -49,12 +48,17 @@ class Data:
         if not os.path.exists(to):
             raise Exception(f"Error: invalid path at {to}.")
         try:
-            temp_zip_path = f"{to}.7z"
+            temp_zip_path = f"{to}/zip.7z"
             shutil.copy(self.path, temp_zip_path)
             with py7zr.SevenZipFile(temp_zip_path, 'r') as archive:
                 archive.extractall(to)
-            new_path = next((os.path.join(r, f) for r, _, fs in os.walk(to)
-                            for f in fs if f.endswith(".json")), "")
+
+            new_path = ""
+            files = os.listdir(to)
+            for file in files:
+                if file.endswith(".json"):
+                    new_path = os.path.join(to, file)
+                    break
             os.remove(temp_zip_path)
         except:
             raise Exception(
@@ -71,5 +75,3 @@ class Data:
         except:
             raise Exception(
                 f"Error: could not read in .json data from {path}.")
-
- 

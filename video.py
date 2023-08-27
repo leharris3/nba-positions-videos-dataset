@@ -1,8 +1,11 @@
+import json
 import os
 import subprocess
 import cv2
 
-from timestamps import Timestamps
+from utilities.files import File
+from utilities.timestamps.timestamp_constants import *
+from utilities.progress import print_progress
 
 
 class Video:
@@ -62,7 +65,7 @@ class Video:
         fps = int(cap.get(5))
         return frame_width == 1280 and frame_height == 720 and fps == 25
 
-    def trim_video_from_timestamps(self, timestamps: Timestamps) -> str:
+    def trim_video_from_timestamps(self, timestamps_path) -> str:
         """Return path to a trimmed video. Iterate through timestamps and cut out 
         frames which do not have a vlid timestamp value"""
 
@@ -75,11 +78,31 @@ class Video:
         ))
 
         output_codec = "mp4v"
-        output_path = f"{self.get_path().strip('.mp4')}_trim.mp4"
+        trimmed_video_path = f"{self.get_path().strip('.mp4')}_trim.mp4"
         video_writer = cv2.VideoWriter(
-            output_path, cv2.VideoWriter_fourcc(*output_codec), output_fps, (output_width, output_height))
+            trimmed_video_path, cv2.VideoWriter_fourcc(*output_codec), output_fps, (output_width, output_height))
+        video_writer.set(cv2.CAP_PROP_BITRATE, TRIM_VIDEO_BITRATE)
 
-        # video_writer.write(frame)
-        # video_writer.release()
-        # TODO: finish function
-        return output_path
+        assert os.path.exists(
+            timestamps_path), f"Error: bad path to timestamps {timestamps_path}."
+        timestamps = File.load_json(timestamps_path)
+
+        total_frames = len(timestamps.keys())
+        new_frame_index = 0
+        new_timestamps = {}
+        for old_frame_index, entry in enumerate(timestamps):
+            capture.set(cv2.CAP_PROP_POS_FRAMES, old_frame_index)
+            res, frame = capture.read()
+            if not res:
+                raise Exception(
+                    f"Error: could not read frame in from video at {self.get_path()}.")
+            video_writer.write(frame)
+            new_timestamps[new_frame_index] = entry
+            new_frame_index += 1
+            print_progress(new_frame_index / total_frames)
+
+        video_writer.release()
+        capture.release()
+        new_timestamps_path = f"{self.get_path().strip('.mp4')}_trimmed.json"
+        File.save_json(new_timestamps, new_timestamps_path)
+        return trimmed_video_path

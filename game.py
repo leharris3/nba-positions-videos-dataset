@@ -1,7 +1,7 @@
 import os
 import shutil
-from utilities.timestamp_visualization import viz_timestamp_mapping
-from utilities.timestamp_mapping import map_timestamps_to_statvu
+from utilities.timestamps.timestamp_visualization import viz_timestamp_mapping
+from utilities.timestamps.timestamp_mapping import map_timestamps_to_statvu
 
 from video import Video
 from data import Data
@@ -20,8 +20,6 @@ class Game:
 
     def get_folder_path(self) -> str:
         folder_path = f"videos-plus-data/{self.video.title}.{self.video.network}"
-        assert os.path.exists(
-            folder_path), f"Error: folder path: {folder_path} DNE for Game object."
         return folder_path
 
     @classmethod
@@ -60,7 +58,7 @@ class Game:
         if not os.path.exists(new_data_path):
             if self.data.is_zipped:
                 temp_data_path = self.data.unzip(to=new_folder_path)
-                assert temp_data_path is str
+                assert isinstance(temp_data_path, str)
                 os.rename(temp_data_path, new_data_path)
             else:
                 shutil.copy(self.data.path, new_data_path)
@@ -78,28 +76,28 @@ class Game:
         else:
             print(
                 f"Video already exists at {new_video_path}. Will normalize if necessary.")
-            self.video.path = new_video_path
+        self.video.path = new_video_path
         assert self.video.path == new_video_path
 
     def normalize_video(self) -> None:
         """Normalize a video to dim 1280x720 w/ 25 FPS."""
 
         if not self.video.is_normalized():
-            normalized_video_path = self.video.normalize(preset="ultrafast")
+            normalized_video_path = self.video.normalize(preset="medium")
             File.replace_path(
                 self.video.path, os.path.abspath(normalized_video_path))
-            assert os.path.exists(normalized_video_path)
+            assert os.path.exists(self.video.path)
 
     def temporal_alignment(self) -> None:
         """Extract video timestamps and add to statvu data."""
 
-        timestamps = Timestamps(self.video, self.data)
-        timestamps.path = os.path.abspath(
-            f"videos-plus-data/{self.title}.{self.network}/timestamps.json")
-        assert not os.path.exists(
-            timestamps.path), "Error: extracted timestamps already exist. Please remove."
+        timestamps = Timestamps(self.video, self.data, os.path.abspath(
+            f"videos-plus-data/{self.title}.{self.network}/timestamps.json"))
+        timestamps_path = timestamps.extract_timestamps()
+        trimmed_timestamps_path = self.video.trim_video_from_timestamps(
+            timestamps_path)
+        assert False, "Break Point"
 
-        timestamps.extract_timestamps()
         map_timestamps_to_statvu(timestamps, self.data)
 
     def spatial_alignment(self) -> None:

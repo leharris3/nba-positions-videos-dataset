@@ -3,9 +3,9 @@ import os
 from video import Video
 from data import Data
 
-from utilities.timestamp_extraction import extract_timestamps
-from utilities.timestamp_post_processing import postprocess_timestamps
-from utilities.timestamp_visualization import viz_timestamp_mapping
+from utilities.timestamps.timestamp_extraction import extract_timestamps
+from utilities.timestamps.timestamp_post_processing import postprocess_timestamps
+from utilities.timestamps.timestamp_visualization import viz_timestamp_mapping
 from utilities.files import File
 
 
@@ -13,9 +13,6 @@ class Timestamps:
     """Represents an instance of the extracted timestamps from a game."""
 
     def __init__(self, video: Video, data: Data, path=None) -> None:
-        if path:
-            assert os.path.exists(
-                path), f"Error: bad path to timestamps at: {path}."
         self.path = path
         self.video = video
         self.data = data
@@ -43,7 +40,7 @@ class Timestamps:
     def extract_timestamps(self):
         """Extract timestamps from a video. Create a file called timestamps.json in game folder."""
 
-        assert self.path != None and not os.path.exists(
+        assert self.path and not os.path.exists(
             self.path), f"Error: timestamp obj path is none or timestamps already exist at {self.path}."
         timestamps = json.dumps(extract_timestamps(
             self.video.path, self.video.network))
@@ -64,5 +61,6 @@ class Timestamps:
         with open(post_processed_timestamps_path, 'w') as file:
             json.dump(post_processed_timestamps, file, indent=4)
 
+        # Replace original timestamps with post-processed results
         File.replace_path(os.path.abspath(self.path),
                           os.path.abspath(path=post_processed_timestamps_path))

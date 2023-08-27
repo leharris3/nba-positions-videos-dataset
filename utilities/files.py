@@ -18,6 +18,8 @@ class File:
 
     @classmethod
     def load_json(cls, path: str):
+        """Load a .json file from a path."""
+
         assert os.path.exists(path), f"Error: invalid path at {path}."
         try:
             with open(path) as file:
@@ -28,9 +30,11 @@ class File:
 
     @classmethod
     def save_json(cls, data, to: str):
+        """Save a .json file to a path from raw data."""
+
         try:
-            with open(data, 'w') as f:
-                json.dump(to, f)
+            out_file = open(to, "w")
+            json.dump(data, out_file, indent=4)
         except:
-            print(f"Error: could not save modified data file to: {to}.")
-            raise Exception
+            raise Exception(
+                f"Error: could not save modified data file to: {to}.")

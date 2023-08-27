@@ -6,8 +6,7 @@ import numpy as np
 from PIL import Image
 
 from utilities.timestamp_constants import *
-
-# TODO: Rigorously test
+from utilities.progress import print_progress
 
 
 def extract_timestamps(video_path: str, network: str) -> dict:
@@ -28,12 +27,11 @@ def extract_timestamps(video_path: str, network: str) -> dict:
     capture = cv2.VideoCapture(video_path)
     total_frames = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))
     quarter, time_seconds = None, None
-    new_frame_index = 0
     first_timestamp_spotted = False
     step = LARGE_STEP
 
     for frame_index in range(total_frames):
-        if new_frame_index == BREAK_POINT:
+        if frame_index == BREAK_POINT:
             break
         ret, frame = capture.read()
         if not ret:
@@ -48,22 +46,22 @@ def extract_timestamps(video_path: str, network: str) -> dict:
                 f"Error: invalid clock or quarter ROI provided for video at {video_path}.")
 
         if frame_index % step == 0:
-            # Process ROIs with Tesseract
             q_result = preprocess_and_ocr(q_roi, QUARTER_CONFIG)
             clk_result = preprocess_and_ocr(clk_roi, CLOCK_CONFIG)
             time_seconds = convert_time_to_seconds(clk_result)
             quarter = int(q_result[0]) if q_result else None
+
             if quarter and time_seconds:
-                timestamps[new_frame_index] = [quarter, time_seconds]
+                timestamps[frame_index] = [quarter, time_seconds]
                 if not first_timestamp_spotted:
                     first_timestamp_spotted = True
                     step = MOD_STEP
-                new_frame_index += 1
+                print("Quarter: ", quarter, "Time: ", time_seconds)
         else:
-            # Use last valid timestamp value
-            timestamps[new_frame_index] = [
-                quarter, time_seconds]
-            new_frame_index += 1
+            # Use last valid timestamp
+            if quarter and time_seconds:
+                timestamps[frame_index] = [
+                    quarter, time_seconds]
 
         if frame_index % PRINT_FRAME_OFFSET == 0:
             print_progress(progress=(frame_index + 1) / total_frames)
@@ -112,20 +110,16 @@ def preprocess_image(image):
 
 
 def convert_time_to_seconds(time_str):
-    if ':' in time_str:
-        time_parts = time_str.split(':')
-        minutes = int(time_parts[0])
-        seconds = float(time_parts[1])
-    elif '.' in time_str:
-        seconds = float(time_str)
-        minutes = 0
-    else:
-        raise ValueError("Invalid time format")
+    try:
+        if ':' in time_str:
+            time_parts = time_str.split(':')
+            minutes = int(time_parts[0])
+            seconds = float(time_parts[1])
+        elif '.' in time_str:
+            seconds = float(time_str)
+            minutes = 0
+        else:
+            return None
+    except:
+        return None
     return minutes * 60 + seconds
-
-
-def print_progress(progress):
-    progress_bar = "[" + "#" * \
-        int(progress * 20) + " " * (20 - int(progress * 20)) + "]"
-    sys.stdout.write("\r{} {:.2f}%".format(progress_bar, progress * 100))
-    sys.stdout.flush()
