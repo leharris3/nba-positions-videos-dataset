@@ -42,6 +42,7 @@ class Game:
     def create_game_folder(self) -> None:
         """Create a new folder for modified statvu data and video."""
 
+        print(f"Creating game folder at {self.get_folder_path()}.")
         new_folder_path = self.get_folder_path()
         if not os.path.exists(new_folder_path):
             try:
@@ -82,6 +83,7 @@ class Game:
     def normalize_video(self) -> None:
         """Normalize a video to dim 1280x720 w/ 25 FPS."""
 
+        print(f"Normalizing video at {self.video.path}.")
         if not self.video.is_normalized():
             normalized_video_path = self.video.normalize(preset="medium")
             File.replace_path(
@@ -91,6 +93,7 @@ class Game:
     def temporal_alignment(self) -> None:
         """Extract video timestamps and add to statvu data."""
 
+        print(f"Add temporal information to game at {self.get_folder_path()}.")
         timestamps = Timestamps(self.video, self.data, os.path.abspath(
             f"videos-plus-data/{self.title}.{self.network}/timestamps.json"))
         timestamps_path = timestamps.extract_timestamps()

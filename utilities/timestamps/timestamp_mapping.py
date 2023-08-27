@@ -1,20 +1,13 @@
 import sys
 import json
 from typing import Dict, Any, List, Union
+
 from data import Data
 from timestamps import Timestamps
 from utilities.files import File
+from utilities.progress import print_progress
 
 NO_MATCH = -1
-
-
-def print_progress(progress: float) -> None:
-    """Print a progress bar."""
-
-    progress_bar = "[" + "#" * \
-        int(progress * 20) + " " * (20 - int(progress * 20)) + "]"
-    sys.stdout.write("\r{} {:.2f}%".format(progress_bar, progress * 100))
-    sys.stdout.flush()
 
 
 def map_timestamps_to_statvu(timestamps: Timestamps, data: Data) -> str:

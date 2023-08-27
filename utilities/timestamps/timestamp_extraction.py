@@ -5,7 +5,7 @@ import os
 import numpy as np
 from PIL import Image
 
-from utilities.timestamp_constants import *
+from utilities.timestamps.timestamp_constants import *
 from utilities.progress import print_progress
 
 
@@ -82,8 +82,8 @@ def preprocess_and_ocr(roi, config):
 def preprocess_image(image):
     """Preprocess a ROI for OCR."""
 
-    # 95 is the magic number, font height should be 30-33 px for best results.
     def change_dpi(image, target_dpi=95):
+        """95 is the magic number, font height should be 30-33 px for best results."""
         try:
             image = Image.fromarray(image)
             current_dpi = image.info.get("dpi", (72, 72))
@@ -94,8 +94,7 @@ def preprocess_image(image):
             resized_image.info["dpi"] = (target_dpi, target_dpi)
             return np.array(resized_image)
         except Exception as e:
-            print("An error while preprocessing a frame:", str(e))
-            raise Exception
+            raise Exception("An error while preprocessing a frame:", str(e))
 
     scaled_image = change_dpi(image)
     thresh = cv2.threshold(scaled_image, 135, 255, cv2.THRESH_BINARY)[1]
