@@ -29,8 +29,8 @@ def main():
     parser = argparse.ArgumentParser(description="Script Runner")
     parser.add_argument(
         "--run",
-        choices=["ALL", "VIDEOS", "DATA", "DEP", "help"],
-        default="ALL",
+        choices=["all", "vids", "data", "deps", "help"],
+        default="all",
         help="Specify the type of script(s) to run."
     )
 
