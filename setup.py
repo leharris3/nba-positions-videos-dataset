@@ -1,5 +1,6 @@
 import argparse
 import subprocess
+import sys
 
 
 def run_script(script):
@@ -23,7 +24,7 @@ def main():
         help="Specify the type of script(s) to run."
     )
 
-    args = parser.parse_args()
+    args, _ = parser.parse_known_args()
 
     if args.run == "ALL":
         for script in scripts_to_execute:
