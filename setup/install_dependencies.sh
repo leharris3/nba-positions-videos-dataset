@@ -10,6 +10,6 @@ pip install object-detection
 pip install py7zr
 pip install Pillow
 pip install gdown
-apt-get update
-apt-get install tesseract-ocr
-apt-get install libtesseract-dev
+sudo apt-get update
+sudo apt-get install tesseract-ocr
+sudo apt-get install libtesseract-dev

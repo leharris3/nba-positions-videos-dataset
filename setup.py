@@ -11,10 +11,20 @@ def run_script(script):
         print(f"Error executing {script}.")
 
 
+def add_execution_permissions(scripts):
+    for script in scripts:
+        try:
+            subprocess.run(["chmod", "+x", script], check=True)
+            print(f"File {script} is now executable.")
+        except subprocess.CalledProcessError:
+            print(f"Error changing permissions for {script}.")
+
+
 def main():
-    scripts_to_execute = [
+    scripts = [
         "setup/install_dependencies.sh", "setup/download_statvu_dataset.sh", "setup/download_videos.sh"
     ]
+    add_execution_permissions(scripts)
 
     parser = argparse.ArgumentParser(description="Script Runner")
     parser.add_argument(
@@ -25,15 +35,14 @@ def main():
     )
 
     args, _ = parser.parse_known_args()
-
-    if args.run == "ALL":
-        for script in scripts_to_execute:
+    if args.run == "all":
+        for script in scripts:
             run_script(script)
-    elif args.run == "VIDEOS":
+    elif args.run == "vids":
         run_script("setup/download_videos.sh")
-    elif args.run == "DATA":
+    elif args.run == "data":
         run_script("setup/download_statvu_dataset.sh")
-    elif args.run == "DEP":
+    elif args.run == "deps":
         run_script("setup/install_dependencies.sh")
     elif args.run == "help":
         print(parser.format_help())
