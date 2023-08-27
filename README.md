@@ -6,4 +6,4 @@
 - **Downloading Data and Dependencies**
     1. Install all dependencies by running the command ```python setup.py --run deps``` in the root project directory.
     2. Download the statvu positional data with the command ```python setup.py --run data```.
-    3. 3. Download all videos files (WARNING: LARGE FILE SIZES) with the command ```python setup.py --run vids```.
+    3.  Download all video files (WARNING: LARGE FILE SIZES) with the command ```python setup.py --run vids```.
