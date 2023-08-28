@@ -65,9 +65,11 @@ class Video:
         fps = int(cap.get(5))
         return frame_width == 1280 and frame_height == 720 and fps == 25
 
-    def trim_video_from_timestamps(self, timestamps_path) -> str:
+    def trim_video_from_timestamps(self, timestamps_path) -> tuple[str, str]:
         """Return path to a trimmed video. Iterate through timestamps and cut out 
         frames which do not have a vlid timestamp value"""
+
+        print("Trimming frames without temporal information.")
 
         capture = cv2.VideoCapture(self.get_path())
         total_frames, output_width, output_height, output_fps = map(int, (
@@ -90,19 +92,19 @@ class Video:
         total_frames = len(timestamps.keys())
         new_frame_index = 0
         new_timestamps = {}
-        for old_frame_index, entry in enumerate(timestamps):
-            capture.set(cv2.CAP_PROP_POS_FRAMES, old_frame_index)
+        for old_frame_index in timestamps:
+            capture.set(cv2.CAP_PROP_POS_FRAMES, int(old_frame_index))
             res, frame = capture.read()
             if not res:
                 raise Exception(
                     f"Error: could not read frame in from video at {self.get_path()}.")
             video_writer.write(frame)
-            new_timestamps[new_frame_index] = entry
+            new_timestamps[new_frame_index] = timestamps[old_frame_index]
             new_frame_index += 1
             print_progress(new_frame_index / total_frames)
 
         video_writer.release()
         capture.release()
-        new_timestamps_path = f"{self.get_path().strip('.mp4')}_trimmed.json"
-        File.save_json(new_timestamps, new_timestamps_path)
-        return trimmed_video_path
+        trimmed_timestamps_path = f"{self.get_path().strip('.mp4')}_trimmed.json"
+        File.save_json(new_timestamps, trimmed_timestamps_path)
+        return trimmed_video_path, trimmed_timestamps_path

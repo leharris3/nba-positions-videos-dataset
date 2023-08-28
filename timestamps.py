@@ -13,7 +13,10 @@ class Timestamps:
     """Represents an instance of the extracted timestamps from a game."""
 
     def __init__(self, video: Video, data: Data, path=None) -> None:
-        self.path = path
+        if path:
+            self.path = os.path.abspath(path)
+        else:
+            self.path = path
         self.video = video
         self.data = data
 
@@ -64,3 +67,4 @@ class Timestamps:
         # Replace original timestamps with post-processed results
         File.replace_path(os.path.abspath(self.path),
                           os.path.abspath(path=post_processed_timestamps_path))
+        return self.get_path()

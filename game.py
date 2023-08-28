@@ -93,16 +93,23 @@ class Game:
     def temporal_alignment(self) -> None:
         """Extract video timestamps and add to statvu data."""
 
-        print(f"Add temporal information to game at {self.get_folder_path()}.")
-        timestamps = Timestamps(self.video, self.data, os.path.abspath(
-            f"videos-plus-data/{self.title}.{self.network}/timestamps.json"))
-        timestamps_path = timestamps.extract_timestamps()
-        trimmed_timestamps_path = self.video.trim_video_from_timestamps(
+        print(
+            f"Adding temporal information to game at {self.get_folder_path()}.")
+        timestamps_path = f"videos-plus-data/{self.title}.{self.network}/timestamps.json"
+        timestamps = Timestamps(self.video, self.data,
+                                os.path.abspath(timestamps_path))
+
+        if not os.path.exists(timestamps_path):
+            timestamps.extract_timestamps()
+        else:
+            print(f"Timestamps already exist at path: {timestamps_path}.")
+
+        trimmed_video_path, trimmed_timestamps_path = self.video.trim_video_from_timestamps(
             timestamps_path)
 
-        assert False, "Break"
         File.replace_path(timestamps.get_path(), trimmed_timestamps_path)
-        map_timestamps_to_statvu(timestamps, self.data)
+        mapped_timestamps_path = map_timestamps_to_statvu(
+            timestamps, self.data)
 
     def spatial_alignment(self) -> None:
         pass

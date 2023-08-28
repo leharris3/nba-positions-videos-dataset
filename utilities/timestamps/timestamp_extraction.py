@@ -56,7 +56,7 @@ def extract_timestamps(video_path: str, network: str) -> dict:
                 if not first_timestamp_spotted:
                     first_timestamp_spotted = True
                     step = MOD_STEP
-                print("Quarter: ", quarter, "Time: ", time_seconds)
+                # print("Quarter: ", quarter, "Time: ", time_seconds)
         else:
             # Use last valid timestamp
             if quarter and time_seconds:
