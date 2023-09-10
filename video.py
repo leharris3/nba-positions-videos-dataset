@@ -1,7 +1,3 @@
-# A Video Should Encapsulate:
-# living path to video file
-#
-
 import cv2
 import os
 
