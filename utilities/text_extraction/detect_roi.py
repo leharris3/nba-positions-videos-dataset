@@ -5,12 +5,12 @@ from tqdm import tqdm
 from video import Video
 from utilities.text_extraction.entities.roi import ROI
 
-MODEL_PATH = "models\yolo\weights\clock_rois_nano.pt"
+MODEL_PATH = r"models/yolo/weights/clock_rois_nano.pt"
 
 
 # TODO: currently just saves all prediction vizs.
 
-def detect_roi(video: Video) -> ROI:
+def detect_roi(video: Video):
     """Finds clock roi from a given video."""
 
     # Iterate through video frames
@@ -32,3 +32,5 @@ def detect_roi(video: Video) -> ROI:
         if not ret:
             break
         results = model(frame, save=True)
+
+    return None
