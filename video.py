@@ -36,5 +36,5 @@ class Video:
         }
         return video_attributes
 
-    def move(to: str) -> None:
+    def move(self, to: str) -> None:
         pass
