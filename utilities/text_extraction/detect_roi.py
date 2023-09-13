@@ -7,6 +7,7 @@ from tqdm import tqdm
 
 from video import Video
 from utilities.text_extraction.entities.roi import ROI
+from utilities.text_extraction.timestamp_extraction import is_valid_roi
 
 MODEL_PATH = r"models/yolo/weights/clock_rois_nano.pt"
 
@@ -36,6 +37,7 @@ def predict_on_frame(frame, model: YOLO):
         if max(confidences) > .9:
             max_index = confidences.argmax()
             bb = bounding_boxes[max_index]
+            bb = [int(val) for val in bb]
             roi = ROI(bb[0], bb[1], bb[2], bb[3], max(confidences))
 
     return roi
@@ -56,10 +58,9 @@ def detect_roi(video: Video):
         ret, frame = cap.read()
         if not ret:
             break
-
         with suppress_stdout():
             roi = predict_on_frame(frame, model)
-        if roi:
+        if roi and is_valid_roi(frame, roi):
             return roi
 
     return None
