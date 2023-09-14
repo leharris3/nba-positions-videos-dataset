@@ -1,17 +1,19 @@
-from logging import config
 import re
 import cv2
 import os
 import pytesseract
+import easyocr
 from typing import List
 
 from video import Video
 from utilities.text_extraction.entities.roi import ROI
 from utilities.files import File
-from utilities.text_extraction.preprocessing import preprocess_image
 
 PATH_TO_TESSERACT = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 TESSERACT_CONFIG = "--psm 11 --oem 3"
+READER = easyocr.Reader(['en'])
+
+# TODO: Seperate implementations for pytesseract and easyocr
 
 
 class FrameTimestamp:
@@ -44,8 +46,10 @@ def extract_timestamps_from_video(video: Video):
 
     return {}
 
+# TODO: allow extraction from hard-coded time and quarter ROIs
 
-def extract_timestamps_from_image(image, print_results=None) -> FrameTimestamp:
+
+def extract_timestamps_from_image(image, quarter_roi=None or ROI, time_remaining_roi=None or ROI, preprocessing_func=None, print_results=None) -> FrameTimestamp:
     """
     Return a dict {quarter: int | None, time_remaining: float | None} from an image.
 
@@ -73,21 +77,23 @@ def extract_timestamps_from_image(image, print_results=None) -> FrameTimestamp:
 
     # Optional: append path to tesseract to sys.
     # pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
-
     time_remaining, quarter = None, None
-
-    image = preprocess_image(image, save=False)
-    extracted_text: str = pytesseract.image_to_string(
-        image, config=TESSERACT_CONFIG)
-    results: List[str] = re.split(r'[\s\n]+', extracted_text)
 
     # accepts strings like 11:30, 1:23, 10.2, 9.8
     time_remaining_regex = r'^(?:\d{1,2}:\d{2}|\d{1,2}\.\d)$'
     quarter_regex = r'^[1-4](st|nd|rd|th)$'
 
-    # Check if the input string matches either format
-    for result in results:
-        result = result.lower()  # convert to lowercase
+    if preprocessing_func:
+        image = preprocessing_func(image, save=False)
+    extracted_text = READER.readtext(
+        image, batch_size=16)
+
+    # TODO: handle cases Q, T, QT, N
+    if quarter_roi:
+        pass
+
+    for (_, bb, conf) in extracted_text:
+        result = bb.lower()  # convert to lowercase
         if type(print_results) is bool and print_results:
             print(result)
         if re.match(time_remaining_regex, result):
@@ -104,9 +110,14 @@ def extract_timestamps_from_image(image, print_results=None) -> FrameTimestamp:
 def is_valid_roi(frame, roi: ROI) -> bool:
     """Return True/False depending on if an ROI contains a valid game clock with legal values for quarter and time_remaining."""
 
-    cropped_frame = frame[roi.y1: roi.y2, roi.x1: roi.x2]
+    cropped_frame = crop_image_from_roi(frame, roi)
     timestamp: FrameTimestamp = extract_timestamps_from_image(cropped_frame)
     print(timestamp.time_remaining, timestamp.quarter)
     if timestamp.quarter and timestamp.quarter:
         return True
     return False
+
+
+def crop_image_from_roi(image, roi: ROI):
+    cropped_frame = image[roi.y1: roi.y2, roi.x1: roi.x2]
+    return cropped_frame
