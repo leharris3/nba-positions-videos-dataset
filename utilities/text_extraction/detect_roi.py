@@ -54,7 +54,7 @@ def detect_roi(video: Video):
     cap = cv2.VideoCapture(video_path)
     frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
 
-    for _ in tqdm(range(frame_count)):
+    for _ in range(frame_count):
         ret, frame = cap.read()
         if not ret:
             break

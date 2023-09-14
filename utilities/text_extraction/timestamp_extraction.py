@@ -5,6 +5,7 @@ import pytesseract
 from video import Video
 from utilities.text_extraction.entities.roi import ROI
 from utilities.files import File
+from utilities.text_extraction.preprocessing import preprocess_image
 
 PATH_TO_TESSERACT = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
@@ -45,6 +46,12 @@ def extract_timestamps_from_frame(frame) -> FrameTimestamp:
 
     # Optional: append path to tesseract to sys.
     pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
+
+    # TODO: TEMP
+    frame = preprocess_image(frame)
+    outpath = f"runs\detect\preprocessed_frames\pp.png"
+    cv2.imwrite(outpath, frame)
+
     results = pytesseract.image_to_string(frame)
     print(results)
     return FrameTimestamp()
