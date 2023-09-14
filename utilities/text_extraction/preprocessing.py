@@ -26,7 +26,7 @@ def preprocess_image(image):
     scaled_image = change_dpi(image)
     gray = cv2.cvtColor(scaled_image, cv2.COLOR_BGR2GRAY)
     thresh = cv2.threshold(gray, 135, 255, cv2.THRESH_BINARY)[1]
-    kernel = np.ones((3, 3), np.uint8)
+    kernel = np.ones((4, 4), np.uint8)
     result = cv2.dilate(thresh, kernel, iterations=1)
 
     result_c1 = copy.copy(result)
