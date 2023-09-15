@@ -52,9 +52,9 @@ def extract_timestamps_from_rois(image, quarter_roi: ROI, time_remaining_roi: RO
 
 
 def extract_timestamps_from_image(image,
-                                  extraction_method="tesseract" or str,
+                                  extraction_method: str = "tesseract",
                                   preprocessing_func=None,
-                                  print_results=None or bool
+                                  print_results: bool = None
                                   ) -> FrameTimestamp:
     """
     Return a dict {quarter: int | None, time_remaining: float | None} from a whole image.
