@@ -13,8 +13,6 @@ PATH_TO_TESSERACT = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 TESSERACT_CONFIG = "--psm 11 --oem 3"
 READER = easyocr.Reader(['en'])
 
-# TODO: Seperate implementations for pytesseract and easyocr
-
 
 class FrameTimestamp:
 
@@ -49,9 +47,17 @@ def extract_timestamps_from_video(video: Video):
 # TODO: allow extraction from hard-coded time and quarter ROIs
 
 
-def extract_timestamps_from_image(image, quarter_roi=None or ROI, time_remaining_roi=None or ROI, preprocessing_func=None, print_results=None) -> FrameTimestamp:
+def extract_timestamps_from_rois(image, quarter_roi: ROI, time_remaining_roi: ROI, print_results=None or bool):
+    pass
+
+
+def extract_timestamps_from_image(image,
+                                  extraction_method="tesseract" or str,
+                                  preprocessing_func=None,
+                                  print_results=None or bool
+                                  ) -> FrameTimestamp:
     """
-    Return a dict {quarter: int | None, time_remaining: float | None} from an image.
+    Return a dict {quarter: int | None, time_remaining: float | None} from a whole image.
 
         Note: Assumes that an image is cropped.
     """
@@ -76,7 +82,7 @@ def extract_timestamps_from_image(image, quarter_roi=None or ROI, time_remaining
         return result
 
     # Optional: append path to tesseract to sys.
-    # pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
+    pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
     time_remaining, quarter = None, None
 
     # accepts strings like 11:30, 1:23, 10.2, 9.8
@@ -85,15 +91,20 @@ def extract_timestamps_from_image(image, quarter_roi=None or ROI, time_remaining
 
     if preprocessing_func:
         image = preprocessing_func(image, save=False)
-    extracted_text = READER.readtext(
-        image, batch_size=16)
 
-    # TODO: handle cases Q, T, QT, N
-    if quarter_roi:
-        pass
+    extracted_text = []
+    if extraction_method == "easyocr":
+        extracted_text = extract_text_from_image_with_easyocr(
+            image, print_result=None)
+    elif extraction_method == "tesseract":
+        extracted_text = extract_text_from_image_with_tesseract(
+            image, print_results=None)
+    else:
+        raise Exception(
+            "Error: invalid extraction method. Please use either 'tesseract' or easyocr.")
 
-    for (_, bb, conf) in extracted_text:
-        result = bb.lower()  # convert to lowercase
+    for word in extracted_text:
+        result = word.lower()  # convert to lowercase
         if type(print_results) is bool and print_results:
             print(result)
         if re.match(time_remaining_regex, result):
@@ -107,11 +118,34 @@ def extract_timestamps_from_image(image, quarter_roi=None or ROI, time_remaining
     return FrameTimestamp(quarter, time_remaining)
 
 
+def extract_text_from_image_with_easyocr(image, print_result=None or bool) -> List[str]:
+
+    extracted_text = []
+    results = READER.readtext(
+        image, batch_size=16)
+    for (_, bb, _) in results:
+        extracted_text.append(bb)
+        if print_result:
+            print(bb)
+    return extracted_text
+
+
+def extract_text_from_image_with_tesseract(image, print_results=None or bool) -> List[str]:
+
+    extracted_text = []
+    results = pytesseract.image_to_string(image).split("\n")
+    for line in results:
+        for word in line.split(" "):
+            extracted_text.append(word)
+    return extracted_text
+
+
 def is_valid_roi(frame, roi: ROI) -> bool:
     """Return True/False depending on if an ROI contains a valid game clock with legal values for quarter and time_remaining."""
 
     cropped_frame = crop_image_from_roi(frame, roi)
-    timestamp: FrameTimestamp = extract_timestamps_from_image(cropped_frame)
+    timestamp: FrameTimestamp = extract_timestamps_from_image(
+        cropped_frame)
     print(timestamp.time_remaining, timestamp.quarter)
     if timestamp.quarter and timestamp.quarter:
         return True
