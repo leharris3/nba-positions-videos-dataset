@@ -9,8 +9,11 @@ from video import Video
 from utilities.text_extraction.entities.roi import ROI
 from utilities.files import File
 
+# -c tessedit_char_whitelist=1234
+# -c tessedit_char_whitelist=0123456789.:
 PATH_TO_TESSERACT = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-TESSERACT_CONFIG = "--psm 11 --oem 3"
+QUARTER_CONFIG = r'--oem 3 --psm 7 -c tessedit_char_whitelist=1234 '
+TIME_REMAINING_CONFIG = r'--oem 3 --psm 7 -c tessedit_char_whitelist=0123456789.: '
 READER = easyocr.Reader(['en'])
 
 
@@ -51,10 +54,37 @@ def extract_timestamps_from_rois(image, quarter_roi: ROI, time_remaining_roi: RO
     pass
 
 
+def extract_timestamps_from_images(quarter_image, time_remaining_image, preprocessing_func=None):
+
+    quarter = None
+    time_remaining = None
+
+    quarter_r = (extract_text_from_image_with_tesseract(
+        quarter_image, preprocess_func=preprocessing_func, config=QUARTER_CONFIG))
+    try:
+        for res in quarter_r:
+            if res != " ":
+                quarter = int(res[0])
+    except:
+        pass
+
+    time_remaining_r = (extract_text_from_image_with_tesseract(
+        time_remaining_image, preprocess_func=preprocessing_func, config=TIME_REMAINING_CONFIG))
+    try:
+        for res in time_remaining_r:
+            if res != " ":
+                time_remaining = convert_time_to_float(res)
+                break
+    except:
+        pass
+
+    return FrameTimestamp(quarter, time_remaining)
+
+
 def extract_timestamps_from_image(image,
                                   extraction_method: str = "tesseract",
                                   preprocessing_func=None,
-                                  print_results: bool = None
+                                  print_results=None
                                   ) -> FrameTimestamp:
     """
     Return a dict {quarter: int | None, time_remaining: float | None} from a whole image.
@@ -62,27 +92,7 @@ def extract_timestamps_from_image(image,
         Note: Assumes that an image is cropped.
     """
 
-    def convert_time_to_float(time: str) -> float:
-        """Convert a formated time str to a float value representing seconds remaining in a basektball game."""
-
-        result: float = 0.0
-        if ':' in time:
-            time_arr = time.split(':')
-            minutes = time_arr[0]
-            seconds = time_arr[1]
-            result = (int(minutes) * 60) + int(seconds)
-        elif '.' in time:
-            time_arr = time.split('.')
-            seconds = time_arr[0]
-            milliseconds = time_arr[1]
-            result = int(seconds) + float('.' + milliseconds)
-        else:
-            raise Exception(
-                f"Error: Invalid format provided for seconds remaining.")
-        return result
-
     # Optional: append path to tesseract to sys.
-    pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
     time_remaining, quarter = None, None
 
     # accepts strings like 11:30, 1:23, 10.2, 9.8
@@ -97,7 +107,7 @@ def extract_timestamps_from_image(image,
         extracted_text = extract_text_from_image_with_easyocr(
             image, print_result=None)
     elif extraction_method == "tesseract":
-        extracted_text = extract_text_from_image_with_tesseract(
+        extracted_text = extract_text_from_image_with_easyocr(
             image, print_results=None)
     else:
         raise Exception(
@@ -118,7 +128,7 @@ def extract_timestamps_from_image(image,
     return FrameTimestamp(quarter, time_remaining)
 
 
-def extract_text_from_image_with_easyocr(image, print_result=None or bool) -> List[str]:
+def extract_text_from_image_with_easyocr(image, print_result=None, config=None, preprocess_func=None) -> List[str]:
 
     extracted_text = []
     results = READER.readtext(
@@ -130,10 +140,14 @@ def extract_text_from_image_with_easyocr(image, print_result=None or bool) -> Li
     return extracted_text
 
 
-def extract_text_from_image_with_tesseract(image, print_results=None or bool) -> List[str]:
+def extract_text_from_image_with_tesseract(image, config="", print_results=None, preprocess_func=None) -> List[str]:
 
     extracted_text = []
-    results = pytesseract.image_to_string(image).split("\n")
+    pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
+
+    if preprocess_func:
+        image = preprocess_func(image)
+    results = pytesseract.image_to_string(image, config=config).split("\n")
     for line in results:
         for word in line.split(" "):
             extracted_text.append(word)
@@ -155,3 +169,23 @@ def is_valid_roi(frame, roi: ROI) -> bool:
 def crop_image_from_roi(image, roi: ROI):
     cropped_frame = image[roi.y1: roi.y2, roi.x1: roi.x2]
     return cropped_frame
+
+
+def convert_time_to_float(time: str) -> float:
+    """Convert a formated time str to a float value representing seconds remaining in a basektball game."""
+
+    result: float = 0.0
+    if ':' in time:
+        time_arr = time.split(':')
+        minutes = time_arr[0]
+        seconds = time_arr[1]
+        result = (int(minutes) * 60) + int(seconds)
+    elif '.' in time:
+        time_arr = time.split('.')
+        seconds = time_arr[0]
+        milliseconds = time_arr[1]
+        result = int(seconds) + float('.' + milliseconds)
+    else:
+        raise Exception(
+            f"Error: Invalid format provided for seconds remaining.")
+    return result
