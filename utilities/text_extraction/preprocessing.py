@@ -28,20 +28,28 @@ def preprocess_image_for_tesseract(image, save=None):
 
     gray = cv2.cvtColor(scaled_image, cv2.COLOR_BGR2GRAY)
     thresh = cv2.threshold(gray, 135, 255, cv2.THRESH_BINARY)[1]
-    kernel = np.ones((3, 3), np.uint8)
-    result = cv2.dilate(thresh, kernel, iterations=1)
+    # kernel = np.ones((1, 1), np.uint8)
+    # result = cv2.dilate(thresh, kernel, iterations=2)
+    # result = thresh
 
-    result_c1 = copy(result)
-    result_c2 = copy(result)
+    # result_c1 = copy(result)
+    # result_c2 = copy(result)
 
-    black_pixels = result_c1[np.where(result_c1 == 0)].size
-    white_pixels = result_c2[np.where(result_c2 == 255)].size
+    # black_pixels = result_c1[np.where(result_c1 == 0)].size
+    # white_pixels = result_c2[np.where(result_c2 == 255)].size
 
-    if black_pixels > white_pixels:
-        result = cv2.bitwise_not(result)
+    # if black_pixels > white_pixels:
+    #     result = cv2.bitwise_not(result)
 
-    if type(save) is bool and save:
-        out_path = f"{SAVE_PATH}/pp.png"
-        cv2.imwrite(out_path, result)
+    # if type(save) is bool and save:
+    #     out_path = f"{SAVE_PATH}/pp.png"
+    #     cv2.imwrite(out_path, result)
 
-    return result
+    return scaled_image
+
+
+def nparr_from_img_path(img_path):
+    """Return a numpy array from an img_path."""
+
+    image = Image.open(img_path)
+    return np.array(image)

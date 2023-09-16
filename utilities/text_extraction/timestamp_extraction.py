@@ -12,8 +12,8 @@ from utilities.files import File
 # -c tessedit_char_whitelist=1234
 # -c tessedit_char_whitelist=0123456789.:
 PATH_TO_TESSERACT = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-QUARTER_CONFIG = r'--oem 3 --psm 7 -c tessedit_char_whitelist=1234 '
-TIME_REMAINING_CONFIG = r'--oem 3 --psm 7 -c tessedit_char_whitelist=0123456789.: '
+QUARTER_CONFIG = '--oem 3 --psm 7 -c tessedit_char_whitelist=1234 sStTnNdDrRhH'
+TIME_REMAINING_CONFIG = '--oem 3 --psm 7 -c tessedit_char_whitelist=0123456789.:'
 READER = easyocr.Reader(['en'])
 
 
@@ -54,29 +54,47 @@ def extract_timestamps_from_rois(image, quarter_roi: ROI, time_remaining_roi: RO
     pass
 
 
-def extract_timestamps_from_images(quarter_image, time_remaining_image, preprocessing_func=None):
+def extract_timestamps_from_images(quarter_image, time_remaining_image, preprocessing_func=None, extraction_method="tesseract"):
 
     quarter = None
     time_remaining = None
 
-    quarter_r = (extract_text_from_image_with_tesseract(
-        quarter_image, preprocess_func=preprocessing_func, config=QUARTER_CONFIG))
-    try:
-        for res in quarter_r:
-            if res != " ":
-                quarter = int(res[0])
-    except:
-        pass
-
-    time_remaining_r = (extract_text_from_image_with_tesseract(
-        time_remaining_image, preprocess_func=preprocessing_func, config=TIME_REMAINING_CONFIG))
-    try:
-        for res in time_remaining_r:
-            if res != " ":
-                time_remaining = convert_time_to_float(res)
-                break
-    except:
-        pass
+    if extraction_method == "tesseract":
+        quarter_r = (extract_text_from_image_with_tesseract(
+            quarter_image, preprocess_func=preprocessing_func, config=QUARTER_CONFIG))
+        try:
+            for res in quarter_r:
+                if res != " ":
+                    quarter = int(res[0])
+        except:
+            pass
+        time_remaining_r = (extract_text_from_image_with_tesseract(
+            time_remaining_image, preprocess_func=preprocessing_func, config=TIME_REMAINING_CONFIG))
+        try:
+            for res in time_remaining_r:
+                if res != " ":
+                    time_remaining = convert_time_to_float(res)
+                    break
+        except:
+            pass
+    elif extraction_method == "easyocr":
+        quarter_r = (extract_text_from_image_with_easyocr(
+            quarter_image, preprocess_func=preprocessing_func))
+        try:
+            for res in quarter_r:
+                if res != " ":
+                    quarter = int(res[0])
+        except:
+            pass
+        time_remaining_r = (extract_text_from_image_with_easyocr(
+            time_remaining_image, preprocess_func=preprocessing_func))
+        try:
+            for res in time_remaining_r:
+                if res != " ":
+                    time_remaining = convert_time_to_float(res)
+                    break
+        except:
+            pass
 
     return FrameTimestamp(quarter, time_remaining)
 
@@ -147,7 +165,7 @@ def extract_text_from_image_with_tesseract(image, config="", print_results=None,
 
     if preprocess_func:
         image = preprocess_func(image)
-    results = pytesseract.image_to_string(image, config=config).split("\n")
+    results = pytesseract.image_to_string(image, config=config, ).split("\n")
     for line in results:
         for word in line.split(" "):
             extracted_text.append(word)
