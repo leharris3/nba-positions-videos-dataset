@@ -13,7 +13,7 @@ from utilities.files import File
 # -c tessedit_char_whitelist=0123456789.:
 PATH_TO_TESSERACT = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 QUARTER_CONFIG = '--oem 3 --psm 7 -c tessedit_char_whitelist=1234 sStTnNdDrRhH'
-TIME_REMAINING_CONFIG = '--oem 3 --psm 7 -c tessedit_char_whitelist=0123456789.:'
+TIME_REMAINING_CONFIG = '--oem 3 --psm 7 -c language_model_penalty_non_freq_dict_word=1 -c language_model_penalty_non_dict_word=1'
 READER = easyocr.Reader(['en'])
 
 
@@ -70,6 +70,7 @@ def extract_timestamps_from_images(quarter_image, time_remaining_image, preproce
             pass
         time_remaining_r = (extract_text_from_image_with_tesseract(
             time_remaining_image, preprocess_func=preprocessing_func, config=TIME_REMAINING_CONFIG))
+        print(time_remaining_r)
         try:
             for res in time_remaining_r:
                 if res != " ":
@@ -162,10 +163,11 @@ def extract_text_from_image_with_tesseract(image, config="", print_results=None,
 
     extracted_text = []
     pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
+    print(pytesseract.pytesseract.LANG_PATTERN)
 
     if preprocess_func:
         image = preprocess_func(image)
-    results = pytesseract.image_to_string(image, config=config, ).split("\n")
+    results = pytesseract.image_to_string(image, config=config).split("\n")
     for line in results:
         for word in line.split(" "):
             extracted_text.append(word)
