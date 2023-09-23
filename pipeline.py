@@ -5,10 +5,12 @@ from ultralytics import YOLO
 from PIL import Image
 import torch
 import json
+import os
 
 import pytesseract
 import easyocr
 from typing import List
+from viz import visualize_timestamps
 
 MODEL_PATH = r"models\yolo\weights\45_ep_lar_full.pt"
 MODEL = YOLO(MODEL_PATH)
@@ -21,7 +23,21 @@ QUARTER_CONFIG = '--oem 3 --psm 7 -c tessedit_char_whitelist=1234 sStTnNdDrRhH'
 TIME_REMAINING_CONFIG = '--oem 3 --psm 7'
 READER = easyocr.Reader(['en'])
 PAD = 3
-BREAK = 100
+BREAK = -1
+
+
+def process_dir(dir):
+
+    vids = os.listdir(dir)
+    data_path = r"timestamps\data"
+    vizs = r"timestamps\vizs"
+
+    for vid in vids:
+        video_path = os.path.join(dir, vid)
+        save_path = os.path.join(data_path, vid.replace(".mp4", ".json"))
+        viz_path = os.path.join(vizs, vid.replace(".mp4", "_viz.avi"))
+        extract_timestamps_from_video(video_path, save_path)
+        visualize_timestamps(video_path, save_path, viz_path)
 
 
 def extract_timestamps_from_video(video_path, save_path):
@@ -30,6 +46,7 @@ def extract_timestamps_from_video(video_path, save_path):
     q_x1, q_y1, q_x2, q_y2 = quarter_roi
     tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
 
+    print(f"Extracting timestamps for video at {video_path}")
     cap = cv2.VideoCapture(video_path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     timestamps = {}
@@ -50,9 +67,10 @@ def extract_timestamps_from_video(video_path, save_path):
             "time_remaining": time_remaining
         }
 
-        if frame_index > BREAK:
+        if frame_index == BREAK:
             break
 
+    post_process_timestamps(timestamps)
     with open(save_path, "w") as json_file:
         json.dump(timestamps, json_file, indent=4)
 
@@ -60,6 +78,7 @@ def extract_timestamps_from_video(video_path, save_path):
 def extract_rois_from_video(path):
     """Find rois from video. Assumes static, naive approach."""
 
+    print(f"Find ROIs for video at {path}")
     cap = cv2.VideoCapture(path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     quarter_roi, time_remaining_roi = None, None
@@ -206,3 +225,24 @@ def nparr_from_img_path(img_path):
 
     image = Image.open(img_path)
     return np.array(image)
+
+
+def post_process_timestamps(timestamps):
+    """Interpolate timestamps in-place."""
+
+    last_quarter, last_time = None, None
+
+    for key in timestamps:
+        quarter, time_remaining = timestamps[key]["quarter"], timestamps[key]["time_remaining"]
+        if not last_quarter:
+            if quarter:
+                last_quarter = quarter
+        else:
+            if not quarter:
+                timestamps[key]["quarter"] = last_quarter
+        if not last_time:
+            if time_remaining:
+                last_time = time_remaining
+        else:
+            if not time_remaining:
+                timestamps[key]["time_remaining"] = last_time
