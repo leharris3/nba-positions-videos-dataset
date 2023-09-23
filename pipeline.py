@@ -3,6 +3,7 @@ import numpy as np
 from tqdm import tqdm
 from ultralytics import YOLO
 from PIL import Image
+from copy import copy
 import torch
 import json
 import os
@@ -19,11 +20,11 @@ QUARTER_KEY = 0
 TIME_REMAINING_KEY = 1
 
 PATH_TO_TESSERACT = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-QUARTER_CONFIG = '--oem 3 --psm 7 -c tessedit_char_whitelist=1234 sStTnNdDrRhH'
-TIME_REMAINING_CONFIG = '--oem 3 --psm 7'
+TIME_REMAINING_CONFIG = '--oem 3 --psm 7 -c tessedit_char_whitelist=1234567890:. '
 READER = easyocr.Reader(['en'])
-PAD = 3
+PAD = 0
 BREAK = -1
+CONF_THRESH = .92
 
 
 def process_dir(dir):
@@ -42,26 +43,28 @@ def process_dir(dir):
 
 def extract_timestamps_from_video(video_path, save_path):
 
-    quarter_roi, time_remaining_roi = extract_rois_from_video(video_path)
-    q_x1, q_y1, q_x2, q_y2 = quarter_roi
-    tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
+    time_remaining_roi = extract_roi_from_video(video_path)
+
+    if time_remaining_roi is not None:
+        tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
 
     print(f"Extracting timestamps for video at {video_path}")
     cap = cv2.VideoCapture(video_path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     timestamps = {}
+    quarter = video_path[-5]  # period_x.mp4
 
     for frame_index in tqdm(range(frames_cnt)):
         ret, frame = cap.read()
         if not ret:
             break
-        quarter_img = frame[q_y1 - PAD: q_y2 +
-                            2 * PAD, q_x1 - PAD: q_x2 + 2 * PAD]
-        time_remaining_img = frame[tr_y1 -
-                                   PAD: tr_y2 + 2 * PAD, tr_x1 - PAD: tr_x2 + 2 * PAD]
 
-        quarter, time_remaining = extract_timestamps_from_images(
-            quarter_img, time_remaining_img, preprocessing_func=preprocess_image_for_tesseract)
+        time_remaining_img = None
+        if time_remaining_roi is not None:
+            time_remaining_img = frame[tr_y1 -
+                                       PAD: tr_y2 + 2 * PAD, tr_x1 - PAD: tr_x2 + 2 * PAD]
+        time_remaining = extract_timestamps_from_images(
+            time_remaining_img, preprocessing_func=preprocess_image_for_tesseract)
         timestamps[str(frame_index)] = {
             "quarter": quarter,
             "time_remaining": time_remaining
@@ -75,52 +78,43 @@ def extract_timestamps_from_video(video_path, save_path):
         json.dump(timestamps, json_file, indent=4)
 
 
-def extract_rois_from_video(path):
-    """Find rois from video. Assumes static, naive approach."""
+def extract_roi_from_video(path):
+    """Find time-remaining roi from video. Assumes static, naive approach."""
 
-    print(f"Find ROIs for video at {path}")
+    print(f"Finding time-remaining ROI for video at {path}")
     cap = cv2.VideoCapture(path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-    quarter_roi, time_remaining_roi = None, None
+
+    time_remaining_roi = None
 
     for _ in tqdm(range(frames_cnt)):
         ret, frame = cap.read()
         if not ret:
             break
         results = MODEL(frame, verbose=False)
-        annotated_frame = results[0].plot()
 
         classes, conf, boxes = results[0].boxes.cls, results[0].boxes.conf, results[0].boxes.xyxy
         classes_conf = torch.stack((classes, conf), dim=1)
         predictions = torch.cat((classes_conf, boxes), dim=1)
-        conf_mask = predictions[:, 1] > .90
+        conf_mask = predictions[:, 1] > CONF_THRESH
         pred_thresh = predictions[conf_mask]
 
         for row in pred_thresh:
             if row[0] == QUARTER_KEY:
-                quarter_roi = row[2:].to(torch.int)
+                pass
             elif row[0] == TIME_REMAINING_KEY:
                 time_remaining_roi = row[2:].to(torch.int)
-        if quarter_roi is not None and time_remaining_roi is not None:
+        if time_remaining_roi is not None:
             break
 
-    return quarter_roi, time_remaining_roi
+    return time_remaining_roi
 
 
-def extract_timestamps_from_images(quarter_image, time_remaining_image, preprocessing_func=None, extraction_method="tesseract"):
+def extract_timestamps_from_images(time_remaining_image, preprocessing_func=None, extraction_method="tesseract"):
 
-    quarter = None
     time_remaining = None
 
     if extraction_method == "tesseract":
-        quarter_r = (extract_text_from_image_with_tesseract(
-            quarter_image, preprocess_func=preprocessing_func, config=QUARTER_CONFIG))
-        try:
-            for res in quarter_r:
-                if res != " ":
-                    quarter = int(res[0])
-        except:
-            pass
         time_remaining_r = (extract_text_from_image_with_tesseract(
             time_remaining_image, preprocess_func=preprocessing_func, config=TIME_REMAINING_CONFIG))
         try:
@@ -130,26 +124,8 @@ def extract_timestamps_from_images(quarter_image, time_remaining_image, preproce
                     break
         except:
             pass
-    elif extraction_method == "easyocr":
-        quarter_r = (extract_text_from_image_with_easyocr(
-            quarter_image, preprocess_func=preprocessing_func))
-        try:
-            for res in quarter_r:
-                if res != " ":
-                    quarter = int(res[0])
-        except:
-            pass
-        time_remaining_r = (extract_text_from_image_with_easyocr(
-            time_remaining_image, preprocess_func=preprocessing_func))
-        try:
-            for res in time_remaining_r:
-                if res != " ":
-                    time_remaining = convert_time_to_float(res)
-                    break
-        except:
-            pass
 
-    return quarter, time_remaining
+    return time_remaining
 
 
 def extract_text_from_image_with_easyocr(image, print_result=None, config=None, preprocess_func=None) -> List[str]:
@@ -166,11 +142,16 @@ def extract_text_from_image_with_easyocr(image, print_result=None, config=None, 
 
 def extract_text_from_image_with_tesseract(image, config="", print_results=None, preprocess_func=None) -> List[str]:
 
+    if image is None:
+        return None
+
     extracted_text = []
     pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
 
     if preprocess_func:
         image = preprocess_func(image)
+    cv2.imwrite("timestamps/clk.png", image)
+
     results = pytesseract.image_to_string(image, config=config).split("\n")
     for line in results:
         for word in line.split(" "):
@@ -217,6 +198,25 @@ def preprocess_image_for_tesseract(image, save=None):
             raise Exception("An error while preprocessing a frame:", str(e))
 
     scaled_image = change_dpi(image)
+    # gray = cv2.cvtColor(scaled_image, cv2.COLOR_BGR2GRAY)
+    # thresh = cv2.threshold(gray, 135, 255, cv2.THRESH_BINARY)[1]
+    # kernel = np.ones((1, 1), np.uint8)
+    # result = cv2.dilate(thresh, kernel, iterations=2)
+    # result = thresh
+
+    # result_c1 = copy(result)
+    # result_c2 = copy(result)
+
+    # black_pixels = result_c1[np.where(result_c1 == 0)].size
+    # white_pixels = result_c2[np.where(result_c2 == 255)].size
+
+    # if black_pixels > white_pixels:
+    #     result = cv2.bitwise_not(result)
+
+    # if type(save) is bool and save:
+    #     out_path = f"{SAVE_PATH}/pp.png"
+    #     cv2.imwrite(out_path, result)
+
     return scaled_image
 
 
@@ -234,15 +234,11 @@ def post_process_timestamps(timestamps):
 
     for key in timestamps:
         quarter, time_remaining = timestamps[key]["quarter"], timestamps[key]["time_remaining"]
-        if not last_quarter:
-            if quarter:
-                last_quarter = quarter
+        if quarter:
+            last_quarter = quarter
         else:
-            if not quarter:
-                timestamps[key]["quarter"] = last_quarter
-        if not last_time:
-            if time_remaining:
-                last_time = time_remaining
+            timestamps[key]["quarter"] = last_quarter
+        if time_remaining:
+            last_time = time_remaining
         else:
-            if not time_remaining:
-                timestamps[key]["time_remaining"] = last_time
+            timestamps[key]["time_remaining"] = last_time
