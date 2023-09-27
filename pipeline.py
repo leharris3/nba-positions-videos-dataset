@@ -24,7 +24,7 @@ TIME_REMAINING_CONFIG = '--oem 3 --psm 7 -c tessedit_char_whitelist=1234567890:.
 READER = easyocr.Reader(['en'])
 PAD = 0
 BREAK = -1
-CONF_THRESH = .92
+CONF_THRESH = .88
 
 
 def process_dir(dir):
@@ -110,25 +110,36 @@ def extract_roi_from_video(path):
     return time_remaining_roi
 
 
-def extract_timestamps_from_images(time_remaining_image, preprocessing_func=None, extraction_method="tesseract"):
+def extract_timestamps_from_images(time_remaining_image, preprocessing_func=None):
 
     time_remaining = None
 
-    if extraction_method == "tesseract":
-        time_remaining_r = (extract_text_from_image_with_tesseract(
-            time_remaining_image, preprocess_func=preprocessing_func, config=TIME_REMAINING_CONFIG))
-        try:
-            for res in time_remaining_r:
-                if res != " ":
-                    time_remaining = convert_time_to_float(res)
-                    break
-        except:
-            pass
+    def find_time_remaining_from_result(result):
+        if result != " ":
+            if '.' in result:
+                arr = result.split('.')
+                if len(arr) > 1 and len(arr[1]) == 2:
+                    result = result.replace('.', ":")
+                return convert_time_to_float(result)
+        return None
+
+    time_remaining_r = (extract_text_from_image_with_easyocr(
+        time_remaining_image, preprocess_func=preprocessing_func, config=TIME_REMAINING_CONFIG))
+    try:
+        for result in time_remaining_r:
+            time_remaining = find_time_remaining_from_result(result)
+            if time_remaining is not None:
+                break
+    except:
+        pass
 
     return time_remaining
 
 
 def extract_text_from_image_with_easyocr(image, print_result=None, config=None, preprocess_func=None) -> List[str]:
+
+    if image is None:
+        return None
 
     extracted_text = []
     results = READER.readtext(
