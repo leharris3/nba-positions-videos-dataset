@@ -70,7 +70,7 @@ def extract_timestamps_from_video(video_path, save_path):
             time_remaining_img = frame[tr_y1 -
                                        PAD: tr_y2 + 2 * PAD, tr_x1 - PAD: tr_x2 + 2 * PAD]
 
-        if not time_remaining is None:
+        if not time_remaining_img is None:
             time_remaining = extract_time_remaining_from_image(
                 Image.fromarray(time_remaining_img))
             time_remaining = convert_time_to_float(time_remaining)
