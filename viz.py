@@ -9,6 +9,8 @@ from PIL import ImageFont
 
 def visualize_timestamps(video_path, timestamps_path, viz_path):
 
+    print(f"Generating visualization for video at: {video_path}")
+
     with open(timestamps_path, 'r') as f:
         timestamps = json.load(f)
 
@@ -20,7 +22,7 @@ def visualize_timestamps(video_path, timestamps_path, viz_path):
 
     writer = cv2.VideoWriter(
         viz_path, cv2.VideoWriter_fourcc(*'MPEG'), fps, (width, height))
-    font = ImageFont.truetype(r'utilities\os-eb.ttf', 30)
+    font = ImageFont.truetype(r'utilities\os-eb.ttf', 30)  # TODO: FIX
 
     for frame_index in tqdm(range(frame_cnt)):
         ret, frame = reader.read()

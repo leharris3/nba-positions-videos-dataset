@@ -1,16 +1,17 @@
 import cv2
+import torch
+import json
+import os
+import re
 import numpy as np
+
+from paddleocr import PaddleOCR
 from tqdm import tqdm
 from ultralytics import YOLO
 from PIL import Image
 from copy import copy
-import torch
-import json
-import os
-
-import pytesseract
-import easyocr
 from typing import List
+
 from viz import visualize_timestamps
 
 MODEL_PATH = r"models\yolo\weights\45_ep_lar_full.pt"
@@ -19,12 +20,17 @@ MODEL = YOLO(MODEL_PATH)
 QUARTER_KEY = 0
 TIME_REMAINING_KEY = 1
 
-PATH_TO_TESSERACT = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-TIME_REMAINING_CONFIG = '--oem 3 --psm 7 -c tessedit_char_whitelist=1234567890:. '
-READER = easyocr.Reader(['en'])
-PAD = 0
+PAD = 3
 BREAK = -1
 CONF_THRESH = .88
+OCR = PaddleOCR(use_angle_cls=True,
+                lang='en',
+                show_log=False,
+                det_db_score_mode='slow',
+                ocr_version='PP-OCRv4',
+                rec_algorithm='SVTR_LCNet',
+                drop_score=0.9,
+                )
 
 
 def process_dir(dir):
@@ -63,13 +69,14 @@ def extract_timestamps_from_video(video_path, save_path):
         if time_remaining_roi is not None:
             time_remaining_img = frame[tr_y1 -
                                        PAD: tr_y2 + 2 * PAD, tr_x1 - PAD: tr_x2 + 2 * PAD]
-        time_remaining = extract_timestamps_from_images(
-            time_remaining_img, preprocessing_func=preprocess_image_for_tesseract)
+        time_remaining = extract_time_remaining_from_image(
+            Image.fromarray(time_remaining_img))
+        time_remaining = convert_time_to_float(time_remaining)
+
         timestamps[str(frame_index)] = {
             "quarter": quarter,
             "time_remaining": time_remaining
         }
-
         if frame_index == BREAK:
             break
 
@@ -82,12 +89,12 @@ def extract_roi_from_video(path):
     """Find time-remaining roi from video. Assumes static, naive approach."""
 
     print(f"Finding time-remaining ROI for video at {path}")
+
     cap = cv2.VideoCapture(path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-
     time_remaining_roi = None
 
-    for _ in tqdm(range(frames_cnt)):
+    for i in tqdm(range(frames_cnt)):
         ret, frame = cap.read()
         if not ret:
             break
@@ -110,70 +117,52 @@ def extract_roi_from_video(path):
     return time_remaining_roi
 
 
-def extract_timestamps_from_images(time_remaining_image, preprocessing_func=None):
+def extract_time_remaining_from_image(image: Image):
 
-    time_remaining = None
+    def find_time_remaining_from_results(results):
 
-    def find_time_remaining_from_result(result):
-        if result != " ":
-            if '.' in result:
-                arr = result.split('.')
-                if len(arr) > 1 and len(arr[1]) == 2:
-                    result = result.replace('.', ":")
-                return convert_time_to_float(result)
+        # matches any string showing a valid time remaining of 20 minutes or less
+        # assumes brodcasts use MM:SS for times > 1 minute, and SS.S for times < 1 minute
+
+        time_remaining_regex = "(20:00)|(1[0-9]|[0-5]?[0-9]):[0-5][0-9]|[0-5]?[0-9].[0-9]"
+        for result in results:
+            result = result.replace(" ", "")
+            match = re.match(time_remaining_regex, result)
+            if match is not None and len(match[0]) == len(result):
+                return result
         return None
 
-    time_remaining_r = (extract_text_from_image_with_easyocr(
-        time_remaining_image, preprocess_func=preprocessing_func, config=TIME_REMAINING_CONFIG))
-    try:
-        for result in time_remaining_r:
-            time_remaining = find_time_remaining_from_result(result)
-            if time_remaining is not None:
-                break
-    except:
-        pass
-
+    results = extract_text_with_paddle(
+        image)
+    time_remaining = find_time_remaining_from_results(results)
     return time_remaining
 
 
-def extract_text_from_image_with_easyocr(image, print_result=None, config=None, preprocess_func=None) -> List[str]:
+def extract_text_with_paddle(image: Image):
 
-    if image is None:
-        return None
+    # Preprocess.
+    scale_factor = 2
+    new_size = (image.width * scale_factor,
+                image.height * scale_factor)
+    image = image.resize(new_size)
 
-    extracted_text = []
-    results = READER.readtext(
-        image, batch_size=16)
-    for (_, bb, _) in results:
-        extracted_text.append(bb)
-        if print_result:
-            print(bb)
-    return extracted_text
-
-
-def extract_text_from_image_with_tesseract(image, config="", print_results=None, preprocess_func=None) -> List[str]:
-
-    if image is None:
-        return None
-
-    extracted_text = []
-    pytesseract.pytesseract.tesseract_cmd = PATH_TO_TESSERACT
-
-    if preprocess_func:
-        image = preprocess_func(image)
-    cv2.imwrite("timestamps/clk.png", image)
-
-    results = pytesseract.image_to_string(image, config=config).split("\n")
-    for line in results:
-        for word in line.split(" "):
-            extracted_text.append(word)
-    return extracted_text
+    results = []
+    raw_result = OCR.ocr(np.array(image), cls=True)
+    for idx in range(len(raw_result)):
+        res = raw_result[idx]
+        if res is not None:
+            for line in res:
+                results.append(line[1][0])
+    return results
 
 
 def convert_time_to_float(time: str) -> float:
     """Convert a formated time str to a float value representing seconds remaining in a basektball game."""
 
+    if time is None:
+        return None
     result: float = 0.0
+
     if ':' in time:
         time_arr = time.split(':')
         minutes = time_arr[0]
@@ -190,45 +179,8 @@ def convert_time_to_float(time: str) -> float:
     return result
 
 
-def preprocess_image_for_tesseract(image, save=None):
-    """Preprocess a ROI for OCR."""
-
-    def change_dpi(image, target_dpi=95):
-        """95 is the magic number, font height should be 30-33 px for best results."""
-
-        try:
-            image = Image.fromarray(image)
-            current_dpi = image.info.get("dpi", (72, 72))
-            scale_factor = target_dpi / current_dpi[0]
-            new_width = int(image.width * scale_factor)
-            new_height = int(image.height * scale_factor)
-            resized_image = image.resize((new_width, new_height))
-            resized_image.info["dpi"] = (target_dpi, target_dpi)
-            return np.array(resized_image)
-        except Exception as e:
-            raise Exception("An error while preprocessing a frame:", str(e))
-
-    scaled_image = change_dpi(image)
-    # gray = cv2.cvtColor(scaled_image, cv2.COLOR_BGR2GRAY)
-    # thresh = cv2.threshold(gray, 135, 255, cv2.THRESH_BINARY)[1]
-    # kernel = np.ones((1, 1), np.uint8)
-    # result = cv2.dilate(thresh, kernel, iterations=2)
-    # result = thresh
-
-    # result_c1 = copy(result)
-    # result_c2 = copy(result)
-
-    # black_pixels = result_c1[np.where(result_c1 == 0)].size
-    # white_pixels = result_c2[np.where(result_c2 == 255)].size
-
-    # if black_pixels > white_pixels:
-    #     result = cv2.bitwise_not(result)
-
-    # if type(save) is bool and save:
-    #     out_path = f"{SAVE_PATH}/pp.png"
-    #     cv2.imwrite(out_path, result)
-
-    return scaled_image
+def preprocess_image_for_paddel(image):
+    pass
 
 
 def nparr_from_img_path(img_path):
