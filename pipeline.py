@@ -80,25 +80,28 @@ def extract_roi_from_video(path):
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     time_remaining_roi = None
 
+    # TODO: skip through vid at one second intervals
+    interval = 30
     for i in tqdm(range(frames_cnt)):
         ret, frame = cap.read()
         if not ret:
             break
-        results = MODELS.yolo(frame, verbose=False)
 
-        classes, conf, boxes = results[0].boxes.cls, results[0].boxes.conf, results[0].boxes.xyxy
-        classes_conf = torch.stack((classes, conf), dim=1)
-        predictions = torch.cat((classes_conf, boxes), dim=1)
-        conf_mask = predictions[:, 1] > CONF_THRESH
-        pred_thresh = predictions[conf_mask]
+        if (i % interval == 0):
+            results = MODELS.yolo(frame, verbose=False)
+            classes, conf, boxes = results[0].boxes.cls, results[0].boxes.conf, results[0].boxes.xyxy
+            classes_conf = torch.stack((classes, conf), dim=1)
+            predictions = torch.cat((classes_conf, boxes), dim=1)
+            conf_mask = predictions[:, 1] > CONF_THRESH
+            pred_thresh = predictions[conf_mask]
 
-        for row in pred_thresh:
-            if row[0] == QUARTER_KEY:
-                pass
-            elif row[0] == TIME_REMAINING_KEY:
-                time_remaining_roi = row[2:].to(torch.int)
-        if time_remaining_roi is not None:
-            break
+            for row in pred_thresh:
+                if row[0] == QUARTER_KEY:
+                    pass
+                elif row[0] == TIME_REMAINING_KEY:
+                    time_remaining_roi = row[2:].to(torch.int)
+            if time_remaining_roi is not None:
+                break
 
     return time_remaining_roi
 

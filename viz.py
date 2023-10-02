@@ -24,7 +24,7 @@ def visualize_timestamps(video_path, timestamps_path, viz_path, tr_roi=None):
 
     writer = cv2.VideoWriter(
         viz_path, cv2.VideoWriter_fourcc(*'MPEG'), fps, (width, height))
-    font = ImageFont.truetype(r'utilities\os-eb.ttf', 30)  # TODO: FIX
+    font = ImageFont.truetype(r'utilities\os-eb.ttf', 30) \
 
     for frame_index in tqdm(range(frame_cnt)):
         ret, frame = reader.read()
@@ -49,4 +49,32 @@ def visualize_timestamps(video_path, timestamps_path, viz_path, tr_roi=None):
 
     writer.release()
 
-def visualize_roi()
+
+def visualize_roi(video_path, viz_path, roi):
+
+    reader = cv2.VideoCapture(video_path)
+    frame_cnt = int(reader.get(cv2.CAP_PROP_FRAME_COUNT))
+    height, width, fps = int(reader.get(cv2.CAP_PROP_FRAME_HEIGHT)), int(reader.get(
+        cv2.CAP_PROP_FRAME_WIDTH)), int(reader.get(
+            cv2.CAP_PROP_FPS))
+    writer = cv2.VideoWriter(
+        viz_path, cv2.VideoWriter_fourcc(*'MPEG'), fps, (width, height))
+
+    x1, y1, x2, y2 = None, None, None, None
+    if roi is not None:
+        x1, y1, x2, y2 = roi.tolist()
+        print(x1, y1, x2, y2)
+
+    color = (0, 0, 255)
+    thickness = 2
+    for _ in tqdm(range(frame_cnt)):
+        ret, frame = reader.read()
+        if not ret:
+            break
+
+        if x1 is not None:
+            frame = cv2.rectangle(frame, (x1, y1), (x2, y2), color, thickness)
+        writer.write(np.array(frame))
+
+    writer.release()
+    reader.release()
