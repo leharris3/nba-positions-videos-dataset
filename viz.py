@@ -7,7 +7,9 @@ from PIL import ImageDraw
 from PIL import ImageFont
 
 
-def visualize_timestamps(video_path, timestamps_path, viz_path):
+# TODO: also viz bounding box representing roi
+
+def visualize_timestamps(video_path, timestamps_path, viz_path, tr_roi=None):
 
     print(f"Generating visualization for video at: {video_path}")
 
@@ -46,3 +48,5 @@ def visualize_timestamps(video_path, timestamps_path, viz_path):
         writer.write(np.array(img))
 
     writer.release()
+
+def visualize_roi()
