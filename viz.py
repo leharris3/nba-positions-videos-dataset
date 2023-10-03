@@ -63,7 +63,6 @@ def visualize_roi(video_path, viz_path, roi):
     x1, y1, x2, y2 = None, None, None, None
     if roi is not None:
         x1, y1, x2, y2 = roi.tolist()
-        print(x1, y1, x2, y2)
 
     color = (0, 0, 255)
     thickness = 2
