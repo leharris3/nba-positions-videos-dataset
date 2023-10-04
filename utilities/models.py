@@ -3,7 +3,6 @@ from paddleocr import PaddleOCR
 
 MODEL_PATH = r"models\yolo\weights\tr_roi_finetune_91_large.pt"
 
-
 class Models:
 
     yolo = yolo = YOLO(MODEL_PATH)

@@ -167,8 +167,9 @@ def extract_time_remaining_from_image(image: Image.Image):
     returns either a valid formatted time-remaining str (ie '11:30')
     or None.
     """
+    rgb_img = image.convert("RGB")
     results = extract_text_with_paddle(
-        image)
+        rgb_img)
     time_remaining = find_time_remaining_from_results(results)
     return time_remaining
 
