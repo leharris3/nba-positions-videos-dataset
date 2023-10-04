@@ -104,37 +104,50 @@ class TimeConversionTests(TestCase):
 
 class TextExtractionTests(TestCase):
 
-    def test_blank_image(self):
+    def test_extract_text_with_paddle_none(self):
 
         image = None
-        actual = extract_text_with_paddle(image)
-        expected = []
-        assert actual == expected, f"Expected {expected}, actual: {actual}."
+        results = extract_text_with_paddle(image)
+        assert results == []
+
+    def test_extract_text_with_paddle_valid(self):
+
+        image = Image.open(
+            r"testing\assets\example_cropped_rois\time_remaining\time_remaining_1.PNG")
+        results = extract_text_with_paddle(image)
+        assert results == ["2:41"]
+
+    def test_extract_text_with_paddle_blank(self):
+
+        image = Image.open(
+            r"testing\assets\blank_images\black.png")
+        results = extract_text_with_paddle(image)
+        assert results == []
+
+    def test_extract_time_remaining_from_image_none(self):
 
         image = None
-        actual = extract_time_remaining_from_image(image)
-        expected = None
-        assert actual == expected, f"Expected {expected}, actual: {actual}."
+        result = extract_time_remaining_from_image(image)
+        assert result is None
 
-    def test_no_time_remaining(self):
+    def test_extract_time_remaining_from_image_valid(self):
 
-        image = Image.open(r"testing\assets\blank_images\black.png")
-        actual = extract_time_remaining_from_image(image)
-        expected = None
-        assert actual == expected, f"Expected {expected}, actual: {actual}."
+        image = Image.open(
+            r"testing\assets\example_cropped_rois\time_remaining\time_remaining_1.PNG")
+        result = extract_time_remaining_from_image(image)
+        assert result == "2:41"
 
-    def test_valid_time_remaining_(self):
+    def test_extract_time_remaining_from_image_empty(self):
 
-        image = Image.fromarray(cv2.imread(
-            r"testing\assets\example_cropped_rois\time_remaining\time_remaining_1.PNG"))
-        actual = extract_time_remaining_from_image(image)
-        expected = "2:41"
-        assert actual == expected, f"Expected {expected}, actual: {actual}."
+        image = Image.open(
+            r"testing\assets\blank_images\black.png")
+        result = extract_time_remaining_from_image(image)
+        assert result is None
 
 
 class TimeExtractionBenchmarkTests(TestCase):
 
-    def test_100_whole_time_remaining_roi_benchmark(self):
+    def whole_time_remaining_roi_benchmark(self):
 
         found, total = 0, 0
         dir = r"testing\assets\example_rois"
@@ -148,7 +161,7 @@ class TimeExtractionBenchmarkTests(TestCase):
             total += 1
         assert (found / total) >= .85
 
-    def test_100_cropped_time_remaining_roi_benchmark(self):
+    def cropped_time_remaining_roi_benchmark(self):
 
         found, total = 0, 0
         dir = r"testing\assets\example_cropped_rois\time_remaining"
