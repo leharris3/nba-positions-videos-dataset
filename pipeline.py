@@ -58,11 +58,6 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
     """
 
     assert os.path.exists(video_path)
-    # TODO: FIX!
-    # assert os.path.exists(
-    #     save_path), f"Warning, overwriting exisiting file at {save_path}"
-    # assert video_path[-4:
-    #                   ] == '.mp4', f"Bad video format: {video_path}, must be an mp4."
 
     print(f"Extracting timestamps for video at {video_path}")
     tr_x1, tr_y1, tr_x2, tr_y2 = None, None, None, None
@@ -83,7 +78,6 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
         time_remaining = None
         if frame_index % step == 0:
             if time_remaining_roi is not None:
-                assert tr_x1 and tr_y1 and tr_x2 and tr_y2
                 time_remaining_img = frame[tr_y1 -
                                            PAD: tr_y2 + 2 * PAD, tr_x1 - PAD: tr_x2 + 2 * PAD]
             if time_remaining_img is not None:
@@ -188,6 +182,7 @@ def extract_text_with_paddle(image: Image.Image) -> List[str]:
 
     if image is None:
         return []
+    image = image.convert("RGB")
     ideal_height = 100
     scale_factor = ideal_height / image.height
     new_size = (int(image.width * scale_factor),
