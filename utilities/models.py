@@ -1,24 +1,17 @@
 from ultralytics import YOLO
 from paddleocr import PaddleOCR
 
-MODEL_PATH = r"models\yolo\weights\tr_roi_finetune_60_large.pt"
+MODEL_PATH = r"models\yolo\weights\tr_roi_finetune_91_large.pt"
 
 
-class Models():
+class Models:
 
-    def __init__(self) -> None:
-        self.yolo = None
-        self.paddle_ocr = None
-        self.models_loaded = False
-
-    def load(self):
-        self.yolo = YOLO(MODEL_PATH)
-        self.paddle_ocr = PaddleOCR(use_angle_cls=True,
-                                    lang='en',
-                                    show_log=False,
-                                    det_db_score_mode='slow',
-                                    ocr_version='PP-OCRv4',
-                                    rec_algorithm='SVTR_LCNet',
-                                    drop_score=0.0,
-                                    )
-        self.models_loaded = True
+    yolo = yolo = YOLO(MODEL_PATH)
+    paddle_ocr = PaddleOCR(use_angle_cls=True,
+                           lang='en',
+                           show_log=False,
+                           det_db_score_mode='slow',
+                           ocr_version='PP-OCRv4',
+                           rec_algorithm='SVTR_LCNet',
+                           drop_score=0.8,
+                           )
