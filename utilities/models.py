@@ -1,7 +1,8 @@
 from ultralytics import YOLO
 from paddleocr import PaddleOCR
 
-MODEL_PATH = r"models\yolo\weights\tr_roi_finetune_91_large.pt"
+MODEL_PATH = r"models/yolo/weights/tr_roi_finetune_91_large.pt"
+
 
 class Models:
 

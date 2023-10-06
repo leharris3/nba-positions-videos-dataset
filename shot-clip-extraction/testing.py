@@ -18,5 +18,5 @@ print(found, "/", total)
 
 # TODO: new algo:
 # for vid in dir
-    # if vid has log:
-        # extract_shot_clips
+# if vid has log:
+# extract_shot_clips
