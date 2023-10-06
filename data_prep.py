@@ -3,6 +3,7 @@ import json
 import os
 import csv
 
+LOGS_DIR = r"C:\Users\Levi\Desktop\hudl-logs\DATA\game_logs"
 LOGS_PATH = r"data\gamelogs_map.json"
 with open(LOGS_PATH, 'r') as logs_map:
     LOGS = json.load(logs_map)
@@ -21,7 +22,7 @@ def generate_game_log_map(save_logs_to_path: str, logs_dir: str):
                 log_id = file.split("_")[0]
                 logs[log_id] = csv_file_path
     with open(save_logs_to_path, 'w') as json_file:
-        json.dump(logs, json_file)
+        json.dump(logs, json_file, indent=4)
 
 
 def get_log_path(game_id: str):
@@ -37,31 +38,42 @@ def get_log_path(game_id: str):
 def get_shot_events(csv_path: str):
     """
     Given a path to a game csv, return all moments at which a shot occured.
-    Moment: [quarter, time_remaining]
+    Moment: [quarter, time_remaining].
+
+    Discards free-throws.
     """
 
     shots = []
     arr = []
+
     # append all rows to an array
     max_time = 0.0
-    with open(csv_path) as file:
-        doc = csv.reader(file, delimiter=';')
-        for row in doc:
-            arr.append(row)
-            try:
-                max_time = max(max_time, float(row[23]))
-            except:
-                pass
+    try:
+        with open(csv_path) as file:
+            doc = csv.reader(file, delimiter=';')
+            for row in doc:
+                arr.append(row)
+                try:
+                    max_time = max(max_time, float(row[23]))
+                except:
+                    pass
+        period_start_time = 60.0 * (max_time // 60)
+    except:
+        print(f"Error: could not open csv for path: {csv_path}")
+        return []
 
-    period_start_time = 60.0 * (max_time // 60)
-    print("Max Time", period_start_time)
     for row in arr:
         if "+" in row[2] or "-" in row[2]:
-            shot = row[2]
-            quarter = row[13]
-            start_time = round(period_start_time - float(row[22]), 1)
-            end_time = round(period_start_time - float(row[23]), 1)
-            shots.append([shot, quarter, start_time, end_time])
+            try:
+                points = row[2][0]
+                is_shot_made = row[2][1] == "+"
+                quarter = row[13]
+                shot_time = round(period_start_time - float(row[23]), 1)
+                if points != "1":
+                    shots.append(
+                        [points, is_shot_made, quarter, shot_time])
+            except:
+                pass
     return shots
 
 
@@ -85,13 +97,3 @@ def get_shot_time_intervals(path_to_timestamps: str, shot_events):
         print(timestamp)
 
     pass
-
-
-game_id = "1003170"
-csv_path = r"data\1003170_Washington Wizards - Portland Trail Blazers.csv"
-shots = get_shot_events(csv_path)
-print(shots)
-
-# get_shot_time_intervals(
-#     r"data\940432_2900_KK MZT Skopje Aerodrom_2953_KK Buducnost_period2.json",
-#     [])

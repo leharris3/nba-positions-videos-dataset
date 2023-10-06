@@ -67,10 +67,10 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
         tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
 
     print(f"Extracting timestamps for video at {video_path}")
+
     cap = cv2.VideoCapture(video_path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     fps = cap.get(cv2.CAP_PROP_FPS)
-    print(fps)
     timestamps = {}
     quarter = video_path[-5]  # period_x.mp4
     step = 5
@@ -98,7 +98,9 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
             break
 
     post_process_timestamps(timestamps, fps)
-    # timestamps = generate_formated_timestamps(timestamps=timestamps)
+
+    # TODO: fix! This will break shit!
+    timestamps = generate_formated_timestamps(timestamps=timestamps)
     with open(save_path, "w") as json_file:
         json.dump(timestamps, json_file, indent=4)
 
@@ -112,9 +114,9 @@ def extract_roi_from_video(video_path: str):
 
     assert os.path.isfile(
         video_path), f"Error: bad path to video {video_path}."
-    # assert video_path[-4:] == '.mp4'
 
     print(f"Finding time-remaining ROI for video at {video_path}")
+
     cap = cv2.VideoCapture(video_path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     time_remaining_roi = None

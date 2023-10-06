@@ -39,8 +39,8 @@ def visualize_timestamps(video_path, timestamps_path, viz_path, tr_roi=None):
             if time_remaining is not None:
                 minutes = int(time_remaining) // 60
                 seconds = int((time_remaining - (minutes * 60)))
-                decimal_seconds = int(
-                    time_remaining - (minutes * 60) - seconds) * 10
+                decimal_seconds = (
+                    int((time_remaining - (minutes * 60) - seconds) * 10))
         img = Image.fromarray(frame)
         draw: ImageDraw = ImageDraw.Draw(img)
         draw.text(
