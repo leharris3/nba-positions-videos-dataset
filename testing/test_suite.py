@@ -5,7 +5,7 @@ import time
 from PIL import Image
 from unittest import TestCase
 
-from temporal_grounding import *
+from temporal_grounding.temporal_grounding import *
 
 
 class RegexTests(TestCase):

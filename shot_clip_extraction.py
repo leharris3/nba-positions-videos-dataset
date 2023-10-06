@@ -9,6 +9,9 @@ with open("shot-clip-extraction/gamelogs_map.json") as f:
 HUDL_GAMES_DIR = r"/Volumes/BBall_Data_23X_pt2/HUDL_basketball_data_pt2/22-23/400"
 BATCH_DIR = r"/Volumes/BBall_Data_23X_pt2/HUDL_basketball_data_pt2/22-23/videos_with_logs_batch_100"
 
+def process_video():
+    pass
+
 
 def get_all_valid_game_paths():
 

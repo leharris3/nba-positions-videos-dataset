@@ -10,9 +10,9 @@ from tqdm import tqdm
 from PIL import Image
 from typing import List
 
-from viz import visualize_timestamps
-from utilities.models import Models
-from utilities.constants import *
+from temporal_grounding.viz import visualize_timestamps
+from temporal_grounding.utilities.models import Models
+from temporal_grounding.utilities.constants import *
 
 
 def process_dir(dir_path: str, data_out_path: str, viz_out_path=None) -> None:
