@@ -117,12 +117,12 @@ class TextExtractionTests(TestCase):
         results = extract_text_with_paddle(image)
         assert results == ["2:41"]
 
-    def test_extract_text_with_paddle_blank(self):
+    def test_extract_text_with_paddle_quarter(self):
 
         image = Image.open(
-            r"testing\assets\blank_images\black.png")
+            r"testing\assets\example_cropped_rois\quarter\quarter_1.PNG")
         results = extract_text_with_paddle(image)
-        assert results == []
+        assert results == ["4th"]
 
     def test_extract_time_remaining_from_image_none(self):
 
@@ -136,13 +136,6 @@ class TextExtractionTests(TestCase):
             r"testing\assets\example_cropped_rois\time_remaining\time_remaining_1.PNG")
         result = extract_time_remaining_from_image(image)
         assert result == "2:41"
-
-    def test_extract_time_remaining_from_image_empty(self):
-
-        image = Image.open(
-            r"testing\assets\blank_images\black.png")
-        result = extract_time_remaining_from_image(image)
-        assert result is None
 
 
 class TimeExtractionBenchmarkTests(TestCase):

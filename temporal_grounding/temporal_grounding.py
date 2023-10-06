@@ -58,14 +58,15 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
     """
 
     assert os.path.exists(video_path)
-
-    print(f"Extracting timestamps for video at {video_path}")
     tr_x1, tr_y1, tr_x2, tr_y2 = None, None, None, None
     time_remaining_roi = extract_roi_from_video(video_path)
     if time_remaining_roi is not None:
         tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
+
+    print(f"Extracting timestamps for video at {video_path}")
     cap = cv2.VideoCapture(video_path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    fps = cap.get(cv2.CAP_PROP_FPS)
     timestamps = {}
     quarter = video_path[-5]  # period_x.mp4
     step = 5
@@ -85,13 +86,14 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
                     Image.fromarray(time_remaining_img))
                 time_remaining = convert_time_to_float(time_remaining)
         timestamps[str(frame_index)] = {
-            "quarter": quarter,
-            "time_remaining": time_remaining
+            "quarter": int(quarter),
+            "time_remaining": time_remaining,
         }
         if frame_index == BREAK:
             break
 
-    post_process_timestamps(timestamps)
+    post_process_timestamps(timestamps, fps)
+    timestamps = generate_formated_timestamps(timestamps=timestamps)
     with open(save_path, "w") as json_file:
         json.dump(timestamps, json_file, indent=4)
 
@@ -167,6 +169,9 @@ def extract_time_remaining_from_image(image: Image.Image):
     returns either a valid formatted time-remaining str (ie '11:30')
     or None.
     """
+
+    if image is None:
+        return None
     rgb_img = image.convert("RGB")
     results = extract_text_with_paddle(
         rgb_img)
@@ -223,12 +228,47 @@ def convert_time_to_float(time_remaining):
     return (60.0 * minutes) + seconds
 
 
-def post_process_timestamps(timestamps):
+def post_process_timestamps(timestamps, frame_rate: float):
     """
     Interpolate timestamps in-place.
     """
 
+    def interpolate_time_array(time_array: List[int], frame_rate: float):
+        """
+        Interpolate between indentical time values
+        only when it is clear that time remaining will 
+        decrease in the next one second of frames.
+        """
+
+        seen = {}
+        seconds_per_frame = 1/frame_rate
+        i = 0
+        arr_len = len(time_array)
+
+        while i < arr_len:
+            interpolate = False
+            curr_value = time_array[i]
+            peek_index = i + int(frame_rate) - 1
+            if not curr_value is None:
+                if (peek_index) < arr_len:
+                    peek_value = time_array[peek_index]
+                    if not peek_value is None and peek_value < curr_value:
+                        interpolate = True
+                else:
+                    interpolate = True
+                if interpolate is True:
+                    if curr_value in seen:
+                        seen[curr_value] += 1
+                        time_array[i] -= seen[curr_value] * seconds_per_frame
+                    else:
+                        seen[curr_value] = 1
+                        time_array[i] -= seen[curr_value] * seconds_per_frame
+            if time_array[i] < 0:
+                time_array[i] = 0.0
+            i += 1
+
     last_quarter, last_time = None, None
+    time_array = []
 
     for key in timestamps:
         quarter, time_remaining = timestamps[key]["quarter"], timestamps[key]["time_remaining"]
@@ -240,3 +280,25 @@ def post_process_timestamps(timestamps):
             last_time = time_remaining
         else:
             timestamps[key]["time_remaining"] = last_time
+        time_array.append(timestamps[key]["time_remaining"])
+
+    interpolate_time_array(time_array, frame_rate)
+    for key, time_remaining in zip(timestamps, time_array):
+        timestamps[key]["time_remaining"] = round(time_remaining, 1)
+
+
+def generate_formated_timestamps(timestamps):
+    """
+    Format timestamps to use quarter and time-remaining as keys, 
+    frame indices as value.
+
+    "{quarter}_{time_remaining}: frame_index"
+    """
+
+    formatted_timestamps = {}
+    for key in timestamps:
+        values = timestamps[key]
+        quarter, time_remaining = values["quarter"], values["time_remaining"]
+        frame_index = int(key)
+        formatted_timestamps[f"{quarter}_{time_remaining}"] = frame_index
+    return formatted_timestamps
