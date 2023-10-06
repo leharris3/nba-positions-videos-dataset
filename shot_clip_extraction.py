@@ -9,6 +9,7 @@ with open("shot-clip-extraction/gamelogs_map.json") as f:
 HUDL_GAMES_DIR = r"/Volumes/BBall_Data_23X_pt2/HUDL_basketball_data_pt2/22-23/400"
 BATCH_DIR = r"/Volumes/BBall_Data_23X_pt2/HUDL_basketball_data_pt2/22-23/videos_with_logs_batch_100"
 
+
 def process_video():
     pass
 
@@ -40,10 +41,6 @@ def move_100_videos_to_batch_dir(batch_dir=None):
 
 
 def process_dir(dir_path):
-    pass
-
-
-def process_video(video_path):
     pass
 
 

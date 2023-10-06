@@ -6,8 +6,10 @@ from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
 
+from temporal_grounding.utilities.constants import *
 
 # TODO: also viz bounding box representing roi
+
 
 def visualize_timestamps(video_path, timestamps_path, viz_path, tr_roi=None):
 
@@ -22,7 +24,7 @@ def visualize_timestamps(video_path, timestamps_path, viz_path, tr_roi=None):
 
     writer = cv2.VideoWriter(
         viz_path, cv2.VideoWriter_fourcc(*'MPEG'), fps, (width, height))
-    font = ImageFont.truetype('utilities/os-eb.ttf', 30)
+    font = ImageFont.truetype(PATH_TO_FONT, 30)
     for frame_index in tqdm(range(frame_cnt)):
         ret, frame = reader.read()
         if not ret:

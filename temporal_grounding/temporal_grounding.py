@@ -29,11 +29,14 @@ def process_dir(dir_path: str, data_out_path: str, viz_out_path=None) -> None:
             viz_out_path) is str, "Error: path links must be of type str."
         os.makedirs(viz_out_path, exist_ok=True)
 
-    valid_formats = ['avi', 'mp4']
+    valid_formats = ['.avi', '.mp4']
     vids = os.listdir(dir_path)
     for vid in vids:
-        extension = vid.split(".")[1]
-        if extension not in valid_formats:
+        format_found = False
+        for format in valid_formats:
+            if format in vid:
+                format_found = True
+        if not format_found:
             vids.remove(vid)
 
     for vid in vids:
@@ -67,10 +70,12 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
     cap = cv2.VideoCapture(video_path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     fps = cap.get(cv2.CAP_PROP_FPS)
+    print(fps)
     timestamps = {}
     quarter = video_path[-5]  # period_x.mp4
     step = 5
 
+    # TODO: temporarly do not cast quarter to int
     for frame_index in tqdm(range(frames_cnt)):
         ret, frame = cap.read()
         if not ret:
@@ -86,14 +91,14 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
                     Image.fromarray(time_remaining_img))
                 time_remaining = convert_time_to_float(time_remaining)
         timestamps[str(frame_index)] = {
-            "quarter": int(quarter),
+            "quarter": quarter,
             "time_remaining": time_remaining,
         }
         if frame_index == BREAK:
             break
 
     post_process_timestamps(timestamps, fps)
-    timestamps = generate_formated_timestamps(timestamps=timestamps)
+    # timestamps = generate_formated_timestamps(timestamps=timestamps)
     with open(save_path, "w") as json_file:
         json.dump(timestamps, json_file, indent=4)
 
@@ -233,7 +238,7 @@ def post_process_timestamps(timestamps, frame_rate: float):
     Interpolate timestamps in-place.
     """
 
-    def interpolate_time_array(time_array: List[int], frame_rate: float):
+    def interpolate_time_array(time_array, frame_rate: float):
         """
         Interpolate between indentical time values
         only when it is clear that time remaining will 
@@ -263,8 +268,8 @@ def post_process_timestamps(timestamps, frame_rate: float):
                     else:
                         seen[curr_value] = 1
                         time_array[i] -= seen[curr_value] * seconds_per_frame
-            if time_array[i] < 0:
-                time_array[i] = 0.0
+                if time_array[i] < 0:
+                    time_array[i] = 0.0
             i += 1
 
     last_quarter, last_time = None, None
@@ -284,7 +289,8 @@ def post_process_timestamps(timestamps, frame_rate: float):
 
     interpolate_time_array(time_array, frame_rate)
     for key, time_remaining in zip(timestamps, time_array):
-        timestamps[key]["time_remaining"] = round(time_remaining, 1)
+        if timestamps[key]["time_remaining"] is not None:
+            timestamps[key]["time_remaining"] = round(time_remaining, 1)
 
 
 def generate_formated_timestamps(timestamps):

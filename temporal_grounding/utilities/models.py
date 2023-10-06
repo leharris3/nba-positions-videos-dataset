@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 from paddleocr import PaddleOCR
 
-MODEL_PATH = r"C:\Users\Levi\Desktop\__dep__\contextualized-shot-quality-estimation\models\yolo\weights\tr_roi_finetune_130_large.pt"
+MODEL_PATH = r"temporal_grounding/models/yolo/weights/tr_roi_finetune_130_large.pt"
 
 
 class Models:
