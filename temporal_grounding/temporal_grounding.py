@@ -235,6 +235,17 @@ def convert_time_to_float(time_remaining):
     return (60.0 * minutes) + seconds
 
 
+def convert_float_to_time_str(time_remaining: float):
+    if time_remaining is not None:
+        minutes = int(time_remaining) // 60
+        seconds = int((time_remaining - (minutes * 60)))
+        decimal_seconds = (
+            int((time_remaining - (minutes * 60) - seconds) * 10))
+        return f"{minutes:02d}:{seconds:02d}.{decimal_seconds}"
+    else:
+        return ""
+
+
 def post_process_timestamps(timestamps, frame_rate: float):
     """
     Interpolate timestamps in-place.

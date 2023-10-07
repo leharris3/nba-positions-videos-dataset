@@ -63,10 +63,11 @@ def get_shot_events(csv_path: str):
         return []
 
     for row in arr:
-        if "+" in row[2] or "-" in row[2]:
+        first_char_event_str = row[2][0]
+        if "2" == (first_char_event_str or "3" == first_char_event_str) and "F" not in row[2]:
             try:
-                points = row[2][0]
-                is_shot_made = row[2][1] == "+"
+                points = int(first_char_event_str)
+                is_shot_made = row[2][1:]
                 quarter = row[13]
                 shot_time = round(period_start_time - float(row[23]), 1)
                 if points != "1":
