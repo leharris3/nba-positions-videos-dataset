@@ -55,8 +55,8 @@ def extract_shots_from_video(video_path, shots_dir, timestamps_path):
         key = f"{event[2]}_{event[3]}"
         if key in timestamps:
             try:
-                backwards_pad = 30 * 5
-                shot_duration = 30 * 10
+                backwards_pad = 30 * 1
+                shot_duration = 30 * 3
                 start_frame = timestamps[key] - backwards_pad
                 end_frame = start_frame + shot_duration
                 intervals.append([start_frame, end_frame, event])
@@ -70,15 +70,15 @@ def extract_shots_from_video(video_path, shots_dir, timestamps_path):
 
     shot_index = 0
     video_title = os.path.basename(video_path)
-    shot_subdir = os.path.join(shots_dir, video_title.replace(".avi", ""))
-    if len(intervals) > 0:
-        os.makedirs(shot_subdir, exist_ok=True)
+    # shot_subdir = os.path.join(shots_dir, video_title.replace(".avi", ""))
+    # if len(intervals) > 0:
+    #     os.makedirs(shot_subdir, exist_ok=True)
     for interval in intervals:
         start_frame, end_frame = interval[0], interval[1]
         if start_frame not in see_start_frames:
             is_shot_made = interval[2][1]
             output_path = os.path.join(
-                shot_subdir, f"clip_{shot_index}_{is_shot_made}.avi")
+                shots_dir, f"{game_id}_clip_{shot_index}_{is_shot_made}.avi")
             print(f"Shot clips saved to: {output_path}")
             clip_video(video_path, output_path, start_frame, end_frame)
             shot_index += 1

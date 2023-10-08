@@ -5,6 +5,7 @@ import os
 import re
 import time
 import numpy as np
+import math
 
 from tqdm import tqdm
 from PIL import Image
@@ -236,6 +237,9 @@ def convert_time_to_float(time_remaining):
 
 
 def convert_float_to_time_str(time_remaining: float):
+
+    if math.isnan(time_remaining):
+        return "NaN"
     if time_remaining is not None:
         minutes = int(time_remaining) // 60
         seconds = int((time_remaining - (minutes * 60)))
