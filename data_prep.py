@@ -4,7 +4,7 @@ import os
 import csv
 
 LOGS_DIR = r"C:\Users\Levi\Desktop\hudl-logs\DATA\game_logs"
-LOGS_PATH = r"data\gamelogs_map.json"
+LOGS_PATH = r"data/gamelogs_map.json"
 with open(LOGS_PATH, 'r') as logs_map:
     LOGS = json.load(logs_map)
 

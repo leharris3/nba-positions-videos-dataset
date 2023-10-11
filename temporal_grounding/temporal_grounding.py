@@ -289,6 +289,9 @@ def post_process_timestamps(timestamps, frame_rate: float):
                     time_array[i] = 0.0
             i += 1
 
+    if timestamps is None:
+        raise Exception("Error: timestamps are None.")
+
     last_quarter, last_time = None, None
     time_array = []
 
@@ -307,7 +310,7 @@ def post_process_timestamps(timestamps, frame_rate: float):
     interpolate_time_array(time_array, frame_rate)
     for key, time_remaining in zip(timestamps, time_array):
         if timestamps[key]["time_remaining"] is not None:
-            timestamps[key]["time_remaining"] = round(time_remaining, 1)
+            timestamps[key]["time_remaining"] = time_remaining
 
 
 def generate_formated_timestamps(timestamps):
