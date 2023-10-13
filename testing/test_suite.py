@@ -5,7 +5,7 @@ import time
 from PIL import Image
 from unittest import TestCase
 
-from temporal_grounding.temporal_grounding import find_time_remaining_from_results
+from temporal_grounding.temporal_grounding import *
 
 
 class RegexTests(TestCase):
@@ -167,3 +167,159 @@ class TimeExtractionBenchmarkTests(TestCase):
                 found += 1
             total += 1
         assert (found / total) >= .95
+
+
+class PostProcessTests(TestCase):
+
+    def test_post_process_timestamps_none(self):
+
+        timestmaps = None
+        frame_rate = 0.0
+        try:
+            post_process_timestamps(timestmaps, frame_rate)
+            assert False
+        except:
+            assert True
+
+    def test_post_process_timestamps_base(self):
+
+        timestamps = {"0": {
+            "quarter": 1,
+            "time_remaining": 300.0
+        }}
+        expected = {"0": {
+            "quarter": 1,
+            "time_remaining": 300.0
+        }}
+        not_expected = {}
+        frame_rate = 30.0
+
+        post_process_timestamps(timestamps, frame_rate)
+        try:
+            assert type(timestamps) == dict
+            assert timestamps == expected
+            assert not timestamps == not_expected
+        except:
+            raise Exception(f"Expected {expected}, got {timestamps}.")
+
+    def test_post_process_timestamps_basic_inter(self):
+
+        timestamps = {"0": {
+            "quarter": 1,
+            "time_remaining": 300.0
+        }, "1": {
+            "quarter": 1,
+            "time_remaining": None
+        }, "2": {
+            "quarter": 1,
+            "time_remaining": 299.0
+        }, "3": {
+            "quarter": 1,
+            "time_remaining": None
+        }}
+
+        expected = {"0": {
+            "quarter": 1,
+            "time_remaining": 300.0
+        }, "1": {
+            "quarter": 1,
+            "time_remaining": 299.5
+        }, "2": {
+            "quarter": 1,
+            "time_remaining": 299.0
+        }, "3": {
+            "quarter": 1,
+            "time_remaining": 298.5
+        }}
+
+        not_expected = {}
+        frame_rate = 2.0
+
+        post_process_timestamps(timestamps, frame_rate)
+        try:
+            assert type(timestamps) == dict
+            assert timestamps == expected
+            assert not timestamps == not_expected
+        except:
+            raise Exception(f"Expected {expected}, got {timestamps}.")
+
+    def test_post_process_timestamps_inter_hard(self):
+
+        timestamps = {"0": {
+            "quarter": 1,
+            "time_remaining": 300.0
+        }, "1": {
+            "quarter": 1,
+            "time_remaining": None
+        }, "2": {
+            "quarter": 1,
+            "time_remaining": None
+        }, "3": {
+            "quarter": 1,
+            "time_remaining": None
+        }, "4": {
+            "quarter": 1,
+            "time_remaining": 300.0
+        }, "5": {
+            "quarter": 1,
+            "time_remaining": 299.0
+        }, "6": {
+            "quarter": 1,
+            "time_remaining": None
+        }, "7": {
+            "quarter": 1,
+            "time_remaining": None
+        }, "8": {
+            "quarter": 1,
+            "time_remaining": 298.0
+        }}
+
+        expected = {"0": {
+            "quarter": 1,
+            "time_remaining": 300.0
+        }, "1": {
+            "quarter": 1,
+            "time_remaining": 300.0
+        }, "2": {
+            "quarter": 1,
+            "time_remaining": 299.75
+        }, "3": {
+            "quarter": 1,
+            "time_remaining": 299.5
+        }, "4": {
+            "quarter": 1,
+            "time_remaining": 299.25
+        }, "5": {
+            "quarter": 1,
+            "time_remaining": 299.0
+        }, "6": {
+            "quarter": 1,
+            "time_remaining": 298.75
+        }, "7": {
+            "quarter": 1,
+            "time_remaining": 298.5
+        }, "8": {
+            "quarter": 1,
+            "time_remaining": 298.0
+        }}
+
+        {'0': {'quarter': 1, 'time_remaining': 300.0}, 
+         '1': {'quarter': 1, 'time_remaining': 300.0}, 
+         '2': {'quarter': 1, 'time_remaining': 299.8}, 
+         '3': {'quarter': 1, 'time_remaining': 299.5}, 
+         '4': {'quarter': 1, 'time_remaining': 299.2}, 
+         '5': {'quarter': 1, 'time_remaining': 298.8}, 
+         '6': {'quarter': 1, 'time_remaining': 298.5}, 
+         '7': {'quarter': 1, 'time_remaining': 298.2}, 
+         '8': {'quarter': 1, 'time_remaining': 297.8}}
+
+        not_expected = {}
+        frame_rate = 4.0
+
+        post_process_timestamps(timestamps, frame_rate)
+        try:
+            assert type(timestamps) == dict
+            assert timestamps == expected
+            assert not timestamps == not_expected
+        except:
+            raise Exception(f"Expected {expected}, got {timestamps}.")
