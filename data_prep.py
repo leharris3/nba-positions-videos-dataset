@@ -3,7 +3,7 @@ import json
 import os
 import csv
 
-LOGS_DIR = r"C:\Users\Levi\Desktop\hudl-logs\DATA\game_logs"
+LOGS_DIR = r"C:/Users/Levi/Desktop/hudl-logs/DATA/game_logs"
 LOGS_PATH = r"data/gamelogs_map.json"
 with open(LOGS_PATH, 'r') as logs_map:
     LOGS = json.load(logs_map)
@@ -35,7 +35,7 @@ def get_log_path(game_id: str):
     return ""
 
 
-def get_shot_events(csv_path: str):
+def get_shot_events(csv_path: str, period: int):
     """
     Given a path to a game csv, return all moments at which a shot occured.
     Moment: [quarter, time_remaining].
@@ -44,37 +44,25 @@ def get_shot_events(csv_path: str):
     """
 
     shots = []
-    arr = []
 
-    # append all rows to an array
-    max_time = 0.0
     try:
         with open(csv_path) as file:
             doc = csv.reader(file, delimiter=';')
             for row in doc:
-                arr.append(row)
-                try:
-                    max_time = max(max_time, float(row[23]))
-                except:
-                    pass
-        period_start_time = 60.0 * (max_time // 60)
+                event = row[2]
+                quarter = row[13]
+                event_timestamp = row[14]
+                ev_chr_1 = row[2][0]
+                event_condition = ("2" == ev_chr_1 or "3" == ev_chr_1) and ("F" not in event) and (quarter == period)
+                if event_condition:
+                    shots.append({
+                        "event": event,
+                        "timestamp": float(event_timestamp)
+                    })
     except:
         print(f"Error: could not open csv for path: {csv_path}")
         return []
-
-    for row in arr:
-        first_char_event_str = row[2][0]
-        if "2" == (first_char_event_str or "3" == first_char_event_str) and "F" not in row[2]:
-            try:
-                points = int(first_char_event_str)
-                is_shot_made = row[2][1:]
-                quarter = row[13]
-                shot_time = round(period_start_time - float(row[23]), 1)
-                if points != "1":
-                    shots.append(
-                        [points, is_shot_made, quarter, shot_time])
-            except:
-                pass
+    
     return shots
 
 
