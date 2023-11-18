@@ -1,0 +1,835 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76905781;1601000;Starting lineup;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905782;1601000;Starting lineup;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905783;1601000;Starting lineup;6033;Louis Amundson;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905784;1601000;Starting lineup;6036;Lance Thomas;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905785;1601000;Starting lineup;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905786;1601000;Starting lineup;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905787;1601000;Starting lineup;7776;Jerian Grant;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905788;1601000;Starting lineup;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905789;1601000;Starting lineup;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905790;1601000;Starting lineup;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905791;1601000;Starting lineup;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905792;1601000;Starting lineup;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905802;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905803;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905804;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905805;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905806;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905807;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905813;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;12.705;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905814;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;7493;Arron Afflalo;1;27.705;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905815;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;27.705;22.58;4.41;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76905817;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;46.413;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905818;200300;Pick'n'Roll;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;56.476;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905819;800600;2F;6030;Robin Lopez;3173;New York Knicks;2483;Cody Zeller;2977;Charlotte Hornets;;;1;56.476;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 10:24:00.87147
+76905820;100200;Game stop;;;;;;;;;;;1;56.476;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905822;800101;1+;6030;Robin Lopez;3173;New York Knicks;2483;Cody Zeller;2977;Charlotte Hornets;;;1;80.625;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905823;800101;1+;6030;Robin Lopez;3173;New York Knicks;2483;Cody Zeller;2977;Charlotte Hornets;;;1;93.300;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905825;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;93.300;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905828;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;132.783;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905829;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;132.783;26.36;6.66;;;;;;;;Post;;Hook;;;;2017-12-07 10:24:00.87147
+76905832;100200;Game stop;;;;;;;;;;;1;145.353;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905833;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;2477;Nicolas Batum;2977;Charlotte Hornets;;;1;145.353;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905837;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;183.449;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905838;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;1;201.449;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905839;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;201.449;26.12;8.88;;;;;;;;Cut;;Hook;;;;2017-12-07 10:24:00.87147
+76905842;100200;Game stop;;;;;;;;;;;1;213.727;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905843;300100;Foul;6030;Robin Lopez;3173;New York Knicks;2483;Cody Zeller;2977;Charlotte Hornets;;;1;213.727;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905845;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;236.756;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905846;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;236.756;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905848;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;250.025;22.82;8.43;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76905850;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;259.868;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905851;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;275.183;21.05;12.30;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76905854;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;294.447;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905855;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;2483;Cody Zeller;2977;Charlotte Hornets;;;1;294.447;26.81;7.35;;;;;;;;Post;;Lay up;;;;2017-12-07 10:24:00.87147
+76905857;100400;Steal;6030;Robin Lopez;3173;New York Knicks;2483;Cody Zeller;2977;Charlotte Hornets;;;1;302.702;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905858;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;312.946;23.42;7.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76905863;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6028;Kristaps Porzingis;1;345.847;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905864;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;345.847;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76905865;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;345.847;22.13;11.13;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:24:00.87147
+76905867;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;381.602;22.37;4.02;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76905868;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;381.602;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905869;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;7493;Arron Afflalo;1;381.602;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905870;800301;3+;7493;Arron Afflalo;3173;New York Knicks;;;;;6030;Robin Lopez;1;381.602;27.62;14.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76905873;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;421.595;19.79;10.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76905874;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;421.595;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905878;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;440.497;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905879;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;453.393;22.10;9.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76905880;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;453.393;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905881;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;453.393;26.66;7.80;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:24:00.87147
+76905884;100200;Game stop;;;;;;;;;;;1;460.957;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905885;100300;Rebound;;;3173;New York Knicks;;;;;;;1;460.957;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905886;1800600;Timeout;;;3173;New York Knicks;;;;;;;1;460.957;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905889;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;483.766;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905892;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;494.147;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905893;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;500.878;20.90;3.51;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76905896;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;512.815;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905897;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;525.287;24.02;9.18;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:24:00.87147
+76905899;100200;Game stop;;;;;;;;;;;1;532.161;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905900;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;2477;Nicolas Batum;2977;Charlotte Hornets;;;1;532.161;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905903;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;582.063;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905904;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;582.063;26.84;10.38;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76905908;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;616.813;21.05;12.21;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76905909;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;616.813;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905910;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;621.321;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905911;800301;3+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;7493;Arron Afflalo;1;621.321;21.26;12.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76905914;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;640.283;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905915;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;658.202;22.58;5.82;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:24:00.87147
+76905916;100200;Game stop;;;;;;;;;;;1;667.812;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905918;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;1;687.048;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905919;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;1;687.048;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905920;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;687.048;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905925;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;687.048;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905926;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;704.448;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905927;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;704.448;26.72;7.32;;;;;;;;Post;;Lay up;;;;2017-12-07 10:24:00.87147
+76905928;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;704.448;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905929;400101;Accurate pass;6024;Kevin Seraphin;3173;New York Knicks;;;;;6028;Kristaps Porzingis;1;709.890;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905930;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6024;Kevin Seraphin;1;709.890;27.08;7.11;;;;;;;;Cut;;;;;;2017-12-07 10:24:00.87147
+76905931;100200;Game stop;;;;;;;;;;;1;759.119;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905935;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;759.119;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905936;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;775.023;23.75;3.87;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76905939;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;786.644;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905940;200600;Post;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;798.585;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905941;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;798.585;27.23;10.26;;;;;;;;Post;;Hook;;;;2017-12-07 10:24:00.87147
+76905944;200300;Pick'n'Roll;6024;Kevin Seraphin;3173;New York Knicks;;;;;7776;Jerian Grant;1;828.467;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76905945;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;7776;Jerian Grant;1;828.467;21.80;9.06;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:24:00.87147
+76905947;100200;Game stop;;;;;;;;;;;1;837.057;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905948;300100;Foul;369815;Langston Galloway;3173;New York Knicks;2477;Nicolas Batum;2977;Charlotte Hornets;;;1;837.057;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905949;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;1;870.491;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905950;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;1;870.491;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905953;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;870.491;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905954;800600;2F;8329;Derrick Williams;3173;New York Knicks;2484;Frank Kaminsky;2977;Charlotte Hornets;;;1;875.292;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:24:00.87147
+76905955;100200;Game stop;;;;;;;;;;;1;875.292;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905957;800101;1+;8329;Derrick Williams;3173;New York Knicks;2484;Frank Kaminsky;2977;Charlotte Hornets;;;1;900.818;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905958;800101;1+;8329;Derrick Williams;3173;New York Knicks;2484;Frank Kaminsky;2977;Charlotte Hornets;;;1;915.265;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905961;100200;Game stop;;;;;;;;;;;1;927.088;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905962;300100;Foul;8329;Derrick Williams;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;1;927.088;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905965;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;967.617;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905966;100200;Game stop;;;;;;;;;;;1;972.517;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905967;300100;Foul;6024;Kevin Seraphin;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;1;972.517;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905970;100200;Game stop;;;;;;;;;;;1;1016.792;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905971;100500;Turnover;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;1016.792;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905975;1800500;Halftime;;;;;;;;;;;1;1028.756;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905976;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905977;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905978;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905979;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905980;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905981;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905990;400101;Accurate pass;6024;Kevin Seraphin;3173;New York Knicks;;;;;8329;Derrick Williams;2;26.164;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905991;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;6024;Kevin Seraphin;2;26.164;23.90;8.22;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76905997;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;72.985;21.20;10.59;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:24:00.87147
+76906001;800202;2-;6036;Lance Thomas;3173;New York Knicks;;;;;6024;Kevin Seraphin;2;105.296;27.08;2.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906002;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;2;105.296;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906003;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;2484;Frank Kaminsky;2977;Charlotte Hornets;;;2;105.296;26.84;7.74;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:24:00.87147
+76906008;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;120.745;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906009;800202;2-;8329;Derrick Williams;3173;New York Knicks;2475;Marvin Williams;2977;Charlotte Hornets;;;2;126.028;27.23;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:24:00.87147
+76906012;200600;Post;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;2;159.039;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906013;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;2;159.039;26.84;10.59;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76906017;800600;2F;7776;Jerian Grant;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;187.874;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:24:00.87147
+76906018;100200;Game stop;;;;;;;;;;;2;187.874;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906020;1800600;Timeout;;;;;;;;;;;2;187.874;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906021;800101;1+;7776;Jerian Grant;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;197.314;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906022;800101;1+;7776;Jerian Grant;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;211.189;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906023;1600500;Guard;6033;Louis Amundson;3173;New York Knicks;6024;Kevin Seraphin;3173;New York Knicks;;;2;211.189;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906027;800202;2-;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;238.351;25.67;10.26;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906029;100200;Game stop;;;;;;;;;;;2;247.934;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906030;300100;Foul;6033;Louis Amundson;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;247.934;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906031;1600500;Guard;6034;Sasha Vujacic;3173;New York Knicks;7776;Jerian Grant;3173;New York Knicks;;;2;278.478;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906032;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;2;278.478;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906035;100200;Game stop;;;;;;;;;;;2;278.478;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906036;300100;Foul;6033;Louis Amundson;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;278.478;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906041;100400;Steal;6034;Sasha Vujacic;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;2;326.545;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906042;800302;3-;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;2;337.385;23.18;1.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906045;800202;2-;8329;Derrick Williams;3173;New York Knicks;2484;Frank Kaminsky;2977;Charlotte Hornets;;;2;369.293;25.82;7.17;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:24:00.87147
+76906046;100200;Game stop;;;;;;;;;;;2;369.293;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906047;100300;Rebound;;;3173;New York Knicks;;;;;;;2;369.293;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906048;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;2;393.824;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906049;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;2;393.824;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906050;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;393.824;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906051;100200;Game stop;;;;;;;;;;;2;393.824;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906052;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;393.824;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906055;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;415.660;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906056;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;427.058;27.23;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906059;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;435.930;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906060;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;455.918;22.13;4.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906061;100200;Game stop;;;;;;;;;;;2;455.918;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906062;100300;Rebound;;;3173;New York Knicks;;;;;;;2;455.918;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906063;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;6033;Louis Amundson;3173;New York Knicks;;;2;480.842;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906066;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;480.842;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906067;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;480.842;23.33;11.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76906070;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;513.521;23.60;7.74;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:24:00.87147
+76906073;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;525.089;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906074;100200;Game stop;;;;;;;;;;;2;531.040;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906076;1800600;Timeout;;;3173;New York Knicks;;;;;;;2;531.040;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906078;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;6034;Sasha Vujacic;3173;New York Knicks;;;2;548.345;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906079;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;554.169;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906083;100200;Game stop;;;;;;;;;;;2;584.742;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906084;300100;Foul;6030;Robin Lopez;3173;New York Knicks;8411;Al Jefferson;2977;Charlotte Hornets;;;2;584.742;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906088;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;622.389;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906089;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;622.389;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906090;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;643.927;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906091;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;8411;Al Jefferson;2977;Charlotte Hornets;;;2;643.927;26.51;5.58;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76906092;100200;Game stop;;;;;;;;;;;2;643.927;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906093;100300;Rebound;;;3173;New York Knicks;;;;;;;2;643.927;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906094;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;2477;Nicolas Batum;2977;Charlotte Hornets;;;2;662.455;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906096;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;2477;Nicolas Batum;2977;Charlotte Hornets;;;2;675.982;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906097;800102;1-;6029;Carmelo Anthony;3173;New York Knicks;2477;Nicolas Batum;2977;Charlotte Hornets;;;2;692.226;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906101;100200;Game stop;;;;;;;;;;;2;706.106;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906102;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;2480;Kemba Walker;2977;Charlotte Hornets;;;2;706.106;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906106;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;759.569;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906107;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6030;Robin Lopez;2;780.569;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906108;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;780.569;26.51;7.95;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:24:00.87147
+76906111;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;2;809.859;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906112;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;809.859;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76906113;800301;3+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;809.859;20.21;4.95;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:24:00.87147
+76906115;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;825.608;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906118;100200;Game stop;;;;;;;;;;;2;843.969;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906119;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;2480;Kemba Walker;2977;Charlotte Hornets;;;2;843.969;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906123;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;886.693;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906124;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;908.693;26.84;7.95;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 10:24:00.87147
+76906127;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;934.774;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906128;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;934.774;27.08;6.87;;;;;;;;Post;;Lay up;;;;2017-12-07 10:24:00.87147
+76906129;100200;Game stop;;;;;;;;;;;2;941.579;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906132;300100;Foul;6030;Robin Lopez;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;941.579;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906133;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;2;950.430;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906136;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;964.035;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906137;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;2;976.035;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906138;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;976.035;26.84;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:24:00.87147
+76906141;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;996.496;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906142;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;2484;Frank Kaminsky;2977;Charlotte Hornets;;;2;1006.855;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:24:00.87147
+76906143;100200;Game stop;;;;;;;;;;;2;1006.855;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906145;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;2484;Frank Kaminsky;2977;Charlotte Hornets;;;2;1028.350;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906146;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;2;1048.978;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906148;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;2484;Frank Kaminsky;2977;Charlotte Hornets;;;2;1048.978;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906152;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1076.728;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906153;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;6024;Kevin Seraphin;2;1085.645;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906154;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;7493;Arron Afflalo;2;1085.645;26.27;5.73;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:24:00.87147
+76906157;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;2;1101.507;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906158;100200;Game stop;;;;;;;;;;;2;1107.801;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906159;300100;Foul;369815;Langston Galloway;3173;New York Knicks;2480;Kemba Walker;2977;Charlotte Hornets;;;2;1107.801;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906162;100200;Game stop;;;;;;;;;;;2;1135.918;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906163;100300;Rebound;;;3173;New York Knicks;;;;;;;2;1135.918;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906164;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;1147.072;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906165;100200;Game stop;;;;;;;;;;;2;1149.272;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906166;1800600;Timeout;;;3173;New York Knicks;;;;;;;2;1149.272;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906167;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;1158.486;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906168;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1175.186;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906169;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1175.186;26.99;7.32;;;;;;;;Post;;Lay up;;;;2017-12-07 10:24:00.87147
+76906170;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1175.186;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906173;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;1184.121;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906174;1800500;Halftime;;;;;;;;;;;2;1186.021;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906175;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906176;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906177;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906178;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906179;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906180;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906188;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;10.264;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906189;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;29.890;26.84;7.80;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:24:00.87147
+76906192;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;44.346;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906193;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;8411;Al Jefferson;2977;Charlotte Hornets;;;3;72.007;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 10:24:00.87147
+76906194;100200;Game stop;;;;;;;;;;;3;72.007;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906196;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;8411;Al Jefferson;2977;Charlotte Hornets;;;3;92.535;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906197;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;8411;Al Jefferson;2977;Charlotte Hornets;;;3;106.146;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906200;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;138.285;22.43;6.63;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:24:00.87147
+76906203;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;175.840;27.05;8.13;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 10:24:00.87147
+76906206;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;203.470;22.88;5.58;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:24:00.87147
+76906207;100200;Game stop;;;;;;;;;;;3;224.411;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906209;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;244.632;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906210;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;263.632;26.84;7.35;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 10:24:00.87147
+76906212;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;284.029;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906213;200300;Pick'n'Roll;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;296.720;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906214;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;296.720;26.66;7.26;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:24:00.87147
+76906215;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;296.720;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906223;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;353.023;25.10;12.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906226;100200;Game stop;;;;;;;;;;;3;361.693;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906227;1800600;Timeout;;;3173;New York Knicks;;;;;;;3;361.693;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906228;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;3;383.807;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906229;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;383.807;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906230;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;383.807;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906231;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6024;Kevin Seraphin;3;383.807;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906232;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;369815;Langston Galloway;3;383.807;22.82;10.80;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906235;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;423.060;26.57;7.26;;;;;;;;Screen off;;Lay up;;;;2017-12-07 10:24:00.87147
+76906236;100200;Game stop;;;;;;;;;;;3;423.060;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906237;100300;Rebound;;;3173;New York Knicks;;;;;;;3;423.060;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906238;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;451.936;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906239;100200;Game stop;;;;;;;;;;;3;459.936;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906240;1800600;Timeout;;;3173;New York Knicks;;;;;;;3;459.936;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906241;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;483.291;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906242;400101;Accurate pass;6024;Kevin Seraphin;3173;New York Knicks;;;;;6028;Kristaps Porzingis;3;498.291;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906243;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;369815;Langston Galloway;3;498.291;26.96;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:24:00.87147
+76906244;100200;Game stop;;;;;;;;;;;3;517.941;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906246;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;523.397;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906247;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;537.397;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906248;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;537.397;23.18;4.80;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76906251;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;559.354;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906252;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;568.660;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906253;800301;3+;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;3;568.660;20.75;3.93;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76906255;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6028;Kristaps Porzingis;3;601.034;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906256;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;369815;Langston Galloway;3;601.034;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76906257;800301;3+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;369815;Langston Galloway;3;601.034;19.94;5.25;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:24:00.87147
+76906258;100200;Game stop;;;;;;;;;;;3;610.784;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906262;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;3;634.568;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906263;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;3;634.568;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906266;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;634.568;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906267;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;642.740;22.52;1.56;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76906270;100200;Game stop;;;;;;;;;;;3;650.838;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906271;300100;Foul;6036;Lance Thomas;3173;New York Knicks;2480;Kemba Walker;2977;Charlotte Hornets;;;3;650.838;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906275;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;694.162;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906276;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;3;708.162;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 10:24:00.87147
+76906277;100200;Game stop;;;;;;;;;;;3;708.162;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906279;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;3;736.597;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906281;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;3;755.973;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906287;800202;2-;7776;Jerian Grant;3173;New York Knicks;;;;;;;3;814.477;23.60;2.25;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:24:00.87147
+76906288;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;814.477;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906289;400101;Accurate pass;6024;Kevin Seraphin;3173;New York Knicks;;;;;7776;Jerian Grant;3;824.283;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906290;800201;2+;7776;Jerian Grant;3173;New York Knicks;;;;;6024;Kevin Seraphin;3;824.283;26.72;7.11;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:24:00.87147
+76906292;100200;Game stop;;;;;;;;;;;3;839.139;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906293;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;3;839.139;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906295;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;3;885.750;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906298;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;887.795;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906299;200600;Post;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;3;912.795;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906300;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;3;912.795;27.05;11.52;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76906302;100200;Game stop;;;;;;;;;;;3;935.176;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906306;100200;Game stop;;;;;;;;;;;3;957.888;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906307;300100;Foul;7776;Jerian Grant;3173;New York Knicks;2476;Jeremy Lamb;2977;Charlotte Hornets;;;3;957.888;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906310;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;997.092;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906311;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;369815;Langston Galloway;3;1010.892;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:24:00.87147
+76906312;800301;3+;369815;Langston Galloway;3173;New York Knicks;;;;;7493;Arron Afflalo;3;1010.892;20.96;3.42;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:24:00.87147
+76906313;100200;Game stop;;;;;;;;;;;3;1022.873;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906315;1600500;Guard;6033;Louis Amundson;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;3;1061.812;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906316;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1061.812;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906317;200300;Pick'n'Roll;6033;Louis Amundson;3173;New York Knicks;;;;;369815;Langston Galloway;3;1061.812;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906318;800202;2-;6033;Louis Amundson;3173;New York Knicks;;;;;369815;Langston Galloway;3;1061.812;26.72;7.68;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:24:00.87147
+76906319;100200;Game stop;;;;;;;;;;;3;1061.812;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906324;100300;Rebound;6033;Louis Amundson;3173;New York Knicks;;;;;;;3;1090.477;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906325;100200;Game stop;;;;;;;;;;;3;1099.854;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906327;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;6033;Louis Amundson;3173;New York Knicks;;;3;1145.926;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906329;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1145.926;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906330;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;3;1145.926;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906331;800301;3+;369815;Langston Galloway;3173;New York Knicks;;;;;7776;Jerian Grant;3;1145.926;26.27;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906332;1800500;Halftime;;;;;;;;;;;3;1145.926;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906333;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906334;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906335;1600500;Guard;6033;Louis Amundson;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906336;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906337;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906338;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906344;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906345;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;7776;Jerian Grant;4;16.020;20.96;2.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906348;100200;Game stop;;;;;;;;;;;4;30.884;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906349;300100;Foul;6024;Kevin Seraphin;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;4;30.884;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906352;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;63.437;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906353;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6024;Kevin Seraphin;4;83.437;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906354;200600;Post;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;83.437;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906355;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;369815;Langston Galloway;4;83.437;24.89;7.74;;;;;;;;Post;;Hook;;;;2017-12-07 10:24:00.87147
+76906360;100200;Game stop;;;;;;;;;;;4;123.210;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906362;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;139.827;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906363;800202;2-;7776;Jerian Grant;3173;New York Knicks;2480;Kemba Walker;2977;Charlotte Hornets;;;4;144.827;25.22;4.41;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906364;100200;Game stop;;;;;;;;;;;4;144.827;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906365;100300;Rebound;;;3173;New York Knicks;;;;;;;4;144.827;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906366;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;7776;Jerian Grant;3173;New York Knicks;;;4;172.332;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906367;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;172.332;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906368;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;172.332;22.43;4.02;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906369;100200;Game stop;;;;;;;;;;;4;172.332;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906372;100200;Game stop;;;;;;;;;;;4;192.118;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906373;300100;Foul;6033;Louis Amundson;3173;New York Knicks;2484;Frank Kaminsky;2977;Charlotte Hornets;;;4;192.118;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906376;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;227.317;26.84;7.02;;;;;;;;Screen off;;Lay up;;;;2017-12-07 10:24:00.87147
+76906377;100200;Game stop;;;;;;;;;;;4;227.317;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906378;100300;Rebound;;;3173;New York Knicks;;;;;;;4;227.317;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906379;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6024;Kevin Seraphin;3173;New York Knicks;;;4;252.377;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906380;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;252.377;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906381;800202;2-;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;252.377;21.83;9.18;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76906383;100400;Steal;7478;Jose Manuel Calderon;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;259.497;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906384;400101;Accurate pass;6033;Louis Amundson;3173;New York Knicks;;;;;7493;Arron Afflalo;4;270.717;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906385;800301;3+;7493;Arron Afflalo;3173;New York Knicks;;;;;6033;Louis Amundson;4;270.717;27.53;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906386;100400;Steal;369815;Langston Galloway;3173;New York Knicks;2480;Kemba Walker;2977;Charlotte Hornets;;;4;292.866;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906387;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;4;300.819;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906388;800301;3+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;369815;Langston Galloway;4;300.819;21.98;1.95;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76906389;100200;Game stop;;;;;;;;;;;4;300.819;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906391;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;6033;Louis Amundson;3173;New York Knicks;;;4;326.803;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906392;1600500;Guard;6033;Louis Amundson;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;4;326.803;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906397;100200;Game stop;;;;;;;;;;;4;326.803;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906398;100300;Rebound;;;3173;New York Knicks;;;;;;;4;326.803;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906399;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;338.286;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906400;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;351.286;23.72;9.81;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76906404;100200;Game stop;;;;;;;;;;;4;388.605;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906407;800101;1+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;4;397.493;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906408;800101;1+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;4;409.999;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906409;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6033;Louis Amundson;3173;New York Knicks;;;4;447.412;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906411;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;447.412;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906412;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;447.412;21.98;4.05;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76906413;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;447.412;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906414;800400;2+1;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;447.412;26.99;7.56;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:24:00.87147
+76906415;100200;Game stop;;;;;;;;;;;4;447.412;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906417;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;2483;Cody Zeller;2977;Charlotte Hornets;;;4;473.769;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906420;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;488.261;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906421;800302;3-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;511.520;20.66;4.32;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906424;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;4;550.429;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76906425;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;4;550.429;21.83;9.21;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:24:00.87147
+76906426;100200;Game stop;;;;;;;;;;;4;550.429;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906427;100300;Rebound;;;3173;New York Knicks;;;;;;;4;550.429;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906428;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;564.998;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906429;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;569.998;25.37;4.59;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76906431;100200;Game stop;;;;;;;;;;;4;581.679;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906432;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;2480;Kemba Walker;2977;Charlotte Hornets;;;4;581.679;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906435;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;622.475;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906436;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;4;637.475;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906437;800301;3+;369815;Langston Galloway;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;637.475;19.73;5.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906438;100200;Game stop;;;;;;;;;;;4;637.475;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906440;1800600;Timeout;;;;;;;;;;;4;637.475;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906443;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;676.254;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906444;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;676.254;25.97;10.38;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76906447;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;726.811;26.96;6.87;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:24:00.87147
+76906450;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;763.468;27.08;13.50;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:24:00.87147
+76906453;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;772.458;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906454;100200;Game stop;;;;;;;;;;;4;776.786;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906455;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;776.786;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906456;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;4;803.041;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906458;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;803.041;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906459;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;803.041;22.73;6.90;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:24:00.87147
+76906462;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;819.112;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906463;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;847.300;21.35;7.95;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906464;100200;Game stop;;;;;;;;;;;4;847.300;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906469;100200;Game stop;;;;;;;;;;;4;887.403;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906471;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;908.710;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906472;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;918.710;25.67;10.89;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:24:00.87147
+76906475;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;938.396;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906476;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;961.524;24.35;5.10;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:24:00.87147
+76906478;100200;Game stop;;;;;;;;;;;4;971.103;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906479;300100;Foul;369815;Langston Galloway;3173;New York Knicks;2480;Kemba Walker;2977;Charlotte Hornets;;;4;971.103;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906483;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;996.250;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906484;100200;Game stop;;;;;;;;;;;4;1005.667;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906485;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;1005.667;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906487;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6024;Kevin Seraphin;3173;New York Knicks;;;4;1029.041;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906489;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1029.041;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906490;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;1029.041;21.26;12.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906493;100200;Game stop;;;;;;;;;;;4;1040.618;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906494;100300;Rebound;;;3173;New York Knicks;;;;;;;4;1040.618;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906495;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1056.448;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906496;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1078.948;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906497;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1078.948;24.80;4.56;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76906500;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;1086.141;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906501;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;1088.688;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906502;100200;Game stop;;;;;;;;;;;4;1088.688;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906504;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;1126.485;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906506;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;1151.854;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906511;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1170.505;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906512;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;4;1170.505;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906513;100200;Game stop;;;;;;;;;;;4;1170.505;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906515;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;4;1232.661;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906516;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;4;1260.050;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906517;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;2473;Spencer Hawes;2977;Charlotte Hornets;;;4;1260.050;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906519;1800700;Match end;;;;;;;;;;;4;1263.950;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+102325799;100500;Turnover;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;972.517;;;;;;;;;;;;;;;;2018-02-26 10:09:00.629149
+102325800;100500;Turnover;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;1107.801;;;;;;;;;;;;;;;;2018-02-26 10:09:00.629149
+103713536;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;27.705;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713538;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;56.476;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713542;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;201.449;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713548;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;312.946;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713552;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;345.847;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713556;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;6030;Robin Lopez;1;381.602;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713562;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;582.063;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713566;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;7493;Arron Afflalo;1;621.321;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713568;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;658.202;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713570;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6024;Kevin Seraphin;1;709.890;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713572;200900;Assisting;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;798.585;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713576;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;875.292;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713584;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;6024;Kevin Seraphin;2;26.164;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713594;200900;Assisting;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;187.874;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713602;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;480.842;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713608;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;662.455;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713612;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;780.569;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713616;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;809.859;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713622;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;934.774;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713626;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;976.035;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713628;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;1006.855;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713630;200900;Assisting;6024;Kevin Seraphin;3173;New York Knicks;;;;;7493;Arron Afflalo;2;1085.645;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713632;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;72.007;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713636;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;138.285;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713640;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;175.840;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713644;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;203.470;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713646;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;263.632;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713654;200900;Assisting;6024;Kevin Seraphin;3173;New York Knicks;;;;;369815;Langston Galloway;3;383.807;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713658;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;369815;Langston Galloway;3;498.291;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713660;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;537.397;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713662;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;3;568.660;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713666;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;369815;Langston Galloway;3;601.034;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713670;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;708.162;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713674;200900;Assisting;7776;Jerian Grant;3173;New York Knicks;;;;;6024;Kevin Seraphin;3;824.283;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713678;200900;Assisting;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;3;912.795;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713682;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;7493;Arron Afflalo;3;1010.892;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713684;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;7776;Jerian Grant;3;1145.926;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713688;200900;Assisting;6024;Kevin Seraphin;3173;New York Knicks;;;;;369815;Langston Galloway;4;83.437;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713694;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;6033;Louis Amundson;4;270.717;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713696;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;369815;Langston Galloway;4;300.819;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713700;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;447.412;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713704;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;569.998;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713708;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;637.475;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713718;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;1088.688;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713720;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1170.505;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+76905793;1601000;Starting lineup;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905794;1601000;Starting lineup;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905795;1601000;Starting lineup;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905796;1601000;Starting lineup;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905797;1601000;Starting lineup;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905798;1601000;Starting lineup;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905799;1601000;Starting lineup;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905800;1601000;Starting lineup;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905801;1601000;Starting lineup;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905808;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905809;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905810;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905811;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905812;1600500;Guard;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905816;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;46.413;27.35;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76905821;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;1;56.476;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905824;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;93.300;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905826;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;113.739;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905827;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;113.739;26.81;9.42;;;;;;;;Post;;Hook;;;;2017-12-07 10:24:00.87147
+76905830;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;132.783;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905831;800600;2F;2477;Nicolas Batum;2977;Charlotte Hornets;7493;Arron Afflalo;3173;New York Knicks;;;1;145.353;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 10:24:00.87147
+76905834;800102;1-;2477;Nicolas Batum;2977;Charlotte Hornets;7493;Arron Afflalo;3173;New York Knicks;;;1;166.102;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905835;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;1;166.102;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905836;800101;1+;2477;Nicolas Batum;2977;Charlotte Hornets;7493;Arron Afflalo;3173;New York Knicks;;;1;180.134;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905840;400101;Accurate pass;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2483;Cody Zeller;1;213.727;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905841;800400;2+1;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;213.727;26.81;7.50;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:24:00.87147
+76905844;800102;1-;2483;Cody Zeller;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;1;236.756;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905847;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;250.025;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905849;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;259.868;20.81;3.12;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:24:00.87147
+76905852;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;275.183;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905853;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;281.354;26.99;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:24:00.87147
+76905856;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;294.447;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905859;200300;Pick'n'Roll;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;333.451;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76905860;800202;2-;2483;Cody Zeller;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;2480;Kemba Walker;1;333.451;26.06;5.82;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 10:24:00.87147
+76905861;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;333.451;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905862;800201;2+;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;333.451;27.08;7.74;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 10:24:00.87147
+76905866;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;358.859;26.99;2.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76905871;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;401.646;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905872;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;401.646;27.08;9.51;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76905875;100400;Steal;2480;Kemba Walker;2977;Charlotte Hornets;7493;Arron Afflalo;3173;New York Knicks;;;1;428.480;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905876;200600;Post;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;440.497;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905877;800202;2-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;440.497;26.72;10.92;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76905882;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;453.393;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905883;800202;2-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;460.957;25.52;4.74;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76905887;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;7493;Arron Afflalo;3173;New York Knicks;;;1;460.957;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905888;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;2483;Cody Zeller;2977;Charlotte Hornets;;;1;483.766;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905890;100400;Steal;8411;Al Jefferson;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;1;483.766;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905891;800202;2-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;494.147;22.67;6.57;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76905894;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;500.878;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905895;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;1;512.815;27.23;13.50;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:24:00.87147
+76905898;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;525.287;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905901;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;549.811;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905902;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;559.811;22.67;5.40;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:24:00.87147
+76905905;400101;Accurate pass;2475;Marvin Williams;2977;Charlotte Hornets;;;;;8411;Al Jefferson;1;596.999;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905906;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;596.999;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905907;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2475;Marvin Williams;1;596.999;26.36;4.26;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76905912;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;640.283;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905913;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;640.283;25.10;2.97;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76905917;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;1;667.812;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905921;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;1;687.048;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905922;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;8411;Al Jefferson;2977;Charlotte Hornets;;;1;687.048;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905923;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;687.048;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905924;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;687.048;20.90;11.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76905932;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;2480;Kemba Walker;2977;Charlotte Hornets;;;1;759.119;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905933;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;759.119;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905934;800202;2-;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;759.119;25.10;7.35;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:24:00.87147
+76905937;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;1;775.023;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905938;800202;2-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;786.644;21.50;5.49;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76905942;400101;Accurate pass;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;1;798.585;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905943;800201;2+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;1;813.324;27.23;11.28;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:24:00.87147
+76905946;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;828.467;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905951;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;870.491;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905952;800202;2-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;1;870.491;23.90;7.95;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:24:00.87147
+76905956;300100;Foul;2484;Frank Kaminsky;2977;Charlotte Hornets;8329;Derrick Williams;3173;New York Knicks;;;1;875.292;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905959;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;919.888;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905960;800600;2F;2478;Jeremy Lin;2977;Charlotte Hornets;8329;Derrick Williams;3173;New York Knicks;;;1;927.088;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:24:00.87147
+76905963;800101;1+;2478;Jeremy Lin;2977;Charlotte Hornets;8329;Derrick Williams;3173;New York Knicks;;;1;948.933;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905964;800101;1+;2478;Jeremy Lin;2977;Charlotte Hornets;8329;Derrick Williams;3173;New York Knicks;;;1;961.942;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905968;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;983.218;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905969;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;1;1000.918;26.42;6.51;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76905972;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;1025.656;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905973;800302;3-;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;1;1028.756;20.36;4.56;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76905974;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;1;1028.756;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905982;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905983;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905984;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905985;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905986;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905987;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76905988;400101;Accurate pass;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;2;10.596;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905989;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2484;Frank Kaminsky;2;10.596;21.35;8.88;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:24:00.87147
+76905992;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;8329;Derrick Williams;3173;New York Knicks;;;2;42.098;26.27;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 10:24:00.87147
+76905993;100300;Rebound;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;42.098;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905994;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;2;49.094;21.26;12.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76905995;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;49.094;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905996;800201;2+;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;49.094;26.99;7.20;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 10:24:00.87147
+76905998;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;2;72.985;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76905999;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;2;86.038;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906000;800301;3+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;86.038;19.88;9.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906004;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;105.296;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906005;800302;3-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;120.745;20.51;11.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906006;100300;Rebound;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;120.745;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906007;800202;2-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;120.745;26.84;7.59;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:24:00.87147
+76906010;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;126.028;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906011;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;140.024;26.12;8.34;;;;;;;;Hand offs;;Floater;;;;2017-12-07 10:24:00.87147
+76906014;100300;Rebound;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;159.039;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906015;400101;Accurate pass;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;2;170.210;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906016;800301;3+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;2;170.210;20.21;4.02;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906019;300100;Foul;2478;Jeremy Lin;2977;Charlotte Hornets;7776;Jerian Grant;3173;New York Knicks;;;2;187.874;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906024;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;212.258;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906025;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;2;226.258;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906026;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;226.258;27.20;7.50;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:24:00.87147
+76906028;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;238.351;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906033;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;278.478;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906034;800600;2F;2478;Jeremy Lin;2977;Charlotte Hornets;6033;Louis Amundson;3173;New York Knicks;;;2;278.478;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:24:00.87147
+76906037;800101;1+;2478;Jeremy Lin;2977;Charlotte Hornets;6033;Louis Amundson;3173;New York Knicks;;;2;304.713;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906038;800102;1-;2478;Jeremy Lin;2977;Charlotte Hornets;6033;Louis Amundson;3173;New York Knicks;;;2;316.425;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906039;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;316.531;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906040;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;318.531;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906043;100300;Rebound;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;337.385;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906044;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;344.480;26.84;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:24:00.87147
+76906053;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;403.660;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906054;800302;3-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;415.660;21.11;12.69;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906057;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;427.058;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906058;800202;2-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;435.930;25.97;6.27;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76906064;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;480.842;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906065;1600500;Guard;8411;Al Jefferson;2977;Charlotte Hornets;2473;Spencer Hawes;2977;Charlotte Hornets;;;2;480.842;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906068;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;8411;Al Jefferson;2;495.906;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906069;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;495.906;27.05;7.95;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:24:00.87147
+76906071;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;2;513.521;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906072;800302;3-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;525.089;20.66;3.09;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:24:00.87147
+76906075;300100;Foul;2475;Marvin Williams;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;2;531.040;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906077;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;2;548.345;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906080;100400;Steal;8411;Al Jefferson;2977;Charlotte Hornets;7478;Jose Manuel Calderon;3173;New York Knicks;;;2;568.169;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906081;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;2;584.742;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906082;800600;2F;8411;Al Jefferson;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;2;584.742;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 10:24:00.87147
+76906085;800102;1-;8411;Al Jefferson;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;2;608.374;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906086;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;2;608.374;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906087;800102;1-;8411;Al Jefferson;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;2;622.389;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906095;300100;Foul;2477;Nicolas Batum;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;2;662.455;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906098;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;692.226;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906099;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;2;692.226;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906100;800600;2F;2480;Kemba Walker;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;2;706.106;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 10:24:00.87147
+76906103;800102;1-;2480;Kemba Walker;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;2;737.039;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906104;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;2;737.039;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906105;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;2;757.957;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906109;400101;Accurate pass;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;796.929;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:24:00.87147
+76906110;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;8411;Al Jefferson;2;796.929;22.58;3.57;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:24:00.87147
+76906114;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;825.608;22.13;3.72;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:24:00.87147
+76906116;100400;Steal;2480;Kemba Walker;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;2;831.898;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906117;800600;2F;2480;Kemba Walker;2977;Charlotte Hornets;7478;Jose Manuel Calderon;3173;New York Knicks;;;2;843.969;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 10:24:00.87147
+76906120;800102;1-;2480;Kemba Walker;2977;Charlotte Hornets;7478;Jose Manuel Calderon;3173;New York Knicks;;;2;870.251;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906121;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;2;870.251;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906122;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;7478;Jose Manuel Calderon;3173;New York Knicks;;;2;884.210;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906125;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;908.693;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906126;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;918.572;22.58;6.24;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76906130;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;2;941.579;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906131;800600;2F;2478;Jeremy Lin;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;2;941.579;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:24:00.87147
+76906134;800101;1+;2478;Jeremy Lin;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;2;950.430;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906135;800101;1+;2478;Jeremy Lin;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;2;963.272;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906139;200300;Pick'n'Roll;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;2;996.496;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76906140;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;2;996.496;25.64;8.91;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 10:24:00.87147
+76906144;300100;Foul;2484;Frank Kaminsky;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;2;1006.855;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906147;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;2484;Frank Kaminsky;2977;Charlotte Hornets;;;2;1048.978;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906149;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;1055.728;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906150;200300;Pick'n'Roll;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;1076.728;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76906151;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;1076.728;21.26;2.70;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:24:00.87147
+76906155;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;2;1101.507;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906156;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;6024;Kevin Seraphin;3173;New York Knicks;;;2;1101.507;26.21;7.50;;;;;;;;Post;;Lay up;;;;2017-12-07 10:24:00.87147
+76906160;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;1126.918;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906161;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;1135.918;20.36;4.26;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906171;100400;Steal;2480;Kemba Walker;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;2;1175.186;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906172;800302;3-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;1184.121;20.18;4.47;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76906181;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906182;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906183;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906184;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906185;1600500;Guard;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906186;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906187;800202;2-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;10.264;23.45;12.75;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906190;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;29.890;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906191;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;44.346;23.18;10.80;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:24:00.87147
+76906195;300100;Foul;8411;Al Jefferson;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;3;72.007;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906198;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;108.271;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906199;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;120.271;23.33;10.68;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906201;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;152.745;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906202;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;152.745;26.81;5.70;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76906204;400101;Accurate pass;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2475;Marvin Williams;3;189.710;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:24:00.87147
+76906205;800201;2+;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2483;Cody Zeller;3;189.710;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:24:00.87147
+76906208;100500;Turnover;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;224.411;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906211;800202;2-;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;284.029;25.97;9.99;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:24:00.87147
+76906216;100400;Steal;2475;Marvin Williams;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;3;296.720;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906217;400101;Accurate pass;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;307.299;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906218;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;8411;Al Jefferson;3;307.299;26.72;7.50;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:24:00.87147
+76906219;100400;Steal;8411;Al Jefferson;2977;Charlotte Hornets;6030;Robin Lopez;3173;New York Knicks;;;3;321.268;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906220;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;327.521;26.99;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:24:00.87147
+76906221;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;327.521;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906222;800201;2+;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;327.521;27.05;7.50;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 10:24:00.87147
+76906224;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;353.023;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906225;800301;3+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;361.693;20.96;12.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906233;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;405.051;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906234;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;405.051;26.72;10.50;;;;;;;;Post;;Hook;;;;2017-12-07 10:24:00.87147
+76906245;100500;Turnover;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;517.941;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906249;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;559.354;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906250;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;6024;Kevin Seraphin;3173;New York Knicks;;;3;559.354;26.99;9.03;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76906254;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;582.935;26.72;7.89;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:24:00.87147
+76906259;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;3;610.784;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906260;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;2483;Cody Zeller;2977;Charlotte Hornets;;;3;634.568;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906261;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;8411;Al Jefferson;2977;Charlotte Hornets;;;3;634.568;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906264;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;634.568;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906265;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;634.568;27.08;11.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906268;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;3;642.740;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906269;800600;2F;2480;Kemba Walker;2977;Charlotte Hornets;6036;Lance Thomas;3173;New York Knicks;;;3;650.838;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 10:24:00.87147
+76906272;800102;1-;2480;Kemba Walker;2977;Charlotte Hornets;6036;Lance Thomas;3173;New York Knicks;;;3;673.419;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906273;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;3;673.419;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906274;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;6036;Lance Thomas;3173;New York Knicks;;;3;691.484;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906278;300100;Foul;2473;Spencer Hawes;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;3;708.162;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906280;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;2477;Nicolas Batum;2977;Charlotte Hornets;;;3;755.973;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906282;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;761.656;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906283;200600;Post;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;3;781.656;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906284;800202;2-;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;3;781.656;26.27;10.26;;;;;;;;Post;;Jumper;;;;2017-12-07 10:24:00.87147
+76906285;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;3;781.656;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906286;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;3;781.656;26.72;6.12;;;;;;;;Putbacks;;Hook;;;;2017-12-07 10:24:00.87147
+76906291;800600;2F;2473;Spencer Hawes;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;3;839.139;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:24:00.87147
+76906294;800101;1+;2473;Spencer Hawes;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;3;859.937;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906296;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;2480;Kemba Walker;2977;Charlotte Hornets;;;3;885.750;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906297;800101;1+;2473;Spencer Hawes;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;3;885.750;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906301;800202;2-;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;3;935.176;25.10;7.26;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906303;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;3;935.176;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906304;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;956.888;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906305;800600;2F;2476;Jeremy Lamb;2977;Charlotte Hornets;7776;Jerian Grant;3173;New York Knicks;;;3;957.888;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:24:00.87147
+76906308;800101;1+;2476;Jeremy Lamb;2977;Charlotte Hornets;7776;Jerian Grant;3173;New York Knicks;;;3;980.264;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906309;800101;1+;2476;Jeremy Lamb;2977;Charlotte Hornets;7776;Jerian Grant;3173;New York Knicks;;;3;992.540;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906314;100500;Turnover;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;3;1022.873;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906320;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;3;1061.812;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906321;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;1075.077;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906322;200300;Pick'n'Roll;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;3;1090.477;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76906323;800302;3-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;3;1090.477;20.36;10.98;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:24:00.87147
+76906326;300100;Foul;2476;Jeremy Lamb;2977;Charlotte Hornets;7776;Jerian Grant;3173;New York Knicks;;;3;1099.854;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906328;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;2484;Frank Kaminsky;2977;Charlotte Hornets;;;3;1145.926;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906339;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906340;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906341;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906342;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906343;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906346;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;16.020;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906347;800600;2F;2473;Spencer Hawes;2977;Charlotte Hornets;6024;Kevin Seraphin;3173;New York Knicks;;;4;30.884;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:24:00.87147
+76906350;800101;1+;2473;Spencer Hawes;2977;Charlotte Hornets;6024;Kevin Seraphin;3173;New York Knicks;;;4;50.443;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906351;800101;1+;2473;Spencer Hawes;2977;Charlotte Hornets;6024;Kevin Seraphin;3173;New York Knicks;;;4;62.194;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906356;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;105.151;21.11;4.71;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906357;100300;Rebound;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;105.151;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906358;400101;Accurate pass;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2480;Kemba Walker;4;105.151;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906359;800301;3+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;4;105.151;21.71;12.84;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906361;300100;Foul;2476;Jeremy Lamb;2977;Charlotte Hornets;7493;Arron Afflalo;3173;New York Knicks;;;4;123.210;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906370;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;4;172.332;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906371;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;182.118;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906374;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;203.351;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906375;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;209.351;22.67;7.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906382;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;252.377;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906390;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;300.819;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906393;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;2476;Jeremy Lamb;2977;Charlotte Hornets;;;4;326.803;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906394;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;2484;Frank Kaminsky;2977;Charlotte Hornets;;;4;326.803;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906395;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;326.803;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906396;800202;2-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;4;326.803;27.20;1.71;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906401;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;351.286;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906402;200600;Post;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;362.689;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906403;800201;2+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;362.689;26.99;4.89;;;;;;;;Post;;Hook;;;;2017-12-07 10:24:00.87147
+76906405;300100;Foul;2475;Marvin Williams;2977;Charlotte Hornets;6033;Louis Amundson;3173;New York Knicks;;;4;388.605;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906406;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;4;397.493;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906410;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;2473;Spencer Hawes;2977;Charlotte Hornets;;;4;447.412;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906416;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;4;447.412;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906418;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;476.261;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906419;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;488.261;22.37;10.83;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906422;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;511.520;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906423;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;530.010;21.11;8.73;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:24:00.87147
+76906430;800600;2F;2480;Kemba Walker;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;4;581.679;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:24:00.87147
+76906433;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;4;604.517;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906434;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;4;619.064;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906439;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;637.475;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906441;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;640.742;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906442;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;652.742;22.73;6.87;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906445;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;676.254;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906446;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;707.978;26.66;8.10;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 10:24:00.87147
+76906448;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;726.811;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906449;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;733.287;26.12;7.83;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76906451;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;763.468;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906452;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;772.458;22.10;7.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906457;1600500;Guard;8411;Al Jefferson;2977;Charlotte Hornets;2483;Cody Zeller;2977;Charlotte Hornets;;;4;803.041;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906460;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;803.041;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906461;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2480;Kemba Walker;4;819.112;23.75;7.32;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:24:00.87147
+76906465;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;4;847.300;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906466;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;850.551;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906467;400101;Accurate pass;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;4;867.551;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906468;800301;3+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2480;Kemba Walker;4;867.551;19.94;6.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:24:00.87147
+76906470;300100;Foul;2477;Nicolas Batum;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;4;887.403;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906473;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;918.710;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906474;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;4;938.396;19.79;5.49;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 10:24:00.87147
+76906477;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;961.524;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906480;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;990.250;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906481;200300;Pick'n'Roll;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2480;Kemba Walker;4;996.250;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:24:00.87147
+76906482;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2480;Kemba Walker;4;996.250;22.13;7.11;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:24:00.87147
+76906486;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;2476;Jeremy Lamb;2977;Charlotte Hornets;;;4;1029.041;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906488;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;8411;Al Jefferson;2977;Charlotte Hornets;;;4;1029.041;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906491;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;1029.041;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906492;800302;3-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;1040.618;19.64;7.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:24:00.87147
+76906498;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;1078.948;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906499;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;1086.141;21.41;2.70;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:24:00.87147
+76906503;300100;Foul;2478;Jeremy Lin;2977;Charlotte Hornets;6028;Kristaps Porzingis;3173;New York Knicks;;;4;1088.688;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906505;1600500;Guard;8411;Al Jefferson;2977;Charlotte Hornets;2476;Jeremy Lamb;2977;Charlotte Hornets;;;4;1151.854;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906507;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;1151.854;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906508;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;2483;Cody Zeller;2977;Charlotte Hornets;;;4;1170.505;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906509;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;1170.505;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+76906510;800202;2-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;1170.505;22.58;3.96;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:24:00.87147
+76906514;300100;Foul;2473;Spencer Hawes;2977;Charlotte Hornets;6029;Carmelo Anthony;3173;New York Knicks;;;4;1170.505;;;;;;;;;;;;;;;;2017-12-07 10:24:00.87147
+76906518;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;1260.050;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+103713540;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;145.353;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713544;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;213.727;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713546;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;281.354;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713550;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;333.451;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713554;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;358.859;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713558;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;401.646;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713560;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;559.811;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713564;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2475;Marvin Williams;1;596.999;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713574;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;1;813.324;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713578;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;1;927.088;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713580;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;1;1000.918;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713582;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2484;Frank Kaminsky;2;10.596;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713586;200900;Assisting;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;49.094;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713588;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;86.038;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713590;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;140.024;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713592;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;2;170.210;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713596;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;226.258;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713598;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;278.478;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713600;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;344.480;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713604;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;495.906;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713606;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;2;584.742;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713610;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;706.106;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713614;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;8411;Al Jefferson;2;796.929;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713618;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;843.969;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713620;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;918.572;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713624;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;941.579;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713634;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;120.271;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713638;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;152.745;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713642;200900;Assisting;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2483;Cody Zeller;3;189.710;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713648;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;8411;Al Jefferson;3;307.299;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713650;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;327.521;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713652;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;361.693;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713656;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;405.051;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713664;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;582.935;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713668;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;650.838;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713672;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;3;781.656;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713676;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;3;839.139;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713680;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;3;957.888;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713686;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;30.884;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713690;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;4;105.151;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713692;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;209.351;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713698;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;362.689;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713702;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;530.010;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713706;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;581.679;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713710;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;652.742;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713712;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;707.978;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713714;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;733.287;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713716;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2480;Kemba Walker;4;867.551;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403

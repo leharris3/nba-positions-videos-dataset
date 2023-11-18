@@ -1,0 +1,912 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76366378;1601000;Starting lineup;13960;Eric Moreland;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366379;1601000;Starting lineup;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366380;1601000;Starting lineup;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366381;1601000;Starting lineup;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366382;1601000;Starting lineup;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366383;1601000;Starting lineup;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366384;1601000;Starting lineup;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366385;1601000;Starting lineup;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366386;1601000;Starting lineup;9362;Quincy Acy;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366387;1601000;Starting lineup;6377;Darren Collison;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366388;1601000;Starting lineup;7714;Seth Curry;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366389;1601000;Starting lineup;445923;Caron Butler;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366390;1601000;Starting lineup;4930;James Anderson;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366391;1601000;Starting lineup;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366392;1601000;Starting lineup;169;James Young;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366393;1601000;Starting lineup;173;Terry Rozier;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366394;1601000;Starting lineup;97676;RJ Hunter;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366395;1601000;Starting lineup;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366396;1601000;Starting lineup;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366397;1601000;Starting lineup;7798;David Lee;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366398;1601000;Starting lineup;7504;Evan Turner;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366399;1601000;Starting lineup;174;Tyler Zeller;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366400;1601000;Starting lineup;162;Jae Crowder;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366401;1601000;Starting lineup;163;Amir Johnson;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366402;1601000;Starting lineup;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366403;1601000;Starting lineup;165;Avery Bradley;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366404;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366405;1600500;Guard;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366406;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366407;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366408;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366409;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366410;1600500;Guard;162;Jae Crowder;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366411;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366412;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366413;1600500;Guard;165;Avery Bradley;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366414;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366415;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;81.077;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366416;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;1;100.077;22.88;12.42;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366417;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;1;104.092;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366418;800302;3-;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;109.528;20.21;10.80;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366419;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;109.528;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366420;800302;3-;6385;Ben McLemore;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;127.057;22.25;13.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366421;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;133.138;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366422;400101;Accurate pass;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;136.692;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366423;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6371;Willie Cauley-Stein;1;136.692;26.57;12.36;;;;;;;;Catch and shoot;;Jumper;;;;2018-01-02 05:26:08.154738
+76366424;800202;2-;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;1;152.155;25.76;4.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366425;100300;Rebound;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;152.155;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366426;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;168.759;21.26;13.23;;;;;;;;Catch and shoot;;Jumper;;;;2018-01-02 05:26:08.154738
+76366427;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;1;168.759;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366428;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;178.270;24.95;4.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366429;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;200.645;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366430;800301;3+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;200.645;21.05;13.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366431;100200;Game stop;;;;;;;;;;;1;208.851;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366432;300100;Foul;6371;Willie Cauley-Stein;3225;Sacramento Kings;166;Isaiah Thomas;8;Boston Celtics;;;1;208.851;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366433;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;224.560;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366434;800600;2F;162;Jae Crowder;8;Boston Celtics;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;231.560;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 03:39:01.461421
+76366435;100200;Game stop;;;;;;;;;;;1;231.560;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366436;300100;Foul;6371;Willie Cauley-Stein;3225;Sacramento Kings;162;Jae Crowder;8;Boston Celtics;;;1;231.560;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366437;800101;1+;162;Jae Crowder;8;Boston Celtics;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;253.511;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366438;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;253.511;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366439;800101;1+;162;Jae Crowder;8;Boston Celtics;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;276.803;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366440;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;287.695;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366441;100300;Rebound;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;304.695;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366442;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;305.934;20.96;7.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366443;800202;2-;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;306.606;24.89;7.62;;;;;;;;Cut;;Hook;;;;2017-12-07 03:39:01.461421
+76366444;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;305.926;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366445;800202;2-;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;305.926;26.36;7.89;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:39:01.461421
+76366446;800600;2F;6388;Kosta Koufos;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;1;307.599;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 03:39:01.461421
+76366447;100200;Game stop;;;;;;;;;;;1;307.599;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366448;300100;Foul;163;Amir Johnson;8;Boston Celtics;6388;Kosta Koufos;3225;Sacramento Kings;;;1;307.599;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366449;800101;1+;6388;Kosta Koufos;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;1;325.388;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366450;800102;1-;6388;Kosta Koufos;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;1;338.968;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366451;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;338.968;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366452;100200;Game stop;;;;;;;;;;;1;338.968;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366453;100300;Rebound;;;8;Boston Celtics;;;;;;;1;338.968;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366454;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;1;338.968;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366455;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;355.015;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366456;400101;Accurate pass;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;1;365.015;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366457;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;164;Jared Sullinger;1;365.015;25.82;4.65;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:39:01.461421
+76366458;800201;2+;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;380.300;22.13;4.02;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366459;400101;Accurate pass;163;Amir Johnson;8;Boston Celtics;;;;;164;Jared Sullinger;1;380.300;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366460;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;163;Amir Johnson;1;392.345;24.95;4.20;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:39:01.461421
+76366461;100200;Game stop;;;;;;;;;;;1;400.910;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366462;100500;Turnover;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;400.910;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366463;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;412.355;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366464;800202;2-;162;Jae Crowder;8;Boston Celtics;;;;;;;1;420.355;24.89;9.90;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:39:01.461421
+76366465;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;420.355;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366466;200300;Pick'n'Roll;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;429.259;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366467;800202;2-;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;429.259;25.19;7.50;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 03:39:01.461421
+76366468;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;1;429.259;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366469;800301;3+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;437.091;20.21;4.05;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366470;200300;Pick'n'Roll;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;452.984;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366471;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;452.984;26.27;3.72;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 03:39:01.461421
+76366472;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;452.984;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366473;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;1;471.034;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366474;800301;3+;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;471.034;20.51;12.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366475;100200;Game stop;;;;;;;;;;;1;471.034;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366476;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;1;471.034;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366477;1600500;Guard;174;Tyler Zeller;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;1;471.034;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366478;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;492.361;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366479;100400;Steal;165;Avery Bradley;8;Boston Celtics;6388;Kosta Koufos;3225;Sacramento Kings;;;1;500.361;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366480;800600;2F;163;Amir Johnson;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;1;504.767;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:39:01.461421
+76366481;100200;Game stop;;;;;;;;;;;1;504.767;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366482;300100;Foul;6385;Ben McLemore;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;1;504.767;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366483;800101;1+;163;Amir Johnson;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;1;529.420;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366484;800101;1+;163;Amir Johnson;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;1;544.111;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366485;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;546.908;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366486;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;564.908;25.82;7.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366487;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;565.412;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366488;800201;2+;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;565.412;26.66;7.89;;;;;;;;Putbacks;;;;;;2017-12-07 03:39:01.461421
+76366489;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;;;1;585.989;22.25;14.22;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366490;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;585.989;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366491;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;610.167;22.73;10.74;;;;;;;;Screen off;;Jumper;;;;2018-01-02 05:26:08.154738
+76366492;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;610.167;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366493;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;619.045;24.80;4.35;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366494;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;619.045;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366495;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;1;636.179;26.12;6.96;;;;;;;;Cut;;Jumper;;;;2018-01-02 05:26:08.154738
+76366496;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;636.179;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366497;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;1;642.848;22.88;4.47;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366498;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;642.848;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366499;100400;Steal;165;Avery Bradley;8;Boston Celtics;6381;Rajon Rondo;3225;Sacramento Kings;;;1;647.188;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366500;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;;;1;653.468;19.49;6.81;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366501;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;653.468;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366502;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;668.755;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366503;200300;Pick'n'Roll;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;668.755;;;;;;;;;;Pick'n'pop;;;;;;2018-01-02 05:26:08.154738
+76366504;800301;3+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;668.755;22.13;13.29;;;;;;;;Pick'n'pop;;Jumper;;;;2018-01-02 05:26:08.154738
+76366505;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;1;679.023;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366506;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;679.023;26.96;7.50;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:39:01.461421
+76366507;800302;3-;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;698.247;20.09;5.10;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366508;100300;Rebound;174;Tyler Zeller;8;Boston Celtics;;;;;;;1;698.247;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366509;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;1;706.885;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366510;800301;3+;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;706.885;20.63;11.19;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366511;100400;Steal;166;Isaiah Thomas;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;1;723.991;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366512;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;729.405;26.51;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:39:01.461421
+76366513;100200;Game stop;;;;;;;;;;;1;729.405;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366514;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;1;729.405;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366515;1600500;Guard;7504;Evan Turner;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;1;729.405;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366516;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;6385;Ben McLemore;3225;Sacramento Kings;;;1;729.405;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366517;1600500;Guard;9362;Quincy Acy;3225;Sacramento Kings;6383;DeMarcus Cousins;3225;Sacramento Kings;;;1;729.405;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366518;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;1;729.405;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366519;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;755.443;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366520;200300;Pick'n'Roll;9362;Quincy Acy;3225;Sacramento Kings;;;;;6377;Darren Collison;1;767.443;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:39:01.461421
+76366521;800202;2-;9362;Quincy Acy;3225;Sacramento Kings;;;;;6377;Darren Collison;1;767.443;21.80;5.97;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:39:01.461421
+76366522;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;1;767.443;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366523;100400;Steal;9362;Quincy Acy;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;1;781.361;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366524;100400;Steal;165;Avery Bradley;8;Boston Celtics;6377;Darren Collison;3225;Sacramento Kings;;;1;791.896;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366525;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;1;801.207;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366526;800201;2+;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;1;801.207;26.42;7.02;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 03:39:01.461421
+76366527;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;9362;Quincy Acy;1;823.832;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366528;800201;2+;9362;Quincy Acy;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;823.832;26.72;7.83;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 03:39:01.461421
+76366529;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;;;1;834.074;19.28;7.95;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:39:01.461421
+76366530;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;834.074;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366531;800302;3-;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;1;857.045;18.74;7.05;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366532;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;1;857.045;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366533;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;;;1;869.695;19.79;9.21;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:39:01.461421
+76366534;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;869.695;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366535;800201;2+;6377;Darren Collison;3225;Sacramento Kings;;;;;;;1;879.365;22.28;5.10;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366536;100200;Game stop;;;;;;;;;;;1;879.365;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366537;1800600;Timeout;;;8;Boston Celtics;;;;;;;1;879.365;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366538;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;6381;Rajon Rondo;3225;Sacramento Kings;;;1;879.365;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366539;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;1;879.365;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366540;1600500;Guard;7798;David Lee;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;1;879.365;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366541;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;1;879.365;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366542;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;174;Tyler Zeller;8;Boston Celtics;;;1;879.365;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366543;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;895.653;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366544;200600;Post;7798;David Lee;8;Boston Celtics;;;;;;;1;917.653;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366545;800202;2-;7798;David Lee;8;Boston Celtics;6388;Kosta Koufos;3225;Sacramento Kings;;;1;917.653;24.35;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 03:39:01.461421
+76366546;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;917.653;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366547;800202;2-;9362;Quincy Acy;3225;Sacramento Kings;171;Jonas Jerebko;8;Boston Celtics;;;1;939.020;25.67;7.95;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:39:01.461421
+76366548;100300;Rebound;9362;Quincy Acy;3225;Sacramento Kings;;;;;;;1;939.138;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366549;800202;2-;9362;Quincy Acy;3225;Sacramento Kings;;;;;;;1;939.138;26.63;7.53;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:39:01.461421
+76366550;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;939.138;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366551;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;1;950.900;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366552;800301;3+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;1;950.900;21.35;2.64;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366553;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;975.454;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366554;800202;2-;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;975.454;25.67;9.45;;;;;;;;Cut;;Hook;;;;2017-12-07 03:39:01.461421
+76366555;400101;Accurate pass;171;Jonas Jerebko;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;1;1000.676;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366556;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;171;Jonas Jerebko;1;1000.676;23.42;3.57;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:39:01.461421
+76366557;800302;3-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;1;1027.888;21.50;13.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366558;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;1;1027.888;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366559;800302;3-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;1035.912;21.50;13.20;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366560;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;1037.080;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366561;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;1;1053.931;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366562;200600;Post;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;1053.931;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366563;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;166;Isaiah Thomas;1;1053.931;27.08;7.26;;;;;;;;Post;;Lay up;;;;2017-12-07 03:39:01.461421
+76366564;1800500;Halftime;;;;;;;;;;;1;1058.631;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366565;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366566;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366567;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366568;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366569;1600500;Guard;9362;Quincy Acy;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366570;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366571;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366572;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366573;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366574;1600500;Guard;7504;Evan Turner;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366575;1600500;Guard;7798;David Lee;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366576;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;8.554;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366577;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;21.554;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366578;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;21.554;25.22;7.65;;;;;;;;Post;;Hook;;;;2018-01-02 05:26:08.154738
+76366579;100300;Rebound;7798;David Lee;8;Boston Celtics;;;;;;;2;21.554;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366580;100400;Steal;7714;Seth Curry;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;2;30.980;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366581;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;7772;Marco Belinelli;2;41.922;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366582;800201;2+;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;41.922;26.57;8.34;;;;;;;;Cut;;;;;;2017-12-07 03:39:01.461421
+76366583;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;2;57.647;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366584;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;2;57.647;26.72;8.04;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:39:01.461421
+76366585;200300;Pick'n'Roll;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;2;77.470;;;;;;;;;;Pick'n'pop;;;;;;2018-01-02 05:26:08.154738
+76366586;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;2;77.470;24.65;9.30;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2018-01-02 05:26:08.154738
+76366587;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;77.470;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366588;100200;Game stop;;;;;;;;;;;2;89.312;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366589;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;7772;Marco Belinelli;3225;Sacramento Kings;;;2;89.312;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366590;100500;Turnover;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;89.312;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366591;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;9362;Quincy Acy;3225;Sacramento Kings;;;2;89.312;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366592;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;115.746;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366593;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;129.746;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366594;100200;Game stop;;;;;;;;;;;2;129.746;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366595;100500;Turnover;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;129.746;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366596;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;130.317;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366597;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;2;130.317;26.12;7.98;;;;;;;;Post;;Jumper;;;;2018-01-02 05:26:08.154738
+76366598;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;143.533;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366599;100200;Game stop;;;;;;;;;;;2;155.533;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366600;100500;Turnover;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;155.533;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366601;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;180.387;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366602;800302;3-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;204.387;19.49;7.56;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:39:01.461421
+76366603;100200;Game stop;;;;;;;;;;;2;204.387;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366604;100300;Rebound;;;8;Boston Celtics;;;;;;;2;204.387;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366605;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;205.886;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366606;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;219.886;26.57;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:39:01.461421
+76366607;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;230.092;19.49;8.28;;;;;;;;Catch and Drive;;Jumper;;;;2018-01-02 05:26:08.154738
+76366608;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;230.092;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366609;200600;Post;7504;Evan Turner;8;Boston Celtics;;;;;;;2;247.967;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366610;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;2;247.967;25.52;4.26;;;;;;;;Post;;Jumper;;;;2017-12-07 03:39:01.461421
+76366611;100300;Rebound;7798;David Lee;8;Boston Celtics;;;;;;;2;248.633;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366612;400101;Accurate pass;7798;David Lee;8;Boston Celtics;;;;;166;Isaiah Thomas;2;251.588;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366613;800301;3+;166;Isaiah Thomas;8;Boston Celtics;;;;;7798;David Lee;2;251.588;26.42;14.97;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 03:39:01.461421
+76366614;100200;Game stop;;;;;;;;;;;2;251.588;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366615;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;2;251.588;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366616;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;7714;Seth Curry;3225;Sacramento Kings;;;2;251.588;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366617;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;281.539;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366618;800302;3-;6377;Darren Collison;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;299.539;22.10;13.53;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366619;100200;Game stop;;;;;;;;;;;2;299.539;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366620;100300;Rebound;;;8;Boston Celtics;;;;;;;2;299.539;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366621;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;2;299.539;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366622;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;314.287;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366623;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;325.287;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366624;200300;Pick'n'Roll;7798;David Lee;8;Boston Celtics;;;;;7504;Evan Turner;2;325.287;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366625;800202;2-;7798;David Lee;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;7504;Evan Turner;2;325.287;26.42;8.13;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 03:39:01.461421
+76366626;100200;Game stop;;;;;;;;;;;2;335.873;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366627;300100;Foul;7798;David Lee;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;2;335.873;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366628;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;354.109;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366629;100400;Steal;7504;Evan Turner;8;Boston Celtics;6379;Rudy Gay;3225;Sacramento Kings;;;2;366.109;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366630;800202;2-;166;Isaiah Thomas;8;Boston Celtics;6377;Darren Collison;3225;Sacramento Kings;;;2;376.013;23.75;9.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366631;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;376.013;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366632;800201;2+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;385.264;26.66;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:39:01.461421
+76366633;800202;2-;7798;David Lee;8;Boston Celtics;;;;;7504;Evan Turner;2;404.232;26.66;7.89;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 03:39:01.461421
+76366634;100300;Rebound;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;2;404.232;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366635;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6379;Rudy Gay;2;417.155;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366636;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;417.155;25.10;4.86;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:39:01.461421
+76366637;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;440.288;19.34;9.12;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:39:01.461421
+76366638;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;440.288;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366639;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;449.966;19.49;10.11;;;;;;;;Catch and shoot;;Jumper;;;;2018-01-02 05:26:08.154738
+76366640;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;2;449.966;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366641;100400;Steal;6381;Rajon Rondo;3225;Sacramento Kings;7504;Evan Turner;8;Boston Celtics;;;2;463.405;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366642;100200;Game stop;;;;;;;;;;;2;468.420;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366643;300100;Foul;7798;David Lee;8;Boston Celtics;6381;Rajon Rondo;3225;Sacramento Kings;;;2;468.420;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366644;1600500;Guard;165;Avery Bradley;8;Boston Celtics;7504;Evan Turner;8;Boston Celtics;;;2;468.420;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366645;1600500;Guard;162;Jae Crowder;8;Boston Celtics;171;Jonas Jerebko;8;Boston Celtics;;;2;468.420;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366646;1600500;Guard;174;Tyler Zeller;8;Boston Celtics;7798;David Lee;8;Boston Celtics;;;2;468.420;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366647;1600500;Guard;6371;Willie Cauley-Stein;3225;Sacramento Kings;6383;DeMarcus Cousins;3225;Sacramento Kings;;;2;468.420;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366648;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;474.925;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366649;800202;2-;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;2;498.925;23.27;4.44;;;;;;;;;;Jumper;;;;2017-12-07 03:39:01.461421
+76366650;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;498.925;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366651;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;522.145;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366652;400101;Accurate pass;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;166;Isaiah Thomas;2;525.279;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366653;800301;3+;166;Isaiah Thomas;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;2;525.279;21.11;13.38;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366654;400101;Accurate pass;6377;Darren Collison;3225;Sacramento Kings;;;;;6379;Rudy Gay;2;539.337;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366655;200300;Pick'n'Roll;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;2;539.337;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:39:01.461421
+76366656;800301;3+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;2;539.337;20.81;12.51;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:39:01.461421
+76366657;100200;Game stop;;;;;;;;;;;2;552.748;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366658;100500;Turnover;174;Tyler Zeller;8;Boston Celtics;;;;;;;2;552.748;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366659;1800600;Timeout;;;;;;;;;;;2;552.748;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366660;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;2;552.748;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366661;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;578.868;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366662;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;2;587.868;22.13;8.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366663;100300;Rebound;174;Tyler Zeller;8;Boston Celtics;;;;;;;2;587.868;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366664;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;2;607.316;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366665;800301;3+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;2;607.316;21.11;12.60;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366666;100200;Game stop;;;;;;;;;;;2;617.050;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366667;300100;Foul;165;Avery Bradley;8;Boston Celtics;6381;Rajon Rondo;3225;Sacramento Kings;;;2;617.050;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366668;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;7772;Marco Belinelli;3225;Sacramento Kings;;;2;617.050;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366669;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;652.566;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366670;100400;Steal;166;Isaiah Thomas;8;Boston Celtics;6377;Darren Collison;3225;Sacramento Kings;;;2;663.566;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366671;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;2;670.546;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366672;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;2;670.546;26.72;7.74;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:39:01.461421
+76366673;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;718.096;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366674;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;718.096;22.73;5.82;;;;;;;;Post;;Jumper;;;;2018-01-02 05:26:08.154738
+76366675;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;2;718.096;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366676;100200;Game stop;;;;;;;;;;;2;729.940;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366677;100500;Turnover;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;729.940;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366678;1600500;Guard;6371;Willie Cauley-Stein;3225;Sacramento Kings;6377;Darren Collison;3225;Sacramento Kings;;;2;729.940;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366679;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;754.583;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366680;100200;Game stop;;;;;;;;;;;2;760.583;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366681;300100;Foul;174;Tyler Zeller;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;2;760.583;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366682;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;2;760.583;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366683;1600500;Guard;7504;Evan Turner;8;Boston Celtics;174;Tyler Zeller;8;Boston Celtics;;;2;760.583;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366684;1600500;Guard;163;Amir Johnson;8;Boston Celtics;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;760.583;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366685;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;784.297;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366686;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;794.297;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366687;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;2;794.297;26.42;8.10;;;;;;;;Post;;Lay up;;;;2018-01-02 05:26:08.154738
+76366688;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;2;794.297;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366689;200600;Post;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;817.199;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366690;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;817.199;23.87;11.49;;;;;;;;Post;;Jumper;;;;2017-12-07 03:39:01.461421
+76366691;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;817.199;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366692;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;2;824.370;25.67;6.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366693;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;2;824.370;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366694;100200;Game stop;;;;;;;;;;;2;829.515;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366695;100500;Turnover;165;Avery Bradley;8;Boston Celtics;;;;;;;2;829.515;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366696;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;838.291;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366697;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6379;Rudy Gay;2;850.291;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366698;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;850.291;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:39:01.461421
+76366699;100400;Steal;6379;Rudy Gay;3225;Sacramento Kings;162;Jae Crowder;8;Boston Celtics;;;2;872.801;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366700;100200;Game stop;;;;;;;;;;;2;887.123;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366701;300100;Foul;6379;Rudy Gay;3225;Sacramento Kings;162;Jae Crowder;8;Boston Celtics;;;2;887.123;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366702;100500;Turnover;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;887.123;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366703;1800600;Timeout;;;8;Boston Celtics;;;;;;;2;887.123;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366704;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;914.637;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366705;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;163;Amir Johnson;2;923.637;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366706;200300;Pick'n'Roll;163;Amir Johnson;8;Boston Celtics;;;;;7504;Evan Turner;2;923.637;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366707;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;7504;Evan Turner;2;923.637;25.97;6.42;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:39:01.461421
+76366708;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6371;Willie Cauley-Stein;2;937.913;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366709;800201;2+;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;937.913;26.27;8.04;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:39:01.461421
+76366710;800302;3-;164;Jared Sullinger;8;Boston Celtics;;;;;7504;Evan Turner;2;948.666;19.64;10.80;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366711;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;948.666;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366712;100200;Game stop;;;;;;;;;;;2;956.956;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366713;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6383;DeMarcus Cousins;3225;Sacramento Kings;;;2;956.956;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366714;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;2;956.956;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366715;100500;Turnover;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;956.956;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366716;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;2;956.956;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366717;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;988.554;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366718;800202;2-;162;Jae Crowder;8;Boston Celtics;;;;;;;2;1010.554;22.82;3.63;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366719;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;1010.554;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366720;100400;Steal;162;Jae Crowder;8;Boston Celtics;6379;Rudy Gay;3225;Sacramento Kings;;;2;1021.633;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366721;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;2;1030.912;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366722;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;2;1030.912;24.14;12.51;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366723;800600;2F;6385;Ben McLemore;3225;Sacramento Kings;162;Jae Crowder;8;Boston Celtics;;;2;1039.245;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:39:01.461421
+76366724;100200;Game stop;;;;;;;;;;;2;1039.245;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366725;300100;Foul;162;Jae Crowder;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;2;1039.245;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366726;800101;1+;6385;Ben McLemore;3225;Sacramento Kings;162;Jae Crowder;8;Boston Celtics;;;2;1066.939;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366727;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;2;1066.939;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366728;1600500;Guard;445923;Caron Butler;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;2;1066.939;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366729;800101;1+;6385;Ben McLemore;3225;Sacramento Kings;162;Jae Crowder;8;Boston Celtics;;;2;1089.169;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366730;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;1093.700;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366731;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;2;1101.300;21.98;7.35;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:39:01.461421
+76366732;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;2;1101.300;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366733;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6388;Kosta Koufos;2;1112.400;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366734;200300;Pick'n'Roll;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;1112.400;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366735;800201;2+;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;1112.400;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 03:39:01.461421
+76366736;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;1158.285;20.63;3.39;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366737;100200;Game stop;;;;;;;;;;;2;1158.257;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366738;100300;Rebound;;;3225;Sacramento Kings;;;;;;;2;1158.257;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366739;800600;2F;6388;Kosta Koufos;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;2;1158.257;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366740;300100;Foul;163;Amir Johnson;8;Boston Celtics;6388;Kosta Koufos;3225;Sacramento Kings;;;2;1158.257;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366741;800101;1+;6388;Kosta Koufos;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;2;1191.239;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366742;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;2;1191.239;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366743;800101;1+;6388;Kosta Koufos;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;2;1221.403;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366744;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;1223.444;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366745;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;2;1245.144;24.29;3.66;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:39:01.461421
+76366746;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;1245.144;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366747;100400;Steal;166;Isaiah Thomas;8;Boston Celtics;6381;Rajon Rondo;3225;Sacramento Kings;;;2;1250.444;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366748;1800500;Halftime;;;;;;;;;;;2;1251.344;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366749;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366750;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366751;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366752;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366753;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366754;1600500;Guard;445923;Caron Butler;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366755;1600500;Guard;162;Jae Crowder;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366756;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366757;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366758;1600500;Guard;165;Avery Bradley;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366759;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366760;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366761;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6385;Ben McLemore;3;14.833;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366762;800201;2+;6385;Ben McLemore;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;14.833;27.05;7.44;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:39:01.461421
+76366763;100200;Game stop;;;;;;;;;;;3;29.298;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366764;300100;Foul;164;Jared Sullinger;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;29.298;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366765;100500;Turnover;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;29.298;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366766;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;39.710;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366767;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;54.710;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366768;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;54.710;26.27;7.83;;;;;;;;;;Lay up;;;;2018-01-02 05:26:08.154738
+76366769;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;3;68.647;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366770;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;3;68.647;21.20;2.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366771;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;89.064;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366772;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;89.064;25.49;7.65;;;;;;;;Post;;Jumper;;;;2018-01-02 05:26:08.154738
+76366773;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;90.333;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366774;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;3;90.333;27.05;7.62;;;;;;;;Putbacks;;;;;;2018-01-02 05:26:08.154738
+76366775;100200;Game stop;;;;;;;;;;;3;90.333;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366776;300100;Foul;164;Jared Sullinger;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;90.333;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366777;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;3;112.741;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366778;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;3;123.249;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366779;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;125.634;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366780;100400;Steal;6381;Rajon Rondo;3225;Sacramento Kings;162;Jae Crowder;8;Boston Celtics;;;3;145.634;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366781;800600;2F;6379;Rudy Gay;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;3;157.615;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:39:01.461421
+76366782;100200;Game stop;;;;;;;;;;;3;157.615;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366783;300100;Foul;165;Avery Bradley;8;Boston Celtics;6379;Rudy Gay;3225;Sacramento Kings;;;3;157.615;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366784;800102;1-;6379;Rudy Gay;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;3;184.852;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366785;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;184.852;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366786;800101;1+;6379;Rudy Gay;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;3;202.267;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366787;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;218.142;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366788;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;3;230.142;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366789;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;3;230.142;20.36;4.47;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366790;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;3;250.119;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2018-01-02 05:26:08.154738
+76366791;100200;Game stop;;;;;;;;;;;3;250.119;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366792;300100;Foul;164;Jared Sullinger;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;250.119;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366793;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;3;275.442;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366794;800102;1-;6383;DeMarcus Cousins;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;3;287.878;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366795;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;287.878;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366796;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;3;287.878;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366797;100200;Game stop;;;;;;;;;;;3;302.280;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366798;300100;Foul;6385;Ben McLemore;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;3;302.280;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366799;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;318.888;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366800;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;329.888;21.80;5.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366801;100300;Rebound;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;329.888;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366802;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6379;Rudy Gay;3;341.510;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366803;800301;3+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;341.510;24.14;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366804;400101;Accurate pass;163;Amir Johnson;8;Boston Celtics;;;;;164;Jared Sullinger;3;360.722;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366805;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;163;Amir Johnson;3;360.722;21.56;5.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366806;100400;Steal;164;Jared Sullinger;8;Boston Celtics;6381;Rajon Rondo;3225;Sacramento Kings;;;3;369.017;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366807;400101;Accurate pass;164;Jared Sullinger;8;Boston Celtics;;;;;165;Avery Bradley;3;374.737;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366808;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;164;Jared Sullinger;3;374.737;26.84;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:39:01.461421
+76366809;100200;Game stop;;;;;;;;;;;3;374.737;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366810;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;3;374.737;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366811;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;413.072;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366812;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;420.072;26.84;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:39:01.461421
+76366813;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;419.492;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366814;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6385;Ben McLemore;3;421.409;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366815;800201;2+;6385;Ben McLemore;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;421.409;26.84;7.20;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:39:01.461421
+76366816;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;3;436.236;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366817;800301;3+;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;3;436.236;21.98;13.74;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:39:01.461421
+76366818;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;448.237;25.97;8.64;;;;;;;;Cut;;Jumper;;;;2018-01-02 05:26:08.154738
+76366819;100200;Game stop;;;;;;;;;;;3;448.237;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366820;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;448.237;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366821;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;465.697;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366822;100400;Steal;162;Jae Crowder;8;Boston Celtics;6379;Rudy Gay;3225;Sacramento Kings;;;3;472.697;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366823;200600;Post;162;Jae Crowder;8;Boston Celtics;;;;;;;3;505.624;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366824;800600;2F;162;Jae Crowder;8;Boston Celtics;6381;Rajon Rondo;3225;Sacramento Kings;;;3;505.624;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:39:01.461421
+76366825;100200;Game stop;;;;;;;;;;;3;505.624;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366826;300100;Foul;6381;Rajon Rondo;3225;Sacramento Kings;162;Jae Crowder;8;Boston Celtics;;;3;505.624;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366827;800101;1+;162;Jae Crowder;8;Boston Celtics;6381;Rajon Rondo;3225;Sacramento Kings;;;3;527.272;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366828;1600500;Guard;6371;Willie Cauley-Stein;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;3;527.272;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366829;800101;1+;162;Jae Crowder;8;Boston Celtics;6381;Rajon Rondo;3225;Sacramento Kings;;;3;563.317;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366830;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;581.507;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366831;100400;Steal;163;Amir Johnson;8;Boston Celtics;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;3;601.507;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366832;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;3;609.005;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366833;800301;3+;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;3;609.005;20.03;4.32;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366834;100200;Game stop;;;;;;;;;;;3;627.586;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366835;300100;Foul;164;Jared Sullinger;8;Boston Celtics;6381;Rajon Rondo;3225;Sacramento Kings;;;3;627.586;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366836;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;445923;Caron Butler;3225;Sacramento Kings;;;3;627.586;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366837;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;643.508;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366838;800600;2F;162;Jae Crowder;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;672.508;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366839;100200;Game stop;;;;;;;;;;;3;672.508;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366840;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;162;Jae Crowder;8;Boston Celtics;;;3;672.508;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366841;300300;Technical foul;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;715.709;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366842;800101;1+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;715.709;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366843;300300;Technical foul;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;796.198;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366844;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;6381;Rajon Rondo;3225;Sacramento Kings;;;3;796.198;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366845;1600500;Guard;7798;David Lee;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;3;796.198;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366846;800101;1+;162;Jae Crowder;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;819.184;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366847;800101;1+;162;Jae Crowder;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;834.367;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366848;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;839.372;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366849;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;3;846.372;27.05;7.62;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366850;100200;Game stop;;;;;;;;;;;3;846.372;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366851;300100;Foul;7798;David Lee;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;846.372;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366852;800102;1-;6383;DeMarcus Cousins;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;3;870.416;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366853;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;870.416;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366854;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;3;884.920;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366855;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;887.694;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366856;400101;Accurate pass;7798;David Lee;8;Boston Celtics;;;;;162;Jae Crowder;3;902.694;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366857;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;3;902.694;26.57;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366858;400101;Accurate pass;6377;Darren Collison;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;913.104;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366859;800301;3+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;3;913.104;19.79;10.11;;;;;;;;Catch and shoot;;Jumper;;;;2018-01-02 05:26:08.154738
+76366860;400101;Accurate pass;7798;David Lee;8;Boston Celtics;;;;;165;Avery Bradley;3;928.373;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:39:01.461421
+76366861;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;7798;David Lee;3;928.373;22.10;5.79;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:39:01.461421
+76366862;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;945.233;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366863;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;3;945.233;27.05;7.62;;;;;;;;Post;;;;;;2018-01-02 05:26:08.154738
+76366864;100200;Game stop;;;;;;;;;;;3;945.233;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366865;300100;Foul;7798;David Lee;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;945.233;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366866;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;3;966.977;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366867;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;3;979.466;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366868;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;984.115;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366869;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;993.115;27.23;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366870;100300;Rebound;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;993.115;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366871;800600;2F;6371;Willie Cauley-Stein;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;3;1002.502;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:39:01.461421
+76366872;100200;Game stop;;;;;;;;;;;3;1002.502;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366873;300100;Foul;163;Amir Johnson;8;Boston Celtics;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;3;1002.502;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366874;800102;1-;6371;Willie Cauley-Stein;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;3;1026.743;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366875;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;1026.743;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366876;1600500;Guard;7504;Evan Turner;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;3;1026.743;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366877;800101;1+;6371;Willie Cauley-Stein;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;3;1045.495;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366878;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1049.930;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366879;800600;2F;165;Avery Bradley;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;3;1066.930;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:39:01.461421
+76366880;100200;Game stop;;;;;;;;;;;3;1066.930;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366881;300100;Foul;6385;Ben McLemore;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;3;1066.930;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366882;800101;1+;165;Avery Bradley;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;3;1088.990;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366883;800101;1+;165;Avery Bradley;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;3;1100.268;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366884;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1104.604;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366885;800202;2-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1114.604;23.03;4.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366886;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;1114.604;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366887;800600;2F;163;Amir Johnson;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;3;1116.483;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366888;100200;Game stop;;;;;;;;;;;3;1116.483;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366889;300100;Foul;6385;Ben McLemore;3225;Sacramento Kings;163;Amir Johnson;8;Boston Celtics;;;3;1116.483;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366890;800102;1-;163;Amir Johnson;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;3;1145.976;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366891;100300;Rebound;;;8;Boston Celtics;;;;;;;3;1145.976;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366892;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;6385;Ben McLemore;3225;Sacramento Kings;;;3;1145.976;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366893;800102;1-;163;Amir Johnson;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;3;1165.119;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366894;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1165.119;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366895;100300;Rebound;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;3;1165.119;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366896;100400;Steal;7798;David Lee;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;1174.443;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366897;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;;;3;1184.751;20.03;5.49;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366898;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;3;1184.751;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366899;400101;Accurate pass;6377;Darren Collison;3225;Sacramento Kings;;;;;7714;Seth Curry;3;1195.078;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366900;800201;2+;7714;Seth Curry;3225;Sacramento Kings;;;;;6377;Darren Collison;3;1195.078;22.28;3.03;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366901;800600;2F;7504;Evan Turner;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;1208.015;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366902;100200;Game stop;;;;;;;;;;;3;1208.015;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366903;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;7504;Evan Turner;8;Boston Celtics;;;3;1208.015;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+76366904;800101;1+;7504;Evan Turner;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;1235.281;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366905;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;3;1235.281;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366906;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;1235.281;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366907;800102;1-;7504;Evan Turner;8;Boston Celtics;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;1255.756;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366908;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1255.756;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366909;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;3;1255.756;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366910;800202;2-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1278.240;25.64;8.34;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:39:01.461421
+76366911;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;3;1278.240;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366912;100400;Steal;6388;Kosta Koufos;3225;Sacramento Kings;7798;David Lee;8;Boston Celtics;;;3;1290.896;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366913;400101;Accurate pass;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6377;Darren Collison;3;1297.852;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366914;800400;2+1;6377;Darren Collison;3225;Sacramento Kings;;;;;7772;Marco Belinelli;3;1297.852;26.57;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:39:01.461421
+76366915;100200;Game stop;;;;;;;;;;;3;1297.852;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366916;300100;Foul;165;Avery Bradley;8;Boston Celtics;6377;Darren Collison;3225;Sacramento Kings;;;3;1297.852;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366917;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;3;1297.852;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366918;800101;1+;6377;Darren Collison;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;3;1326.054;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366919;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1330.714;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366920;100400;Steal;6388;Kosta Koufos;3225;Sacramento Kings;7504;Evan Turner;8;Boston Celtics;;;3;1345.714;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366921;800201;2+;7714;Seth Curry;3225;Sacramento Kings;;;;;;;3;1355.584;25.19;4.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76366922;100200;Game stop;;;;;;;;;;;3;1355.584;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366923;1800600;Timeout;;;8;Boston Celtics;;;;;;;3;1355.584;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366924;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;3;1355.584;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366925;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;3;1355.584;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366926;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1371.788;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366927;400101;Accurate pass;7798;David Lee;8;Boston Celtics;;;;;7504;Evan Turner;3;1386.788;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366928;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;7798;David Lee;3;1386.788;26.72;7.98;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:39:01.461421
+76366929;800202;2-;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;3;1397.137;21.83;10.05;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:39:01.461421
+76366930;100300;Rebound;7798;David Lee;8;Boston Celtics;;;;;;;3;1397.137;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366931;800202;2-;7798;David Lee;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;1418.334;26.66;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:39:01.461421
+76366932;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;3;1418.334;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366933;800400;2+1;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1429.904;26.57;7.59;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 03:39:01.461421
+76366934;100200;Game stop;;;;;;;;;;;3;1429.904;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366935;300100;Foul;7504;Evan Turner;8;Boston Celtics;6377;Darren Collison;3225;Sacramento Kings;;;3;1429.904;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366936;800101;1+;6377;Darren Collison;3225;Sacramento Kings;7504;Evan Turner;8;Boston Celtics;;;3;1459.481;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366937;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1462.436;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366938;400101;Accurate pass;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7798;David Lee;3;1479.436;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366939;800201;2+;7798;David Lee;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;1479.436;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 03:39:01.461421
+76366940;100400;Steal;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;7714;Seth Curry;3225;Sacramento Kings;;;3;1492.732;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366941;400101;Accurate pass;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;171;Jonas Jerebko;3;1498.837;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366942;800400;2+1;171;Jonas Jerebko;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;1498.837;26.57;8.10;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:39:01.461421
+76366943;100200;Game stop;;;;;;;;;;;3;1498.837;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366944;300100;Foul;6379;Rudy Gay;3225;Sacramento Kings;171;Jonas Jerebko;8;Boston Celtics;;;3;1498.837;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366945;800101;1+;171;Jonas Jerebko;8;Boston Celtics;6379;Rudy Gay;3225;Sacramento Kings;;;3;1518.912;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366946;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1523.216;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366947;400101;Accurate pass;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6379;Rudy Gay;3;1535.216;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366948;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;7772;Marco Belinelli;3;1535.216;26.51;7.89;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 03:39:01.461421
+76366949;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;171;Jonas Jerebko;3;1556.016;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366950;800201;2+;171;Jonas Jerebko;8;Boston Celtics;;;;;166;Isaiah Thomas;3;1556.016;23.87;3.78;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 03:39:01.461421
+76366951;800202;2-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1578.411;21.83;7.98;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:39:01.461421
+76366952;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;3;1578.411;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366953;800302;3-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;166;Isaiah Thomas;3;1603.162;21.65;13.35;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:39:01.461421
+76366954;100300;Rebound;7714;Seth Curry;3225;Sacramento Kings;;;;;;;3;1603.162;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366955;800302;3-;7714;Seth Curry;3225;Sacramento Kings;;;;;;;3;1608.962;19.43;7.59;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76366956;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;1608.962;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366957;1800500;Halftime;;;;;;;;;;;3;1608.962;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366958;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366959;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366960;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366961;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366962;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366963;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366964;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366965;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366966;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366967;1600500;Guard;7504;Evan Turner;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366968;1600500;Guard;97676;RJ Hunter;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366969;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;4.404;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366970;800302;3-;97676;RJ Hunter;8;Boston Celtics;;;;;;;4;26.404;19.94;11.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366971;100300;Rebound;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;26.404;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366972;400101;Accurate pass;6377;Darren Collison;3225;Sacramento Kings;;;;;7772;Marco Belinelli;4;39.590;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366973;800301;3+;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6377;Darren Collison;4;39.590;19.64;8.88;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:39:01.461421
+76366974;200600;Post;7504;Evan Turner;8;Boston Celtics;;;;;;;4;56.425;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366975;800400;2+1;7504;Evan Turner;8;Boston Celtics;;;;;;;4;56.425;26.27;4.20;;;;;;;;Post;;Jumper;;;;2017-12-07 03:39:01.461421
+76366976;100200;Game stop;;;;;;;;;;;4;56.425;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366977;300100;Foul;7714;Seth Curry;3225;Sacramento Kings;7504;Evan Turner;8;Boston Celtics;;;4;56.425;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366978;800101;1+;7504;Evan Turner;8;Boston Celtics;7714;Seth Curry;3225;Sacramento Kings;;;4;75.064;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366979;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;79.178;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366980;100200;Game stop;;;;;;;;;;;4;87.178;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366981;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6377;Darren Collison;3225;Sacramento Kings;;;4;87.178;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366982;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;103.969;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366983;200600;Post;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;117.969;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366984;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;117.969;24.05;9.66;;;;;;;;Post;;Jumper;;;;2017-12-07 03:39:01.461421
+76366985;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;117.969;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366986;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;131.309;25.52;9.42;;;;;;;;Hand offs;;Hook;;;;2017-12-07 03:39:01.461421
+76366987;100300;Rebound;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;4;131.309;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366988;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;6388;Kosta Koufos;4;150.583;25.82;1.47;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76366989;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;150.583;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366990;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;97676;RJ Hunter;4;159.453;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366991;800201;2+;97676;RJ Hunter;8;Boston Celtics;;;;;166;Isaiah Thomas;4;159.453;26.42;4.17;;;;;;;;Transition;;Floater;;;;2017-12-07 03:39:01.461421
+76366992;800600;2F;6377;Darren Collison;3225;Sacramento Kings;166;Isaiah Thomas;8;Boston Celtics;;;4;170.132;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 03:39:01.461421
+76366993;100200;Game stop;;;;;;;;;;;4;170.132;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366994;300100;Foul;166;Isaiah Thomas;8;Boston Celtics;6377;Darren Collison;3225;Sacramento Kings;;;4;170.132;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366995;800101;1+;6377;Darren Collison;3225;Sacramento Kings;166;Isaiah Thomas;8;Boston Celtics;;;4;199.778;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366996;1600500;Guard;6371;Willie Cauley-Stein;3225;Sacramento Kings;6388;Kosta Koufos;3225;Sacramento Kings;;;4;199.778;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366997;800101;1+;6377;Darren Collison;3225;Sacramento Kings;166;Isaiah Thomas;8;Boston Celtics;;;4;221.419;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76366998;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;224.392;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76366999;800302;3-;97676;RJ Hunter;8;Boston Celtics;;;;;;;4;239.392;19.49;12.90;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76367000;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;4;239.392;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367001;100400;Steal;166;Isaiah Thomas;8;Boston Celtics;7772;Marco Belinelli;3225;Sacramento Kings;;;4;247.639;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367002;100200;Game stop;;;;;;;;;;;4;253.982;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367003;300100;Foul;166;Isaiah Thomas;8;Boston Celtics;7772;Marco Belinelli;3225;Sacramento Kings;;;4;253.982;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367004;1600500;Guard;165;Avery Bradley;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;4;253.982;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367005;100500;Turnover;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;253.982;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367006;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;280.424;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367007;200600;Post;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;301.424;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367008;800400;2+1;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;301.424;23.90;8.10;;;;;;;;Post;;Jumper;;;;2017-12-07 03:39:01.461421
+76367009;100200;Game stop;;;;;;;;;;;4;301.424;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367010;300100;Foul;165;Avery Bradley;8;Boston Celtics;6379;Rudy Gay;3225;Sacramento Kings;;;4;301.424;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367011;800101;1+;6379;Rudy Gay;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;4;328.434;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367012;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;332.275;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367013;100200;Game stop;;;;;;;;;;;4;345.275;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367014;300100;Foul;6371;Willie Cauley-Stein;3225;Sacramento Kings;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;345.275;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367015;1800600;Timeout;;;;;;;;;;;4;345.275;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367016;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;373.765;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367017;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;4;379.765;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367018;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;;;4;381.488;21.71;13.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76367019;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;4;381.553;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367020;800202;2-;171;Jonas Jerebko;8;Boston Celtics;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;4;381.553;24.29;8.67;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 03:39:01.461421
+76367021;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;4;381.553;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367022;800600;2F;7714;Seth Curry;3225;Sacramento Kings;97676;RJ Hunter;8;Boston Celtics;;;4;397.822;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367023;100200;Game stop;;;;;;;;;;;4;397.822;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367024;300100;Foul;97676;RJ Hunter;8;Boston Celtics;7714;Seth Curry;3225;Sacramento Kings;;;4;397.822;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367025;1600500;Guard;162;Jae Crowder;8;Boston Celtics;97676;RJ Hunter;8;Boston Celtics;;;4;397.822;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367026;800102;1-;7714;Seth Curry;3225;Sacramento Kings;97676;RJ Hunter;8;Boston Celtics;;;4;423.088;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367027;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;423.088;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367028;800101;1+;7714;Seth Curry;3225;Sacramento Kings;97676;RJ Hunter;8;Boston Celtics;;;4;438.837;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367029;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;438.837;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367030;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;4;451.703;22.37;10.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76367031;100300;Rebound;7714;Seth Curry;3225;Sacramento Kings;;;;;;;4;451.703;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367032;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;469.639;25.22;8.28;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:39:01.461421
+76367033;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;4;471.256;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367034;800201;2+;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;4;471.256;26.12;7.83;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:39:01.461421
+76367035;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;4;494.548;22.58;10.38;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76367036;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;494.548;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367037;800302;3-;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;4;501.046;20.18;11.76;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:39:01.461421
+76367038;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;4;501.046;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367039;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;4;518.952;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367040;200300;Pick'n'Roll;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;4;518.952;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:39:01.461421
+76367041;800301;3+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;4;518.952;21.65;13.59;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:39:01.461421
+76367042;400101;Accurate pass;6377;Darren Collison;3225;Sacramento Kings;;;;;6379;Rudy Gay;4;544.887;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367043;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;4;544.887;26.42;7.62;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 03:39:01.461421
+76367044;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;4;562.339;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367045;200300;Pick'n'Roll;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;562.339;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:39:01.461421
+76367046;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;562.339;27.02;7.62;;;;;;;;Pick'n'pop;;Dunk;Drives Right;;;2017-12-07 03:39:01.461421
+76367047;800600;2F;6377;Darren Collison;3225;Sacramento Kings;171;Jonas Jerebko;8;Boston Celtics;;;4;577.288;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:39:01.461421
+76367048;100200;Game stop;;;;;;;;;;;4;577.288;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367049;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;6377;Darren Collison;3225;Sacramento Kings;;;4;577.288;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367050;800101;1+;6377;Darren Collison;3225;Sacramento Kings;171;Jonas Jerebko;8;Boston Celtics;;;4;614.364;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367051;1600500;Guard;445923;Caron Butler;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;4;614.364;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367052;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;4;614.364;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367053;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;171;Jonas Jerebko;8;Boston Celtics;;;4;614.364;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367054;800101;1+;6377;Darren Collison;3225;Sacramento Kings;171;Jonas Jerebko;8;Boston Celtics;;;4;640.337;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367055;1600500;Guard;163;Amir Johnson;8;Boston Celtics;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;640.337;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367056;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;643.948;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367057;100400;Steal;445923;Caron Butler;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;4;660.948;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367058;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;681.787;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367059;800302;3-;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;4;681.787;21.56;2.25;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:39:01.461421
+76367060;400101;Accurate pass;163;Amir Johnson;8;Boston Celtics;;;;;162;Jae Crowder;4;699.694;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367061;200300;Pick'n'Roll;163;Amir Johnson;8;Boston Celtics;;;;;162;Jae Crowder;4;699.694;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367062;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;163;Amir Johnson;4;699.694;21.71;13.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76367063;800600;2F;7714;Seth Curry;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;4;712.243;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 03:39:01.461421
+76367064;100200;Game stop;;;;;;;;;;;4;712.243;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367065;300100;Foul;165;Avery Bradley;8;Boston Celtics;7714;Seth Curry;3225;Sacramento Kings;;;4;712.243;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367066;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;4;712.243;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367067;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;4;712.243;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367068;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;6377;Darren Collison;3225;Sacramento Kings;;;4;712.243;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367069;800101;1+;7714;Seth Curry;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;4;741.772;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367070;800102;1-;7714;Seth Curry;3225;Sacramento Kings;165;Avery Bradley;8;Boston Celtics;;;4;753.504;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367071;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;753.504;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367072;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;4;753.504;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367073;200600;Post;7504;Evan Turner;8;Boston Celtics;;;;;;;4;771.291;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367074;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;4;771.291;24.65;9.06;;;;;;;;Post;;Hook;;;;2017-12-07 03:39:01.461421
+76367075;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;4;771.291;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367076;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;787.006;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367077;800302;3-;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;4;787.006;20.75;12.45;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:39:01.461421
+76367078;200600;Post;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;803.334;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367079;800600;2F;164;Jared Sullinger;8;Boston Celtics;445923;Caron Butler;3225;Sacramento Kings;;;4;803.334;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:39:01.461421
+76367080;100200;Game stop;;;;;;;;;;;4;803.334;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367081;300100;Foul;445923;Caron Butler;3225;Sacramento Kings;164;Jared Sullinger;8;Boston Celtics;;;4;803.334;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367082;800101;1+;164;Jared Sullinger;8;Boston Celtics;445923;Caron Butler;3225;Sacramento Kings;;;4;829.481;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367083;1600500;Guard;4930;James Anderson;3225;Sacramento Kings;7772;Marco Belinelli;3225;Sacramento Kings;;;4;829.481;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367084;1600500;Guard;13960;Eric Moreland;3225;Sacramento Kings;6388;Kosta Koufos;3225;Sacramento Kings;;;4;829.481;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367085;1600500;Guard;97676;RJ Hunter;8;Boston Celtics;7504;Evan Turner;8;Boston Celtics;;;4;829.481;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367086;800101;1+;164;Jared Sullinger;8;Boston Celtics;445923;Caron Butler;3225;Sacramento Kings;;;4;864.095;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367087;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;868.424;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367088;800600;2F;6385;Ben McLemore;3225;Sacramento Kings;97676;RJ Hunter;8;Boston Celtics;;;4;879.424;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:39:01.461421
+76367089;100200;Game stop;;;;;;;;;;;4;879.424;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367090;300100;Foul;97676;RJ Hunter;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;4;879.424;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367091;800101;1+;6385;Ben McLemore;3225;Sacramento Kings;97676;RJ Hunter;8;Boston Celtics;;;4;909.199;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367092;1600500;Guard;174;Tyler Zeller;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;4;909.199;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367093;1600500;Guard;6371;Willie Cauley-Stein;3225;Sacramento Kings;445923;Caron Butler;3225;Sacramento Kings;;;4;909.199;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367094;800101;1+;6385;Ben McLemore;3225;Sacramento Kings;97676;RJ Hunter;8;Boston Celtics;;;4;928.738;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367095;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;932.323;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367096;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;4;943.323;23.27;1.08;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76367097;100300;Rebound;4930;James Anderson;3225;Sacramento Kings;;;;;;;4;943.323;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367098;800600;2F;6385;Ben McLemore;3225;Sacramento Kings;97676;RJ Hunter;8;Boston Celtics;;;4;955.047;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 03:39:01.461421
+76367099;100200;Game stop;;;;;;;;;;;4;955.047;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367100;300100;Foul;97676;RJ Hunter;8;Boston Celtics;6385;Ben McLemore;3225;Sacramento Kings;;;4;955.047;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367101;800101;1+;6385;Ben McLemore;3225;Sacramento Kings;97676;RJ Hunter;8;Boston Celtics;;;4;981.240;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367102;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;4;981.240;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367103;800102;1-;6385;Ben McLemore;3225;Sacramento Kings;97676;RJ Hunter;8;Boston Celtics;;;4;1004.345;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367104;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1004.345;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367105;100200;Game stop;;;;;;;;;;;4;1004.345;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367106;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;1004.345;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367107;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1022.157;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367108;800600;2F;6371;Willie Cauley-Stein;3225;Sacramento Kings;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;1023.157;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:39:01.461421
+76367109;100200;Game stop;;;;;;;;;;;4;1023.157;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367110;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;4;1023.157;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367111;800102;1-;6371;Willie Cauley-Stein;3225;Sacramento Kings;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;1047.066;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367112;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;1047.066;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367113;800101;1+;6371;Willie Cauley-Stein;3225;Sacramento Kings;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;1060.420;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367114;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1065.549;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367115;100200;Game stop;;;;;;;;;;;4;1076.549;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367116;300100;Foul;7714;Seth Curry;3225;Sacramento Kings;166;Isaiah Thomas;8;Boston Celtics;;;4;1076.549;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367117;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1092.182;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367118;800600;2F;6371;Willie Cauley-Stein;3225;Sacramento Kings;174;Tyler Zeller;8;Boston Celtics;;;4;1102.182;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367119;100200;Game stop;;;;;;;;;;;4;1102.182;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367120;300100;Foul;174;Tyler Zeller;8;Boston Celtics;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;4;1102.182;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367121;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;4;1102.287;20.75;3.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76367122;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;4;1102.287;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367123;800101;1+;6371;Willie Cauley-Stein;3225;Sacramento Kings;174;Tyler Zeller;8;Boston Celtics;;;4;1130.997;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367124;800101;1+;6371;Willie Cauley-Stein;3225;Sacramento Kings;174;Tyler Zeller;8;Boston Celtics;;;4;1145.715;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367125;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1148.543;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367126;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;4;1169.543;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367127;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;4;1169.543;25.22;6.27;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:39:01.461421
+76367128;800600;2F;7714;Seth Curry;3225;Sacramento Kings;174;Tyler Zeller;8;Boston Celtics;;;4;1172.913;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367129;100200;Game stop;;;;;;;;;;;4;1172.913;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367130;300100;Foul;174;Tyler Zeller;8;Boston Celtics;7714;Seth Curry;3225;Sacramento Kings;;;4;1172.913;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367131;1800600;Timeout;;;8;Boston Celtics;;;;;;;4;1172.913;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367132;1600500;Guard;173;Terry Rozier;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;4;1172.913;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367133;1600500;Guard;169;James Young;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;4;1172.913;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367134;800101;1+;7714;Seth Curry;3225;Sacramento Kings;174;Tyler Zeller;8;Boston Celtics;;;4;1206.435;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367135;800101;1+;7714;Seth Curry;3225;Sacramento Kings;174;Tyler Zeller;8;Boston Celtics;;;4;1217.438;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367136;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1219.669;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367137;400101;Accurate pass;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;174;Tyler Zeller;4;1229.669;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367138;800201;2+;174;Tyler Zeller;8;Boston Celtics;;;;;173;Terry Rozier;4;1229.669;26.57;7.26;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:39:01.461421
+76367139;400101;Accurate pass;6385;Ben McLemore;3225;Sacramento Kings;;;;;4930;James Anderson;4;1243.746;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367140;800301;3+;4930;James Anderson;3225;Sacramento Kings;;;;;6385;Ben McLemore;4;1243.746;19.64;7.98;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:39:01.461421
+76367141;800202;2-;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1260.590;24.65;4.32;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:39:01.461421
+76367142;100300;Rebound;13960;Eric Moreland;3225;Sacramento Kings;;;;;;;4;1260.590;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367143;800202;2-;7714;Seth Curry;3225;Sacramento Kings;;;;;;;4;1274.297;23.75;3.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76367144;100200;Game stop;;;;;;;;;;;4;1274.297;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367145;100300;Rebound;;;8;Boston Celtics;;;;;;;4;1274.297;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367146;800600;2F;174;Tyler Zeller;8;Boston Celtics;13960;Eric Moreland;3225;Sacramento Kings;;;4;1274.922;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367147;300100;Foul;13960;Eric Moreland;3225;Sacramento Kings;174;Tyler Zeller;8;Boston Celtics;;;4;1274.922;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367148;800101;1+;174;Tyler Zeller;8;Boston Celtics;13960;Eric Moreland;3225;Sacramento Kings;;;4;1306.855;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367149;800101;1+;174;Tyler Zeller;8;Boston Celtics;13960;Eric Moreland;3225;Sacramento Kings;;;4;1316.047;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367150;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1319.843;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367151;800600;2F;4930;James Anderson;3225;Sacramento Kings;169;James Young;8;Boston Celtics;;;4;1329.843;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 03:39:01.461421
+76367152;100200;Game stop;;;;;;;;;;;4;1329.843;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367153;300100;Foul;169;James Young;8;Boston Celtics;4930;James Anderson;3225;Sacramento Kings;;;4;1329.843;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367154;800101;1+;4930;James Anderson;3225;Sacramento Kings;169;James Young;8;Boston Celtics;;;4;1349.506;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367155;800101;1+;4930;James Anderson;3225;Sacramento Kings;169;James Young;8;Boston Celtics;;;4;1360.819;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367156;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1362.550;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367157;800302;3-;97676;RJ Hunter;8;Boston Celtics;;;;;173;Terry Rozier;4;1373.550;23.33;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76367158;100200;Game stop;;;;;;;;;;;4;1373.550;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367159;100300;Rebound;;;8;Boston Celtics;;;;;;;4;1373.550;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367160;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1389.008;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367161;100200;Game stop;;;;;;;;;;;4;1392.008;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367162;100500;Turnover;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1392.008;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367163;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1400.092;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367164;800202;2-;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;4;1414.092;24.80;7.80;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:39:01.461421
+76367165;100300;Rebound;97676;RJ Hunter;8;Boston Celtics;;;;;;;4;1414.092;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367166;800302;3-;97676;RJ Hunter;8;Boston Celtics;;;;;;;4;1432.394;21.71;13.53;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:39:01.461421
+76367167;100200;Game stop;;;;;;;;;;;4;1432.394;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367168;100300;Rebound;;;8;Boston Celtics;;;;;;;4;1432.394;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367169;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1432.980;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367170;800600;2F;174;Tyler Zeller;8;Boston Celtics;13960;Eric Moreland;3225;Sacramento Kings;;;4;1433.980;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367171;100200;Game stop;;;;;;;;;;;4;1433.980;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367172;300100;Foul;13960;Eric Moreland;3225;Sacramento Kings;174;Tyler Zeller;8;Boston Celtics;;;4;1433.980;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367173;800101;1+;174;Tyler Zeller;8;Boston Celtics;13960;Eric Moreland;3225;Sacramento Kings;;;4;1452.227;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367174;800102;1-;174;Tyler Zeller;8;Boston Celtics;13960;Eric Moreland;3225;Sacramento Kings;;;4;1464.149;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367175;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1464.149;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367176;100200;Game stop;;;;;;;;;;;4;1464.149;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367177;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;1464.149;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367178;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1474.942;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367179;100300;Rebound;174;Tyler Zeller;8;Boston Celtics;;;;;;;4;1488.042;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367180;100200;Game stop;;;;;;;;;;;4;1495.038;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367181;1600500;Guard;9362;Quincy Acy;3225;Sacramento Kings;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;4;1495.038;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367182;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1533.389;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367183;800202;2-;174;Tyler Zeller;8;Boston Celtics;;;;;173;Terry Rozier;4;1547.789;26.12;9.60;;;;;;;;Cut;;Hook;;;;2017-12-07 03:39:01.461421
+76367184;100300;Rebound;13960;Eric Moreland;3225;Sacramento Kings;;;;;;;4;1547.789;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367185;100200;Game stop;;;;;;;;;;;4;1555.808;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367186;100500;Turnover;4930;James Anderson;3225;Sacramento Kings;;;;;;;4;1555.808;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367187;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1562.893;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+76367188;800201;2+;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1585.593;21.41;7.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:39:01.461421
+76367189;800302;3-;4930;James Anderson;3225;Sacramento Kings;;;;;;;4;1594.031;19.49;3.42;;;;;;;;;;Jumper;;;;2017-12-07 03:39:01.461421
+76367190;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;1594.031;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+76367191;1800700;Match end;;;;;;;;;;;4;1594.031;;;;;;;;;;;;;;;;2017-12-07 03:39:01.461421
+103694568;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6371;Willie Cauley-Stein;1;136.692;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694570;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;178.270;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694572;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;200.645;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694574;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;1;231.560;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694576;200900;Assisting;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;307.599;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694578;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;164;Jared Sullinger;1;365.015;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694580;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;380.300;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694582;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;163;Amir Johnson;1;392.345;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694584;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;437.091;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694586;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;471.034;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694588;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;1;504.767;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694590;200900;Assisting;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;565.412;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694592;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;668.755;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694594;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;679.023;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694596;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;706.885;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694598;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;729.405;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694600;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;1;801.207;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694602;200900;Assisting;9362;Quincy Acy;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;823.832;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694604;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;1;879.365;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694606;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;1;950.900;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694608;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;171;Jonas Jerebko;1;1000.676;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694610;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;166;Isaiah Thomas;1;1053.931;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694612;200900;Assisting;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;41.922;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694614;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;2;57.647;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694616;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;219.886;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694618;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;7798;David Lee;2;251.588;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694620;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;385.264;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694622;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;417.155;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694624;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;2;525.279;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694626;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;2;539.337;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694628;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;2;607.316;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694630;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;2;670.546;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694632;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;850.291;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694634;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;7504;Evan Turner;2;923.637;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694636;200900;Assisting;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;937.913;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694638;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;2;1030.912;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694640;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;2;1039.245;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694642;200900;Assisting;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;1112.400;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694644;200900;Assisting;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;2;1158.257;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694646;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;14.833;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694648;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;3;68.647;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694650;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;90.333;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694652;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;157.615;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694654;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;3;230.142;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694656;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;250.119;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694658;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;341.510;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694660;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;163;Amir Johnson;3;360.722;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694662;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;164;Jared Sullinger;3;374.737;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694664;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;421.409;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694666;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;3;436.236;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694668;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;3;505.624;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694670;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;3;609.005;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694672;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;3;672.508;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694674;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;846.372;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694676;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;3;902.694;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694678;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;3;913.104;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694680;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;7798;David Lee;3;928.373;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694682;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;945.233;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694684;200900;Assisting;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;3;1002.502;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694686;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;;;3;1066.930;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694688;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;3;1116.483;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694690;200900;Assisting;7714;Seth Curry;3225;Sacramento Kings;;;;;6377;Darren Collison;3;1195.078;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694692;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;3;1208.015;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694694;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;7772;Marco Belinelli;3;1297.852;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694696;200900;Assisting;7714;Seth Curry;3225;Sacramento Kings;;;;;;;3;1355.584;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694698;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;7798;David Lee;3;1386.788;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694700;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1429.904;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694702;200900;Assisting;7798;David Lee;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;1479.436;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694704;200900;Assisting;171;Jonas Jerebko;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;1498.837;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694706;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;7772;Marco Belinelli;3;1535.216;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694708;200900;Assisting;171;Jonas Jerebko;8;Boston Celtics;;;;;166;Isaiah Thomas;3;1556.016;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694710;200900;Assisting;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6377;Darren Collison;4;39.590;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694712;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;4;56.425;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694714;200900;Assisting;97676;RJ Hunter;8;Boston Celtics;;;;;166;Isaiah Thomas;4;159.453;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694716;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;170.132;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694718;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;301.424;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694720;200900;Assisting;7714;Seth Curry;3225;Sacramento Kings;;;;;;;4;397.822;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694722;200900;Assisting;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;4;471.256;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694724;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;4;518.952;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694726;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;4;544.887;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694728;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;562.339;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694730;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;577.288;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694732;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;163;Amir Johnson;4;699.694;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694734;200900;Assisting;7714;Seth Curry;3225;Sacramento Kings;;;;;;;4;712.243;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694736;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;803.334;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694738;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;4;879.424;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694740;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;4;955.047;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694742;200900;Assisting;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;4;1023.157;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694744;200900;Assisting;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;4;1102.182;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694746;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;4;1169.543;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694748;200900;Assisting;7714;Seth Curry;3225;Sacramento Kings;;;;;;;4;1172.913;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694750;200900;Assisting;174;Tyler Zeller;8;Boston Celtics;;;;;173;Terry Rozier;4;1229.669;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694752;200900;Assisting;4930;James Anderson;3225;Sacramento Kings;;;;;6385;Ben McLemore;4;1243.746;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694754;200900;Assisting;174;Tyler Zeller;8;Boston Celtics;;;;;;;4;1274.922;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694756;200900;Assisting;4930;James Anderson;3225;Sacramento Kings;;;;;;;4;1329.843;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694758;200900;Assisting;174;Tyler Zeller;8;Boston Celtics;;;;;;;4;1433.980;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164
+103694760;200900;Assisting;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1585.593;;;;;;;;;;;;;;;;2018-04-19 11:36:04.13164

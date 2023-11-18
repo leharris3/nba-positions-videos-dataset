@@ -1,0 +1,903 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77014625;1601000;Starting lineup;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014626;1601000;Starting lineup;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014627;1601000;Starting lineup;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014628;1601000;Starting lineup;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014629;1601000;Starting lineup;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014630;1601000;Starting lineup;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014631;1601000;Starting lineup;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014632;1601000;Starting lineup;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014633;1601000;Starting lineup;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014634;1601000;Starting lineup;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77014635;1601000;Starting lineup;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014636;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014642;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014643;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014644;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014645;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014646;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014647;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;55.632;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014648;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;75.632;23.87;11.82;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77014649;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;75.632;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014650;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;75.632;27.08;8.49;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:13:04.564861
+77014653;800302;3-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;122.877;26.96;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014656;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;139.370;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014657;400101;Accurate pass;1805;Blake Griffin;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;153.849;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014658;200300;Pick'n'Roll;9150;JJ Redick;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;1;153.849;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77014659;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;1;153.849;21.56;12.69;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:13:04.564861
+77014662;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;168.903;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014663;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;1;180.465;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014664;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;180.465;21.11;8.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014667;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;224.515;25.82;7.62;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 11:13:04.564861
+77014669;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;247.762;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014670;800202;2-;179;Chris Paul;13;Los Angeles Clippers;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;1;269.254;24.02;12.15;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77014672;100400;Steal;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;1;274.904;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014673;800600;2F;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;1;278.193;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:13:04.564861
+77014674;100200;Game stop;;;;;;;;;;;1;278.193;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014676;800101;1+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;1;309.119;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014677;800101;1+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;1;327.052;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014683;200300;Pick'n'Roll;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;363.208;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77014684;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;363.208;24.20;2.70;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:13:04.564861
+77014689;100200;Game stop;;;;;;;;;;;1;388.369;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014690;300100;Foul;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;1;388.369;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014693;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;420.798;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014694;400101;Accurate pass;1805;Blake Griffin;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;1;433.093;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014695;800301;3+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;1805;Blake Griffin;1;433.093;27.08;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014696;100200;Game stop;;;;;;;;;;;1;433.093;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014699;100200;Game stop;;;;;;;;;;;1;480.908;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014700;300300;Technical foul;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;480.908;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014705;200600;Post;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;549.052;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014706;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;549.052;26.12;6.96;;;;;;;;Post;;Hook;;;;2017-12-07 11:13:04.564861
+77014709;800202;2-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;1;580.962;26.51;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77014713;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;610.306;23.60;3.24;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77014715;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;627.599;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014719;100200;Game stop;;;;;;;;;;;1;660.467;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014720;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;1;660.467;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014724;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;690.891;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014725;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;690.891;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014726;100200;Game stop;;;;;;;;;;;1;690.891;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014728;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;709.924;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014729;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;714.924;20.48;4.56;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77014733;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;739.384;23.03;10.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014734;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;738.865;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014735;800202;2-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;738.865;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77014738;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;748.934;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014739;100200;Game stop;;;;;;;;;;;1;763.132;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014741;800101;1+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;781.402;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014742;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;1;814.106;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014743;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;814.106;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77014745;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;814.106;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014746;200300;Pick'n'Roll;99345;Josh Smith;13;Los Angeles Clippers;;;;;179;Chris Paul;1;814.106;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77014747;800302;3-;99345;Josh Smith;13;Los Angeles Clippers;;;;;179;Chris Paul;1;814.106;20.36;4.41;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2021-04-01 08:47:05.392245
+77014749;100200;Game stop;;;;;;;;;;;1;824.227;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014750;300300;Technical foul;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;824.227;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014753;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;1;875.280;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014755;100200;Game stop;;;;;;;;;;;1;875.280;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014756;300100;Foul;7503;Wesley Johnson;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;1;875.280;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014759;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;895.316;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014760;400101;Accurate pass;180;Jamal Crawford;13;Los Angeles Clippers;;;;;99345;Josh Smith;1;903.604;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014761;200300;Pick'n'Roll;99345;Josh Smith;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;903.604;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77014762;800201;2+;99345;Josh Smith;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;903.604;26.27;7.68;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2021-04-01 08:47:05.392245
+77014764;100300;Rebound;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;1;923.796;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77014765;800600;2F;1805;Blake Griffin;13;Los Angeles Clippers;7462;David West;20;San Antonio Spurs;;;1;928.394;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:13:04.564861
+77014766;100200;Game stop;;;;;;;;;;;1;928.394;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014768;800101;1+;1805;Blake Griffin;13;Los Angeles Clippers;7462;David West;20;San Antonio Spurs;;;1;955.925;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014769;800101;1+;1805;Blake Griffin;13;Los Angeles Clippers;7462;David West;20;San Antonio Spurs;;;1;971.422;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014774;100200;Game stop;;;;;;;;;;;1;1013.317;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014776;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;1033.428;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014777;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;1805;Blake Griffin;1;1039.428;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014778;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;1804;Austin Rivers;1;1039.428;21.41;6.24;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014779;100200;Game stop;;;;;;;;;;;1;1049.850;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014780;300100;Foul;180;Jamal Crawford;13;Los Angeles Clippers;1170;Manu Ginobili;20;San Antonio Spurs;;;1;1049.850;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014784;100300;Rebound;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1085.107;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014785;400101;Accurate pass;180;Jamal Crawford;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;1;1092.398;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014786;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;1092.398;27.35;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014788;100200;Game stop;;;;;;;;;;;1;1114.871;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014789;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;1;1114.871;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014790;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;1805;Blake Griffin;13;Los Angeles Clippers;;;1;1143.024;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014791;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;1143.024;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014792;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;1;1143.024;26.96;8.28;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:13:04.564861
+77014797;100200;Game stop;;;;;;;;;;;1;1180.667;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014798;100500;Turnover;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;1180.667;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014800;1800500;Halftime;;;;;;;;;;;1;1181.067;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014801;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014807;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014808;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014809;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014810;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014811;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77014813;100200;Game stop;;;;;;;;;;;2;20.312;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014815;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;32.516;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014820;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;62.990;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:13:04.564861
+77014823;100200;Game stop;;;;;;;;;;;2;100.404;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014825;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;116.686;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014826;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;176;Paul Pierce;2;123.686;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014827;800301;3+;176;Paul Pierce;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;123.686;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014829;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;141.353;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014832;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;154.457;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014833;100200;Game stop;;;;;;;;;;;2;165.491;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014834;100500;Turnover;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;2;165.491;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77014838;100200;Game stop;;;;;;;;;;;2;189.136;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014839;300100;Foul;176;Paul Pierce;13;Los Angeles Clippers;7864;Boris Diaw;20;San Antonio Spurs;;;2;189.136;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014842;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;236.372;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014843;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;251.372;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:13:04.564861
+77014847;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;99345;Josh Smith;2;283.995;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014848;800201;2+;99345;Josh Smith;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;283.995;27.05;7.62;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2021-04-01 08:47:05.392245
+77014849;100400;Steal;99345;Josh Smith;13;Los Angeles Clippers;1166;Patty Mills;20;San Antonio Spurs;;;2;294.509;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77014851;100200;Game stop;;;;;;;;;;;2;305.755;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014854;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;99345;Josh Smith;13;Los Angeles Clippers;;;2;343.228;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014860;800202;2-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;363.651;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77014865;100200;Game stop;;;;;;;;;;;2;376.761;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014866;300100;Foul;180;Jamal Crawford;13;Los Angeles Clippers;1171;Tim Duncan;20;San Antonio Spurs;;;2;376.761;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014867;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;2;376.761;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014869;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;409.576;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014870;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;409.576;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014871;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;2;437.585;27.05;7.62;;;;;;;;;;Jumper;;;;2017-12-07 11:13:04.564861
+77014872;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;437.585;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014873;400101;Accurate pass;180;Jamal Crawford;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;2;437.585;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014874;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;437.585;27.05;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:13:04.564861
+77014875;100200;Game stop;;;;;;;;;;;2;456.666;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014879;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;2410;Lance Stephenson;13;Los Angeles Clippers;;;2;505.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014880;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;505.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014881;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;505.359;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014882;100200;Game stop;;;;;;;;;;;2;505.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014883;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;505.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014886;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;2;575.347;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014887;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;584.616;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77014890;800600;2F;179;Chris Paul;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;2;618.109;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:13:04.564861
+77014891;100200;Game stop;;;;;;;;;;;2;618.109;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014893;1800600;Timeout;;;;;;;;;;;2;618.109;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014894;800101;1+;179;Chris Paul;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;2;677.531;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014895;800101;1+;179;Chris Paul;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;2;689.492;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014899;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;2;709.659;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014900;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;2;765.415;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014901;200300;Pick'n'Roll;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;2;765.415;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77014902;800301;3+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;2;765.415;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:13:04.564861
+77014903;100200;Game stop;;;;;;;;;;;2;794.347;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014907;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;809.796;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014908;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;820.796;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014909;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;2;820.796;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77014913;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;871.180;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014914;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;882.330;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77014918;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;2;922.033;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77014923;100200;Game stop;;;;;;;;;;;2;945.136;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014924;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;945.136;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014925;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;962.088;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014926;400101;Accurate pass;1805;Blake Griffin;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;970.088;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:13:04.564861
+77014927;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;1805;Blake Griffin;2;970.088;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77014929;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;2;991.084;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014930;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1000.471;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77014932;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;1171;Tim Duncan;20;San Antonio Spurs;;;2;1021.819;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014933;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;2;1032.549;27.05;7.62;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:13:04.564861
+77014935;100200;Game stop;;;;;;;;;;;2;1038.511;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014937;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;2;1038.511;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014941;100200;Game stop;;;;;;;;;;;2;1091.506;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014943;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;2;1091.506;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014944;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;1120.190;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014945;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1135.422;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014946;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;2;1136.822;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014947;100200;Game stop;;;;;;;;;;;2;1136.822;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014949;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;2;1166.405;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014950;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;1166.405;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014951;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;2;1192.062;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014957;100200;Game stop;;;;;;;;;;;2;1202.065;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014958;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;1171;Tim Duncan;20;San Antonio Spurs;;;2;1202.065;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014959;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1253.223;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014962;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;1253.223;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014963;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1259.514;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014964;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;1277.114;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014965;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;1277.114;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014966;800600;2F;179;Chris Paul;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;2;1282.067;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:13:04.564861
+77014967;100200;Game stop;;;;;;;;;;;2;1282.067;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014969;800101;1+;179;Chris Paul;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;2;1312.190;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014970;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;2;1342.579;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014971;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;2;1342.579;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014972;800101;1+;179;Chris Paul;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;2;1342.579;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014974;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;1383.169;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014979;1800500;Halftime;;;;;;;;;;;2;1383.169;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014980;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014986;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014987;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014988;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014989;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014990;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014993;100200;Game stop;;;;;;;;;;;3;48.051;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014994;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;1171;Tim Duncan;20;San Antonio Spurs;;;3;48.051;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014997;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;89.386;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014998;100200;Game stop;;;;;;;;;;;3;95.386;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015000;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;108.019;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015001;400101;Accurate pass;1805;Blake Griffin;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;118.019;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015002;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;1805;Blake Griffin;3;118.019;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015004;100200;Game stop;;;;;;;;;;;3;154.055;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015006;800101;1+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;172.616;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015007;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;184.064;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015008;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;190.064;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015011;800600;2F;9150;JJ Redick;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;3;222.071;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:13:04.564861
+77015012;100200;Game stop;;;;;;;;;;;3;222.071;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015014;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;3;269.041;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015015;800102;1-;9150;JJ Redick;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;3;281.081;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015020;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;3;323.860;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015021;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;323.860;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015023;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;347.110;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015024;800202;2-;179;Chris Paul;13;Los Angeles Clippers;1169;Danny Green;20;San Antonio Spurs;;;3;353.434;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015027;100200;Game stop;;;;;;;;;;;3;363.345;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015028;300100;Foul;9150;JJ Redick;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;3;363.345;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015031;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;419.216;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015032;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;3;436.216;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015033;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;436.216;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015035;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;454.179;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015036;100200;Game stop;;;;;;;;;;;3;460.873;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015039;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;506.895;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015040;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;506.895;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015041;200300;Pick'n'Roll;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;506.895;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015042;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;506.895;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:13:04.564861
+77015044;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;537.970;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015045;100200;Game stop;;;;;;;;;;;3;550.235;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015046;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;3;550.235;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015048;100200;Game stop;;;;;;;;;;;3;580.260;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015049;300100;Foul;1805;Blake Griffin;13;Los Angeles Clippers;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;3;580.260;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015054;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;626.477;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015055;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;626.477;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015056;100200;Game stop;;;;;;;;;;;3;651.409;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015057;300100;Foul;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;3;651.409;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015060;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;683.622;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015061;400101;Accurate pass;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;696.622;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015062;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;3;696.622;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015063;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;1171;Tim Duncan;20;San Antonio Spurs;;;3;716.410;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015064;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;734.235;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015069;100200;Game stop;;;;;;;;;;;3;745.408;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015070;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;1171;Tim Duncan;20;San Antonio Spurs;;;3;745.408;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015075;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;801.879;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015076;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;801.879;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015077;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;826.197;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015080;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;841.814;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015081;400101;Accurate pass;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;848.024;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015082;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;848.024;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015085;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;1166;Patty Mills;20;San Antonio Spurs;;;3;884.421;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015086;100200;Game stop;;;;;;;;;;;3;884.421;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015087;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;884.421;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015088;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;3;918.914;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015089;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;3;918.914;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015091;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;918.914;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015092;200300;Pick'n'Roll;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;918.914;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77015093;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;918.914;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:13:04.564861
+77015096;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;929.416;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015097;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;3;950.265;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015098;200600;Post;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;950.265;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015099;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;950.265;27.05;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 11:13:04.564861
+77015100;100400;Steal;1805;Blake Griffin;13;Los Angeles Clippers;7864;Boris Diaw;20;San Antonio Spurs;;;3;963.795;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015101;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;973.132;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015102;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;973.132;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015103;100200;Game stop;;;;;;;;;;;3;986.610;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015105;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;3;986.610;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015106;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;3;986.610;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015107;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1044.755;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015109;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1070.582;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015113;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;1092.867;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015114;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;7864;Boris Diaw;20;San Antonio Spurs;;;3;1098.181;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015115;100200;Game stop;;;;;;;;;;;3;1098.181;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015117;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;7864;Boris Diaw;20;San Antonio Spurs;;;3;1131.984;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015118;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1131.984;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015119;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;7864;Boris Diaw;20;San Antonio Spurs;;;3;1156.769;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015122;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;1166;Patty Mills;20;San Antonio Spurs;;;3;1191.683;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015123;100200;Game stop;;;;;;;;;;;3;1191.683;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015125;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;1166;Patty Mills;20;San Antonio Spurs;;;3;1223.476;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015126;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1223.476;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015127;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;1166;Patty Mills;20;San Antonio Spurs;;;3;1247.560;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015131;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;1166;Patty Mills;20;San Antonio Spurs;;;3;1281.585;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015132;100200;Game stop;;;;;;;;;;;3;1281.585;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015134;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;1166;Patty Mills;20;San Antonio Spurs;;;3;1316.237;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015135;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1316.237;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015136;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;1166;Patty Mills;20;San Antonio Spurs;;;3;1342.453;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015140;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;2422;Jonathon Simmons;20;San Antonio Spurs;;;3;1365.638;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015141;100200;Game stop;;;;;;;;;;;3;1365.638;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015143;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;2422;Jonathon Simmons;20;San Antonio Spurs;;;3;1404.407;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015144;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1404.407;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015145;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;1805;Blake Griffin;13;Los Angeles Clippers;;;3;1433.023;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015146;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;2422;Jonathon Simmons;20;San Antonio Spurs;;;3;1433.023;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015151;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1449.018;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015152;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;1170;Manu Ginobili;20;San Antonio Spurs;;;3;1450.432;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015153;100200;Game stop;;;;;;;;;;;3;1450.432;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015155;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;1170;Manu Ginobili;20;San Antonio Spurs;;;3;1484.228;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015156;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;1170;Manu Ginobili;20;San Antonio Spurs;;;3;1510.832;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015159;100200;Game stop;;;;;;;;;;;3;1522.403;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015160;300100;Foul;176;Paul Pierce;13;Los Angeles Clippers;1170;Manu Ginobili;20;San Antonio Spurs;;;3;1522.403;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015162;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1545.537;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77015164;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;1563.569;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015165;400101;Accurate pass;99345;Josh Smith;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;3;1575.969;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77015166;800201;2+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1804;Austin Rivers;3;1575.969;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:13:04.564861
+77015169;100200;Game stop;;;;;;;;;;;3;1594.077;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015170;300100;Foul;99345;Josh Smith;13;Los Angeles Clippers;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;3;1594.077;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77015174;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;1638.731;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015175;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;1638.731;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015176;800202;2-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;1647.833;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015177;1800500;Halftime;;;;;;;;;;;3;1648.833;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015178;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015184;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015185;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015186;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015187;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015188;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77015189;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;6.880;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015190;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;22.880;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:13:04.564861
+77015197;800302;3-;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;84.716;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2021-04-01 08:47:05.392245
+77015201;100200;Game stop;;;;;;;;;;;4;92.675;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015202;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;92.675;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015203;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;126.664;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015204;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;126.664;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015205;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;126.664;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015210;100200;Game stop;;;;;;;;;;;4;151.174;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015212;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;4;193.184;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015213;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;99345;Josh Smith;13;Los Angeles Clippers;;;4;193.184;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015215;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;193.184;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015216;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;1805;Blake Griffin;4;193.184;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015218;100200;Game stop;;;;;;;;;;;4;205.061;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015219;300100;Foul;2410;Lance Stephenson;13;Los Angeles Clippers;1170;Manu Ginobili;20;San Antonio Spurs;;;4;205.061;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015223;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;255.884;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015224;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;255.884;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015225;100200;Game stop;;;;;;;;;;;4;255.884;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015227;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;282.031;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015228;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;282.031;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015229;100200;Game stop;;;;;;;;;;;4;282.031;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015232;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;321.260;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015233;100200;Game stop;;;;;;;;;;;4;322.260;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015235;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;7462;David West;20;San Antonio Spurs;;;4;347.402;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015237;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;7462;David West;20;San Antonio Spurs;;;4;382.127;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015238;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;382.127;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015239;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;407.929;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015240;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;7462;David West;20;San Antonio Spurs;;;4;407.929;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015244;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;423.567;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015245;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;4;428.027;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015246;100200;Game stop;;;;;;;;;;;4;428.027;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015248;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;4;463.276;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015249;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;463.276;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015250;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;4;492.725;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015253;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;512.739;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015254;200600;Post;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;518.152;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015255;800600;2F;1805;Blake Griffin;13;Los Angeles Clippers;7864;Boris Diaw;20;San Antonio Spurs;;;4;518.152;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:13:04.564861
+77015256;100200;Game stop;;;;;;;;;;;4;518.152;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015258;800101;1+;1805;Blake Griffin;13;Los Angeles Clippers;7864;Boris Diaw;20;San Antonio Spurs;;;4;548.867;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015260;800102;1-;1805;Blake Griffin;13;Los Angeles Clippers;7864;Boris Diaw;20;San Antonio Spurs;;;4;592.293;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015264;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;612.093;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015265;800302;3-;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;179;Chris Paul;4;634.064;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015268;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;647.853;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015269;200300;Pick'n'Roll;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;4;662.235;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015270;800202;2-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;4;662.235;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:13:04.564861
+77015274;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;680.264;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015275;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;693.427;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015279;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;751.642;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015280;800600;2F;179;Chris Paul;13;Los Angeles Clippers;7462;David West;20;San Antonio Spurs;;;4;770.449;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:13:04.564861
+77015281;100200;Game stop;;;;;;;;;;;4;770.449;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015283;800101;1+;179;Chris Paul;13;Los Angeles Clippers;7462;David West;20;San Antonio Spurs;;;4;801.978;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015284;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;2410;Lance Stephenson;13;Los Angeles Clippers;;;4;833.889;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015288;800101;1+;179;Chris Paul;13;Los Angeles Clippers;7462;David West;20;San Antonio Spurs;;;4;833.889;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015291;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;876.258;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015296;100200;Game stop;;;;;;;;;;;4;886.450;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015297;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;886.450;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015298;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;938.589;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015299;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;938.589;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015300;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;965.332;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015304;100200;Game stop;;;;;;;;;;;4;984.905;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015305;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;984.905;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015306;800600;2F;7503;Wesley Johnson;13;Los Angeles Clippers;1171;Tim Duncan;20;San Antonio Spurs;;;4;984.905;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015308;800101;1+;7503;Wesley Johnson;13;Los Angeles Clippers;1171;Tim Duncan;20;San Antonio Spurs;;;4;1020.843;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015309;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1020.843;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77015310;800101;1+;7503;Wesley Johnson;13;Los Angeles Clippers;1171;Tim Duncan;20;San Antonio Spurs;;;4;1040.388;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015313;100200;Game stop;;;;;;;;;;;4;1055.542;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015314;300100;Foul;99345;Josh Smith;13;Los Angeles Clippers;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;4;1055.542;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77015317;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1107.737;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015318;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;1126.737;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015323;100200;Game stop;;;;;;;;;;;4;1138.164;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015324;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1138.164;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015325;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1151.972;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015326;800202;2-;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;1164.972;27.05;7.62;;;;;;;;Cut;;Dunk;;;;2021-04-01 08:47:05.392245
+77015327;100200;Game stop;;;;;;;;;;;4;1164.972;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015330;100200;Game stop;;;;;;;;;;;4;1191.022;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015331;300100;Foul;1805;Blake Griffin;13;Los Angeles Clippers;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;4;1191.022;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015335;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;1223.314;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015336;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1232.821;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77015338;100200;Game stop;;;;;;;;;;;4;1278.487;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015339;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1278.487;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015340;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1280.135;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015341;200600;Post;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;1289.135;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77015342;800201;2+;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;1289.135;27.05;7.62;;;;;;;;Post;;Lay up;;;;2021-04-01 08:47:05.392245
+77015344;100300;Rebound;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;1317.067;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77015345;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;1325.915;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77015348;100200;Game stop;;;;;;;;;;;4;1341.032;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015349;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;1341.032;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015351;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;99345;Josh Smith;13;Los Angeles Clippers;;;4;1379.893;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015352;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1379.893;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015353;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;4;1379.893;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015354;200300;Pick'n'Roll;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1379.893;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015355;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1379.893;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:13:04.564861
+77015358;100200;Game stop;;;;;;;;;;;4;1422.663;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015359;300100;Foul;1805;Blake Griffin;13;Los Angeles Clippers;1167;Tony Parker;20;San Antonio Spurs;;;4;1422.663;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015364;100200;Game stop;;;;;;;;;;;4;1456.077;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015365;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;1456.077;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015366;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;1489.171;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015367;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1489.171;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015368;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;4;1489.171;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015371;100200;Game stop;;;;;;;;;;;4;1494.686;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015372;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;4;1494.686;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015376;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1553.808;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015377;800600;2F;179;Chris Paul;13;Los Angeles Clippers;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;4;1559.208;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:13:04.564861
+77015378;100200;Game stop;;;;;;;;;;;4;1559.208;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015380;800101;1+;179;Chris Paul;13;Los Angeles Clippers;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;4;1587.481;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015382;800102;1-;179;Chris Paul;13;Los Angeles Clippers;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;4;1605.958;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015383;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1605.958;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015384;100200;Game stop;;;;;;;;;;;4;1605.958;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015385;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1605.958;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015387;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1663.740;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015388;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;4;1663.740;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015389;800301;3+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1663.740;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015390;100200;Game stop;;;;;;;;;;;4;1663.740;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015395;100200;Game stop;;;;;;;;;;;4;1706.207;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015396;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;1165;Kawhi Leonard;20;San Antonio Spurs;;;4;1706.207;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015400;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1762.939;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015401;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1768.182;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015402;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;1776.082;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015405;100200;Game stop;;;;;;;;;;;4;1778.009;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015406;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;4;1778.009;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015409;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1826.492;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015410;1800700;Match end;;;;;;;;;;;4;1827.992;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+93268224;100500;Turnover;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;388.369;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+104772039;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;75.632;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772043;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;1;153.849;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772045;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;180.465;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772049;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;224.515;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772051;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;278.193;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772057;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;1805;Blake Griffin;1;433.093;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772061;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;549.052;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772067;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;610.306;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772073;200900;Assisting;99345;Josh Smith;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;903.604;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+104772075;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;928.394;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772079;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;1804;Austin Rivers;1;1039.428;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772081;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;1092.398;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772083;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;1;1143.024;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772089;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;62.990;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772093;200900;Assisting;176;Paul Pierce;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;123.686;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772099;200900;Assisting;99345;Josh Smith;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;283.995;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+104772105;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;437.585;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772107;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;584.616;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772111;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;618.109;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772113;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;2;765.415;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772115;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;2;820.796;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772119;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;882.330;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772125;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;1805;Blake Griffin;2;970.088;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772129;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1136.822;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772133;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1282.067;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772137;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;1805;Blake Griffin;3;118.019;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772141;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;190.064;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772145;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;222.071;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772149;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;323.860;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772153;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;436.216;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772155;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;506.895;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772159;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;537.970;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772163;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;626.477;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772167;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;3;696.622;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772171;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;848.024;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772175;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;950.265;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772177;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1098.181;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772181;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1191.683;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772185;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1281.585;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772189;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1365.638;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772191;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1450.432;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772195;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1804;Austin Rivers;3;1575.969;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772209;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;347.402;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772211;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;428.027;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772213;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;518.152;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772215;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;693.427;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772219;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;770.449;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772225;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;984.905;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772229;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1232.821;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772231;200900;Assisting;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;1289.135;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+104772235;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1379.893;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772241;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1559.208;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772243;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1663.740;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+77014615;1601000;Starting lineup;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014616;1601000;Starting lineup;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014617;1601000;Starting lineup;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014618;1601000;Starting lineup;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014619;1601000;Starting lineup;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014620;1601000;Starting lineup;1169;Danny Green;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014621;1601000;Starting lineup;7462;David West;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014622;1601000;Starting lineup;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014623;1601000;Starting lineup;1166;Patty Mills;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014624;1601000;Starting lineup;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014637;1600500;Guard;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014638;1600500;Guard;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014639;1600500;Guard;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014640;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014641;1600500;Guard;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014651;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;93.564;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014652;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;93.564;26.21;12.15;;;;;;;;Post;;Jumper;;;;2017-12-07 11:13:04.564861
+77014654;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;122.877;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014655;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;139.370;23.18;12.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77014660;200300;Pick'n'Roll;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;1;168.903;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77014661;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;1;168.903;20.66;7.95;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:13:04.564861
+77014665;400101;Accurate pass;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1171;Tim Duncan;1;201.139;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014666;800201;2+;1171;Tim Duncan;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;1;201.139;27.05;7.26;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77014668;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;247.762;25.22;7.74;;;;;;;;Hand offs;;Floater;;;;2017-12-07 11:13:04.564861
+77014671;100300;Rebound;1169;Danny Green;20;San Antonio Spurs;;;;;;;1;269.254;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014675;300100;Foul;1169;Danny Green;20;San Antonio Spurs;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;278.193;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014678;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;330.298;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014679;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;347.298;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014680;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;347.298;25.82;7.65;;;;;;;;Post;;Hook;;;;2017-12-07 11:13:04.564861
+77014681;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;347.298;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014682;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;347.298;26.84;7.35;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:13:04.564861
+77014685;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;363.208;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014686;400101;Accurate pass;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;1;381.695;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014687;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;381.695;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014688;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;381.695;27.38;3.12;;;;;;;;Post;;Jumper;;;;2017-12-07 11:13:04.564861
+77014691;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;401.798;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014692;800302;3-;1169;Danny Green;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;420.798;22.13;13.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014697;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;1;433.093;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014698;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;468.908;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014701;800101;1+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;499.257;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014702;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;510.482;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014703;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;526.482;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014704;800301;3+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;1167;Tony Parker;1;526.482;21.56;2.40;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014707;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1169;Danny Green;1;572.169;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014708;800201;2+;1169;Danny Green;20;San Antonio Spurs;;;;;1167;Tony Parker;1;572.169;26.21;7.80;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:13:04.564861
+77014710;100300;Rebound;1169;Danny Green;20;San Antonio Spurs;;;;;;;1;580.962;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014711;400101;Accurate pass;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;1;594.311;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014712;800301;3+;1167;Tony Parker;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;1;594.311;21.71;13.14;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014714;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;627.599;25.04;9.60;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77014716;100400;Steal;1171;Tim Duncan;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;1;641.494;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014717;400101;Accurate pass;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;1171;Tim Duncan;1;645.381;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014718;800201;2+;1171;Tim Duncan;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;645.381;27.05;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77014721;1600500;Guard;7462;David West;20;San Antonio Spurs;1171;Tim Duncan;20;San Antonio Spurs;;;1;690.891;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014722;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;1169;Danny Green;20;San Antonio Spurs;;;1;690.891;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014723;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;1167;Tony Parker;20;San Antonio Spurs;;;1;690.891;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014727;300100;Foul;1168;LaMarcus Aldridge;20;San Antonio Spurs;9150;JJ Redick;13;Los Angeles Clippers;;;1;690.891;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014730;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;714.924;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014731;400101;Accurate pass;1166;Patty Mills;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;1;725.706;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014732;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;725.706;22.43;3.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014736;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;738.865;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014737;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;748.934;21.41;10.98;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77014740;300300;Technical foul;7462;David West;20;San Antonio Spurs;;;;;;;1;763.132;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014744;1600500;Guard;7864;Boris Diaw;20;San Antonio Spurs;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;1;814.106;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014748;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;814.106;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014751;800102;1-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;844.611;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014752;100300;Rebound;;;20;San Antonio Spurs;;;;;;;1;844.611;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014754;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;875.280;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014757;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;891.316;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014758;800202;2-;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;1;895.316;23.18;3.39;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77014763;800202;2-;1170;Manu Ginobili;20;San Antonio Spurs;180;Jamal Crawford;13;Los Angeles Clippers;;;1;923.796;26.81;8.82;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:13:04.564861
+77014767;300100;Foul;7462;David West;20;San Antonio Spurs;1805;Blake Griffin;13;Los Angeles Clippers;;;1;928.394;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014770;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;973.666;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014771;400101;Accurate pass;7864;Boris Diaw;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;994.666;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014772;200300;Pick'n'Roll;7864;Boris Diaw;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;994.666;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014773;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;7864;Boris Diaw;1;994.666;26.99;3.93;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77014775;300100;Foul;1170;Manu Ginobili;20;San Antonio Spurs;1805;Blake Griffin;13;Los Angeles Clippers;;;1;1013.317;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014781;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;1165;Kawhi Leonard;20;San Antonio Spurs;;;1;1049.850;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014782;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;1072.107;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014783;800202;2-;7462;David West;20;San Antonio Spurs;;;;;;;1;1085.107;25.67;8.91;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:13:04.564861
+77014787;800202;2-;1170;Manu Ginobili;20;San Antonio Spurs;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;1114.871;26.72;6.96;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:13:04.564861
+77014793;800302;3-;1169;Danny Green;20;San Antonio Spurs;;;;;1166;Patty Mills;1;1167.800;23.45;14.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014794;100300;Rebound;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;1;1167.800;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014795;400101;Accurate pass;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1166;Patty Mills;1;1169.673;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014796;800301;3+;1166;Patty Mills;20;San Antonio Spurs;;;;;1170;Manu Ginobili;1;1169.673;26.27;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014799;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;1180.667;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014802;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014803;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014804;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014805;1600500;Guard;7462;David West;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014806;1600500;Guard;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014812;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;7.312;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014814;100500;Turnover;7462;David West;20;San Antonio Spurs;;;;;;;2;20.312;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014816;100400;Steal;1170;Manu Ginobili;20;San Antonio Spurs;2410;Lance Stephenson;13;Los Angeles Clippers;;;2;42.516;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014817;800202;2-;1166;Patty Mills;20;San Antonio Spurs;176;Paul Pierce;13;Los Angeles Clippers;;;2;46.487;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77014818;100300;Rebound;1169;Danny Green;20;San Antonio Spurs;;;;;;;2;46.487;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014819;800201;2+;1169;Danny Green;20;San Antonio Spurs;;;;;;;2;46.487;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77014821;400101;Accurate pass;7864;Boris Diaw;20;San Antonio Spurs;;;;;1170;Manu Ginobili;2;62.990;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014822;800301;3+;1170;Manu Ginobili;20;San Antonio Spurs;;;;;7864;Boris Diaw;2;86.984;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014824;300100;Foul;1170;Manu Ginobili;20;San Antonio Spurs;1804;Austin Rivers;13;Los Angeles Clippers;;;2;100.404;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014828;800202;2-;7462;David West;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;7864;Boris Diaw;2;141.353;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77014830;100400;Steal;7864;Boris Diaw;20;San Antonio Spurs;1804;Austin Rivers;13;Los Angeles Clippers;;;2;147.975;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014831;800202;2-;7462;David West;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;;;2;154.457;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77014835;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;177.136;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014836;200600;Post;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;189.136;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014837;800400;2+1;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;189.136;27.05;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:13:04.564861
+77014840;1600500;Guard;2422;Jonathon Simmons;20;San Antonio Spurs;1170;Manu Ginobili;20;San Antonio Spurs;;;2;231.657;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014841;800101;1+;7864;Boris Diaw;20;San Antonio Spurs;176;Paul Pierce;13;Los Angeles Clippers;;;2;231.657;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014844;100300;Rebound;7462;David West;20;San Antonio Spurs;;;;;;;2;251.372;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014845;400101;Accurate pass;1166;Patty Mills;20;San Antonio Spurs;;;;;1169;Danny Green;2;261.905;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014846;800301;3+;1169;Danny Green;20;San Antonio Spurs;;;;;1166;Patty Mills;2;261.905;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77014850;100400;Steal;2422;Jonathon Simmons;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;;;2;298.742;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014852;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;2;305.755;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014853;1600500;Guard;1171;Tim Duncan;20;San Antonio Spurs;7462;David West;20;San Antonio Spurs;;;2;343.228;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014855;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;343.228;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014856;800302;3-;1166;Patty Mills;20;San Antonio Spurs;;;;;;;2;343.228;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014857;100300;Rebound;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;343.228;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014858;400101;Accurate pass;7864;Boris Diaw;20;San Antonio Spurs;;;;;1169;Danny Green;2;345.478;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014859;800301;3+;1169;Danny Green;20;San Antonio Spurs;;;;;7864;Boris Diaw;2;345.478;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77014861;100300;Rebound;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;;;2;363.651;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014862;800202;2-;1166;Patty Mills;20;San Antonio Spurs;;;;;;;2;376.761;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77014863;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;2;376.761;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014864;800400;2+1;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;2;376.761;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77014868;800102;1-;1171;Tim Duncan;20;San Antonio Spurs;180;Jamal Crawford;13;Los Angeles Clippers;;;2;409.576;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014876;100500;Turnover;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;456.666;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014877;1600500;Guard;1167;Tony Parker;20;San Antonio Spurs;1166;Patty Mills;20;San Antonio Spurs;;;2;505.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014878;1600500;Guard;1165;Kawhi Leonard;20;San Antonio Spurs;2422;Jonathon Simmons;20;San Antonio Spurs;;;2;505.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014884;1600500;Guard;1168;LaMarcus Aldridge;20;San Antonio Spurs;7864;Boris Diaw;20;San Antonio Spurs;;;2;505.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014885;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;556.347;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014888;400101;Accurate pass;1171;Tim Duncan;20;San Antonio Spurs;;;;;1167;Tony Parker;2;604.490;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:13:04.564861
+77014889;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;1171;Tim Duncan;2;604.490;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77014892;300100;Foul;1167;Tony Parker;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;2;618.109;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014896;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;691.659;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014897;200600;Post;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;2;709.659;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014898;800202;2-;1171;Tim Duncan;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;709.659;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:13:04.564861
+77014904;100300;Rebound;;;20;San Antonio Spurs;;;;;;;2;794.347;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014905;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;794.347;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77014906;100500;Turnover;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;794.347;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014910;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;842.857;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77014911;100400;Steal;1167;Tony Parker;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;2;857.072;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014912;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;2;871.180;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77014915;400101;Accurate pass;1171;Tim Duncan;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;2;900.182;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014916;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;900.182;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014917;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1171;Tim Duncan;2;900.182;27.05;7.62;;;;;;;;Post;;Dunk;;;;2017-12-07 11:13:04.564861
+77014919;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;2;922.033;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014920;400101;Accurate pass;1171;Tim Duncan;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;2;930.287;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014921;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;930.287;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014922;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1171;Tim Duncan;2;930.287;27.05;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:13:04.564861
+77014928;800202;2-;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;2;991.084;27.05;7.62;;;;;;;;Cut;;Hook;;;;2017-12-07 11:13:04.564861
+77014931;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;1000.471;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014934;100300;Rebound;1169;Danny Green;20;San Antonio Spurs;;;;;;;2;1032.549;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014936;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;1169;Danny Green;20;San Antonio Spurs;;;2;1038.511;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014938;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;1067.537;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014939;200600;Post;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;1077.337;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014940;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;1077.337;27.05;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 11:13:04.564861
+77014942;300100;Foul;1165;Kawhi Leonard;20;San Antonio Spurs;9150;JJ Redick;13;Los Angeles Clippers;;;2;1091.506;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014948;300100;Foul;1165;Kawhi Leonard;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1136.822;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014952;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;1192.062;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014953;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;2;1192.062;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014954;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1171;Tim Duncan;2;1202.065;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014955;200300;Pick'n'Roll;1171;Tim Duncan;20;San Antonio Spurs;;;;;1167;Tony Parker;2;1202.065;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014956;800400;2+1;1171;Tim Duncan;20;San Antonio Spurs;;;;;1167;Tony Parker;2;1202.065;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:13:04.564861
+77014960;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;2;1253.223;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014961;800101;1+;1171;Tim Duncan;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1253.223;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014968;300100;Foul;1165;Kawhi Leonard;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;2;1282.067;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014973;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;2;1342.579;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014975;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;1167;Tony Parker;20;San Antonio Spurs;;;2;1383.169;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014976;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;1383.169;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014977;800202;2-;1166;Patty Mills;20;San Antonio Spurs;;;;;;;2;1383.169;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77014978;100300;Rebound;;;20;San Antonio Spurs;;;;;;;2;1383.169;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014981;1600500;Guard;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014982;1600500;Guard;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014983;1600500;Guard;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014984;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014985;1600500;Guard;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014991;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;34.051;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77014992;800600;2F;1171;Tim Duncan;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;48.051;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:13:04.564861
+77014995;800101;1+;1171;Tim Duncan;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;69.685;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014996;800101;1+;1171;Tim Duncan;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;83.600;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77014999;300100;Foul;1168;LaMarcus Aldridge;20;San Antonio Spurs;1805;Blake Griffin;13;Los Angeles Clippers;;;3;95.386;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015003;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;140.161;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015005;300300;Technical foul;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;154.055;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015009;200300;Pick'n'Roll;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;3;205.970;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77015010;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;3;205.970;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77015013;300100;Foul;1169;Danny Green;20;San Antonio Spurs;9150;JJ Redick;13;Los Angeles Clippers;;;3;222.071;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015016;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;281.081;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015017;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;281.081;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015018;200600;Post;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;302.013;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015019;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;302.013;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:13:04.564861
+77015022;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;347.110;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:13:04.564861
+77015025;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;353.434;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015026;800600;2F;1167;Tony Parker;20;San Antonio Spurs;9150;JJ Redick;13;Los Angeles Clippers;;;3;363.345;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:13:04.564861
+77015029;800101;1+;1167;Tony Parker;20;San Antonio Spurs;9150;JJ Redick;13;Los Angeles Clippers;;;3;399.980;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015030;800101;1+;1167;Tony Parker;20;San Antonio Spurs;9150;JJ Redick;13;Los Angeles Clippers;;;3;413.890;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015034;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;454.179;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015037;300100;Foul;1168;LaMarcus Aldridge;20;San Antonio Spurs;1805;Blake Griffin;13;Los Angeles Clippers;;;3;460.873;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015038;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;1169;Danny Green;20;San Antonio Spurs;;;3;506.895;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015043;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;523.253;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015047;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;575.260;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015050;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;593.465;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015051;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;606.465;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015052;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;606.465;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015053;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;606.465;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77015058;800400;2+1;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;651.409;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015059;800101;1+;1165;Kawhi Leonard;20;San Antonio Spurs;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;3;678.921;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015065;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;734.235;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015066;800302;3-;1166;Patty Mills;20;San Antonio Spurs;;;;;1167;Tony Parker;3;745.408;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015067;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;745.408;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015068;800600;2F;1171;Tim Duncan;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;3;745.408;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77015071;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;3;745.408;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015072;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;1167;Tony Parker;20;San Antonio Spurs;;;3;745.408;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015073;800101;1+;1171;Tim Duncan;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;3;786.426;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015074;800102;1-;1171;Tim Duncan;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;3;786.426;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015078;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;826.197;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015079;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;841.814;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77015083;400101;Accurate pass;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1166;Patty Mills;3;867.646;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015084;800301;3+;1166;Patty Mills;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;867.646;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015090;1600500;Guard;7864;Boris Diaw;20;San Antonio Spurs;1171;Tim Duncan;20;San Antonio Spurs;;;3;918.914;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015094;100300;Rebound;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;3;918.914;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015095;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;929.416;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015104;300100;Foul;7864;Boris Diaw;20;San Antonio Spurs;1805;Blake Griffin;13;Los Angeles Clippers;;;3;986.610;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015108;1600500;Guard;2422;Jonathon Simmons;20;San Antonio Spurs;1165;Kawhi Leonard;20;San Antonio Spurs;;;3;1044.755;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015110;100300;Rebound;1166;Patty Mills;20;San Antonio Spurs;;;;;;;3;1070.582;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015111;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;1071.867;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015112;800302;3-;7864;Boris Diaw;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;1092.867;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015116;300100;Foul;7864;Boris Diaw;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1098.181;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015120;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;1160.474;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015121;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;1181.474;27.05;7.62;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:13:04.564861
+77015124;300100;Foul;1166;Patty Mills;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1191.683;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015128;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;1249.975;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015129;400101;Accurate pass;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;3;1271.975;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015130;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;1271.975;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015133;300100;Foul;1166;Patty Mills;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1281.585;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015137;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;1345.556;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015138;400101;Accurate pass;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;2422;Jonathon Simmons;3;1358.556;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015139;800301;3+;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;1166;Patty Mills;3;1358.556;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015142;300100;Foul;2422;Jonathon Simmons;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1365.638;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015147;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;1433.023;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015148;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;1433.023;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015149;200300;Pick'n'Roll;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1166;Patty Mills;3;1449.018;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77015150;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1166;Patty Mills;3;1449.018;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:13:04.564861
+77015154;300100;Foul;1170;Manu Ginobili;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1450.432;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015157;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;1514.703;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015158;800600;2F;1170;Manu Ginobili;20;San Antonio Spurs;176;Paul Pierce;13;Los Angeles Clippers;;;3;1522.403;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:13:04.564861
+77015161;800101;1+;1170;Manu Ginobili;20;San Antonio Spurs;176;Paul Pierce;13;Los Angeles Clippers;;;3;1545.537;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015163;800101;1+;1170;Manu Ginobili;20;San Antonio Spurs;176;Paul Pierce;13;Los Angeles Clippers;;;3;1560.279;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015167;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;1594.077;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015168;800600;2F;1168;LaMarcus Aldridge;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;;;3;1594.077;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:13:04.564861
+77015171;800102;1-;1168;LaMarcus Aldridge;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;;;3;1622.951;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015172;100300;Rebound;;;20;San Antonio Spurs;;;;;;;3;1622.951;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015173;800102;1-;1168;LaMarcus Aldridge;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;;;3;1638.731;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015179;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015180;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015181;1600500;Guard;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015182;1600500;Guard;7462;David West;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015183;1600500;Guard;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015191;100300;Rebound;7462;David West;20;San Antonio Spurs;;;;;;;4;22.880;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015192;400101;Accurate pass;7462;David West;20;San Antonio Spurs;;;;;1166;Patty Mills;4;41.782;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015193;800201;2+;1166;Patty Mills;20;San Antonio Spurs;;;;;7462;David West;4;41.782;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77015194;100400;Steal;7462;David West;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;;;4;55.611;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015195;400101;Accurate pass;1170;Manu Ginobili;20;San Antonio Spurs;;;;;2422;Jonathon Simmons;4;58.825;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015196;800201;2+;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;58.825;27.05;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:13:04.564861
+77015198;100300;Rebound;1166;Patty Mills;20;San Antonio Spurs;;;;;;;4;84.716;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015199;400101;Accurate pass;7864;Boris Diaw;20;San Antonio Spurs;;;;;7462;David West;4;92.675;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015200;800201;2+;7462;David West;20;San Antonio Spurs;;;;;7864;Boris Diaw;4;92.675;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015206;100300;Rebound;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;4;126.664;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015207;400101;Accurate pass;7864;Boris Diaw;20;San Antonio Spurs;;;;;7462;David West;4;136.530;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015208;200600;Post;7462;David West;20;San Antonio Spurs;;;;;;;4;136.530;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015209;800201;2+;7462;David West;20;San Antonio Spurs;;;;;7864;Boris Diaw;4;136.530;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:13:04.564861
+77015211;300100;Foul;2422;Jonathon Simmons;20;San Antonio Spurs;180;Jamal Crawford;13;Los Angeles Clippers;;;4;151.174;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015214;1600500;Guard;1167;Tony Parker;20;San Antonio Spurs;1166;Patty Mills;20;San Antonio Spurs;;;4;193.184;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015217;100300;Rebound;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;4;193.184;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015220;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;226.021;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015221;400101;Accurate pass;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1167;Tony Parker;4;238.021;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015222;800301;3+;1167;Tony Parker;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;238.021;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015226;300100;Foul;7462;David West;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;255.884;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015230;300100;Foul;2422;Jonathon Simmons;20;San Antonio Spurs;180;Jamal Crawford;13;Los Angeles Clippers;;;4;282.031;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015231;1600500;Guard;1165;Kawhi Leonard;20;San Antonio Spurs;2422;Jonathon Simmons;20;San Antonio Spurs;;;4;282.031;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015234;300100;Foul;7462;David West;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;322.260;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015236;300100;Foul;7462;David West;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;347.402;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015241;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;410.567;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015242;200300;Pick'n'Roll;7864;Boris Diaw;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;423.567;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015243;800202;2-;7864;Boris Diaw;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;1170;Manu Ginobili;4;423.567;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:13:04.564861
+77015247;300100;Foul;1167;Tony Parker;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;428.027;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015251;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;494.739;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015252;800202;2-;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;4;512.739;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015257;300100;Foul;7864;Boris Diaw;20;San Antonio Spurs;1805;Blake Griffin;13;Los Angeles Clippers;;;4;518.152;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015259;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;4;548.867;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015261;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;592.293;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015262;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;593.093;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015263;800302;3-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;612.093;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015266;100300;Rebound;7462;David West;20;San Antonio Spurs;;;;;;;4;634.064;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015267;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;647.853;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015271;100300;Rebound;7462;David West;20;San Antonio Spurs;;;;;;;4;662.235;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015272;200300;Pick'n'Roll;7462;David West;20;San Antonio Spurs;;;;;1167;Tony Parker;4;680.264;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77015273;800202;2-;7462;David West;20;San Antonio Spurs;;;;;1167;Tony Parker;4;680.264;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:13:04.564861
+77015276;800301;3+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;720.717;27.05;7.62;;;;;;;;;;Jumper;;;;2017-12-07 11:13:04.564861
+77015277;100400;Steal;1170;Manu Ginobili;20;San Antonio Spurs;1805;Blake Griffin;13;Los Angeles Clippers;;;4;740.544;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015278;800302;3-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;1167;Tony Parker;4;751.642;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015282;300100;Foul;7462;David West;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;4;770.449;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015285;1600500;Guard;1168;LaMarcus Aldridge;20;San Antonio Spurs;7462;David West;20;San Antonio Spurs;;;4;833.889;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015286;1600500;Guard;1171;Tim Duncan;20;San Antonio Spurs;1170;Manu Ginobili;20;San Antonio Spurs;;;4;833.889;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015287;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;7864;Boris Diaw;20;San Antonio Spurs;;;4;833.889;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015289;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;835.440;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015290;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;858.440;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015292;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;876.258;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015293;400101;Accurate pass;1171;Tim Duncan;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;4;886.450;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015294;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;886.450;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015295;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1171;Tim Duncan;4;886.450;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:13:04.564861
+77015301;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;965.332;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015302;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;966.905;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015303;800302;3-;1166;Patty Mills;20;San Antonio Spurs;;;;;;;4;984.905;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015307;300100;Foul;1171;Tim Duncan;20;San Antonio Spurs;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;984.905;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015311;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;1044.542;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015312;800600;2F;1168;LaMarcus Aldridge;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;;;4;1055.542;26.45;4.86;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77015315;800101;1+;1168;LaMarcus Aldridge;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;;;4;1078.375;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015316;800101;1+;1168;LaMarcus Aldridge;20;San Antonio Spurs;99345;Josh Smith;13;Los Angeles Clippers;;;4;1098.292;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015319;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;1126.737;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015320;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;1134.316;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015321;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;1134.316;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015322;800202;2-;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;4;1138.164;27.05;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:13:04.564861
+77015328;100300;Rebound;;;20;San Antonio Spurs;;;;;;;4;1164.972;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015329;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;1181.022;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015332;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;1210.314;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015333;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;1223.314;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015334;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;1223.314;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:13:04.564861
+77015337;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;1278.487;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015343;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;1317.067;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015346;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;1325.915;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015347;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;1341.032;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015350;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;1166;Patty Mills;20;San Antonio Spurs;;;4;1379.893;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015356;800302;3-;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;4;1408.191;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015357;100300;Rebound;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;1408.191;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015360;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;1449.077;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015361;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;1456.077;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77015362;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;4;1456.077;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015363;800201;2+;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;4;1456.077;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77015369;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;1489.171;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015370;800600;2F;1165;Kawhi Leonard;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;4;1494.686;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015373;800101;1+;1165;Kawhi Leonard;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;4;1519.964;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015374;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;1171;Tim Duncan;20;San Antonio Spurs;;;4;1519.964;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015375;800101;1+;1165;Kawhi Leonard;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;4;1548.970;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015379;300100;Foul;1168;LaMarcus Aldridge;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;4;1559.208;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015381;1600500;Guard;1171;Tim Duncan;20;San Antonio Spurs;1169;Danny Green;20;San Antonio Spurs;;;4;1605.958;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015386;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;1171;Tim Duncan;20;San Antonio Spurs;;;4;1663.740;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015391;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;4;1663.740;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015392;1600500;Guard;1171;Tim Duncan;20;San Antonio Spurs;1169;Danny Green;20;San Antonio Spurs;;;4;1663.740;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015393;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;1702.007;;;;;;;;;;;;;;;;2019-10-24 13:32:03.338253
+77015394;800600;2F;1165;Kawhi Leonard;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1706.207;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015397;800101;1+;1165;Kawhi Leonard;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1739.829;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015398;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;1171;Tim Duncan;20;San Antonio Spurs;;;4;1739.829;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015399;800101;1+;1165;Kawhi Leonard;20;San Antonio Spurs;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1762.939;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015403;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;1776.082;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015404;800600;2F;1168;LaMarcus Aldridge;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;4;1778.009;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015407;800101;1+;1168;LaMarcus Aldridge;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;4;1812.059;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015408;800101;1+;1168;LaMarcus Aldridge;20;San Antonio Spurs;179;Chris Paul;13;Los Angeles Clippers;;;4;1826.492;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+104772041;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;93.564;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772047;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;1;201.139;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772053;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;347.298;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772055;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;381.695;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772059;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;1167;Tony Parker;1;526.482;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772063;200900;Assisting;1169;Danny Green;20;San Antonio Spurs;;;;;1167;Tony Parker;1;572.169;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772065;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;1;594.311;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772069;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;645.381;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772071;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;725.706;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772077;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;7864;Boris Diaw;1;994.666;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772085;200900;Assisting;1166;Patty Mills;20;San Antonio Spurs;;;;;1170;Manu Ginobili;1;1169.673;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772087;200900;Assisting;1169;Danny Green;20;San Antonio Spurs;;;;;;;2;46.487;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772091;200900;Assisting;1170;Manu Ginobili;20;San Antonio Spurs;;;;;7864;Boris Diaw;2;86.984;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772095;200900;Assisting;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;189.136;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772097;200900;Assisting;1169;Danny Green;20;San Antonio Spurs;;;;;1166;Patty Mills;2;261.905;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772101;200900;Assisting;1169;Danny Green;20;San Antonio Spurs;;;;;7864;Boris Diaw;2;345.478;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772103;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;2;376.761;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772109;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;1171;Tim Duncan;2;604.490;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772117;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;842.857;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772121;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1171;Tim Duncan;2;900.182;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772123;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1171;Tim Duncan;2;930.287;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772127;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;1077.337;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772131;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;1167;Tony Parker;2;1202.065;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772135;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;48.051;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772139;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;140.161;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772143;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;3;205.970;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772147;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;302.013;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772151;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;363.345;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772157;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;523.253;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772161;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;606.465;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772165;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;651.409;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772169;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;745.408;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772173;200900;Assisting;1166;Patty Mills;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;867.646;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772179;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;1181.474;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772183;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;1271.975;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772187;200900;Assisting;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;1166;Patty Mills;3;1358.556;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772193;200900;Assisting;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;3;1522.403;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772197;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;1594.077;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772199;200900;Assisting;1166;Patty Mills;20;San Antonio Spurs;;;;;7462;David West;4;41.782;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772201;200900;Assisting;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;58.825;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772203;200900;Assisting;7462;David West;20;San Antonio Spurs;;;;;7864;Boris Diaw;4;92.675;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772205;200900;Assisting;7462;David West;20;San Antonio Spurs;;;;;7864;Boris Diaw;4;136.530;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772207;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;238.021;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772217;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;720.717;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772221;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;858.440;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772223;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1171;Tim Duncan;4;886.450;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772227;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;1055.542;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772233;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;1341.032;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772237;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;4;1456.077;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772239;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;1494.686;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772245;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;1706.207;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475
+104772247;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;1778.009;;;;;;;;;;;;;;;;2018-03-03 02:15:01.853475

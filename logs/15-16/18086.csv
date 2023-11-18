@@ -1,0 +1,970 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76871232;1601000;Starting lineup;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871233;1601000;Starting lineup;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871234;1601000;Starting lineup;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871235;1601000;Starting lineup;79;Tony Snell;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871236;1601000;Starting lineup;160;Aaron Brooks;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871237;1601000;Starting lineup;78;Joakim Noah;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871238;1601000;Starting lineup;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871239;1601000;Starting lineup;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871240;1601000;Starting lineup;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871241;1601000;Starting lineup;156;Doug McDermott;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871242;1601000;Starting lineup;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871243;1601000;Starting lineup;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871244;1601000;Starting lineup;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871245;1601000;Starting lineup;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871246;1601000;Starting lineup;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871247;1601000;Starting lineup;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871248;1601000;Starting lineup;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871249;1601000;Starting lineup;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871250;1601000;Starting lineup;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871251;1601000;Starting lineup;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871252;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871253;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871254;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871255;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871256;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871257;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871258;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871259;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871260;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871261;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871262;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871263;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;42.273;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871264;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;56.273;27.08;3.51;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871265;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;56.273;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871266;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;69.852;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871267;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;69.852;26.72;10.65;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:10:02.965927
+76871268;800201;2+;156;Doug McDermott;7;Chicago Bulls;;;;;;;1;82.955;25.76;7.56;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 10:10:02.965927
+76871269;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;105.246;26.96;13.50;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:10:02.965927
+76871270;100200;Game stop;;;;;;;;;;;1;105.246;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871271;100300;Rebound;;;7;Chicago Bulls;;;;;;;1;105.246;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871272;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;122.529;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871273;800600;2F;72;Pau Gasol;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;135.529;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 10:10:02.965927
+76871274;100200;Game stop;;;;;;;;;;;1;135.529;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871275;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;1;135.529;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871276;800101;1+;72;Pau Gasol;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;164.733;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871277;800101;1+;72;Pau Gasol;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;178.665;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871278;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;179.897;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871279;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;189.897;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871280;200300;Pick'n'Roll;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;189.897;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:10:02.965927
+76871281;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;189.897;22.37;3.48;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:10:02.965927
+76871282;800302;3-;153;Derrick Rose;7;Chicago Bulls;;;;;71;Jimmy Butler;1;202.859;19.55;7.92;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871283;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;202.859;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871284;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;215.606;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871285;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;215.606;25.82;12.03;;;;;;;;Post;;Jumper;;;;2017-12-07 10:10:02.965927
+76871286;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;215.606;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871287;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;229.682;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871288;800400;2+1;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;229.682;25.37;8.49;;;;;;;;Post;;Jumper;;;;2017-12-07 10:10:02.965927
+76871289;100200;Game stop;;;;;;;;;;;1;229.682;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871290;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;1;229.682;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871291;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;258.536;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871292;800102;1-;72;Pau Gasol;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;258.536;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871293;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;258.536;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871294;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;258.536;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871295;800400;2+1;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;268.336;26.96;7.20;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871296;100200;Game stop;;;;;;;;;;;1;268.336;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871297;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;268.336;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871298;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;1;288.716;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871299;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;288.716;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871300;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;288.716;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871301;100200;Game stop;;;;;;;;;;;1;299.283;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871302;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;299.283;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871303;1600500;Guard;78;Joakim Noah;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;1;333.801;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871304;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;333.801;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871305;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;333.801;22.13;4.65;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76871306;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;334.190;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871307;100200;Game stop;;;;;;;;;;;1;334.190;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871308;300100;Foul;78;Joakim Noah;7;Chicago Bulls;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;1;334.190;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871309;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;349.079;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871310;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;358.079;24.20;3.18;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:10:02.965927
+76871311;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;358.079;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871312;200300;Pick'n'Roll;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;370.466;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:10:02.965927
+76871313;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;370.466;21.83;7.98;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:10:02.965927
+76871314;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;370.466;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871315;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;377.919;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871316;200600;Post;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;377.919;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871317;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;377.919;25.22;7.50;;;;;;;;Post;;Hook;;;;2017-12-07 10:10:02.965927
+76871318;100400;Steal;5319;Kevin Garnett;3174;Minnesota Timberwolves;153;Derrick Rose;7;Chicago Bulls;;;1;388.438;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871319;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;408.122;21.65;6.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871320;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;408.122;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871321;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;418.147;21.41;7.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871322;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;1;418.147;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871323;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;72;Pau Gasol;1;439.639;25.37;4.26;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:10:02.965927
+76871324;100200;Game stop;;;;;;;;;;;1;439.639;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871325;100300;Rebound;;;7;Chicago Bulls;;;;;;;1;439.639;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871326;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;474.120;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871327;400101;Accurate pass;153;Derrick Rose;7;Chicago Bulls;;;;;156;Doug McDermott;1;477.120;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871328;800301;3+;156;Doug McDermott;7;Chicago Bulls;;;;;153;Derrick Rose;1;477.120;26.81;14.76;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:10:02.965927
+76871329;100400;Steal;72;Pau Gasol;7;Chicago Bulls;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;1;487.447;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871330;400101;Accurate pass;153;Derrick Rose;7;Chicago Bulls;;;;;72;Pau Gasol;1;497.073;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871331;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;153;Derrick Rose;1;497.073;22.88;9.84;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871332;100200;Game stop;;;;;;;;;;;1;505.251;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871333;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;1;505.251;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871334;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;543.116;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871335;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;543.116;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871336;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;543.116;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871337;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;543.116;27.08;13.92;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871338;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;565.132;21.05;7.95;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871339;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;565.132;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871340;800301;3+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;579.606;21.83;13.11;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:10:02.965927
+76871341;800700;3F;153;Derrick Rose;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;593.984;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871342;100200;Game stop;;;;;;;;;;;1;593.984;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871343;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;153;Derrick Rose;7;Chicago Bulls;;;1;593.984;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871344;800102;1-;153;Derrick Rose;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;617.040;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871345;100300;Rebound;;;7;Chicago Bulls;;;;;;;1;617.040;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871346;800101;1+;153;Derrick Rose;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;631.704;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871347;800101;1+;153;Derrick Rose;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;645.866;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871348;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;649.079;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871349;200300;Pick'n'Roll;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;659.079;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871350;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;659.079;21.26;12.21;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 10:10:02.965927
+76871351;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;659.079;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871352;100200;Game stop;;;;;;;;;;;1;670.884;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871353;300100;Foul;71;Jimmy Butler;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;670.884;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871354;1600500;Guard;160;Aaron Brooks;7;Chicago Bulls;153;Derrick Rose;7;Chicago Bulls;;;1;725.659;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871355;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;1;725.659;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871356;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;725.659;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871357;800600;2F;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;1;725.659;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 10:10:02.965927
+76871358;100200;Game stop;;;;;;;;;;;1;725.659;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871359;300100;Foul;78;Joakim Noah;7;Chicago Bulls;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;725.659;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871360;800101;1+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;1;754.622;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871361;800101;1+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;1;770.478;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871362;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;771.283;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871363;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;1;782.283;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871364;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;808.919;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871365;800301;3+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;808.919;25.97;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871366;400101;Accurate pass;78;Joakim Noah;7;Chicago Bulls;;;;;156;Doug McDermott;1;821.626;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:10:02.965927
+76871367;800301;3+;156;Doug McDermott;7;Chicago Bulls;;;;;78;Joakim Noah;1;821.626;19.88;6.87;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871368;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;839.419;22.13;11.13;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871369;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;839.419;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871370;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;1;841.707;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871371;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;1;841.707;27.05;7.17;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:10:02.965927
+76871372;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;855.975;20.51;3.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871373;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;855.975;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871374;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;864.375;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871375;200300;Pick'n'Roll;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;864.375;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:10:02.965927
+76871376;800301;3+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;864.375;20.03;9.27;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:10:02.965927
+76871377;100200;Game stop;;;;;;;;;;;1;864.375;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871378;1800600;Timeout;;;7;Chicago Bulls;;;;;;;1;864.375;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871379;1600500;Guard;79;Tony Snell;7;Chicago Bulls;156;Doug McDermott;7;Chicago Bulls;;;1;893.714;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871380;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;893.714;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871381;100200;Game stop;;;;;;;;;;;1;893.714;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871382;100500;Turnover;79;Tony Snell;7;Chicago Bulls;;;;;;;1;893.714;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871383;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;904.982;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871384;100200;Game stop;;;;;;;;;;;1;925.982;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871385;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;925.982;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871386;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;945.429;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871387;400101;Accurate pass;78;Joakim Noah;7;Chicago Bulls;;;;;79;Tony Snell;1;956.429;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:10:02.965927
+76871388;800301;3+;79;Tony Snell;7;Chicago Bulls;;;;;78;Joakim Noah;1;956.429;20.96;11.73;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871389;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;968.675;26.96;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871390;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;968.675;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871391;400101;Accurate pass;160;Aaron Brooks;7;Chicago Bulls;;;;;79;Tony Snell;1;977.573;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871392;800301;3+;79;Tony Snell;7;Chicago Bulls;;;;;160;Aaron Brooks;1;977.573;27.35;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871393;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;993.836;27.23;8.19;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871394;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;1;993.836;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871395;400101;Accurate pass;78;Joakim Noah;7;Chicago Bulls;;;;;160;Aaron Brooks;1;1002.621;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871396;800301;3+;160;Aaron Brooks;7;Chicago Bulls;;;;;78;Joakim Noah;1;1002.621;19.64;8.04;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:10:02.965927
+76871397;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;1;1024.549;27.02;7.62;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 10:10:02.965927
+76871398;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;1;1024.549;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871399;800202;2-;160;Aaron Brooks;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;1035.865;26.12;7.80;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:10:02.965927
+76871400;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;1035.865;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871401;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;1041.021;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871402;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;1041.021;26.72;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:10:02.965927
+76871403;100400;Steal;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;1;1054.087;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871404;100200;Game stop;;;;;;;;;;;1;1069.813;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871405;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;1;1069.813;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871406;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;72;Pau Gasol;7;Chicago Bulls;;;1;1112.053;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871407;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;1112.053;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871408;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;1112.053;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871409;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;71;Jimmy Butler;7;Chicago Bulls;;;1;1112.053;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871410;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;1112.053;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871411;800202;2-;78;Joakim Noah;7;Chicago Bulls;;;;;;;1;1112.053;27.23;5.73;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 10:10:02.965927
+76871412;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;1112.053;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871413;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;1126.244;24.05;6.24;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76871414;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;1126.244;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871415;200300;Pick'n'Roll;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;1141.760;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871416;800201;2+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;1141.760;26.96;8.34;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:10:02.965927
+76871417;400101;Accurate pass;78;Joakim Noah;7;Chicago Bulls;;;;;160;Aaron Brooks;1;1152.194;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:10:02.965927
+76871418;800301;3+;160;Aaron Brooks;7;Chicago Bulls;;;;;78;Joakim Noah;1;1152.194;19.64;6.33;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871419;400101;Accurate pass;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;1174.663;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871420;800301;3+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;1174.663;23.33;14.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871421;800302;3-;79;Tony Snell;7;Chicago Bulls;;;;;;;1;1200.375;22.58;1.65;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871422;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;1200.375;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871423;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;1219.839;20.09;5.82;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76871424;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;1219.839;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871425;1800500;Halftime;;;;;;;;;;;1;1219.839;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871426;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871427;1600500;Guard;79;Tony Snell;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871428;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871429;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871430;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871431;1600500;Guard;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871432;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871433;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871434;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871435;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871436;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871437;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;3.848;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871438;100200;Game stop;;;;;;;;;;;2;17.848;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871439;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;17.848;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871440;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;30.608;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871441;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;39.608;26.72;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871442;800301;3+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;87.745;21.56;12.75;;;;;;;;;;Jumper;;;;2017-12-07 10:10:02.965927
+76871443;400101;Accurate pass;150;Taj Gibson;7;Chicago Bulls;;;;;157;Nikola Mirotic;2;104.613;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871444;200600;Post;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;104.613;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871445;800201;2+;157;Nikola Mirotic;7;Chicago Bulls;;;;;150;Taj Gibson;2;104.613;26.57;7.44;;;;;;;;Post;;Lay up;;;;2017-12-07 10:10:02.965927
+76871446;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;2;161.715;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871447;200600;Post;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;161.715;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871448;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;161.715;24.29;8.28;;;;;;;;Post;;Hook;;;;2017-12-07 10:10:02.965927
+76871449;400101;Accurate pass;153;Derrick Rose;7;Chicago Bulls;;;;;8396;E'Twaun Moore;2;181.420;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871450;800301;3+;8396;E'Twaun Moore;7;Chicago Bulls;;;;;153;Derrick Rose;2;181.420;27.50;14.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871451;100200;Game stop;;;;;;;;;;;2;198.914;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871452;300100;Foul;79;Tony Snell;7;Chicago Bulls;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;198.914;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871453;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;226.944;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871454;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;226.944;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871455;100400;Steal;157;Nikola Mirotic;7;Chicago Bulls;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;226.944;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871456;400101;Accurate pass;153;Derrick Rose;7;Chicago Bulls;;;;;150;Taj Gibson;2;238.777;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871457;200300;Pick'n'Roll;150;Taj Gibson;7;Chicago Bulls;;;;;153;Derrick Rose;2;238.777;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871458;800201;2+;150;Taj Gibson;7;Chicago Bulls;;;;;153;Derrick Rose;2;238.777;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 10:10:02.965927
+76871459;800202;2-;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;2;266.254;23.03;8.04;;;;;;;;;;Jumper;;;;2017-12-07 10:10:02.965927
+76871460;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;2;266.254;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871461;100200;Game stop;;;;;;;;;;;2;266.254;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871462;300100;Foul;5330;Adreian Payne;3174;Minnesota Timberwolves;79;Tony Snell;7;Chicago Bulls;;;2;266.254;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871463;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;286.003;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871464;800600;2F;153;Derrick Rose;7;Chicago Bulls;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;291.003;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871465;100200;Game stop;;;;;;;;;;;2;291.003;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871466;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;153;Derrick Rose;7;Chicago Bulls;;;2;291.003;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871467;800101;1+;153;Derrick Rose;7;Chicago Bulls;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;314.904;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871468;800101;1+;153;Derrick Rose;7;Chicago Bulls;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;330.665;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871469;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;340.258;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871470;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;354.258;21.83;4.50;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871471;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;354.258;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871472;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;376.638;19.49;7.02;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871473;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;2;376.638;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871474;100400;Steal;153;Derrick Rose;7;Chicago Bulls;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;387.816;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871475;800600;2F;157;Nikola Mirotic;7;Chicago Bulls;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;393.793;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:10:02.965927
+76871476;100200;Game stop;;;;;;;;;;;2;393.793;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871477;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;2;393.793;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871478;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;393.793;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871479;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;79;Tony Snell;7;Chicago Bulls;;;2;417.487;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871480;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;417.487;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871481;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;417.487;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871482;800101;1+;157;Nikola Mirotic;7;Chicago Bulls;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;417.487;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871483;800101;1+;157;Nikola Mirotic;7;Chicago Bulls;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;433.167;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871484;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;436.946;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871485;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;448.946;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871486;800301;3+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;448.946;26.72;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871487;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;464.037;19.64;8.13;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871488;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;464.037;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871489;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;481.756;22.67;11.37;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871490;100400;Steal;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;153;Derrick Rose;7;Chicago Bulls;;;2;487.992;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871491;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;500.433;26.42;3.93;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76871492;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;500.433;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871493;100200;Game stop;;;;;;;;;;;2;500.433;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871494;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;500.433;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871495;800400;2+1;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;500.433;26.60;7.92;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 10:10:02.965927
+76871496;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;156;Doug McDermott;7;Chicago Bulls;;;2;542.489;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871497;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;2;542.489;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871498;800101;1+;5307;Zach LaVine;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;2;542.489;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871499;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;544.728;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871500;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;555.728;26.84;7.05;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871501;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;555.728;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871502;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5330;Adreian Payne;2;561.207;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871503;800201;2+;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;561.207;26.63;8.07;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:10:02.965927
+76871504;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;572.863;19.94;9.99;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871505;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;572.863;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871506;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;577.587;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871507;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;577.587;26.48;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:10:02.965927
+76871508;100200;Game stop;;;;;;;;;;;2;577.587;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871509;1800600;Timeout;;;7;Chicago Bulls;;;;;;;2;577.587;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871510;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;602.176;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871511;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;602.176;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871512;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;2;602.176;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871513;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;602.176;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871514;800400;2+1;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;2;602.176;26.57;8.04;;;;;;;;Post;;Lay up;;;;2017-12-07 10:10:02.965927
+76871515;100200;Game stop;;;;;;;;;;;2;602.176;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871516;300100;Foul;5330;Adreian Payne;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;2;602.176;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871517;800101;1+;72;Pau Gasol;7;Chicago Bulls;5330;Adreian Payne;3174;Minnesota Timberwolves;;;2;622.393;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871518;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;625.050;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871519;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;636.050;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871520;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;636.050;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 10:10:02.965927
+76871521;800600;2F;150;Taj Gibson;7;Chicago Bulls;5330;Adreian Payne;3174;Minnesota Timberwolves;;;2;650.933;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871522;100200;Game stop;;;;;;;;;;;2;650.933;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871523;300100;Foul;5330;Adreian Payne;3174;Minnesota Timberwolves;150;Taj Gibson;7;Chicago Bulls;;;2;650.933;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871524;800102;1-;150;Taj Gibson;7;Chicago Bulls;5330;Adreian Payne;3174;Minnesota Timberwolves;;;2;698.064;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871525;100300;Rebound;;;7;Chicago Bulls;;;;;;;2;698.064;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871526;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5330;Adreian Payne;3174;Minnesota Timberwolves;;;2;719.818;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871527;800101;1+;150;Taj Gibson;7;Chicago Bulls;5330;Adreian Payne;3174;Minnesota Timberwolves;;;2;719.818;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871528;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;722.178;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871529;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;737.178;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871530;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;737.178;25.97;6.42;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 10:10:02.965927
+76871531;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;737.178;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871532;200600;Post;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;753.671;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871533;800202;2-;150;Taj Gibson;7;Chicago Bulls;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;753.671;27.08;6.96;;;;;;;;Post;;Lay up;;;;2017-12-07 10:10:02.965927
+76871534;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;753.671;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871535;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;761.470;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871536;800301;3+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;761.470;21.56;13.05;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:10:02.965927
+76871537;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;776.130;22.97;8.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871538;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;776.130;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871539;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;150;Taj Gibson;7;Chicago Bulls;;;2;776.130;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871540;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;791.285;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:10:02.965927
+76871541;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;791.285;26.81;7.17;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 10:10:02.965927
+76871542;400101;Accurate pass;150;Taj Gibson;7;Chicago Bulls;;;;;153;Derrick Rose;2;807.825;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:10:02.965927
+76871543;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;150;Taj Gibson;2;807.825;27.23;6.96;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 10:10:02.965927
+76871544;100200;Game stop;;;;;;;;;;;2;873.286;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871545;1600500;Guard;78;Joakim Noah;7;Chicago Bulls;150;Taj Gibson;7;Chicago Bulls;;;2;873.286;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871546;1600500;Guard;160;Aaron Brooks;7;Chicago Bulls;8396;E'Twaun Moore;7;Chicago Bulls;;;2;873.286;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871547;100500;Turnover;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;873.286;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871548;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;873.286;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871549;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;873.286;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871550;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;873.286;26.99;10.05;;;;;;;;Post;;Hook;;;;2017-12-07 10:10:02.965927
+76871551;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;889.581;25.22;3.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871552;200600;Post;78;Joakim Noah;7;Chicago Bulls;;;;;;;2;910.179;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871553;800202;2-;78;Joakim Noah;7;Chicago Bulls;;;;;;;2;910.179;25.82;7.02;;;;;;;;Post;;Hook;;;;2017-12-07 10:10:02.965927
+76871554;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;910.179;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871555;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;918.275;27.38;14.61;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:10:02.965927
+76871556;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;918.275;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871557;100200;Game stop;;;;;;;;;;;2;935.489;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871558;100500;Turnover;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;935.489;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871559;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;935.489;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871560;1600500;Guard;79;Tony Snell;7;Chicago Bulls;153;Derrick Rose;7;Chicago Bulls;;;2;967.504;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871561;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;967.504;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871562;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;967.504;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871563;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;967.504;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871564;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;79;Tony Snell;7;Chicago Bulls;;;2;967.504;26.72;8.22;;;;;;;;Screen off;;Lay up;;;;2017-12-07 10:10:02.965927
+76871565;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;967.504;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871566;800400;2+1;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;978.567;26.84;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871567;100200;Game stop;;;;;;;;;;;2;978.567;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871568;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;2;978.567;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871569;800101;1+;71;Jimmy Butler;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;1000.957;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871570;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1005.742;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871571;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;2;1012.742;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:10:02.965927
+76871572;100200;Game stop;;;;;;;;;;;2;1012.742;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871573;300100;Foul;72;Pau Gasol;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;1012.742;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871574;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;2;1030.859;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871575;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;2;1051.956;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871576;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;1057.569;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871577;100200;Game stop;;;;;;;;;;;2;1067.569;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871578;300100;Foul;71;Jimmy Butler;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;1067.569;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871579;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1082.912;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871580;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;1097.912;23.33;7.80;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:10:02.965927
+76871581;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;2;1097.912;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871582;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;2;1117.119;25.82;8.37;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:10:02.965927
+76871583;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;2;1118.615;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871584;800600;2F;78;Joakim Noah;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;1118.615;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 10:10:02.965927
+76871585;100200;Game stop;;;;;;;;;;;2;1118.615;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871586;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;2;1118.615;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871587;800102;1-;78;Joakim Noah;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;1142.635;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871588;100300;Rebound;;;7;Chicago Bulls;;;;;;;2;1142.635;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871589;800101;1+;78;Joakim Noah;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;1157.841;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871590;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1160.407;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871591;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;160;Aaron Brooks;7;Chicago Bulls;;;2;1176.407;22.97;12.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871592;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;1176.407;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871593;100200;Game stop;;;;;;;;;;;2;1184.479;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871594;300100;Foul;78;Joakim Noah;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;1184.479;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871595;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;78;Joakim Noah;7;Chicago Bulls;;;2;1234.195;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871596;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1234.195;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871597;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;1234.195;22.13;12.06;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871598;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;2;1234.195;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871599;200600;Post;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;1247.416;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871600;800202;2-;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;1247.416;26.72;8.37;;;;;;;;Post;;Lay up;;;;2017-12-07 10:10:02.965927
+76871601;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;1247.416;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871602;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;1247.416;26.96;6.36;;;;;;;;Putbacks;;;;;;2017-12-07 10:10:02.965927
+76871603;800302;3-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1265.239;21.35;3.09;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871604;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;1265.239;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871605;800302;3-;160;Aaron Brooks;7;Chicago Bulls;;;;;;;2;1272.255;19.49;6.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:10:02.965927
+76871606;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;1272.255;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871607;100200;Game stop;;;;;;;;;;;2;1272.255;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871608;300100;Foul;160;Aaron Brooks;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;1272.255;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871609;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1286.923;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871610;100400;Steal;150;Taj Gibson;7;Chicago Bulls;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;1300.323;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871611;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;2;1321.160;20.90;6.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871612;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;1321.160;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871613;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;1321.160;26.99;8.04;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:10:02.965927
+76871614;1800500;Halftime;;;;;;;;;;;2;1322.260;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871615;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871616;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871617;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871618;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871619;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871620;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871621;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871622;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871623;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871624;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871625;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871626;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871627;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;19.457;25.37;6.51;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:10:02.965927
+76871628;100300;Rebound;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;19.457;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871629;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;3;39.737;26.81;8.19;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:10:02.965927
+76871630;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;39.737;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871631;800302;3-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;56.310;26.12;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871632;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;56.310;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871633;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;56.310;26.72;7.20;;;;;;;;Putbacks;;;;;;2017-12-07 10:10:02.965927
+76871634;100200;Game stop;;;;;;;;;;;3;56.310;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871635;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;56.310;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871636;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;63.559;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871637;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;153;Derrick Rose;3;77.559;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871638;800301;3+;153;Derrick Rose;7;Chicago Bulls;;;;;71;Jimmy Butler;3;77.559;27.62;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871639;100200;Game stop;;;;;;;;;;;3;90.447;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871640;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;90.447;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871641;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;90.447;26.81;7.02;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 10:10:02.965927
+76871642;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;98.722;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871643;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;3;116.722;19.04;8.34;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871644;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;116.722;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871645;100400;Steal;71;Jimmy Butler;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;125.027;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871646;800202;2-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;3;130.758;26.84;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:10:02.965927
+76871647;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;130.758;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871648;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;141.949;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:10:02.965927
+76871649;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;141.949;22.25;5.79;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:10:02.965927
+76871650;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;141.949;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871651;100200;Game stop;;;;;;;;;;;3;149.461;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871652;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;3;149.461;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871653;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;180.981;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871654;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;196.981;25.82;8.10;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76871655;100200;Game stop;;;;;;;;;;;3;196.981;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871656;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;196.981;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871657;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;213.570;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871658;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;216.570;26.57;4.47;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:10:02.965927
+76871659;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;216.570;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871660;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;3;226.221;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:10:02.965927
+76871661;100200;Game stop;;;;;;;;;;;3;226.221;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871662;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;226.221;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871663;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;3;249.448;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871664;1600500;Guard;78;Joakim Noah;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;3;267.264;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871665;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;3;267.264;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871666;300300;Technical foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;267.264;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871667;800102;1-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;290.002;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871668;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;290.002;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871669;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;327.465;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871670;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;327.465;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871671;100200;Game stop;;;;;;;;;;;3;327.465;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871672;100500;Turnover;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;327.465;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871673;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;342.982;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871674;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;357.982;23.87;5.88;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:10:02.965927
+76871675;800302;3-;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;378.548;21.56;12.42;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:10:02.965927
+76871676;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;378.548;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871677;400101;Accurate pass;78;Joakim Noah;7;Chicago Bulls;;;;;72;Pau Gasol;3;381.047;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871678;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;78;Joakim Noah;3;381.047;21.71;6.33;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871679;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;397.256;23.57;13.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871680;100300;Rebound;156;Doug McDermott;7;Chicago Bulls;;;;;;;3;397.256;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871681;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;407.555;20.18;5.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871682;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;407.555;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871683;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;417.209;21.56;5.40;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871684;800202;2-;78;Joakim Noah;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;430.573;26.72;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:10:02.965927
+76871685;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;430.573;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871686;100400;Steal;78;Joakim Noah;7;Chicago Bulls;5307;Zach LaVine;3174;Minnesota Timberwolves;;;3;438.698;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871687;100200;Game stop;;;;;;;;;;;3;438.698;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871688;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;3;438.698;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871689;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;488.473;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871690;100400;Steal;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;3;501.473;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871691;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;513.980;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871692;800400;2+1;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;513.980;26.72;7.65;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:10:02.965927
+76871693;100200;Game stop;;;;;;;;;;;3;513.980;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871694;300100;Foul;156;Doug McDermott;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;513.980;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871695;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;3;540.591;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871696;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;540.591;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871697;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;156;Doug McDermott;7;Chicago Bulls;;;3;540.591;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871698;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;544.001;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871699;100200;Game stop;;;;;;;;;;;3;554.001;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871700;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;3;554.001;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871701;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;569.460;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871702;400101;Accurate pass;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;3;579.460;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:10:02.965927
+76871703;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;3;579.460;26.96;3.81;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871704;100200;Game stop;;;;;;;;;;;3;593.589;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871705;100500;Turnover;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;593.589;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871706;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;600.970;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871707;100200;Game stop;;;;;;;;;;;3;615.970;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871708;100500;Turnover;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;615.970;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871709;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;634.612;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871710;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;3;644.612;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:10:02.965927
+76871711;100200;Game stop;;;;;;;;;;;3;644.612;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871712;300100;Foul;78;Joakim Noah;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;644.612;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871713;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;3;669.303;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871714;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;669.303;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871715;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;3;683.072;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871716;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;684.737;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871717;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;701.737;27.23;8.34;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871718;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;715.452;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871719;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;715.452;26.42;6.42;;;;;;;;Post;;Hook;;;;2017-12-07 10:10:02.965927
+76871720;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;715.452;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871721;400101;Accurate pass;78;Joakim Noah;7;Chicago Bulls;;;;;156;Doug McDermott;3;730.972;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:10:02.965927
+76871722;800301;3+;156;Doug McDermott;7;Chicago Bulls;;;;;78;Joakim Noah;3;730.972;19.88;9.03;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871723;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;755.863;21.41;2.40;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871724;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;755.863;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871725;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;755.863;25.22;8.22;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 10:10:02.965927
+76871726;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;764.283;24.95;10.92;;;;;;;;;;Jumper;;;;2017-12-07 10:10:02.965927
+76871727;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;764.283;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871728;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;785.459;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871729;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;785.459;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871730;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;785.459;26.36;8.22;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 10:10:02.965927
+76871731;100200;Game stop;;;;;;;;;;;3;785.459;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871732;1800600;Timeout;;;7;Chicago Bulls;;;;;;;3;785.459;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871733;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;3;826.425;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871734;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;826.425;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871735;800202;2-;72;Pau Gasol;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;826.425;22.73;7.59;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76871736;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;826.425;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871737;100400;Steal;72;Pau Gasol;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;830.507;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871738;100200;Game stop;;;;;;;;;;;3;836.252;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871739;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;3;836.252;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871740;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;860.815;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871741;400101;Accurate pass;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;3;871.815;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871742;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;3;871.815;27.23;7.11;;;;;;;;Cut;;;;;;2017-12-07 10:10:02.965927
+76871743;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;3;890.006;23.18;3.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871744;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;890.006;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871745;200300;Pick'n'Roll;72;Pau Gasol;7;Chicago Bulls;;;;;153;Derrick Rose;3;904.377;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871746;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;153;Derrick Rose;3;904.377;27.20;7.83;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:10:02.965927
+76871747;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;904.377;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871748;800202;2-;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;904.377;26.66;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 10:10:02.965927
+76871749;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;904.377;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871750;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;919.951;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871751;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;919.951;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871752;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;919.951;26.96;7.74;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:10:02.965927
+76871753;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;937.501;21.98;5.10;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871754;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;937.501;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871755;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;953.923;21.20;12.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871756;100200;Game stop;;;;;;;;;;;3;953.923;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871757;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;953.923;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871758;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;3;953.923;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871759;1600500;Guard;8396;E'Twaun Moore;7;Chicago Bulls;153;Derrick Rose;7;Chicago Bulls;;;3;995.916;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871760;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;995.916;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871761;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;995.916;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871762;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;995.916;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871763;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;995.916;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871764;800202;2-;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;3;995.916;24.20;7.68;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871765;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;995.916;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871766;800202;2-;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;995.916;26.99;8.37;;;;;;;;Putbacks;;;;;;2017-12-07 10:10:02.965927
+76871767;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;995.916;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871768;800201;2+;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;995.916;26.84;7.65;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:10:02.965927
+76871769;200600;Post;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1018.179;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871770;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;78;Joakim Noah;7;Chicago Bulls;;;3;1018.179;26.99;10.53;;;;;;;;Post;;Jumper;;;;2017-12-07 10:10:02.965927
+76871771;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;1018.179;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871772;800600;2F;71;Jimmy Butler;7;Chicago Bulls;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;3;1036.758;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:10:02.965927
+76871773;100200;Game stop;;;;;;;;;;;3;1036.758;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871774;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;3;1036.758;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871775;800102;1-;71;Jimmy Butler;7;Chicago Bulls;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;3;1064.469;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871776;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;1064.469;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871777;1600500;Guard;79;Tony Snell;7;Chicago Bulls;156;Doug McDermott;7;Chicago Bulls;;;3;1081.130;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871778;800102;1-;71;Jimmy Butler;7;Chicago Bulls;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;3;1081.130;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871779;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1081.130;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871780;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;1081.130;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871781;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;1093.823;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871782;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;1093.823;27.62;1.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871783;400101;Accurate pass;8396;E'Twaun Moore;7;Chicago Bulls;;;;;79;Tony Snell;3;1120.231;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871784;800201;2+;79;Tony Snell;7;Chicago Bulls;;;;;8396;E'Twaun Moore;3;1120.231;26.27;8.67;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 10:10:02.965927
+76871785;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;1137.327;21.80;9.51;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871786;100200;Game stop;;;;;;;;;;;3;1137.327;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871787;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;1137.327;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871788;800600;2F;72;Pau Gasol;7;Chicago Bulls;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1137.327;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871789;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;3;1137.327;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871790;800101;1+;72;Pau Gasol;7;Chicago Bulls;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1172.714;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871791;800101;1+;72;Pau Gasol;7;Chicago Bulls;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1187.949;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871792;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1190.528;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871793;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;1211.128;19.43;8.13;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:10:02.965927
+76871794;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;1211.128;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871795;800302;3-;79;Tony Snell;7;Chicago Bulls;;;;;;;3;1220.662;20.21;5.19;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:10:02.965927
+76871796;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1220.662;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871797;100200;Game stop;;;;;;;;;;;3;1249.935;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871798;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;72;Pau Gasol;7;Chicago Bulls;;;3;1249.935;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871799;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1265.870;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871800;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1266.970;23.03;10.11;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:10:02.965927
+76871801;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;1266.970;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871802;1800500;Halftime;;;;;;;;;;;3;1267.370;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871803;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871804;1600500;Guard;78;Joakim Noah;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871805;1600500;Guard;79;Tony Snell;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871806;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871807;1600500;Guard;160;Aaron Brooks;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871808;1600500;Guard;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871809;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871810;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871811;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871812;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871813;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871814;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871815;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;4;15.761;21.95;4.65;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871816;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;15.761;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871817;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;4;34.025;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871818;200600;Post;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;34.025;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871819;800201;2+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;34.025;27.20;8.37;;;;;;;;Post;;Lay up;;;;2017-12-07 10:10:02.965927
+76871820;400101;Accurate pass;78;Joakim Noah;7;Chicago Bulls;;;;;79;Tony Snell;4;45.306;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:10:02.965927
+76871821;800301;3+;79;Tony Snell;7;Chicago Bulls;;;;;78;Joakim Noah;4;45.306;21.80;12.81;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871822;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;69.060;20.66;7.74;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76871823;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;4;69.060;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871824;100200;Game stop;;;;;;;;;;;4;76.448;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871825;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;150;Taj Gibson;7;Chicago Bulls;;;4;76.448;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871826;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;95.828;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871827;100400;Steal;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;79;Tony Snell;7;Chicago Bulls;;;4;105.828;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871828;100200;Game stop;;;;;;;;;;;4;112.224;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871829;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;160;Aaron Brooks;7;Chicago Bulls;;;4;112.224;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871830;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;128.850;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871831;800302;3-;160;Aaron Brooks;7;Chicago Bulls;;;;;;;4;142.850;20.18;10.29;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871832;100200;Game stop;;;;;;;;;;;4;142.850;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871833;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;142.850;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871834;300100;Foul;150;Taj Gibson;7;Chicago Bulls;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;142.850;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871835;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;163.876;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871836;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;178.876;26.99;7.83;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871837;100300;Rebound;78;Joakim Noah;7;Chicago Bulls;;;;;;;4;178.876;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871838;800202;2-;160;Aaron Brooks;7;Chicago Bulls;;;;;;;4;187.418;25.37;6.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:10:02.965927
+76871839;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;187.418;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871840;800600;2F;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;150;Taj Gibson;7;Chicago Bulls;;;4;194.172;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:10:02.965927
+76871841;100200;Game stop;;;;;;;;;;;4;194.172;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871842;300100;Foul;150;Taj Gibson;7;Chicago Bulls;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;194.172;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871843;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;150;Taj Gibson;7;Chicago Bulls;;;4;219.574;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871844;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;78;Joakim Noah;7;Chicago Bulls;;;4;240.440;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871845;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;150;Taj Gibson;7;Chicago Bulls;;;4;240.440;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871846;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;241.843;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871847;800202;2-;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;257.843;26.66;5.10;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871848;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;257.843;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871849;100200;Game stop;;;;;;;;;;;4;274.091;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871850;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;79;Tony Snell;7;Chicago Bulls;;;4;274.091;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871851;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;289.078;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871852;800201;2+;160;Aaron Brooks;7;Chicago Bulls;;;;;;;4;301.078;26.84;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871853;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;4;322.636;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871854;200600;Post;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;322.636;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871855;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;322.636;27.23;7.98;;;;;;;;Post;;Lay up;;;;2017-12-07 10:10:02.965927
+76871856;800201;2+;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;347.833;25.37;6.96;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 10:10:02.965927
+76871857;100200;Game stop;;;;;;;;;;;4;355.219;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871858;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;355.219;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871859;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;384.076;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871860;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;384.076;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871861;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;384.076;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871862;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;384.076;26.99;10.59;;;;;;;;Cut;;Hook;;;;2017-12-07 10:10:02.965927
+76871863;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;384.076;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871864;100200;Game stop;;;;;;;;;;;4;387.090;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871865;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;387.090;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871866;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;395.699;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871867;800302;3-;160;Aaron Brooks;7;Chicago Bulls;;;;;;;4;406.699;20.33;4.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871868;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;406.699;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871869;200600;Post;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;426.773;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871870;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;426.773;25.10;7.50;;;;;;;;Post;;Jumper;;;;2017-12-07 10:10:02.965927
+76871871;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;4;426.773;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871872;800201;2+;160;Aaron Brooks;7;Chicago Bulls;;;;;;;4;447.842;27.05;7.02;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 10:10:02.965927
+76871873;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;150;Taj Gibson;7;Chicago Bulls;;;4;464.658;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:10:02.965927
+76871874;100200;Game stop;;;;;;;;;;;4;464.658;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871875;300100;Foul;150;Taj Gibson;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;464.658;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871876;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;150;Taj Gibson;7;Chicago Bulls;;;4;488.627;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871877;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;510.587;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871878;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;510.587;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871879;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;160;Aaron Brooks;7;Chicago Bulls;;;4;510.587;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871880;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;8396;E'Twaun Moore;7;Chicago Bulls;;;4;510.587;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871881;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;150;Taj Gibson;7;Chicago Bulls;;;4;510.587;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871882;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;510.587;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871883;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;4;510.587;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871884;400101;Accurate pass;153;Derrick Rose;7;Chicago Bulls;;;;;79;Tony Snell;4;525.056;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871885;800301;3+;79;Tony Snell;7;Chicago Bulls;;;;;71;Jimmy Butler;4;525.056;27.53;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76871886;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;543.448;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871887;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;543.448;27.20;11.37;;;;;;;;Post;;Jumper;;;;2017-12-07 10:10:02.965927
+76871888;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;4;543.448;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871889;800202;2-;150;Taj Gibson;7;Chicago Bulls;;;;;;;4;558.896;27.05;7.98;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 10:10:02.965927
+76871890;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;558.896;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871891;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;4;565.641;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:10:02.965927
+76871892;100200;Game stop;;;;;;;;;;;4;565.641;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871893;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;565.641;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871894;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;565.641;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871895;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;4;595.181;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871896;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;4;595.181;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871897;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;595.181;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871898;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;157;Nikola Mirotic;7;Chicago Bulls;;;4;606.348;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871899;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;607.330;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871900;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;622.330;26.72;6.66;;;;;;;;Screen off;;Lay up;;;;2017-12-07 10:10:02.965927
+76871901;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;4;622.330;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871902;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;642.814;25.37;11.28;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76871903;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;4;642.814;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871904;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;4;655.082;27.23;8.52;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871905;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;655.082;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871906;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;668.071;26.99;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871907;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;668.071;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871908;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;4;678.106;21.11;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:10:02.965927
+76871909;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;678.106;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871910;800600;2F;5319;Kevin Garnett;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;4;699.058;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:10:02.965927
+76871911;100200;Game stop;;;;;;;;;;;4;699.058;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871912;300100;Foul;71;Jimmy Butler;7;Chicago Bulls;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;4;699.058;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871913;800102;1-;5319;Kevin Garnett;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;4;729.779;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871914;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;729.779;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871915;800102;1-;5319;Kevin Garnett;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;4;745.307;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871916;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;745.307;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871917;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;4;745.307;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871918;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;761.342;27.08;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871919;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;761.342;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871920;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;769.582;26.96;12.69;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:10:02.965927
+76871921;100200;Game stop;;;;;;;;;;;4;769.582;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871922;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;769.582;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871923;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;4;798.528;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871924;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;798.528;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871925;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;4;798.528;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871926;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;798.528;27.35;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:10:02.965927
+76871927;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;4;815.410;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871928;100200;Game stop;;;;;;;;;;;4;815.410;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871929;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;815.410;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871930;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;841.472;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871931;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;5309;Ricky Rubio;4;854.472;26.42;8.52;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76871932;100200;Game stop;;;;;;;;;;;4;854.472;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871933;100300;Rebound;;;7;Chicago Bulls;;;;;;;4;854.472;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871934;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;882.491;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871935;100200;Game stop;;;;;;;;;;;4;893.491;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871936;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;4;893.491;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871937;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;928.445;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871938;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;942.445;20.51;4.17;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:10:02.965927
+76871939;100200;Game stop;;;;;;;;;;;4;942.445;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871940;100300;Rebound;;;7;Chicago Bulls;;;;;;;4;942.445;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871941;100500;Turnover;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;942.445;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871942;1800600;Timeout;;;7;Chicago Bulls;;;;;;;4;942.445;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871943;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;962.761;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871944;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;974.761;26.72;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:10:02.965927
+76871945;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;974.761;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871946;100300;Rebound;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;974.761;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871947;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;974.761;27.38;7.32;;;;;;;;Putbacks;;;;;;2017-12-07 10:10:02.965927
+76871948;100200;Game stop;;;;;;;;;;;4;979.495;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871949;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;4;979.495;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871950;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;1000.517;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871951;200300;Pick'n'Roll;72;Pau Gasol;7;Chicago Bulls;;;;;153;Derrick Rose;4;1008.517;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:10:02.965927
+76871952;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;153;Derrick Rose;4;1008.517;22.73;8.04;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:10:02.965927
+76871953;100200;Game stop;;;;;;;;;;;4;1008.517;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871954;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;1008.517;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871955;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1021.331;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871956;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;1027.331;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871957;800400;2+1;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1027.331;26.57;7.02;;;;;;;;Screen off;;Lay up;;;;2017-12-07 10:10:02.965927
+76871958;100200;Game stop;;;;;;;;;;;4;1027.331;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871959;300100;Foul;79;Tony Snell;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1027.331;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871960;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;79;Tony Snell;7;Chicago Bulls;;;4;1050.834;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871961;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;1050.834;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871962;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;4;1050.834;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871963;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;1064.907;21.41;8.34;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871964;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1064.907;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871965;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1088.704;22.52;3.93;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:10:02.965927
+76871966;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1088.704;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871967;800600;2F;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;4;1104.908;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 10:10:02.965927
+76871968;100200;Game stop;;;;;;;;;;;4;1104.908;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871969;300100;Foul;71;Jimmy Butler;7;Chicago Bulls;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;1104.908;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871970;800102;1-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;4;1140.429;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871971;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;1140.429;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871972;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;150;Taj Gibson;7;Chicago Bulls;;;4;1158.968;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871973;800101;1+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;4;1158.968;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871974;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;1162.801;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871975;800600;2F;71;Jimmy Butler;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1183.801;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:10:02.965927
+76871976;100200;Game stop;;;;;;;;;;;4;1183.801;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871977;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;71;Jimmy Butler;7;Chicago Bulls;;;4;1183.801;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871978;800101;1+;71;Jimmy Butler;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1205.161;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871979;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;4;1229.719;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871980;1600500;Guard;78;Joakim Noah;7;Chicago Bulls;72;Pau Gasol;7;Chicago Bulls;;;4;1229.719;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871981;800101;1+;71;Jimmy Butler;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1229.719;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871982;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1233.286;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871983;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;1244.286;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871984;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1244.286;27.02;7.62;;;;;;;;Screen off;;Dunk;;;;2017-12-07 10:10:02.965927
+76871985;100200;Game stop;;;;;;;;;;;4;1253.424;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871986;1800600;Timeout;;;7;Chicago Bulls;;;;;;;4;1253.424;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871987;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;78;Joakim Noah;7;Chicago Bulls;;;4;1282.761;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871988;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;150;Taj Gibson;7;Chicago Bulls;;;4;1282.761;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871989;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;1282.761;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871990;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;1282.761;26.63;7.77;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:10:02.965927
+76871991;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;1282.761;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871992;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;1305.211;26.51;7.80;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:10:02.965927
+76871993;100200;Game stop;;;;;;;;;;;4;1305.211;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871994;1800600;Timeout;;;7;Chicago Bulls;;;;;;;4;1305.211;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871995;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1337.559;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871996;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;1337.559;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76871997;800202;2-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;4;1337.559;26.66;6.78;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 10:10:02.965927
+76871998;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;4;1337.559;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76871999;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;;;4;1337.559;27.08;8.22;;;;;;;;Putbacks;;;;;;2017-12-07 10:10:02.965927
+76872000;100200;Game stop;;;;;;;;;;;4;1337.559;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872001;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;1337.559;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872002;1600500;Guard;78;Joakim Noah;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;4;1380.348;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872003;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;72;Pau Gasol;7;Chicago Bulls;;;4;1380.348;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872004;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;4;1380.348;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872005;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1380.348;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872006;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1380.348;27.08;1.95;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76872007;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;1380.348;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872008;1800500;Halftime;;;;;;;;;;;4;1380.348;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872009;1801100;Start of 1 overtime;;;;;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872010;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872011;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872012;1600500;Guard;79;Tony Snell;7;Chicago Bulls;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872013;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872014;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872015;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872016;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872017;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872018;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872019;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872020;100100;Ball in play;;;7;Chicago Bulls;;;;;;;5;0.574;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872021;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;5;21.574;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872022;800202;2-;72;Pau Gasol;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;5;21.574;26.81;9.27;;;;;;;;Post;;Jumper;;;;2017-12-07 10:10:02.965927
+76872023;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;5;21.574;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872024;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;5;46.197;21.41;12.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76872025;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;46.197;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872026;400101;Accurate pass;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;5;48.429;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872027;800201;2+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;5;48.429;27.05;8.19;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:10:02.965927
+76872028;800202;2-;153;Derrick Rose;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;71;Jimmy Butler;5;67.898;26.72;6.12;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:10:02.965927
+76872029;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;5;67.898;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872030;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;5;86.733;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:10:02.965927
+76872031;100200;Game stop;;;;;;;;;;;5;86.733;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872032;300100;Foul;72;Pau Gasol;7;Chicago Bulls;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;5;86.733;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872033;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;5;110.686;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872034;800102;1-;5309;Ricky Rubio;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;5;124.022;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872035;100100;Ball in play;;;7;Chicago Bulls;;;;;;;5;124.022;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872036;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;5;124.022;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872037;100200;Game stop;;;;;;;;;;;5;141.745;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872038;300100;Foul;71;Jimmy Butler;7;Chicago Bulls;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;5;141.745;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872039;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;5;153.332;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872040;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;176.332;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872041;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;176.332;25.10;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 10:10:02.965927
+76872042;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;5;176.332;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872043;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;5;186.361;19.79;5.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76872044;100200;Game stop;;;;;;;;;;;5;186.361;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872045;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;5;186.361;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872046;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;5;213.807;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872047;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;5;213.807;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872048;200300;Pick'n'Roll;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;5;213.807;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872049;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;5;213.807;26.51;7.68;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:10:02.965927
+76872050;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;213.807;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872051;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;213.807;27.20;7.98;;;;;;;;Putbacks;;;;;;2017-12-07 10:10:02.965927
+76872052;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;5;232.077;22.43;1.41;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:10:02.965927
+76872053;100200;Game stop;;;;;;;;;;;5;232.077;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872054;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;5;232.077;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872055;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;5;241.046;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872056;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;5;261.046;26.99;8.34;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 10:10:02.965927
+76872057;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;261.046;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872058;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;261.046;26.99;7.44;;;;;;;;Putbacks;;;;;;2017-12-07 10:10:02.965927
+76872059;100300;Rebound;153;Derrick Rose;7;Chicago Bulls;;;;;;;5;261.046;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872060;100200;Game stop;;;;;;;;;;;5;267.261;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872061;100500;Turnover;153;Derrick Rose;7;Chicago Bulls;;;;;;;5;267.261;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872062;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;5;267.261;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872063;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;79;Tony Snell;7;Chicago Bulls;;;5;303.944;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872064;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;5;303.944;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872065;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;5;303.944;23.90;12.66;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:10:02.965927
+76872066;100300;Rebound;156;Doug McDermott;7;Chicago Bulls;;;;;;;5;303.944;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872067;800302;3-;153;Derrick Rose;7;Chicago Bulls;;;;;71;Jimmy Butler;5;323.400;23.90;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76872068;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;5;323.400;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872069;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;5;327.035;20.66;4.02;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76872070;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;327.035;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872071;200300;Pick'n'Roll;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;5;348.915;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872072;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;5;348.915;26.57;12.15;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 10:10:02.965927
+76872073;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;5;348.915;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872074;400101;Accurate pass;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;5;365.891;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872075;800400;2+1;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;5;365.891;26.96;7.95;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:10:02.965927
+76872076;100200;Game stop;;;;;;;;;;;5;365.891;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872077;300100;Foul;156;Doug McDermott;7;Chicago Bulls;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;5;365.891;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872078;800102;1-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;156;Doug McDermott;7;Chicago Bulls;;;5;394.388;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872079;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;5;394.388;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872080;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;5;394.388;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872081;100200;Game stop;;;;;;;;;;;5;395.013;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872082;1800600;Timeout;;;7;Chicago Bulls;;;;;;;5;395.013;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872083;100100;Ball in play;;;7;Chicago Bulls;;;;;;;5;420.416;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872084;800302;3-;156;Doug McDermott;7;Chicago Bulls;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;5;422.516;26.36;14.85;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:10:02.965927
+76872085;100200;Game stop;;;;;;;;;;;5;422.516;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872086;100300;Rebound;;;7;Chicago Bulls;;;;;;;5;422.516;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872087;100100;Ball in play;;;7;Chicago Bulls;;;;;;;5;436.437;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872088;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;5;444.237;20.51;4.20;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:10:02.965927
+76872089;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;5;444.237;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872090;800600;2F;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;5;445.938;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872091;100200;Game stop;;;;;;;;;;;5;445.938;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872092;300100;Foul;72;Pau Gasol;7;Chicago Bulls;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;5;445.938;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872093;800101;1+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;5;480.875;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872094;800101;1+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;72;Pau Gasol;7;Chicago Bulls;;;5;497.795;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872095;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;150;Taj Gibson;7;Chicago Bulls;;;5;509.797;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872096;100100;Ball in play;;;7;Chicago Bulls;;;;;;;5;509.797;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76872097;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;153;Derrick Rose;5;509.797;19.49;9.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:10:02.965927
+76872098;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;509.797;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+76872099;1800700;Match end;;;;;;;;;;;5;516.697;;;;;;;;;;;;;;;;2017-12-07 10:10:02.965927
+93266625;100500;Turnover;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;299.283;;;;;;;;;;;;;;;;2018-01-11 20:44:04.54949
+93266626;100500;Turnover;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;670.884;;;;;;;;;;;;;;;;2018-01-11 20:44:04.54949
+93266627;100500;Turnover;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;1069.813;;;;;;;;;;;;;;;;2018-01-11 20:44:04.54949
+93266628;100500;Turnover;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;1067.569;;;;;;;;;;;;;;;;2018-01-11 20:44:04.54949
+93266629;100500;Turnover;78;Joakim Noah;7;Chicago Bulls;;;;;;;2;1184.479;;;;;;;;;;;;;;;;2018-01-11 20:44:04.54949
+93266630;300100;Foul;153;Derrick Rose;7;Chicago Bulls;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;327.465;;;;;;;;;;;;;;;;2018-01-11 20:44:04.54949
+93266631;100500;Turnover;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;112.224;;;;;;;;;;;;;;;;2018-01-11 20:44:04.54949
+93266632;100500;Turnover;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;274.091;;;;;;;;;;;;;;;;2018-01-11 20:44:04.54949
+93266633;100500;Turnover;71;Jimmy Butler;7;Chicago Bulls;;;;;;;5;141.745;;;;;;;;;;;;;;;;2018-01-11 20:44:04.54949
+103727298;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;69.852;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727300;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;;;1;82.955;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727302;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;135.529;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727304;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;189.897;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727306;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;229.682;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727308;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;268.336;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727310;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;377.919;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727312;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;153;Derrick Rose;1;477.120;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727314;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;153;Derrick Rose;1;497.073;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727316;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;543.116;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727318;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;579.606;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727320;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;593.984;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727322;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;725.659;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727324;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;808.919;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727326;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;78;Joakim Noah;1;821.626;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727328;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;1;841.707;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727330;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;864.375;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727332;200900;Assisting;79;Tony Snell;7;Chicago Bulls;;;;;78;Joakim Noah;1;956.429;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727334;200900;Assisting;79;Tony Snell;7;Chicago Bulls;;;;;160;Aaron Brooks;1;977.573;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727336;200900;Assisting;160;Aaron Brooks;7;Chicago Bulls;;;;;78;Joakim Noah;1;1002.621;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727338;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;1041.021;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727340;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;1141.760;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727342;200900;Assisting;160;Aaron Brooks;7;Chicago Bulls;;;;;78;Joakim Noah;1;1152.194;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727344;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;1174.663;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727346;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;39.608;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727348;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;87.745;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727350;200900;Assisting;157;Nikola Mirotic;7;Chicago Bulls;;;;;150;Taj Gibson;2;104.613;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727352;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;161.715;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727354;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;153;Derrick Rose;2;181.420;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727356;200900;Assisting;150;Taj Gibson;7;Chicago Bulls;;;;;153;Derrick Rose;2;238.777;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727358;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;291.003;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727360;200900;Assisting;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;393.793;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727362;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;448.946;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727364;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;481.756;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727366;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;500.433;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727368;200900;Assisting;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;561.207;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727370;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;577.587;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727372;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;2;602.176;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727374;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;636.050;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727376;200900;Assisting;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;650.933;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727378;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;761.470;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727380;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;791.285;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727382;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;150;Taj Gibson;2;807.825;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727384;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;873.286;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727386;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;889.581;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727388;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;978.567;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727390;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;1012.742;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727392;200900;Assisting;78;Joakim Noah;7;Chicago Bulls;;;;;;;2;1118.615;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727394;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;1247.416;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727396;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;1321.160;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727398;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;71;Jimmy Butler;3;77.559;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727400;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;226.221;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727402;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;357.982;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727404;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;78;Joakim Noah;3;381.047;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727406;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;417.209;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727408;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;513.980;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727410;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;3;579.460;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727412;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;644.612;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727414;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;701.737;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727416;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;78;Joakim Noah;3;730.972;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727418;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;755.863;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727420;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;785.459;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727422;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;3;871.815;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727424;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;919.951;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727426;200900;Assisting;78;Joakim Noah;7;Chicago Bulls;;;;;;;3;995.916;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727428;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;1036.758;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727430;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;1093.823;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727432;200900;Assisting;79;Tony Snell;7;Chicago Bulls;;;;;8396;E'Twaun Moore;3;1120.231;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727434;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;1137.327;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727436;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;34.025;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727438;200900;Assisting;79;Tony Snell;7;Chicago Bulls;;;;;78;Joakim Noah;4;45.306;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727440;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;194.172;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727442;200900;Assisting;160;Aaron Brooks;7;Chicago Bulls;;;;;;;4;301.078;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727444;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;322.636;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727446;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;347.833;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727448;200900;Assisting;160;Aaron Brooks;7;Chicago Bulls;;;;;;;4;447.842;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727450;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;464.658;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727452;200900;Assisting;79;Tony Snell;7;Chicago Bulls;;;;;71;Jimmy Butler;4;525.056;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727454;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;565.641;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727456;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;4;699.058;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727458;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;798.528;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727460;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1027.331;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727462;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;1104.908;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727464;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;1183.801;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727466;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1244.286;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727468;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;1305.211;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727470;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;4;1337.559;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727472;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;5;48.429;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727474;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;5;86.733;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727476;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;5;213.807;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727478;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;5;365.891;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066
+103727480;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;5;445.938;;;;;;;;;;;;;;;;2018-04-19 12:04:04.168066

@@ -1,0 +1,837 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76356594;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356610;100200;Game stop;;;;;;;;;;;1;70.608;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356618;100200;Game stop;;;;;;;;;;;1;139.701;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356623;100200;Game stop;;;;;;;;;;;1;178.874;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356629;100200;Game stop;;;;;;;;;;;1;226.519;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356683;100200;Game stop;;;;;;;;;;;1;549.040;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356690;100200;Game stop;;;;;;;;;;;1;587.674;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356701;100200;Game stop;;;;;;;;;;;1;661.097;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356709;100200;Game stop;;;;;;;;;;;1;736.816;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356714;100200;Game stop;;;;;;;;;;;1;765.361;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356725;100200;Game stop;;;;;;;;;;;1;836.428;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356737;100200;Game stop;;;;;;;;;;;1;911.917;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356753;100200;Game stop;;;;;;;;;;;1;1011.145;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356761;100200;Game stop;;;;;;;;;;;1;1069.840;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356768;100200;Game stop;;;;;;;;;;;1;1145.058;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356782;100200;Game stop;;;;;;;;;;;1;1264.284;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356788;100200;Game stop;;;;;;;;;;;1;1321.722;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356792;1800500;Halftime;;;;;;;;;;;1;1321.822;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356793;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356811;100200;Game stop;;;;;;;;;;;2;52.743;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356821;100200;Game stop;;;;;;;;;;;2;132.330;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356828;100200;Game stop;;;;;;;;;;;2;201.232;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356843;100200;Game stop;;;;;;;;;;;2;295.310;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356852;100200;Game stop;;;;;;;;;;;2;375.693;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356854;1800600;Timeout;;;;;;;;;;;2;375.693;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356875;100200;Game stop;;;;;;;;;;;2;538.725;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356894;100200;Game stop;;;;;;;;;;;2;666.781;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356906;100200;Game stop;;;;;;;;;;;2;783.232;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356921;100200;Game stop;;;;;;;;;;;2;873.789;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356937;100200;Game stop;;;;;;;;;;;2;985.747;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356943;100200;Game stop;;;;;;;;;;;2;1026.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356952;100200;Game stop;;;;;;;;;;;2;1098.509;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356961;100200;Game stop;;;;;;;;;;;2;1205.108;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356967;1800500;Halftime;;;;;;;;;;;2;1262.075;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356968;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356983;100200;Game stop;;;;;;;;;;;3;37.131;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356997;100200;Game stop;;;;;;;;;;;3;175.031;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357003;100200;Game stop;;;;;;;;;;;3;211.315;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357011;100200;Game stop;;;;;;;;;;;3;288.143;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357014;100200;Game stop;;;;;;;;;;;3;312.702;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357027;100200;Game stop;;;;;;;;;;;3;384.154;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357034;100200;Game stop;;;;;;;;;;;3;423.687;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357039;100200;Game stop;;;;;;;;;;;3;478.490;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357047;100200;Game stop;;;;;;;;;;;3;544.952;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357054;100200;Game stop;;;;;;;;;;;3;584.753;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357059;100200;Game stop;;;;;;;;;;;3;616.775;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357065;100200;Game stop;;;;;;;;;;;3;685.699;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357073;100200;Game stop;;;;;;;;;;;3;725.463;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357091;100200;Game stop;;;;;;;;;;;3;881.814;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357102;100200;Game stop;;;;;;;;;;;3;946.311;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357110;100200;Game stop;;;;;;;;;;;3;1026.704;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357114;100200;Game stop;;;;;;;;;;;3;1059.124;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357120;100200;Game stop;;;;;;;;;;;3;1097.416;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357134;100200;Game stop;;;;;;;;;;;3;1215.975;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357139;1800500;Halftime;;;;;;;;;;;3;1243.557;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357140;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357153;100200;Game stop;;;;;;;;;;;4;27.441;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357160;100200;Game stop;;;;;;;;;;;4;106.325;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357166;100200;Game stop;;;;;;;;;;;4;165.548;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357173;100200;Game stop;;;;;;;;;;;4;215.306;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357188;100200;Game stop;;;;;;;;;;;4;345.716;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357190;1800600;Timeout;;;;;;;;;;;4;345.716;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357194;100200;Game stop;;;;;;;;;;;4;382.232;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357200;100200;Game stop;;;;;;;;;;;4;443.464;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357208;100200;Game stop;;;;;;;;;;;4;515.657;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357215;100200;Game stop;;;;;;;;;;;4;553.692;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357230;100200;Game stop;;;;;;;;;;;4;679.529;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357234;100200;Game stop;;;;;;;;;;;4;705.643;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357239;100200;Game stop;;;;;;;;;;;4;744.340;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357249;100200;Game stop;;;;;;;;;;;4;816.029;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357265;100200;Game stop;;;;;;;;;;;4;945.655;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357279;100200;Game stop;;;;;;;;;;;4;1139.054;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357285;100200;Game stop;;;;;;;;;;;4;1195.714;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357291;100200;Game stop;;;;;;;;;;;4;1234.550;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357301;100200;Game stop;;;;;;;;;;;4;1316.620;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357311;100200;Game stop;;;;;;;;;;;4;1450.427;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357315;100200;Game stop;;;;;;;;;;;4;1466.389;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357320;1800700;Match end;;;;;;;;;;;4;1481.700;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356574;1601000;Starting lineup;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356575;1601000;Starting lineup;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356576;1601000;Starting lineup;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356577;1601000;Starting lineup;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356578;1601000;Starting lineup;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356579;1601000;Starting lineup;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356580;1601000;Starting lineup;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356581;1601000;Starting lineup;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356582;1601000;Starting lineup;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356583;1601000;Starting lineup;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356584;1601000;Starting lineup;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356585;1601000;Starting lineup;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356586;1601000;Starting lineup;7101;Jared Cunningham;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356587;1601000;Starting lineup;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76356588;1601000;Starting lineup;7;James Jones;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356589;1601000;Starting lineup;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356590;1601000;Starting lineup;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356591;1601000;Starting lineup;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356592;1601000;Starting lineup;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356593;1601000;Starting lineup;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356595;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356596;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356597;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356598;1600500;Guard;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356599;1600500;Guard;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356600;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356601;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356602;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356603;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356604;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76356605;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;41.662;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356606;400101;Accurate pass;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2475;Marvin Williams;1;53.662;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356607;200300;Pick'n'Roll;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;53.662;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:21:04.617929
+76356608;800301;3+;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;53.662;25.37;15.12;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:21:04.617929
+76356609;800600;2F;2;Timofey Mozgov;1;Cleveland Cavaliers;13688;PJ Hairston;2977;Charlotte Hornets;;;1;70.608;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:21:04.617929
+76356611;300100;Foul;13688;PJ Hairston;2977;Charlotte Hornets;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;70.608;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356612;800101;1+;2;Timofey Mozgov;1;Cleveland Cavaliers;13688;PJ Hairston;2977;Charlotte Hornets;;;1;98.276;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356613;800101;1+;2;Timofey Mozgov;1;Cleveland Cavaliers;13688;PJ Hairston;2977;Charlotte Hornets;;;1;117.449;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356614;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;121.683;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356615;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;132.683;26.12;9.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76356616;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;132.683;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356617;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;139.701;25.91;7.20;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:21:04.617929
+76356619;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;1;139.701;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356620;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;153.985;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356621;200600;Post;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;163.985;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356622;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;163.985;26.72;10.89;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76356624;100500;Turnover;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;178.874;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356625;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;196.633;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356626;200600;Post;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;220.633;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356627;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;220.633;25.22;8.04;;;;;;;;Post;;Hook;;;;2017-12-07 03:21:04.617929
+76356628;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;220.633;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356630;300100;Foul;13688;PJ Hairston;2977;Charlotte Hornets;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;226.519;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356631;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;244.077;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356632;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;260.077;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356633;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;260.077;25.22;8.28;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76356634;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;260.077;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356635;800302;3-;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;272.028;26.12;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356636;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;272.028;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356637;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;291.677;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356638;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;291.677;25.97;4.80;;;;;;;;Post;;Hook;;;;2017-12-07 03:21:04.617929
+76356639;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;1;291.677;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356640;200300;Pick'n'Roll;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;301.855;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:21:04.617929
+76356641;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;301.855;24.65;4.65;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:21:04.617929
+76356642;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;301.855;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76356643;200600;Post;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;319.173;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356644;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;319.173;26.06;9.03;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76356645;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;319.173;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356646;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;330.765;23.18;7.80;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 03:21:04.617929
+76356647;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;330.765;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356648;100400;Steal;13688;PJ Hairston;2977;Charlotte Hornets;1889;Kevin Love;1;Cleveland Cavaliers;;;1;334.893;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356649;800302;3-;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;1;340.433;21.56;13.59;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:21:04.617929
+76356650;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;340.433;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356651;400101;Accurate pass;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;1;351.457;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356652;200300;Pick'n'Roll;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;1;351.457;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356653;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;1;351.457;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 03:21:04.617929
+76356654;400101;Accurate pass;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;374.042;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356655;800201;2+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2475;Marvin Williams;1;374.042;26.12;9.90;;;;;;;;Cut;;Hook;;;;2017-12-07 03:21:04.617929
+76356656;800201;2+;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;388.338;24.95;6.57;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 03:21:04.617929
+76356657;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2475;Marvin Williams;1;403.568;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356658;200300;Pick'n'Roll;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;403.568;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356659;800201;2+;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;403.568;25.67;6.33;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 03:21:04.617929
+76356660;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;429.265;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356661;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;429.265;26.12;9.81;;;;;;;;Post;;Hook;;;;2017-12-07 03:21:04.617929
+76356662;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;13688;PJ Hairston;1;440.812;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356663;800201;2+;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;440.812;26.84;7.80;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:21:04.617929
+76356664;800201;2+;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;462.011;24.50;10.38;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76356665;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;481.083;19.34;5.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76356666;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;481.083;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356667;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;490.564;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356668;800202;2-;1;LeBron James;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;1;490.564;26.27;7.20;;;;;;;;Post;;Lay up;;;;2017-12-07 03:21:04.617929
+76356669;100300;Rebound;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;1;490.564;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356670;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;496.689;26.84;8.19;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:21:04.617929
+76356671;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;496.689;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356672;800201;2+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;496.689;26.66;8.04;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:21:04.617929
+76356673;200300;Pick'n'Roll;1889;Kevin Love;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;1;523.798;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:21:04.617929
+76356674;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;1;523.798;22.43;5.16;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 03:21:04.617929
+76356675;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;523.798;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356676;800202;2-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;533.178;27.02;7.59;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 03:21:04.617929
+76356677;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;533.178;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356678;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;541.332;26.36;14.97;;;;;;;;Transition;;Jumper;;;;2018-04-20 13:44:36.355048
+76356679;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;541.332;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356680;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;549.040;20.66;3.39;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:21:04.617929
+76356681;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;549.040;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356682;800201;2+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;549.040;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:21:04.617929
+76356684;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;1;549.040;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356685;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;587.674;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356686;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;587.674;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356687;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;1;587.674;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356688;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;1;587.674;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356689;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;587.674;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356691;100500;Turnover;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;587.674;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356692;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;602.859;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356693;400101;Accurate pass;2480;Kemba Walker;2977;Charlotte Hornets;;;;;8411;Al Jefferson;1;615.859;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356694;200300;Pick'n'Roll;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;615.859;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:21:04.617929
+76356695;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;615.859;22.43;9.66;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:21:04.617929
+76356696;800201;2+;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;634.465;23.18;4.02;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76356697;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;650.767;21.83;13.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356698;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;650.767;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356699;100400;Steal;2483;Cody Zeller;2977;Charlotte Hornets;91848;Maurice Williams;1;Cleveland Cavaliers;;;1;656.484;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356700;800600;2F;2483;Cody Zeller;2977;Charlotte Hornets;91848;Maurice Williams;1;Cleveland Cavaliers;;;1;661.097;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:21:04.617929
+76356702;300100;Foul;91848;Maurice Williams;1;Cleveland Cavaliers;2483;Cody Zeller;2977;Charlotte Hornets;;;1;661.097;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356703;800102;1-;2483;Cody Zeller;2977;Charlotte Hornets;91848;Maurice Williams;1;Cleveland Cavaliers;;;1;687.507;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356704;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;1;687.507;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356705;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;13688;PJ Hairston;2977;Charlotte Hornets;;;1;713.703;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356706;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;91848;Maurice Williams;1;Cleveland Cavaliers;;;1;713.703;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356707;800101;1+;2483;Cody Zeller;2977;Charlotte Hornets;91848;Maurice Williams;1;Cleveland Cavaliers;;;1;713.703;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356708;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;719.816;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356710;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;1;736.816;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356711;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;8411;Al Jefferson;2977;Charlotte Hornets;;;1;765.361;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356712;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;765.361;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356713;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;2484;Frank Kaminsky;2977;Charlotte Hornets;;;1;765.361;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 03:21:04.617929
+76356715;300100;Foul;2484;Frank Kaminsky;2977;Charlotte Hornets;1889;Kevin Love;1;Cleveland Cavaliers;;;1;765.361;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356716;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;2484;Frank Kaminsky;2977;Charlotte Hornets;;;1;787.601;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356717;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;2484;Frank Kaminsky;2977;Charlotte Hornets;;;1;802.020;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356718;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;804.727;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356719;800302;3-;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;820.727;25.49;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356720;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;820.727;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356721;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;828.363;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356722;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;828.363;26.63;7.53;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 03:21:04.617929
+76356723;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;1;828.363;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356724;800700;3F;2476;Jeremy Lamb;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;1;836.428;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:21:04.617929
+76356726;300100;Foul;1895;Richard Jefferson;1;Cleveland Cavaliers;2476;Jeremy Lamb;2977;Charlotte Hornets;;;1;836.428;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356727;800102;1-;2476;Jeremy Lamb;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;1;859.415;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356728;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;1;859.415;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356729;800101;1+;2476;Jeremy Lamb;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;1;871.991;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356730;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;893.555;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356731;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;1;893.555;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356732;800102;1-;2476;Jeremy Lamb;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;1;893.555;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356733;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;893.555;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356734;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;893.555;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356735;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;907.993;23.03;2.19;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76356736;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;1;907.993;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356738;100500;Turnover;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;1;911.917;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356739;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;1;911.917;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356740;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;2480;Kemba Walker;2977;Charlotte Hornets;;;1;939.883;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356741;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;939.883;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356742;800302;3-;7;James Jones;1;Cleveland Cavaliers;;;;;1;LeBron James;1;939.883;26.12;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356743;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;1;939.883;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356744;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;963.457;20.90;12.75;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:21:04.617929
+76356745;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;963.457;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356746;800302;3-;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;1;969.974;25.97;0.81;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:21:04.617929
+76356747;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;1;969.974;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356748;800202;2-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;1;981.579;26.36;8.67;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:21:04.617929
+76356749;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;981.579;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356750;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;989.720;26.42;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:21:04.617929
+76356751;200300;Pick'n'Roll;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;1011.145;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356752;800600;2F;2483;Cody Zeller;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;1;1011.145;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:21:04.617929
+76356754;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;2483;Cody Zeller;2977;Charlotte Hornets;;;1;1011.145;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356755;800101;1+;2483;Cody Zeller;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;1;1034.134;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356756;800101;1+;2483;Cody Zeller;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;1;1047.676;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356757;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;1050.985;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356758;800202;2-;1;LeBron James;1;Cleveland Cavaliers;2483;Cody Zeller;2977;Charlotte Hornets;;;1;1062.985;26.21;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:21:04.617929
+76356759;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;1062.985;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356760;800600;2F;2484;Frank Kaminsky;2977;Charlotte Hornets;7;James Jones;1;Cleveland Cavaliers;;;1;1069.840;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356762;300100;Foul;7;James Jones;1;Cleveland Cavaliers;2484;Frank Kaminsky;2977;Charlotte Hornets;;;1;1069.840;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356763;800101;1+;2484;Frank Kaminsky;2977;Charlotte Hornets;7;James Jones;1;Cleveland Cavaliers;;;1;1095.369;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356764;800102;1-;2484;Frank Kaminsky;2977;Charlotte Hornets;7;James Jones;1;Cleveland Cavaliers;;;1;1111.397;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356765;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;1111.397;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356766;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;1111.397;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356767;800202;2-;7;James Jones;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;1145.058;26.27;4.32;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:21:04.617929
+76356769;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;1;1145.058;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356770;800102;1-;3;Tristan Thompson;1;Cleveland Cavaliers;2483;Cody Zeller;2977;Charlotte Hornets;;;1;1167.059;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356771;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;1;1167.059;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356772;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;2483;Cody Zeller;2977;Charlotte Hornets;;;1;1181.578;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356773;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;1181.578;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356774;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;1187.006;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356775;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2483;Cody Zeller;1;1200.606;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356776;200300;Pick'n'Roll;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;1200.606;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356777;800201;2+;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;1200.606;26.72;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 03:21:04.617929
+76356778;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;1234.566;26.42;7.65;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:21:04.617929
+76356779;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;1257.850;26.57;7.95;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:21:04.617929
+76356780;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;1257.850;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356781;800600;2F;1895;Richard Jefferson;1;Cleveland Cavaliers;2476;Jeremy Lamb;2977;Charlotte Hornets;;;1;1264.284;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:21:04.617929
+76356783;300100;Foul;2476;Jeremy Lamb;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;1;1264.284;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356784;800101;1+;1895;Richard Jefferson;1;Cleveland Cavaliers;2476;Jeremy Lamb;2977;Charlotte Hornets;;;1;1289.013;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356785;1600500;Guard;7101;Jared Cunningham;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;1;1311.203;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356786;800101;1+;1895;Richard Jefferson;1;Cleveland Cavaliers;2476;Jeremy Lamb;2977;Charlotte Hornets;;;1;1311.203;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356787;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;1314.222;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356789;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;1321.722;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356790;100500;Turnover;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;1321.722;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356791;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;1321.722;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356794;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356795;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356796;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356797;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356798;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356799;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356800;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356801;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356802;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356803;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356804;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;11.246;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356805;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;2;24.246;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356806;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;24.246;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356807;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;24.246;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 03:21:04.617929
+76356808;400101;Accurate pass;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;2;38.486;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356809;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;2;38.486;26.72;8.37;;;;;;;;Screen off;;Lay up;;;;2017-12-07 03:21:04.617929
+76356810;800600;2F;1895;Richard Jefferson;1;Cleveland Cavaliers;2473;Spencer Hawes;2977;Charlotte Hornets;;;2;52.743;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 03:21:04.617929
+76356812;300100;Foul;2473;Spencer Hawes;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;52.743;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356813;800102;1-;1895;Richard Jefferson;1;Cleveland Cavaliers;2473;Spencer Hawes;2977;Charlotte Hornets;;;2;77.564;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356814;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;2;77.564;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356815;800102;1-;1895;Richard Jefferson;1;Cleveland Cavaliers;2473;Spencer Hawes;2977;Charlotte Hornets;;;2;96.144;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356816;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;2;96.144;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356817;300100;Foul;2475;Marvin Williams;2977;Charlotte Hornets;7;James Jones;1;Cleveland Cavaliers;;;2;96.144;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356818;1600500;Guard;13688;PJ Hairston;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;2;132.330;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356819;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;132.330;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356820;800600;2F;1;LeBron James;1;Cleveland Cavaliers;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;132.330;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 03:21:04.617929
+76356822;300100;Foul;2478;Jeremy Lin;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;2;132.330;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356823;800101;1+;1;LeBron James;1;Cleveland Cavaliers;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;154.231;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356824;800101;1+;1;LeBron James;1;Cleveland Cavaliers;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;170.230;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356825;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;172.867;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356826;400101;Accurate pass;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;186.867;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356827;800301;3+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;13688;PJ Hairston;2;186.867;21.26;12.75;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356829;300100;Foul;2473;Spencer Hawes;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;201.232;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356830;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;216.678;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356831;800302;3-;7;James Jones;1;Cleveland Cavaliers;;;;;1;LeBron James;2;230.678;21.50;13.29;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356832;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;230.678;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356833;200300;Pick'n'Roll;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;2;246.767;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356834;800202;2-;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;2;246.767;26.06;7.95;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 03:21:04.617929
+76356835;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;246.767;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356836;800202;2-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;255.919;25.67;7.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76356837;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;255.919;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356838;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;255.919;26.57;7.65;;;;;;;;Putbacks;;;;;;2017-12-07 03:21:04.617929
+76356839;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;2;274.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356840;200300;Pick'n'Roll;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;274.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356841;800201;2+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;274.000;26.57;6.51;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 03:21:04.617929
+76356842;800600;2F;1;LeBron James;1;Cleveland Cavaliers;13688;PJ Hairston;2977;Charlotte Hornets;;;2;295.310;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:21:04.617929
+76356844;300100;Foul;13688;PJ Hairston;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;2;295.310;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356845;800101;1+;1;LeBron James;1;Cleveland Cavaliers;13688;PJ Hairston;2977;Charlotte Hornets;;;2;320.932;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356846;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;13688;PJ Hairston;2977;Charlotte Hornets;;;2;342.564;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356847;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;7;James Jones;1;Cleveland Cavaliers;;;2;342.564;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356848;800101;1+;1;LeBron James;1;Cleveland Cavaliers;13688;PJ Hairston;2977;Charlotte Hornets;;;2;342.564;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356849;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;342.564;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356850;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;2;355.066;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356851;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;355.066;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 03:21:04.617929
+76356853;100500;Turnover;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;375.693;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356855;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;398.706;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356856;800302;3-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;412.706;22.73;14.37;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76356857;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;2;412.706;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356858;800202;2-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;422.084;26.21;9.75;;;;;;;;Cut;;Floater;;;;2017-12-07 03:21:04.617929
+76356859;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;422.084;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356860;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;434.157;26.72;7.68;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:21:04.617929
+76356861;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;434.157;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356862;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;434.157;26.57;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 03:21:04.617929
+76356863;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;2;462.835;20.96;2.94;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356864;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;462.835;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356865;800201;2+;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;462.835;26.27;7.68;;;;;;;;Putbacks;;;;;;2017-12-07 03:21:04.617929
+76356866;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;487.210;19.88;4.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356867;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;487.210;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356868;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;487.210;26.21;7.65;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:21:04.617929
+76356869;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;487.210;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356870;800202;2-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;2;508.510;24.50;6.24;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:21:04.617929
+76356871;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;508.510;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356872;200600;Post;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;521.983;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356873;800201;2+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;521.983;25.37;9.90;;;;;;;;Post;;Hook;;;;2017-12-07 03:21:04.617929
+76356874;800600;2F;1895;Richard Jefferson;1;Cleveland Cavaliers;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;538.725;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 03:21:04.617929
+76356876;300100;Foul;2476;Jeremy Lamb;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;538.725;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356877;800101;1+;1895;Richard Jefferson;1;Cleveland Cavaliers;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;559.111;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356878;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;585.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356879;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;2;585.708;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76356880;1600500;Guard;8411;Al Jefferson;2977;Charlotte Hornets;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;585.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356881;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;2484;Frank Kaminsky;2977;Charlotte Hornets;;;2;585.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356882;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;2473;Spencer Hawes;2977;Charlotte Hornets;;;2;585.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356883;800102;1-;1895;Richard Jefferson;1;Cleveland Cavaliers;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;585.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356884;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;585.708;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356885;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;2;585.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356886;400101;Accurate pass;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;600.275;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:21:04.617929
+76356887;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2475;Marvin Williams;2;600.275;26.72;8.10;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 03:21:04.617929
+76356888;400101;Accurate pass;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;618.017;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356889;800301;3+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1895;Richard Jefferson;2;618.017;26.06;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356890;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;635.804;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356891;800301;3+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;635.804;25.91;0.72;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76356892;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1895;Richard Jefferson;2;655.382;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356893;800301;3+;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;655.382;25.76;0.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356895;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;2;666.781;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356896;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;696.829;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356897;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;710.582;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356898;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;730.582;25.34;13.77;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76356899;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;730.582;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356900;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;748.313;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356901;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;748.313;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356902;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;748.313;26.66;7.80;;;;;;;;Post;;Lay up;;;;2017-12-07 03:21:04.617929
+76356903;100400;Steal;2;Timofey Mozgov;1;Cleveland Cavaliers;2477;Nicolas Batum;2977;Charlotte Hornets;;;2;765.109;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356904;400101;Accurate pass;8;J.R. Smith;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;2;770.310;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76356905;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;8;J.R. Smith;2;770.310;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 03:21:04.617929
+76356907;300100;Foul;91848;Maurice Williams;1;Cleveland Cavaliers;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;783.232;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356908;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;800.593;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356909;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;814.593;22.13;10.65;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:21:04.617929
+76356910;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;814.593;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356911;200600;Post;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;827.589;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356912;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;827.589;25.67;6.33;;;;;;;;Post;;Hook;;;;2017-12-07 03:21:04.617929
+76356913;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;2;827.589;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356914;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;2;842.837;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356915;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;2;842.837;26.57;8.19;;;;;;;;Post;;Lay up;;;;2017-12-07 03:21:04.617929
+76356916;100300;Rebound;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;2;842.837;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356917;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;856.318;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356918;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;856.318;26.81;7.83;;;;;;;;Post;;Lay up;;;;2017-12-07 03:21:04.617929
+76356919;400101;Accurate pass;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;873.789;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:21:04.617929
+76356920;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;8411;Al Jefferson;2;873.789;26.66;7.65;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 03:21:04.617929
+76356922;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;2;873.789;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356923;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;909.843;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356924;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;909.843;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356925;100400;Steal;8411;Al Jefferson;2977;Charlotte Hornets;1889;Kevin Love;1;Cleveland Cavaliers;;;2;909.843;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356926;400101;Accurate pass;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2475;Marvin Williams;2;919.981;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356927;200300;Pick'n'Roll;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;919.981;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:21:04.617929
+76356928;800301;3+;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;919.981;20.21;3.63;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:21:04.617929
+76356929;200600;Post;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;939.527;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356930;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;939.527;25.52;7.35;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76356931;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;939.527;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356932;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;939.527;26.51;7.62;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:21:04.617929
+76356933;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;939.527;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356934;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;939.527;26.72;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 03:21:04.617929
+76356935;800302;3-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;8411;Al Jefferson;2;968.093;19.94;8.49;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:21:04.617929
+76356936;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;968.093;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356938;100500;Turnover;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;985.747;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356939;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;2;1026.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356940;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;91848;Maurice Williams;1;Cleveland Cavaliers;;;2;1026.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356941;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;1026.708;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356942;800600;2F;2480;Kemba Walker;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;1026.708;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:21:04.617929
+76356944;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;2480;Kemba Walker;2977;Charlotte Hornets;;;2;1026.708;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356945;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;1050.617;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356946;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;1066.432;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356947;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1070.367;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356948;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1089.367;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356949;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1089.367;25.22;8.97;;;;;;;;Post;;Hook;;;;2017-12-07 03:21:04.617929
+76356950;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;2;1089.367;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356951;800600;2F;2475;Marvin Williams;2977;Charlotte Hornets;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1098.509;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 03:21:04.617929
+76356953;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;2;1098.509;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76356954;800101;1+;2475;Marvin Williams;2977;Charlotte Hornets;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1125.685;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356955;800101;1+;2475;Marvin Williams;2977;Charlotte Hornets;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1139.745;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356956;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1144.296;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356957;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;2;1168.396;19.94;2.43;;;;;;;;Isolation;;Jumper;;Quick first step;;2018-04-20 13:44:36.355048
+76356958;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;1168.396;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356959;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1187.873;26.57;7.50;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:21:04.617929
+76356960;800700;3F;2480;Kemba Walker;2977;Charlotte Hornets;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;1205.108;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 03:21:04.617929
+76356962;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;2480;Kemba Walker;2977;Charlotte Hornets;;;2;1205.108;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356963;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;1232.521;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356964;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;1246.740;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356965;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;1261.675;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356966;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1261.675;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356969;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356970;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356971;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356972;1600500;Guard;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356973;1600500;Guard;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356974;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356975;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356976;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356977;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356978;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76356979;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;12.988;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356980;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;3;22.988;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356981;800201;2+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;22.988;22.88;4.05;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+76356982;800700;3F;2477;Nicolas Batum;2977;Charlotte Hornets;8;J.R. Smith;1;Cleveland Cavaliers;;;3;37.131;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 03:21:04.617929
+76356984;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;2477;Nicolas Batum;2977;Charlotte Hornets;;;3;37.131;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76356985;800101;1+;2477;Nicolas Batum;2977;Charlotte Hornets;8;J.R. Smith;1;Cleveland Cavaliers;;;3;63.253;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356986;800101;1+;2477;Nicolas Batum;2977;Charlotte Hornets;8;J.R. Smith;1;Cleveland Cavaliers;;;3;76.702;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356987;800101;1+;2477;Nicolas Batum;2977;Charlotte Hornets;8;J.R. Smith;1;Cleveland Cavaliers;;;3;92.856;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356988;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;94.485;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76356989;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;3;109.485;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356990;800201;2+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;109.485;22.67;12.99;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+76356991;800202;2-;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;127.183;24.05;4.05;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 03:21:04.617929
+76356992;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;127.183;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356993;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;143.732;21.98;13.44;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+76356994;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;143.732;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356995;400101;Accurate pass;2475;Marvin Williams;2977;Charlotte Hornets;;;;;8411;Al Jefferson;3;153.186;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356996;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2475;Marvin Williams;3;153.186;23.42;3.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76356998;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;2480;Kemba Walker;2977;Charlotte Hornets;;;3;175.031;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76356999;100500;Turnover;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;175.031;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357000;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;193.315;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357001;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;211.315;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357002;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;211.315;26.57;7.65;;;;;;;;Post;;Lay up;;;;2017-12-07 03:21:04.617929
+76357004;300100;Foul;2477;Nicolas Batum;2977;Charlotte Hornets;8;J.R. Smith;1;Cleveland Cavaliers;;;3;211.315;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357005;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;227.647;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357006;100400;Steal;2480;Kemba Walker;2977;Charlotte Hornets;91848;Maurice Williams;1;Cleveland Cavaliers;;;3;244.647;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357007;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;257.008;24.89;12.75;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:21:04.617929
+76357008;100400;Steal;2480;Kemba Walker;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;3;272.095;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357009;800302;3-;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;3;282.153;19.58;10.05;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:21:04.617929
+76357010;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;282.153;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357012;100500;Turnover;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;288.143;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357013;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;299.702;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357015;100500;Turnover;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;312.702;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357016;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;325.879;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357017;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;341.879;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357018;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;341.879;25.22;10.14;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76357019;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;341.879;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357020;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;350.526;24.29;12.60;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357021;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;350.526;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357022;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;3;363.231;23.42;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+76357023;100300;Rebound;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;3;363.231;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357024;200300;Pick'n'Roll;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;377.100;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:21:04.617929
+76357025;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;377.100;19.79;11.07;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:21:04.617929
+76357026;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;377.100;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76357028;300100;Foul;2475;Marvin Williams;2977;Charlotte Hornets;1889;Kevin Love;1;Cleveland Cavaliers;;;3;384.154;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357029;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;405.895;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357030;800202;2-;91848;Maurice Williams;1;Cleveland Cavaliers;2480;Kemba Walker;2977;Charlotte Hornets;;;3;417.895;23.33;10.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357031;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;417.895;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357032;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;417.895;26.84;8.43;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:21:04.617929
+76357033;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;417.895;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357035;100500;Turnover;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;423.687;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357036;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;3;423.687;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357037;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;445.602;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357038;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;460.602;26.66;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:21:04.617929
+76357040;300100;Foul;91848;Maurice Williams;1;Cleveland Cavaliers;2480;Kemba Walker;2977;Charlotte Hornets;;;3;478.490;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357041;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;91848;Maurice Williams;1;Cleveland Cavaliers;;;3;513.682;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357042;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;513.682;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357043;400101;Accurate pass;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;513.682;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357044;800301;3+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;513.682;21.35;13.05;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76357045;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;544.952;26.12;7.50;;;;;;;;Isolation;;Jumper;Drives Right;;;2018-04-20 13:44:36.355048
+76357046;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;544.952;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76357048;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;3;544.952;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357049;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;3;544.952;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76357050;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;544.952;26.99;7.86;;;;;;;;Putbacks;;;;;;2018-04-20 13:44:36.355048
+76357051;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;3;584.753;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357052;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;584.753;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357053;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;584.753;20.96;2.94;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:21:04.617929
+76357055;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;584.753;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357056;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;590.849;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357057;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;3;608.849;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357058;800301;3+;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;608.849;20.36;12.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357060;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;2480;Kemba Walker;2977;Charlotte Hornets;;;3;616.775;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357061;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;3;658.600;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357062;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;658.600;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357063;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;658.600;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357064;800201;2+;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;658.600;26.12;10.05;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76357066;300100;Foul;2475;Marvin Williams;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;685.699;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357067;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;3;710.936;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357068;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;710.936;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357069;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;3;710.936;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357070;800301;3+;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;710.936;21.56;13.50;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76357071;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;725.463;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357072;800600;2F;8411;Al Jefferson;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;725.463;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:21:04.617929
+76357074;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;8411;Al Jefferson;2977;Charlotte Hornets;;;3;725.463;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357075;800102;1-;8411;Al Jefferson;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;758.220;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357076;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;3;758.220;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357077;800101;1+;8411;Al Jefferson;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;779.352;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357078;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;780.932;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357079;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1895;Richard Jefferson;3;802.932;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357080;800201;2+;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;1;LeBron James;3;802.932;27.08;8.10;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:21:04.617929
+76357081;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;814.684;22.73;10.83;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357082;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;8411;Al Jefferson;2977;Charlotte Hornets;;;3;846.773;25.97;7.74;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:21:04.617929
+76357083;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;846.773;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357084;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;846.773;26.84;9.81;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 03:21:04.617929
+76357085;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;846.773;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357086;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;864.994;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357087;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;864.994;25.52;9.36;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76357088;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;864.994;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357089;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;873.807;22.58;13.83;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:21:04.617929
+76357090;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;873.807;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357092;100500;Turnover;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;881.814;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357093;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;8411;Al Jefferson;2977;Charlotte Hornets;;;3;918.578;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357094;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;918.578;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357095;400101;Accurate pass;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;918.578;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357096;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;918.578;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357097;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;3;918.578;25.10;8.82;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76357098;400101;Accurate pass;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;933.722;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:21:04.617929
+76357099;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2483;Cody Zeller;3;933.722;26.72;6.90;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 03:21:04.617929
+76357100;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;3;946.311;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357101;800400;2+1;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;946.311;27.02;7.62;;;;;;;;Catch and Drive;;Dunk;Drives Left;;;2017-12-07 03:21:04.617929
+76357103;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;3;946.311;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357104;300100;Foul;13688;PJ Hairston;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;3;946.311;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357105;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;13688;PJ Hairston;2977;Charlotte Hornets;;;3;978.800;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357106;800101;1+;1;LeBron James;1;Cleveland Cavaliers;13688;PJ Hairston;2977;Charlotte Hornets;;;3;978.800;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357107;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;981.639;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357108;800201;2+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;996.639;24.74;4.26;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:21:04.617929
+76357109;800202;2-;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;3;1026.704;26.42;1.89;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:21:04.617929
+76357111;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;3;1026.704;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357112;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;3;1059.124;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357113;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;1059.124;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357115;300100;Foul;2484;Frank Kaminsky;2977;Charlotte Hornets;1889;Kevin Love;1;Cleveland Cavaliers;;;3;1059.124;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357116;100500;Turnover;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;3;1059.124;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357117;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;2480;Kemba Walker;2977;Charlotte Hornets;;;3;1097.543;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357118;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;1097.543;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357119;800600;2F;2477;Nicolas Batum;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;3;1097.416;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:21:04.617929
+76357121;300100;Foul;1895;Richard Jefferson;1;Cleveland Cavaliers;2477;Nicolas Batum;2977;Charlotte Hornets;;;3;1097.416;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357122;100400;Steal;2477;Nicolas Batum;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;3;1097.543;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357123;800101;1+;2477;Nicolas Batum;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;3;1126.877;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357124;800102;1-;2477;Nicolas Batum;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;3;1142.232;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357125;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1142.232;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357126;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;1142.232;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357127;400101;Accurate pass;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;1153.365;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357128;800301;3+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;3;1153.365;20.63;3.87;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76357129;800201;2+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;1166.467;22.43;9.99;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357130;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;1191.510;20.03;4.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357131;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;3;1191.510;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357132;800302;3-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;3;1198.096;21.71;1.89;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:21:04.617929
+76357133;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1198.096;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357135;300100;Foul;2478;Jeremy Lin;2977;Charlotte Hornets;91848;Maurice Williams;1;Cleveland Cavaliers;;;3;1215.975;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357136;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1238.657;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357137;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;1243.257;21.50;12.90;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76357138;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;3;1243.257;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357141;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357142;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357143;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357144;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357145;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357146;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357147;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357148;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357149;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357150;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357151;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;11.441;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357152;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;91848;Maurice Williams;1;Cleveland Cavaliers;;;4;27.441;26.72;6.90;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:21:04.617929
+76357154;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;4;27.441;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357155;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;74.575;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357156;400101;Accurate pass;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;4;79.575;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357157;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2484;Frank Kaminsky;4;79.575;26.84;7.56;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:21:04.617929
+76357158;800302;3-;7;James Jones;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;4;100.799;20.21;4.71;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357159;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;100.799;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357161;100500;Turnover;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;106.325;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357162;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;116.692;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357163;400101;Accurate pass;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;1895;Richard Jefferson;4;133.692;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357164;800301;3+;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;4;133.692;26.12;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357165;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;148.579;25.04;5.40;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357167;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;165.548;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357168;100500;Turnover;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;165.548;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357169;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;178.951;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357170;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;4;192.951;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357171;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;4;192.951;23.75;4.32;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76357172;800600;2F;5;Matthew William Dellavedova;1;Cleveland Cavaliers;2483;Cody Zeller;2977;Charlotte Hornets;;;4;215.306;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:21:04.617929
+76357174;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;4;215.306;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357175;800101;1+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;2483;Cody Zeller;2977;Charlotte Hornets;;;4;235.392;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357176;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;91848;Maurice Williams;1;Cleveland Cavaliers;;;4;253.101;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76357177;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;7;James Jones;1;Cleveland Cavaliers;;;4;253.101;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357178;800101;1+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;2483;Cody Zeller;2977;Charlotte Hornets;;;4;253.101;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357179;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;257.310;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357180;800202;2-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;269.310;25.04;12.84;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357181;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;269.310;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357182;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;290.260;24.65;0.96;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:21:04.617929
+76357183;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;290.260;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357184;100400;Steal;3;Tristan Thompson;1;Cleveland Cavaliers;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;303.028;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357185;800201;2+;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;4;307.370;26.84;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:21:04.617929
+76357186;800202;2-;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;322.033;24.95;6.24;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76357187;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;322.033;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357189;100500;Turnover;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;345.716;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76357191;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;382.232;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357192;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;382.232;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357193;800600;2F;2483;Cody Zeller;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;382.232;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 03:21:04.617929
+76357195;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;2483;Cody Zeller;2977;Charlotte Hornets;;;4;382.232;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357196;800101;1+;2483;Cody Zeller;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;406.602;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357197;800101;1+;2483;Cody Zeller;2977;Charlotte Hornets;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;420.811;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357198;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;428.464;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357199;800600;2F;1;LeBron James;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;4;443.464;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 03:21:04.617929
+76357201;300100;Foul;2475;Marvin Williams;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;4;443.464;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357202;800102;1-;1;LeBron James;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;4;475.758;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357203;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;475.758;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357204;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;4;496.789;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357205;800101;1+;1;LeBron James;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;4;496.789;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357206;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;502.657;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357207;800202;2-;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;4;515.657;26.36;8.52;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 03:21:04.617929
+76357209;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;515.657;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357210;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;522.151;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357211;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;4;535.151;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357212;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;4;535.151;24.89;7.83;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:21:04.617929
+76357213;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;546.490;23.90;4.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357214;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;546.490;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357216;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;4;553.692;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357217;1600500;Guard;8411;Al Jefferson;2977;Charlotte Hornets;2483;Cody Zeller;2977;Charlotte Hornets;;;4;582.527;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357218;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;582.527;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357219;800301;3+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;582.527;19.58;11.07;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357220;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;595.218;26.36;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:21:04.617929
+76357221;800201;2+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;613.123;24.95;7.68;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357222;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;4;635.088;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357223;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;4;635.088;25.67;9.72;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76357224;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;635.088;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357225;800302;3-;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;4;652.653;26.84;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357226;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;652.653;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357227;800202;2-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;662.725;25.91;9.99;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357228;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;662.725;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357229;800201;2+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;679.529;26.57;2.16;;;;;;;;Isolation;;Jumper;Drives Right;;;2018-04-20 13:44:36.355048
+76357231;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;679.529;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357232;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;2484;Frank Kaminsky;2977;Charlotte Hornets;;;4;705.643;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357233;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;705.643;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357235;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;2477;Nicolas Batum;2977;Charlotte Hornets;;;4;705.643;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357236;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;722.052;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357237;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;730.052;24.89;6.63;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357238;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;730.052;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357240;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;4;744.340;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357241;100500;Turnover;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;744.340;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357242;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;765.595;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357243;800202;2-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;4;785.595;25.49;9.45;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:21:04.617929
+76357244;100300;Rebound;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;4;785.595;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357245;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;801.821;26.99;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:21:04.617929
+76357246;100300;Rebound;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;4;801.821;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357247;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;816.029;21.65;12.84;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357248;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;816.029;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357250;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;2476;Jeremy Lamb;2977;Charlotte Hornets;;;4;816.029;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357251;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;833.428;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357252;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;847.428;22.43;3.48;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:21:04.617929
+76357253;800302;3-;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;4;867.617;25.52;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357254;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;867.617;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357255;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;879.987;22.73;1.35;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76357256;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;879.987;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357257;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;4;898.231;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357258;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;4;898.231;20.36;3.93;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+76357259;100400;Steal;8;J.R. Smith;1;Cleveland Cavaliers;2480;Kemba Walker;2977;Charlotte Hornets;;;4;913.733;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76357260;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;928.426;19.19;7.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357261;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;928.426;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357262;200600;Post;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;4;945.655;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357263;800202;2-;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;4;945.655;25.37;9.60;;;;;;;;Post;;Jumper;;;;2017-12-07 03:21:04.617929
+76357264;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;945.655;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357266;300100;Foul;8411;Al Jefferson;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;4;945.655;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357267;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;4;945.655;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357268;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;968.709;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357269;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;986.709;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357270;800202;2-;1;LeBron James;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;4;987.303;23.45;10.50;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:21:04.617929
+76357271;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1023.329;20.66;12.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357272;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;1023.329;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357273;800202;2-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;1045.726;21.26;9.90;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:21:04.617929
+76357274;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1045.726;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357275;100400;Steal;2480;Kemba Walker;2977;Charlotte Hornets;1895;Richard Jefferson;1;Cleveland Cavaliers;;;4;1066.811;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357276;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;4;1115.348;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357277;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;4;1115.348;23.33;3.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357278;800202;2-;1;LeBron James;1;Cleveland Cavaliers;2480;Kemba Walker;2977;Charlotte Hornets;;;4;1139.054;26.42;9.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357280;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;1139.054;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357281;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;4;1139.054;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357282;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1179.830;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357283;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1182.530;20.96;6.63;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76357284;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;1182.530;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357286;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;1195.714;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357287;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;1221.209;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357288;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;1226.209;19.94;4.02;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357289;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1226.209;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357290;800600;2F;8;J.R. Smith;1;Cleveland Cavaliers;2477;Nicolas Batum;2977;Charlotte Hornets;;;4;1234.550;27.05;7.62;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76357292;300100;Foul;2477;Nicolas Batum;2977;Charlotte Hornets;8;J.R. Smith;1;Cleveland Cavaliers;;;4;1234.550;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357293;800101;1+;8;J.R. Smith;1;Cleveland Cavaliers;2477;Nicolas Batum;2977;Charlotte Hornets;;;4;1267.540;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76357294;800101;1+;8;J.R. Smith;1;Cleveland Cavaliers;2477;Nicolas Batum;2977;Charlotte Hornets;;;4;1281.042;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76357295;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;1281.042;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357296;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;8411;Al Jefferson;2977;Charlotte Hornets;;;4;1316.620;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357297;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;1316.620;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357298;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;1316.620;21.71;13.74;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:21:04.617929
+76357299;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1316.620;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357300;800600;2F;1;LeBron James;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;4;1316.620;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357302;300100;Foul;2475;Marvin Williams;2977;Charlotte Hornets;1;LeBron James;1;Cleveland Cavaliers;;;4;1316.620;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357303;800102;1-;1;LeBron James;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;4;1351.423;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357304;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;1351.423;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357305;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;2473;Spencer Hawes;2977;Charlotte Hornets;;;4;1372.622;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357306;800101;1+;1;LeBron James;1;Cleveland Cavaliers;2475;Marvin Williams;2977;Charlotte Hornets;;;4;1372.622;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357307;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;1372.622;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357308;100500;Turnover;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;1403.713;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357309;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;4;1424.872;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357310;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1449.027;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357312;100500;Turnover;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1450.427;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357313;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;1461.489;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357314;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;1466.389;20.90;2.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:21:04.617929
+76357316;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;4;1466.389;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+76357317;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;1480.700;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76357318;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;1481.700;21.71;13.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:21:04.617929
+76357319;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;4;1481.700;;;;;;;;;;;;;;;;2017-12-07 03:21:04.617929
+103702882;200900;Assisting;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;53.662;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702884;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;70.608;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702886;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;163.985;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702888;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;1;351.457;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702890;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2475;Marvin Williams;1;374.042;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702892;200900;Assisting;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;388.338;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702894;200900;Assisting;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;403.568;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702896;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;429.265;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702898;200900;Assisting;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;440.812;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702900;200900;Assisting;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;462.011;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702902;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;496.689;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702904;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;549.040;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702906;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;615.859;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702908;200900;Assisting;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;634.465;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702910;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;661.097;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702912;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;765.361;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702914;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;1;836.428;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702916;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;989.720;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702918;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;1011.145;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702920;200900;Assisting;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;1;1069.840;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702922;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;1200.606;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702924;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;1234.566;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702926;200900;Assisting;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;1;1264.284;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702928;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;24.246;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702930;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;2;38.486;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702932;200900;Assisting;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;2;52.743;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702934;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;132.330;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702936;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;13688;PJ Hairston;2;186.867;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702938;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;255.919;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702940;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;274.000;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702942;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;295.310;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702944;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;355.066;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702946;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;434.157;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702948;200900;Assisting;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;462.835;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702950;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;521.983;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702952;200900;Assisting;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;2;538.725;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702954;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2475;Marvin Williams;2;600.275;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702956;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1895;Richard Jefferson;2;618.017;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702958;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;635.804;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702960;200900;Assisting;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;655.382;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702962;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;748.313;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702964;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;8;J.R. Smith;2;770.310;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702966;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;856.318;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702968;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;8411;Al Jefferson;2;873.789;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702970;200900;Assisting;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;919.981;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702972;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;939.527;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702974;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;1026.708;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702976;200900;Assisting;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;2;1098.509;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702978;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1187.873;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702980;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;1205.108;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702982;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;22.988;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103702984;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;37.131;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702986;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;109.485;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103702988;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;2475;Marvin Williams;3;153.186;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702990;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;211.315;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702992;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;257.008;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702994;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;460.602;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702996;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;513.682;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103702998;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;608.849;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703000;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;658.600;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703002;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;710.936;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703004;200900;Assisting;8411;Al Jefferson;2977;Charlotte Hornets;;;;;;;3;725.463;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703006;200900;Assisting;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;1;LeBron James;3;802.932;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703008;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;814.684;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703010;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;3;918.578;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703012;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2483;Cody Zeller;3;933.722;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703014;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;946.311;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703016;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;996.639;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703018;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;1097.416;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703020;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;3;1153.365;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703022;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;1166.467;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703024;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2484;Frank Kaminsky;4;79.575;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703026;200900;Assisting;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;4;133.692;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703028;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;148.579;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703030;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;4;192.951;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703032;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;215.306;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703034;200900;Assisting;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;4;307.370;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703036;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;382.232;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703038;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;443.464;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703040;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;4;535.151;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703042;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;582.527;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703044;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;595.218;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703046;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;613.123;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703048;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;679.529;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103703050;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;847.428;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703052;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;4;898.231;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103703054;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;4;1115.348;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861
+103703056;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;1234.550;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103703058;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1316.620;;;;;;;;;;;;;;;;2018-04-19 11:43:04.06861

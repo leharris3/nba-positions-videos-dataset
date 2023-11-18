@@ -1,0 +1,893 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77086823;1601000;Starting lineup;1862;Mitch McGary;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086824;1601000;Starting lineup;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086825;1601000;Starting lineup;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086826;1601000;Starting lineup;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086827;1601000;Starting lineup;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086828;1601000;Starting lineup;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086829;1601000;Starting lineup;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086830;1601000;Starting lineup;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086831;1601000;Starting lineup;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086832;1601000;Starting lineup;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086833;1601000;Starting lineup;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086834;1601000;Starting lineup;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086835;1601000;Starting lineup;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086836;1601000;Starting lineup;2417;Vince Carter;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086837;1601000;Starting lineup;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086838;1601000;Starting lineup;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086839;1601000;Starting lineup;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086840;1601000;Starting lineup;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086841;1601000;Starting lineup;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086842;1601000;Starting lineup;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086843;1601000;Starting lineup;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086844;1601000;Starting lineup;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086845;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086846;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086847;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086848;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086849;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086850;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086851;1600500;Guard;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086852;1600500;Guard;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086853;1600500;Guard;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086854;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086855;1600500;Guard;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086856;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;140.603;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086857;800202;2-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;166.603;26.57;12.42;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:46:00.932676
+77086858;100300;Rebound;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;166.603;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086859;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;190.056;22.58;3.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77086860;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;190.056;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086861;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;222.077;21.83;4.26;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:46:00.932676
+77086862;100300;Rebound;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;1;222.077;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086863;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;242.202;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086864;800202;2-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;242.202;23.75;10.26;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77086865;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;254.524;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086866;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;254.524;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77086867;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;254.524;24.05;11.73;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:46:00.932676
+77086868;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;1;296.851;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086869;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;300.346;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:46:00.932676
+77086870;400101;Accurate pass;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;1;312.144;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086871;800201;2+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;1;312.144;26.81;9.75;;;;;;;;Cut;;Hook;;;;2017-12-07 11:46:00.932676
+77086872;100200;Game stop;;;;;;;;;;;1;326.830;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086873;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;1;326.830;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086874;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;335.046;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086875;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;350.046;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086876;800201;2+;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;350.046;26.99;10.35;;;;;;;;Post;;Jumper;;;;2017-12-07 11:46:00.932676
+77086877;200300;Pick'n'Roll;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;366.391;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086878;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;366.391;26.66;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:46:00.932676
+77086879;100200;Game stop;;;;;;;;;;;1;366.391;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086880;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;1;366.391;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086881;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;371.757;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086882;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;382.757;22.28;9.75;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77086883;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;382.757;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086884;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;389.188;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086885;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;389.188;19.79;5.73;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77086886;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;407.174;24.50;12.57;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:46:00.932676
+77086887;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;407.174;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086888;800302;3-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;416.934;26.96;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77086889;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;416.934;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086890;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;423.028;26.27;8.64;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77086891;100300;Rebound;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;1;424.666;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086892;800201;2+;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;1;424.666;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:46:00.932676
+77086893;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;446.006;26.99;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:46:00.932676
+77086894;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;446.006;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086895;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;1;456.708;26.84;0.87;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77086896;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;456.708;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086897;200300;Pick'n'Roll;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;479.739;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77086898;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;1;479.739;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 11:46:00.932676
+77086899;100200;Game stop;;;;;;;;;;;1;479.739;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086900;300100;Foul;2413;Tony Allen;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;479.739;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086901;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;1;506.143;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086902;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;1;521.044;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086903;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;523.552;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086904;200600;Post;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;543.552;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086905;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;543.552;26.36;9.36;;;;;;;;Post;;Jumper;;;;2017-12-07 11:46:00.932676
+77086906;100200;Game stop;;;;;;;;;;;1;543.552;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086907;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;1;543.552;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086908;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;570.376;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086909;800202;2-;6211;Courtney Lee;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;573.376;25.19;3.18;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:46:00.932676
+77086910;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;573.376;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086911;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;583.526;23.87;10.29;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77086912;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;586.139;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086913;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;586.139;26.96;8.10;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:46:00.932676
+77086914;100300;Rebound;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;1;586.139;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086915;800302;3-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;1;606.539;19.88;7.80;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77086916;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;606.539;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086917;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;615.764;21.98;8.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77086918;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;615.764;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086919;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;624.168;26.12;11.61;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77086920;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;624.168;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086921;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;629.298;26.72;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:46:00.932676
+77086922;800202;2-;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;1;649.024;26.36;7.50;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:46:00.932676
+77086923;100200;Game stop;;;;;;;;;;;1;649.024;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086924;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;1;649.024;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086925;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;1;649.024;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086926;1600500;Guard;2421;Zach Randolph;2976;Memphis Grizzlies;7492;Matt Barnes;2976;Memphis Grizzlies;;;1;685.151;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086927;1600500;Guard;6041;Mario Chalmers;2976;Memphis Grizzlies;6211;Courtney Lee;2976;Memphis Grizzlies;;;1;685.151;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086928;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;685.151;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086929;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;685.151;23.90;3.66;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:46:00.932676
+77086930;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;685.151;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086931;100400;Steal;9110;Jeff Green;2976;Memphis Grizzlies;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;696.260;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086932;400101;Accurate pass;9110;Jeff Green;2976;Memphis Grizzlies;;;;;2413;Tony Allen;1;700.596;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086933;800201;2+;2413;Tony Allen;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;700.596;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:46:00.932676
+77086934;800600;2F;1858;Steven Adams;2935;Oklahoma City Thunder;6045;Marc Gasol;2976;Memphis Grizzlies;;;1;715.476;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:46:00.932676
+77086935;100200;Game stop;;;;;;;;;;;1;715.476;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086936;300100;Foul;6045;Marc Gasol;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;715.476;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086937;800102;1-;1858;Steven Adams;2935;Oklahoma City Thunder;6045;Marc Gasol;2976;Memphis Grizzlies;;;1;738.741;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086938;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;1;738.741;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086939;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;759.524;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086940;800101;1+;1858;Steven Adams;2935;Oklahoma City Thunder;6045;Marc Gasol;2976;Memphis Grizzlies;;;1;759.524;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086941;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;761.832;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086942;400101;Accurate pass;9110;Jeff Green;2976;Memphis Grizzlies;;;;;2421;Zach Randolph;1;780.832;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086943;200300;Pick'n'Roll;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;780.832;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77086944;800201;2+;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;780.832;21.50;7.74;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:46:00.932676
+77086945;200300;Pick'n'Roll;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;798.882;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77086946;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;798.882;21.50;8.22;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:46:00.932676
+77086947;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;800.828;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086948;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;800.828;26.51;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:46:00.932676
+77086949;100200;Game stop;;;;;;;;;;;1;837.508;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086950;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;837.508;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086951;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;837.508;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086952;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;837.508;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086953;800301;3+;9110;Jeff Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;1;837.508;21.50;2.58;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:46:00.932676
+77086954;800302;3-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;856.462;20.51;11.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77086955;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;859.270;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086956;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;859.270;26.84;6.87;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:46:00.932676
+77086957;100300;Rebound;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;1;859.270;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086958;100200;Game stop;;;;;;;;;;;1;865.995;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086959;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;6045;Marc Gasol;2976;Memphis Grizzlies;;;1;865.995;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086960;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;899.301;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086961;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;899.301;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086962;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;899.301;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086963;800201;2+;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;899.301;26.99;6.78;;;;;;;;Post;;Lay up;;;;2017-12-07 11:46:00.932676
+77086964;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;906.564;26.99;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:46:00.932676
+77086965;100200;Game stop;;;;;;;;;;;1;923.188;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086966;100500;Turnover;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;1;923.188;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086967;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;932.592;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086968;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;940.592;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086969;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;940.592;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:46:00.932676
+77086970;100200;Game stop;;;;;;;;;;;1;940.592;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086971;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;1;940.592;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086972;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;989.350;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086973;800302;3-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;1;1004.350;23.18;13.98;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:46:00.932676
+77086974;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1004.350;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086975;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;1011.871;27.20;7.83;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:46:00.932676
+77086976;100200;Game stop;;;;;;;;;;;1;1023.491;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086977;100500;Turnover;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;1023.491;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086978;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;1033.994;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086979;200300;Pick'n'Roll;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;1050.994;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77086980;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;1050.994;22.88;5.49;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:46:00.932676
+77086981;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;1050.994;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086982;100200;Game stop;;;;;;;;;;;1;1058.652;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086983;300100;Foul;1853;Nick Collison;2935;Oklahoma City Thunder;2421;Zach Randolph;2976;Memphis Grizzlies;;;1;1058.652;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086984;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;1088.426;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086985;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;1088.426;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086986;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;1088.426;25.76;4.95;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:46:00.932676
+77086987;100200;Game stop;;;;;;;;;;;1;1088.426;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086988;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;1;1088.426;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086989;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;1107.179;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086990;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;1;1116.179;23.03;7.44;;;;;;;;Isolation;;Floater;Drives Left;;;2017-12-07 11:46:00.932676
+77086991;100200;Game stop;;;;;;;;;;;1;1116.179;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086992;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;1;1116.179;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086993;300100;Foul;2421;Zach Randolph;2976;Memphis Grizzlies;8331;Dion Waiters;2935;Oklahoma City Thunder;;;1;1116.179;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086994;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;9110;Jeff Green;2976;Memphis Grizzlies;;;1;1160.484;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086995;1600500;Guard;8546;Ryan Hollins;2976;Memphis Grizzlies;6045;Marc Gasol;2976;Memphis Grizzlies;;;1;1160.484;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086996;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;1160.484;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77086997;100400;Steal;2413;Tony Allen;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;1160.484;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77086998;800600;2F;6041;Mario Chalmers;2976;Memphis Grizzlies;1857;Enes Freedom;2935;Oklahoma City Thunder;;;1;1173.424;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:46:00.932676
+77086999;100200;Game stop;;;;;;;;;;;1;1173.424;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087000;300100;Foul;1857;Enes Freedom;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;1;1173.424;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087001;800102;1-;6041;Mario Chalmers;2976;Memphis Grizzlies;1857;Enes Freedom;2935;Oklahoma City Thunder;;;1;1198.145;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087002;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;1;1198.145;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087003;800101;1+;6041;Mario Chalmers;2976;Memphis Grizzlies;1857;Enes Freedom;2935;Oklahoma City Thunder;;;1;1213.484;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087004;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;1215.520;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087005;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;1;1233.520;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087006;800301;3+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;1233.520;26.96;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087007;200300;Pick'n'Roll;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;1;1253.375;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77087008;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;1853;Nick Collison;2935;Oklahoma City Thunder;6041;Mario Chalmers;1;1253.375;23.60;8.22;;;;;;;;Pick'n'pop;;Floater;Drives Left;;;2017-12-07 11:46:00.932676
+77087009;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1253.375;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087010;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;1;1261.380;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087011;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;1;1261.380;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087012;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;1;1261.380;26.99;7.02;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:46:00.932676
+77087013;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1282.330;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087014;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1282.330;25.37;3.81;;;;;;;;Post;;Jumper;;;;2017-12-07 11:46:00.932676
+77087015;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1282.330;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087016;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;1302.223;26.99;7.95;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087017;100300;Rebound;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;1;1302.223;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087018;1800500;Halftime;;;;;;;;;;;1;1302.223;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087019;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087020;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087021;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087022;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087023;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087024;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087025;1600500;Guard;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087026;1600500;Guard;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087027;1600500;Guard;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087028;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087029;1600500;Guard;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087030;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;30.127;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087031;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;52.127;26.72;6.36;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:46:00.932676
+77087032;100300;Rebound;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;54.575;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087033;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;54.575;26.57;7.68;;;;;;;;Putbacks;;;;;;2017-12-07 11:46:00.932676
+77087034;100300;Rebound;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;;;2;54.575;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087035;800201;2+;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;;;2;54.575;26.72;7.35;;;;;;;;Putbacks;;;;;;2017-12-07 11:46:00.932676
+77087036;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;2;65.579;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087037;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;2;65.579;26.99;14.37;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77087038;400101;Accurate pass;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;90.275;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087039;800201;2+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;8546;Ryan Hollins;2;90.275;26.42;7.68;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:46:00.932676
+77087040;100200;Game stop;;;;;;;;;;;2;113.108;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087041;300300;Technical foul;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;;;2;113.108;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087042;800101;1+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;135.959;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087043;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;151.607;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087044;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;2;167.607;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087045;800301;3+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;167.607;21.56;2.79;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087046;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;2;190.596;19.94;8.97;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:46:00.932676
+77087047;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;194.493;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087048;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;194.493;26.57;6.42;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:46:00.932676
+77087049;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;194.493;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087050;100200;Game stop;;;;;;;;;;;2;225.769;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087051;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;2;225.769;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087052;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;225.769;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087053;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;225.769;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087054;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;225.769;25.76;7.65;;;;;;;;Post;;Hook;;;;2017-12-07 11:46:00.932676
+77087055;100300;Rebound;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;2;225.769;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087056;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;237.801;26.36;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087057;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;240.976;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087058;800600;2F;2421;Zach Randolph;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;240.976;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:46:00.932676
+77087059;100200;Game stop;;;;;;;;;;;2;240.976;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087060;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;2421;Zach Randolph;2976;Memphis Grizzlies;;;2;240.976;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087061;800101;1+;2421;Zach Randolph;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;267.464;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087062;800101;1+;2421;Zach Randolph;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;283.283;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087063;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;287.751;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087064;100200;Game stop;;;;;;;;;;;2;297.751;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087065;300100;Foul;6041;Mario Chalmers;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;297.751;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087066;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;322.192;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087067;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;2;334.192;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087068;800301;3+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;334.192;22.73;13.65;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087069;100200;Game stop;;;;;;;;;;;2;351.441;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087070;1800600;Timeout;;;;;;;;;;;2;351.441;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087071;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;382.304;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087072;800201;2+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;390.304;26.99;7.26;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087073;800302;3-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;411.079;19.88;7.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77087074;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;411.079;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087075;100200;Game stop;;;;;;;;;;;2;422.701;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087076;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;2;422.701;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087077;200600;Post;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;2;422.701;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087078;800600;2F;7492;Matt Barnes;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;422.701;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:46:00.932676
+77087079;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;422.701;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087080;800102;1-;7492;Matt Barnes;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;456.558;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087081;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;2;456.558;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087082;800102;1-;7492;Matt Barnes;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;468.670;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087083;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;468.670;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087084;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;468.670;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087085;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;484.989;22.58;10.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77087086;800302;3-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;505.520;21.71;13.05;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087087;100200;Game stop;;;;;;;;;;;2;505.520;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087088;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;505.520;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087089;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;537.027;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087090;100200;Game stop;;;;;;;;;;;2;538.027;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087091;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;538.027;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087092;1600500;Guard;6045;Marc Gasol;2976;Memphis Grizzlies;8546;Ryan Hollins;2976;Memphis Grizzlies;;;2;538.027;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087093;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;538.027;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087094;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;2;538.027;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087095;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;538.027;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087096;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;538.027;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:46:00.932676
+77087097;400101;Accurate pass;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;2;558.498;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087098;800201;2+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;2;558.498;26.99;7.74;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:46:00.932676
+77087099;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;2;569.299;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087100;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;569.299;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77087101;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;569.299;21.26;7.56;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:46:00.932676
+77087102;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;2421;Zach Randolph;2;582.327;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087103;200300;Pick'n'Roll;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;582.327;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087104;800201;2+;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;582.327;26.57;7.68;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:46:00.932676
+77087105;100400;Steal;2421;Zach Randolph;2976;Memphis Grizzlies;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;599.677;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087106;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;605.440;26.81;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:46:00.932676
+77087107;100200;Game stop;;;;;;;;;;;2;605.440;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087108;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;2;605.440;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087109;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;646.999;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087110;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;2;646.999;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087111;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;646.999;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087112;800302;3-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;2421;Zach Randolph;2;646.999;19.64;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087113;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;649.020;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087114;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;2;656.323;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087115;800201;2+;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;656.323;26.57;5.16;;;;;;;;Cut;;Hook;;;;2017-12-07 11:46:00.932676
+77087116;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;676.972;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087117;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;6211;Courtney Lee;2976;Memphis Grizzlies;;;2;676.972;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:46:00.932676
+77087118;100200;Game stop;;;;;;;;;;;2;676.972;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087119;300100;Foul;6211;Courtney Lee;2976;Memphis Grizzlies;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;676.972;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087120;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;6211;Courtney Lee;2976;Memphis Grizzlies;;;2;700.657;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087121;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;6211;Courtney Lee;2976;Memphis Grizzlies;;;2;715.760;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087122;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;718.389;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087123;800302;3-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;2;734.389;26.84;14.52;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:46:00.932676
+77087124;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;734.389;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087125;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;740.663;26.84;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:46:00.932676
+77087126;100200;Game stop;;;;;;;;;;;2;740.663;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087127;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;2;740.663;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087128;1600500;Guard;2413;Tony Allen;2976;Memphis Grizzlies;2421;Zach Randolph;2976;Memphis Grizzlies;;;2;774.471;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087129;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;774.471;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087130;100200;Game stop;;;;;;;;;;;2;774.471;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087131;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;6045;Marc Gasol;2976;Memphis Grizzlies;;;2;774.471;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087132;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;793.780;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087133;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;799.780;26.33;6.96;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087134;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;799.780;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087135;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;2;813.911;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087136;800400;2+1;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;813.911;27.08;6.87;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:46:00.932676
+77087137;100200;Game stop;;;;;;;;;;;2;813.911;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087138;300100;Foul;2413;Tony Allen;2976;Memphis Grizzlies;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;813.911;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087139;800102;1-;9112;Serge Ibaka;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;2;847.039;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087140;100300;Rebound;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;2;847.039;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087141;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;847.867;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087142;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;2;869.867;20.03;6.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087143;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;869.867;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087144;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;893.012;26.57;9.75;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:46:00.932676
+77087145;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;895.478;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087146;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;895.478;26.81;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 11:46:00.932676
+77087147;100300;Rebound;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;895.478;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087148;100200;Game stop;;;;;;;;;;;2;907.529;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087149;300100;Foul;1850;Russell Westbrook;2935;Oklahoma City Thunder;6045;Marc Gasol;2976;Memphis Grizzlies;;;2;907.529;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087150;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;936.759;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087151;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;952.759;21.26;8.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087152;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;952.759;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087153;100400;Steal;2413;Tony Allen;2976;Memphis Grizzlies;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;958.486;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087154;400101;Accurate pass;2413;Tony Allen;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;963.854;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087155;800301;3+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;2413;Tony Allen;2;963.854;20.36;10.29;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77087156;800600;2F;1858;Steven Adams;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;980.766;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:46:00.932676
+77087157;100200;Game stop;;;;;;;;;;;2;980.766;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087158;300100;Foul;7492;Matt Barnes;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;980.766;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087159;800101;1+;1858;Steven Adams;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1007.283;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087160;800102;1-;1858;Steven Adams;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1023.877;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087161;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;1023.877;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087162;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;1024.049;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087163;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;2;1042.049;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087164;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1044.938;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:46:00.932676
+77087165;100200;Game stop;;;;;;;;;;;2;1044.938;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087166;300100;Foul;7492;Matt Barnes;2976;Memphis Grizzlies;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1044.938;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087167;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1077.257;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087168;1600500;Guard;9110;Jeff Green;2976;Memphis Grizzlies;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1098.360;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087169;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1098.360;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087170;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;1104.028;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087171;200300;Pick'n'Roll;9110;Jeff Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;1116.028;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77087172;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;1116.028;25.52;7.50;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:46:00.932676
+77087173;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;1116.028;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087174;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1131.253;26.72;8.04;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087175;200300;Pick'n'Roll;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;1153.640;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087176;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;1153.640;26.84;7.44;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:46:00.932676
+77087177;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1153.640;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087178;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;6211;Courtney Lee;2976;Memphis Grizzlies;;;2;1191.129;26.42;2.88;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:46:00.932676
+77087179;100300;Rebound;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;1191.129;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087180;100400;Steal;7464;Kevin Durant;2935;Oklahoma City Thunder;6211;Courtney Lee;2976;Memphis Grizzlies;;;2;1196.134;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087181;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;2;1199.275;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:46:00.932676
+77087182;100200;Game stop;;;;;;;;;;;2;1199.275;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087183;300100;Foul;6041;Mario Chalmers;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;2;1199.275;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087184;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;2;1229.822;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087185;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;2;1244.934;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087186;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;1249.466;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087187;800202;2-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;2;1261.466;24.50;3.48;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:46:00.932676
+77087188;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;1261.466;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087189;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;1272.808;20.09;4.95;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77087190;100300;Rebound;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;2;1272.808;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087191;800600;2F;6041;Mario Chalmers;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;1280.853;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:46:00.932676
+77087192;100200;Game stop;;;;;;;;;;;2;1280.853;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087193;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;2;1280.853;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087194;800102;1-;6041;Mario Chalmers;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;1304.361;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087195;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;2;1304.361;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087196;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;1325.934;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087197;800101;1+;6041;Mario Chalmers;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;1325.934;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087198;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1331.475;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087199;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1339.475;26.99;7.05;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087200;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;2;1339.475;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087201;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;1347.300;26.72;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:46:00.932676
+77087202;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1347.300;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087203;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1351.287;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087204;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;1351.287;26.84;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:46:00.932676
+77087205;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;1372.446;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087206;800600;2F;6045;Marc Gasol;2976;Memphis Grizzlies;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1372.446;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:46:00.932676
+77087207;100200;Game stop;;;;;;;;;;;2;1372.446;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087208;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;6045;Marc Gasol;2976;Memphis Grizzlies;;;2;1372.446;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087209;800101;1+;6045;Marc Gasol;2976;Memphis Grizzlies;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1404.997;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087210;800101;1+;6045;Marc Gasol;2976;Memphis Grizzlies;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1423.855;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087211;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1423.855;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087212;100200;Game stop;;;;;;;;;;;2;1423.855;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087213;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;2;1423.855;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087214;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1474.440;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087215;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;1476.640;27.08;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:46:00.932676
+77087216;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1478.758;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087217;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1478.758;26.57;8.13;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:46:00.932676
+77087218;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;1480.607;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087219;1800500;Halftime;;;;;;;;;;;2;1481.107;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087220;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087221;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087222;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087223;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087224;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087225;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087226;1600500;Guard;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087227;1600500;Guard;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087228;1600500;Guard;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087229;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087230;1600500;Guard;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087231;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;22.971;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087232;400101;Accurate pass;9110;Jeff Green;2976;Memphis Grizzlies;;;;;2413;Tony Allen;3;39.971;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087233;800400;2+1;2413;Tony Allen;2976;Memphis Grizzlies;;;;;9110;Jeff Green;3;39.971;25.91;9.96;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 11:46:00.932676
+77087234;100200;Game stop;;;;;;;;;;;3;39.971;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087235;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;3;39.971;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087236;800101;1+;2413;Tony Allen;2976;Memphis Grizzlies;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;67.557;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087237;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;71.734;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087238;100200;Game stop;;;;;;;;;;;3;82.734;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087239;300100;Foul;2413;Tony Allen;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;82.734;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087240;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;98.601;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087241;400101;Accurate pass;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;3;108.601;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087242;800400;2+1;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;108.601;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:46:00.932676
+77087243;100200;Game stop;;;;;;;;;;;3;108.601;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087244;300100;Foul;7492;Matt Barnes;2976;Memphis Grizzlies;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;108.601;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087245;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;136.959;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087246;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;148.959;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087247;800600;2F;6045;Marc Gasol;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;148.959;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:46:00.932676
+77087248;100200;Game stop;;;;;;;;;;;3;148.959;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087249;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;6045;Marc Gasol;2976;Memphis Grizzlies;;;3;148.959;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087250;800101;1+;6045;Marc Gasol;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;171.186;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087251;800101;1+;6045;Marc Gasol;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;185.162;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087252;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;189.328;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087253;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;3;197.328;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:46:00.932676
+77087254;100200;Game stop;;;;;;;;;;;3;197.328;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087255;300100;Foul;2413;Tony Allen;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;197.328;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087256;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;3;222.801;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087257;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;3;237.332;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087258;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;239.491;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087259;800201;2+;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;253.491;26.12;4.47;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:46:00.932676
+77087260;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;272.206;27.23;8.19;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:46:00.932676
+77087261;800301;3+;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;286.977;19.88;7.56;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77087262;800202;2-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;301.897;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:46:00.932676
+77087263;100300;Rebound;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;3;301.897;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087264;100200;Game stop;;;;;;;;;;;3;306.769;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087265;100500;Turnover;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;3;306.769;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087266;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;318.755;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087267;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;3;331.755;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087268;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;331.755;26.84;7.02;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:46:00.932676
+77087269;100200;Game stop;;;;;;;;;;;3;331.755;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087270;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;3;331.755;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087271;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;354.448;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087272;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;371.448;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087273;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;371.448;26.42;5.40;;;;;;;;Post;;Hook;;;;2017-12-07 11:46:00.932676
+77087274;100300;Rebound;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;3;374.775;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087275;800202;2-;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;3;374.775;26.96;8.19;;;;;;;;;;Lay up;;;;2017-12-07 11:46:00.932676
+77087276;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;374.775;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087277;100400;Steal;7492;Matt Barnes;2976;Memphis Grizzlies;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;396.718;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087278;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;409.457;25.22;11.67;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:46:00.932676
+77087279;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;409.457;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087280;100200;Game stop;;;;;;;;;;;3;412.714;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087281;300100;Foul;9110;Jeff Green;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;412.714;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087282;1600500;Guard;6041;Mario Chalmers;2976;Memphis Grizzlies;6211;Courtney Lee;2976;Memphis Grizzlies;;;3;412.714;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087283;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;434.920;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087284;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;460.920;26.51;10.92;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:46:00.932676
+77087285;100300;Rebound;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;460.920;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087286;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;3;464.834;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087287;800201;2+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;464.834;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:46:00.932676
+77087288;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;486.948;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087289;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;486.948;25.22;7.95;;;;;;;;Post;;Jumper;;;;2017-12-07 11:46:00.932676
+77087290;100200;Game stop;;;;;;;;;;;3;486.948;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087291;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;486.948;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087292;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;500.044;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087293;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;511.044;23.12;6.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77087294;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;3;526.065;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087295;200300;Pick'n'Roll;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;526.065;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087296;800201;2+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;526.065;27.08;7.20;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:46:00.932676
+77087297;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;3;540.352;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:46:00.932676
+77087298;100200;Game stop;;;;;;;;;;;3;540.352;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087299;300100;Foul;7492;Matt Barnes;2976;Memphis Grizzlies;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;540.352;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087300;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;3;570.163;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087301;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7492;Matt Barnes;2976;Memphis Grizzlies;;;3;586.922;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087302;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;610.960;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087303;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;3;634.960;20.63;3.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087304;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;634.960;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087305;100200;Game stop;;;;;;;;;;;3;638.963;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087306;100500;Turnover;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;638.963;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087307;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;648.451;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087308;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;668.451;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087309;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;668.451;26.99;9.66;;;;;;;;Post;;Floater;;;;2017-12-07 11:46:00.932676
+77087310;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;669.199;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087311;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;669.199;25.91;12.57;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:46:00.932676
+77087312;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;669.199;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087313;100200;Game stop;;;;;;;;;;;3;679.787;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087314;100500;Turnover;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;679.787;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087315;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;684.278;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087316;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;702.278;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087317;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;702.278;25.52;7.05;;;;;;;;Post;;Hook;;;;2017-12-07 11:46:00.932676
+77087318;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;702.278;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087319;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;707.127;26.84;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:46:00.932676
+77087320;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;708.479;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087321;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;708.479;26.81;7.20;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:46:00.932676
+77087322;100200;Game stop;;;;;;;;;;;3;717.762;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087323;300100;Foul;1850;Russell Westbrook;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;3;717.762;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087324;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;3;717.762;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087325;1600500;Guard;2421;Zach Randolph;2976;Memphis Grizzlies;7492;Matt Barnes;2976;Memphis Grizzlies;;;3;743.168;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087326;1600500;Guard;2409;JaMychal Green;2976;Memphis Grizzlies;6045;Marc Gasol;2976;Memphis Grizzlies;;;3;743.168;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087327;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;743.168;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087328;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;743.168;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087329;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;743.168;26.99;6.90;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:46:00.932676
+77087330;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;743.168;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087331;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;751.009;19.79;9.03;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77087332;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;752.355;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087333;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;752.355;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:46:00.932676
+77087334;400101;Accurate pass;2413;Tony Allen;2976;Memphis Grizzlies;;;;;2421;Zach Randolph;3;767.878;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087335;200300;Pick'n'Roll;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;2413;Tony Allen;3;767.878;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77087336;800201;2+;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;2413;Tony Allen;3;767.878;23.03;4.20;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:46:00.932676
+77087337;800600;2F;9112;Serge Ibaka;2935;Oklahoma City Thunder;2409;JaMychal Green;2976;Memphis Grizzlies;;;3;770.227;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087338;100200;Game stop;;;;;;;;;;;3;770.227;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087339;300100;Foul;2409;JaMychal Green;2976;Memphis Grizzlies;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;770.227;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087340;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;2409;JaMychal Green;2976;Memphis Grizzlies;;;3;802.402;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087341;800102;1-;9112;Serge Ibaka;2935;Oklahoma City Thunder;2409;JaMychal Green;2976;Memphis Grizzlies;;;3;821.727;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087342;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;821.727;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087343;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;3;821.727;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087344;800201;2+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;833.328;26.84;7.83;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087345;100200;Game stop;;;;;;;;;;;3;854.137;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087346;100500;Turnover;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;854.137;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087347;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;865.894;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087348;100200;Game stop;;;;;;;;;;;3;877.894;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087349;300100;Foul;1850;Russell Westbrook;2935;Oklahoma City Thunder;9110;Jeff Green;2976;Memphis Grizzlies;;;3;877.894;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087350;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;877.894;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087351;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;904.705;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087352;800302;3-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;913.705;20.36;10.50;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:46:00.932676
+77087353;100200;Game stop;;;;;;;;;;;3;913.705;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087354;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;913.705;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087355;800600;2F;1853;Nick Collison;2935;Oklahoma City Thunder;2409;JaMychal Green;2976;Memphis Grizzlies;;;3;914.697;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087356;300100;Foul;2409;JaMychal Green;2976;Memphis Grizzlies;1853;Nick Collison;2935;Oklahoma City Thunder;;;3;914.697;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087357;800101;1+;1853;Nick Collison;2935;Oklahoma City Thunder;2409;JaMychal Green;2976;Memphis Grizzlies;;;3;957.010;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087358;800101;1+;1853;Nick Collison;2935;Oklahoma City Thunder;2409;JaMychal Green;2976;Memphis Grizzlies;;;3;973.979;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087359;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;977.531;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087360;200300;Pick'n'Roll;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;996.531;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77087361;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;996.531;21.98;9.75;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:46:00.932676
+77087362;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;996.531;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087363;100400;Steal;2413;Tony Allen;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;1006.721;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087364;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;2409;JaMychal Green;3;1016.073;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087365;800201;2+;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;1016.073;23.42;11.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087366;100400;Steal;2421;Zach Randolph;2976;Memphis Grizzlies;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;1029.061;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087367;400101;Accurate pass;9110;Jeff Green;2976;Memphis Grizzlies;;;;;2409;JaMychal Green;3;1042.616;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087368;800201;2+;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;9110;Jeff Green;3;1042.616;26.51;12.45;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087369;100200;Game stop;;;;;;;;;;;3;1051.144;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087370;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;3;1051.144;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087371;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;1080.443;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087372;100200;Game stop;;;;;;;;;;;3;1090.443;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087373;100500;Turnover;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;1090.443;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087374;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;1099.019;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087375;800600;2F;9110;Jeff Green;2976;Memphis Grizzlies;1853;Nick Collison;2935;Oklahoma City Thunder;;;3;1112.019;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:46:00.932676
+77087376;100200;Game stop;;;;;;;;;;;3;1112.019;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087377;300100;Foul;1853;Nick Collison;2935;Oklahoma City Thunder;9110;Jeff Green;2976;Memphis Grizzlies;;;3;1112.019;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087378;800101;1+;9110;Jeff Green;2976;Memphis Grizzlies;1853;Nick Collison;2935;Oklahoma City Thunder;;;3;1142.164;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087379;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;1142.164;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087380;800101;1+;9110;Jeff Green;2976;Memphis Grizzlies;1853;Nick Collison;2935;Oklahoma City Thunder;;;3;1163.198;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087381;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;1165.072;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087382;100400;Steal;6041;Mario Chalmers;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;3;1183.072;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087383;800600;2F;2413;Tony Allen;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;1187.626;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:46:00.932676
+77087384;100200;Game stop;;;;;;;;;;;3;1187.626;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087385;300100;Foul;7464;Kevin Durant;2935;Oklahoma City Thunder;2413;Tony Allen;2976;Memphis Grizzlies;;;3;1187.626;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087386;800102;1-;2413;Tony Allen;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;1221.541;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087387;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;3;1221.541;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087388;800101;1+;2413;Tony Allen;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;1233.685;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087389;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;1237.570;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087390;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;1251.570;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087391;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;1251.570;19.73;7.50;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:46:00.932676
+77087392;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;1271.854;27.08;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087393;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;1271.854;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087394;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;3;1279.358;23.18;3.66;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77087395;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1280.646;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087396;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1280.646;26.36;5.40;;;;;;;;Putbacks;;Hook;;;;2017-12-07 11:46:00.932676
+77087397;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;2409;JaMychal Green;3;1297.365;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087398;200300;Pick'n'Roll;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;1297.365;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77087399;800201;2+;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;1297.365;21.35;7.56;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:46:00.932676
+77087400;800202;2-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;1317.262;24.59;10.05;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 11:46:00.932676
+77087401;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;3;1319.014;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087402;800202;2-;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;3;1319.014;26.81;7.20;;;;;;;;Putbacks;;;;;;2017-12-07 11:46:00.932676
+77087403;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;1319.014;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087404;800201;2+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;1328.889;26.57;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087405;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;3;1347.868;27.23;7.80;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087406;200300;Pick'n'Roll;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;1371.997;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:46:00.932676
+77087407;800202;2-;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;1371.997;21.20;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:46:00.932676
+77087408;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;1371.997;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087409;100400;Steal;6041;Mario Chalmers;2976;Memphis Grizzlies;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;1378.970;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087410;800302;3-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;1382.134;19.79;7.32;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77087411;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;3;1382.134;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087412;1800500;Halftime;;;;;;;;;;;3;1382.134;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087413;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087414;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087415;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087416;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087417;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087418;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087419;1600500;Guard;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087420;1600500;Guard;2417;Vince Carter;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087421;1600500;Guard;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087422;1600500;Guard;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087423;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087424;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;3.235;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087425;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;28.235;27.08;7.56;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:46:00.932676
+77087426;400101;Accurate pass;2417;Vince Carter;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;4;44.025;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087427;800201;2+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;2417;Vince Carter;4;44.025;26.84;7.35;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:46:00.932676
+77087428;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;68.827;25.82;11.61;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:46:00.932676
+77087429;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;69.671;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087430;800202;2-;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;86.707;22.58;7.74;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:46:00.932676
+77087431;100300;Rebound;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;86.707;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087432;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;100.875;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087433;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;100.875;26.57;8.91;;;;;;;;Post;;Jumper;;;;2017-12-07 11:46:00.932676
+77087434;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;102.866;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087435;800202;2-;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;102.866;26.84;7.35;;;;;;;;Putbacks;;;;;;2017-12-07 11:46:00.932676
+77087436;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;102.866;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087437;200600;Post;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;127.006;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087438;800202;2-;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;127.006;25.97;5.58;;;;;;;;Post;;Jumper;;;;2017-12-07 11:46:00.932676
+77087439;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;128.398;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087440;100200;Game stop;;;;;;;;;;;4;128.398;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087441;100500;Turnover;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;128.398;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087442;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;141.217;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087443;800600;2F;6041;Mario Chalmers;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;152.217;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:46:00.932676
+77087444;100200;Game stop;;;;;;;;;;;4;152.217;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087445;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;152.217;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087446;800102;1-;6041;Mario Chalmers;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;175.134;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087447;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;4;175.134;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087448;800101;1+;6041;Mario Chalmers;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;190.588;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087449;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;191.847;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087450;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;204.847;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087451;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;204.847;26.06;6.63;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 11:46:00.932676
+77087452;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;204.847;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087453;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;218.893;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087454;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;218.893;26.36;7.65;;;;;;;;Post;;Lay up;;;;2017-12-07 11:46:00.932676
+77087455;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;218.893;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087456;100200;Game stop;;;;;;;;;;;4;227.981;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087457;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;227.981;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087458;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;239.634;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087459;100200;Game stop;;;;;;;;;;;4;248.634;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087460;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;248.634;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087461;300100;Foul;6041;Mario Chalmers;2976;Memphis Grizzlies;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;248.634;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087462;800202;2-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;248.634;26.93;7.59;;;;;;;;;;Lay up;;;;2017-12-07 11:46:00.932676
+77087463;300300;Technical foul;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;286.603;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087464;800101;1+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;286.603;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087465;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;308.130;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087466;100200;Game stop;;;;;;;;;;;4;313.130;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087467;300100;Foul;2417;Vince Carter;2976;Memphis Grizzlies;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;313.130;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087468;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;326.035;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087469;400101;Accurate pass;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;336.035;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:46:00.932676
+77087470;800301;3+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1853;Nick Collison;4;336.035;21.26;2.64;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:46:00.932676
+77087471;100200;Game stop;;;;;;;;;;;4;350.648;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087472;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;2417;Vince Carter;2976;Memphis Grizzlies;;;4;350.648;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087473;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;363.047;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087474;800301;3+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;375.047;19.73;8.73;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:46:00.932676
+77087475;800600;2F;1851;Anthony Morrow;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;395.158;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:46:00.932676
+77087476;100200;Game stop;;;;;;;;;;;4;395.158;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087477;300100;Foul;6041;Mario Chalmers;2976;Memphis Grizzlies;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;395.158;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087478;800101;1+;1851;Anthony Morrow;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;417.088;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087479;800101;1+;1851;Anthony Morrow;2935;Oklahoma City Thunder;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;429.697;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087480;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;436.160;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087481;800201;2+;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;450.160;25.76;3.78;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:46:00.932676
+77087482;100200;Game stop;;;;;;;;;;;4;474.298;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087483;300100;Foul;1857;Enes Freedom;2935;Oklahoma City Thunder;2421;Zach Randolph;2976;Memphis Grizzlies;;;4;474.298;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087484;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;486.527;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087485;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;500.527;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087486;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;500.527;23.45;5.01;;;;;;;;Post;;Jumper;;;;2017-12-07 11:46:00.932676
+77087487;100200;Game stop;;;;;;;;;;;4;500.527;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087488;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;4;500.527;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087489;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;500.527;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087490;100200;Game stop;;;;;;;;;;;4;500.527;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087491;300100;Foul;1853;Nick Collison;2935;Oklahoma City Thunder;2409;JaMychal Green;2976;Memphis Grizzlies;;;4;500.527;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087492;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;514.362;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087493;800301;3+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;521.362;20.48;10.53;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77087494;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;540.124;26.99;7.80;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:46:00.932676
+77087495;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;542.078;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087496;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;542.078;26.57;7.74;;;;;;;;Putbacks;;;;;;2017-12-07 11:46:00.932676
+77087497;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;542.078;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087498;100200;Game stop;;;;;;;;;;;4;551.184;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087499;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;551.184;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087500;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;551.184;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087501;300100;Foul;2417;Vince Carter;2976;Memphis Grizzlies;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;551.184;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087502;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;589.476;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087503;200600;Post;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;605.476;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087504;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;605.476;26.72;10.50;;;;;;;;Post;;Jumper;;;;2017-12-07 11:46:00.932676
+77087505;100200;Game stop;;;;;;;;;;;4;614.387;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087506;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;4;614.387;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087507;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;654.040;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087508;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;654.040;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087509;800202;2-;2417;Vince Carter;2976;Memphis Grizzlies;;;;;;;4;654.040;25.04;2.55;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:46:00.932676
+77087510;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;654.040;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087511;100200;Game stop;;;;;;;;;;;4;684.481;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087512;1600500;Guard;8546;Ryan Hollins;2976;Memphis Grizzlies;2421;Zach Randolph;2976;Memphis Grizzlies;;;4;684.481;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087513;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;712.536;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087514;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;718.536;25.82;13.44;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:46:00.932676
+77087515;400101;Accurate pass;2417;Vince Carter;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;4;734.997;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087516;800301;3+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;734.997;19.43;9.90;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087517;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;753.726;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087518;800600;2F;1857;Enes Freedom;2935;Oklahoma City Thunder;2417;Vince Carter;2976;Memphis Grizzlies;;;4;753.726;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:46:00.932676
+77087519;100200;Game stop;;;;;;;;;;;4;753.726;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087520;300100;Foul;2417;Vince Carter;2976;Memphis Grizzlies;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;753.726;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087521;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;2417;Vince Carter;2976;Memphis Grizzlies;;;4;784.939;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087522;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;2417;Vince Carter;2976;Memphis Grizzlies;;;4;800.987;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087523;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;807.376;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087524;800302;3-;2417;Vince Carter;2976;Memphis Grizzlies;;;;;;;4;816.376;20.63;3.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087525;100300;Rebound;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;816.376;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087526;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;4;827.190;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087527;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;827.190;26.72;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087528;800302;3-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;840.620;20.18;10.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77087529;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;840.620;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087530;800302;3-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;850.092;21.56;12.84;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77087531;100200;Game stop;;;;;;;;;;;4;850.092;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087532;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;850.092;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087533;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;871.185;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087534;400101;Accurate pass;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;4;875.185;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:46:00.932676
+77087535;800201;2+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;875.185;21.80;7.80;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:46:00.932676
+77087536;100200;Game stop;;;;;;;;;;;4;876.468;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087537;300100;Foul;2409;JaMychal Green;2976;Memphis Grizzlies;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;876.468;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087538;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;2409;JaMychal Green;2976;Memphis Grizzlies;;;4;906.185;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087539;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;910.503;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087540;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;4;923.503;20.72;3.15;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:46:00.932676
+77087541;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;923.503;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087542;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;939.548;20.48;3.39;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:46:00.932676
+77087543;100300;Rebound;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;;;4;939.548;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087544;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;2409;JaMychal Green;4;945.171;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087545;800201;2+;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;945.171;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:46:00.932676
+77087546;100200;Game stop;;;;;;;;;;;4;954.401;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087547;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;954.401;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087548;1600500;Guard;1854;Kyle Singler;2935;Oklahoma City Thunder;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1003.962;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087549;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;1003.962;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087550;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1003.962;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087551;800202;2-;1861;Cameron Payne;2935;Oklahoma City Thunder;8546;Ryan Hollins;2976;Memphis Grizzlies;;;4;1003.962;27.05;7.05;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:46:00.932676
+77087552;100300;Rebound;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;1003.962;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087553;200600;Post;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1013.748;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087554;800600;2F;2409;JaMychal Green;2976;Memphis Grizzlies;1854;Kyle Singler;2935;Oklahoma City Thunder;;;4;1013.748;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:46:00.932676
+77087555;100200;Game stop;;;;;;;;;;;4;1013.748;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087556;300100;Foul;1854;Kyle Singler;2935;Oklahoma City Thunder;2409;JaMychal Green;2976;Memphis Grizzlies;;;4;1013.748;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087557;800101;1+;2409;JaMychal Green;2976;Memphis Grizzlies;1854;Kyle Singler;2935;Oklahoma City Thunder;;;4;1036.993;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087558;800102;1-;2409;JaMychal Green;2976;Memphis Grizzlies;1854;Kyle Singler;2935;Oklahoma City Thunder;;;4;1052.001;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087559;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;1052.001;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087560;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1052.471;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087561;800600;2F;8331;Dion Waiters;2935;Oklahoma City Thunder;8546;Ryan Hollins;2976;Memphis Grizzlies;;;4;1065.471;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:46:00.932676
+77087562;100200;Game stop;;;;;;;;;;;4;1065.471;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087563;300100;Foul;8546;Ryan Hollins;2976;Memphis Grizzlies;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;1065.471;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087564;800101;1+;8331;Dion Waiters;2935;Oklahoma City Thunder;8546;Ryan Hollins;2976;Memphis Grizzlies;;;4;1092.315;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087565;800102;1-;8331;Dion Waiters;2935;Oklahoma City Thunder;8546;Ryan Hollins;2976;Memphis Grizzlies;;;4;1107.051;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087566;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1107.051;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087567;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;1107.051;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087568;800201;2+;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;1123.198;26.42;6.90;;;;;;;;Catch and Drive;;Hook;Drives Right;;;2017-12-07 11:46:00.932676
+77087569;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;1141.362;20.21;10.14;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:46:00.932676
+77087570;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1141.362;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087571;200600;Post;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1155.516;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087572;800202;2-;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1155.516;25.22;11.37;;;;;;;;Post;;Jumper;;;;2017-12-07 11:46:00.932676
+77087573;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;1155.516;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087574;800302;3-;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;4;1165.970;26.57;0.72;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:46:00.932676
+77087575;100300;Rebound;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;1169.732;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087576;800202;2-;1851;Anthony Morrow;2935;Oklahoma City Thunder;2417;Vince Carter;2976;Memphis Grizzlies;;;4;1169.732;24.20;11.49;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:46:00.932676
+77087577;100200;Game stop;;;;;;;;;;;4;1169.732;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087578;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;1169.732;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087579;1600500;Guard;1862;Mitch McGary;2935;Oklahoma City Thunder;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;1190.972;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087580;800600;2F;1851;Anthony Morrow;2935;Oklahoma City Thunder;2417;Vince Carter;2976;Memphis Grizzlies;;;4;1190.972;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087581;300100;Foul;2417;Vince Carter;2976;Memphis Grizzlies;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;1190.972;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087582;800101;1+;1851;Anthony Morrow;2935;Oklahoma City Thunder;2417;Vince Carter;2976;Memphis Grizzlies;;;4;1213.589;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087583;800101;1+;1851;Anthony Morrow;2935;Oklahoma City Thunder;2417;Vince Carter;2976;Memphis Grizzlies;;;4;1228.341;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087584;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;1236.352;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087585;800301;3+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;1242.352;21.41;2.70;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:46:00.932676
+77087586;400101;Accurate pass;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;1262.551;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087587;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1854;Kyle Singler;4;1262.551;26.99;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:46:00.932676
+77087588;800600;2F;2417;Vince Carter;2976;Memphis Grizzlies;1854;Kyle Singler;2935;Oklahoma City Thunder;;;4;1271.628;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:46:00.932676
+77087589;100200;Game stop;;;;;;;;;;;4;1271.628;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087590;300100;Foul;1854;Kyle Singler;2935;Oklahoma City Thunder;2417;Vince Carter;2976;Memphis Grizzlies;;;4;1271.628;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087591;800101;1+;2417;Vince Carter;2976;Memphis Grizzlies;1854;Kyle Singler;2935;Oklahoma City Thunder;;;4;1289.749;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087592;800101;1+;2417;Vince Carter;2976;Memphis Grizzlies;1854;Kyle Singler;2935;Oklahoma City Thunder;;;4;1302.586;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087593;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1305.113;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087594;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1854;Kyle Singler;4;1315.113;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087595;800201;2+;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;1315.113;23.33;13.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:46:00.932676
+77087596;400101;Accurate pass;2417;Vince Carter;2976;Memphis Grizzlies;;;;;8546;Ryan Hollins;4;1331.456;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087597;800400;2+1;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;1331.456;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:46:00.932676
+77087598;100200;Game stop;;;;;;;;;;;4;1331.456;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087599;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;8546;Ryan Hollins;2976;Memphis Grizzlies;;;4;1331.456;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087600;800101;1+;8546;Ryan Hollins;2976;Memphis Grizzlies;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;1351.094;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087601;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1354.930;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087602;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;8546;Ryan Hollins;2976;Memphis Grizzlies;;;4;1373.430;26.27;7.56;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:46:00.932676
+77087603;100200;Game stop;;;;;;;;;;;4;1373.430;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087604;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;1373.430;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087605;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1391.015;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087606;800202;2-;1862;Mitch McGary;2935;Oklahoma City Thunder;;;;;;;4;1395.715;21.26;9.06;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:46:00.932676
+77087607;100300;Rebound;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;;;4;1395.715;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087608;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;2417;Vince Carter;4;1402.347;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087609;800201;2+;2417;Vince Carter;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;1402.347;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:46:00.932676
+77087610;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;1418.031;24.05;9.84;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:46:00.932676
+77087611;100200;Game stop;;;;;;;;;;;4;1435.062;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087612;100500;Turnover;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1435.062;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+77087613;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1435.062;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77087614;1800700;Match end;;;;;;;;;;;4;1455.662;;;;;;;;;;;;;;;;2017-12-07 11:46:00.932676
+93270063;100500;Turnover;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;326.830;;;;;;;;;;;;;;;;2018-01-11 20:52:03.983799
+93270064;100500;Turnover;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;474.298;;;;;;;;;;;;;;;;2018-01-11 20:52:03.983799
+103650038;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;254.524;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650040;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;300.346;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650042;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;1;312.144;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650044;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;350.046;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650046;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;389.188;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650048;200900;Assisting;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;1;424.666;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650050;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;479.739;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650052;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;629.298;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650054;200900;Assisting;2413;Tony Allen;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;700.596;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650056;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;715.476;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650058;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;780.832;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650060;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;800.828;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650062;200900;Assisting;9110;Jeff Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;1;837.508;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650064;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;899.301;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650066;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;906.564;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650068;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;940.592;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650070;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;1011.871;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650072;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;1;1173.424;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650074;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;1233.520;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650076;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;1;1261.380;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650078;200900;Assisting;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;;;2;54.575;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650080;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;2;65.579;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650082;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;8546;Ryan Hollins;2;90.275;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650084;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;167.607;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650086;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;240.976;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650088;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;334.192;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650090;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;390.304;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650092;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;2;422.701;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650094;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;484.989;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650096;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;538.027;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650098;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;2;558.498;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650100;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;569.299;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650102;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;582.327;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650104;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;656.323;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650106;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;676.972;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650108;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;740.663;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650110;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;813.911;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650112;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;2413;Tony Allen;2;963.854;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650114;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;980.766;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650116;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1044.938;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650118;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1131.253;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650120;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1199.275;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650122;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;1280.853;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650124;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;1351.287;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650126;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;1372.446;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650128;200900;Assisting;2413;Tony Allen;2976;Memphis Grizzlies;;;;;9110;Jeff Green;3;39.971;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650130;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;108.601;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650132;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;148.959;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650134;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;197.328;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650136;200900;Assisting;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;253.491;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650138;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;272.206;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650140;200900;Assisting;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;286.977;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650142;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;331.755;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650144;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;464.834;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650146;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;511.044;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650148;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;526.065;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650150;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;540.352;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650152;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;708.479;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650154;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;752.355;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650156;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;2413;Tony Allen;3;767.878;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650158;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;770.227;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650160;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;833.328;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650162;200900;Assisting;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;3;914.697;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650164;200900;Assisting;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;1016.073;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650166;200900;Assisting;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;9110;Jeff Green;3;1042.616;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650168;200900;Assisting;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;1112.019;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650170;200900;Assisting;2413;Tony Allen;2976;Memphis Grizzlies;;;;;;;3;1187.626;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650172;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;1251.570;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650174;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1280.646;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650176;200900;Assisting;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;1297.365;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650178;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;1328.889;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650180;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;3;1347.868;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650182;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;28.235;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650184;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;2417;Vince Carter;4;44.025;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650186;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;152.217;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650188;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1853;Nick Collison;4;336.035;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650190;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;375.047;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650192;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;395.158;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650194;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;450.160;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650196;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;521.362;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650198;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;605.476;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650200;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;718.536;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650202;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;734.997;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650204;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;753.726;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650206;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;827.190;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650208;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;875.185;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650210;200900;Assisting;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;945.171;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650212;200900;Assisting;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1013.748;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650214;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;1065.471;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650216;200900;Assisting;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;1123.198;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650218;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;1190.972;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650220;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;1242.352;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650222;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1854;Kyle Singler;4;1262.551;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650224;200900;Assisting;2417;Vince Carter;2976;Memphis Grizzlies;;;;;;;4;1271.628;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650226;200900;Assisting;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;1315.113;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650228;200900;Assisting;8546;Ryan Hollins;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;1331.456;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650230;200900;Assisting;2417;Vince Carter;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;1402.347;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337
+103650232;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;1418.031;;;;;;;;;;;;;;;;2018-04-19 11:02:01.449337

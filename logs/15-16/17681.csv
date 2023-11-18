@@ -1,0 +1,803 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77093358;1601000;Starting lineup;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093359;1601000;Starting lineup;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093360;1601000;Starting lineup;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093361;1601000;Starting lineup;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093362;1601000;Starting lineup;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093363;1601000;Starting lineup;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093364;1601000;Starting lineup;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093365;1601000;Starting lineup;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093366;1601000;Starting lineup;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093367;1601000;Starting lineup;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093368;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093374;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093375;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093376;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093377;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093378;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093379;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;68.017;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093380;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;86.017;21.26;6.48;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:49:01.875461
+77093384;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;124.150;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093385;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;124.150;27.05;11.58;;;;;;;;Post;;Jumper;;;;2017-12-07 11:49:01.875461
+77093386;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;125.391;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093387;800201;2+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;125.391;26.72;7.98;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:49:01.875461
+77093390;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;148.372;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093391;200600;Post;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;162.716;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093392;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;162.716;25.64;9.27;;;;;;;;Post;;Hook;;;;2017-12-07 11:49:01.875461
+77093394;100200;Game stop;;;;;;;;;;;1;183.363;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093395;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;1;183.363;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093399;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;238.323;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093400;200600;Post;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;256.323;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093401;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;5311;Roy Hibbert;3171;Los Angeles Lakers;;;1;256.323;26.99;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:49:01.875461
+77093402;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;257.855;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093403;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;257.855;26.57;5.19;;;;;;;;Putbacks;;Hook;;;;2017-12-07 11:49:01.875461
+77093405;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;266.288;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093406;100200;Game stop;;;;;;;;;;;1;288.846;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093408;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;302.227;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093416;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;362.897;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:49:01.875461
+77093417;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;362.897;22.10;6.87;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:49:01.875461
+77093418;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;362.958;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093419;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;372.135;24.95;7.95;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093421;100200;Game stop;;;;;;;;;;;1;394.674;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093422;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;1;394.674;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093425;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;433.372;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093426;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;445.772;23.72;5.88;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:49:01.875461
+77093429;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;1;477.646;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093430;800201;2+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;477.646;26.99;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:49:01.875461
+77093431;100400;Steal;1860;Andre Roberson;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;1;487.137;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093432;400101;Accurate pass;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;497.618;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093433;800400;2+1;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;1;497.618;26.72;10.65;;;;;;;;Transition;;Hook;;;;2017-12-07 11:49:01.875461
+77093434;100200;Game stop;;;;;;;;;;;1;497.618;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093436;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;5311;Roy Hibbert;3171;Los Angeles Lakers;;;1;533.630;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093439;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;568.975;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093440;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;568.975;24.05;5.19;;;;;;;;Post;;Jumper;;;;2017-12-07 11:49:01.875461
+77093442;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;592.733;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093443;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;598.799;27.05;8.10;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:49:01.875461
+77093444;100200;Game stop;;;;;;;;;;;1;621.094;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093448;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;679.033;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093449;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;679.033;26.84;7.59;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:49:01.875461
+77093451;100200;Game stop;;;;;;;;;;;1;703.055;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093452;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;1;703.055;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093454;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;747.818;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093456;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;750.212;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093457;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;765.212;26.84;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093458;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;765.665;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093459;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;765.665;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:49:01.875461
+77093461;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;785.820;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093462;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;800.821;27.53;12.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093466;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;831.225;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093467;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;1;831.225;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:49:01.875461
+77093468;100200;Game stop;;;;;;;;;;;1;831.225;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093470;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;1;865.181;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093473;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;1;886.430;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093476;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;5315;Julius Randle;3171;Los Angeles Lakers;;;1;900.073;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093477;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;905.084;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:49:01.875461
+77093480;100200;Game stop;;;;;;;;;;;1;935.985;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093481;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;1;935.985;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093482;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;978.173;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093483;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;978.173;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093489;400101;Accurate pass;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;993.581;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:49:01.875461
+77093490;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;1;993.581;27.02;7.62;;;;;;;;Hand offs;;Dunk;;;;2017-12-07 11:49:01.875461
+77093492;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;1018.856;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093493;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;1030.458;25.04;9.42;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093496;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;1069.208;22.82;3.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093497;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;1070.903;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093498;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;1082.143;26.72;7.95;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093501;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;1089.380;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093502;100200;Game stop;;;;;;;;;;;1;1102.320;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093503;100500;Turnover;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;1102.320;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093504;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;1128.754;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093507;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;1128.754;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093508;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1151.099;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093509;800202;2-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;1151.359;24.05;10.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093510;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1151.099;26.99;7.80;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093511;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1152.602;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093512;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1152.602;26.84;8.34;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093514;1800500;Halftime;;;;;;;;;;;1;1163.284;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093515;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093521;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093522;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093523;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093524;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093525;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093530;100200;Game stop;;;;;;;;;;;2;49.391;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093531;100500;Turnover;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;49.391;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093535;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;79.062;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093536;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;2;87.100;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093537;800400;2+1;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;87.100;26.66;7.80;;;;;;;;Transition;;;;;;2017-12-07 11:49:01.875461
+77093538;100200;Game stop;;;;;;;;;;;2;87.100;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093540;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;5315;Julius Randle;3171;Los Angeles Lakers;;;2;113.475;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093543;100200;Game stop;;;;;;;;;;;2;151.333;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093547;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;170.467;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093548;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;177.705;21.11;12.30;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093551;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;184.586;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093552;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;191.586;21.26;12.57;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093556;100200;Game stop;;;;;;;;;;;2;205.031;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093557;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;7502;Brandon Bass;3171;Los Angeles Lakers;;;2;205.031;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093562;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;260.250;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093563;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;275.175;27.23;11.82;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:49:01.875461
+77093564;100400;Steal;1861;Cameron Payne;2935;Oklahoma City Thunder;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;2;291.079;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093565;100200;Game stop;;;;;;;;;;;2;299.139;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093566;100500;Turnover;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;299.139;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093569;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;328.622;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093570;200600;Post;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;339.849;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093571;800202;2-;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;339.849;25.64;8.04;;;;;;;;Post;;Hook;;;;2017-12-07 11:49:01.875461
+77093572;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;340.205;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093573;800600;2F;1857;Enes Freedom;2935;Oklahoma City Thunder;5315;Julius Randle;3171;Los Angeles Lakers;;;2;340.205;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093574;100200;Game stop;;;;;;;;;;;2;340.205;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093576;1800600;Timeout;;;;;;;;;;;2;340.205;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093577;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;5315;Julius Randle;3171;Los Angeles Lakers;;;2;386.223;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093578;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;5315;Julius Randle;3171;Los Angeles Lakers;;;2;403.931;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093582;800202;2-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;439.304;26.57;12.30;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093585;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;466.809;23.33;12.99;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:49:01.875461
+77093587;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;486.235;24.44;9.66;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:49:01.875461
+77093590;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;498.346;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093591;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;507.931;26.84;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093595;100200;Game stop;;;;;;;;;;;2;523.505;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093596;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;2;523.505;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093597;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;569.241;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093598;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;569.241;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093599;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;2;569.241;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093602;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;569.241;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093603;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;569.241;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093604;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;569.241;27.08;10.14;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:49:01.875461
+77093607;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;5311;Roy Hibbert;3171;Los Angeles Lakers;;;2;602.693;26.99;7.56;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093608;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;601.725;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093609;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;603.033;21.26;3.33;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:49:01.875461
+77093611;100200;Game stop;;;;;;;;;;;2;608.486;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093612;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;2;608.486;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093613;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;2;648.126;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093621;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;2;681.527;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093622;800301;3+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;681.527;20.66;3.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093623;100400;Steal;1858;Steven Adams;2935;Oklahoma City Thunder;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;733.018;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093624;100200;Game stop;;;;;;;;;;;2;737.063;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093626;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;758.686;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093627;800400;2+1;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;771.686;26.96;8.13;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:49:01.875461
+77093628;100200;Game stop;;;;;;;;;;;2;771.686;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093630;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;5311;Roy Hibbert;3171;Los Angeles Lakers;;;2;804.416;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093632;100400;Steal;7464;Kevin Durant;2935;Oklahoma City Thunder;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;819.969;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093633;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;822.519;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093634;100200;Game stop;;;;;;;;;;;2;822.519;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093636;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;858.435;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093637;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;858.435;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093638;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;883.285;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093641;100200;Game stop;;;;;;;;;;;2;897.842;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093642;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;897.842;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093643;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;902.308;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093646;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;926.396;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093647;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;938.150;22.88;5.79;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093649;100200;Game stop;;;;;;;;;;;2;975.513;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093650;300100;Foul;1850;Russell Westbrook;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;2;975.513;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093654;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1025.139;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093655;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1049.139;24.50;14.82;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093656;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1051.329;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093657;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;2;1051.329;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093658;100200;Game stop;;;;;;;;;;;2;1051.329;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093660;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;2;1081.735;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093662;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;2;1102.385;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093665;100200;Game stop;;;;;;;;;;;2;1120.725;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093666;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;2;1120.725;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093670;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1209.218;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093671;800302;3-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1239.218;17.96;12.21;;;;;;;;;;Jumper;;;;2017-12-07 11:49:01.875461
+77093674;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1262.066;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093675;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1267.973;26.57;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:49:01.875461
+77093677;100400;Steal;7464;Kevin Durant;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;2;1273.357;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093678;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1278.526;26.99;8.28;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:49:01.875461
+77093681;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;1313.986;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093682;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1313.986;24.20;7.50;;;;;;;;Screen off;;Floater;;;;2017-12-07 11:49:01.875461
+77093684;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1337.082;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093685;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1343.900;26.81;7.26;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:49:01.875461
+77093687;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;1382.690;26.27;11.34;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:49:01.875461
+77093688;100200;Game stop;;;;;;;;;;;2;1404.991;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093691;1800500;Halftime;;;;;;;;;;;2;1405.791;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093692;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093698;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093699;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093700;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093701;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093702;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093705;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;21.124;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093708;100200;Game stop;;;;;;;;;;;3;74.451;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093709;100500;Turnover;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;74.451;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093712;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;112.743;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093713;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;121.373;22.28;10.65;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093714;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;122.481;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093715;800201;2+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;122.481;26.72;8.28;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093717;400101;Accurate pass;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;3;162.194;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093718;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;162.194;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:49:01.875461
+77093720;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;210.204;23.33;10.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093722;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;249.743;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093723;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;249.743;23.90;6.12;;;;;;;;Post;;Jumper;;;;2017-12-07 11:49:01.875461
+77093724;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;251.372;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093725;800600;2F;1860;Andre Roberson;2935;Oklahoma City Thunder;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;251.372;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093726;100200;Game stop;;;;;;;;;;;3;251.372;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093728;800101;1+;1860;Andre Roberson;2935;Oklahoma City Thunder;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;275.439;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093729;800102;1-;1860;Andre Roberson;2935;Oklahoma City Thunder;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;288.770;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093733;100200;Game stop;;;;;;;;;;;3;303.506;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093734;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;3;303.506;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093737;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;339.969;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093738;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;362.969;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093739;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;362.969;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:49:01.875461
+77093740;100200;Game stop;;;;;;;;;;;3;375.330;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093741;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;5305;Kobe Bryant;3171;Los Angeles Lakers;;;3;375.330;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093742;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;415.210;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093743;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;415.210;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093748;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;429.175;26.96;8.49;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093751;100200;Game stop;;;;;;;;;;;3;437.260;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093752;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;3;437.260;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093754;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;479.406;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093755;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;479.406;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093756;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;479.406;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093757;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;479.406;26.99;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:49:01.875461
+77093758;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;478.997;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093759;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;3;478.997;26.96;7.95;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:49:01.875461
+77093762;100200;Game stop;;;;;;;;;;;3;489.191;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093763;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;3;489.191;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093766;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;533.013;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093767;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;3;547.013;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093768;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;547.013;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093769;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;547.013;27.23;7.59;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:49:01.875461
+77093773;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;3;597.848;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093774;100200;Game stop;;;;;;;;;;;3;597.848;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093776;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;3;627.108;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093778;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;3;646.949;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093781;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;667.818;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093782;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;3;675.058;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:49:01.875461
+77093783;100200;Game stop;;;;;;;;;;;3;675.058;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093785;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;3;709.940;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093788;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;3;729.887;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093791;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;3;752.759;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093794;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;3;782.446;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093795;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;782.446;26.72;7.83;;;;;;;;Cut;;;;;;2017-12-07 11:49:01.875461
+77093798;100200;Game stop;;;;;;;;;;;3;799.196;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093799;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;5305;Kobe Bryant;3171;Los Angeles Lakers;;;3;799.196;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093802;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;865.635;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093803;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;3;877.635;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093804;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;877.635;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093805;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;877.635;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:49:01.875461
+77093808;800302;3-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;912.552;19.94;9.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093812;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;931.878;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093813;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;3;941.395;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093814;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;941.395;27.08;14.67;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093815;100200;Game stop;;;;;;;;;;;3;941.395;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093820;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;985.917;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093821;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;3;994.192;22.58;13.98;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093825;100200;Game stop;;;;;;;;;;;3;1062.797;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093826;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;1062.797;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093827;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;1062.797;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093828;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;1062.797;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093829;200300;Pick'n'Roll;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;1062.797;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:49:01.875461
+77093830;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;1062.797;19.88;5.82;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:49:01.875461
+77093833;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1103.699;20.36;10.74;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093837;100400;Steal;8331;Dion Waiters;2935;Oklahoma City Thunder;5315;Julius Randle;3171;Los Angeles Lakers;;;3;1110.474;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093838;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;1121.107;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093839;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;3;1121.107;26.84;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:49:01.875461
+77093841;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1156.103;19.79;9.66;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093843;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;3;1184.336;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093844;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;13675;Anthony Brown;3171;Los Angeles Lakers;;;3;1191.682;26.66;0.96;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093845;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;1191.682;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093846;1800500;Halftime;;;;;;;;;;;3;1191.682;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093847;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093853;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093854;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093855;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093856;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093857;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093858;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;8.532;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093859;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;26.532;25.76;2.70;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093861;100200;Game stop;;;;;;;;;;;4;43.941;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093863;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;53.632;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093864;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;4;72.632;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093865;800201;2+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;72.632;26.12;13.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093867;100300;Rebound;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;93.209;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093868;400101;Accurate pass;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;105.170;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:49:01.875461
+77093869;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1853;Nick Collison;4;105.170;21.26;6.66;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:49:01.875461
+77093870;100200;Game stop;;;;;;;;;;;4;124.563;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093873;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;157.150;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093874;800202;2-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;157.150;25.67;6.36;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:49:01.875461
+77093875;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;157.267;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093876;800202;2-;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;157.267;26.84;7.89;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:49:01.875461
+77093878;100400;Steal;8331;Dion Waiters;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;4;165.087;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093879;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;171.559;26.72;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:49:01.875461
+77093880;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;172.691;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093881;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;172.691;27.05;7.89;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093882;100200;Game stop;;;;;;;;;;;4;182.147;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093887;100200;Game stop;;;;;;;;;;;4;227.834;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093889;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;237.644;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093892;800202;2-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;278.027;25.76;8.52;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:49:01.875461
+77093893;100200;Game stop;;;;;;;;;;;4;278.027;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093894;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;278.027;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093896;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;301.297;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093897;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;307.297;22.25;11.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093898;100200;Game stop;;;;;;;;;;;4;307.297;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093900;300100;Foul;1857;Enes Freedom;2935;Oklahoma City Thunder;7502;Brandon Bass;3171;Los Angeles Lakers;;;4;307.297;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093904;100200;Game stop;;;;;;;;;;;4;336.131;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093905;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;336.131;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093906;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;386.053;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093907;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;386.053;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093908;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;386.053;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093909;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;386.053;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093910;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;13675;Anthony Brown;3171;Los Angeles Lakers;;;4;386.053;27.05;7.68;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:49:01.875461
+77093911;100200;Game stop;;;;;;;;;;;4;386.053;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093912;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;386.053;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093913;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;404.553;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093914;800302;3-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;408.553;23.03;1.62;;;;;;;;;;Jumper;;;;2017-12-07 11:49:01.875461
+77093915;100200;Game stop;;;;;;;;;;;4;408.553;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093919;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;453.113;26.81;7.26;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093920;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;453.605;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093921;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;453.605;26.03;9.90;;;;;;;;Putbacks;;Hook;;;;2017-12-07 11:49:01.875461
+77093923;800302;3-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;503.135;27.53;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093927;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;554.969;23.33;3.48;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:49:01.875461
+77093934;800301;3+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;584.832;19.34;7.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093937;800302;3-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;634.590;21.41;2.94;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093942;100200;Game stop;;;;;;;;;;;4;667.714;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093943;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;667.714;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093944;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;712.560;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093945;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;712.560;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093948;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;712.560;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093949;200600;Post;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;712.560;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093950;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;712.560;26.57;4.59;;;;;;;;Post;;Jumper;;;;2017-12-07 11:49:01.875461
+77093951;100200;Game stop;;;;;;;;;;;4;712.560;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093952;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;5315;Julius Randle;3171;Los Angeles Lakers;;;4;712.560;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093957;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;4;763.295;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093958;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;7502;Brandon Bass;3171;Los Angeles Lakers;;;4;771.320;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:49:01.875461
+77093959;100200;Game stop;;;;;;;;;;;4;771.320;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093961;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;797.009;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093962;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7502;Brandon Bass;3171;Los Angeles Lakers;;;4;797.009;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093963;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7502;Brandon Bass;3171;Los Angeles Lakers;;;4;797.009;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093966;100200;Game stop;;;;;;;;;;;4;844.416;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093967;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;4;844.416;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093971;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;917.121;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093972;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;924.121;26.99;7.26;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093974;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;939.819;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093977;100200;Game stop;;;;;;;;;;;4;955.548;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093978;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;955.548;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093979;1800600;Timeout;;;;;;;;;;;4;955.548;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093982;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1012.292;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093985;100200;Game stop;;;;;;;;;;;4;1026.327;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093986;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;4;1026.327;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093989;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;1082.890;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093991;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1087.442;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093992;800400;2+1;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1100.442;26.99;7.50;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093993;100200;Game stop;;;;;;;;;;;4;1100.442;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093995;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7502;Brandon Bass;3171;Los Angeles Lakers;;;4;1124.208;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093999;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1144.199;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094000;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;4;1153.322;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094001;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1153.322;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:49:01.875461
+77094002;100200;Game stop;;;;;;;;;;;4;1153.322;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094006;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1191.055;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094007;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1210.572;27.08;7.98;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:49:01.875461
+77094008;100200;Game stop;;;;;;;;;;;4;1210.572;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094009;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;1210.572;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094011;800101;1+;1858;Steven Adams;2935;Oklahoma City Thunder;13675;Anthony Brown;3171;Los Angeles Lakers;;;4;1240.988;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094012;800101;1+;1858;Steven Adams;2935;Oklahoma City Thunder;13675;Anthony Brown;3171;Los Angeles Lakers;;;4;1258.333;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094016;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1298.030;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094017;100200;Game stop;;;;;;;;;;;4;1314.929;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094018;100500;Turnover;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1314.929;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094022;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;4;1349.115;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094023;100200;Game stop;;;;;;;;;;;4;1349.115;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094025;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;4;1379.203;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094026;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;1379.203;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094027;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;5323;Louis Williams;3171;Los Angeles Lakers;;;4;1396.431;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094029;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;1439.611;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094032;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1439.611;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094033;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;13675;Anthony Brown;3171;Los Angeles Lakers;;;4;1441.154;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094034;100200;Game stop;;;;;;;;;;;4;1441.154;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094036;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;13675;Anthony Brown;3171;Los Angeles Lakers;;;4;1478.432;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094037;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;13675;Anthony Brown;3171;Los Angeles Lakers;;;4;1495.211;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094041;1800700;Match end;;;;;;;;;;;4;1507.969;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+103647984;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;125.391;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647986;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;162.716;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647990;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;257.855;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647996;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;372.135;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648000;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;445.772;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648004;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;477.646;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648006;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;1;497.618;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648010;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;568.975;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648012;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;598.799;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648014;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;679.033;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648018;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;765.665;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648022;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;831.225;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648024;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;905.084;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648030;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;1;993.581;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648032;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;1030.458;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648036;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1152.602;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648042;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;87.100;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648046;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;275.175;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648048;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;340.205;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648054;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;466.809;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648058;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;486.235;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648066;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;681.527;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648068;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;771.686;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648070;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;822.519;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648072;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;938.150;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648076;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1051.329;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648082;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1313.986;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648084;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1343.900;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648088;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;1382.690;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648092;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;122.481;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648096;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;162.194;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648100;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;210.204;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648104;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;251.372;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648108;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;362.969;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648116;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;547.013;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648120;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;597.848;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648122;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;675.058;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648126;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;782.446;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648130;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;877.635;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648134;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;941.395;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648138;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;1062.797;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648142;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;3;1121.107;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648146;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1156.103;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648148;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;72.632;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648150;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1853;Nick Collison;4;105.170;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648152;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;172.691;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648160;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;453.605;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648168;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;584.832;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648174;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;712.560;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648176;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;771.320;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648180;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;924.121;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648184;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1100.442;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648186;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1153.322;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648190;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1349.115;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648192;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1441.154;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+77093348;1601000;Starting lineup;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093349;1601000;Starting lineup;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093350;1601000;Starting lineup;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093351;1601000;Starting lineup;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093352;1601000;Starting lineup;13675;Anthony Brown;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093353;1601000;Starting lineup;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093354;1601000;Starting lineup;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093355;1601000;Starting lineup;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093356;1601000;Starting lineup;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093357;1601000;Starting lineup;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093369;1600500;Guard;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093370;1600500;Guard;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093371;1600500;Guard;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093372;1600500;Guard;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093373;1600500;Guard;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093381;100300;Rebound;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;1;86.017;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093382;400101;Accurate pass;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5313;Larry Nance Jr.;1;105.366;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093383;800201;2+;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;1;105.366;22.73;10.53;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093388;200600;Post;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;148.372;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093389;800202;2-;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;148.372;26.96;5.04;;;;;;;;Post;;Hook;;;;2017-12-07 11:49:01.875461
+77093393;800700;3F;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;183.363;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:49:01.875461
+77093396;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;208.810;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093397;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;222.119;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093398;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;233.652;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093404;800202;2-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;266.288;27.08;13.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093407;300100;Foul;5305;Kobe Bryant;3171;Los Angeles Lakers;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;288.846;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093409;100400;Steal;5323;Louis Williams;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;310.227;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093410;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;322.418;27.05;8.28;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:49:01.875461
+77093411;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;323.693;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093412;800201;2+;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;323.693;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:49:01.875461
+77093413;100400;Steal;5313;Larry Nance Jr.;3171;Los Angeles Lakers;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;341.031;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093414;400101;Accurate pass;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5313;Larry Nance Jr.;1;345.604;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093415;800201;2+;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;1;345.604;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:49:01.875461
+77093420;800600;2F;5323;Louis Williams;3171;Los Angeles Lakers;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;394.674;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:49:01.875461
+77093423;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;416.842;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093424;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;433.372;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093427;400101;Accurate pass;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;1;465.461;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093428;800201;2+;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;1;465.461;26.72;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:49:01.875461
+77093435;300100;Foul;5311;Roy Hibbert;3171;Los Angeles Lakers;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;497.618;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093437;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;539.873;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093438;800201;2+;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;1;557.873;26.72;6.33;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 11:49:01.875461
+77093441;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;592.733;27.23;8.43;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:49:01.875461
+77093445;100500;Turnover;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;621.094;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093446;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;1;621.094;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093447;1600500;Guard;5318;D'Angelo Russell;3171;Los Angeles Lakers;5323;Louis Williams;3171;Los Angeles Lakers;;;1;679.033;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093450;800600;2F;5308;Jordan Clarkson;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;703.055;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:49:01.875461
+77093453;800101;1+;5308;Jordan Clarkson;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;728.320;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093455;800101;1+;5308;Jordan Clarkson;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;747.818;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093460;800202;2-;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;1;785.820;22.10;10.80;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:49:01.875461
+77093463;100300;Rebound;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;800.821;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093464;400101;Accurate pass;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;1;818.050;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093465;800201;2+;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;1;818.050;21.71;8.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093469;300100;Foul;5308;Jordan Clarkson;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;831.225;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093471;1600500;Guard;13675;Anthony Brown;3171;Los Angeles Lakers;5305;Kobe Bryant;3171;Los Angeles Lakers;;;1;886.430;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093472;1600500;Guard;5315;Julius Randle;3171;Los Angeles Lakers;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;1;886.430;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093474;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;886.430;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093475;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;886.430;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093478;800201;2+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;918.463;23.75;4.32;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093479;100400;Steal;5308;Jordan Clarkson;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;930.084;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093484;1600500;Guard;7502;Brandon Bass;3171;Los Angeles Lakers;5311;Roy Hibbert;3171;Los Angeles Lakers;;;1;978.173;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093485;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;978.173;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093486;400101;Accurate pass;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;1;978.173;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093487;200300;Pick'n'Roll;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;1;978.173;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:49:01.875461
+77093488;800201;2+;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;1;978.173;22.43;9.81;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:49:01.875461
+77093491;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;1;1018.856;23.03;3.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093494;400101;Accurate pass;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;1;1051.484;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093495;800201;2+;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;1;1051.484;26.99;7.89;;;;;;;;Cut;;;;;;2017-12-07 11:49:01.875461
+77093499;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;1;1082.143;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093500;800202;2-;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;1089.380;21.98;11.19;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093505;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;1128.754;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093506;800202;2-;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;1;1128.754;21.50;9.45;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093513;800301;3+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;1162.684;15.20;4.80;;;;;;;;;;Jumper;;;;2017-12-07 11:49:01.875461
+77093516;1600500;Guard;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093517;1600500;Guard;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093518;1600500;Guard;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093519;1600500;Guard;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093520;1600500;Guard;13675;Anthony Brown;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093526;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;8.664;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093527;400101;Accurate pass;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;5323;Louis Williams;2;31.664;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093528;200300;Pick'n'Roll;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;5323;Louis Williams;2;31.664;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093529;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;2;31.664;25.49;9.84;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093532;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;60.062;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093533;200600;Post;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;2;79.062;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093534;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;2;79.062;23.87;10.92;;;;;;;;Post;;Jumper;;;;2017-12-07 11:49:01.875461
+77093539;300100;Foul;5315;Julius Randle;3171;Los Angeles Lakers;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;87.100;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093541;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;132.333;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093542;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;151.333;27.53;14.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:49:01.875461
+77093544;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;2;151.333;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093545;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;163.467;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093546;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;2;170.467;22.43;11.97;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093549;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;2;177.705;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093550;800302;3-;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;2;184.586;21.98;13.92;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093553;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;2;191.586;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093554;200600;Post;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;2;205.031;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093555;800600;2F;7502;Brandon Bass;3171;Los Angeles Lakers;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;2;205.031;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:49:01.875461
+77093558;800101;1+;7502;Brandon Bass;3171;Los Angeles Lakers;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;2;233.027;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093559;1600500;Guard;5305;Kobe Bryant;3171;Los Angeles Lakers;13675;Anthony Brown;3171;Los Angeles Lakers;;;2;260.250;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093560;1600500;Guard;370739;Marcelinho Huertas;3171;Los Angeles Lakers;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;2;260.250;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093561;800101;1+;7502;Brandon Bass;3171;Los Angeles Lakers;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;2;260.250;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093567;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;308.622;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093568;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5323;Louis Williams;2;328.622;25.19;8.91;;;;;;;;Catch and Drive;;Hook;Drives Right;;;2017-12-07 11:49:01.875461
+77093575;300100;Foul;5315;Julius Randle;3171;Los Angeles Lakers;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;340.205;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093579;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;405.360;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093580;400101;Accurate pass;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;2;422.360;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:49:01.875461
+77093581;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;2;422.360;21.35;11.61;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:49:01.875461
+77093583;100300;Rebound;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;439.304;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093584;800301;3+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;449.867;27.50;0.93;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093586;800201;2+;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;2;476.252;27.05;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093588;200300;Pick'n'Roll;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;2;498.346;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:49:01.875461
+77093589;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;2;498.346;22.28;2.16;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:49:01.875461
+77093592;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;2;507.931;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093593;400101;Accurate pass;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5323;Louis Williams;2;517.507;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093594;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5315;Julius Randle;2;517.507;27.08;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:49:01.875461
+77093600;1600500;Guard;5311;Roy Hibbert;3171;Los Angeles Lakers;5315;Julius Randle;3171;Los Angeles Lakers;;;2;569.241;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093601;1600500;Guard;5313;Larry Nance Jr.;3171;Los Angeles Lakers;7502;Brandon Bass;3171;Los Angeles Lakers;;;2;569.241;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093605;100300;Rebound;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;2;569.241;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093606;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;584.792;21.80;6.33;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:49:01.875461
+77093610;100300;Rebound;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;603.033;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093614;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;648.126;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093615;100300;Rebound;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;647.735;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093616;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;648.126;20.66;11.91;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093617;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;649.206;23.45;8.22;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:49:01.875461
+77093618;100300;Rebound;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;2;649.425;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093619;400101;Accurate pass;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;2;664.488;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093620;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5323;Louis Williams;2;664.488;24.59;7.59;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:49:01.875461
+77093625;300100;Foul;5305;Kobe Bryant;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;737.063;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093629;300100;Foul;5311;Roy Hibbert;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;771.686;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093631;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;805.969;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093635;300100;Foul;5305;Kobe Bryant;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;822.519;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093639;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;886.842;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093640;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;897.842;20.51;11.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093644;100400;Steal;5311;Roy Hibbert;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;916.308;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093645;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;926.396;26.27;14.85;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093648;800600;2F;5308;Jordan Clarkson;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;975.513;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:49:01.875461
+77093651;800102;1-;5308;Jordan Clarkson;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1002.666;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093652;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;2;1002.666;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093653;800101;1+;5308;Jordan Clarkson;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1021.021;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093659;300100;Foul;5308;Jordan Clarkson;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1051.329;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093661;1600500;Guard;13675;Anthony Brown;3171;Los Angeles Lakers;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;1102.385;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093663;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;1110.725;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093664;800600;2F;5323;Louis Williams;3171;Los Angeles Lakers;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;1120.725;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:49:01.875461
+77093667;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;2;1120.725;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093668;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;1151.886;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093669;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;1165.887;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093672;100300;Rebound;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;2;1239.218;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093673;800202;2-;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;2;1262.066;20.81;8.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093676;100300;Rebound;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;2;1267.973;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093679;100300;Rebound;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;2;1278.526;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093680;800201;2+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;2;1299.387;27.05;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093683;800202;2-;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;2;1337.082;23.72;3.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093686;800301;3+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;1354.335;20.75;12.03;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093689;300100;Foul;5311;Roy Hibbert;3171;Los Angeles Lakers;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;1404.991;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093690;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;1404.991;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093693;1600500;Guard;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093694;1600500;Guard;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093695;1600500;Guard;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093696;1600500;Guard;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093697;1600500;Guard;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093703;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;5.124;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093704;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;21.124;19.64;5.88;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:49:01.875461
+77093706;100400;Steal;5313;Larry Nance Jr.;3171;Los Angeles Lakers;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;39.152;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093707;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;46.892;21.98;4.56;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093710;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;93.743;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093711;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;112.743;21.65;12.99;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093716;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;144.200;25.22;10.89;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:49:01.875461
+77093719;800201;2+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;186.781;25.34;6.36;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:49:01.875461
+77093721;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;236.058;25.97;7.26;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 11:49:01.875461
+77093727;300100;Foul;5311;Roy Hibbert;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;251.372;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093730;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;288.770;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093731;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;288.770;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093732;800600;2F;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;303.506;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:49:01.875461
+77093735;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;326.518;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093736;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;338.357;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093744;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;415.210;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093745;400101;Accurate pass;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;3;415.210;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093746;200300;Pick'n'Roll;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;415.210;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093747;800201;2+;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;415.210;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:49:01.875461
+77093749;100300;Rebound;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;429.175;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093750;400101;Accurate pass;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5323;Louis Williams;3;437.260;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093753;800301;3+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;437.260;25.19;14.85;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093760;100300;Rebound;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;478.997;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093761;800600;2F;5313;Larry Nance Jr.;3171;Los Angeles Lakers;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;3;489.191;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:49:01.875461
+77093764;800101;1+;5313;Larry Nance Jr.;3171;Los Angeles Lakers;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;3;517.885;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093765;800101;1+;5313;Larry Nance Jr.;3171;Los Angeles Lakers;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;3;532.356;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093770;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;573.854;26.81;10.20;;;;;;;;Isolation;;Floater;Drives Left;;;2017-12-07 11:49:01.875461
+77093771;100300;Rebound;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;573.980;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093772;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;573.980;26.96;8.43;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093775;300100;Foul;5308;Jordan Clarkson;3171;Los Angeles Lakers;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;597.848;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093777;1600500;Guard;370739;Marcelinho Huertas;3171;Los Angeles Lakers;5323;Louis Williams;3171;Los Angeles Lakers;;;3;646.949;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093779;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;647.818;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093780;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;667.818;25.49;6.87;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 11:49:01.875461
+77093784;300100;Foul;5313;Larry Nance Jr.;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;675.058;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093786;1600500;Guard;5315;Julius Randle;3171;Los Angeles Lakers;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;3;729.887;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093787;1600500;Guard;7502;Brandon Bass;3171;Los Angeles Lakers;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;729.887;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093789;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;733.759;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093790;800302;3-;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;752.759;21.95;12.75;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093792;100400;Steal;5305;Kobe Bryant;3171;Los Angeles Lakers;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;761.335;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093793;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;768.998;26.84;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:49:01.875461
+77093796;200600;Post;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;799.196;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093797;800600;2F;5305;Kobe Bryant;3171;Los Angeles Lakers;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;3;799.196;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:49:01.875461
+77093800;800101;1+;5305;Kobe Bryant;3171;Los Angeles Lakers;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;3;843.626;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093801;800101;1+;5305;Kobe Bryant;3171;Los Angeles Lakers;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;3;862.366;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093806;400101;Accurate pass;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;3;899.463;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093807;800201;2+;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;3;899.463;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:49:01.875461
+77093809;100300;Rebound;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;912.552;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093810;200600;Post;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;931.878;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093811;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;931.878;27.08;3.57;;;;;;;;Post;;Jumper;;;;2017-12-07 11:49:01.875461
+77093816;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;3;941.395;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093817;1600500;Guard;13675;Anthony Brown;3171;Los Angeles Lakers;5305;Kobe Bryant;3171;Los Angeles Lakers;;;3;985.917;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093818;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;985.917;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093819;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;1857;Enes Freedom;2935;Oklahoma City Thunder;5308;Jordan Clarkson;3;985.917;25.34;8.19;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:49:01.875461
+77093822;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;994.192;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093823;400101;Accurate pass;5315;Julius Randle;3171;Los Angeles Lakers;;;;;13675;Anthony Brown;3;1015.971;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093824;800301;3+;13675;Anthony Brown;3171;Los Angeles Lakers;;;;;5315;Julius Randle;3;1015.971;20.51;12.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093831;400101;Accurate pass;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;3;1085.838;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093832;800201;2+;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;3;1085.838;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:49:01.875461
+77093834;100300;Rebound;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;1103.699;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093835;800202;2-;5308;Jordan Clarkson;3171;Los Angeles Lakers;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;1110.048;26.96;8.10;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:49:01.875461
+77093836;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;1110.474;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093840;800201;2+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;1143.762;24.95;7.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093842;800302;3-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;3;1184.336;27.05;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093848;1600500;Guard;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093849;1600500;Guard;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093850;1600500;Guard;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093851;1600500;Guard;13675;Anthony Brown;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093852;1600500;Guard;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093860;100300;Rebound;13675;Anthony Brown;3171;Los Angeles Lakers;;;;;;;4;26.532;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093862;100500;Turnover;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;43.941;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093866;800202;2-;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;4;93.209;26.36;4.86;;;;;;;;Isolation;;Floater;Drives Right;;;2017-12-07 11:49:01.875461
+77093871;100500;Turnover;13675;Anthony Brown;3171;Los Angeles Lakers;;;;;;;4;124.563;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093872;1600500;Guard;5323;Louis Williams;3171;Los Angeles Lakers;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;4;157.150;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093877;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;157.267;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093883;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;4;182.147;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093884;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;207.375;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093885;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;224.375;20.21;12.42;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093886;100300;Rebound;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;4;227.834;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093888;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;4;227.834;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093890;100400;Steal;5323;Louis Williams;3171;Los Angeles Lakers;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;247.644;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093891;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;253.865;26.96;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:49:01.875461
+77093895;300100;Foul;5315;Julius Randle;3171;Los Angeles Lakers;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;278.027;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093899;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;4;307.297;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093901;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;321.131;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093902;400101;Accurate pass;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5323;Louis Williams;4;336.131;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093903;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;4;336.131;26.99;7.32;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:49:01.875461
+77093916;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;4;408.553;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093917;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;413.408;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093918;800301;3+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;429.408;21.83;13.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093922;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;477.247;27.23;13.53;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093924;100300;Rebound;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;4;503.135;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093925;400101;Accurate pass;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;5323;Louis Williams;4;512.569;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093926;800301;3+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;4;512.569;22.13;13.53;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093928;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;554.969;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093929;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;565.669;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093930;800202;2-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;566.262;27.62;12.51;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093931;800202;2-;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;565.669;26.99;7.98;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093932;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;567.496;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093933;800201;2+;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;567.496;26.99;8.13;;;;;;;;Putbacks;;;;;;2017-12-07 11:49:01.875461
+77093935;400101;Accurate pass;13675;Anthony Brown;3171;Los Angeles Lakers;;;;;5323;Louis Williams;4;610.165;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093936;800301;3+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;13675;Anthony Brown;4;610.165;27.05;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:49:01.875461
+77093938;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;634.590;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093939;100300;Rebound;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;4;651.335;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093940;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;652.411;20.21;11.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093941;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;667.714;27.08;8.10;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:49:01.875461
+77093946;1600500;Guard;5308;Jordan Clarkson;3171;Los Angeles Lakers;13675;Anthony Brown;3171;Los Angeles Lakers;;;4;712.560;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093947;1600500;Guard;5305;Kobe Bryant;3171;Los Angeles Lakers;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;4;712.560;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093953;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;737.945;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093954;800202;2-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;753.945;27.38;12.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77093955;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;755.499;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093956;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;763.295;20.18;4.65;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093960;300100;Foul;7502;Brandon Bass;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;771.320;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093964;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;824.416;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093965;800700;3F;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;844.416;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:49:01.875461
+77093968;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;883.407;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093969;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;896.773;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093970;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;909.534;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093973;800202;2-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;939.819;26.96;7.20;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:49:01.875461
+77093975;100400;Steal;7502;Brandon Bass;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;945.725;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093976;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;955.548;21.20;2.97;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:49:01.875461
+77093980;300100;Foul;5315;Julius Randle;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;955.548;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093981;1600500;Guard;13675;Anthony Brown;3171;Los Angeles Lakers;5315;Julius Randle;3171;Los Angeles Lakers;;;4;1012.292;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093983;100400;Steal;5308;Jordan Clarkson;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;1012.292;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093984;800700;3F;5323;Louis Williams;3171;Los Angeles Lakers;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;1026.327;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:49:01.875461
+77093987;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;1050.509;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093988;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;1063.990;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093990;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;1082.890;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093994;300100;Foul;7502;Brandon Bass;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;1100.442;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77093996;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1126.199;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77093997;200300;Pick'n'Roll;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5323;Louis Williams;4;1144.199;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:49:01.875461
+77093998;800202;2-;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5323;Louis Williams;4;1144.199;22.43;9.75;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:49:01.875461
+77094003;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;4;1153.322;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094004;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1177.055;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77094005;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;1191.055;20.96;12.15;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77094010;300100;Foul;13675;Anthony Brown;3171;Los Angeles Lakers;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1210.572;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094013;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;4;1258.333;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094014;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1290.030;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77094015;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;1298.030;22.13;4.26;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:49:01.875461
+77094019;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1328.154;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77094020;400101;Accurate pass;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;4;1337.454;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094021;800301;3+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;4;1337.454;25.10;15.00;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:49:01.875461
+77094024;300100;Foul;5323;Louis Williams;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;1349.115;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094028;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;4;1396.431;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094030;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1439.611;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77094031;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;1439.611;26.66;5.40;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:49:01.875461
+77094035;300100;Foul;13675;Anthony Brown;3171;Los Angeles Lakers;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;1441.154;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+77094038;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1505.769;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77094039;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;1507.969;12.47;3.87;;;;;;;;;;Jumper;;;;2017-12-07 11:49:01.875461
+77094040;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;4;1507.969;;;;;;;;;;;;;;;;2017-12-07 11:49:01.875461
+102325963;100500;Turnover;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;2;1404.991;;;;;;;;;;;;;;;;2018-02-26 10:11:03.554855
+102325964;300100;Foul;5315;Julius Randle;3171;Los Angeles Lakers;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;43.941;;;;;;;;;;;;;;;;2018-02-26 10:11:03.554855
+103647982;200900;Assisting;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;1;105.366;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647988;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;183.363;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647992;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;323.693;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647994;200900;Assisting;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;1;345.604;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647998;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;394.674;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648002;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;1;465.461;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648008;200900;Assisting;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;1;557.873;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648016;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;703.055;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648020;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;1;818.050;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648026;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;918.463;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648028;200900;Assisting;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;1;978.173;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648034;200900;Assisting;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;1;1051.484;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648038;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;1162.684;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648040;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;2;31.664;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648044;200900;Assisting;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;2;205.031;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648050;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;2;422.360;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648052;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;449.867;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648056;200900;Assisting;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;2;476.252;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648060;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5315;Julius Randle;2;517.507;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648062;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;584.792;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648064;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5323;Louis Williams;2;664.488;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648074;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;2;975.513;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648078;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;1120.725;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648080;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;2;1299.387;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648086;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;1354.335;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648090;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;46.892;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648094;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;144.200;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648098;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;186.781;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648102;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;236.058;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648106;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;303.506;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648110;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;415.210;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648112;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;437.260;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648114;200900;Assisting;5313;Larry Nance Jr.;3171;Los Angeles Lakers;;;;;;;3;489.191;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648118;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;573.980;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648124;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;768.998;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648128;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;799.196;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648132;200900;Assisting;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;3;899.463;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648136;200900;Assisting;13675;Anthony Brown;3171;Los Angeles Lakers;;;;;5315;Julius Randle;3;1015.971;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648140;200900;Assisting;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;3;1085.838;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648144;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;1143.762;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648154;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;253.865;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648156;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;4;336.131;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648158;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;429.408;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648162;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;477.247;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648164;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;4;512.569;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648166;200900;Assisting;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;567.496;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648170;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;13675;Anthony Brown;4;610.165;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648172;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;667.714;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648178;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;844.416;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648182;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;1026.327;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103648188;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;4;1337.454;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796

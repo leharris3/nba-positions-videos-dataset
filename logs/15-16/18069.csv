@@ -1,0 +1,825 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76314223;1601000;Starting lineup;364974;Mike Scott;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314224;1601000;Starting lineup;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314225;1601000;Starting lineup;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314226;1601000;Starting lineup;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314227;1601000;Starting lineup;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314228;1601000;Starting lineup;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314229;1601000;Starting lineup;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314230;1601000;Starting lineup;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314231;1601000;Starting lineup;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314232;1601000;Starting lineup;1124;Justin Holiday;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314233;1601000;Starting lineup;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314234;1601000;Starting lineup;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314235;1601000;Starting lineup;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314236;1601000;Starting lineup;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314237;1601000;Starting lineup;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314238;1601000;Starting lineup;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314239;1601000;Starting lineup;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314240;1601000;Starting lineup;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314241;1601000;Starting lineup;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314242;1601000;Starting lineup;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314243;1601000;Starting lineup;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314244;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314245;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314246;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314247;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314248;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314249;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314250;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314251;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314252;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314253;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314254;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314255;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;47.523;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314256;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;1;64.523;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314257;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;71.959;25.67;7.80;;;;;;;;Transition;;Jumper;;;;2017-12-07 02:40:03.824297
+76314258;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;71.959;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314259;800202;2-;1145;Kent Bazemore;79;Atlanta Hawks;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;84.617;27.20;7.95;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 02:40:03.824297
+76314260;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;84.617;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314261;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;91.106;24.02;12.45;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 02:40:03.824297
+76314262;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;109.205;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314263;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;109.205;26.99;7.35;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314264;100400;Steal;1145;Kent Bazemore;79;Atlanta Hawks;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;124.592;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314265;800302;3-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;134.832;22.13;1.89;;;;;;;;Transition;;Jumper;;;;2017-12-07 02:40:03.824297
+76314266;100200;Game stop;;;;;;;;;;;1;134.832;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314267;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;134.832;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314268;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;141.582;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314269;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;161.582;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314270;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;161.582;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314271;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;161.582;26.84;8.10;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 02:40:03.824297
+76314272;100200;Game stop;;;;;;;;;;;1;176.143;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314273;100500;Turnover;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;176.143;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314274;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;182.422;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314275;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;196.422;26.99;12.75;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314276;800202;2-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;218.444;27.20;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 02:40:03.824297
+76314277;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;218.444;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314278;100200;Game stop;;;;;;;;;;;1;221.830;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314279;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;221.830;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314280;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;236.257;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314281;200300;Pick'n'Roll;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;260.257;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314282;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;260.257;25.67;12.66;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 02:40:03.824297
+76314283;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;260.257;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314284;800302;3-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;274.713;20.66;11.34;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314285;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;274.713;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314286;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;284.727;24.65;2.25;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314287;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;284.727;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314288;800302;3-;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;302.439;26.72;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314289;100200;Game stop;;;;;;;;;;;1;302.439;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314290;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;302.439;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314291;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;312.453;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314292;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;321.453;25.22;2.25;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314293;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;321.453;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314294;800202;2-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;333.869;21.71;6.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314295;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;333.869;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314296;100200;Game stop;;;;;;;;;;;1;333.869;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314297;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;1;333.869;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314298;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;339.368;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314299;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;339.368;27.23;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314300;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;356.100;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314301;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;371.100;26.66;12.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314302;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;371.100;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314303;100400;Steal;1145;Kent Bazemore;79;Atlanta Hawks;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;384.693;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314304;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;400.215;22.13;9.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314305;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;400.215;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314306;800302;3-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;421.894;21.41;12.60;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314307;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;421.894;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314308;100400;Steal;5321;Andrew Wiggins;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;1;441.384;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314309;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;448.799;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314310;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;448.799;25.19;12.66;;;;;;;;Transition;;;;;;2017-12-07 02:40:03.824297
+76314311;100200;Game stop;;;;;;;;;;;1;470.219;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314312;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;1;470.219;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314313;1600500;Guard;12224;Tiago Splitter;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;1;502.010;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314314;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;502.010;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314315;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;502.010;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314316;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;1;502.010;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314317;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;508.711;26.99;7.02;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314318;100300;Rebound;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;508.711;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314319;800201;2+;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;1;521.974;25.97;9.30;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 02:40:03.824297
+76314320;100200;Game stop;;;;;;;;;;;1;538.772;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314321;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;538.772;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314322;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;1;573.523;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314323;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;1145;Kent Bazemore;79;Atlanta Hawks;;;1;573.523;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314324;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1139;Jeff Teague;79;Atlanta Hawks;;;1;573.523;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314325;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;573.523;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314326;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;573.523;26.99;8.28;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 02:40:03.824297
+76314327;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;1;585.239;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314328;800201;2+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;585.239;26.99;7.50;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314329;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;608.443;23.33;9.45;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 02:40:03.824297
+76314330;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;608.443;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314331;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;608.443;27.02;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 02:40:03.824297
+76314332;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;625.534;27.23;6.81;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 02:40:03.824297
+76314333;100200;Game stop;;;;;;;;;;;1;635.417;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314334;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;1;635.417;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314335;1600500;Guard;1124;Justin Holiday;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;1;655.484;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314336;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;655.484;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314337;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;655.484;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314338;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;1;655.484;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314339;200300;Pick'n'Roll;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;655.484;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314340;800301;3+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;655.484;21.26;12.12;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 02:40:03.824297
+76314341;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;667.064;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314342;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;667.064;27.05;7.20;;;;;;;;Post;;Lay up;;;;2017-12-07 02:40:03.824297
+76314343;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;667.064;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314344;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;672.941;26.96;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314345;400101;Accurate pass;1144;Dennis Schroder;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;687.903;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314346;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;687.903;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314347;800301;3+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;687.903;20.09;5.70;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 02:40:03.824297
+76314348;100300;Rebound;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;1;701.528;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314349;100200;Game stop;;;;;;;;;;;1;701.528;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314350;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;12224;Tiago Splitter;79;Atlanta Hawks;;;1;701.528;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314351;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;701.528;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314352;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;1;701.528;26.66;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314353;1600500;Guard;364974;Mike Scott;79;Atlanta Hawks;1140;Paul Millsap;79;Atlanta Hawks;;;1;701.528;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314354;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;726.555;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314355;800302;3-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;740.555;19.79;7.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314356;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;740.555;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314357;100400;Steal;1124;Justin Holiday;79;Atlanta Hawks;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;758.778;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314358;100200;Game stop;;;;;;;;;;;1;758.778;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314359;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;364974;Mike Scott;79;Atlanta Hawks;;;1;758.778;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314360;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;794.936;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314361;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;794.936;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314362;400101;Accurate pass;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;1;794.936;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314363;800301;3+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;12224;Tiago Splitter;1;794.936;26.84;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314364;800600;2F;5307;Zach LaVine;3174;Minnesota Timberwolves;1144;Dennis Schroder;79;Atlanta Hawks;;;1;805.529;27.05;7.62;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314365;100200;Game stop;;;;;;;;;;;1;805.529;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314366;300100;Foul;1144;Dennis Schroder;79;Atlanta Hawks;5307;Zach LaVine;3174;Minnesota Timberwolves;;;1;805.529;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314367;800101;1+;5307;Zach LaVine;3174;Minnesota Timberwolves;1144;Dennis Schroder;79;Atlanta Hawks;;;1;842.998;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314368;800101;1+;5307;Zach LaVine;3174;Minnesota Timberwolves;1144;Dennis Schroder;79;Atlanta Hawks;;;1;856.326;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314369;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;861.469;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314370;100200;Game stop;;;;;;;;;;;1;876.469;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314371;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;12224;Tiago Splitter;79;Atlanta Hawks;;;1;876.469;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314372;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;893.675;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314373;100400;Steal;5307;Zach LaVine;3174;Minnesota Timberwolves;1124;Justin Holiday;79;Atlanta Hawks;;;1;899.675;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314374;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;904.234;26.99;7.26;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314375;400101;Accurate pass;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;914.088;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314376;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;12224;Tiago Splitter;1;914.088;27.08;7.62;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314377;200600;Post;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;930.730;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314378;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;930.730;25.76;8.88;;;;;;;;Post;;Hook;;;;2017-12-07 02:40:03.824297
+76314379;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;930.730;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314380;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;930.730;27.20;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 02:40:03.824297
+76314381;100200;Game stop;;;;;;;;;;;1;952.590;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314382;100500;Turnover;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;1;952.590;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314383;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;963.767;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314384;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;1;975.767;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314385;800301;3+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;975.767;26.57;14.61;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314386;800301;3+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;993.768;19.79;6.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314387;100200;Game stop;;;;;;;;;;;1;1017.199;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314388;300100;Foul;1124;Justin Holiday;79;Atlanta Hawks;90354;Kevin Martina;3174;Minnesota Timberwolves;;;1;1017.199;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314389;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;1045.880;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314390;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;1056.480;23.33;7.26;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 02:40:03.824297
+76314391;100300;Rebound;;;79;Atlanta Hawks;;;;;;;1;1056.480;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314392;800302;3-;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;1;1062.321;3.32;13.65;;;;;;;;;;Jumper;;;;2017-12-07 02:40:03.824297
+76314393;1800500;Halftime;;;;;;;;;;;1;1062.321;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314394;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314395;1600500;Guard;1124;Justin Holiday;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314396;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314397;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314398;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314399;1600500;Guard;364974;Mike Scott;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314400;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314401;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314402;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314403;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314404;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314405;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;6.571;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314406;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;2;24.571;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314407;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;24.571;26.72;7.50;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 02:40:03.824297
+76314408;400101;Accurate pass;1124;Justin Holiday;79;Atlanta Hawks;;;;;364974;Mike Scott;2;46.542;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314409;800201;2+;364974;Mike Scott;79;Atlanta Hawks;;;;;1124;Justin Holiday;2;46.542;23.60;8.67;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 02:40:03.824297
+76314410;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;73.420;26.84;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 02:40:03.824297
+76314411;800302;3-;1124;Justin Holiday;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;90.327;19.94;9.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314412;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;90.327;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314413;800600;2F;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;1124;Justin Holiday;79;Atlanta Hawks;;;2;95.575;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 02:40:03.824297
+76314414;100200;Game stop;;;;;;;;;;;2;95.575;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314415;300100;Foul;1124;Justin Holiday;79;Atlanta Hawks;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;95.575;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314416;800101;1+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;1124;Justin Holiday;79;Atlanta Hawks;;;2;123.866;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314417;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;1144;Dennis Schroder;79;Atlanta Hawks;;;2;144.242;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314418;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;1124;Justin Holiday;79;Atlanta Hawks;;;2;144.242;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314419;800101;1+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;1124;Justin Holiday;79;Atlanta Hawks;;;2;144.242;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314420;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;147.784;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314421;400101;Accurate pass;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;364974;Mike Scott;2;158.784;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314422;800301;3+;364974;Mike Scott;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;2;158.784;20.48;11.37;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314423;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;184.056;21.11;3.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314424;100300;Rebound;364974;Mike Scott;79;Atlanta Hawks;;;;;;;2;184.056;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314425;100200;Game stop;;;;;;;;;;;2;191.852;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314426;100500;Turnover;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;191.852;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314427;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;202.944;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314428;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;221.944;26.99;7.62;;;;;;;;;;Lay up;;;;2017-12-07 02:40:03.824297
+76314429;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;2;221.944;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314430;800202;2-;364974;Mike Scott;79;Atlanta Hawks;;;;;;;2;231.289;23.90;2.88;;;;;;;;Cut;;Jumper;;;;2017-12-07 02:40:03.824297
+76314431;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;231.289;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314432;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;2;238.621;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314433;200600;Post;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;238.621;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314434;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;238.621;27.08;7.20;;;;;;;;Post;;Lay up;;;;2017-12-07 02:40:03.824297
+76314435;200600;Post;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;252.760;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314436;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;252.760;26.72;3.48;;;;;;;;Post;;Jumper;;;;2017-12-07 02:40:03.824297
+76314437;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;264.587;27.05;8.19;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 02:40:03.824297
+76314438;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;279.390;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314439;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;279.390;21.56;5.64;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 02:40:03.824297
+76314440;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;279.390;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314441;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;2;286.751;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314442;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;286.751;23.75;7.44;;;;;;;;Transition;;Hook;;;;2017-12-07 02:40:03.824297
+76314443;100200;Game stop;;;;;;;;;;;2;311.281;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314444;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;2;311.281;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314445;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;311.281;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314446;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;311.281;23.45;7.56;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314447;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;2;324.939;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314448;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;324.939;26.99;7.74;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314449;100200;Game stop;;;;;;;;;;;2;324.939;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314450;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;2;324.939;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314451;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;353.095;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314452;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;353.095;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314453;800202;2-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;2;353.095;21.65;10.05;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314454;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;353.095;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314455;100400;Steal;1146;Thabo Sefolosha;79;Atlanta Hawks;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;365.414;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314456;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;364974;Mike Scott;2;371.003;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314457;800201;2+;364974;Mike Scott;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;371.003;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 02:40:03.824297
+76314458;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;2;377.017;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314459;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;377.017;27.23;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314460;100400;Steal;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;2;388.748;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314461;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;2;394.969;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314462;800500;3+1;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;394.969;26.12;14.61;;;;;;;;Transition;;Jumper;;;;2017-12-07 02:40:03.824297
+76314463;100200;Game stop;;;;;;;;;;;2;394.969;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314464;300100;Foul;1139;Jeff Teague;79;Atlanta Hawks;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;394.969;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314465;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;2;430.055;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314466;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;364974;Mike Scott;79;Atlanta Hawks;;;2;430.055;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314467;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;430.055;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314468;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;2;430.055;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314469;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;442.984;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314470;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;442.984;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314471;100200;Game stop;;;;;;;;;;;2;442.984;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314472;300100;Foul;90354;Kevin Martina;3174;Minnesota Timberwolves;1147;Kyle Korver;79;Atlanta Hawks;;;2;442.984;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314473;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;454.360;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314474;800302;3-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;459.360;19.79;8.22;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314475;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;459.360;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314476;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;477.381;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314477;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;477.381;26.96;7.26;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314478;400101;Accurate pass;1147;Kyle Korver;79;Atlanta Hawks;;;;;1140;Paul Millsap;2;490.712;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314479;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1147;Kyle Korver;2;490.712;26.96;8.19;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314480;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;507.452;23.57;14.28;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314481;100300;Rebound;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;507.452;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314482;100200;Game stop;;;;;;;;;;;2;516.091;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314483;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;2;516.091;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314484;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;544.265;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314485;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;544.265;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314486;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;544.265;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314487;800302;3-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;544.265;27.05;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314488;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;2;544.265;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314489;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;2;552.549;22.73;3.96;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314490;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;552.549;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314491;100200;Game stop;;;;;;;;;;;2;559.780;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314492;300100;Foul;1139;Jeff Teague;79;Atlanta Hawks;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;559.780;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314493;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1139;Jeff Teague;79;Atlanta Hawks;;;2;597.404;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314494;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;597.404;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314495;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;597.404;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314496;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;597.404;26.84;12.03;;;;;;;;Post;;;;;;2017-12-07 02:40:03.824297
+76314497;800301;3+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;609.331;21.56;2.64;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314498;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;627.175;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314499;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1143;Al Horford;79;Atlanta Hawks;;;2;627.175;27.05;7.62;;;;;;;;Pick'n'pop;;;Drives Right;;;2017-12-07 02:40:03.824297
+76314500;100200;Game stop;;;;;;;;;;;2;627.175;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314501;300100;Foul;1143;Al Horford;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;627.175;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314502;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1143;Al Horford;79;Atlanta Hawks;;;2;650.476;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314503;800102;1-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1143;Al Horford;79;Atlanta Hawks;;;2;663.538;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314504;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;663.538;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314505;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;663.538;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314506;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;1145;Kent Bazemore;2;681.086;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314507;800201;2+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1143;Al Horford;2;681.086;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314508;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;690.763;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314509;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;690.763;24.20;2.64;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314510;800202;2-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;705.855;23.72;12.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314511;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;2;705.855;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314512;200600;Post;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;2;727.256;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314513;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;2;727.256;26.57;12.06;;;;;;;;Post;;Jumper;;;;2017-12-07 02:40:03.824297
+76314514;100200;Game stop;;;;;;;;;;;2;727.256;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314515;100300;Rebound;;;79;Atlanta Hawks;;;;;;;2;727.256;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314516;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;2;761.810;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314517;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;761.810;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314518;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;761.810;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314519;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;761.810;27.20;8.13;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 02:40:03.824297
+76314520;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;2;761.810;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314521;100200;Game stop;;;;;;;;;;;2;798.998;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314522;1600500;Guard;364974;Mike Scott;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;2;798.998;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314523;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;798.998;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314524;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;798.998;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314525;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;798.998;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 02:40:03.824297
+76314526;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;2;805.322;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314527;100200;Game stop;;;;;;;;;;;2;806.359;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314528;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;806.359;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314529;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;806.359;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314530;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;2;806.359;26.78;6.21;;;;;;;;;;Lay up;;;;2017-12-07 02:40:03.824297
+76314531;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;806.359;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314532;100200;Game stop;;;;;;;;;;;2;806.359;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314533;1800600;Timeout;;;;;;;;;;;2;806.359;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314534;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;2;837.807;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 02:40:03.824297
+76314535;300100;Foul;1140;Paul Millsap;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;837.807;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314536;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;865.761;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314537;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;2;865.761;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314538;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;2;880.584;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314539;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;881.285;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314540;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;895.285;26.57;9.96;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 02:40:03.824297
+76314541;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;895.285;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314542;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;913.016;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314543;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;913.016;25.97;1.65;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314544;400101;Accurate pass;1144;Dennis Schroder;79;Atlanta Hawks;;;;;1140;Paul Millsap;2;928.052;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314545;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;928.052;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314546;800301;3+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;928.052;19.94;9.84;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 02:40:03.824297
+76314547;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;946.414;26.27;1.80;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314548;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;946.414;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314549;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;946.414;27.08;7.50;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 02:40:03.824297
+76314550;100200;Game stop;;;;;;;;;;;2;965.257;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314551;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;2;965.257;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314552;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;982.099;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314553;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;988.099;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314554;800302;3-;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;988.099;21.56;2.94;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 02:40:03.824297
+76314555;100200;Game stop;;;;;;;;;;;2;988.099;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314556;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;988.099;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314557;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;1017.062;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314558;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1017.062;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314559;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;1017.062;22.73;3.63;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314560;100400;Steal;5307;Zach LaVine;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;2;1034.583;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314561;800301;3+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;1041.740;19.79;7.59;;;;;;;;Transition;;;;;;2017-12-07 02:40:03.824297
+76314562;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;1067.078;26.57;10.74;;;;;;;;Cut;;Jumper;;;;2017-12-07 02:40:03.824297
+76314563;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;1067.078;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314564;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;1085.893;22.25;7.59;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 02:40:03.824297
+76314565;800600;2F;1139;Jeff Teague;79;Atlanta Hawks;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;1096.024;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 02:40:03.824297
+76314566;100200;Game stop;;;;;;;;;;;2;1096.024;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314567;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;2;1096.024;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314568;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;1114.837;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314569;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;1145;Kent Bazemore;79;Atlanta Hawks;;;2;1136.487;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314570;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;1136.487;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314571;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1139.358;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314572;100200;Game stop;;;;;;;;;;;2;1142.058;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314573;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;1142.058;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314574;1600500;Guard;1124;Justin Holiday;79;Atlanta Hawks;1139;Jeff Teague;79;Atlanta Hawks;;;2;1165.682;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314575;1600500;Guard;12224;Tiago Splitter;79;Atlanta Hawks;364974;Mike Scott;79;Atlanta Hawks;;;2;1165.682;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314576;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1165.682;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314577;800302;3-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;1165.682;20.21;10.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314578;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;1165.682;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314579;1800500;Halftime;;;;;;;;;;;2;1165.682;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314580;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314581;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314582;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314583;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314584;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314585;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314586;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314587;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314588;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314589;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314590;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314591;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;0.971;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314592;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;13.971;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314593;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;13.971;21.83;9.27;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314594;100200;Game stop;;;;;;;;;;;3;28.031;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314595;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;3;28.031;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314596;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;37.589;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314597;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1143;Al Horford;3;45.589;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314598;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;45.589;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314599;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;45.589;21.83;8.73;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 02:40:03.824297
+76314600;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;3;57.644;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314601;200300;Pick'n'Roll;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;57.644;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314602;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;57.644;22.82;3.33;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 02:40:03.824297
+76314603;100200;Game stop;;;;;;;;;;;3;66.748;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314604;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;3;66.748;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314605;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;82.634;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314606;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;89.634;24.20;12.69;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314607;100200;Game stop;;;;;;;;;;;3;89.634;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314608;100300;Rebound;;;79;Atlanta Hawks;;;;;;;3;89.634;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314609;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;106.833;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314610;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1147;Kyle Korver;3;112.833;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314611;800301;3+;1147;Kyle Korver;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;112.833;21.83;2.43;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314612;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;128.415;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314613;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;128.415;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314614;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;128.415;22.13;8.82;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 02:40:03.824297
+76314615;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;139.557;26.57;7.35;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 02:40:03.824297
+76314616;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;139.557;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314617;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;152.573;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314618;800301;3+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;152.573;21.35;12.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314619;800400;2+1;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;166.657;27.20;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 02:40:03.824297
+76314620;100200;Game stop;;;;;;;;;;;3;166.657;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314621;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;3;166.657;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314622;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;190.626;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314623;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;194.538;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314624;100200;Game stop;;;;;;;;;;;3;206.538;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314625;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;3;206.538;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314626;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;206.538;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314627;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;219.966;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314628;800302;3-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;229.966;20.21;10.53;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 02:40:03.824297
+76314629;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;229.966;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314630;100200;Game stop;;;;;;;;;;;3;234.172;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314631;100500;Turnover;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;3;234.172;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314632;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;244.590;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314633;400101;Accurate pass;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;255.590;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314634;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;255.590;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314635;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;270.262;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314636;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;270.262;25.22;7.80;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 02:40:03.824297
+76314637;100200;Game stop;;;;;;;;;;;3;270.262;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314638;100300;Rebound;;;79;Atlanta Hawks;;;;;;;3;270.262;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314639;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;284.472;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314640;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;291.472;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314641;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;291.472;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314642;800400;2+1;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;291.472;26.81;7.11;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 02:40:03.824297
+76314643;100200;Game stop;;;;;;;;;;;3;291.472;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314644;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;3;291.472;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314645;800102;1-;1140;Paul Millsap;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;314.956;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314646;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;314.956;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314647;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;314.956;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314648;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;330.970;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314649;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;330.970;21.41;6.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314650;200600;Post;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;348.895;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314651;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;348.895;27.08;7.98;;;;;;;;Post;;Lay up;;;;2017-12-07 02:40:03.824297
+76314652;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;348.895;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314653;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;361.408;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314654;800201;2+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;361.408;26.81;8.10;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 02:40:03.824297
+76314655;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;377.187;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314656;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;377.187;26.72;6.51;;;;;;;;Pick'n'pop;;Hook;;;;2017-12-07 02:40:03.824297
+76314657;100300;Rebound;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;3;377.187;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314658;400101;Accurate pass;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;385.431;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314659;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;385.431;25.10;7.62;;;;;;;;Transition;;;;;;2017-12-07 02:40:03.824297
+76314660;100200;Game stop;;;;;;;;;;;3;385.431;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314661;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;3;385.431;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314662;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;394.421;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314663;100200;Game stop;;;;;;;;;;;3;403.421;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314664;100500;Turnover;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;403.421;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314665;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;3;403.421;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314666;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;413.597;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314667;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1143;Al Horford;3;423.597;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314668;800301;3+;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;423.597;20.81;11.49;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314669;100200;Game stop;;;;;;;;;;;3;446.981;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314670;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;446.981;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314671;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;467.985;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314672;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;476.985;24.50;12.75;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314673;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;3;476.985;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314674;800202;2-;1147;Kyle Korver;79;Atlanta Hawks;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;493.578;27.20;8.10;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314675;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;493.578;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314676;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;505.165;27.08;8.19;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 02:40:03.824297
+76314677;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;505.165;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314678;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;512.631;26.81;7.35;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 02:40:03.824297
+76314679;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;520.852;26.96;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314680;100400;Steal;1145;Kent Bazemore;79;Atlanta Hawks;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;531.041;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314681;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;538.146;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314682;800301;3+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;538.146;19.64;7.17;;;;;;;;Transition;;Jumper;;;;2017-12-07 02:40:03.824297
+76314683;100200;Game stop;;;;;;;;;;;3;553.397;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314684;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;3;553.397;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314685;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;581.454;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314686;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;581.454;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314687;100400;Steal;1143;Al Horford;79;Atlanta Hawks;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;581.454;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314688;400101;Accurate pass;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;584.498;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314689;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;584.498;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 02:40:03.824297
+76314690;100200;Game stop;;;;;;;;;;;3;637.260;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314691;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;637.260;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314692;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;637.260;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314693;100200;Game stop;;;;;;;;;;;3;637.260;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314694;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;637.260;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314695;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;643.943;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314696;800301;3+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;657.943;20.09;9.99;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314697;100200;Game stop;;;;;;;;;;;3;677.655;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314698;100500;Turnover;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;677.655;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314699;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;681.170;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314700;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;691.170;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314701;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;1143;Al Horford;3;691.170;27.08;7.80;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 02:40:03.824297
+76314702;200300;Pick'n'Roll;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;715.935;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314703;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;715.935;20.36;11.19;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 02:40:03.824297
+76314704;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;715.935;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314705;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;747.456;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314706;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;747.456;22.25;10.80;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 02:40:03.824297
+76314707;800302;3-;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;761.702;20.81;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314708;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;761.702;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314709;200300;Pick'n'Roll;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;773.498;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314710;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;5307;Zach LaVine;3;773.498;26.96;8.13;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 02:40:03.824297
+76314711;100200;Game stop;;;;;;;;;;;3;773.498;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314712;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;773.498;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314713;1600500;Guard;12224;Tiago Splitter;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;3;803.210;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314714;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;3;803.210;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314715;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;3;803.210;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314716;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;803.210;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314717;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;803.210;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314718;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;3;803.210;21.41;10.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314719;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;814.017;26.84;9.18;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 02:40:03.824297
+76314720;100200;Game stop;;;;;;;;;;;3;833.187;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314721;100500;Turnover;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;833.187;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314722;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1145;Kent Bazemore;79;Atlanta Hawks;;;3;865.847;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314723;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;865.847;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314724;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;865.847;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314725;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;865.847;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314726;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;865.847;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314727;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;865.847;27.08;8.34;;;;;;;;Post;;Lay up;;;;2017-12-07 02:40:03.824297
+76314728;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;3;881.491;26.57;11.97;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 02:40:03.824297
+76314729;100200;Game stop;;;;;;;;;;;3;881.491;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314730;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;881.491;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314731;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;903.927;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314732;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;903.927;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314733;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;903.927;26.66;8.82;;;;;;;;Screen off;;;;;;2017-12-07 02:40:03.824297
+76314734;100200;Game stop;;;;;;;;;;;3;903.927;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314735;100300;Rebound;;;79;Atlanta Hawks;;;;;;;3;903.927;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314736;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;911.617;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314737;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;12224;Tiago Splitter;3;920.617;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314738;800201;2+;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;920.617;27.23;8.19;;;;;;;;Cut;;Lay up;;;;2017-12-07 02:40:03.824297
+76314739;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;937.669;19.79;7.35;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314740;100300;Rebound;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;937.669;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314741;100400;Steal;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;3;946.640;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314742;100400;Steal;1146;Thabo Sefolosha;79;Atlanta Hawks;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;3;956.122;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314743;800201;2+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;3;959.468;26.99;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314744;100400;Steal;1144;Dennis Schroder;79;Atlanta Hawks;5307;Zach LaVine;3174;Minnesota Timberwolves;;;3;976.028;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314745;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;987.722;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314746;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;987.722;26.72;12.60;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 02:40:03.824297
+76314747;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;3;1008.063;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314748;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;1008.063;26.51;9.66;;;;;;;;Cut;;Jumper;;;;2017-12-07 02:40:03.824297
+76314749;400101;Accurate pass;1144;Dennis Schroder;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;3;1019.526;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314750;800301;3+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;1019.526;26.84;14.58;;;;;;;;Transition;;Jumper;;;;2017-12-07 02:40:03.824297
+76314751;100400;Steal;1139;Jeff Teague;79;Atlanta Hawks;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1038.642;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314752;100400;Steal;5307;Zach LaVine;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;3;1045.500;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314753;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;3;1071.048;22.13;9.66;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 02:40:03.824297
+76314754;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;1071.048;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314755;1800500;Halftime;;;;;;;;;;;3;1071.048;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314756;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314757;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314758;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314759;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314760;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314761;1600500;Guard;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314762;1600500;Guard;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314763;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314764;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314765;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314766;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314767;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;8.034;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314768;800202;2-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;18.034;22.82;4.05;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314769;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;18.034;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314770;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;29.543;20.51;10.80;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314771;100300;Rebound;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;4;29.543;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314772;800302;3-;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;4;56.258;26.57;0.66;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314773;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;56.258;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314774;100400;Steal;1145;Kent Bazemore;79;Atlanta Hawks;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;76.992;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314775;800302;3-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1143;Al Horford;4;94.794;20.18;5.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314776;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;94.794;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314777;800600;2F;1143;Al Horford;79;Atlanta Hawks;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;94.794;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 02:40:03.824297
+76314778;100200;Game stop;;;;;;;;;;;4;94.794;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314779;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;1143;Al Horford;79;Atlanta Hawks;;;4;94.794;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314780;300300;Technical foul;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;140.716;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314781;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;140.716;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314782;800101;1+;1143;Al Horford;79;Atlanta Hawks;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;170.939;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314783;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;170.939;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314784;800101;1+;1143;Al Horford;79;Atlanta Hawks;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;188.044;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314785;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;191.904;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314786;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;209.904;21.83;11.04;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314787;100300;Rebound;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;209.904;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314788;100200;Game stop;;;;;;;;;;;4;223.256;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314789;300100;Foul;1173;Andre Miller;3174;Minnesota Timberwolves;12224;Tiago Splitter;79;Atlanta Hawks;;;4;223.256;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314790;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;236.144;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314791;800301;3+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;242.144;19.94;8.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314792;400101;Accurate pass;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;4;260.673;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314793;200300;Pick'n'Roll;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;260.673;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314794;800301;3+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;260.673;19.64;7.89;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 02:40:03.824297
+76314795;100200;Game stop;;;;;;;;;;;4;275.053;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314796;100500;Turnover;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;275.053;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314797;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;287.264;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314798;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;298.264;26.96;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 02:40:03.824297
+76314799;100300;Rebound;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;4;298.264;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314800;800302;3-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;317.810;19.88;9.60;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 02:40:03.824297
+76314801;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;317.810;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314802;100200;Game stop;;;;;;;;;;;4;321.038;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314803;300100;Foul;1146;Thabo Sefolosha;79;Atlanta Hawks;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;321.038;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314804;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;4;353.559;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314805;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;353.559;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314806;100400;Steal;1145;Kent Bazemore;79;Atlanta Hawks;1173;Andre Miller;3174;Minnesota Timberwolves;;;4;353.559;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314807;100200;Game stop;;;;;;;;;;;4;353.559;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314808;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;4;353.559;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314809;1800600;Timeout;;;;;;;;;;;4;353.559;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314810;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;366.890;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314811;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;1145;Kent Bazemore;4;385.890;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314812;800201;2+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1143;Al Horford;4;385.890;27.08;7.11;;;;;;;;Cut;;;;;;2017-12-07 02:40:03.824297
+76314813;400101;Accurate pass;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;4;428.531;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314814;800301;3+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;4;428.531;20.81;11.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314815;100400;Steal;1173;Andre Miller;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;4;448.591;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314816;800202;2-;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;;;4;454.134;27.20;7.65;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314817;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;454.134;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314818;400101;Accurate pass;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1143;Al Horford;4;459.571;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314819;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1145;Kent Bazemore;4;459.571;27.02;7.62;;;;;;;;Transition;;;;;;2017-12-07 02:40:03.824297
+76314820;800600;2F;90354;Kevin Martina;3174;Minnesota Timberwolves;1147;Kyle Korver;79;Atlanta Hawks;;;4;483.623;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 02:40:03.824297
+76314821;100200;Game stop;;;;;;;;;;;4;483.623;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314822;300100;Foul;1147;Kyle Korver;79;Atlanta Hawks;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;483.623;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314823;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;1147;Kyle Korver;79;Atlanta Hawks;;;4;508.273;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314824;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;1145;Kent Bazemore;79;Atlanta Hawks;;;4;530.035;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314825;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;12224;Tiago Splitter;79;Atlanta Hawks;;;4;530.035;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314826;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;1173;Andre Miller;3174;Minnesota Timberwolves;;;4;530.035;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314827;800102;1-;90354;Kevin Martina;3174;Minnesota Timberwolves;1147;Kyle Korver;79;Atlanta Hawks;;;4;530.035;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314828;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;530.035;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314829;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;530.035;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314830;400101;Accurate pass;1144;Dennis Schroder;79;Atlanta Hawks;;;;;1143;Al Horford;4;537.931;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314831;800301;3+;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;537.931;20.18;10.14;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314832;100200;Game stop;;;;;;;;;;;4;554.668;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314833;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;554.668;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314834;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;582.948;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314835;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;582.948;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314836;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;582.948;22.58;7.74;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 02:40:03.824297
+76314837;100200;Game stop;;;;;;;;;;;4;594.876;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314838;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;594.876;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314839;1600500;Guard;12224;Tiago Splitter;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;4;626.647;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314840;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;626.647;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314841;100400;Steal;1140;Paul Millsap;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;626.647;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314842;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;629.604;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314843;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;4;629.604;26.96;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 02:40:03.824297
+76314844;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;650.529;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314845;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1147;Kyle Korver;79;Atlanta Hawks;;;4;650.529;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 02:40:03.824297
+76314846;100200;Game stop;;;;;;;;;;;4;650.529;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314847;300100;Foul;1147;Kyle Korver;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;650.529;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314848;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1147;Kyle Korver;79;Atlanta Hawks;;;4;677.430;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314849;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;692.088;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314850;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1147;Kyle Korver;79;Atlanta Hawks;;;4;692.088;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314851;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;694.961;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314852;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1147;Kyle Korver;4;714.961;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314853;800201;2+;1147;Kyle Korver;79;Atlanta Hawks;;;;;1140;Paul Millsap;4;714.961;25.37;4.74;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 02:40:03.824297
+76314854;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;739.040;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314855;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;739.040;25.91;4.56;;;;;;;;Post;;Jumper;;;;2017-12-07 02:40:03.824297
+76314856;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;739.040;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314857;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;739.040;26.99;7.80;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 02:40:03.824297
+76314858;800302;3-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;750.595;20.75;11.37;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314859;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;750.595;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314860;100400;Steal;1140;Paul Millsap;79;Atlanta Hawks;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;770.274;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314861;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;4;785.895;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314862;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;785.895;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 02:40:03.824297
+76314863;800400;2+1;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;785.895;26.72;7.59;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 02:40:03.824297
+76314864;100200;Game stop;;;;;;;;;;;4;785.895;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314865;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;1144;Dennis Schroder;79;Atlanta Hawks;;;4;785.895;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314866;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1140;Paul Millsap;79;Atlanta Hawks;;;4;785.895;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314867;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;823.812;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314868;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;12224;Tiago Splitter;79;Atlanta Hawks;;;4;823.812;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314869;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;826.460;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314870;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;846.460;21.71;2.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314871;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;846.460;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314872;100200;Game stop;;;;;;;;;;;4;852.795;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314873;100500;Turnover;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;852.795;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314874;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;865.372;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314875;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;4;879.372;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 02:40:03.824297
+76314876;100200;Game stop;;;;;;;;;;;4;879.372;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314877;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;879.372;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314878;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;4;907.570;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314879;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;4;925.086;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314880;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;925.086;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314881;100200;Game stop;;;;;;;;;;;4;925.086;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314882;100300;Rebound;;;79;Atlanta Hawks;;;;;;;4;925.086;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314883;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;953.700;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314884;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;969.700;26.84;7.02;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 02:40:03.824297
+76314885;800400;2+1;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;985.806;26.96;7.17;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 02:40:03.824297
+76314886;100200;Game stop;;;;;;;;;;;4;985.806;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314887;300100;Foul;1143;Al Horford;79;Atlanta Hawks;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;985.806;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314888;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;1143;Al Horford;79;Atlanta Hawks;;;4;1010.377;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314889;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1012.621;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314890;800202;2-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;1029.621;21.71;5.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314891;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1029.621;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314892;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;1046.247;25.10;2.01;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314893;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;1046.247;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314894;100200;Game stop;;;;;;;;;;;4;1056.744;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314895;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;4;1056.744;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314896;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1081.866;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314897;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;1088.866;26.84;7.05;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 02:40:03.824297
+76314898;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1088.866;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314899;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1105.898;22.88;3.51;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 02:40:03.824297
+76314900;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1122.491;25.67;9.30;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 02:40:03.824297
+76314901;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;1122.491;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314902;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;1157.702;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314903;800400;2+1;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1157.702;22.28;8.82;;;;;;;;Screen off;;Jumper;;;;2017-12-07 02:40:03.824297
+76314904;100200;Game stop;;;;;;;;;;;4;1157.702;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314905;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1157.702;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314906;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;1145;Kent Bazemore;79;Atlanta Hawks;;;4;1184.006;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314907;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1184.006;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314908;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;1184.006;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314909;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1191.596;26.27;6.33;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 02:40:03.824297
+76314910;100200;Game stop;;;;;;;;;;;4;1191.596;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314911;100300;Rebound;;;79;Atlanta Hawks;;;;;;;4;1191.596;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314912;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1207.788;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314913;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1212.788;26.57;7.50;;;;;;;;Screen off;;Lay up;;;;2017-12-07 02:40:03.824297
+76314914;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;1212.788;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314915;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1237.859;24.89;1.56;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 02:40:03.824297
+76314916;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;1237.859;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314917;100200;Game stop;;;;;;;;;;;4;1243.884;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314918;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1243.884;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314919;100500;Turnover;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;1243.884;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314920;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;1243.884;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314921;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;1145;Kent Bazemore;79;Atlanta Hawks;;;4;1271.470;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314922;1600500;Guard;1124;Justin Holiday;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;4;1271.470;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314923;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1271.470;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314924;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;4;1271.470;27.05;7.62;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314925;100200;Game stop;;;;;;;;;;;4;1271.470;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314926;300100;Foul;1139;Jeff Teague;79;Atlanta Hawks;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1271.470;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314927;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;4;1289.513;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314928;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;1139;Jeff Teague;79;Atlanta Hawks;;;4;1304.063;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314929;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;4;1304.063;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314930;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;4;1329.024;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314931;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1124;Justin Holiday;79;Atlanta Hawks;;;4;1329.024;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314932;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1329.024;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314933;800302;3-;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;1329.024;19.49;7.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314934;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;1329.024;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314935;800302;3-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;1335.850;19.64;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 02:40:03.824297
+76314936;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1335.850;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314937;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1143;Al Horford;79;Atlanta Hawks;;;4;1337.666;27.05;7.62;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314938;100200;Game stop;;;;;;;;;;;4;1337.666;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314939;300100;Foul;1143;Al Horford;79;Atlanta Hawks;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1337.666;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314940;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1143;Al Horford;79;Atlanta Hawks;;;4;1368.645;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314941;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;1143;Al Horford;79;Atlanta Hawks;;;4;1377.953;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314942;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1383.151;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+76314943;800302;3-;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;1390.351;20.90;3.24;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 02:40:03.824297
+76314944;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1390.351;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+76314945;1800700;Match end;;;;;;;;;;;4;1410.151;;;;;;;;;;;;;;;;2017-12-07 02:40:03.824297
+103724096;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;91.106;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724098;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;109.205;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724100;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;161.582;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724102;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;196.422;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724104;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;339.368;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724106;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;448.799;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724108;200900;Assisting;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;1;521.974;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724110;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;573.523;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724112;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;585.239;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724114;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;608.443;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724116;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;625.534;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724118;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;655.484;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724120;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;672.941;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724122;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;687.903;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724124;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;12224;Tiago Splitter;1;794.936;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724126;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;805.529;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724128;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;904.234;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724130;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;12224;Tiago Splitter;1;914.088;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724132;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;930.730;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724134;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;975.767;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724136;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;993.768;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724138;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;1056.480;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724140;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;24.571;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724142;200900;Assisting;364974;Mike Scott;79;Atlanta Hawks;;;;;1124;Justin Holiday;2;46.542;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724144;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;73.420;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724146;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;95.575;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724148;200900;Assisting;364974;Mike Scott;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;2;158.784;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724150;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;238.621;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724152;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;252.760;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724154;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;264.587;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724156;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;286.751;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724158;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;311.281;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724160;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;324.939;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724162;200900;Assisting;364974;Mike Scott;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;371.003;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724164;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;377.017;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724166;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;394.969;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724168;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;2;477.381;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724170;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1147;Kyle Korver;2;490.712;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724172;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;597.404;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724174;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;609.331;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724176;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;627.175;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724178;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1143;Al Horford;2;681.086;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724180;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;690.763;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724182;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;798.998;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724184;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;837.807;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724186;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;913.016;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724188;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;928.052;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724190;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;946.414;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724192;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;1017.062;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724194;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;1041.740;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724196;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;1085.893;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724198;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;1096.024;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724200;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;13.971;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724202;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;45.589;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724204;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;57.644;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724206;200900;Assisting;1147;Kyle Korver;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;112.833;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724208;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;128.415;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724210;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;152.573;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724212;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;166.657;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724214;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;255.590;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724216;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;291.472;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724218;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;330.970;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724220;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;361.408;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724222;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;385.431;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724224;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;423.597;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724226;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;512.631;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724228;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;520.852;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724230;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;538.146;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724232;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;584.498;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724234;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;657.943;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724236;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;1143;Al Horford;3;691.170;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724238;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;747.456;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724240;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;3;803.210;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724242;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;814.017;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724244;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;865.847;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724246;200900;Assisting;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;920.617;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724248;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;3;959.468;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724250;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;987.722;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724252;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;1008.063;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724254;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;1019.526;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724256;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;94.794;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724258;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;242.144;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724260;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;260.673;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724262;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1143;Al Horford;4;385.890;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724264;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;4;428.531;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724266;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1145;Kent Bazemore;4;459.571;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724268;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;483.623;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724270;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;537.931;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724272;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;582.948;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724274;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;4;629.604;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724276;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;650.529;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724278;200900;Assisting;1147;Kyle Korver;79;Atlanta Hawks;;;;;1140;Paul Millsap;4;714.961;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724280;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;739.040;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724282;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;785.895;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724284;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;879.372;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724286;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;969.700;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724288;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;985.806;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724290;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1105.898;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724292;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1157.702;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724294;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1271.470;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629
+103724296;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1337.666;;;;;;;;;;;;;;;;2018-04-19 12:00:05.295629

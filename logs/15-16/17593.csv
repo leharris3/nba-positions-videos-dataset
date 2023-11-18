@@ -1,0 +1,698 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+19538256;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;0.000;;;1;Start;3173;New York Knicks;1;0.000;20.000;;;;;;;2019-10-24 13:51:00.212206
+19538257;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;19.000;;;100;End;3173;New York Knicks;1;0.000;20.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538258;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;22.000;;;1;Start;13;Los Angeles Clippers;2;22.000;33.000;;;;;;;2017-08-02 18:23:01.54983
+19538259;800301;3+;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;33.000;;;100;End;13;Los Angeles Clippers;2;22.000;33.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538260;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;49.000;;;100;End;3173;New York Knicks;3;33.000;50.000;;;Hook;;;;2017-08-02 18:23:01.54983
+19538261;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;66.000;;;2;Possession;13;Los Angeles Clippers;4;50.000;66.000;;;;;;;2017-08-02 18:23:01.54983
+19538262;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;66.000;;;100;End;13;Los Angeles Clippers;4;50.000;66.000;;;Jumper;;;;2019-03-11 06:18:34.850187
+19538263;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;78.000;;;100;End;3173;New York Knicks;5;66.000;78.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538265;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;176;Paul Pierce;1;92.000;;;2;Possession;13;Los Angeles Clippers;6;80.000;92.000;;;;;;;2017-08-02 18:23:01.54983
+19538266;800301;3+;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;92.000;;;100;End;13;Los Angeles Clippers;6;80.000;92.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538264;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;82.000;;;1;Start;13;Los Angeles Clippers;6;80.000;92.000;;;;;;;2017-08-02 18:23:01.54983
+19538267;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;108.000;;;2;Possession;3173;New York Knicks;7;92.000;109.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538270;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;115.000;;;100;End;3173;New York Knicks;7;92.000;109.000;;;;;;;2017-08-02 18:23:01.54983
+19538269;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;1;111.000;;;2;Possession;3173;New York Knicks;7;92.000;109.000;;;;;;;2017-08-02 18:23:01.54983
+19538268;100200;Game stop;;;;;;;;;;;1;111.000;;;2;Possession;3173;New York Knicks;7;92.000;109.000;;;;;;;2017-08-02 18:23:01.54983
+19538272;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;139.000;;;100;End;13;Los Angeles Clippers;8;109.000;125.000;;;Jumper;;;;2019-03-11 06:18:34.850187
+19538271;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;123.000;;;1;Start;13;Los Angeles Clippers;8;109.000;125.000;;;;;;;2019-10-24 13:51:00.212206
+19538274;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;146.000;;;2;Possession;3173;New York Knicks;9;127.000;131.000;;;;;;;2017-08-02 18:23:01.54983
+19538275;800301;3+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;146.000;;;100;End;3173;New York Knicks;9;127.000;131.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538273;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;141.000;;;1;Start;3173;New York Knicks;9;127.000;131.000;;;;;;;2017-08-02 18:23:01.54983
+19538277;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;170.000;;;100;End;13;Los Angeles Clippers;10;131.000;149.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538276;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;1;170.000;;;2;Possession;13;Los Angeles Clippers;10;131.000;149.000;;;;;;;2017-08-02 18:23:01.54983
+19538278;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;188.000;;;100;End;3173;New York Knicks;11;149.000;167.000;;;Jumper;;Spin move;;2017-08-02 18:23:01.54983
+19538280;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;189.000;;;100;End;3173;New York Knicks;12;169.000;169.000;;;Tip in;;;;2017-08-02 18:23:01.54983
+19538279;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;189.000;;;1;Start;3173;New York Knicks;12;169.000;169.000;;;;;;;2017-08-02 18:23:01.54983
+19538282;100500;Turnover;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;203.000;;;2;Possession;13;Los Angeles Clippers;13;170.000;182.000;;;;;;;2017-08-02 18:23:01.54983
+19538281;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;192.000;;;1;Start;13;Los Angeles Clippers;13;170.000;182.000;;;;;;;2017-08-02 18:23:01.54983
+20597927;100200;Game stop;;;;;;;;;;;1;203.000;;;100;End;13;Los Angeles Clippers;13;170.000;182.000;;;;;;;2017-08-23 11:03:54.404213
+20597928;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;208.000;;;1;Start;3173;New York Knicks;14;182.000;202.000;;;;;;;2019-10-24 13:51:00.212206
+19538283;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;228.000;;;100;End;3173;New York Knicks;14;182.000;202.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538284;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;229.000;;;1;Start;13;Los Angeles Clippers;15;204.000;213.000;;;;;;;2017-08-02 18:23:01.54983
+19538285;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;1;239.000;;;2;Possession;13;Los Angeles Clippers;15;204.000;213.000;;;;;;;2017-08-02 18:23:01.54983
+19538286;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;239.000;;;100;End;13;Los Angeles Clippers;15;204.000;213.000;;;Dunk;;;;2017-08-02 18:23:01.54983
+20597929;100200;Game stop;;;;;;;;;;;1;262.000;;;100;End;3173;New York Knicks;16;213.000;236.000;;;;;;;2017-08-23 11:03:54.404213
+19538287;100500;Turnover;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;262.000;;;2;Possession;3173;New York Knicks;16;213.000;236.000;;;;;;;2017-08-02 18:23:01.54983
+20597930;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;263.000;;;1;Start;13;Los Angeles Clippers;17;236.000;251.000;;;;;;;2019-10-24 13:51:00.212206
+19538289;800201;2+;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;278.000;;;100;End;13;Los Angeles Clippers;17;236.000;251.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538288;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;176;Paul Pierce;1;278.000;;;2;Possession;13;Los Angeles Clippers;17;236.000;251.000;;;;;;;2017-08-02 18:23:01.54983
+19538290;100200;Game stop;;;;;;;;;;;1;287.000;;;2;Possession;3173;New York Knicks;18;251.000;258.000;;;;;;;2017-08-02 18:23:01.54983
+19538291;1800600;Timeout;;;3173;New York Knicks;;;;;;;1;287.000;;;100;End;3173;New York Knicks;18;251.000;258.000;;;;;;;2017-08-02 18:23:01.54983
+19538292;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;436.000;;;1;Start;3173;New York Knicks;19;258.000;267.000;;;;;;;2019-10-24 13:51:00.212206
+19538293;800302;3-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;445.000;;;100;End;3173;New York Knicks;19;258.000;267.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538294;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;446.000;;;1;Start;3173;New York Knicks;20;269.000;269.000;;;;;;;2017-08-02 18:23:01.54983
+19538295;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;447.000;;;100;End;3173;New York Knicks;20;269.000;269.000;;;Tip in;;;;2017-08-02 18:23:01.54983
+19538296;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;448.000;;;1;Start;13;Los Angeles Clippers;21;280.000;292.000;;;;;;;2017-08-02 18:23:01.54983
+19538297;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;469.000;;;100;End;13;Los Angeles Clippers;21;280.000;292.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538298;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;471.000;;;1;Start;3173;New York Knicks;22;293.000;301.000;;;;;;;2017-08-02 18:23:01.54983
+19538299;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;478.000;;;100;End;3173;New York Knicks;22;293.000;301.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538301;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;479.000;;;100;End;3173;New York Knicks;23;302.000;302.000;;;Tip in;;;;2017-08-02 18:23:01.54983
+19538300;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;479.000;;;1;Start;3173;New York Knicks;23;302.000;302.000;;;;;;;2017-08-02 18:23:01.54983
+19538303;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;502.000;;;100;End;13;Los Angeles Clippers;24;304.000;324.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538302;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;481.000;;;1;Start;13;Los Angeles Clippers;24;304.000;324.000;;;;;;;2019-03-11 06:18:34.850187
+19538305;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;513.000;;;100;End;3173;New York Knicks;25;326.000;335.000;;;Jumper;;Spin move;;2017-08-02 18:23:01.54983
+19538304;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;503.000;;;1;Start;3173;New York Knicks;25;326.000;335.000;;;;;;;2017-08-02 18:23:01.54983
+19538306;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;514.000;;;1;Start;13;Los Angeles Clippers;26;337.000;345.000;;;;;;;2017-08-02 18:23:01.54983
+19538307;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;523.000;;;100;End;13;Los Angeles Clippers;26;337.000;345.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538310;100200;Game stop;;;;;;;;;;;1;534.000;;;2;Possession;3173;New York Knicks;27;347.000;355.000;;;;;;;2017-08-02 18:23:01.54983
+19538311;300100;Foul;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6029;Carmelo Anthony;3173;New York Knicks;;;1;534.000;;;100;End;3173;New York Knicks;27;347.000;355.000;;;;;;;2017-08-02 18:23:01.54983
+19538314;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;554.000;;;;;3173;New York Knicks;27;347.000;355.000;;;;;;;2017-08-02 18:23:01.54983
+19538308;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;524.000;;;1;Start;3173;New York Knicks;27;347.000;355.000;;;;;;;2017-08-02 18:23:01.54983
+19538309;800400;2+1;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;534.000;;;2;Possession;3173;New York Knicks;27;347.000;355.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538317;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;593.000;;;100;End;13;Los Angeles Clippers;28;355.000;371.000;;;Jumper;;;;2019-03-11 06:18:34.850187
+19538315;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;577.000;;;1;Start;13;Los Angeles Clippers;28;355.000;371.000;;;;;;;2019-10-24 13:51:00.212206
+19538316;400101;Accurate pass;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;593.000;;;2;Possession;13;Los Angeles Clippers;28;355.000;371.000;;;;;;;2017-08-02 18:23:01.54983
+20597931;100200;Game stop;;;;;;;;;;;1;611.000;;;100;End;3173;New York Knicks;29;371.000;389.000;;;;;;;2017-08-23 11:03:54.404213
+19538318;100500;Turnover;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;611.000;;;2;Possession;3173;New York Knicks;29;371.000;389.000;;;;;;;2017-08-02 18:23:01.54983
+19538319;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;1;626.000;;;2;Possession;13;Los Angeles Clippers;30;389.000;397.000;;;;;;;2017-08-02 18:23:01.54983
+19538320;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;626.000;;;100;End;13;Los Angeles Clippers;30;389.000;397.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+20597932;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;618.000;;;1;Start;13;Los Angeles Clippers;30;389.000;397.000;;;;;;;2019-10-24 13:51:00.212206
+19538321;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;637.000;;;100;End;3173;New York Knicks;31;397.000;409.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538322;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;638.000;;;1;Start;13;Los Angeles Clippers;32;411.000;417.000;;;;;;;2017-08-02 18:23:01.54983
+19538324;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;645.000;;;100;End;13;Los Angeles Clippers;32;411.000;417.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538323;400101;Accurate pass;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;1;645.000;;;2;Possession;13;Los Angeles Clippers;32;411.000;417.000;;;;;;;2017-08-02 18:23:01.54983
+19538325;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;669.000;;;2;Possession;3173;New York Knicks;33;417.000;436.000;;;;;;;2017-08-02 18:23:01.54983
+19538331;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;712.000;;;;;3173;New York Knicks;33;417.000;436.000;;;;;;;2017-08-02 18:23:01.54983
+19538328;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;681.000;;;;;3173;New York Knicks;33;417.000;436.000;;;;;;;2017-08-02 18:23:01.54983
+19538327;300100;Foul;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6029;Carmelo Anthony;3173;New York Knicks;;;1;669.000;;;100;End;3173;New York Knicks;33;417.000;436.000;;;;;;;2017-08-02 18:23:01.54983
+19538326;100200;Game stop;;;;;;;;;;;1;669.000;;;2;Possession;3173;New York Knicks;33;417.000;436.000;;;;;;;2017-08-02 18:23:01.54983
+20597933;100200;Game stop;;;;;;;;;;;1;735.000;;;100;End;13;Los Angeles Clippers;34;436.000;441.000;;;;;;;2017-08-23 11:03:54.404213
+19538333;100500;Turnover;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;735.000;;;2;Possession;13;Los Angeles Clippers;34;436.000;441.000;;;;;;;2019-03-11 06:18:34.850187
+19538332;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;730.000;;;1;Start;13;Los Angeles Clippers;34;436.000;441.000;;;;;;;2019-10-24 13:51:00.212206
+19538335;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;758.000;;;100;End;3173;New York Knicks;35;441.000;454.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+20597934;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;745.000;;;1;Start;3173;New York Knicks;35;441.000;454.000;;;;;;;2019-10-24 13:51:00.212206
+19538334;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;8329;Derrick Williams;1;758.000;;;2;Possession;3173;New York Knicks;35;441.000;454.000;;;;;;;2017-08-02 18:23:01.54983
+19538337;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;179;Chris Paul;13;Los Angeles Clippers;;;1;785.000;;;100;End;13;Los Angeles Clippers;36;454.000;472.000;;;;;;;2017-08-02 18:23:01.54983
+19538336;100200;Game stop;;;;;;;;;;;1;785.000;;;2;Possession;13;Los Angeles Clippers;36;454.000;472.000;;;;;;;2017-08-02 18:23:01.54983
+19538338;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;795.000;;;1;Start;13;Los Angeles Clippers;37;472.000;485.000;;;;;;;2019-10-24 13:51:00.212206
+19538339;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;808.000;;;100;End;13;Los Angeles Clippers;37;472.000;485.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538341;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;810.000;;;100;End;13;Los Angeles Clippers;38;487.000;487.000;;;Dunk;;;;2017-08-02 18:23:01.54983
+19538340;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;810.000;;;1;Start;13;Los Angeles Clippers;38;487.000;487.000;;;;;;;2017-08-02 18:23:01.54983
+19538342;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;1;821.000;;;2;Possession;3173;New York Knicks;39;487.000;497.000;;;;;;;2017-08-02 18:23:01.54983
+19538343;800301;3+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;821.000;;;100;End;3173;New York Knicks;39;487.000;497.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538345;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;838.000;;;100;End;13;Los Angeles Clippers;40;497.000;515.000;;;Dunk;;;;2017-08-02 18:23:01.54983
+19538344;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;1;838.000;;;2;Possession;13;Los Angeles Clippers;40;497.000;515.000;;;;;;;2017-08-02 18:23:01.54983
+19538347;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;854.000;;;100;End;3173;New York Knicks;41;515.000;531.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538346;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;854.000;;;2;Possession;3173;New York Knicks;41;515.000;531.000;;;;;;;2017-08-02 18:23:01.54983
+19538348;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;1;868.000;;;2;Possession;13;Los Angeles Clippers;42;531.000;544.000;;;;;;;2017-08-02 18:23:01.54983
+19538349;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;868.000;;;100;End;13;Los Angeles Clippers;42;531.000;544.000;;;Dunk;;;;2017-08-02 18:23:01.54983
+19538350;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;886.000;;;100;End;3173;New York Knicks;43;544.000;562.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538352;400101;Accurate pass;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;1;907.000;;;2;Possession;13;Los Angeles Clippers;44;564.000;582.000;;;;;;;2017-08-02 18:23:01.54983
+19538353;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;907.000;;;100;End;13;Los Angeles Clippers;44;564.000;582.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538351;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;887.000;;;1;Start;13;Los Angeles Clippers;44;564.000;582.000;;;;;;;2017-08-02 18:23:01.54983
+19538354;100200;Game stop;;;;;;;;;;;1;924.000;;;2;Possession;3173;New York Knicks;45;582.000;590.000;;;;;;;2017-08-02 18:23:01.54983
+19538356;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;1;930.000;;;100;End;3173;New York Knicks;45;582.000;590.000;;;;;;;2017-08-02 18:23:01.54983
+19538355;1800600;Timeout;;;3173;New York Knicks;;;;;;;1;924.000;;;2;Possession;3173;New York Knicks;45;582.000;590.000;;;;;;;2017-08-02 18:23:01.54983
+19538366;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;1145.000;;;;;3173;New York Knicks;46;590.000;608.000;;;;;;;2017-08-02 18:23:01.54983
+19538360;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;1107.000;;;1;Start;3173;New York Knicks;46;590.000;608.000;;;;;;;2019-10-24 13:51:00.212206
+19538361;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;1125.000;;;2;Possession;3173;New York Knicks;46;590.000;608.000;;;;;;;2017-08-02 18:23:01.54983
+19538362;100200;Game stop;;;;;;;;;;;1;1125.000;;;2;Possession;3173;New York Knicks;46;590.000;608.000;;;;;;;2017-08-02 18:23:01.54983
+19538363;300100;Foul;7503;Wesley Johnson;13;Los Angeles Clippers;6029;Carmelo Anthony;3173;New York Knicks;;;1;1125.000;;;100;End;3173;New York Knicks;46;590.000;608.000;;;;;;;2017-08-02 18:23:01.54983
+19538364;800102;1-;6029;Carmelo Anthony;3173;New York Knicks;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;1135.000;;;;;3173;New York Knicks;46;590.000;608.000;;;;;;;2017-08-02 18:23:01.54983
+19538368;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;1177.000;;;100;End;13;Los Angeles Clippers;47;608.000;620.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538367;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;1165.000;;;1;Start;13;Los Angeles Clippers;47;608.000;620.000;;;;;;;2019-10-24 13:51:00.212206
+19538370;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;1191.000;;;100;End;3173;New York Knicks;48;622.000;633.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538369;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;1179.000;;;1;Start;3173;New York Knicks;48;622.000;633.000;;;;;;;2017-08-02 18:23:01.54983
+19538371;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;1192.000;;;1;Start;13;Los Angeles Clippers;49;635.000;646.000;;;;;;;2017-08-02 18:23:01.54983
+19538372;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;1204.000;;;100;End;13;Los Angeles Clippers;49;635.000;646.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538373;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;1205.000;;;1;Start;3173;New York Knicks;50;648.000;654.000;;;;;;;2017-08-02 18:23:01.54983
+19538374;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;1212.000;;;100;End;3173;New York Knicks;50;648.000;654.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538375;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;1214.000;;;1;Start;3173;New York Knicks;51;656.000;656.000;;;;;;;2017-08-02 18:23:01.54983
+19538376;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;1215.000;;;100;End;3173;New York Knicks;51;656.000;656.000;;;Dunk;;;;2017-08-02 18:23:01.54983
+19538377;100200;Game stop;;;;;;;;;;;1;1234.000;;;2;Possession;13;Los Angeles Clippers;52;656.000;673.200;;;;;;;2017-08-02 18:23:01.54983
+19538378;300100;Foul;7776;Jerian Grant;3173;New York Knicks;179;Chris Paul;13;Los Angeles Clippers;;;1;1234.000;;;100;End;13;Los Angeles Clippers;52;656.000;673.200;;;;;;;2017-08-02 18:23:01.54983
+19538381;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;1269.000;;;1;Start;13;Los Angeles Clippers;53;673.200;682.200;;;;;;;2019-10-24 13:51:00.212206
+19538382;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1278.000;;;100;End;13;Los Angeles Clippers;53;673.200;682.200;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538385;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;1290.000;;;100;End;3173;New York Knicks;54;684.100;692.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538383;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;1280.000;;;1;Start;3173;New York Knicks;54;684.100;692.000;;;;;;;2017-08-02 18:23:01.54983
+19538384;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;8329;Derrick Williams;1;1290.000;;;2;Possession;3173;New York Knicks;54;684.100;692.000;;;;;;;2017-08-02 18:23:01.54983
+19538386;100400;Steal;6029;Carmelo Anthony;3173;New York Knicks;180;Jamal Crawford;13;Los Angeles Clippers;;;1;1322.000;;;100;End;13;Los Angeles Clippers;55;692.000;712.100;;;;;;;2017-08-02 18:23:01.54983
+19538387;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;8329;Derrick Williams;1;1325.000;;;2;Possession;3173;New York Knicks;56;712.100;715.200;;;;;;;2017-08-02 18:23:01.54983
+19538388;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;1325.000;;;100;End;3173;New York Knicks;56;712.100;715.200;;;Dunk;;;;2017-08-02 18:23:01.54983
+19538389;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;1;1334.000;;;100;End;13;Los Angeles Clippers;57;715.200;719.200;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538404;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;2;34.000;;;2;Possession;13;Los Angeles Clippers;58;0.000;18.000;;;;;;;2017-08-02 18:23:01.54983
+19538405;800201;2+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;34.000;;;100;End;13;Los Angeles Clippers;58;0.000;18.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538403;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;0.000;;;1;Start;13;Los Angeles Clippers;58;0.000;18.000;;;;;;;2019-10-24 13:51:00.212206
+19538406;800202;2-;6031;Kyle O'Quinn;3173;New York Knicks;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;48.000;;;100;End;3173;New York Knicks;59;18.000;32.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538408;100400;Steal;7660;Cole Aldrich;13;Los Angeles Clippers;6031;Kyle O'Quinn;3173;New York Knicks;;;2;53.000;;;100;End;3173;New York Knicks;60;34.000;37.000;;;;;;;2017-08-02 18:23:01.54983
+19538407;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;50.000;;;1;Start;3173;New York Knicks;60;34.000;37.000;;;;;;;2017-08-02 18:23:01.54983
+19538409;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;65.000;;;100;End;13;Los Angeles Clippers;61;37.000;49.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538411;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;81.000;;;100;End;3173;New York Knicks;62;51.000;64.000;;;Jumper;;;;2017-09-27 07:19:02.720815
+19538410;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;66.000;;;1;Start;3173;New York Knicks;62;51.000;64.000;;;;;;;2017-08-02 18:23:01.54983
+19538412;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;82.000;;;1;Start;13;Los Angeles Clippers;63;66.000;74.000;;;;;;;2017-08-02 18:23:01.54983
+19538413;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;90.000;;;100;End;13;Los Angeles Clippers;63;66.000;74.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538415;800201;2+;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;108.000;;;100;End;3173;New York Knicks;64;74.000;92.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538414;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;6031;Kyle O'Quinn;2;108.000;;;2;Possession;3173;New York Knicks;64;74.000;92.000;;;;;;;2017-08-02 18:23:01.54983
+19538416;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;124.000;;;100;End;13;Los Angeles Clippers;65;92.000;107.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538419;300100;Foul;8329;Derrick Williams;3173;New York Knicks;8964;Pablo Prigioni;13;Los Angeles Clippers;;;2;136.000;;;2;Possession;3173;New York Knicks;66;109.000;118.000;;;;;;;2017-08-02 18:23:01.54983
+19538417;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;125.000;;;1;Start;3173;New York Knicks;66;109.000;118.000;;;;;;;2017-08-02 18:23:01.54983
+19538418;100200;Game stop;;;;;;;;;;;2;136.000;;;2;Possession;3173;New York Knicks;66;109.000;118.000;;;;;;;2017-08-02 18:23:01.54983
+19538420;100500;Turnover;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;136.000;;;100;End;3173;New York Knicks;66;109.000;118.000;;;;;;;2017-08-02 18:23:01.54983
+19538422;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;171.000;;;100;End;13;Los Angeles Clippers;67;118.000;139.000;;;Hook;;;;2017-08-02 18:23:01.54983
+19538421;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;150.000;;;1;Start;13;Los Angeles Clippers;67;118.000;139.000;;;;;;;2019-10-24 13:51:00.212206
+19538424;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;369815;Langston Galloway;2;184.000;;;2;Possession;3173;New York Knicks;68;140.000;151.000;;;;;;;2017-08-02 18:23:01.54983
+19538423;100300;Rebound;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;172.000;;;1;Start;3173;New York Knicks;68;140.000;151.000;;;;;;;2017-08-02 18:23:01.54983
+19538425;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;184.000;;;100;End;3173;New York Knicks;68;140.000;151.000;;;Jumper;;;;2017-09-27 07:19:02.720815
+19538426;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;199.000;;;100;End;13;Los Angeles Clippers;69;151.000;167.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538429;100200;Game stop;;;;;;;;;;;2;241.000;;;2;Possession;3173;New York Knicks;70;169.000;181.000;;;;;;;2017-08-02 18:23:01.54983
+19538430;1800600;Timeout;;;;;;;;;;;2;241.000;;;100;End;3173;New York Knicks;70;169.000;181.000;;;;;;;2017-08-02 18:23:01.54983
+19538428;100500;Turnover;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;222.000;;;2;Possession;3173;New York Knicks;70;169.000;181.000;;;;;;;2017-08-02 18:23:01.54983
+19538427;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;201.000;;;1;Start;3173;New York Knicks;70;169.000;181.000;;;;;;;2017-09-27 07:19:02.720815
+19538431;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;375.000;;;1;Start;13;Los Angeles Clippers;71;181.000;194.000;;;;;;;2019-10-24 13:51:00.212206
+19538432;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;388.000;;;100;End;13;Los Angeles Clippers;71;181.000;194.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538434;800202;2-;7493;Arron Afflalo;3173;New York Knicks;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;402.000;;;100;End;3173;New York Knicks;72;196.000;207.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538433;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;390.000;;;1;Start;3173;New York Knicks;72;196.000;207.000;;;;;;;2017-08-02 18:23:01.54983
+19538435;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;403.000;;;1;Start;13;Los Angeles Clippers;73;210.000;218.000;;;;;;;2017-08-02 18:23:01.54983
+19538436;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;413.000;;;100;End;13;Los Angeles Clippers;73;210.000;218.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538437;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;415.000;;;1;Start;13;Los Angeles Clippers;74;220.000;222.000;;;;;;;2017-08-02 18:23:01.54983
+19538438;100400;Steal;8329;Derrick Williams;3173;New York Knicks;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;420.000;;;100;End;13;Los Angeles Clippers;74;220.000;222.000;;;;;;;2017-08-02 18:23:01.54983
+19538439;100200;Game stop;;;;;;;;;;;2;427.000;;;2;Possession;3173;New York Knicks;75;222.000;223.000;;;;;;;2017-08-02 18:23:01.54983
+19538440;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;8329;Derrick Williams;3173;New York Knicks;;;2;427.000;;;100;End;3173;New York Knicks;75;222.000;223.000;;;;;;;2017-08-02 18:23:01.54983
+19538441;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;435.000;;;1;Start;3173;New York Knicks;76;223.000;237.000;;;;;;;2019-10-24 13:51:00.212206
+19538442;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;6031;Kyle O'Quinn;2;449.000;;;2;Possession;3173;New York Knicks;76;223.000;237.000;;;;;;;2017-08-02 18:23:01.54983
+19538443;800201;2+;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;449.000;;;100;End;3173;New York Knicks;76;223.000;237.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538444;400101;Accurate pass;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;467.000;;;2;Possession;13;Los Angeles Clippers;77;237.000;255.000;;;;;;;2017-08-02 18:23:01.54983
+19538445;800301;3+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;467.000;;;100;End;13;Los Angeles Clippers;77;237.000;255.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538446;100500;Turnover;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;492.000;;;2;Possession;3173;New York Knicks;78;255.000;278.000;;;;;;;2017-08-02 18:23:01.54983
+19538447;100200;Game stop;;;;;;;;;;;2;497.000;;;100;End;3173;New York Knicks;78;255.000;278.000;;;;;;;2017-08-02 18:23:01.54983
+19538450;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;531.000;;;100;End;13;Los Angeles Clippers;79;278.000;297.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538449;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;512.000;;;1;Start;13;Los Angeles Clippers;79;278.000;297.000;;;;;;;2019-10-24 13:51:00.212206
+19538451;100400;Steal;8964;Pablo Prigioni;13;Los Angeles Clippers;6031;Kyle O'Quinn;3173;New York Knicks;;;2;543.000;;;100;End;3173;New York Knicks;80;297.000;307.000;;;;;;;2017-08-02 18:23:01.54983
+19538453;300100;Foul;7776;Jerian Grant;3173;New York Knicks;8964;Pablo Prigioni;13;Los Angeles Clippers;;;2;549.000;;;100;End;13;Los Angeles Clippers;81;307.000;308.000;;;;;;;2017-08-02 18:23:01.54983
+19538452;100200;Game stop;;;;;;;;;;;2;549.000;;;2;Possession;13;Los Angeles Clippers;81;307.000;308.000;;;;;;;2017-08-02 18:23:01.54983
+19538457;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;570.000;;;1;Start;13;Los Angeles Clippers;82;308.000;318.000;;;;;;;2019-10-24 13:51:00.212206
+19538458;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;580.000;;;100;End;13;Los Angeles Clippers;82;308.000;318.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538459;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;582.000;;;1;Start;3173;New York Knicks;83;320.000;335.000;;;;;;;2017-08-02 18:23:01.54983
+19538460;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;597.000;;;100;End;3173;New York Knicks;83;320.000;335.000;;;Jumper;;;;2017-09-27 07:19:02.720815
+19538461;800302;3-;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;615.000;;;100;End;13;Los Angeles Clippers;84;335.000;353.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538462;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;616.000;;;1;Start;3173;New York Knicks;85;355.000;359.000;;;;;;;2017-09-27 07:19:02.720815
+19538463;100400;Steal;8964;Pablo Prigioni;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;2;621.000;;;100;End;3173;New York Knicks;85;355.000;359.000;;;;;;;2017-08-02 18:23:01.54983
+19538465;800301;3+;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;632.000;;;100;End;13;Los Angeles Clippers;86;359.000;370.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538464;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;2;632.000;;;2;Possession;13;Los Angeles Clippers;86;359.000;370.000;;;;;;;2017-08-02 18:23:01.54983
+19538466;100200;Game stop;;;;;;;;;;;2;642.000;;;2;Possession;3173;New York Knicks;87;370.000;379.000;;;;;;;2017-08-02 18:23:01.54983
+19538467;1800600;Timeout;;;3173;New York Knicks;;;;;;;2;642.000;;;100;End;3173;New York Knicks;87;370.000;379.000;;;;;;;2017-08-02 18:23:01.54983
+19538471;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;2;801.000;;;2;Possession;3173;New York Knicks;88;379.000;392.000;;;;;;;2017-08-02 18:23:01.54983
+19538472;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;2;801.000;;;2;Possession;3173;New York Knicks;88;379.000;392.000;;;;;;;2017-08-02 18:23:01.54983
+19538473;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;796.000;;;1;Start;3173;New York Knicks;88;379.000;392.000;;;;;;;2019-10-24 13:51:00.212206
+19538474;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;2;809.000;;;2;Possession;3173;New York Knicks;88;379.000;392.000;;;;;;;2017-08-02 18:23:01.54983
+19538475;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;809.000;;;100;End;3173;New York Knicks;88;379.000;392.000;;;Hook;;;;2017-08-02 18:23:01.54983
+20597935;100200;Game stop;;;;;;;;;;;2;827.000;;;100;End;13;Los Angeles Clippers;89;392.000;411.000;;;;;;;2017-08-23 11:03:54.404213
+19538476;100500;Turnover;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;827.000;;;2;Possession;13;Los Angeles Clippers;89;392.000;411.000;;;;;;;2017-08-02 18:23:01.54983
+20597936;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;838.000;;;1;Start;3173;New York Knicks;90;411.000;422.000;;;;;;;2019-10-24 13:51:00.212206
+19538477;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;849.000;;;2;Possession;3173;New York Knicks;90;411.000;422.000;;;;;;;2017-09-27 07:19:02.720815
+19538478;800201;2+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;849.000;;;100;End;3173;New York Knicks;90;411.000;422.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538479;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;865.000;;;100;End;13;Los Angeles Clippers;91;422.000;439.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538482;300100;Foul;176;Paul Pierce;13;Los Angeles Clippers;6029;Carmelo Anthony;3173;New York Knicks;;;2;875.000;;;100;End;3173;New York Knicks;92;441.000;445.000;;;;;;;2017-08-02 18:23:01.54983
+19538480;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;867.000;;;1;Start;3173;New York Knicks;92;441.000;445.000;;;;;;;2017-08-02 18:23:01.54983
+19538481;100200;Game stop;;;;;;;;;;;2;875.000;;;2;Possession;3173;New York Knicks;92;441.000;445.000;;;;;;;2017-08-02 18:23:01.54983
+19538483;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;889.000;;;1;Start;3173;New York Knicks;93;445.000;454.000;;;;;;;2019-10-24 13:51:00.212206
+19538484;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;898.000;;;100;End;3173;New York Knicks;93;445.000;454.000;;;Hook;;;;2017-08-02 18:23:01.54983
+19538486;400101;Accurate pass;176;Paul Pierce;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;2;909.000;;;2;Possession;13;Los Angeles Clippers;94;456.000;465.000;;;;;;;2017-08-02 18:23:01.54983
+19538487;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;909.000;;;100;End;13;Los Angeles Clippers;94;456.000;465.000;;;Dunk;;;;2017-08-02 18:23:01.54983
+19538485;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;899.000;;;1;Start;13;Los Angeles Clippers;94;456.000;465.000;;;;;;;2017-08-02 18:23:01.54983
+19538488;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;926.000;;;100;End;3173;New York Knicks;95;465.000;482.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538489;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;927.000;;;1;Start;3173;New York Knicks;96;484.000;486.000;;;;;;;2017-08-02 18:23:01.54983
+19538490;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;6030;Robin Lopez;3173;New York Knicks;;;2;929.000;;;100;End;3173;New York Knicks;96;484.000;486.000;;;;;;;2017-08-02 18:23:01.54983
+19538491;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;934.000;;;100;End;13;Los Angeles Clippers;97;486.000;490.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538492;100400;Steal;176;Paul Pierce;13;Los Angeles Clippers;6028;Kristaps Porzingis;3173;New York Knicks;;;2;951.000;;;100;End;3173;New York Knicks;98;490.000;507.000;;;;;;;2017-08-02 18:23:01.54983
+19538493;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;2;955.000;;;2;Possession;13;Los Angeles Clippers;99;507.000;512.000;;;;;;;2017-08-02 18:23:01.54983
+19538494;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;955.000;;;100;End;13;Los Angeles Clippers;99;507.000;512.000;;;Dunk;;;;2017-08-02 18:23:01.54983
+19538495;800201;2+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;967.000;;;100;End;3173;New York Knicks;100;512.000;523.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538496;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;6029;Carmelo Anthony;3173;New York Knicks;;;2;984.000;;;100;End;13;Los Angeles Clippers;101;523.000;540.000;;;Jumper;;;;2019-03-11 06:18:34.850187
+19538497;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;986.000;;;1;Start;3173;New York Knicks;102;543.000;552.000;;;;;;;2017-08-02 18:23:01.54983
+19538498;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;995.000;;;100;End;3173;New York Knicks;102;543.000;552.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538503;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;1001.000;;;100;End;13;Los Angeles Clippers;103;553.000;554.000;;;;;;;2017-08-02 18:23:01.54983
+19538501;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1000.000;;;1;Start;13;Los Angeles Clippers;103;553.000;554.000;;;;;;;2019-10-24 13:51:00.212206
+19538502;100200;Game stop;;;;;;;;;;;2;1001.000;;;2;Possession;13;Los Angeles Clippers;103;553.000;554.000;;;;;;;2017-08-02 18:23:01.54983
+19538507;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1152.000;;;1;Start;13;Los Angeles Clippers;104;554.000;574.000;;;;;;;2019-10-24 13:51:00.212206
+19538508;100400;Steal;7493;Arron Afflalo;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1172.000;;;100;End;13;Los Angeles Clippers;104;554.000;574.000;;;;;;;2017-08-02 18:23:01.54983
+19538509;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;8329;Derrick Williams;2;1185.000;;;2;Possession;3173;New York Knicks;105;574.000;587.000;;;;;;;2017-08-02 18:23:01.54983
+19538513;800101;1+;8329;Derrick Williams;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1197.000;;;;;3173;New York Knicks;105;574.000;587.000;;;;;;;2017-08-02 18:23:01.54983
+19538512;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;8329;Derrick Williams;3173;New York Knicks;;;2;1186.000;;;100;End;3173;New York Knicks;105;574.000;587.000;;;;;;;2017-08-02 18:23:01.54983
+19538511;100200;Game stop;;;;;;;;;;;2;1186.000;;;2;Possession;3173;New York Knicks;105;574.000;587.000;;;;;;;2017-08-02 18:23:01.54983
+19538510;800400;2+1;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;1185.000;;;2;Possession;3173;New York Knicks;105;574.000;587.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538514;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1215.000;;;1;Start;13;Los Angeles Clippers;106;587.000;602.000;;;;;;;2019-10-24 13:51:00.212206
+19538515;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;1230.000;;;2;Possession;13;Los Angeles Clippers;106;587.000;602.000;;;;;;;2017-08-02 18:23:01.54983
+19538516;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;1230.000;;;100;End;13;Los Angeles Clippers;106;587.000;602.000;;;Jumper;;;;2019-03-11 06:18:34.850187
+19538517;100400;Steal;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6029;Carmelo Anthony;3173;New York Knicks;;;2;1249.000;;;100;End;3173;New York Knicks;107;602.000;621.000;;;;;;;2017-08-02 18:23:01.54983
+19538521;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1271.000;;;;;13;Los Angeles Clippers;108;621.000;632.000;;;;;;;2017-08-02 18:23:01.54983
+19538518;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1262.000;;;100;End;13;Los Angeles Clippers;108;621.000;632.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538523;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1301.000;;;1;Start;13;Los Angeles Clippers;109;633.000;646.000;;;;;;;2019-10-24 13:51:00.212206
+19538524;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;1314.000;;;100;End;13;Los Angeles Clippers;109;633.000;646.000;;;Jumper;;;;2019-03-11 06:18:34.850187
+19538525;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;1315.000;;;1;Start;3173;New York Knicks;110;648.000;662.100;;;;;;;2017-08-02 18:23:01.54983
+19538526;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1331.000;;;100;End;3173;New York Knicks;110;648.000;662.100;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538528;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;1334.000;;;100;End;3173;New York Knicks;111;665.100;665.100;;;Tip in;;;;2017-08-02 18:23:01.54983
+19538527;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;1333.000;;;1;Start;3173;New York Knicks;111;665.100;665.100;;;;;;;2017-08-02 18:23:01.54983
+19538529;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1335.000;;;1;Start;13;Los Angeles Clippers;112;667.100;672.700;;;;;;;2017-08-02 18:23:01.54983
+19538530;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;176;Paul Pierce;2;1342.000;;;2;Possession;13;Los Angeles Clippers;112;667.100;672.700;;;;;;;2017-08-02 18:23:01.54983
+19538531;800301;3+;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;1342.000;;;100;End;13;Los Angeles Clippers;112;667.100;672.700;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538532;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;1369.000;;;2;Possession;3173;New York Knicks;113;672.700;689.400;;;;;;;2017-08-02 18:23:01.54983
+19538534;300100;Foul;7503;Wesley Johnson;13;Los Angeles Clippers;6029;Carmelo Anthony;3173;New York Knicks;;;2;1369.000;;;100;End;3173;New York Knicks;113;672.700;689.400;;;;;;;2017-08-02 18:23:01.54983
+19538535;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;1377.000;;;;;3173;New York Knicks;113;672.700;689.400;;;;;;;2017-08-02 18:23:01.54983
+19538533;100200;Game stop;;;;;;;;;;;2;1369.000;;;2;Possession;3173;New York Knicks;113;672.700;689.400;;;;;;;2017-08-02 18:23:01.54983
+19538536;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;1400.000;;;;;3173;New York Knicks;113;672.700;689.400;;;;;;;2017-08-02 18:23:01.54983
+19538540;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;6028;Kristaps Porzingis;3173;New York Knicks;;;2;1453.000;;;;;13;Los Angeles Clippers;114;689.400;689.600;;;;;;;2017-08-02 18:23:01.54983
+19538537;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1441.800;;;1;Start;13;Los Angeles Clippers;114;689.400;689.600;;;;;;;2019-10-24 13:51:00.212206
+19538538;100200;Game stop;;;;;;;;;;;2;1442.000;;;2;Possession;13;Los Angeles Clippers;114;689.400;689.600;;;;;;;2017-08-02 18:23:01.54983
+19538539;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1442.000;;;100;End;13;Los Angeles Clippers;114;689.400;689.600;;;;;;;2017-08-02 18:23:01.54983
+19538542;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;6028;Kristaps Porzingis;3173;New York Knicks;;;2;1456.000;;;;;13;Los Angeles Clippers;114;689.400;689.600;;;;;;;2017-08-02 18:23:01.54983
+19538543;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;1474.400;;;1;Start;3173;New York Knicks;115;689.600;705.000;;;;;;;2019-10-24 13:51:00.212206
+19538544;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;1475.000;;;2;Possession;3173;New York Knicks;115;689.600;705.000;;;;;;;2017-08-02 18:23:01.54983
+19538545;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6028;Kristaps Porzingis;2;1490.000;;;2;Possession;3173;New York Knicks;115;689.600;705.000;;;;;;;2017-08-02 18:23:01.54983
+19538546;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;1490.000;;;2;Possession;3173;New York Knicks;115;689.600;705.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538547;100200;Game stop;;;;;;;;;;;2;1499.000;;;2;Possession;3173;New York Knicks;115;689.600;705.000;;;;;;;2017-08-02 18:23:01.54983
+19538548;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;1499.000;;;100;End;3173;New York Knicks;115;689.600;705.000;;;;;;;2017-08-02 18:23:01.54983
+19538553;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1596.000;;;100;End;13;Los Angeles Clippers;116;705.000;718.200;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538552;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1582.800;;;1;Start;13;Los Angeles Clippers;116;705.000;718.200;;;;;;;2019-10-24 13:51:00.212206
+19538555;1800500;Halftime;;;;;;;;;;;2;1605.000;;;100;End;3173;New York Knicks;117;719.400;720.000;;;;;;;2017-08-02 18:23:01.54983
+19538554;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;1597.000;;;1;Start;3173;New York Knicks;117;719.400;720.000;;;;;;;2017-08-02 18:23:01.54983
+19538567;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;0.000;;;1;Start;13;Los Angeles Clippers;118;0.000;22.000;;;;;;;2019-10-24 13:51:00.212206
+19538568;800202;2-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;23.000;;;100;End;13;Los Angeles Clippers;118;0.000;22.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538570;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;40.000;;;100;End;3173;New York Knicks;119;24.000;40.000;;;Jumper;;Spin move;;2017-08-02 18:23:01.54983
+19538569;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;24.000;;;1;Start;3173;New York Knicks;119;24.000;40.000;;;;;;;2017-08-02 18:23:01.54983
+19538571;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;43.000;;;1;Start;3173;New York Knicks;120;42.000;42.000;;;;;;;2017-08-02 18:23:01.54983
+19538572;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;43.000;;;100;End;3173;New York Knicks;120;42.000;42.000;;;Tip in;;;;2017-08-02 18:23:01.54983
+19538573;100200;Game stop;;;;;;;;;;;3;56.000;;;2;Possession;13;Los Angeles Clippers;121;42.000;51.000;;;;;;;2017-08-02 18:23:01.54983
+19538574;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;9150;JJ Redick;13;Los Angeles Clippers;;;3;56.000;;;100;End;13;Los Angeles Clippers;121;42.000;51.000;;;;;;;2017-08-02 18:23:01.54983
+19538575;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;63.000;;;1;Start;13;Los Angeles Clippers;122;51.000;68.000;;;;;;;2019-10-24 13:51:00.212206
+19538576;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;80.000;;;100;End;13;Los Angeles Clippers;122;51.000;68.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538578;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;93.000;;;100;End;3173;New York Knicks;123;70.000;82.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538577;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;82.000;;;1;Start;3173;New York Knicks;123;70.000;82.000;;;;;;;2017-08-02 18:23:01.54983
+20597937;100200;Game stop;;;;;;;;;;;3;100.000;;;100;End;13;Los Angeles Clippers;124;83.000;87.000;;;;;;;2017-08-23 11:03:54.404213
+19538579;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;96.000;;;1;Start;13;Los Angeles Clippers;124;83.000;87.000;;;;;;;2017-08-02 18:23:01.54983
+19538580;100500;Turnover;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;100.000;;;2;Possession;13;Los Angeles Clippers;124;83.000;87.000;;;;;;;2017-08-02 18:23:01.54983
+19538581;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;135.000;;;100;End;3173;New York Knicks;125;87.000;110.000;;;;;;;2017-08-02 18:23:01.54983
+20597938;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;112.000;;;1;Start;3173;New York Knicks;125;87.000;110.000;;;;;;;2019-10-24 13:51:00.212206
+19538587;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;179;Chris Paul;13;Los Angeles Clippers;;;3;166.000;;;;;3173;New York Knicks;126;112.000;117.000;;;;;;;2017-08-02 18:23:01.54983
+19538582;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;137.000;;;1;Start;3173;New York Knicks;126;112.000;117.000;;;;;;;2017-08-02 18:23:01.54983
+19538583;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;179;Chris Paul;13;Los Angeles Clippers;;;3;148.000;;;2;Possession;3173;New York Knicks;126;112.000;117.000;;;;;;;2017-08-02 18:23:01.54983
+19538584;100200;Game stop;;;;;;;;;;;3;148.000;;;2;Possession;3173;New York Knicks;126;112.000;117.000;;;;;;;2017-08-02 18:23:01.54983
+19538585;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;6028;Kristaps Porzingis;3173;New York Knicks;;;3;148.000;;;100;End;3173;New York Knicks;126;112.000;117.000;;;;;;;2017-08-02 18:23:01.54983
+19538586;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;179;Chris Paul;13;Los Angeles Clippers;;;3;160.000;;;;;3173;New York Knicks;126;112.000;117.000;;;;;;;2017-08-02 18:23:01.54983
+19538588;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;192.000;;;1;Start;13;Los Angeles Clippers;127;117.000;133.000;;;;;;;2019-10-24 13:51:00.212206
+19538589;100400;Steal;6030;Robin Lopez;3173;New York Knicks;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;3;208.000;;;100;End;13;Los Angeles Clippers;127;117.000;133.000;;;;;;;2017-08-02 18:23:01.54983
+19538590;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;220.000;;;100;End;3173;New York Knicks;128;133.000;144.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538591;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;222.000;;;1;Start;13;Los Angeles Clippers;129;145.000;145.000;;;;;;;2017-08-02 18:23:01.54983
+19538592;100200;Game stop;;;;;;;;;;;3;227.000;;;2;Possession;13;Los Angeles Clippers;129;145.000;145.000;;;;;;;2017-08-02 18:23:01.54983
+19538593;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;3;227.000;;;100;End;13;Los Angeles Clippers;129;145.000;145.000;;;;;;;2017-08-02 18:23:01.54983
+19538594;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;380.000;;;1;Start;13;Los Angeles Clippers;130;145.000;146.000;;;;;;;2019-10-24 13:51:00.212206
+19538595;100200;Game stop;;;;;;;;;;;3;381.000;;;2;Possession;13;Los Angeles Clippers;130;145.000;146.000;;;;;;;2017-08-02 18:23:01.54983
+19538596;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;179;Chris Paul;13;Los Angeles Clippers;;;3;381.000;;;100;End;13;Los Angeles Clippers;130;145.000;146.000;;;;;;;2017-08-02 18:23:01.54983
+19538597;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;384.000;;;1;Start;13;Los Angeles Clippers;131;146.000;164.000;;;;;;;2019-10-24 13:51:00.212206
+19538598;800202;2-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;402.000;;;100;End;13;Los Angeles Clippers;131;146.000;164.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538601;300100;Foul;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6028;Kristaps Porzingis;3173;New York Knicks;;;3;415.000;;;100;End;3173;New York Knicks;132;165.000;170.000;;;;;;;2017-08-02 18:23:01.54983
+19538600;100200;Game stop;;;;;;;;;;;3;415.000;;;2;Possession;3173;New York Knicks;132;165.000;170.000;;;;;;;2017-08-02 18:23:01.54983
+19538599;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;404.000;;;1;Start;3173;New York Knicks;132;165.000;170.000;;;;;;;2017-08-02 18:23:01.54983
+19538605;300100;Foul;176;Paul Pierce;13;Los Angeles Clippers;6028;Kristaps Porzingis;3173;New York Knicks;;;3;437.000;;;100;End;3173;New York Knicks;133;170.000;177.000;;;;;;;2017-08-02 18:23:01.54983
+19538608;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;176;Paul Pierce;13;Los Angeles Clippers;;;3;460.000;;;;;3173;New York Knicks;133;170.000;177.000;;;;;;;2017-08-02 18:23:01.54983
+19538602;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;430.000;;;1;Start;3173;New York Knicks;133;170.000;177.000;;;;;;;2019-10-24 13:51:00.212206
+19538603;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;176;Paul Pierce;13;Los Angeles Clippers;;;3;437.000;;;2;Possession;3173;New York Knicks;133;170.000;177.000;;;;;;;2017-08-02 18:23:01.54983
+19538604;100200;Game stop;;;;;;;;;;;3;437.000;;;2;Possession;3173;New York Knicks;133;170.000;177.000;;;;;;;2017-08-02 18:23:01.54983
+19538606;800102;1-;6028;Kristaps Porzingis;3173;New York Knicks;176;Paul Pierce;13;Los Angeles Clippers;;;3;443.000;;;;;3173;New York Knicks;133;170.000;177.000;;;;;;;2017-08-02 18:23:01.54983
+19538609;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;479.000;;;1;Start;13;Los Angeles Clippers;134;177.000;194.000;;;;;;;2019-10-24 13:51:00.212206
+19538610;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;496.000;;;100;End;13;Los Angeles Clippers;134;177.000;194.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538611;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;509.000;;;100;End;3173;New York Knicks;135;194.000;207.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538615;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;542.000;;;100;End;13;Los Angeles Clippers;136;209.000;231.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538614;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;520.000;;;1;Start;13;Los Angeles Clippers;136;209.000;231.000;;;;;;;2019-10-24 13:51:00.212206
+19538619;300100;Foul;6030;Robin Lopez;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;563.000;;;;;3173;New York Knicks;137;231.000;242.000;;;;;;;2017-08-02 18:23:01.54983
+19538616;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;552.000;;;100;End;3173;New York Knicks;137;231.000;242.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538622;300100;Foul;6030;Robin Lopez;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;584.000;;;100;End;13;Los Angeles Clippers;138;243.000;256.000;;;;;;;2017-08-02 18:23:01.54983
+19538620;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;571.000;;;1;Start;13;Los Angeles Clippers;138;243.000;256.000;;;;;;;2019-10-24 13:51:00.212206
+19538621;100200;Game stop;;;;;;;;;;;3;584.000;;;2;Possession;13;Los Angeles Clippers;138;243.000;256.000;;;;;;;2017-08-02 18:23:01.54983
+19538624;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;620.000;;;100;End;13;Los Angeles Clippers;139;256.000;268.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538623;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;608.000;;;1;Start;13;Los Angeles Clippers;139;256.000;268.000;;;;;;;2019-10-24 13:51:00.212206
+19538625;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;621.000;;;1;Start;3173;New York Knicks;140;270.000;275.000;;;;;;;2017-08-02 18:23:01.54983
+19538626;100200;Game stop;;;;;;;;;;;3;632.000;;;2;Possession;3173;New York Knicks;140;270.000;275.000;;;;;;;2017-08-02 18:23:01.54983
+19538627;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;632.000;;;100;End;3173;New York Knicks;140;270.000;275.000;;;;;;;2017-08-02 18:23:01.54983
+19538628;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;651.000;;;1;Start;3173;New York Knicks;141;275.000;288.000;;;;;;;2019-10-24 13:51:00.212206
+19538629;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;664.000;;;100;End;3173;New York Knicks;141;275.000;288.000;;;Hook;;;;2017-08-02 18:23:01.54983
+19538630;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;665.000;;;1;Start;13;Los Angeles Clippers;142;289.000;304.000;;;;;;;2017-08-02 18:23:01.54983
+19538631;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;680.000;;;100;End;13;Los Angeles Clippers;142;289.000;304.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538633;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;698.000;;;100;End;3173;New York Knicks;143;304.000;321.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538632;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;698.000;;;2;Possession;3173;New York Knicks;143;304.000;321.000;;;;;;;2017-08-02 18:23:01.54983
+19538634;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;719.000;;;2;Possession;13;Los Angeles Clippers;144;321.000;342.000;;;;;;;2017-08-02 18:23:01.54983
+19538635;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;719.000;;;100;End;13;Los Angeles Clippers;144;321.000;342.000;;;Dunk;;;;2017-08-02 18:23:01.54983
+19538636;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;733.000;;;100;End;3173;New York Knicks;145;342.000;356.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538637;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;735.000;;;1;Start;3173;New York Knicks;146;357.000;357.000;;;;;;;2017-08-02 18:23:01.54983
+19538638;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;736.000;;;100;End;3173;New York Knicks;146;357.000;357.000;;;Tip in;;;;2017-08-02 18:23:01.54983
+19538641;300300;Technical foul;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;1240.000;;;2;Possession;13;Los Angeles Clippers;147;358.000;359.000;;;;;;;2017-08-02 18:23:01.54983
+19538639;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;738.000;;;1;Start;13;Los Angeles Clippers;147;358.000;359.000;;;;;;;2019-03-11 06:18:34.850187
+19538640;100200;Game stop;;;;;;;;;;;3;1240.000;;;2;Possession;13;Los Angeles Clippers;147;358.000;359.000;;;;;;;2017-08-02 18:23:01.54983
+19538642;100200;Game stop;;;;;;;;;;;3;1240.000;;;100;End;13;Los Angeles Clippers;147;358.000;359.000;;;;;;;2017-08-02 18:23:01.54983
+19538650;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;6028;Kristaps Porzingis;3173;New York Knicks;;;3;1284.000;;;;;13;Los Angeles Clippers;148;359.000;362.000;;;;;;;2017-08-02 18:23:01.54983
+19538647;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;1267.000;;;1;Start;13;Los Angeles Clippers;148;359.000;362.000;;;;;;;2019-10-24 13:51:00.212206
+19538648;100200;Game stop;;;;;;;;;;;3;1270.000;;;2;Possession;13;Los Angeles Clippers;148;359.000;362.000;;;;;;;2017-08-02 18:23:01.54983
+19538649;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1270.000;;;100;End;13;Los Angeles Clippers;148;359.000;362.000;;;;;;;2017-08-02 18:23:01.54983
+19538652;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;6028;Kristaps Porzingis;3173;New York Knicks;;;3;1300.000;;;;;13;Los Angeles Clippers;148;359.000;362.000;;;;;;;2017-08-02 18:23:01.54983
+19538654;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;1317.000;;;2;Possession;3173;New York Knicks;149;362.000;386.000;;;;;;;2017-08-02 18:23:01.54983
+19538653;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1316.000;;;1;Start;3173;New York Knicks;149;362.000;386.000;;;;;;;2019-10-24 13:51:00.212206
+19538655;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;1340.000;;;100;End;3173;New York Knicks;149;362.000;386.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538657;800201;2+;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;1359.000;;;100;End;13;Los Angeles Clippers;150;388.000;404.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538656;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1341.000;;;1;Start;13;Los Angeles Clippers;150;388.000;404.000;;;;;;;2017-08-02 18:23:01.54983
+19538658;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;1375.000;;;100;End;3173;New York Knicks;151;404.000;421.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538660;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;1383.000;;;2;Possession;13;Los Angeles Clippers;152;423.000;429.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538661;100200;Game stop;;;;;;;;;;;3;1387.000;;;2;Possession;13;Los Angeles Clippers;152;423.000;429.000;;;;;;;2017-08-02 18:23:01.54983
+19538659;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;1376.000;;;1;Start;13;Los Angeles Clippers;152;423.000;429.000;;;;;;;2017-08-02 18:23:01.54983
+19538662;1800600;Timeout;;;3173;New York Knicks;;;;;;;3;1387.000;;;100;End;13;Los Angeles Clippers;152;423.000;429.000;;;;;;;2017-08-02 18:23:01.54983
+19538667;800202;2-;8329;Derrick Williams;3173;New York Knicks;7503;Wesley Johnson;13;Los Angeles Clippers;;;3;1550.000;;;100;End;3173;New York Knicks;153;429.000;445.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538666;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1534.000;;;1;Start;3173;New York Knicks;153;429.000;445.000;;;;;;;2019-10-24 13:51:00.212206
+19538671;300100;Foul;8329;Derrick Williams;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1576.000;;;100;End;13;Los Angeles Clippers;154;448.000;455.000;;;;;;;2017-08-02 18:23:01.54983
+19538668;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;1552.000;;;1;Start;13;Los Angeles Clippers;154;448.000;455.000;;;;;;;2017-08-02 18:23:01.54983
+19538669;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;8329;Derrick Williams;3173;New York Knicks;;;3;1576.000;;;2;Possession;13;Los Angeles Clippers;154;448.000;455.000;;;;;;;2017-08-02 18:23:01.54983
+19538670;100200;Game stop;;;;;;;;;;;3;1576.000;;;2;Possession;13;Los Angeles Clippers;154;448.000;455.000;;;;;;;2017-08-02 18:23:01.54983
+19538672;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;8329;Derrick Williams;3173;New York Knicks;;;3;1621.000;;;;;13;Los Angeles Clippers;154;448.000;455.000;;;;;;;2017-08-02 18:23:01.54983
+19538674;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;8329;Derrick Williams;3173;New York Knicks;;;3;1635.000;;;;;13;Los Angeles Clippers;154;448.000;455.000;;;;;;;2017-08-02 18:23:01.54983
+19538676;100200;Game stop;;;;;;;;;;;3;1672.000;;;2;Possession;3173;New York Knicks;155;455.000;466.000;;;;;;;2017-08-02 18:23:01.54983
+19538678;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1679.000;;;;;3173;New York Knicks;155;455.000;466.000;;;;;;;2017-08-02 18:23:01.54983
+19538675;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1661.000;;;1;Start;3173;New York Knicks;155;455.000;466.000;;;;;;;2019-10-24 13:51:00.212206
+19538677;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1672.000;;;100;End;3173;New York Knicks;155;455.000;466.000;;;;;;;2017-08-02 18:23:01.54983
+19538680;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;1750.000;;;100;End;3173;New York Knicks;156;466.000;479.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538679;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1737.000;;;1;Start;3173;New York Knicks;156;466.000;479.000;;;;;;;2019-10-24 13:51:00.212206
+19538682;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;1754.000;;;2;Possession;3173;New York Knicks;157;480.000;484.000;;;;;;;2017-08-02 18:23:01.54983
+19538681;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;3;1750.000;;;1;Start;3173;New York Knicks;157;480.000;484.000;;;;;;;2017-08-02 18:23:01.54983
+20597939;100200;Game stop;;;;;;;;;;;3;1754.000;;;100;End;3173;New York Knicks;157;480.000;484.000;;;;;;;2017-08-23 11:03:54.404213
+19538684;300100;Foul;369815;Langston Galloway;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1770.000;;;100;End;13;Los Angeles Clippers;158;484.000;489.000;;;;;;;2017-09-27 07:19:02.720815
+20597940;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;1765.000;;;1;Start;13;Los Angeles Clippers;158;484.000;489.000;;;;;;;2019-10-24 13:51:00.212206
+19538683;100200;Game stop;;;;;;;;;;;3;1770.000;;;2;Possession;13;Los Angeles Clippers;158;484.000;489.000;;;;;;;2017-08-02 18:23:01.54983
+19538686;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;3;1802.000;;;;;13;Los Angeles Clippers;158;484.000;489.000;;;;;;;2017-08-02 18:23:01.54983
+19538685;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;3;1781.000;;;;;13;Los Angeles Clippers;158;484.000;489.000;;;;;;;2017-08-02 18:23:01.54983
+19538688;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;;;3;1824.000;;;100;End;3173;New York Knicks;159;489.000;502.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538687;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1811.000;;;1;Start;3173;New York Knicks;159;489.000;502.000;;;;;;;2019-10-24 13:51:00.212206
+19538690;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;1838.000;;;100;End;13;Los Angeles Clippers;160;504.000;516.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538689;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;1825.000;;;1;Start;13;Los Angeles Clippers;160;504.000;516.000;;;;;;;2017-08-02 18:23:01.54983
+19538692;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;3;1849.000;;;2;Possession;3173;New York Knicks;161;518.000;526.000;;;;;;;2017-08-02 18:23:01.54983
+19538693;800301;3+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;1849.000;;;100;End;3173;New York Knicks;161;518.000;526.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538691;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;3;1839.000;;;1;Start;3173;New York Knicks;161;518.000;526.000;;;;;;;2017-08-02 18:23:01.54983
+19538696;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;3;1871.000;;;;;13;Los Angeles Clippers;162;526.000;532.000;;;;;;;2017-08-02 18:23:01.54983
+19538694;100200;Game stop;;;;;;;;;;;3;1861.000;;;2;Possession;13;Los Angeles Clippers;162;526.000;532.000;;;;;;;2017-08-02 18:23:01.54983
+19538699;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;3;1894.000;;;;;13;Los Angeles Clippers;162;526.000;532.000;;;;;;;2017-08-02 18:23:01.54983
+19538695;300100;Foul;369815;Langston Galloway;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1861.000;;;100;End;13;Los Angeles Clippers;162;526.000;532.000;;;;;;;2017-09-27 07:19:02.720815
+19538700;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1908.000;;;1;Start;3173;New York Knicks;163;532.000;550.000;;;;;;;2019-10-24 13:51:00.212206
+19538701;800302;3-;7776;Jerian Grant;3173;New York Knicks;;;;;;;3;1926.000;;;100;End;3173;New York Knicks;163;532.000;550.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538704;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;1934.000;;;100;End;13;Los Angeles Clippers;164;552.000;558.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538703;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;3;1934.000;;;2;Possession;13;Los Angeles Clippers;164;552.000;558.000;;;;;;;2017-08-02 18:23:01.54983
+19538702;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;1927.000;;;1;Start;13;Los Angeles Clippers;164;552.000;558.000;;;;;;;2017-08-02 18:23:01.54983
+19538705;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;1956.000;;;100;End;3173;New York Knicks;165;558.000;581.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538707;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;1972.000;;;100;End;13;Los Angeles Clippers;166;582.000;595.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538706;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;1957.000;;;1;Start;13;Los Angeles Clippers;166;582.000;595.000;;;;;;;2017-08-02 18:23:01.54983
+19538709;100200;Game stop;;;;;;;;;;;3;1985.000;;;2;Possession;3173;New York Knicks;167;595.000;607.000;;;;;;;2017-08-02 18:23:01.54983
+19538708;800400;2+1;7776;Jerian Grant;3173;New York Knicks;;;;;;;3;1985.000;;;2;Possession;3173;New York Knicks;167;595.000;607.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538710;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;7776;Jerian Grant;3173;New York Knicks;;;3;1985.000;;;100;End;3173;New York Knicks;167;595.000;607.000;;;;;;;2017-08-02 18:23:01.54983
+19538711;800101;1+;7776;Jerian Grant;3173;New York Knicks;179;Chris Paul;13;Los Angeles Clippers;;;3;1996.000;;;;;3173;New York Knicks;167;595.000;607.000;;;;;;;2017-08-02 18:23:01.54983
+19538716;800101;1+;179;Chris Paul;13;Los Angeles Clippers;7776;Jerian Grant;3173;New York Knicks;;;3;2050.000;;;;;13;Los Angeles Clippers;168;607.000;622.000;;;;;;;2017-08-02 18:23:01.54983
+19538715;800101;1+;179;Chris Paul;13;Los Angeles Clippers;7776;Jerian Grant;3173;New York Knicks;;;3;2038.000;;;;;13;Los Angeles Clippers;168;607.000;622.000;;;;;;;2017-08-02 18:23:01.54983
+19538714;300100;Foul;7776;Jerian Grant;3173;New York Knicks;179;Chris Paul;13;Los Angeles Clippers;;;3;2030.000;;;100;End;13;Los Angeles Clippers;168;607.000;622.000;;;;;;;2017-08-02 18:23:01.54983
+19538713;100200;Game stop;;;;;;;;;;;3;2030.000;;;2;Possession;13;Los Angeles Clippers;168;607.000;622.000;;;;;;;2017-08-02 18:23:01.54983
+19538712;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;2015.000;;;1;Start;13;Los Angeles Clippers;168;607.000;622.000;;;;;;;2019-10-24 13:51:00.212206
+19538717;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;2066.000;;;1;Start;3173;New York Knicks;169;622.000;642.000;;;;;;;2019-10-24 13:51:00.212206
+19538724;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;3;2161.000;;;;;3173;New York Knicks;169;622.000;642.000;;;;;;;2017-08-02 18:23:01.54983
+19538718;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;7776;Jerian Grant;3;2086.000;;;2;Possession;3173;New York Knicks;169;622.000;642.000;;;;;;;2017-08-02 18:23:01.54983
+19538719;800301;3+;7776;Jerian Grant;3173;New York Knicks;;;;;;;3;2086.000;;;100;End;3173;New York Knicks;169;622.000;642.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538722;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;3;2137.000;;;;;3173;New York Knicks;169;622.000;642.000;;;;;;;2017-08-02 18:23:01.54983
+19538721;300100;Foul;369815;Langston Galloway;3173;New York Knicks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;2132.000;;;;;3173;New York Knicks;169;622.000;642.000;;;;;;;2017-09-27 07:19:02.720815
+19538725;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;2176.000;;;1;Start;3173;New York Knicks;170;646.000;658.000;;;;;;;2019-10-24 13:51:00.212206
+19538726;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;2188.000;;;100;End;3173;New York Knicks;170;646.000;658.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538727;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;2190.000;;;1;Start;13;Los Angeles Clippers;171;660.000;678.400;;;;;;;2017-08-02 18:23:01.54983
+19538728;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;3;2209.000;;;100;End;13;Los Angeles Clippers;171;660.000;678.400;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538731;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;3;2236.000;;;2;Possession;3173;New York Knicks;172;678.400;686.700;;;;;;;2017-08-02 18:23:01.54983
+19538729;100200;Game stop;;;;;;;;;;;3;2227.000;;;2;Possession;3173;New York Knicks;172;678.400;686.700;;;;;;;2017-08-02 18:23:01.54983
+19538730;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;2227.000;;;2;Possession;3173;New York Knicks;172;678.400;686.700;;;;;;;2017-08-02 18:23:01.54983
+19538732;1800600;Timeout;;;3173;New York Knicks;;;;;;;3;2254.000;;;100;End;3173;New York Knicks;172;678.400;686.700;;;;;;;2017-08-02 18:23:01.54983
+19538735;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;2326.000;;;100;End;3173;New York Knicks;173;686.700;688.900;;;Jumper;;;;2017-09-27 07:19:02.720815
+19538733;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;2323.800;;;1;Start;3173;New York Knicks;173;686.700;688.900;;;;;;;2019-10-24 13:51:00.212206
+19538734;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;3;2326.000;;;2;Possession;3173;New York Knicks;173;686.700;688.900;;;;;;;2017-08-02 18:23:01.54983
+19538736;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;3;2344.000;;;2;Possession;13;Los Angeles Clippers;174;688.900;702.800;;;;;;;2017-08-02 18:23:01.54983
+19538737;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;2344.000;;;100;End;13;Los Angeles Clippers;174;688.900;702.800;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538738;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;3;2361.000;;;100;End;3173;New York Knicks;175;702.800;717.100;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538739;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;3;2362.000;;;1;Start;13;Los Angeles Clippers;176;719.200;720.000;;;;;;;2017-08-02 18:23:01.54983
+19538740;1800500;Halftime;;;;;;;;;;;3;2365.000;;;100;End;13;Los Angeles Clippers;176;719.200;720.000;;;;;;;2017-08-02 18:23:01.54983
+19538753;800201;2+;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;14.000;;;100;End;3173;New York Knicks;177;0.000;12.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538752;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;0.000;;;1;Start;3173;New York Knicks;177;0.000;12.000;;;;;;;2019-10-24 13:51:00.212206
+19538758;800102;1-;1804;Austin Rivers;13;Los Angeles Clippers;8329;Derrick Williams;3173;New York Knicks;;;4;52.000;;;;;13;Los Angeles Clippers;178;12.000;26.000;;;;;;;2017-08-02 18:23:01.54983
+19538754;800600;2F;1804;Austin Rivers;13;Los Angeles Clippers;8329;Derrick Williams;3173;New York Knicks;;;4;29.000;;;2;Possession;13;Los Angeles Clippers;178;12.000;26.000;;;;;;;2017-08-02 18:23:01.54983
+19538755;100200;Game stop;;;;;;;;;;;4;29.000;;;2;Possession;13;Los Angeles Clippers;178;12.000;26.000;;;;;;;2017-08-02 18:23:01.54983
+19538756;300100;Foul;8329;Derrick Williams;3173;New York Knicks;1804;Austin Rivers;13;Los Angeles Clippers;;;4;29.000;;;100;End;13;Los Angeles Clippers;178;12.000;26.000;;;;;;;2017-08-02 18:23:01.54983
+19538757;800101;1+;1804;Austin Rivers;13;Los Angeles Clippers;8329;Derrick Williams;3173;New York Knicks;;;4;40.000;;;;;13;Los Angeles Clippers;178;12.000;26.000;;;;;;;2017-08-02 18:23:01.54983
+19538761;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;6024;Kevin Seraphin;4;90.000;;;2;Possession;3173;New York Knicks;179;26.000;38.000;;;;;;;2017-08-02 18:23:01.54983
+19538762;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;90.000;;;100;End;3173;New York Knicks;179;26.000;38.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538759;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;65.000;;;1;Start;3173;New York Knicks;179;26.000;38.000;;;;;;;2017-08-02 18:23:01.54983
+19538760;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;78.000;;;2;Possession;3173;New York Knicks;179;26.000;38.000;;;;;;;2019-10-24 13:51:00.212206
+19538767;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;4;137.000;;;;;13;Los Angeles Clippers;180;38.000;55.000;;;;;;;2017-08-02 18:23:01.54983
+19538766;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;4;120.000;;;;;13;Los Angeles Clippers;180;38.000;55.000;;;;;;;2017-08-02 18:23:01.54983
+19538765;300100;Foul;369815;Langston Galloway;3173;New York Knicks;180;Jamal Crawford;13;Los Angeles Clippers;;;4;115.000;;;100;End;13;Los Angeles Clippers;180;38.000;55.000;;;;;;;2017-09-27 07:19:02.720815
+19538763;800600;2F;180;Jamal Crawford;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;4;115.000;;;2;Possession;13;Los Angeles Clippers;180;38.000;55.000;;;;;;;2017-08-02 18:23:01.54983
+19538764;100200;Game stop;;;;;;;;;;;4;115.000;;;2;Possession;13;Los Angeles Clippers;180;38.000;55.000;;;;;;;2017-08-02 18:23:01.54983
+19538769;800600;2F;7776;Jerian Grant;3173;New York Knicks;1804;Austin Rivers;13;Los Angeles Clippers;;;4;177.000;;;2;Possession;3173;New York Knicks;181;55.000;67.000;;;;;;;2017-08-02 18:23:01.54983
+19538773;800101;1+;7776;Jerian Grant;3173;New York Knicks;1804;Austin Rivers;13;Los Angeles Clippers;;;4;197.000;;;;;3173;New York Knicks;181;55.000;67.000;;;;;;;2017-08-02 18:23:01.54983
+19538772;800101;1+;7776;Jerian Grant;3173;New York Knicks;1804;Austin Rivers;13;Los Angeles Clippers;;;4;183.000;;;;;3173;New York Knicks;181;55.000;67.000;;;;;;;2017-08-02 18:23:01.54983
+19538771;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;7776;Jerian Grant;3173;New York Knicks;;;4;177.000;;;100;End;3173;New York Knicks;181;55.000;67.000;;;;;;;2017-08-02 18:23:01.54983
+19538770;100200;Game stop;;;;;;;;;;;4;177.000;;;2;Possession;3173;New York Knicks;181;55.000;67.000;;;;;;;2017-08-02 18:23:01.54983
+19538768;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;165.000;;;1;Start;3173;New York Knicks;181;55.000;67.000;;;;;;;2019-10-24 13:51:00.212206
+19538775;400101;Accurate pass;180;Jamal Crawford;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;4;231.000;;;2;Possession;13;Los Angeles Clippers;182;67.000;84.000;;;;;;;2017-08-02 18:23:01.54983
+19538776;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;231.000;;;100;End;13;Los Angeles Clippers;182;67.000;84.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538774;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;214.000;;;1;Start;13;Los Angeles Clippers;182;67.000;84.000;;;;;;;2019-10-24 13:51:00.212206
+19538778;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;242.000;;;100;End;3173;New York Knicks;183;84.000;95.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538777;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;6024;Kevin Seraphin;4;242.000;;;2;Possession;3173;New York Knicks;183;84.000;95.000;;;;;;;2017-08-02 18:23:01.54983
+19538780;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;259.000;;;100;End;13;Los Angeles Clippers;184;95.000;111.000;;;Hook;;;;2017-08-02 18:23:01.54983
+19538779;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;4;259.000;;;2;Possession;13;Los Angeles Clippers;184;95.000;111.000;;;;;;;2017-08-02 18:23:01.54983
+19538781;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;7776;Jerian Grant;3173;New York Knicks;;;4;275.000;;;100;End;3173;New York Knicks;185;111.000;125.000;;;;;;;2017-08-02 18:23:01.54983
+19538782;100400;Steal;6034;Sasha Vujacic;3173;New York Knicks;180;Jamal Crawford;13;Los Angeles Clippers;;;4;286.000;;;100;End;13;Los Angeles Clippers;186;125.000;139.000;;;;;;;2017-08-02 18:23:01.54983
+19538783;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;369815;Langston Galloway;3173;New York Knicks;;;4;291.000;;;100;End;3173;New York Knicks;187;139.000;144.000;;;;;;;2017-08-02 18:23:01.54983
+19538784;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;180;Jamal Crawford;4;314.000;;;2;Possession;13;Los Angeles Clippers;188;144.000;167.000;;;;;;;2017-08-02 18:23:01.54983
+19538785;800301;3+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;314.000;;;100;End;13;Los Angeles Clippers;188;144.000;167.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538789;800202;2-;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;484.000;;;100;End;3173;New York Knicks;189;168.000;181.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538788;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;471.000;;;1;Start;3173;New York Knicks;189;168.000;181.000;;;;;;;2019-10-24 13:51:00.212206
+19538792;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;497.000;;;1;Start;3173;New York Knicks;190;182.000;184.000;;;;;;;2019-10-24 13:51:00.212206
+19538793;800202;2-;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;499.000;;;100;End;3173;New York Knicks;190;182.000;184.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538795;800600;2F;7660;Cole Aldrich;13;Los Angeles Clippers;7776;Jerian Grant;3173;New York Knicks;;;4;524.000;;;2;Possession;13;Los Angeles Clippers;191;186.000;205.000;;;;;;;2017-08-02 18:23:01.54983
+19538798;800101;1+;7660;Cole Aldrich;13;Los Angeles Clippers;7776;Jerian Grant;3173;New York Knicks;;;4;528.000;;;;;13;Los Angeles Clippers;191;186.000;205.000;;;;;;;2017-08-02 18:23:01.54983
+19538797;300100;Foul;7776;Jerian Grant;3173;New York Knicks;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;524.000;;;100;End;13;Los Angeles Clippers;191;186.000;205.000;;;;;;;2017-08-02 18:23:01.54983
+19538794;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;501.000;;;1;Start;13;Los Angeles Clippers;191;186.000;205.000;;;;;;;2017-08-02 18:23:01.54983
+19538800;800101;1+;7660;Cole Aldrich;13;Los Angeles Clippers;7776;Jerian Grant;3173;New York Knicks;;;4;561.000;;;;;13;Los Angeles Clippers;191;186.000;205.000;;;;;;;2017-08-02 18:23:01.54983
+19538796;100200;Game stop;;;;;;;;;;;4;524.000;;;2;Possession;13;Los Angeles Clippers;191;186.000;205.000;;;;;;;2017-08-02 18:23:01.54983
+19538802;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;597.000;;;100;End;3173;New York Knicks;192;205.000;230.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538801;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;572.000;;;1;Start;3173;New York Knicks;192;205.000;230.000;;;;;;;2019-10-24 13:51:00.212206
+19538806;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;631.000;;;100;End;13;Los Angeles Clippers;193;231.000;255.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538805;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;607.000;;;1;Start;13;Los Angeles Clippers;193;231.000;255.000;;;;;;;2019-10-24 13:51:00.212206
+19538808;400101;Accurate pass;6024;Kevin Seraphin;3173;New York Knicks;;;;;7493;Arron Afflalo;4;643.000;;;2;Possession;3173;New York Knicks;194;257.000;268.000;;;;;;;2017-08-02 18:23:01.54983
+19538807;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;632.000;;;1;Start;3173;New York Knicks;194;257.000;268.000;;;;;;;2017-08-02 18:23:01.54983
+19538809;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;643.000;;;100;End;3173;New York Knicks;194;257.000;268.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538811;100200;Game stop;;;;;;;;;;;4;671.000;;;2;Possession;13;Los Angeles Clippers;195;268.000;291.000;;;;;;;2017-08-02 18:23:01.54983
+19538810;800600;2F;180;Jamal Crawford;13;Los Angeles Clippers;6034;Sasha Vujacic;3173;New York Knicks;;;4;671.000;;;2;Possession;13;Los Angeles Clippers;195;268.000;291.000;;;;;;;2017-08-02 18:23:01.54983
+19538813;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;6034;Sasha Vujacic;3173;New York Knicks;;;4;675.000;;;;;13;Los Angeles Clippers;195;268.000;291.000;;;;;;;2017-08-02 18:23:01.54983
+19538812;300100;Foul;6034;Sasha Vujacic;3173;New York Knicks;180;Jamal Crawford;13;Los Angeles Clippers;;;4;671.000;;;100;End;13;Los Angeles Clippers;195;268.000;291.000;;;;;;;2017-08-02 18:23:01.54983
+19538814;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;6034;Sasha Vujacic;3173;New York Knicks;;;4;696.000;;;;;13;Los Angeles Clippers;195;268.000;291.000;;;;;;;2017-08-02 18:23:01.54983
+19538815;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;715.000;;;1;Start;3173;New York Knicks;196;291.000;306.000;;;;;;;2019-10-24 13:51:00.212206
+19538816;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;730.000;;;100;End;3173;New York Knicks;196;291.000;306.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538817;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;732.000;;;1;Start;3173;New York Knicks;197;308.000;317.000;;;;;;;2017-08-02 18:23:01.54983
+19538818;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;741.000;;;100;End;3173;New York Knicks;197;308.000;317.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538819;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;742.000;;;1;Start;13;Los Angeles Clippers;198;319.000;332.000;;;;;;;2017-08-02 18:23:01.54983
+19538820;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;4;757.000;;;2;Possession;13;Los Angeles Clippers;198;319.000;332.000;;;;;;;2017-08-02 18:23:01.54983
+19538821;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;757.000;;;100;End;13;Los Angeles Clippers;198;319.000;332.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538822;100200;Game stop;;;;;;;;;;;4;776.000;;;2;Possession;3173;New York Knicks;199;332.000;350.000;;;;;;;2017-08-02 18:23:01.54983
+19538823;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;6024;Kevin Seraphin;3173;New York Knicks;;;4;776.000;;;100;End;3173;New York Knicks;199;332.000;350.000;;;;;;;2017-08-02 18:23:01.54983
+19538827;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;810.000;;;100;End;3173;New York Knicks;200;350.000;358.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538826;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;802.000;;;1;Start;3173;New York Knicks;200;350.000;358.000;;;;;;;2019-10-24 13:51:00.212206
+19538829;800202;2-;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;824.000;;;100;End;13;Los Angeles Clippers;201;361.000;373.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538828;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;811.000;;;1;Start;13;Los Angeles Clippers;201;361.000;373.000;;;;;;;2017-08-02 18:23:01.54983
+19538835;800101;1+;7493;Arron Afflalo;3173;New York Knicks;1804;Austin Rivers;13;Los Angeles Clippers;;;4;1002.000;;;;;3173;New York Knicks;202;375.000;384.000;;;;;;;2017-08-02 18:23:01.54983
+19538830;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;825.000;;;1;Start;3173;New York Knicks;202;375.000;384.000;;;;;;;2017-08-02 18:23:01.54983
+19538831;800700;3F;7493;Arron Afflalo;3173;New York Knicks;1804;Austin Rivers;13;Los Angeles Clippers;;;4;843.000;;;2;Possession;3173;New York Knicks;202;375.000;384.000;;;;;;;2017-08-02 18:23:01.54983
+19538832;100200;Game stop;;;;;;;;;;;4;843.000;;;2;Possession;3173;New York Knicks;202;375.000;384.000;;;;;;;2017-08-02 18:23:01.54983
+19538833;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;7493;Arron Afflalo;3173;New York Knicks;;;4;843.000;;;2;Possession;3173;New York Knicks;202;375.000;384.000;;;;;;;2017-08-02 18:23:01.54983
+19538834;1800600;Timeout;;;;;;;;;;;4;853.000;;;100;End;3173;New York Knicks;202;375.000;384.000;;;;;;;2017-08-02 18:23:01.54983
+19538836;800101;1+;7493;Arron Afflalo;3173;New York Knicks;1804;Austin Rivers;13;Los Angeles Clippers;;;4;1007.000;;;;;3173;New York Knicks;202;375.000;384.000;;;;;;;2017-08-02 18:23:01.54983
+19538837;800101;1+;7493;Arron Afflalo;3173;New York Knicks;1804;Austin Rivers;13;Los Angeles Clippers;;;4;1016.000;;;;;3173;New York Knicks;202;375.000;384.000;;;;;;;2017-08-02 18:23:01.54983
+19538839;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;1051.000;;;100;End;13;Los Angeles Clippers;203;384.000;400.000;;;;;;;2017-08-02 18:23:01.54983
+19538838;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1035.000;;;1;Start;13;Los Angeles Clippers;203;384.000;400.000;;;;;;;2019-10-24 13:51:00.212206
+19538840;100400;Steal;8964;Pablo Prigioni;13;Los Angeles Clippers;6024;Kevin Seraphin;3173;New York Knicks;;;4;1065.000;;;100;End;3173;New York Knicks;204;400.000;415.000;;;;;;;2017-08-02 18:23:01.54983
+19538841;400101;Accurate pass;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;370977;CJ Wilcox;4;1080.000;;;2;Possession;13;Los Angeles Clippers;205;415.000;430.000;;;;;;;2017-08-02 18:23:01.54983
+19538842;800201;2+;370977;CJ Wilcox;13;Los Angeles Clippers;;;;;;;4;1080.000;;;100;End;13;Los Angeles Clippers;205;415.000;430.000;;;Jumper;;;;2018-03-05 08:30:03.87854
+19538843;100400;Steal;8964;Pablo Prigioni;13;Los Angeles Clippers;6024;Kevin Seraphin;3173;New York Knicks;;;4;1094.000;;;100;End;3173;New York Knicks;206;430.000;444.000;;;;;;;2017-08-02 18:23:01.54983
+19538844;800201;2+;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;1097.000;;;100;End;13;Los Angeles Clippers;207;444.000;447.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538845;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;1114.000;;;100;End;3173;New York Knicks;208;447.000;464.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538850;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1145.000;;;1;Start;3173;New York Knicks;209;465.000;476.000;;;;;;;2019-10-24 13:51:00.212206
+19538851;800202;2-;6033;Louis Amundson;3173;New York Knicks;;;;;;;4;1156.000;;;100;End;3173;New York Knicks;209;465.000;476.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538853;800202;2-;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;1170.000;;;100;End;13;Los Angeles Clippers;210;477.000;490.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538852;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;1157.000;;;1;Start;13;Los Angeles Clippers;210;477.000;490.000;;;;;;;2017-08-02 18:23:01.54983
+19538857;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;7776;Jerian Grant;3173;New York Knicks;;;4;1179.000;;;100;End;3173;New York Knicks;211;491.000;497.000;;;;;;;2017-08-02 18:23:01.54983
+19538854;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;1171.000;;;1;Start;3173;New York Knicks;211;491.000;497.000;;;;;;;2017-08-02 18:23:01.54983
+19538855;800400;2+1;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;1179.000;;;2;Possession;3173;New York Knicks;211;491.000;497.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538856;100200;Game stop;;;;;;;;;;;4;1179.000;;;2;Possession;3173;New York Knicks;211;491.000;497.000;;;;;;;2017-08-02 18:23:01.54983
+19538858;800101;1+;7776;Jerian Grant;3173;New York Knicks;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;1187.000;;;;;3173;New York Knicks;211;491.000;497.000;;;;;;;2017-08-02 18:23:01.54983
+19538859;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1201.000;;;1;Start;13;Los Angeles Clippers;212;497.000;513.000;;;;;;;2019-10-24 13:51:00.212206
+19538860;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;1217.000;;;100;End;13;Los Angeles Clippers;212;497.000;513.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538861;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;1218.000;;;1;Start;13;Los Angeles Clippers;213;514.000;525.000;;;;;;;2017-08-02 18:23:01.54983
+19538862;800201;2+;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;1229.000;;;100;End;13;Los Angeles Clippers;213;514.000;525.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538865;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1383.000;;;1;Start;3173;New York Knicks;214;527.000;537.000;;;;;;;2019-10-24 13:51:00.212206
+19538866;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;1393.000;;;100;End;3173;New York Knicks;214;527.000;537.000;;;Jumper;;;;2017-09-27 07:19:02.720815
+19538868;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;6024;Kevin Seraphin;3173;New York Knicks;;;4;1412.000;;;100;End;13;Los Angeles Clippers;215;539.000;556.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538867;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;1395.000;;;1;Start;13;Los Angeles Clippers;215;539.000;556.000;;;;;;;2017-08-02 18:23:01.54983
+19538870;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;6033;Louis Amundson;4;1427.000;;;2;Possession;3173;New York Knicks;216;559.000;568.000;;;;;;;2017-08-02 18:23:01.54983
+19538874;100500;Turnover;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;1439.000;;;100;End;3173;New York Knicks;216;559.000;568.000;;;;;;;2017-08-02 18:23:01.54983
+19538873;300100;Foul;2410;Lance Stephenson;13;Los Angeles Clippers;6033;Louis Amundson;3173;New York Knicks;;;4;1427.000;;;2;Possession;3173;New York Knicks;216;559.000;568.000;;;;;;;2017-08-02 18:23:01.54983
+19538872;100200;Game stop;;;;;;;;;;;4;1427.000;;;2;Possession;3173;New York Knicks;216;559.000;568.000;;;;;;;2017-08-02 18:23:01.54983
+19538871;800201;2+;6033;Louis Amundson;3173;New York Knicks;;;;;;;4;1427.000;;;2;Possession;3173;New York Knicks;216;559.000;568.000;;;Lay up;;;;2017-08-02 18:23:01.54983
+19538869;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;1414.000;;;1;Start;3173;New York Knicks;216;559.000;568.000;;;;;;;2017-08-02 18:23:01.54983
+19538880;800101;1+;7660;Cole Aldrich;13;Los Angeles Clippers;6024;Kevin Seraphin;3173;New York Knicks;;;4;1511.000;;;;;13;Los Angeles Clippers;217;568.000;589.000;;;;;;;2017-08-02 18:23:01.54983
+19538875;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1478.000;;;1;Start;13;Los Angeles Clippers;217;568.000;589.000;;;;;;;2019-10-24 13:51:00.212206
+19538876;800600;2F;7660;Cole Aldrich;13;Los Angeles Clippers;6024;Kevin Seraphin;3173;New York Knicks;;;4;1499.000;;;2;Possession;13;Los Angeles Clippers;217;568.000;589.000;;;;;;;2017-08-02 18:23:01.54983
+19538877;100200;Game stop;;;;;;;;;;;4;1499.000;;;2;Possession;13;Los Angeles Clippers;217;568.000;589.000;;;;;;;2017-08-02 18:23:01.54983
+19538878;300100;Foul;6024;Kevin Seraphin;3173;New York Knicks;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;1499.000;;;100;End;13;Los Angeles Clippers;217;568.000;589.000;;;;;;;2017-08-02 18:23:01.54983
+19538879;800101;1+;7660;Cole Aldrich;13;Los Angeles Clippers;6024;Kevin Seraphin;3173;New York Knicks;;;4;1509.000;;;;;13;Los Angeles Clippers;217;568.000;589.000;;;;;;;2017-08-02 18:23:01.54983
+19538883;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;1535.000;;;100;End;3173;New York Knicks;218;589.000;607.000;;;Lay up;;;;2017-09-27 07:19:02.720815
+19538881;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1517.000;;;1;Start;3173;New York Knicks;218;589.000;607.000;;;;;;;2019-10-24 13:51:00.212206
+19538882;400101;Accurate pass;6024;Kevin Seraphin;3173;New York Knicks;;;;;369815;Langston Galloway;4;1535.000;;;2;Possession;3173;New York Knicks;218;589.000;607.000;;;;;;;2017-08-02 18:23:01.54983
+19538884;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;1575.000;;;100;End;13;Los Angeles Clippers;219;607.000;629.000;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538889;400101;Accurate pass;6033;Louis Amundson;3173;New York Knicks;;;;;369815;Langston Galloway;4;1605.000;;;2;Possession;3173;New York Knicks;220;631.000;645.000;;;;;;;2017-08-02 18:23:01.54983
+19538888;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1591.000;;;1;Start;3173;New York Knicks;220;631.000;645.000;;;;;;;2019-10-24 13:51:00.212206
+19538890;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;1605.000;;;100;End;3173;New York Knicks;220;631.000;645.000;;;Jumper;;;;2017-09-27 07:19:02.720815
+19538891;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;370977;CJ Wilcox;4;1619.000;;;2;Possession;13;Los Angeles Clippers;221;645.000;656.000;;;;;;;2017-08-02 18:23:01.54983
+19538892;800201;2+;370977;CJ Wilcox;13;Los Angeles Clippers;;;;;;;4;1619.000;;;100;End;13;Los Angeles Clippers;221;645.000;656.000;;;Jumper;;;;2018-03-05 08:30:03.87854
+19538893;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;6024;Kevin Seraphin;4;1633.000;;;2;Possession;3173;New York Knicks;222;656.000;666.400;;;;;;;2017-08-02 18:23:01.54983
+19538894;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;1633.000;;;100;End;3173;New York Knicks;222;656.000;666.400;;;Dunk;;;;2017-08-02 18:23:01.54983
+19538895;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;1660.000;;;100;End;13;Los Angeles Clippers;223;666.400;687.500;;;Hook;;;;2017-08-02 18:23:01.54983
+19538896;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;1668.000;;;100;End;3173;New York Knicks;224;687.500;693.200;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538898;100500;Turnover;;;13;Los Angeles Clippers;;;;;;;4;1684.000;;;2;Possession;13;Los Angeles Clippers;225;695.300;703.300;;;;;;;2017-08-02 18:23:01.54983
+19538897;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;1669.000;;;1;Start;13;Los Angeles Clippers;225;695.300;703.300;;;;;;;2017-08-02 18:23:01.54983
+20597941;100200;Game stop;;;;;;;;;;;4;1684.000;;;100;End;13;Los Angeles Clippers;225;695.300;703.300;;;;;;;2017-08-23 11:03:54.404213
+20597942;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1697.200;;;1;Start;3173;New York Knicks;226;703.300;709.100;;;;;;;2019-10-24 13:51:00.212206
+19538899;800202;2-;6033;Louis Amundson;3173;New York Knicks;;;;;;;4;1703.000;;;100;End;3173;New York Knicks;226;703.300;709.100;;;Jumper;;;;2017-08-02 18:23:01.54983
+19538900;100300;Rebound;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;1704.000;;;1;Start;13;Los Angeles Clippers;227;710.600;720.000;;;;;;;2017-08-02 18:23:01.54983
+19538901;1800700;Match end;;;;;;;;;;;4;1714.000;;;100;End;13;Los Angeles Clippers;227;710.600;720.000;;;;;;;2017-08-02 18:23:01.54983
+19538748;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538747;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538746;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-09-27 07:19:02.720815
+19538786;100200;Game stop;;;;;;;;;;;4;317.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538787;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;317.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538745;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538744;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538790;100200;Game stop;;;;;;;;;;;4;486.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538791;100300;Rebound;;;3173;New York Knicks;;;;;;;4;486.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538743;1600500;Guard;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538742;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538741;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538723;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;3;2160.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538720;100200;Game stop;;;;;;;;;;;3;2132.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538698;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;3;1891.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538697;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1871.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538799;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;4;556.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538673;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1621.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538665;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;3;1523.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538664;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;3;1518.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538803;100200;Game stop;;;;;;;;;;;4;599.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538804;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;599.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538663;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;1518.000;;;;;;;;;;;;;;;;2017-09-27 07:19:02.720815
+19538651;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1285.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538646;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;3;1255.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538645;300300;Technical foul;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;1243.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538644;300300;Technical foul;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1243.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538643;300300;Technical foul;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;1240.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538618;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;556.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538617;100200;Game stop;;;;;;;;;;;3;556.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538613;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;512.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538612;100200;Game stop;;;;;;;;;;;3;512.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538607;100300;Rebound;;;3173;New York Knicks;;;;;;;3;443.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538566;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538565;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19538564;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538563;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538562;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538561;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538560;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538559;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538824;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;781.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538825;1600500;Guard;370977;CJ Wilcox;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;788.000;;;;;;;;;;;;;;;;2018-03-05 08:30:03.87854
+19538558;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538557;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538556;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538551;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1565.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538550;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;2;1559.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538549;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;2;1559.000;;;;;;;;;;;;;;;;2017-09-27 07:19:02.720815
+19538541;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;1453.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538522;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;2;1290.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538520;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;1266.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538519;100200;Game stop;;;;;;;;;;;2;1266.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538506;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;2;1135.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538505;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;2;1135.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538504;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;1123.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538500;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;998.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538499;100200;Game stop;;;;;;;;;;;2;998.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538470;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;2;778.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19538469;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;778.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538468;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;8964;Pablo Prigioni;13;Los Angeles Clippers;;;2;778.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538456;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;557.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538455;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;7776;Jerian Grant;3173;New York Knicks;;;2;555.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538846;100200;Game stop;;;;;;;;;;;4;1118.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538847;100300;Rebound;;;3173;New York Knicks;;;;;;;4;1118.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538848;1600500;Guard;6033;Louis Amundson;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;4;1123.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538849;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;4;1125.000;;;;;;;;;;;;;;;;2017-09-27 07:19:02.720815
+19538454;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;6031;Kyle O'Quinn;3173;New York Knicks;;;2;550.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538448;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;497.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538402;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538401;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538400;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538399;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538398;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538397;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-09-27 07:19:02.720815
+19538396;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538395;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538394;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538393;1600500;Guard;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538392;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538863;100200;Game stop;;;;;;;;;;;4;1233.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538864;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;1233.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538391;1800500;Halftime;;;;;;;;;;;1;1345.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538390;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;1;1337.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538380;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;1;1251.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538379;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;1249.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538365;100300;Rebound;;;3173;New York Knicks;;;;;;;1;1135.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538359;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;1;1069.000;;;;;;;;;;;;;;;;2017-09-27 07:19:02.720815
+19538358;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;1069.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538357;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;1;1062.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538330;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;709.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538329;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;1;702.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538313;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;1;549.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538312;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;1;544.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538255;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538254;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19538253;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538252;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538251;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538250;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538249;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538248;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538885;100200;Game stop;;;;;;;;;;;4;1578.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538886;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1578.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538887;100500;Turnover;;;13;Los Angeles Clippers;;;;;;;4;1581.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538247;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538246;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538245;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538244;1601000;Starting lineup;370977;CJ Wilcox;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-03-05 08:30:03.87854
+19538243;1601000;Starting lineup;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538242;1601000;Starting lineup;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538241;1601000;Starting lineup;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538240;1601000;Starting lineup;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538239;1601000;Starting lineup;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538238;1601000;Starting lineup;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538237;1601000;Starting lineup;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538221;1601000;Starting lineup;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538236;1601000;Starting lineup;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19538235;1601000;Starting lineup;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538234;1601000;Starting lineup;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538233;1601000;Starting lineup;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538232;1601000;Starting lineup;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-09-27 07:19:02.720815
+19538231;1601000;Starting lineup;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538230;1601000;Starting lineup;7776;Jerian Grant;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538229;1601000;Starting lineup;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538228;1601000;Starting lineup;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538227;1601000;Starting lineup;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538226;1601000;Starting lineup;6033;Louis Amundson;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538225;1601000;Starting lineup;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538224;1601000;Starting lineup;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538223;1601000;Starting lineup;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538222;1601000;Starting lineup;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538750;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538751;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983
+19538749;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:23:01.54983

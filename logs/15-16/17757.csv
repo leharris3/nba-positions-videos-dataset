@@ -1,0 +1,804 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76409763;1601000;Starting lineup;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409764;1601000;Starting lineup;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409765;1601000;Starting lineup;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409766;1601000;Starting lineup;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409767;1601000;Starting lineup;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409768;1601000;Starting lineup;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409769;1601000;Starting lineup;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409770;1601000;Starting lineup;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409771;1601000;Starting lineup;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409772;1601000;Starting lineup;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409773;1601000;Starting lineup;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409774;1601000;Starting lineup;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409775;1601000;Starting lineup;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409776;1601000;Starting lineup;7534;Randy Foye;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409777;1601000;Starting lineup;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409778;1601000;Starting lineup;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409779;1601000;Starting lineup;6233;Gary Harris;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409780;1601000;Starting lineup;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409781;1601000;Starting lineup;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409782;1601000;Starting lineup;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409783;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409784;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409785;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409786;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409787;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409788;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409789;1600500;Guard;6233;Gary Harris;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409790;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409791;1600500;Guard;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409792;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409793;1600500;Guard;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409794;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;41.231;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409795;400101;Accurate pass;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;6237;Kenneth Faried;1;62.231;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409796;200600;Post;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;62.231;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409797;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7469;Joffrey Lauvergne;1;62.231;27.05;6.57;;;;;;;;Post;;Hook;;;;2017-12-07 04:37:00.761283
+76409798;100400;Steal;104434;Kostas Papanikolaou;3222;Denver Nuggets;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;81.832;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409799;200300;Pick'n'Roll;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;100.539;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:37:00.761283
+76409800;800202;2-;7469;Joffrey Lauvergne;3222;Denver Nuggets;9112;Serge Ibaka;2935;Oklahoma City Thunder;7662;Jameer Nelson;1;100.539;26.99;7.80;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 04:37:00.761283
+76409801;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;100.539;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409802;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;100.539;26.99;7.98;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 04:37:00.761283
+76409803;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;100.539;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409804;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;100.539;26.57;8.43;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 04:37:00.761283
+76409805;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;100.539;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409806;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;115.521;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409807;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;115.521;26.81;7.56;;;;;;;;Post;;Lay up;;;;2017-12-07 04:37:00.761283
+76409808;400101;Accurate pass;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;6233;Gary Harris;1;136.313;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409809;800201;2+;6233;Gary Harris;3222;Denver Nuggets;;;;;104434;Kostas Papanikolaou;1;136.313;25.97;8.04;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 04:37:00.761283
+76409810;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;163.283;22.43;5.40;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:37:00.761283
+76409811;100300;Rebound;6233;Gary Harris;3222;Denver Nuggets;;;;;;;1;163.283;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409812;200600;Post;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;182.807;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409813;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;182.807;25.97;7.56;;;;;;;;Post;;Jumper;;;;2017-12-07 04:37:00.761283
+76409814;100400;Steal;104434;Kostas Papanikolaou;3222;Denver Nuggets;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;206.924;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409815;400101;Accurate pass;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;6233;Gary Harris;1;213.063;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409816;800201;2+;6233;Gary Harris;3222;Denver Nuggets;;;;;104434;Kostas Papanikolaou;1;213.063;27.08;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76409817;100200;Game stop;;;;;;;;;;;1;213.063;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409818;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;1;213.063;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409819;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;231.235;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409820;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;6237;Kenneth Faried;3222;Denver Nuggets;;;1;243.235;27.05;8.04;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 04:37:00.761283
+76409821;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;243.235;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409822;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;243.235;26.57;6.51;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 04:37:00.761283
+76409823;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;249.040;24.65;0.81;;;;;;;;;;Jumper;;;;2017-12-07 04:37:00.761283
+76409824;400101;Accurate pass;6233;Gary Harris;3222;Denver Nuggets;;;;;6237;Kenneth Faried;1;266.234;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409825;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6233;Gary Harris;1;266.234;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 04:37:00.761283
+76409826;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;278.244;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409827;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;278.244;23.75;4.47;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76409828;200300;Pick'n'Roll;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;6233;Gary Harris;1;304.371;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:37:00.761283
+76409829;800202;2-;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;6233;Gary Harris;1;304.371;23.60;11.49;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:37:00.761283
+76409830;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;304.371;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409831;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;310.567;26.81;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76409832;100300;Rebound;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;1;310.567;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409833;800301;3+;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;317.334;20.66;11.49;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:37:00.761283
+76409834;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;339.588;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409835;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;339.588;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:37:00.761283
+76409836;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;339.588;23.72;8.67;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:37:00.761283
+76409837;100200;Game stop;;;;;;;;;;;1;349.332;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409838;300100;Foul;7464;Kevin Durant;2935;Oklahoma City Thunder;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;1;349.332;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409839;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;361.278;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409840;400101;Accurate pass;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;7469;Joffrey Lauvergne;1;373.278;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409841;200600;Post;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;1;373.278;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409842;800201;2+;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;104434;Kostas Papanikolaou;1;373.278;26.99;7.32;;;;;;;;Post;;Lay up;;;;2017-12-07 04:37:00.761283
+76409843;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;395.768;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409844;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;395.768;26.66;9.96;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 04:37:00.761283
+76409845;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;411.729;27.08;7.80;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:37:00.761283
+76409846;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;424.955;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409847;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;424.955;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409848;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;424.955;26.72;6.09;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 04:37:00.761283
+76409849;200300;Pick'n'Roll;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;439.779;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409850;800202;2-;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;439.779;26.84;7.32;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 04:37:00.761283
+76409851;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;439.779;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409852;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;439.779;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:37:00.761283
+76409853;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;453.184;26.81;7.20;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:37:00.761283
+76409854;100200;Game stop;;;;;;;;;;;1;457.462;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409855;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;1;457.462;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409856;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;461.630;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409857;100200;Game stop;;;;;;;;;;;1;473.630;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409858;100500;Turnover;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;1;473.630;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409859;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;481.288;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409860;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;505.288;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409861;200600;Post;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;505.288;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409862;800202;2-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;505.288;25.67;7.44;;;;;;;;Post;;Lay up;;;;2017-12-07 04:37:00.761283
+76409863;200600;Post;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;1;516.768;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409864;800202;2-;7469;Joffrey Lauvergne;3222;Denver Nuggets;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;516.768;26.96;7.35;;;;;;;;Post;;Lay up;;;;2017-12-07 04:37:00.761283
+76409865;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;516.768;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409866;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;530.749;24.65;3.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76409867;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;1;548.661;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409868;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;6233;Gary Harris;3222;Denver Nuggets;;;1;553.950;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:37:00.761283
+76409869;100200;Game stop;;;;;;;;;;;1;553.950;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409870;300100;Foul;6233;Gary Harris;3222;Denver Nuggets;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;553.950;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409871;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;6233;Gary Harris;3222;Denver Nuggets;;;1;584.394;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409872;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;602.370;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409873;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;1;602.370;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409874;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;6233;Gary Harris;3222;Denver Nuggets;;;1;602.370;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409875;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;604.509;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409876;800302;3-;6233;Gary Harris;3222;Denver Nuggets;;;;;;;1;623.509;21.98;2.25;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:37:00.761283
+76409877;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;623.509;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409878;400101;Accurate pass;6233;Gary Harris;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;631.969;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409879;800301;3+;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6233;Gary Harris;1;631.969;20.63;11.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76409880;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;665.583;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409881;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;1;665.583;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 04:37:00.761283
+76409882;100200;Game stop;;;;;;;;;;;1;665.583;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409883;300100;Foul;7662;Jameer Nelson;3222;Denver Nuggets;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;665.583;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409884;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;1;688.314;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409885;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;1;705.150;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409886;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;714.254;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409887;800302;3-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;728.254;20.63;11.76;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76409888;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;728.254;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409889;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;728.254;19.64;7.83;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 04:37:00.761283
+76409890;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;728.254;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409891;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;738.841;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409892;800400;2+1;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;738.841;27.08;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76409893;100200;Game stop;;;;;;;;;;;1;738.841;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409894;300100;Foul;6237;Kenneth Faried;3222;Denver Nuggets;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;738.841;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409895;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;769.305;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409896;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;6237;Kenneth Faried;3222;Denver Nuggets;;;1;769.305;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409897;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;6237;Kenneth Faried;3222;Denver Nuggets;;;1;769.305;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409898;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;771.447;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409899;200300;Pick'n'Roll;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6233;Gary Harris;1;795.447;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:37:00.761283
+76409900;800202;2-;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6233;Gary Harris;1;795.447;21.41;7.26;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 04:37:00.761283
+76409901;100300;Rebound;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;1;795.447;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409902;800202;2-;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;1;795.447;26.96;8.13;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:37:00.761283
+76409903;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;795.447;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409904;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;801.500;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409905;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;801.500;26.42;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76409906;800202;2-;6233;Gary Harris;3222;Denver Nuggets;;;;;;;1;817.305;20.33;5.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76409907;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;817.305;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409908;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;824.139;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409909;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;824.139;26.57;7.83;;;;;;;;Transition;;Hook;;;;2017-12-07 04:37:00.761283
+76409910;100200;Game stop;;;;;;;;;;;1;824.139;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409911;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;1;824.139;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409912;1600500;Guard;9111;D.J. Augustin;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;855.912;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409913;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;855.912;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409914;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;1;855.912;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409915;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;7662;Jameer Nelson;3222;Denver Nuggets;;;1;855.912;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409916;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;855.912;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409917;800201;2+;7534;Randy Foye;3222;Denver Nuggets;;;;;;;1;855.912;26.84;7.80;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:37:00.761283
+76409918;800202;2-;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;877.035;25.37;7.26;;;;;;;;Cut;;Hook;;;;2017-12-07 04:37:00.761283
+76409919;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;877.035;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409920;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;877.035;26.84;7.26;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 04:37:00.761283
+76409921;800400;2+1;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;899.469;26.96;7.11;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:37:00.761283
+76409922;800101;1+;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;925.016;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409923;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;948.454;26.51;7.59;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:37:00.761283
+76409924;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;948.454;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409925;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;948.454;26.72;7.59;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:37:00.761283
+76409926;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;957.876;19.64;7.44;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76409927;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;957.876;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409928;100400;Steal;6245;Darrell Arthur;3222;Denver Nuggets;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;977.480;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409929;400101;Accurate pass;6231;Will Barton;3222;Denver Nuggets;;;;;6233;Gary Harris;1;983.472;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409930;800400;2+1;6233;Gary Harris;3222;Denver Nuggets;;;;;6231;Will Barton;1;983.472;26.99;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76409931;100200;Game stop;;;;;;;;;;;1;983.472;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409932;300100;Foul;1853;Nick Collison;2935;Oklahoma City Thunder;6233;Gary Harris;3222;Denver Nuggets;;;1;983.472;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409933;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;1005.989;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409934;100300;Rebound;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;1;1009.989;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409935;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;1022.944;25.52;9.96;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 04:37:00.761283
+76409936;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;1031.501;18.89;3.09;;;;;;;;;;Jumper;;;;2017-12-07 04:37:00.761283
+76409937;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;1;1031.501;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409938;1800500;Halftime;;;;;;;;;;;1;1031.501;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409939;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409940;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409941;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409942;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409943;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409944;1600500;Guard;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409945;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409946;1600500;Guard;6233;Gary Harris;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409947;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409948;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409949;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409950;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409951;800600;2F;1853;Nick Collison;2935;Oklahoma City Thunder;6233;Gary Harris;3222;Denver Nuggets;;;2;20.439;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:37:00.761283
+76409952;100200;Game stop;;;;;;;;;;;2;20.439;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409953;300100;Foul;6233;Gary Harris;3222;Denver Nuggets;1853;Nick Collison;2935;Oklahoma City Thunder;;;2;20.439;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409954;800102;1-;1853;Nick Collison;2935;Oklahoma City Thunder;6233;Gary Harris;3222;Denver Nuggets;;;2;46.215;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409955;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;46.215;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409956;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;6233;Gary Harris;3222;Denver Nuggets;;;2;64.036;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409957;800102;1-;1853;Nick Collison;2935;Oklahoma City Thunder;6233;Gary Harris;3222;Denver Nuggets;;;2;64.036;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409958;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;64.036;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409959;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;64.036;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409960;200600;Post;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;83.982;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409961;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;83.982;26.84;9.90;;;;;;;;Post;;Jumper;;;;2017-12-07 04:37:00.761283
+76409962;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;83.982;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409963;800302;3-;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;2;96.203;21.35;12.69;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76409964;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;2;96.203;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409965;100200;Game stop;;;;;;;;;;;2;107.881;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409966;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;6231;Will Barton;3222;Denver Nuggets;;;2;107.881;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409967;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;125.704;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409968;800202;2-;6245;Darrell Arthur;3222;Denver Nuggets;;;;;7534;Randy Foye;2;131.704;26.99;2.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76409969;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;131.704;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409970;100200;Game stop;;;;;;;;;;;2;142.770;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409971;100500;Turnover;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;142.770;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409972;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;150.316;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409973;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;164.316;25.82;7.26;;;;;;;;Hand offs;;Floater;;;;2017-12-07 04:37:00.761283
+76409974;100200;Game stop;;;;;;;;;;;2;174.817;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409975;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;2;174.817;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409976;100500;Turnover;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;174.817;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409977;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;189.775;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409978;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;205.775;27.08;7.05;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:37:00.761283
+76409979;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;2;231.191;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409980;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;2;231.191;26.12;12.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76409981;200300;Pick'n'Roll;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;242.061;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409982;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;242.061;26.06;7.35;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 04:37:00.761283
+76409983;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;242.061;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409984;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;2;249.326;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409985;800400;2+1;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;2;249.326;26.57;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76409986;100200;Game stop;;;;;;;;;;;2;249.326;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409987;300100;Foul;6245;Darrell Arthur;3222;Denver Nuggets;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;249.326;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409988;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;281.811;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409989;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;2;281.811;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409990;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;6245;Darrell Arthur;3222;Denver Nuggets;;;2;281.811;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409991;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;283.607;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76409992;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6234;Nikola Jokic;2;307.607;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409993;800301;3+;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;307.607;26.81;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76409994;400101;Accurate pass;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;2;330.892;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409995;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;9111;D.J. Augustin;2;330.892;24.89;7.59;;;;;;;;Cut;;Floater;;;;2017-12-07 04:37:00.761283
+76409996;800302;3-;7534;Randy Foye;3222;Denver Nuggets;;;;;;;2;353.738;26.27;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76409997;100200;Game stop;;;;;;;;;;;2;353.738;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409998;100300;Rebound;;;3222;Denver Nuggets;;;;;;;2;353.738;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76409999;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;2;353.738;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410000;1800600;Timeout;;;;;;;;;;;2;353.738;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410001;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;2;379.183;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410002;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;379.183;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410003;800302;3-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;2;379.183;20.21;5.25;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410004;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;379.183;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410005;400101;Accurate pass;7534;Randy Foye;3222;Denver Nuggets;;;;;6245;Darrell Arthur;2;415.507;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410006;800301;3+;6245;Darrell Arthur;3222;Denver Nuggets;;;;;7534;Randy Foye;2;415.507;26.72;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410007;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;435.775;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410008;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;435.775;26.06;7.20;;;;;;;;Post;;Hook;;;;2017-12-07 04:37:00.761283
+76410009;100400;Steal;1860;Andre Roberson;2935;Oklahoma City Thunder;7534;Randy Foye;3222;Denver Nuggets;;;2;450.367;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410010;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;2;453.871;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410011;800201;2+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;453.871;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 04:37:00.761283
+76410012;800600;2F;6231;Will Barton;3222;Denver Nuggets;1860;Andre Roberson;2935;Oklahoma City Thunder;;;2;468.800;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 04:37:00.761283
+76410013;100200;Game stop;;;;;;;;;;;2;468.800;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410014;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;6231;Will Barton;3222;Denver Nuggets;;;2;468.800;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410015;800101;1+;6231;Will Barton;3222;Denver Nuggets;1860;Andre Roberson;2935;Oklahoma City Thunder;;;2;490.667;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410016;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;490.667;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410017;800102;1-;6231;Will Barton;3222;Denver Nuggets;1860;Andre Roberson;2935;Oklahoma City Thunder;;;2;515.069;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410018;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;515.069;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410019;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;515.069;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410020;200600;Post;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;532.858;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410021;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;532.858;25.67;3.24;;;;;;;;Post;;Jumper;;;;2017-12-07 04:37:00.761283
+76410022;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;2;532.858;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410023;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;545.207;26.12;6.81;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 04:37:00.761283
+76410024;100200;Game stop;;;;;;;;;;;2;560.344;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410025;100500;Turnover;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;560.344;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410026;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;583.030;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410027;100200;Game stop;;;;;;;;;;;2;598.030;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410028;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;2;598.030;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410029;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;2;598.030;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410030;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;626.696;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410031;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;626.696;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410032;200600;Post;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;626.696;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410033;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;626.696;26.06;4.20;;;;;;;;Post;;Jumper;;;;2017-12-07 04:37:00.761283
+76410034;100300;Rebound;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;626.696;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410035;100200;Game stop;;;;;;;;;;;2;639.906;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410036;100500;Turnover;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;639.906;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410037;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;650.079;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410038;800202;2-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;664.079;23.75;10.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410039;800202;2-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;2;664.079;26.84;7.02;;;;;;;;Putbacks;;;;;;2017-12-07 04:37:00.761283
+76410040;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;2;664.079;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410041;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;664.079;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410042;200300;Pick'n'Roll;6245;Darrell Arthur;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;675.510;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:37:00.761283
+76410043;800302;3-;6245;Darrell Arthur;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;675.510;19.79;6.33;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:37:00.761283
+76410044;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;675.510;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410045;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;680.773;21.65;2.19;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:37:00.761283
+76410046;100300;Rebound;7534;Randy Foye;3222;Denver Nuggets;;;;;;;2;680.773;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410047;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;689.507;26.84;1.50;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:37:00.761283
+76410048;100200;Game stop;;;;;;;;;;;2;707.136;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410049;100500;Turnover;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;707.136;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410050;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;733.530;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410051;100200;Game stop;;;;;;;;;;;2;739.530;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410052;1600500;Guard;7469;Joffrey Lauvergne;3222;Denver Nuggets;6234;Nikola Jokic;3222;Denver Nuggets;;;2;739.530;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410053;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;758.706;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410054;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;770.706;21.05;12.36;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:37:00.761283
+76410055;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;770.706;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410056;100200;Game stop;;;;;;;;;;;2;801.102;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410057;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;6245;Darrell Arthur;3222;Denver Nuggets;;;2;801.102;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410058;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;801.102;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410059;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;801.102;23.75;5.10;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76410060;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;801.102;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410061;800600;2F;7662;Jameer Nelson;3222;Denver Nuggets;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;813.025;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 04:37:00.761283
+76410062;100200;Game stop;;;;;;;;;;;2;813.025;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410063;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;2;813.025;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410064;800101;1+;7662;Jameer Nelson;3222;Denver Nuggets;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;834.100;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410065;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;834.100;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410066;800101;1+;7662;Jameer Nelson;3222;Denver Nuggets;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;858.582;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410067;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;861.227;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410068;800301;3+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;869.227;21.11;3.24;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410069;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;885.413;25.82;7.56;;;;;;;;Cut;;Hook;;;;2017-12-07 04:37:00.761283
+76410070;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;2;885.413;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410071;100200;Game stop;;;;;;;;;;;2;890.018;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410072;100500;Turnover;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;2;890.018;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410073;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;899.408;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410074;400101;Accurate pass;6231;Will Barton;3222;Denver Nuggets;;;;;6237;Kenneth Faried;2;910.408;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410075;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6231;Will Barton;2;910.408;26.51;8.10;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 04:37:00.761283
+76410076;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;2;927.499;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410077;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;927.499;26.06;6.48;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 04:37:00.761283
+76410078;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;7469;Joffrey Lauvergne;2;932.151;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410079;800201;2+;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;932.151;26.99;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76410080;100200;Game stop;;;;;;;;;;;2;932.151;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410081;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;2;932.151;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410082;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;2;932.151;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410083;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;953.902;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410084;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;2;970.902;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410085;800301;3+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;970.902;26.36;0.78;;;;;;;;Catch and shoot;;Hook;;;;2017-12-07 04:37:00.761283
+76410086;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;7469;Joffrey Lauvergne;2;996.016;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410087;800201;2+;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;996.016;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 04:37:00.761283
+76410088;200300;Pick'n'Roll;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1007.846;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410089;800202;2-;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1007.846;26.96;7.44;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 04:37:00.761283
+76410090;100300;Rebound;7534;Randy Foye;3222;Denver Nuggets;;;;;;;2;1007.846;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410091;400101;Accurate pass;7534;Randy Foye;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;1027.330;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410092;800301;3+;7662;Jameer Nelson;3222;Denver Nuggets;;;;;7534;Randy Foye;2;1027.330;20.66;10.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410093;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;1042.044;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410094;200600;Post;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1042.044;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410095;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1042.044;26.36;9.03;;;;;;;;Post;;Jumper;;;;2017-12-07 04:37:00.761283
+76410096;400101;Accurate pass;7534;Randy Foye;3222;Denver Nuggets;;;;;6237;Kenneth Faried;2;1067.951;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410097;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7534;Randy Foye;2;1067.951;27.08;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 04:37:00.761283
+76410098;100200;Game stop;;;;;;;;;;;2;1080.320;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410099;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;6237;Kenneth Faried;3222;Denver Nuggets;;;2;1080.320;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410100;100500;Turnover;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;1080.320;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410101;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;1102.763;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410102;200300;Pick'n'Roll;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;1115.063;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410103;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;1115.063;24.95;7.74;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 04:37:00.761283
+76410104;100300;Rebound;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;2;1115.063;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410105;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;1142.868;25.82;7.32;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 04:37:00.761283
+76410106;100200;Game stop;;;;;;;;;;;2;1166.760;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410107;300100;Foul;7534;Randy Foye;3222;Denver Nuggets;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1166.760;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410108;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1184.069;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410109;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1190.869;26.84;7.20;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:37:00.761283
+76410110;1800500;Halftime;;;;;;;;;;;2;1191.169;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410111;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410112;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410113;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410114;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410115;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410116;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410117;1600500;Guard;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410118;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410119;1600500;Guard;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410120;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410121;1600500;Guard;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410122;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;4.055;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410123;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;13.055;23.03;7.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76410124;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;13.055;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410125;100200;Game stop;;;;;;;;;;;3;26.600;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410126;100500;Turnover;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;26.600;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410127;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;34.401;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410128;100200;Game stop;;;;;;;;;;;3;46.401;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410129;100500;Turnover;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;46.401;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410130;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;66.298;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410131;800301;3+;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;3;91.298;21.95;2.04;;;;;;;;Hand offs;;Hook;;;;2017-12-07 04:37:00.761283
+76410132;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;106.036;26.42;6.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410133;100200;Game stop;;;;;;;;;;;3;106.036;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410134;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;106.036;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410135;300100;Foul;6237;Kenneth Faried;3222;Denver Nuggets;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;106.036;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410136;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;126.190;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410137;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;3;137.190;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410138;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;137.190;26.72;6.51;;;;;;;;Cut;;Hook;;;;2017-12-07 04:37:00.761283
+76410139;200300;Pick'n'Roll;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;153.068;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410140;800600;2F;6237;Kenneth Faried;3222;Denver Nuggets;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;153.068;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 04:37:00.761283
+76410141;100200;Game stop;;;;;;;;;;;3;153.068;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410142;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;6237;Kenneth Faried;3222;Denver Nuggets;;;3;153.068;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410143;800101;1+;6237;Kenneth Faried;3222;Denver Nuggets;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;172.382;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410144;800102;1-;6237;Kenneth Faried;3222;Denver Nuggets;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;185.282;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410145;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;185.282;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410146;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;186.000;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410147;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;201.000;24.44;4.50;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76410148;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;3;201.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410149;100400;Steal;1860;Andre Roberson;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;3;211.046;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410150;100200;Game stop;;;;;;;;;;;3;211.046;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410151;300100;Foul;7662;Jameer Nelson;3222;Denver Nuggets;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;211.046;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410152;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;298.843;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410153;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;306.843;26.42;14.46;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76410154;100300;Rebound;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;306.843;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410155;800202;2-;6233;Gary Harris;3222;Denver Nuggets;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;312.431;26.57;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76410156;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;312.431;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410157;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;317.763;26.42;4.65;;;;;;;;Transition;;Floater;;;;2017-12-07 04:37:00.761283
+76410158;800302;3-;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;3;345.553;21.71;12.60;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410159;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;345.553;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410160;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;361.491;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410161;200600;Post;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;361.491;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410162;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;361.491;23.75;9.36;;;;;;;;Post;;Jumper;;;;2017-12-07 04:37:00.761283
+76410163;800302;3-;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;378.840;20.66;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410164;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;378.840;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410165;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;378.840;26.12;6.78;;;;;;;;Putbacks;;Hook;;;;2017-12-07 04:37:00.761283
+76410166;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;391.906;26.96;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:37:00.761283
+76410167;100200;Game stop;;;;;;;;;;;3;391.906;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410168;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;3;391.906;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410169;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;411.875;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410170;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;430.875;25.52;4.41;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410171;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;430.875;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410172;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;3;451.718;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410173;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;451.718;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410174;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;451.718;26.42;7.17;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 04:37:00.761283
+76410175;800202;2-;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;473.957;23.90;4.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410176;100200;Game stop;;;;;;;;;;;3;473.957;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410177;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;473.957;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410178;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;507.272;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410179;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;507.272;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410180;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;6237;Kenneth Faried;3222;Denver Nuggets;;;3;507.272;26.96;7.95;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 04:37:00.761283
+76410181;800201;2+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;507.272;26.66;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:37:00.761283
+76410182;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;507.272;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410183;200600;Post;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;3;524.256;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410184;800201;2+;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;3;524.256;25.76;7.35;;;;;;;;Post;;Hook;;;;2017-12-07 04:37:00.761283
+76410185;800301;3+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;541.334;19.79;5.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410186;800302;3-;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;558.881;20.03;9.99;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410187;100200;Game stop;;;;;;;;;;;3;558.881;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410188;100300;Rebound;;;3222;Denver Nuggets;;;;;;;3;558.881;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410189;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;3;592.072;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410190;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;592.072;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410191;400101;Accurate pass;6233;Gary Harris;3222;Denver Nuggets;;;;;6237;Kenneth Faried;3;592.072;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410192;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6233;Gary Harris;3;592.072;22.88;8.67;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:37:00.761283
+76410193;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;604.315;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410194;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;604.315;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 04:37:00.761283
+76410195;800302;3-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;3;620.565;19.94;8.22;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410196;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;620.565;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410197;800202;2-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;629.075;26.06;6.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:37:00.761283
+76410198;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;3;629.075;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410199;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;3;629.075;26.72;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:37:00.761283
+76410200;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;629.075;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410201;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;7469;Joffrey Lauvergne;3;637.588;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410202;800201;2+;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;637.588;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 04:37:00.761283
+76410203;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;3;657.648;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410204;800400;2+1;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;657.648;26.84;7.65;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:37:00.761283
+76410205;100200;Game stop;;;;;;;;;;;3;657.648;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410206;300100;Foul;6231;Will Barton;3222;Denver Nuggets;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;657.648;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410207;800101;1+;1860;Andre Roberson;2935;Oklahoma City Thunder;6231;Will Barton;3222;Denver Nuggets;;;3;683.092;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410208;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;686.605;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410209;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;3;708.605;26.81;7.20;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:37:00.761283
+76410210;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;708.605;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410211;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;708.605;26.72;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 04:37:00.761283
+76410212;100300;Rebound;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;3;708.605;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410213;400101;Accurate pass;6231;Will Barton;3222;Denver Nuggets;;;;;6237;Kenneth Faried;3;717.705;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410214;200600;Post;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;717.705;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410215;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6231;Will Barton;3;717.705;25.82;7.44;;;;;;;;Post;;Hook;;;;2017-12-07 04:37:00.761283
+76410216;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;731.525;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410217;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;731.525;25.67;5.55;;;;;;;;Post;;Jumper;;;;2017-12-07 04:37:00.761283
+76410218;800201;2+;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;3;750.755;26.96;8.04;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:37:00.761283
+76410219;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;762.542;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410220;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;762.542;19.79;7.02;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76410221;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;3;785.132;24.02;9.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410222;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;3;785.132;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410223;800202;2-;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;795.732;25.04;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 04:37:00.761283
+76410224;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;795.732;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410225;400101;Accurate pass;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7469;Joffrey Lauvergne;3;800.251;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410226;800201;2+;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;6237;Kenneth Faried;3;800.251;27.08;2.73;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 04:37:00.761283
+76410227;100200;Game stop;;;;;;;;;;;3;810.702;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410228;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;3;810.702;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410229;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;833.845;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410230;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;833.845;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410231;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;6237;Kenneth Faried;3222;Denver Nuggets;;;3;833.845;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410232;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;3;833.845;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410233;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;7662;Jameer Nelson;3222;Denver Nuggets;;;3;833.845;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410234;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;833.845;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410235;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;3;833.845;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410236;800201;2+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;833.845;26.96;13.83;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410237;400101;Accurate pass;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6233;Gary Harris;3;854.602;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410238;800301;3+;6233;Gary Harris;3222;Denver Nuggets;;;;;6231;Will Barton;3;854.602;21.95;2.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410239;800302;3-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;896.730;19.34;5.97;;;;;;;;;;Jumper;;;;2017-12-07 04:37:00.761283
+76410240;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;896.730;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410241;100400;Steal;6233;Gary Harris;3222;Denver Nuggets;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;896.730;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410242;800400;2+1;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;906.285;26.84;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76410243;100200;Game stop;;;;;;;;;;;3;906.285;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410244;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;6233;Gary Harris;3222;Denver Nuggets;;;3;906.285;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410245;800102;1-;6233;Gary Harris;3222;Denver Nuggets;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;3;929.878;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410246;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;929.878;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410247;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;929.878;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410248;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;941.483;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410249;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;941.483;26.99;7.20;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:37:00.761283
+76410250;800302;3-;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;952.564;22.28;2.16;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:37:00.761283
+76410251;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;952.564;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410252;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;3;962.465;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410253;800201;2+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;962.465;21.41;9.21;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 04:37:00.761283
+76410254;100200;Game stop;;;;;;;;;;;3;978.379;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410255;300100;Foul;6234;Nikola Jokic;3222;Denver Nuggets;1853;Nick Collison;2935;Oklahoma City Thunder;;;3;978.379;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410256;100500;Turnover;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;978.379;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410257;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;1010.908;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410258;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;1010.908;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410259;800600;2F;1857;Enes Freedom;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;3;1010.908;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:37:00.761283
+76410260;100200;Game stop;;;;;;;;;;;3;1010.908;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410261;300100;Foul;6234;Nikola Jokic;3222;Denver Nuggets;1857;Enes Freedom;2935;Oklahoma City Thunder;;;3;1010.908;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410262;800102;1-;1857;Enes Freedom;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;3;1034.508;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410263;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;1034.508;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410264;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;3;1049.039;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410265;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;1059.696;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410266;800600;2F;6245;Darrell Arthur;3222;Denver Nuggets;1861;Cameron Payne;2935;Oklahoma City Thunder;;;3;1067.796;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410267;100200;Game stop;;;;;;;;;;;3;1067.796;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410268;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;6245;Darrell Arthur;3222;Denver Nuggets;;;3;1067.796;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410269;800101;1+;6245;Darrell Arthur;3222;Denver Nuggets;1861;Cameron Payne;2935;Oklahoma City Thunder;;;3;1089.041;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410270;800101;1+;6245;Darrell Arthur;3222;Denver Nuggets;1861;Cameron Payne;2935;Oklahoma City Thunder;;;3;1104.916;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410271;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;1106.692;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410272;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1117.692;19.94;8.67;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410273;400101;Accurate pass;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6234;Nikola Jokic;3;1132.470;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410274;200600;Post;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;1132.470;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410275;800201;2+;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6245;Darrell Arthur;3;1132.470;26.27;6.51;;;;;;;;Post;;;;;;2017-12-07 04:37:00.761283
+76410276;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;1145.251;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410277;800301;3+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;1145.251;26.84;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410278;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;7534;Randy Foye;3;1171.790;23.90;9.06;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 04:37:00.761283
+76410279;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;1171.790;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410280;800201;2+;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;1171.790;26.57;6.87;;;;;;;;Putbacks;;;;;;2017-12-07 04:37:00.761283
+76410281;1800500;Halftime;;;;;;;;;;;3;1171.790;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410282;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410283;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410284;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410285;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410286;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410287;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410288;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410289;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410290;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410291;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410292;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410293;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;6.635;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410294;100400;Steal;1857;Enes Freedom;2935;Oklahoma City Thunder;6245;Darrell Arthur;3222;Denver Nuggets;;;4;17.635;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410295;400101;Accurate pass;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;39.528;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410296;800301;3+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;39.528;26.81;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410297;800302;3-;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;66.676;21.71;12.84;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410298;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;66.676;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410299;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;80.470;20.36;10.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410300;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;80.470;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410301;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;92.316;21.41;8.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410302;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;92.316;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410303;200300;Pick'n'Roll;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6231;Will Barton;4;103.140;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:37:00.761283
+76410304;800202;2-;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6231;Will Barton;4;103.140;21.71;7.02;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:37:00.761283
+76410305;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;103.140;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410306;100200;Game stop;;;;;;;;;;;4;109.981;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410307;100500;Turnover;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;109.981;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410308;300100;Foul;1853;Nick Collison;2935;Oklahoma City Thunder;6245;Darrell Arthur;3222;Denver Nuggets;;;4;109.981;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410309;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;123.171;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410310;400101;Accurate pass;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6231;Will Barton;4;139.171;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410311;800301;3+;6231;Will Barton;3222;Denver Nuggets;;;;;6234;Nikola Jokic;4;139.171;20.33;11.04;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76410312;800202;2-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;161.318;26.51;6.48;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 04:37:00.761283
+76410313;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;161.318;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410314;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;4;172.649;25.67;7.80;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:37:00.761283
+76410315;100200;Game stop;;;;;;;;;;;4;172.649;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410316;100300;Rebound;;;3222;Denver Nuggets;;;;;;;4;172.649;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410317;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;187.362;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410318;800201;2+;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;193.362;27.23;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:37:00.761283
+76410319;100200;Game stop;;;;;;;;;;;4;193.362;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410320;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;193.362;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410321;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;223.116;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410322;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;223.116;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410323;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;223.116;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410324;800600;2F;1857;Enes Freedom;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;4;223.116;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 04:37:00.761283
+76410325;100200;Game stop;;;;;;;;;;;4;223.116;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410326;300100;Foul;6234;Nikola Jokic;3222;Denver Nuggets;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;223.116;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410327;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;4;249.136;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410328;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;268.736;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410329;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;268.736;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410330;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;4;268.736;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410331;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;273.114;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410332;100200;Game stop;;;;;;;;;;;4;284.114;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410333;100500;Turnover;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;284.114;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410334;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;298.026;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410335;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;4;315.026;21.98;10.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410336;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;4;315.026;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410337;100400;Steal;6234;Nikola Jokic;3222;Denver Nuggets;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;326.494;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410338;100200;Game stop;;;;;;;;;;;4;334.813;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410339;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;6231;Will Barton;3222;Denver Nuggets;;;4;334.813;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410340;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;352.270;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410341;800201;2+;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;360.270;26.51;7.44;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 04:37:00.761283
+76410342;100200;Game stop;;;;;;;;;;;4;372.619;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410343;300100;Foul;7534;Randy Foye;3222;Denver Nuggets;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;372.619;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410344;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;372.619;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410345;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;400.845;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410346;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;411.845;24.65;11.58;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:37:00.761283
+76410347;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;411.845;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410348;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;411.845;26.57;7.11;;;;;;;;Putbacks;;;;;;2017-12-07 04:37:00.761283
+76410349;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;431.711;26.99;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:37:00.761283
+76410350;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;431.711;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410351;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;431.711;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410352;100200;Game stop;;;;;;;;;;;4;431.711;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410353;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;4;431.711;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410354;200300;Pick'n'Roll;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;431.711;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410355;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;431.711;26.99;7.11;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 04:37:00.761283
+76410356;1600500;Guard;7469;Joffrey Lauvergne;3222;Denver Nuggets;6234;Nikola Jokic;3222;Denver Nuggets;;;4;444.240;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410357;300100;Foul;6234;Nikola Jokic;3222;Denver Nuggets;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;444.240;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410358;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;6234;Nikola Jokic;3222;Denver Nuggets;;;4;462.687;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410359;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;470.634;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410360;800202;2-;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;490.634;21.71;3.66;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 04:37:00.761283
+76410361;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;490.634;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410362;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;511.151;21.71;7.17;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410363;100200;Game stop;;;;;;;;;;;4;511.151;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410364;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;511.151;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410365;300100;Foul;7469;Joffrey Lauvergne;3222;Denver Nuggets;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;511.151;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410366;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;524.675;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410367;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;528.675;26.96;7.26;;;;;;;;;;Lay up;;;;2017-12-07 04:37:00.761283
+76410368;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;528.675;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410369;800600;2F;1857;Enes Freedom;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;4;528.675;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 04:37:00.761283
+76410370;100200;Game stop;;;;;;;;;;;4;528.675;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410371;300100;Foul;7662;Jameer Nelson;3222;Denver Nuggets;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;528.675;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410372;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;4;552.770;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410373;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;6245;Darrell Arthur;3222;Denver Nuggets;;;4;552.770;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410374;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;4;585.572;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410375;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;585.572;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410376;100200;Game stop;;;;;;;;;;;4;585.572;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410377;1600500;Guard;6233;Gary Harris;3222;Denver Nuggets;7534;Randy Foye;3222;Denver Nuggets;;;4;585.572;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410378;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;625.900;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410379;400101;Accurate pass;6231;Will Barton;3222;Denver Nuggets;;;;;7469;Joffrey Lauvergne;4;634.900;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410380;800201;2+;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;6231;Will Barton;4;634.900;26.51;7.35;;;;;;;;Cut;;Hook;;;;2017-12-07 04:37:00.761283
+76410381;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;649.301;27.02;7.62;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 04:37:00.761283
+76410382;800202;2-;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;6231;Will Barton;4;667.157;26.99;1.02;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410383;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;667.157;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410384;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;682.712;26.57;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:37:00.761283
+76410385;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;682.712;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410386;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;696.173;26.57;6.27;;;;;;;;Cut;;Hook;;;;2017-12-07 04:37:00.761283
+76410387;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;696.173;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410388;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;4;701.978;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410389;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;701.978;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 04:37:00.761283
+76410390;100200;Game stop;;;;;;;;;;;4;701.978;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410391;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;4;701.978;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410392;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;720.055;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410393;400101;Accurate pass;6231;Will Barton;3222;Denver Nuggets;;;;;6233;Gary Harris;4;731.055;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410394;800301;3+;6233;Gary Harris;3222;Denver Nuggets;;;;;6231;Will Barton;4;731.055;26.72;14.52;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76410395;400101;Accurate pass;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;771.643;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410396;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;771.643;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 04:37:00.761283
+76410397;800201;2+;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;792.017;21.80;10.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410398;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;815.196;23.75;7.59;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 04:37:00.761283
+76410399;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;815.196;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410400;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;830.516;26.84;7.05;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:37:00.761283
+76410401;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;830.516;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410402;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;830.516;26.84;7.20;;;;;;;;Putbacks;;;;;;2017-12-07 04:37:00.761283
+76410403;200300;Pick'n'Roll;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;849.108;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:37:00.761283
+76410404;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;849.108;26.99;6.51;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 04:37:00.761283
+76410405;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6237;Kenneth Faried;4;849.108;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410406;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7662;Jameer Nelson;4;861.498;26.81;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:37:00.761283
+76410407;100200;Game stop;;;;;;;;;;;4;861.498;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410408;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;861.498;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410409;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;890.712;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410410;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;890.712;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410411;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;890.712;26.42;6.12;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 04:37:00.761283
+76410412;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;907.947;20.51;3.48;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:37:00.761283
+76410413;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;4;907.947;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410414;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;4;915.191;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:37:00.761283
+76410415;100200;Game stop;;;;;;;;;;;4;915.191;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410416;300100;Foul;7662;Jameer Nelson;3222;Denver Nuggets;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;915.191;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410417;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;4;943.240;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410418;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;7662;Jameer Nelson;3222;Denver Nuggets;;;4;958.698;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410419;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;964.231;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410420;100400;Steal;8331;Dion Waiters;2935;Oklahoma City Thunder;6237;Kenneth Faried;3222;Denver Nuggets;;;4;977.231;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410421;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;981.553;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 04:37:00.761283
+76410422;800202;2-;6231;Will Barton;3222;Denver Nuggets;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;995.759;26.96;7.17;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:37:00.761283
+76410423;100200;Game stop;;;;;;;;;;;4;995.759;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410424;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;995.759;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410425;300300;Technical foul;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;1005.079;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410426;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;1022.602;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410427;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1039.353;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410428;200300;Pick'n'Roll;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1053.353;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410429;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1053.353;26.99;7.80;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 04:37:00.761283
+76410430;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;1053.353;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410431;800600;2F;6233;Gary Harris;3222;Denver Nuggets;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1075.187;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:37:00.761283
+76410432;100200;Game stop;;;;;;;;;;;4;1075.187;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410433;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;6233;Gary Harris;3222;Denver Nuggets;;;4;1075.187;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410434;800101;1+;6233;Gary Harris;3222;Denver Nuggets;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1097.521;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410435;800101;1+;6233;Gary Harris;3222;Denver Nuggets;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1115.847;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410436;800600;2F;1858;Steven Adams;2935;Oklahoma City Thunder;6231;Will Barton;3222;Denver Nuggets;;;4;1116.413;27.05;7.62;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410437;300100;Foul;6231;Will Barton;3222;Denver Nuggets;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1116.413;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410438;800101;1+;1858;Steven Adams;2935;Oklahoma City Thunder;6231;Will Barton;3222;Denver Nuggets;;;4;1157.553;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410439;800101;1+;1858;Steven Adams;2935;Oklahoma City Thunder;6231;Will Barton;3222;Denver Nuggets;;;4;1173.695;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410440;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;1176.668;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410441;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;1188.668;22.25;3.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:37:00.761283
+76410442;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;4;1188.668;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410443;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1210.980;27.02;7.62;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 04:37:00.761283
+76410444;200600;Post;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;4;1223.679;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410445;800600;2F;7469;Joffrey Lauvergne;3222;Denver Nuggets;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1223.679;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 04:37:00.761283
+76410446;100200;Game stop;;;;;;;;;;;4;1223.679;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410447;300100;Foul;7464;Kevin Durant;2935;Oklahoma City Thunder;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;4;1223.679;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410448;800101;1+;7469;Joffrey Lauvergne;3222;Denver Nuggets;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1249.519;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410449;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1249.519;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410450;800101;1+;7469;Joffrey Lauvergne;3222;Denver Nuggets;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1265.707;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410451;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1270.157;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76410452;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1291.757;25.49;8.97;;;;;;;;Isolation;;Floater;Drives Left;;;2017-12-07 04:37:00.761283
+76410453;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;1291.656;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410454;100400;Steal;6233;Gary Harris;3222;Denver Nuggets;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;1291.656;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410455;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;1300.681;19.64;9.72;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:37:00.761283
+76410456;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;1300.681;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+76410457;1800700;Match end;;;;;;;;;;;4;1308.481;;;;;;;;;;;;;;;;2017-12-07 04:37:00.761283
+103663435;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7469;Joffrey Lauvergne;1;62.231;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663437;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;115.521;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663439;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;104434;Kostas Papanikolaou;1;136.313;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663441;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;182.807;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663443;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;104434;Kostas Papanikolaou;1;213.063;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663445;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;249.040;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663447;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6233;Gary Harris;1;266.234;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663449;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;278.244;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663451;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;317.334;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663453;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;339.588;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663455;200900;Assisting;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;104434;Kostas Papanikolaou;1;373.278;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663457;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;395.768;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663459;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;411.729;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663461;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;424.955;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663463;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;439.779;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663465;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;453.184;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663467;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;530.749;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663469;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;553.950;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663471;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6233;Gary Harris;1;631.969;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663473;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;665.583;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663475;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;738.841;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663477;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;801.500;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663479;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;824.139;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663481;200900;Assisting;7534;Randy Foye;3222;Denver Nuggets;;;;;;;1;855.912;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663483;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;877.035;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663485;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;899.469;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663487;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;948.454;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663489;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;6231;Will Barton;1;983.472;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663491;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;1022.944;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663493;200900;Assisting;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;20.439;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663495;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;164.316;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663497;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;205.775;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663499;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;2;231.191;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663501;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;2;249.326;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663503;200900;Assisting;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;307.607;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663505;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;9111;D.J. Augustin;2;330.892;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663507;200900;Assisting;6245;Darrell Arthur;3222;Denver Nuggets;;;;;7534;Randy Foye;2;415.507;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663509;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;435.775;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663511;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;453.871;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663513;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;468.800;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663515;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;545.207;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663517;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;689.507;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663519;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;2;813.025;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663521;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;869.227;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663523;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6231;Will Barton;2;910.408;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663525;200900;Assisting;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;932.151;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663527;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;970.902;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663529;200900;Assisting;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;996.016;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663531;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;7534;Randy Foye;2;1027.330;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663533;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1042.044;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663535;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7534;Randy Foye;2;1067.951;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663537;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;1142.868;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663539;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1190.869;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663541;200900;Assisting;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;3;91.298;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663543;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;137.190;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663545;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;153.068;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663547;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;317.763;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663549;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;361.491;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663551;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;378.840;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663553;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;391.906;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663555;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;451.718;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663557;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;507.272;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663559;200900;Assisting;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;3;524.256;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663561;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;541.334;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663563;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6233;Gary Harris;3;592.072;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663565;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;604.315;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663567;200900;Assisting;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;637.588;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663569;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;657.648;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663571;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6231;Will Barton;3;717.705;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663573;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;731.525;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663575;200900;Assisting;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;3;750.755;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663577;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;762.542;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663579;200900;Assisting;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;6237;Kenneth Faried;3;800.251;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663581;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;833.845;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663583;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;6231;Will Barton;3;854.602;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663585;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;906.285;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663587;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;941.483;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663589;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;962.465;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663591;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;3;1010.908;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663593;200900;Assisting;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;3;1067.796;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663595;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1117.692;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663597;200900;Assisting;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6245;Darrell Arthur;3;1132.470;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663599;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;1145.251;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663601;200900;Assisting;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;1171.790;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663603;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;39.528;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663605;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;6234;Nikola Jokic;4;139.171;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663607;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;193.362;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663609;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;223.116;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663611;200900;Assisting;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;360.270;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663613;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;411.845;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663615;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;431.711;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663617;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;528.675;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663619;200900;Assisting;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;6231;Will Barton;4;634.900;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663621;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;649.301;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663623;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;701.978;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663625;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;6231;Will Barton;4;731.055;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663627;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;771.643;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663629;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;792.017;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663631;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;830.516;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663633;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;849.108;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663635;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7662;Jameer Nelson;4;861.498;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663637;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;890.712;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663639;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;915.191;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663641;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;981.553;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663643;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;;;4;1075.187;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663645;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;4;1116.413;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663647;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1210.980;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663649;200900;Assisting;7469;Joffrey Lauvergne;3222;Denver Nuggets;;;;;;;4;1223.679;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076

@@ -1,0 +1,855 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76990488;1601000;Starting lineup;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990489;1601000;Starting lineup;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990490;1601000;Starting lineup;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990491;1601000;Starting lineup;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990492;1601000;Starting lineup;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990493;1601000;Starting lineup;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990494;1601000;Starting lineup;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990495;1601000;Starting lineup;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990496;1601000;Starting lineup;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990497;1601000;Starting lineup;191;Ian Clark;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990498;1601000;Starting lineup;1924;James Michael McAdoo;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990499;1601000;Starting lineup;1126;Jason Thompson;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990500;1601000;Starting lineup;190;Marreese Speights;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990501;1601000;Starting lineup;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990502;1601000;Starting lineup;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990503;1601000;Starting lineup;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990504;1601000;Starting lineup;12;Andre Iguodala;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990505;1601000;Starting lineup;189;Brandon Rush;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990506;1601000;Starting lineup;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990507;1601000;Starting lineup;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990508;1601000;Starting lineup;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990509;1601000;Starting lineup;10;Draymond Green;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990510;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990511;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990512;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990513;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990514;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990515;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990516;1600500;Guard;10;Draymond Green;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990517;1600500;Guard;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990518;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990519;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990520;1600500;Guard;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990521;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;36.981;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990522;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;50.981;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990523;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;50.981;24.74;10.80;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76990524;800302;3-;10;Draymond Green;2;Golden State Warriors;;;;;;;1;71.688;19.34;9.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990525;100200;Game stop;;;;;;;;;;;1;71.688;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990526;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;71.688;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990527;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;77.902;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990528;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;88.902;25.97;10.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990529;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;88.902;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990530;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;101.292;18.59;9.84;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990531;100300;Rebound;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;101.292;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990532;400101;Accurate pass;13;Klay Thompson;2;Golden State Warriors;;;;;194;Andrew Bogut;1;101.292;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990533;800201;2+;194;Andrew Bogut;2;Golden State Warriors;;;;;13;Klay Thompson;1;101.292;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:02:04.861675
+76990534;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;118.814;27.05;7.68;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:02:04.861675
+76990535;800202;2-;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;136.898;26.78;6.30;;;;;;;;Cut;;Hook;;;;2017-12-07 11:02:04.861675
+76990536;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;136.898;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990537;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;151.987;23.87;12.75;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990538;100300;Rebound;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;151.987;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990539;800301;3+;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;159.625;20.81;4.11;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:02:04.861675
+76990540;100400;Steal;13;Klay Thompson;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;171.501;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990541;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;177.627;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990542;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;187.728;20.33;12.06;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990543;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;216.912;25.67;5.70;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:02:04.861675
+76990544;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;216.912;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990545;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;229.327;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990546;200300;Pick'n'Roll;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;229.327;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:02:04.861675
+76990547;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;229.327;26.84;8.04;;;;;;;;Pick'n'pop;;Lay up;;;;2017-12-07 11:02:04.861675
+76990548;800302;3-;189;Brandon Rush;2;Golden State Warriors;;;;;;;1;241.222;20.51;12.96;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:02:04.861675
+76990549;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;241.222;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990550;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;254.977;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990551;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;254.977;26.06;10.11;;;;;;;;Post;;Jumper;;;;2017-12-07 11:02:04.861675
+76990552;100200;Game stop;;;;;;;;;;;1;254.977;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990553;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;254.977;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990554;300100;Foul;13;Klay Thompson;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;254.977;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990555;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;269.055;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990556;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;280.055;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990557;200300;Pick'n'Roll;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;280.055;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990558;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;280.055;27.98;3.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990559;800202;2-;10;Draymond Green;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;320.813;26.42;9.51;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76990560;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;320.813;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990561;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;332.739;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990562;800301;3+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;332.739;19.34;9.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990563;800600;2F;11;Stephen Curry;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;1;345.196;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:02:04.861675
+76990564;100200;Game stop;;;;;;;;;;;1;345.196;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990565;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;1;345.196;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990566;800101;1+;11;Stephen Curry;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;1;369.934;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990567;800101;1+;11;Stephen Curry;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;1;385.327;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990568;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;386.547;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990569;100400;Steal;10;Draymond Green;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;402.547;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990570;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;414.531;22.88;1.23;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990571;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;414.531;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990572;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;422.980;26.66;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990573;100200;Game stop;;;;;;;;;;;1;422.980;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990574;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;422.980;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990575;300100;Foul;194;Andrew Bogut;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;422.980;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990576;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;440.782;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990577;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;443.782;26.93;14.88;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:02:04.861675
+76990578;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;443.782;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990579;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;449.338;25.10;14.91;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:02:04.861675
+76990580;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;449.338;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990581;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;189;Brandon Rush;2;Golden State Warriors;;;1;461.727;26.99;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990582;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;461.727;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990583;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;461.727;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990584;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;461.727;27.08;7.95;;;;;;;;Post;;Lay up;;;;2017-12-07 11:02:04.861675
+76990585;400101;Accurate pass;194;Andrew Bogut;2;Golden State Warriors;;;;;11;Stephen Curry;1;478.078;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990586;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;194;Andrew Bogut;1;478.078;26.84;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76990587;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;492.196;27.38;11.34;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76990588;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;507.368;26.81;7.95;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:02:04.861675
+76990589;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;539.844;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990590;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;539.844;26.27;12.15;;;;;;;;Post;;Jumper;;;;2017-12-07 11:02:04.861675
+76990591;100300;Rebound;189;Brandon Rush;2;Golden State Warriors;;;;;;;1;539.844;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990592;800301;3+;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;551.245;27.38;0.96;;;;;;;;;;Jumper;;;;2017-12-07 11:02:04.861675
+76990593;200600;Post;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;567.685;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990594;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;567.685;26.57;8.04;;;;;;;;Post;;Lay up;;;;2017-12-07 11:02:04.861675
+76990595;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;567.685;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990596;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;13;Klay Thompson;1;575.092;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990597;800201;2+;13;Klay Thompson;2;Golden State Warriors;;;;;10;Draymond Green;1;575.092;26.81;7.89;;;;;;;;Transition;;;;;;2017-12-07 11:02:04.861675
+76990598;100200;Game stop;;;;;;;;;;;1;575.092;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990599;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;1;575.092;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990600;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;606.838;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990601;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;13;Klay Thompson;2;Golden State Warriors;;;1;606.838;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990602;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;606.838;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990603;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;606.838;23.57;4.47;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990604;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;606.838;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990605;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;606.838;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990606;800301;3+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;606.838;27.77;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990607;100200;Game stop;;;;;;;;;;;1;618.758;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990608;100500;Turnover;12;Andre Iguodala;2;Golden State Warriors;;;;;;;1;618.758;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990609;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;628.360;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990610;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;642.360;21.98;13.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990611;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;642.360;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990612;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;1;651.827;26.84;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990613;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;651.827;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990614;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;662.075;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990615;800301;3+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;662.075;18.89;7.95;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990616;800202;2-;189;Brandon Rush;2;Golden State Warriors;;;;;;;1;679.595;25.37;3.42;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:02:04.861675
+76990617;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;679.595;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990618;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;1;693.795;26.99;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:02:04.861675
+76990619;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;1;693.795;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990620;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;698.684;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990621;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;1;698.684;26.96;8.10;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990622;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;712.350;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990623;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;712.350;26.99;8.10;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:02:04.861675
+76990624;800202;2-;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;725.645;22.88;7.83;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990625;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;725.645;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990626;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;733.374;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990627;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;733.374;26.99;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990628;100200;Game stop;;;;;;;;;;;1;733.374;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990629;1800600;Timeout;;;2;Golden State Warriors;;;;;;;1;733.374;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990630;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;189;Brandon Rush;2;Golden State Warriors;;;1;770.487;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990631;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;770.487;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990632;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;1;770.487;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990633;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;770.487;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990634;800302;3-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;1;770.487;21.95;14.07;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990635;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;770.487;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990636;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;784.444;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990637;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;784.444;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990638;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;784.444;26.42;9.27;;;;;;;;Post;;Hook;;;;2017-12-07 11:02:04.861675
+76990639;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;806.261;27.38;4.59;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:02:04.861675
+76990640;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;806.261;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990641;100400;Steal;16;Shaun Livingston;2;Golden State Warriors;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;810.805;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990642;100200;Game stop;;;;;;;;;;;1;814.089;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990643;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;16;Shaun Livingston;2;Golden State Warriors;;;1;814.089;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990644;1600500;Guard;15;Festus Ezeli;2;Golden State Warriors;194;Andrew Bogut;2;Golden State Warriors;;;1;867.312;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990645;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;867.312;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990646;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;867.312;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990647;800202;2-;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;867.312;26.51;8.64;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990648;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;867.312;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990649;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;867.312;27.38;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990650;800201;2+;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;867.312;27.38;14.73;;;;;;;;Catch and shoot;;Dunk;;;;2017-12-07 11:02:04.861675
+76990651;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;867.312;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990652;100200;Game stop;;;;;;;;;;;1;867.312;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990653;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;15;Festus Ezeli;2;Golden State Warriors;;;1;867.312;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990654;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;907.019;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990655;800101;1+;15;Festus Ezeli;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;907.019;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990656;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;911.576;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990657;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;928.676;24.50;12.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990658;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;928.676;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990659;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;1;933.890;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990660;800400;2+1;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;933.890;26.99;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990661;100200;Game stop;;;;;;;;;;;1;933.890;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990662;300100;Foul;9012;Rashad Vaughn;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;1;933.890;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990663;800101;1+;10;Draymond Green;2;Golden State Warriors;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;1;957.928;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990664;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;960.263;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990665;800202;2-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;969.963;24.14;12.42;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:02:04.861675
+76990666;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;969.963;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990667;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;979.575;27.68;2.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990668;100200;Game stop;;;;;;;;;;;1;992.187;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990669;100500;Turnover;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;992.187;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990670;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;1004.299;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990671;200300;Pick'n'Roll;10;Draymond Green;2;Golden State Warriors;;;;;;;1;1022.299;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:02:04.861675
+76990672;800600;2F;10;Draymond Green;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;1;1022.299;27.05;7.62;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:02:04.861675
+76990673;100200;Game stop;;;;;;;;;;;1;1022.299;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990674;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;1;1022.299;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990675;800101;1+;10;Draymond Green;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;1;1043.271;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990676;1600500;Guard;17;Leandro Mateus Barbosa;2;Golden State Warriors;11;Stephen Curry;2;Golden State Warriors;;;1;1061.468;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990677;800101;1+;10;Draymond Green;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;1;1061.468;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990678;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;1064.805;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990679;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;1071.305;24.05;4.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990680;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;1071.305;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990681;1800500;Halftime;;;;;;;;;;;1;1071.705;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990682;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990683;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990684;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990685;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990686;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990687;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990688;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990689;1600500;Guard;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990690;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990691;1600500;Guard;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990692;1600500;Guard;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990693;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990694;200600;Post;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;19.212;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990695;800202;2-;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;19.212;26.75;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:02:04.861675
+76990696;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;19.212;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990697;200300;Pick'n'Roll;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;30.798;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990698;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;30.798;26.72;7.80;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:02:04.861675
+76990699;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;30.798;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990700;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;44.356;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990701;100200;Game stop;;;;;;;;;;;2;44.356;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990702;300100;Foul;15;Festus Ezeli;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;2;44.356;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990703;800302;3-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;44.356;27.23;14.94;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990704;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;52.899;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990705;100400;Steal;15;Festus Ezeli;2;Golden State Warriors;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;70.899;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990706;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;15;Festus Ezeli;2;78.235;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990707;800201;2+;15;Festus Ezeli;2;Golden State Warriors;;;;;12;Andre Iguodala;2;78.235;26.99;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990708;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;96.613;21.95;7.02;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76990709;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;96.613;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990710;100200;Game stop;;;;;;;;;;;2;96.613;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990711;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;12;Andre Iguodala;2;Golden State Warriors;;;2;96.613;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990712;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;107.163;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990713;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;2;123.163;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990714;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;128.490;26.72;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990715;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;128.490;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990716;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;15;Festus Ezeli;2;135.305;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990717;800400;2+1;15;Festus Ezeli;2;Golden State Warriors;;;;;16;Shaun Livingston;2;135.305;26.72;8.19;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990718;100200;Game stop;;;;;;;;;;;2;135.305;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990719;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;15;Festus Ezeli;2;Golden State Warriors;;;2;135.305;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990720;800101;1+;15;Festus Ezeli;2;Golden State Warriors;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;163.688;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990721;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;164.953;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990722;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9022;John Henson;2;179.953;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990723;200600;Post;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;179.953;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990724;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;179.953;26.99;9.99;;;;;;;;Post;;Hook;;;;2017-12-07 11:02:04.861675
+76990725;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;193.909;25.22;10.29;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:02:04.861675
+76990726;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;193.909;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990727;800302;3-;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;2;207.295;27.23;14.79;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990728;100300;Rebound;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;207.295;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990729;100200;Game stop;;;;;;;;;;;2;218.686;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990730;100500;Turnover;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;2;218.686;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990731;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;243.809;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990732;400101;Accurate pass;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;262.809;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:02:04.861675
+76990733;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;2;262.809;22.37;9.57;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:02:04.861675
+76990734;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;2;273.953;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990735;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9022;John Henson;2;279.243;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990736;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;279.243;26.81;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990737;100200;Game stop;;;;;;;;;;;2;288.299;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990738;1800600;Timeout;;;2;Golden State Warriors;;;;;;;2;288.299;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990739;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;12;Andre Iguodala;2;Golden State Warriors;;;2;312.572;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990740;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;312.572;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990741;100200;Game stop;;;;;;;;;;;2;312.572;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990742;300100;Foul;15;Festus Ezeli;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;2;312.572;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990743;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;320.628;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990744;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9022;John Henson;2;334.628;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990745;200300;Pick'n'Roll;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;334.628;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990746;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;334.628;26.81;7.98;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:02:04.861675
+76990747;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;190;Marreese Speights;2;348.975;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990748;800201;2+;190;Marreese Speights;2;Golden State Warriors;;;;;16;Shaun Livingston;2;348.975;26.96;7.74;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76990749;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;370.099;26.84;9.57;;;;;;;;Cut;;Hook;;;;2017-12-07 11:02:04.861675
+76990750;100200;Game stop;;;;;;;;;;;2;370.099;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990751;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;370.099;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990752;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;382.166;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990753;100400;Steal;15;Festus Ezeli;2;Golden State Warriors;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;387.166;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990754;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;414.125;26.84;5.55;;;;;;;;;;Jumper;;;;2017-12-07 11:02:04.861675
+76990755;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;414.125;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990756;800202;2-;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;414.125;27.62;8.19;;;;;;;;Putbacks;;;;;;2017-12-07 11:02:04.861675
+76990757;100200;Game stop;;;;;;;;;;;2;414.125;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990758;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;414.125;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990759;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;453.220;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990760;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;453.220;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990761;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;453.220;22.28;10.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990762;100300;Rebound;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;453.220;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990763;800202;2-;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;468.475;27.08;5.97;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 11:02:04.861675
+76990764;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;468.475;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990765;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;13;Klay Thompson;2;Golden State Warriors;;;2;475.672;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:02:04.861675
+76990766;100200;Game stop;;;;;;;;;;;2;475.672;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990767;300100;Foul;13;Klay Thompson;2;Golden State Warriors;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;475.672;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990768;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;13;Klay Thompson;2;Golden State Warriors;;;2;507.081;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990769;1600500;Guard;10;Draymond Green;2;Golden State Warriors;190;Marreese Speights;2;Golden State Warriors;;;2;532.293;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990770;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;13;Klay Thompson;2;Golden State Warriors;;;2;532.293;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990771;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;534.918;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990772;100400;Steal;9012;Rashad Vaughn;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;2;549.918;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990773;100200;Game stop;;;;;;;;;;;2;558.101;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990774;100500;Turnover;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;558.101;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990775;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;573.955;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990776;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;587.955;20.36;11.76;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:02:04.861675
+76990777;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;587.955;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990778;400101;Accurate pass;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;607.641;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990779;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;607.641;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990780;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9022;John Henson;2;607.641;25.22;4.95;;;;;;;;Post;;Jumper;;;;2017-12-07 11:02:04.861675
+76990781;200600;Post;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;618.582;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990782;800600;2F;15;Festus Ezeli;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;2;618.582;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:02:04.861675
+76990783;100200;Game stop;;;;;;;;;;;2;618.582;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990784;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;15;Festus Ezeli;2;Golden State Warriors;;;2;618.582;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990785;1800600;Timeout;;;;;;;;;;;2;618.582;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990786;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;16;Shaun Livingston;2;Golden State Warriors;;;2;639.043;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990787;1600500;Guard;11;Stephen Curry;2;Golden State Warriors;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;2;639.043;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990788;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;2;639.043;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990789;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;2;639.043;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990790;800102;1-;15;Festus Ezeli;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;2;639.043;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990791;100300;Rebound;;;2;Golden State Warriors;;;;;;;2;639.043;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990792;800101;1+;15;Festus Ezeli;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;2;654.633;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990793;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;656.728;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990794;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;2;676.728;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990795;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;676.728;26.84;3.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990796;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;692.959;22.25;7.74;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:02:04.861675
+76990797;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;692.959;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990798;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;2;706.465;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990799;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;2;706.465;26.99;7.80;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76990800;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;722.914;23.75;12.21;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76990801;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;722.914;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990802;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;728.303;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990803;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;728.303;26.72;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990804;100200;Game stop;;;;;;;;;;;2;743.629;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990805;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;2;743.629;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990806;1600500;Guard;194;Andrew Bogut;2;Golden State Warriors;15;Festus Ezeli;2;Golden State Warriors;;;2;774.303;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990807;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;774.303;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990808;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;774.303;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990809;400101;Accurate pass;13;Klay Thompson;2;Golden State Warriors;;;;;10;Draymond Green;2;774.303;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990810;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;13;Klay Thompson;2;774.303;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:02:04.861675
+76990811;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;801.737;27.23;14.97;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:02:04.861675
+76990812;100200;Game stop;;;;;;;;;;;2;801.737;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990813;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;801.737;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990814;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;820.082;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990815;200600;Post;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;827.082;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990816;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;827.082;27.23;12.66;;;;;;;;Post;;Jumper;;;;2017-12-07 11:02:04.861675
+76990817;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;827.082;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990818;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;12;Andre Iguodala;2;Golden State Warriors;;;2;827.082;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:02:04.861675
+76990819;100200;Game stop;;;;;;;;;;;2;827.082;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990820;300100;Foul;12;Andre Iguodala;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;827.082;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990821;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;12;Andre Iguodala;2;Golden State Warriors;;;2;854.501;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990822;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;12;Andre Iguodala;2;Golden State Warriors;;;2;870.705;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990823;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;871.947;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990824;800202;2-;11;Stephen Curry;2;Golden State Warriors;;;;;;;2;885.947;24.35;7.59;;;;;;;;Hand offs;;Floater;;;;2017-12-07 11:02:04.861675
+76990825;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;885.947;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990826;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;899.093;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990827;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;194;Andrew Bogut;2;Golden State Warriors;;;2;899.093;26.72;8.37;;;;;;;;Post;;Lay up;;;;2017-12-07 11:02:04.861675
+76990828;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;899.093;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990829;800202;2-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;907.202;26.72;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990830;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;2;907.202;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990831;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;;;2;907.202;27.05;7.95;;;;;;;;Putbacks;;;;;;2017-12-07 11:02:04.861675
+76990832;100200;Game stop;;;;;;;;;;;2;921.205;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990833;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;2;921.205;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990834;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;2;921.205;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990835;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;935.744;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990836;100200;Game stop;;;;;;;;;;;2;953.744;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990837;100500;Turnover;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;953.744;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990838;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;963.239;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990839;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;974.239;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990840;800301;3+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;974.239;20.96;12.30;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990841;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;10;Draymond Green;2;1007.965;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990842;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;12;Andre Iguodala;2;1007.965;26.84;8.43;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:02:04.861675
+76990843;100200;Game stop;;;;;;;;;;;2;1022.452;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990844;300100;Foul;11;Stephen Curry;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;1022.452;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990845;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1040.173;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990846;400101;Accurate pass;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;1051.173;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990847;800301;3+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;1051.173;21.80;14.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990848;400101;Accurate pass;194;Andrew Bogut;2;Golden State Warriors;;;;;11;Stephen Curry;2;1061.658;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:02:04.861675
+76990849;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;194;Andrew Bogut;2;1061.658;25.19;2.85;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:02:04.861675
+76990850;100400;Steal;12;Andre Iguodala;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;1076.452;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990851;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;2;1108.388;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990852;100200;Game stop;;;;;;;;;;;2;1108.388;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990853;300100;Foul;11;Stephen Curry;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1108.388;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990854;800102;1-;9019;Greg Monroe;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;2;1131.730;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990855;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;1131.730;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990856;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;2;1145.074;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990857;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;1148.553;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990858;800202;2-;194;Andrew Bogut;2;Golden State Warriors;;;;;;;2;1167.953;26.72;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76990859;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1167.953;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990860;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;2;1173.555;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990861;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;2;1173.555;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:02:04.861675
+76990862;800202;2-;11;Stephen Curry;2;Golden State Warriors;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;1181.333;26.63;8.01;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990863;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;2;1181.333;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990864;800600;2F;11;Stephen Curry;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;1181.333;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:02:04.861675
+76990865;100200;Game stop;;;;;;;;;;;2;1181.333;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990866;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;2;1181.333;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990867;800101;1+;11;Stephen Curry;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;1214.341;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990868;800101;1+;11;Stephen Curry;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;1234.333;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990869;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1234.333;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990870;1800500;Halftime;;;;;;;;;;;2;1236.033;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990871;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990872;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990873;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990874;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990875;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990876;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990877;1600500;Guard;10;Draymond Green;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990878;1600500;Guard;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990879;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990880;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990881;1600500;Guard;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990882;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990883;100400;Steal;95270;OJ Mayo;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;3;12.996;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990884;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;18.277;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990885;100200;Game stop;;;;;;;;;;;3;18.277;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990886;300100;Foul;189;Brandon Rush;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;3;18.277;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990887;800400;2+1;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;18.277;26.99;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990888;800102;1-;370973;Jabari Parker;3280;Milwaukee Bucks;189;Brandon Rush;2;Golden State Warriors;;;3;43.914;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990889;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;43.914;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990890;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;43.914;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990891;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;3;54.863;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990892;200300;Pick'n'Roll;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;3;54.863;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:02:04.861675
+76990893;800400;2+1;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;3;54.863;26.96;7.65;;;;;;;;Pick'n'pop;;Lay up;;;;2017-12-07 11:02:04.861675
+76990894;100200;Game stop;;;;;;;;;;;3;54.863;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990895;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;54.863;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990896;800101;1+;10;Draymond Green;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;84.547;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990897;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;87.159;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990898;200600;Post;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;101.159;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990899;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;101.159;27.05;12.36;;;;;;;;Post;;Jumper;;;;2017-12-07 11:02:04.861675
+76990900;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;101.159;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990901;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;189;Brandon Rush;3;108.307;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990902;800301;3+;189;Brandon Rush;2;Golden State Warriors;;;;;10;Draymond Green;3;108.307;23.60;14.46;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:02:04.861675
+76990903;100200;Game stop;;;;;;;;;;;3;129.051;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990904;100500;Turnover;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;129.051;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990905;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;132.467;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990906;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;150.467;20.51;13.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990907;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;150.467;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990908;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;194;Andrew Bogut;2;Golden State Warriors;;;3;161.648;26.57;11.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76990909;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;161.648;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990910;100400;Steal;9020;Khris Middleton;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;170.581;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990911;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;175.120;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990912;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;175.120;26.57;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76990913;100200;Game stop;;;;;;;;;;;3;187.301;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990914;100500;Turnover;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;187.301;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990915;300100;Foul;13;Klay Thompson;2;Golden State Warriors;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;187.301;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990916;800101;1+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;208.616;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990917;800101;1+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;221.510;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990918;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;233.387;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990919;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;251.387;26.72;8.34;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76990920;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;251.387;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990921;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;251.387;26.72;7.98;;;;;;;;Putbacks;;;;;;2017-12-07 11:02:04.861675
+76990922;800302;3-;189;Brandon Rush;2;Golden State Warriors;;;;;;;3;271.287;27.53;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990923;100200;Game stop;;;;;;;;;;;3;271.287;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990924;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;3;271.287;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990925;300100;Foul;10;Draymond Green;2;Golden State Warriors;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;271.287;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990926;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;289.536;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990927;100200;Game stop;;;;;;;;;;;3;301.536;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990928;100500;Turnover;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;301.536;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990929;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;308.419;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990930;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;3;326.419;26.66;9.06;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76990931;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;326.419;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990932;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;;;3;326.419;27.08;7.65;;;;;;;;Putbacks;;;;;;2017-12-07 11:02:04.861675
+76990933;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;194;Andrew Bogut;2;Golden State Warriors;;;3;345.094;26.99;7.56;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 11:02:04.861675
+76990934;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;345.094;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990935;200600;Post;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;358.365;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990936;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;358.365;25.49;6.63;;;;;;;;Post;;Jumper;;;;2017-12-07 11:02:04.861675
+76990937;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;358.365;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990938;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;194;Andrew Bogut;2;Golden State Warriors;;;3;366.747;26.99;7.83;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:02:04.861675
+76990939;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;390.909;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990940;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;194;Andrew Bogut;2;Golden State Warriors;;;3;390.909;27.05;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:02:04.861675
+76990941;100300;Rebound;189;Brandon Rush;2;Golden State Warriors;;;;;;;3;390.909;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990942;800600;2F;189;Brandon Rush;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;397.297;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:02:04.861675
+76990943;100200;Game stop;;;;;;;;;;;3;397.297;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990944;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;189;Brandon Rush;2;Golden State Warriors;;;3;397.297;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990945;800101;1+;189;Brandon Rush;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;433.919;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990946;800102;1-;189;Brandon Rush;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;446.474;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990947;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;446.474;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990948;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;446.474;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990949;100200;Game stop;;;;;;;;;;;3;454.138;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990950;300300;Technical foul;9019;Greg Monroe;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;454.138;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990951;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;473.132;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990952;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;487.132;21.05;12.81;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:02:04.861675
+76990953;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;487.132;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990954;800400;2+1;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;496.272;26.96;7.89;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:02:04.861675
+76990955;100200;Game stop;;;;;;;;;;;3;496.272;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990956;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;3;496.272;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990957;800101;1+;11;Stephen Curry;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;3;522.657;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990958;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;525.036;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990959;200300;Pick'n'Roll;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;542.036;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:02:04.861675
+76990960;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;542.036;26.99;7.95;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 11:02:04.861675
+76990961;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;542.036;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990962;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;542.036;26.99;7.68;;;;;;;;Putbacks;;;;;;2017-12-07 11:02:04.861675
+76990963;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;3;555.554;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990964;200300;Pick'n'Roll;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;3;555.554;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990965;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;3;555.554;27.08;7.74;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:02:04.861675
+76990966;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;577.576;26.66;9.30;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76990967;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;577.576;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990968;100400;Steal;9020;Khris Middleton;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;584.525;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990969;100200;Game stop;;;;;;;;;;;3;584.633;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990970;300100;Foul;10;Draymond Green;2;Golden State Warriors;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;584.633;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990971;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;624.496;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990972;800600;2F;370973;Jabari Parker;3280;Milwaukee Bucks;189;Brandon Rush;2;Golden State Warriors;;;3;633.496;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:02:04.861675
+76990973;100200;Game stop;;;;;;;;;;;3;633.496;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990974;300100;Foul;189;Brandon Rush;2;Golden State Warriors;370973;Jabari Parker;3280;Milwaukee Bucks;;;3;633.496;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990975;800101;1+;370973;Jabari Parker;3280;Milwaukee Bucks;189;Brandon Rush;2;Golden State Warriors;;;3;660.327;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990976;800102;1-;370973;Jabari Parker;3280;Milwaukee Bucks;189;Brandon Rush;2;Golden State Warriors;;;3;673.335;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990977;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;673.335;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990978;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;673.335;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990979;400101;Accurate pass;194;Andrew Bogut;2;Golden State Warriors;;;;;13;Klay Thompson;3;689.128;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990980;800201;2+;13;Klay Thompson;2;Golden State Warriors;;;;;194;Andrew Bogut;3;689.128;26.84;7.95;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76990981;100400;Steal;11;Stephen Curry;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;697.930;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990982;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;707.701;19.34;5.04;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:02:04.861675
+76990983;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;707.701;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990984;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;13;Klay Thompson;3;707.701;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990985;800301;3+;13;Klay Thompson;2;Golden State Warriors;;;;;11;Stephen Curry;3;707.701;27.23;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990986;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;728.762;19.88;4.65;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:02:04.861675
+76990987;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;728.762;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990988;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;728.762;21.56;13.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76990989;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;728.762;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990990;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;189;Brandon Rush;3;740.332;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990991;800201;2+;189;Brandon Rush;2;Golden State Warriors;;;;;10;Draymond Green;3;740.332;26.84;8.13;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:02:04.861675
+76990992;100200;Game stop;;;;;;;;;;;3;740.332;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990993;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;3;740.332;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990994;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;13;Klay Thompson;2;Golden State Warriors;;;3;771.323;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990995;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;771.323;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990996;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;771.323;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76990997;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;771.323;26.27;7.83;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:02:04.861675
+76990998;100200;Game stop;;;;;;;;;;;3;789.049;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76990999;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;3;789.049;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991000;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;814.750;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991001;800202;2-;189;Brandon Rush;2;Golden State Warriors;;;;;;;3;825.750;26.81;7.80;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:02:04.861675
+76991002;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;825.750;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991003;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;828.008;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991004;100200;Game stop;;;;;;;;;;;3;828.008;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991005;300100;Foul;10;Draymond Green;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;828.008;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991006;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;854.350;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991007;1600500;Guard;15;Festus Ezeli;2;Golden State Warriors;194;Andrew Bogut;2;Golden State Warriors;;;3;874.031;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991008;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;874.031;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991009;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;877.726;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991010;800600;2F;11;Stephen Curry;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;891.726;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:02:04.861675
+76991011;100200;Game stop;;;;;;;;;;;3;891.726;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991012;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;3;891.726;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991013;800101;1+;11;Stephen Curry;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;913.640;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991014;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;936.032;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991015;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;189;Brandon Rush;2;Golden State Warriors;;;3;936.032;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991016;800102;1-;11;Stephen Curry;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;936.032;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991017;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;936.032;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991018;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;3;936.032;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991019;800600;2F;15;Festus Ezeli;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;3;936.032;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:02:04.861675
+76991020;100200;Game stop;;;;;;;;;;;3;936.032;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991021;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;15;Festus Ezeli;2;Golden State Warriors;;;3;936.032;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991022;800102;1-;15;Festus Ezeli;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;3;965.175;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991023;100300;Rebound;;;2;Golden State Warriors;;;;;;;3;965.175;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991024;800102;1-;15;Festus Ezeli;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;3;984.192;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991025;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;984.192;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991026;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;984.192;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991027;400101;Accurate pass;9022;John Henson;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;1007.755;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991028;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9022;John Henson;3;1007.755;27.77;13.65;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76991029;100400;Steal;370973;Jabari Parker;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;1024.020;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991030;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;1028.642;27.23;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76991031;200300;Pick'n'Roll;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1053.077;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:02:04.861675
+76991032;800600;2F;10;Draymond Green;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;3;1053.077;27.05;7.62;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:02:04.861675
+76991033;100200;Game stop;;;;;;;;;;;3;1053.077;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991034;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;1053.077;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991035;800102;1-;10;Draymond Green;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;3;1075.377;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991036;100300;Rebound;;;2;Golden State Warriors;;;;;;;3;1075.377;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991037;800101;1+;10;Draymond Green;2;Golden State Warriors;9022;John Henson;3280;Milwaukee Bucks;;;3;1090.410;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991038;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1091.831;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991039;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;3;1113.831;27.05;8.73;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:02:04.861675
+76991040;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;3;1113.831;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991041;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;;;3;1123.475;24.74;8.34;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:02:04.861675
+76991042;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1123.475;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991043;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1123.475;26.57;7.35;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:02:04.861675
+76991044;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;3;1123.475;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991045;800201;2+;15;Festus Ezeli;2;Golden State Warriors;;;;;;;3;1123.475;27.23;7.59;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:02:04.861675
+76991046;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;1138.465;26.12;4.26;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:02:04.861675
+76991047;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;1138.465;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991048;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;16;Shaun Livingston;3;1144.878;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991049;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;12;Andre Iguodala;3;1144.878;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:02:04.861675
+76991050;200600;Post;9022;John Henson;3280;Milwaukee Bucks;;;;;;;3;1173.495;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991051;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;3;1173.495;27.50;4.86;;;;;;;;Post;;Jumper;;;;2017-12-07 11:02:04.861675
+76991052;100200;Game stop;;;;;;;;;;;3;1173.495;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991053;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;3;1173.495;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991054;100500;Turnover;9022;John Henson;3280;Milwaukee Bucks;;;;;;;3;1173.495;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991055;1800600;Timeout;;;2;Golden State Warriors;;;;;;;3;1173.495;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991056;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;1204.833;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991057;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;1204.833;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991058;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;1204.833;26.84;7.83;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:02:04.861675
+76991059;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;1224.688;23.57;3.39;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:02:04.861675
+76991060;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;1224.688;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991061;800202;2-;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;1233.208;26.96;13.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76991062;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;1233.208;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991063;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;1247.837;26.72;6.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76991064;800202;2-;12;Andre Iguodala;2;Golden State Warriors;;;;;11;Stephen Curry;3;1264.381;23.03;5.97;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76991065;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;1264.381;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991066;200600;Post;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;1280.511;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991067;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;1280.511;25.67;8.19;;;;;;;;Post;;Jumper;;;;2017-12-07 11:02:04.861675
+76991068;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1280.511;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991069;100400;Steal;370973;Jabari Parker;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;3;1284.861;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991070;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;1301.694;25.67;8.97;;;;;;;;Cut;;Hook;;;;2017-12-07 11:02:04.861675
+76991071;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;3;1301.694;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991072;1800500;Halftime;;;;;;;;;;;3;1301.694;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991073;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991074;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991075;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991076;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991077;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991078;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991079;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991080;1600500;Guard;15;Festus Ezeli;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991081;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991082;1600500;Guard;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991083;1600500;Guard;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991084;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;0.710;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991085;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1126;Jason Thompson;2;Golden State Warriors;;;4;14.710;26.84;8.43;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:02:04.861675
+76991086;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;14.710;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991087;800202;2-;12;Andre Iguodala;2;Golden State Warriors;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;20.059;26.96;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76991088;100200;Game stop;;;;;;;;;;;4;20.059;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991089;100300;Rebound;;;2;Golden State Warriors;;;;;;;4;20.059;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991090;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;42.034;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991091;100200;Game stop;;;;;;;;;;;4;50.034;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991092;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;15;Festus Ezeli;2;Golden State Warriors;;;4;50.034;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991093;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;4;88.026;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991094;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;88.026;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991095;800202;2-;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;88.026;25.37;12.84;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76991096;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;88.026;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991097;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;99.086;27.23;12.75;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76991098;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;99.086;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991099;800202;2-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;107.538;21.56;5.82;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:02:04.861675
+76991100;100300;Rebound;16;Shaun Livingston;2;Golden State Warriors;;;;;;;4;107.538;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991101;100200;Game stop;;;;;;;;;;;4;107.538;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991102;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;16;Shaun Livingston;2;Golden State Warriors;;;4;107.538;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991103;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;132.086;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991104;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;4;145.086;25.58;11.64;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:02:04.861675
+76991105;100200;Game stop;;;;;;;;;;;4;145.086;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991106;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;145.086;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991107;300100;Foul;1126;Jason Thompson;2;Golden State Warriors;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;145.086;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991108;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;161.671;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991109;400101;Accurate pass;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;179.671;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991110;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;4;179.671;25.10;8.13;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:02:04.861675
+76991111;100400;Steal;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;15;Festus Ezeli;2;Golden State Warriors;;;4;190.759;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991112;100200;Game stop;;;;;;;;;;;4;197.254;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991113;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;12;Andre Iguodala;2;Golden State Warriors;;;4;197.254;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991114;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;210.814;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991115;800302;3-;12;Andre Iguodala;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;4;223.814;23.45;14.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76991116;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;223.814;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991117;800400;2+1;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;246.300;25.22;9.06;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:02:04.861675
+76991118;100200;Game stop;;;;;;;;;;;4;246.300;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991119;300100;Foul;17;Leandro Mateus Barbosa;2;Golden State Warriors;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;246.300;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991120;800101;1+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;275.150;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991121;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;277.071;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991122;800202;2-;15;Festus Ezeli;2;Golden State Warriors;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;298.071;26.36;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76991123;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;298.071;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991124;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;312.708;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991125;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;312.708;27.08;5.19;;;;;;;;Post;;Hook;;;;2017-12-07 11:02:04.861675
+76991126;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;312.708;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991127;100200;Game stop;;;;;;;;;;;4;319.570;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991128;1800600;Timeout;;;;;;;;;;;4;319.570;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991129;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;12;Andre Iguodala;2;Golden State Warriors;;;4;351.333;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991130;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;351.333;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991131;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;351.333;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991132;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;351.333;25.82;7.89;;;;;;;;Cut;;Hook;;;;2017-12-07 11:02:04.861675
+76991133;400101;Accurate pass;13;Klay Thompson;2;Golden State Warriors;;;;;15;Festus Ezeli;4;367.398;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991134;800201;2+;15;Festus Ezeli;2;Golden State Warriors;;;;;13;Klay Thompson;4;367.398;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:02:04.861675
+76991135;100200;Game stop;;;;;;;;;;;4;383.115;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991136;100500;Turnover;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;383.115;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991137;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;387.935;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991138;200600;Post;15;Festus Ezeli;2;Golden State Warriors;;;;;;;4;406.935;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991139;800202;2-;15;Festus Ezeli;2;Golden State Warriors;;;;;;;4;406.935;25.64;9.66;;;;;;;;Post;;Hook;;;;2017-12-07 11:02:04.861675
+76991140;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;406.935;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991141;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;423.097;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991142;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;423.097;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991143;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;423.097;25.82;7.83;;;;;;;;Post;;Hook;;;;2017-12-07 11:02:04.861675
+76991144;800302;3-;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;442.326;19.28;6.48;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76991145;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;442.326;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991146;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;4;464.120;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991147;100200;Game stop;;;;;;;;;;;4;464.120;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991148;1800600;Timeout;;;2;Golden State Warriors;;;;;;;4;464.120;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991149;800201;2+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;464.120;27.62;2.70;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76991150;1600500;Guard;10;Draymond Green;2;Golden State Warriors;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;501.410;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991151;1600500;Guard;11;Stephen Curry;2;Golden State Warriors;1126;Jason Thompson;2;Golden State Warriors;;;4;501.410;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991152;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;4;501.410;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991153;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;501.410;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991154;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;4;501.410;19.88;5.82;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:02:04.861675
+76991155;100200;Game stop;;;;;;;;;;;4;501.410;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991156;300100;Foul;15;Festus Ezeli;2;Golden State Warriors;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;501.410;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991157;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;501.410;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991158;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;15;Festus Ezeli;2;Golden State Warriors;;;4;536.411;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991159;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;536.411;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991160;100400;Steal;16;Shaun Livingston;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;536.411;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991161;800600;2F;13;Klay Thompson;2;Golden State Warriors;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;541.730;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:02:04.861675
+76991162;100200;Game stop;;;;;;;;;;;4;541.730;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991163;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;13;Klay Thompson;2;Golden State Warriors;;;4;541.730;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991164;800102;1-;13;Klay Thompson;2;Golden State Warriors;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;573.204;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991165;100300;Rebound;;;2;Golden State Warriors;;;;;;;4;573.204;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991166;800101;1+;13;Klay Thompson;2;Golden State Warriors;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;586.006;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991167;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;589.336;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991168;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;609.336;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991169;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;609.336;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:02:04.861675
+76991170;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;16;Shaun Livingston;4;618.424;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991171;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;12;Andre Iguodala;4;618.424;26.96;7.98;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76991172;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;639.692;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991173;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;639.692;26.99;7.89;;;;;;;;Post;;Lay up;;;;2017-12-07 11:02:04.861675
+76991174;800600;2F;13;Klay Thompson;2;Golden State Warriors;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;653.839;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:02:04.861675
+76991175;100200;Game stop;;;;;;;;;;;4;653.839;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991176;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;13;Klay Thompson;2;Golden State Warriors;;;4;653.839;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991177;800102;1-;13;Klay Thompson;2;Golden State Warriors;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;675.625;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991178;100300;Rebound;;;2;Golden State Warriors;;;;;;;4;675.625;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991179;800101;1+;13;Klay Thompson;2;Golden State Warriors;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;688.272;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991180;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;688.598;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991181;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;708.598;27.62;15.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76991182;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;4;708.598;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991183;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;4;722.731;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991184;800301;3+;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;4;722.731;20.63;3.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76991185;800302;3-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;750.713;20.75;3.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:02:04.861675
+76991186;100200;Game stop;;;;;;;;;;;4;750.713;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991187;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;750.713;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991188;100500;Turnover;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;750.713;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991189;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;767.975;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991190;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;;;4;773.975;26.99;7.68;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:02:04.861675
+76991191;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;795.344;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991192;800400;2+1;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;795.344;26.84;7.95;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76991193;100200;Game stop;;;;;;;;;;;4;795.344;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991194;300100;Foul;13;Klay Thompson;2;Golden State Warriors;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;795.344;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991195;800102;1-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;13;Klay Thompson;2;Golden State Warriors;;;4;826.099;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991196;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;826.099;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991197;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;826.099;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991198;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;4;837.484;19.79;10.98;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:02:04.861675
+76991199;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;837.484;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991200;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;850.543;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991201;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;850.543;26.57;7.74;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 11:02:04.861675
+76991202;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;;;4;870.862;20.09;11.43;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:02:04.861675
+76991203;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;870.862;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991204;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;10;Draymond Green;4;870.862;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991205;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;12;Andre Iguodala;4;870.862;26.99;7.89;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:02:04.861675
+76991206;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;887.636;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991207;100200;Game stop;;;;;;;;;;;4;887.636;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991208;1800600;Timeout;;;2;Golden State Warriors;;;;;;;4;887.636;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991209;300100;Foul;10;Draymond Green;2;Golden State Warriors;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;887.636;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991210;800400;2+1;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;887.636;26.99;7.83;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:02:04.861675
+76991211;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;4;908.110;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991212;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;908.428;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991213;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;4;921.428;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991214;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;925.612;26.66;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:02:04.861675
+76991215;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;4;932.825;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991216;800301;3+;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;4;932.825;22.67;14.73;;;;;;;;;;Jumper;;;;2017-12-07 11:02:04.861675
+76991217;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;961.167;26.12;8.04;;;;;;;;Cut;;Hook;;;;2017-12-07 11:02:04.861675
+76991218;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;961.167;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991219;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;983.410;22.67;3.87;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:02:04.861675
+76991220;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;4;983.410;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991221;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;10;Draymond Green;2;Golden State Warriors;;;4;988.982;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991222;100400;Steal;12;Andre Iguodala;2;Golden State Warriors;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;993.063;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991223;800302;3-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;999.788;21.35;13.05;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:02:04.861675
+76991224;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;999.788;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991225;800600;2F;9191;Michael Carter-Williams;3280;Milwaukee Bucks;12;Andre Iguodala;2;Golden State Warriors;;;4;1021.244;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:02:04.861675
+76991226;100200;Game stop;;;;;;;;;;;4;1021.244;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991227;300100;Foul;12;Andre Iguodala;2;Golden State Warriors;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;1021.244;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991228;800101;1+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;12;Andre Iguodala;2;Golden State Warriors;;;4;1047.825;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991229;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;10;Draymond Green;2;Golden State Warriors;;;4;1076.678;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991230;1600500;Guard;15;Festus Ezeli;2;Golden State Warriors;13;Klay Thompson;2;Golden State Warriors;;;4;1076.678;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991231;1600500;Guard;17;Leandro Mateus Barbosa;2;Golden State Warriors;11;Stephen Curry;2;Golden State Warriors;;;4;1076.678;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991232;1600500;Guard;1924;James Michael McAdoo;2;Golden State Warriors;12;Andre Iguodala;2;Golden State Warriors;;;4;1076.678;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991233;1600500;Guard;191;Ian Clark;2;Golden State Warriors;16;Shaun Livingston;2;Golden State Warriors;;;4;1076.678;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991234;800101;1+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;12;Andre Iguodala;2;Golden State Warriors;;;4;1076.678;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991235;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;1077.072;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991236;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;189;Brandon Rush;2;Golden State Warriors;;;4;1095.172;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991237;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1099.409;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:02:04.861675
+76991238;800201;2+;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;1117.884;27.05;8.04;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:02:04.861675
+76991239;100200;Game stop;;;;;;;;;;;4;1144.526;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991240;100500;Turnover;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;1144.526;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+76991241;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;1144.526;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76991242;1800700;Match end;;;;;;;;;;;4;1147.626;;;;;;;;;;;;;;;;2017-12-07 11:02:04.861675
+102325871;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;11;Stephen Curry;2;Golden State Warriors;;;1;992.187;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+102325872;100500;Turnover;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;312.572;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+102325873;100500;Turnover;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;921.205;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+102325874;100500;Turnover;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;197.254;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+103688996;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;50.981;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103688998;200900;Assisting;194;Andrew Bogut;2;Golden State Warriors;;;;;13;Klay Thompson;1;101.292;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689000;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;118.814;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689002;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;159.625;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689004;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;187.728;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689006;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;229.327;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689008;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;280.055;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689010;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;332.739;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689012;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;345.196;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689014;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;461.727;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689016;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;194;Andrew Bogut;1;478.078;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689018;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;492.196;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689020;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;507.368;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689022;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;551.245;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689024;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;10;Draymond Green;1;575.092;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689026;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;606.838;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689028;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;662.075;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689030;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;1;698.684;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689032;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;712.350;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689034;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;733.374;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689036;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;784.444;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689038;200900;Assisting;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;867.312;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689040;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;933.890;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689042;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;979.575;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689044;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;;;1;1022.299;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689046;200900;Assisting;15;Festus Ezeli;2;Golden State Warriors;;;;;12;Andre Iguodala;2;78.235;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689048;200900;Assisting;15;Festus Ezeli;2;Golden State Warriors;;;;;16;Shaun Livingston;2;135.305;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689050;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;179.953;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689052;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;2;262.809;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689054;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;279.243;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689056;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;334.628;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689058;200900;Assisting;190;Marreese Speights;2;Golden State Warriors;;;;;16;Shaun Livingston;2;348.975;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689060;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;475.672;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689062;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9022;John Henson;2;607.641;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689064;200900;Assisting;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;618.582;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689066;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;676.728;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689068;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;2;706.465;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689070;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;728.303;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689072;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;13;Klay Thompson;2;774.303;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689074;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;827.082;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689076;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;;;2;907.202;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689078;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;974.239;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689080;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;12;Andre Iguodala;2;1007.965;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689082;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;1051.173;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689084;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;194;Andrew Bogut;2;1061.658;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689086;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1108.388;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689088;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;2;1173.555;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689090;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;2;1181.333;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689092;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;18.277;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689094;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;3;54.863;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689096;200900;Assisting;189;Brandon Rush;2;Golden State Warriors;;;;;10;Draymond Green;3;108.307;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689098;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;175.120;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689100;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;251.387;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689102;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;;;3;326.419;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689104;200900;Assisting;189;Brandon Rush;2;Golden State Warriors;;;;;;;3;397.297;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689106;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;496.272;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689108;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;542.036;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689110;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;3;555.554;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689112;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;633.496;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689114;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;194;Andrew Bogut;3;689.128;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689116;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;11;Stephen Curry;3;707.701;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689118;200900;Assisting;189;Brandon Rush;2;Golden State Warriors;;;;;10;Draymond Green;3;740.332;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689120;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;771.323;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689122;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;828.008;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689124;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;891.726;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689126;200900;Assisting;15;Festus Ezeli;2;Golden State Warriors;;;;;;;3;936.032;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689128;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9022;John Henson;3;1007.755;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689130;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;1028.642;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689132;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1053.077;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689134;200900;Assisting;15;Festus Ezeli;2;Golden State Warriors;;;;;;;3;1123.475;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689136;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;12;Andre Iguodala;3;1144.878;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689138;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;1204.833;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689140;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;1247.837;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689142;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;4;179.671;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689144;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;246.300;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689146;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;351.333;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689148;200900;Assisting;15;Festus Ezeli;2;Golden State Warriors;;;;;13;Klay Thompson;4;367.398;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689150;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;423.097;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689152;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;464.120;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689154;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;;;4;541.730;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689156;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;609.336;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689158;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;12;Andre Iguodala;4;618.424;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689160;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;639.692;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689162;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;;;4;653.839;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689164;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;4;722.731;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689166;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;4;773.975;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689168;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;795.344;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689170;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;850.543;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689172;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;12;Andre Iguodala;4;870.862;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689174;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;887.636;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689176;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;925.612;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689178;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;4;932.825;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689180;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1021.244;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689182;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1099.409;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735
+103689184;200900;Assisting;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;1117.884;;;;;;;;;;;;;;;;2018-04-19 11:31:01.046735

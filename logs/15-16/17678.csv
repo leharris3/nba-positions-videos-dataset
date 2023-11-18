@@ -1,0 +1,821 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77091931;1601000;Starting lineup;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091932;1601000;Starting lineup;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091933;1601000;Starting lineup;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091934;1601000;Starting lineup;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091935;1601000;Starting lineup;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091936;1601000;Starting lineup;7776;Jerian Grant;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091937;1601000;Starting lineup;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091938;1601000;Starting lineup;6036;Lance Thomas;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091939;1601000;Starting lineup;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091940;1601000;Starting lineup;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091941;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091947;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091948;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091949;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091950;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091951;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091956;100200;Game stop;;;;;;;;;;;1;32.716;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091958;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;36.509;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77091959;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;1;52.509;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091960;800301;3+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;52.509;20.36;3.87;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77091962;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;67.808;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091963;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;81.096;26.72;7.11;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:48:01.652
+77091965;100200;Game stop;;;;;;;;;;;1;91.194;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091967;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;100.952;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77091968;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;113.952;27.08;3.39;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:48:01.652
+77091971;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;123.952;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091972;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;135.467;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77091973;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;135.467;21.56;8.97;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:48:01.652
+77091977;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;1165;Kawhi Leonard;20;San Antonio Spurs;;;1;153.756;26.42;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:48:01.652
+77091978;100200;Game stop;;;;;;;;;;;1;153.756;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091979;100300;Rebound;;;3173;New York Knicks;;;;;;;1;153.756;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091980;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;171.104;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77091981;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;176.104;20.51;4.20;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77091984;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;1171;Tim Duncan;20;San Antonio Spurs;;;1;210.687;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:48:01.652
+77091985;100200;Game stop;;;;;;;;;;;1;210.687;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091987;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;1171;Tim Duncan;20;San Antonio Spurs;;;1;233.794;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091988;800102;1-;6029;Carmelo Anthony;3173;New York Knicks;1171;Tim Duncan;20;San Antonio Spurs;;;1;250.725;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091994;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;288.973;26.81;4.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77091996;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;301.689;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091997;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6030;Robin Lopez;1;315.646;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091998;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;315.646;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091999;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;315.646;25.97;5.64;;;;;;;;Post;;Hook;;;;2017-12-07 11:48:01.652
+77092000;100400;Steal;6028;Kristaps Porzingis;3173;New York Knicks;1171;Tim Duncan;20;San Antonio Spurs;;;1;327.687;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092001;100200;Game stop;;;;;;;;;;;1;327.687;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092002;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;327.687;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092008;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;373.084;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092009;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;1;383.550;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:48:01.652
+77092010;100200;Game stop;;;;;;;;;;;1;383.550;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092012;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;1;402.950;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092014;800102;1-;6028;Kristaps Porzingis;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;1;425.558;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092020;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;465.217;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:48:01.652
+77092021;800201;2+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6030;Robin Lopez;1;465.217;26.06;12.42;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:48:01.652
+77092023;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;480.768;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092024;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;1170;Manu Ginobili;20;San Antonio Spurs;;;1;490.318;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092025;100200;Game stop;;;;;;;;;;;1;490.318;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092027;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;1170;Manu Ginobili;20;San Antonio Spurs;;;1;511.061;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092029;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;1170;Manu Ginobili;20;San Antonio Spurs;;;1;540.571;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092032;100200;Game stop;;;;;;;;;;;1;556.197;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092033;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;1167;Tony Parker;20;San Antonio Spurs;;;1;556.197;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092036;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;593.403;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092037;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;607.403;25.49;1.95;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77092041;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;638.750;26.66;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092044;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;671.775;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092045;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;671.775;26.81;5.64;;;;;;;;Post;;Hook;;;;2017-12-07 11:48:01.652
+77092048;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;681.085;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092049;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;696.037;26.57;8.64;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092052;100200;Game stop;;;;;;;;;;;1;712.205;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092053;1800600;Timeout;;;3173;New York Knicks;;;;;;;1;712.205;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092056;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;1;712.205;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092057;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;732.042;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092058;200300;Pick'n'Roll;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;748.042;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092059;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;748.042;26.12;3.12;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:48:01.652
+77092062;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;764.706;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092063;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6036;Lance Thomas;1;768.874;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092064;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;768.874;26.72;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:48:01.652
+77092066;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;778.029;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092067;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;6036;Lance Thomas;1;789.624;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092068;800301;3+;6036;Lance Thomas;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;789.624;26.27;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092071;100200;Game stop;;;;;;;;;;;1;816.979;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092073;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;816.979;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092077;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;863.691;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092078;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;863.691;26.42;5.58;;;;;;;;Post;;Hook;;;;2017-12-07 11:48:01.652
+77092081;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;876.759;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092082;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;883.002;24.20;2.94;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092084;100200;Game stop;;;;;;;;;;;1;908.160;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092085;300100;Foul;6036;Lance Thomas;3173;New York Knicks;1165;Kawhi Leonard;20;San Antonio Spurs;;;1;908.160;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092088;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;1;935.160;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092090;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;958.936;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092091;800302;3-;7776;Jerian Grant;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;981.936;21.41;12.81;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092094;100300;Rebound;7776;Jerian Grant;3173;New York Knicks;;;;;;;1;990.456;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092095;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;996.549;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092096;800301;3+;6029;Carmelo Anthony;3173;New York Knicks;;;;;7776;Jerian Grant;1;996.549;20.03;10.29;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092099;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6036;Lance Thomas;1;1032.617;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092100;800301;3+;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;1;1032.617;20.09;10.14;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092102;100200;Game stop;;;;;;;;;;;1;1053.772;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092103;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;1170;Manu Ginobili;20;San Antonio Spurs;;;1;1053.772;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092105;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;1;1075.448;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092107;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;1097.627;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092108;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;1165;Kawhi Leonard;20;San Antonio Spurs;;;1;1115.327;26.57;7.80;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:48:01.652
+77092111;100200;Game stop;;;;;;;;;;;1;1120.376;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092112;300100;Foul;369815;Langston Galloway;3173;New York Knicks;1166;Patty Mills;20;San Antonio Spurs;;;1;1120.376;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092116;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;1167.669;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092117;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;1174.869;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092118;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;1170;Manu Ginobili;20;San Antonio Spurs;;;1;1174.869;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:48:01.652
+77092119;100200;Game stop;;;;;;;;;;;1;1174.869;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092121;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;1170;Manu Ginobili;20;San Antonio Spurs;;;1;1202.787;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092122;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;1;1202.787;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092123;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;1170;Manu Ginobili;20;San Antonio Spurs;;;1;1219.985;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092127;1800500;Halftime;;;;;;;;;;;1;1227.691;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092128;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092134;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092135;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092136;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092137;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092138;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092139;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;2.534;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092140;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7776;Jerian Grant;2;18.534;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092141;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7776;Jerian Grant;2;18.534;25.22;7.44;;;;;;;;Pick'n'pop;;Hook;Drives Left;;;2017-12-07 11:48:01.652
+77092142;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;18.534;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092143;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;18.534;27.02;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:48:01.652
+77092146;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;32.462;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092147;200600;Post;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;49.790;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092148;800202;2-;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;49.790;26.81;8.58;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092152;100200;Game stop;;;;;;;;;;;2;62.443;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092153;300100;Foul;369815;Langston Galloway;3173;New York Knicks;2422;Jonathon Simmons;20;San Antonio Spurs;;;2;62.443;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092156;100200;Game stop;;;;;;;;;;;2;85.502;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092157;100300;Rebound;;;3173;New York Knicks;;;;;;;2;85.502;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092158;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;93.465;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092159;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;115.465;27.08;6.78;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:48:01.652
+77092162;100200;Game stop;;;;;;;;;;;2;135.550;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092163;300100;Foul;6036;Lance Thomas;3173;New York Knicks;7864;Boris Diaw;20;San Antonio Spurs;;;2;135.550;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092166;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;167.686;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092167;800600;2F;7776;Jerian Grant;3173;New York Knicks;1166;Patty Mills;20;San Antonio Spurs;;;2;180.686;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:48:01.652
+77092168;100200;Game stop;;;;;;;;;;;2;180.686;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092170;800101;1+;7776;Jerian Grant;3173;New York Knicks;1166;Patty Mills;20;San Antonio Spurs;;;2;201.856;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092171;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;2;201.856;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092172;800101;1+;7776;Jerian Grant;3173;New York Knicks;1166;Patty Mills;20;San Antonio Spurs;;;2;226.816;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092175;100300;Rebound;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;243.289;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092176;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;254.156;26.12;2.70;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092177;100200;Game stop;;;;;;;;;;;2;254.156;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092178;100300;Rebound;;;3173;New York Knicks;;;;;;;2;254.156;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092179;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;266.738;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092180;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;6028;Kristaps Porzingis;2;274.738;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092181;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7776;Jerian Grant;2;274.738;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092182;800301;3+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7776;Jerian Grant;2;274.738;19.94;10.50;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:48:01.652
+77092184;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;288.982;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092185;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;7776;Jerian Grant;2;299.696;20.33;10.92;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092188;100200;Game stop;;;;;;;;;;;2;308.399;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092195;100200;Game stop;;;;;;;;;;;2;357.293;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092197;1800600;Timeout;;;;;;;;;;;2;357.293;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092198;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;366.931;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092199;800201;2+;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;382.931;24.95;9.66;;;;;;;;Isolation;;Floater;Drives Left;;;2017-12-07 11:48:01.652
+77092203;800202;2-;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;403.195;26.99;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:48:01.652
+77092207;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;2;438.051;19.19;6.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092210;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;447.010;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092211;100200;Game stop;;;;;;;;;;;2;456.537;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092212;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;1166;Patty Mills;20;San Antonio Spurs;;;2;456.537;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092213;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;2;456.537;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092216;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;2;456.537;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092222;100200;Game stop;;;;;;;;;;;2;512.260;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092227;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;538.486;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092228;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;560.565;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092229;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;7462;David West;20;San Antonio Spurs;;;2;560.565;26.57;6.42;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092230;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;560.565;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092231;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;7462;David West;20;San Antonio Spurs;;;2;560.565;26.99;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:48:01.652
+77092235;100200;Game stop;;;;;;;;;;;2;571.696;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092236;300100;Foul;7776;Jerian Grant;3173;New York Knicks;7462;David West;20;San Antonio Spurs;;;2;571.696;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092239;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;7776;Jerian Grant;3173;New York Knicks;;;2;571.696;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092240;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;2;571.696;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092243;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;620.299;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092246;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;645.816;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092247;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;654.892;24.95;0.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092251;100200;Game stop;;;;;;;;;;;2;673.726;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092253;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;695.513;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092254;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;710.513;21.98;7.32;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092256;100200;Game stop;;;;;;;;;;;2;720.137;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092258;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;728.641;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092261;800202;2-;7493;Arron Afflalo;3173;New York Knicks;7462;David West;20;San Antonio Spurs;;;2;762.554;24.20;4.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092262;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;762.554;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092263;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;770.688;23.90;3.93;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092267;100200;Game stop;;;;;;;;;;;2;793.307;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092268;1800600;Timeout;;;3173;New York Knicks;;;;;;;2;793.307;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092269;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;2;793.307;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092270;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;812.193;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092271;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;6030;Robin Lopez;2;828.193;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092272;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;7493;Arron Afflalo;2;828.193;24.65;7.65;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:48:01.652
+77092276;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;865.408;23.03;9.90;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092281;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;7462;David West;20;San Antonio Spurs;;;2;896.069;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:48:01.652
+77092282;100200;Game stop;;;;;;;;;;;2;896.069;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092284;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;7462;David West;20;San Antonio Spurs;;;2;918.594;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092286;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;7462;David West;20;San Antonio Spurs;;;2;943.421;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092288;100200;Game stop;;;;;;;;;;;2;960.695;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092290;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;980.124;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092291;200300;Pick'n'Roll;6029;Carmelo Anthony;3173;New York Knicks;;;;;7493;Arron Afflalo;2;996.124;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092292;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;7493;Arron Afflalo;2;996.124;23.60;3.81;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:48:01.652
+77092294;100200;Game stop;;;;;;;;;;;2;1009.043;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092295;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;1165;Kawhi Leonard;20;San Antonio Spurs;;;2;1009.043;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092299;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;6030;Robin Lopez;2;1055.141;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092300;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;1055.141;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092301;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;7493;Arron Afflalo;2;1055.141;25.37;7.89;;;;;;;;Post;;Hook;;;;2017-12-07 11:48:01.652
+77092304;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;7493;Arron Afflalo;2;1090.049;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092305;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;6030;Robin Lopez;2;1090.049;21.50;6.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092310;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;1122.038;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092311;1800500;Halftime;;;;;;;;;;;2;1122.138;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092312;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092318;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092319;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092320;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092321;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092322;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092323;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;2.121;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092324;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;26.121;26.93;7.98;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:48:01.652
+77092325;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;26.121;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092326;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;26.121;26.99;8.10;;;;;;;;Putbacks;;;;;;2017-12-07 11:48:01.652
+77092329;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;39.170;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092330;800202;2-;7493;Arron Afflalo;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;3;56.601;26.96;6.90;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:48:01.652
+77092331;100200;Game stop;;;;;;;;;;;3;56.601;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092336;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;79.475;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092337;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;98.711;25.49;7.32;;;;;;;;;;Jumper;;;;2017-12-07 11:48:01.652
+77092340;100200;Game stop;;;;;;;;;;;3;164.336;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092342;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;174.212;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092343;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;180.212;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092344;800301;3+;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;180.212;22.97;1.11;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77092346;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;196.400;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092347;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;216.190;25.97;6.36;;;;;;;;;;Hook;;;;2017-12-07 11:48:01.652
+77092348;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;216.190;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092349;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;3;216.190;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:48:01.652
+77092350;100200;Game stop;;;;;;;;;;;3;216.190;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092352;800102;1-;6029;Carmelo Anthony;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;3;247.499;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092353;100300;Rebound;;;3173;New York Knicks;;;;;;;3;247.499;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092354;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;3;264.265;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092358;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;295.264;26.72;8.43;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:48:01.652
+77092361;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;327.100;24.20;8.49;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092363;100200;Game stop;;;;;;;;;;;3;336.730;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092365;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;344.799;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092366;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;357.799;24.95;7.59;;;;;;;;Screen off;;Floater;;;;2017-12-07 11:48:01.652
+77092369;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;3;375.287;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092370;800301;3+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;375.287;19.49;7.26;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092374;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;399.419;24.05;7.74;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:48:01.652
+77092377;100200;Game stop;;;;;;;;;;;3;406.314;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092381;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;433.366;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092382;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6028;Kristaps Porzingis;3;441.341;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092383;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;441.341;24.35;3.48;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092384;100200;Game stop;;;;;;;;;;;3;441.341;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092388;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;473.267;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092389;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;3;492.465;24.05;11.61;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092390;100200;Game stop;;;;;;;;;;;3;492.465;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092394;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;537.791;26.84;11.37;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:48:01.652
+77092405;100200;Game stop;;;;;;;;;;;3;578.256;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092406;1800600;Timeout;;;3173;New York Knicks;;;;;;;3;578.256;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092408;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;590.869;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092409;200300;Pick'n'Roll;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;609.869;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092410;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;1167;Tony Parker;20;San Antonio Spurs;;;3;609.869;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:48:01.652
+77092411;100200;Game stop;;;;;;;;;;;3;609.869;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092413;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;1167;Tony Parker;20;San Antonio Spurs;;;3;633.819;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092414;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;1167;Tony Parker;20;San Antonio Spurs;;;3;649.014;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092417;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;664.318;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092418;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;684.157;24.59;11.67;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092421;800201;2+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;711.390;26.72;3.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092423;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;744.749;25.82;9.90;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 11:48:01.652
+77092426;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;760.555;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092427;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;6028;Kristaps Porzingis;3;771.161;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092428;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6030;Robin Lopez;3;771.161;24.05;11.61;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77092431;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;787.047;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092432;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;801.079;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092433;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;801.079;25.64;6.90;;;;;;;;Post;;Hook;;;;2017-12-07 11:48:01.652
+77092437;100200;Game stop;;;;;;;;;;;3;808.626;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092438;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;1171;Tim Duncan;20;San Antonio Spurs;;;3;808.626;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092443;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;835.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092444;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;3;835.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092445;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;3;835.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092448;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;868.688;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092452;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;919.236;25.04;7.68;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 11:48:01.652
+77092455;800302;3-;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;951.183;26.72;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092456;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;951.183;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092457;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;958.357;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092458;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;3;958.357;26.81;6.78;;;;;;;;Post;;Lay up;;;;2017-12-07 11:48:01.652
+77092459;100200;Game stop;;;;;;;;;;;3;958.357;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092460;100300;Rebound;;;3173;New York Knicks;;;;;;;3;958.357;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092461;1600500;Guard;6031;Kyle O'Quinn;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;3;958.357;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092463;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;999.176;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092464;800202;2-;6036;Lance Thomas;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;1012.876;26.84;8.04;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:48:01.652
+77092465;100300;Rebound;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;1012.876;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092466;800202;2-;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;1012.876;27.05;7.98;;;;;;;;Putbacks;;;;;;2017-12-07 11:48:01.652
+77092469;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;1027.515;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092470;100200;Game stop;;;;;;;;;;;3;1044.429;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092472;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1064.859;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092473;800202;2-;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;1071.559;26.21;6.42;;;;;;;;Isolation;;Floater;Drives Right;;;2017-12-07 11:48:01.652
+77092474;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;1071.559;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092475;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;1071.559;26.96;7.35;;;;;;;;Putbacks;;;;;;2017-12-07 11:48:01.652
+77092476;1800500;Halftime;;;;;;;;;;;3;1071.559;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092477;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092483;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092484;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092485;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092486;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092487;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092492;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7776;Jerian Grant;4;44.984;20.51;11.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092496;100200;Game stop;;;;;;;;;;;4;89.828;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092497;100300;Rebound;;;3173;New York Knicks;;;;;;;4;89.828;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092499;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;4;89.828;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092500;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;89.828;25.52;7.05;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:48:01.652
+77092501;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;110.514;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092502;800202;2-;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;117.514;25.91;7.95;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092505;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;125.629;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092506;100200;Game stop;;;;;;;;;;;4;138.255;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092507;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;138.255;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092512;100200;Game stop;;;;;;;;;;;4;159.467;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092513;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;159.467;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092514;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;170.486;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092515;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;187.486;23.03;14.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092517;100200;Game stop;;;;;;;;;;;4;203.144;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092519;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;215.732;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092520;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;240.732;26.12;7.05;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 11:48:01.652
+77092521;100200;Game stop;;;;;;;;;;;4;240.732;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092522;100300;Rebound;;;3173;New York Knicks;;;;;;;4;240.732;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092523;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;240.732;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092531;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;289.074;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092532;800201;2+;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;301.526;26.57;8.49;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:48:01.652
+77092533;100200;Game stop;;;;;;;;;;;4;317.866;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092534;300100;Foul;369815;Langston Galloway;3173;New York Knicks;1170;Manu Ginobili;20;San Antonio Spurs;;;4;317.866;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092537;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;4;317.866;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092540;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;354.459;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092541;100200;Game stop;;;;;;;;;;;4;354.459;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092543;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;362.554;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092544;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;387.554;21.65;12.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092548;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;398.396;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092549;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;405.377;26.66;7.02;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:48:01.652
+77092550;100200;Game stop;;;;;;;;;;;4;405.377;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092552;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;7776;Jerian Grant;3173;New York Knicks;;;4;405.377;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092556;100200;Game stop;;;;;;;;;;;4;436.874;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092557;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;1165;Kawhi Leonard;20;San Antonio Spurs;;;4;436.874;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092561;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;482.533;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092562;100200;Game stop;;;;;;;;;;;4;493.533;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092565;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;510.814;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092566;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;517.814;26.27;14.67;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77092571;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6028;Kristaps Porzingis;4;556.598;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092572;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;4;556.598;22.43;9.57;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:48:01.652
+77092573;100200;Game stop;;;;;;;;;;;4;592.650;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092574;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;4;592.650;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092576;100200;Game stop;;;;;;;;;;;4;626.241;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092577;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;2422;Jonathon Simmons;20;San Antonio Spurs;;;4;626.241;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092580;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;4;681.119;22.25;7.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092583;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;4;697.915;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092584;100200;Game stop;;;;;;;;;;;4;710.361;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092586;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;729.792;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092587;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6030;Robin Lopez;4;741.792;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092588;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;4;741.792;24.05;7.20;;;;;;;;Cut;;Hook;;;;2017-12-07 11:48:01.652
+77092590;100200;Game stop;;;;;;;;;;;4;764.501;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092591;100300;Rebound;;;3173;New York Knicks;;;;;;;4;764.501;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092592;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;771.569;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092593;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;4;786.569;26.21;6.27;;;;;;;;Cut;;Hook;;;;2017-12-07 11:48:01.652
+77092594;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;786.569;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092595;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;786.569;26.81;7.95;;;;;;;;Putbacks;;;;;;2017-12-07 11:48:01.652
+77092597;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;806.432;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092598;800400;2+1;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;812.318;26.66;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:48:01.652
+77092599;100200;Game stop;;;;;;;;;;;4;812.318;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092601;800101;1+;369815;Langston Galloway;3173;New York Knicks;1169;Danny Green;20;San Antonio Spurs;;;4;843.641;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092605;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;4;869.578;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092606;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;879.031;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092607;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;879.031;22.88;4.86;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092608;100200;Game stop;;;;;;;;;;;4;904.140;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092609;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;1165;Kawhi Leonard;20;San Antonio Spurs;;;4;904.140;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092610;1800600;Timeout;;;;;;;;;;;4;904.140;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092612;100200;Game stop;;;;;;;;;;;4;904.140;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092617;800202;2-;369815;Langston Galloway;3173;New York Knicks;1170;Manu Ginobili;20;San Antonio Spurs;;;4;946.031;23.03;4.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092618;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;946.031;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092619;800301;3+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;946.031;27.08;14.85;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:48:01.652
+77092623;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;988.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092624;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;988.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092625;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;4;988.250;25.22;11.73;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092628;100200;Game stop;;;;;;;;;;;4;1009.709;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092629;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;1009.709;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092630;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;4;1009.709;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092631;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1025.554;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092632;800301;3+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;1043.654;19.64;7.50;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:48:01.652
+77092635;100200;Game stop;;;;;;;;;;;4;1074.634;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092636;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;1074.634;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092637;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1095.761;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092638;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;6028;Kristaps Porzingis;4;1096.761;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092639;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;4;1096.761;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:48:01.652
+77092641;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;1117.428;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092642;800302;3-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;1134.675;27.35;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092644;1800700;Match end;;;;;;;;;;;4;1134.675;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+93270078;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;456.537;;;;;;;;;;;;;;;;2018-01-11 20:53:04.421947
+103647438;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;52.509;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647444;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;210.687;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647448;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;288.973;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647450;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;315.646;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647452;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;383.550;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647456;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6030;Robin Lopez;1;465.217;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647458;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;490.318;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647466;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;696.037;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647470;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;768.874;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647472;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;789.624;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647476;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;883.002;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647480;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;7776;Jerian Grant;1;996.549;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647484;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;1;1032.617;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647490;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;1174.869;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647492;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;18.534;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647496;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;115.465;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647500;200900;Assisting;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;180.686;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647502;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7776;Jerian Grant;2;274.738;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647506;200900;Assisting;7776;Jerian Grant;3173;New York Knicks;;;;;;;2;382.931;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647520;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;7493;Arron Afflalo;2;828.193;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647526;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;896.069;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647530;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;7493;Arron Afflalo;2;1055.141;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647534;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;6030;Robin Lopez;2;1090.049;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647536;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;26.121;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647538;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;98.711;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647542;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;180.212;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647544;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;216.190;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647548;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;295.264;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647554;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;375.287;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647558;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;441.341;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647566;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;609.869;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647570;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;711.390;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647574;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6030;Robin Lopez;3;771.161;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647580;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;919.236;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647584;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;1071.559;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647592;200900;Assisting;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;301.526;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647594;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;405.377;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647600;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;4;556.598;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647604;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;4;741.792;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647606;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;786.569;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647608;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;812.318;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647610;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;879.031;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647614;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;946.031;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647618;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;4;988.250;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647622;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;1043.654;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647626;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;4;1096.761;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+77091921;1601000;Starting lineup;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091922;1601000;Starting lineup;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091923;1601000;Starting lineup;7462;David West;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091924;1601000;Starting lineup;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091925;1601000;Starting lineup;1166;Patty Mills;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091926;1601000;Starting lineup;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091927;1601000;Starting lineup;1169;Danny Green;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091928;1601000;Starting lineup;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091929;1601000;Starting lineup;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091930;1601000;Starting lineup;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091942;1600500;Guard;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091943;1600500;Guard;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091944;1600500;Guard;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091945;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091946;1600500;Guard;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091952;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;19.716;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77091953;200300;Pick'n'Roll;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;1;32.716;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77091954;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;1;32.716;26.51;12.51;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:48:01.652
+77091955;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;32.716;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091957;100500;Turnover;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;32.716;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091961;800302;3-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;67.808;21.26;12.21;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:48:01.652
+77091964;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;81.096;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091966;100500;Turnover;1169;Danny Green;20;San Antonio Spurs;;;;;;;1;91.194;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091969;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;113.952;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091970;800202;2-;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;123.952;22.37;10.80;;;;;;;;Transition;;Hook;;;;2017-12-07 11:48:01.652
+77091974;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;135.467;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091975;200600;Post;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;144.319;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091976;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;144.319;27.08;4.41;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77091982;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;176.104;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091983;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;188.698;26.84;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:48:01.652
+77091986;300100;Foul;1171;Tim Duncan;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;1;210.687;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091989;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;250.725;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77091990;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;250.725;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091991;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;271.891;26.42;8.13;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:48:01.652
+77091992;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;271.891;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77091993;800201;2+;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;271.891;26.72;7.83;;;;;;;;Putbacks;;;;;;2017-12-07 11:48:01.652
+77091995;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;301.689;22.73;11.76;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092003;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;357.420;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092004;800202;2-;1169;Danny Green;20;San Antonio Spurs;;;;;;;1;360.420;25.37;2.85;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77092005;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;360.420;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092006;200300;Pick'n'Roll;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;1;373.084;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092007;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;1;373.084;26.66;6.66;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:48:01.652
+77092011;300100;Foul;1169;Danny Green;20;San Antonio Spurs;6028;Kristaps Porzingis;3173;New York Knicks;;;1;383.550;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092013;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;1169;Danny Green;20;San Antonio Spurs;;;1;402.950;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092015;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;425.558;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092016;100300;Rebound;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;1;425.558;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092017;800302;3-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;449.624;25.49;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092018;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;449.624;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092019;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;449.624;26.84;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 11:48:01.652
+77092022;800202;2-;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;1;480.768;25.22;8.64;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77092026;300100;Foul;1170;Manu Ginobili;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;1;490.318;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092028;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;1;511.061;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092030;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;546.197;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092031;800600;2F;1167;Tony Parker;20;San Antonio Spurs;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;556.197;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:48:01.652
+77092034;800101;1+;1167;Tony Parker;20;San Antonio Spurs;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;577.207;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092035;800101;1+;1167;Tony Parker;20;San Antonio Spurs;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;589.904;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092038;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;607.403;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092039;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1170;Manu Ginobili;1;615.341;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092040;800301;3+;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1167;Tony Parker;1;615.341;20.36;5.01;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092042;100300;Rebound;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;638.750;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092043;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;650.509;26.81;8.19;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:48:01.652
+77092046;100300;Rebound;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;671.775;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092047;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;681.085;23.03;5.40;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092050;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1170;Manu Ginobili;1;712.205;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092051;800201;2+;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1167;Tony Parker;1;712.205;26.84;8.19;;;;;;;;Cut;;;;;;2017-12-07 11:48:01.652
+77092054;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;1167;Tony Parker;20;San Antonio Spurs;;;1;712.205;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092055;1600500;Guard;7864;Boris Diaw;20;San Antonio Spurs;1171;Tim Duncan;20;San Antonio Spurs;;;1;712.205;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092060;100300;Rebound;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;1;748.042;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092061;800202;2-;1170;Manu Ginobili;20;San Antonio Spurs;6036;Lance Thomas;3173;New York Knicks;;;1;764.706;25.82;7.44;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092065;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;778.029;24.65;3.33;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092069;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;816.979;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092070;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;816.979;26.27;10.44;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092072;100300;Rebound;;;20;San Antonio Spurs;;;;;;;1;816.979;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092074;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;839.585;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092075;400101;Accurate pass;7864;Boris Diaw;20;San Antonio Spurs;;;;;1170;Manu Ginobili;1;842.585;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092076;800201;2+;1170;Manu Ginobili;20;San Antonio Spurs;;;;;7864;Boris Diaw;1;842.585;26.99;7.56;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:48:01.652
+77092079;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;863.691;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092080;800302;3-;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;876.759;20.90;3.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092083;800600;2F;1165;Kawhi Leonard;20;San Antonio Spurs;6036;Lance Thomas;3173;New York Knicks;;;1;908.160;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:48:01.652
+77092086;800102;1-;1165;Kawhi Leonard;20;San Antonio Spurs;6036;Lance Thomas;3173;New York Knicks;;;1;935.160;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092087;100300;Rebound;;;20;San Antonio Spurs;;;;;;;1;935.160;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092089;800101;1+;1165;Kawhi Leonard;20;San Antonio Spurs;6036;Lance Thomas;3173;New York Knicks;;;1;953.312;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092092;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;981.936;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092093;800302;3-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;990.456;19.88;8.37;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092097;400101;Accurate pass;1166;Patty Mills;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;1;1012.255;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092098;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;1166;Patty Mills;1;1012.255;24.65;8.13;;;;;;;;Screen off;;Floater;;;;2017-12-07 11:48:01.652
+77092101;800600;2F;1170;Manu Ginobili;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;1;1053.772;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:48:01.652
+77092104;800101;1+;1170;Manu Ginobili;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;1;1075.448;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092106;800101;1+;1170;Manu Ginobili;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;1;1094.722;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092109;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;1;1115.327;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092110;800600;2F;1166;Patty Mills;20;San Antonio Spurs;369815;Langston Galloway;3173;New York Knicks;;;1;1120.376;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:48:01.652
+77092113;800101;1+;1166;Patty Mills;20;San Antonio Spurs;369815;Langston Galloway;3173;New York Knicks;;;1;1148.427;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092114;1600500;Guard;7462;David West;20;San Antonio Spurs;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;1;1148.427;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092115;800101;1+;1166;Patty Mills;20;San Antonio Spurs;369815;Langston Galloway;3173;New York Knicks;;;1;1164.427;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092120;300100;Foul;1170;Manu Ginobili;20;San Antonio Spurs;6028;Kristaps Porzingis;3173;New York Knicks;;;1;1174.869;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092124;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;1;1225.791;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092125;800302;3-;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;1;1227.691;20.36;14.37;;;;;;;;;;Jumper;;;;2017-12-07 11:48:01.652
+77092126;100300;Rebound;;;20;San Antonio Spurs;;;;;;;1;1227.691;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092129;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092130;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092131;1600500;Guard;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092132;1600500;Guard;7462;David West;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092133;1600500;Guard;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092144;200600;Post;7462;David West;20;San Antonio Spurs;;;;;;;2;32.462;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092145;800202;2-;7462;David West;20;San Antonio Spurs;;;;;;;2;32.462;24.50;4.41;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092149;100300;Rebound;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;49.790;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092150;400101;Accurate pass;7462;David West;20;San Antonio Spurs;;;;;2422;Jonathon Simmons;2;62.443;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092151;800400;2+1;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;7462;David West;2;62.443;26.84;7.98;;;;;;;;Cut;;;;;;2017-12-07 11:48:01.652
+77092154;800102;1-;2422;Jonathon Simmons;20;San Antonio Spurs;369815;Langston Galloway;3173;New York Knicks;;;2;85.502;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092155;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;85.502;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092160;200600;Post;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;135.550;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092161;800600;2F;7864;Boris Diaw;20;San Antonio Spurs;6036;Lance Thomas;3173;New York Knicks;;;2;135.550;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:48:01.652
+77092164;800101;1+;7864;Boris Diaw;20;San Antonio Spurs;6036;Lance Thomas;3173;New York Knicks;;;2;154.835;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092165;800101;1+;7864;Boris Diaw;20;San Antonio Spurs;6036;Lance Thomas;3173;New York Knicks;;;2;165.058;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092169;300100;Foul;1166;Patty Mills;20;San Antonio Spurs;7776;Jerian Grant;3173;New York Knicks;;;2;180.686;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092173;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;229.289;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092174;800202;2-;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;2;243.289;27.20;8.04;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:48:01.652
+77092183;800202;2-;7462;David West;20;San Antonio Spurs;;;;;;;2;288.982;22.13;8.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092186;100300;Rebound;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;299.696;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092187;800202;2-;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;;;2;308.399;26.99;8.22;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:48:01.652
+77092189;100300;Rebound;;;20;San Antonio Spurs;;;;;;;2;308.399;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092190;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;1170;Manu Ginobili;20;San Antonio Spurs;;;2;308.399;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092191;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;329.027;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092192;400101;Accurate pass;1166;Patty Mills;20;San Antonio Spurs;;;;;7462;David West;2;337.027;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092193;200300;Pick'n'Roll;7462;David West;20;San Antonio Spurs;;;;;1166;Patty Mills;2;337.027;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092194;800201;2+;7462;David West;20;San Antonio Spurs;;;;;1166;Patty Mills;2;337.027;21.35;7.59;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:48:01.652
+77092196;300100;Foul;7864;Boris Diaw;20;San Antonio Spurs;6028;Kristaps Porzingis;3173;New York Knicks;;;2;357.293;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092200;400101;Accurate pass;1169;Danny Green;20;San Antonio Spurs;;;;;7864;Boris Diaw;2;395.361;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092201;200600;Post;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;395.361;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092202;800201;2+;7864;Boris Diaw;20;San Antonio Spurs;;;;;1169;Danny Green;2;395.361;26.81;7.95;;;;;;;;Post;;Lay up;;;;2017-12-07 11:48:01.652
+77092204;100300;Rebound;7462;David West;20;San Antonio Spurs;;;;;;;2;403.195;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092205;200600;Post;7462;David West;20;San Antonio Spurs;;;;;;;2;418.588;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092206;800201;2+;7462;David West;20;San Antonio Spurs;;;;;;;2;418.588;24.95;7.98;;;;;;;;Post;;Hook;;;;2017-12-07 11:48:01.652
+77092208;100300;Rebound;7462;David West;20;San Antonio Spurs;;;;;;;2;438.051;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092209;800202;2-;1169;Danny Green;20;San Antonio Spurs;;;;;;;2;447.010;26.36;12.30;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092214;1600500;Guard;1167;Tony Parker;20;San Antonio Spurs;1166;Patty Mills;20;San Antonio Spurs;;;2;456.537;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092215;1600500;Guard;1165;Kawhi Leonard;20;San Antonio Spurs;2422;Jonathon Simmons;20;San Antonio Spurs;;;2;456.537;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092217;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;478.822;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092218;200600;Post;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;494.822;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092219;800201;2+;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;494.822;25.67;7.17;;;;;;;;Post;;Hook;;;;2017-12-07 11:48:01.652
+77092220;100400;Steal;1169;Danny Green;20;San Antonio Spurs;8329;Derrick Williams;3173;New York Knicks;;;2;507.322;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092221;800202;2-;1169;Danny Green;20;San Antonio Spurs;7493;Arron Afflalo;3173;New York Knicks;;;2;512.260;26.27;8.88;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092223;100300;Rebound;;;20;San Antonio Spurs;;;;;;;2;512.260;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092224;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;529.486;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092225;200600;Post;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;538.486;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092226;800202;2-;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;538.486;26.12;9.06;;;;;;;;Post;;Hook;;;;2017-12-07 11:48:01.652
+77092232;100300;Rebound;1167;Tony Parker;20;San Antonio Spurs;;;;;;;2;560.565;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092233;200300;Pick'n'Roll;7462;David West;20;San Antonio Spurs;;;;;;;2;571.696;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092234;800600;2F;7462;David West;20;San Antonio Spurs;7776;Jerian Grant;3173;New York Knicks;;;2;571.696;27.05;7.62;;;;;;;;Pick'n'pop;;;Drives Left;;;2017-12-07 11:48:01.652
+77092237;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;2;571.696;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092238;1600500;Guard;1168;LaMarcus Aldridge;20;San Antonio Spurs;7864;Boris Diaw;20;San Antonio Spurs;;;2;571.696;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092241;800101;1+;7462;David West;20;San Antonio Spurs;7776;Jerian Grant;3173;New York Knicks;;;2;599.397;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092242;800101;1+;7462;David West;20;San Antonio Spurs;7776;Jerian Grant;3173;New York Knicks;;;2;617.136;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092244;100400;Steal;1169;Danny Green;20;San Antonio Spurs;7478;Jose Manuel Calderon;3173;New York Knicks;;;2;635.299;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092245;800202;2-;7462;David West;20;San Antonio Spurs;;;;;;;2;645.816;23.45;11.67;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092248;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;654.892;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092249;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;2;673.726;23.69;12.00;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092250;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;673.726;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092252;100500;Turnover;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;673.726;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092255;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;710.513;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092257;100500;Turnover;1167;Tony Parker;20;San Antonio Spurs;;;;;;;2;720.137;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092259;100400;Steal;1165;Kawhi Leonard;20;San Antonio Spurs;7478;Jose Manuel Calderon;3173;New York Knicks;;;2;737.641;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092260;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;740.301;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:48:01.652
+77092264;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;770.688;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092265;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;2;782.470;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092266;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;2;782.470;25.04;9.36;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 11:48:01.652
+77092273;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;853.999;25.64;2.88;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:48:01.652
+77092274;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;853.999;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092275;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;853.999;26.84;9.66;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:48:01.652
+77092277;100300;Rebound;1167;Tony Parker;20;San Antonio Spurs;;;;;;;2;865.408;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092278;400101;Accurate pass;7462;David West;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;2;874.916;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092279;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;874.916;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092280;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;7462;David West;2;874.916;26.72;7.35;;;;;;;;Post;;Lay up;;;;2017-12-07 11:48:01.652
+77092283;300100;Foul;7462;David West;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;2;896.069;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092285;1600500;Guard;1171;Tim Duncan;20;San Antonio Spurs;7462;David West;20;San Antonio Spurs;;;2;918.594;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092287;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;951.695;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092289;100500;Turnover;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;2;960.695;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092293;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;2;996.124;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092296;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;2;1025.945;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092297;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;2;1039.945;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092298;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;2;1039.945;26.57;3.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092302;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;1070.102;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092303;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;1070.102;26.42;8.88;;;;;;;;Post;;;;;;2017-12-07 11:48:01.652
+77092306;200300;Pick'n'Roll;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;2;1122.038;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092307;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;2;1122.038;21.83;6.51;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092308;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;1122.038;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092309;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;1122.038;26.99;12.21;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:48:01.652
+77092313;1600500;Guard;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092314;1600500;Guard;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092315;1600500;Guard;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092316;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092317;1600500;Guard;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092327;200600;Post;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;39.170;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092328;800202;2-;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;39.170;26.81;7.98;;;;;;;;Post;;Lay up;;;;2017-12-07 11:48:01.652
+77092332;100300;Rebound;;;20;San Antonio Spurs;;;;;;;3;56.601;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092333;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;67.475;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092334;200300;Pick'n'Roll;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;3;79.475;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092335;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;3;79.475;21.98;5.82;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:48:01.652
+77092338;400101;Accurate pass;1171;Tim Duncan;20;San Antonio Spurs;;;;;1169;Danny Green;3;117.191;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:48:01.652
+77092339;800201;2+;1169;Danny Green;20;San Antonio Spurs;;;;;1171;Tim Duncan;3;117.191;23.60;2.97;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:48:01.652
+77092341;300100;Foul;1165;Kawhi Leonard;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;3;164.336;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092345;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;196.400;22.58;10.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092351;300100;Foul;1169;Danny Green;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;3;216.190;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092355;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;265.806;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092356;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1169;Danny Green;3;276.806;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092357;800301;3+;1169;Danny Green;20;San Antonio Spurs;;;;;1167;Tony Parker;3;276.806;19.88;9.81;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77092359;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;311.824;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092360;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;311.824;25.10;6.33;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092362;100300;Rebound;1169;Danny Green;20;San Antonio Spurs;;;;;;;3;327.100;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092364;100500;Turnover;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;336.730;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092367;100300;Rebound;1169;Danny Green;20;San Antonio Spurs;;;;;;;3;357.799;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092368;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;366.224;25.97;6.96;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092371;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1171;Tim Duncan;3;385.578;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092372;200600;Post;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;385.578;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092373;800201;2+;1171;Tim Duncan;20;San Antonio Spurs;;;;;1167;Tony Parker;3;385.578;26.42;7.35;;;;;;;;Post;;Lay up;;;;2017-12-07 11:48:01.652
+77092375;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;399.419;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092376;800202;2-;1169;Danny Green;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;3;406.314;26.57;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:48:01.652
+77092378;100300;Rebound;;;20;San Antonio Spurs;;;;;;;3;406.314;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092379;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;420.366;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092380;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;3;433.366;22.61;4.98;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092385;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;3;441.341;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092386;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;460.267;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092387;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;473.267;23.12;3.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092391;100300;Rebound;;;20;San Antonio Spurs;;;;;;;3;492.465;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092392;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;514.477;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092393;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;520.477;26.66;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:48:01.652
+77092395;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;537.791;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092396;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;561.594;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092397;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;561.594;26.42;10.44;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092398;100300;Rebound;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;561.594;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092399;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;561.594;26.27;8.22;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:48:01.652
+77092400;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;561.594;27.20;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:48:01.652
+77092401;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;561.594;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092402;100400;Steal;1165;Kawhi Leonard;20;San Antonio Spurs;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;573.198;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092403;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;3;578.256;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092404;800201;2+;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;1167;Tony Parker;3;578.256;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:48:01.652
+77092407;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;1169;Danny Green;20;San Antonio Spurs;;;3;578.256;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092412;300100;Foul;1167;Tony Parker;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;3;609.869;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092415;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;3;652.318;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092416;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;664.318;25.52;11.82;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77092419;100300;Rebound;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;684.157;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092420;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;692.974;25.52;5.64;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:48:01.652
+77092422;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;730.734;22.97;10.14;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092424;100300;Rebound;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;744.749;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092425;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;760.555;24.44;4.11;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092429;200300;Pick'n'Roll;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;787.047;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092430;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;787.047;22.43;6.48;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:48:01.652
+77092434;100300;Rebound;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;3;801.079;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092435;200300;Pick'n'Roll;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;808.626;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092436;800600;2F;1171;Tim Duncan;20;San Antonio Spurs;6028;Kristaps Porzingis;3173;New York Knicks;;;3;808.626;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:48:01.652
+77092439;800102;1-;1171;Tim Duncan;20;San Antonio Spurs;6028;Kristaps Porzingis;3173;New York Knicks;;;3;835.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092440;100300;Rebound;;;20;San Antonio Spurs;;;;;;;3;835.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092441;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;1167;Tony Parker;20;San Antonio Spurs;;;3;835.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092442;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;1165;Kawhi Leonard;20;San Antonio Spurs;;;3;835.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092446;1600500;Guard;7864;Boris Diaw;20;San Antonio Spurs;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;3;835.250;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092447;800101;1+;1171;Tim Duncan;20;San Antonio Spurs;6028;Kristaps Porzingis;3173;New York Knicks;;;3;865.080;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092449;100400;Steal;1171;Tim Duncan;20;San Antonio Spurs;6036;Lance Thomas;3173;New York Knicks;;;3;883.688;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092450;400101;Accurate pass;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1171;Tim Duncan;3;892.963;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092451;800201;2+;1171;Tim Duncan;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;892.963;25.97;9.30;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092453;400101;Accurate pass;1169;Danny Green;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;919.236;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092454;800301;3+;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1169;Danny Green;3;934.856;19.94;9.84;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:48:01.652
+77092462;1600500;Guard;7462;David West;20;San Antonio Spurs;1171;Tim Duncan;20;San Antonio Spurs;;;3;958.357;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092467;100300;Rebound;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;3;1012.876;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092468;800302;3-;1166;Patty Mills;20;San Antonio Spurs;;;;;;;3;1027.515;20.21;5.16;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092471;300100;Foul;1169;Danny Green;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;3;1044.429;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092478;1600500;Guard;1166;Patty Mills;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092479;1600500;Guard;1169;Danny Green;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092480;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092481;1600500;Guard;7462;David West;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092482;1600500;Guard;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092488;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;3.631;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092489;800302;3-;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;4;18.631;19.64;5.49;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 11:48:01.652
+77092490;100300;Rebound;7462;David West;20;San Antonio Spurs;;;;;;;4;18.631;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092491;800201;2+;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;4;25.256;26.99;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:48:01.652
+77092493;100300;Rebound;1169;Danny Green;20;San Antonio Spurs;;;;;;;4;44.984;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092494;400101;Accurate pass;1166;Patty Mills;20;San Antonio Spurs;;;;;1169;Danny Green;4;59.763;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092495;800301;3+;1169;Danny Green;20;San Antonio Spurs;;;;;7864;Boris Diaw;4;59.763;26.81;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092498;300100;Foul;7462;David West;20;San Antonio Spurs;6028;Kristaps Porzingis;3173;New York Knicks;;;4;89.828;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092503;100300;Rebound;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;4;117.514;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092504;800302;3-;1169;Danny Green;20;San Antonio Spurs;;;;;;;4;125.629;22.97;1.35;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:48:01.652
+77092508;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;148.467;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092509;400101;Accurate pass;1170;Manu Ginobili;20;San Antonio Spurs;;;;;7864;Boris Diaw;4;159.467;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092510;200300;Pick'n'Roll;7864;Boris Diaw;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;159.467;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092511;800201;2+;7864;Boris Diaw;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;159.467;26.96;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:48:01.652
+77092516;100300;Rebound;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;4;187.486;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092518;100500;Turnover;1169;Danny Green;20;San Antonio Spurs;;;;;;;4;203.144;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092524;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;255.507;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092525;800202;2-;1169;Danny Green;20;San Antonio Spurs;;;;;;;4;270.507;25.49;2.04;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:48:01.652
+77092526;100300;Rebound;7462;David West;20;San Antonio Spurs;;;;;;;4;270.507;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092527;200600;Post;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;4;279.246;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092528;800202;2-;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;4;279.246;25.22;8.49;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092529;100300;Rebound;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;4;279.246;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092530;800202;2-;7462;David West;20;San Antonio Spurs;;;;;;;4;289.074;26.51;2.64;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092535;1600500;Guard;1165;Kawhi Leonard;20;San Antonio Spurs;1170;Manu Ginobili;20;San Antonio Spurs;;;4;317.866;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092536;1600500;Guard;1167;Tony Parker;20;San Antonio Spurs;1166;Patty Mills;20;San Antonio Spurs;;;4;317.866;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092538;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;347.459;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092539;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;354.459;25.37;7.26;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:48:01.652
+77092542;300100;Foul;7462;David West;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;4;354.459;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092545;100300;Rebound;1169;Danny Green;20;San Antonio Spurs;;;;;;;4;387.554;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092546;200600;Post;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;4;398.396;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092547;800202;2-;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;4;398.396;26.84;8.22;;;;;;;;Post;;Lay up;;;;2017-12-07 11:48:01.652
+77092551;1800600;Timeout;;;20;San Antonio Spurs;;;;;;;4;405.377;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092553;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;419.874;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092554;200600;Post;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;436.874;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092555;800600;2F;1165;Kawhi Leonard;20;San Antonio Spurs;7493;Arron Afflalo;3173;New York Knicks;;;4;436.874;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:48:01.652
+77092558;800101;1+;1165;Kawhi Leonard;20;San Antonio Spurs;7493;Arron Afflalo;3173;New York Knicks;;;4;456.293;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092559;1600500;Guard;2422;Jonathon Simmons;20;San Antonio Spurs;7864;Boris Diaw;20;San Antonio Spurs;;;4;456.293;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092560;800101;1+;1165;Kawhi Leonard;20;San Antonio Spurs;7493;Arron Afflalo;3173;New York Knicks;;;4;477.305;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092563;300100;Foul;1169;Danny Green;20;San Antonio Spurs;7493;Arron Afflalo;3173;New York Knicks;;;4;493.533;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092564;1600500;Guard;1168;LaMarcus Aldridge;20;San Antonio Spurs;7462;David West;20;San Antonio Spurs;;;4;493.533;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092567;100300;Rebound;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;;;4;517.814;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092568;400101;Accurate pass;1169;Danny Green;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;4;533.603;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092569;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;533.603;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092570;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1169;Danny Green;4;533.603;25.37;6.87;;;;;;;;Post;;Hook;;;;2017-12-07 11:48:01.652
+77092575;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;622.241;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092578;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;645.855;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092579;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;656.855;23.60;3.93;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092581;100300;Rebound;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;681.119;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092582;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;697.915;23.33;11.61;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092585;300100;Foul;1168;LaMarcus Aldridge;20;San Antonio Spurs;6029;Carmelo Anthony;3173;New York Knicks;;;4;710.361;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092589;800302;3-;1167;Tony Parker;20;San Antonio Spurs;;;;;1165;Kawhi Leonard;4;764.501;26.12;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:48:01.652
+77092596;800202;2-;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;806.432;23.90;7.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092600;300100;Foul;1169;Danny Green;20;San Antonio Spurs;369815;Langston Galloway;3173;New York Knicks;;;4;812.318;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092602;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;847.578;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092603;200600;Post;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;869.578;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092604;800202;2-;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;4;869.578;24.80;6.57;;;;;;;;Post;;Jumper;;;;2017-12-07 11:48:01.652
+77092611;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;904.140;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092613;1600500;Guard;1170;Manu Ginobili;20;San Antonio Spurs;2422;Jonathon Simmons;20;San Antonio Spurs;;;4;904.140;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092614;100100;Ball in play;;;20;San Antonio Spurs;;;;;;;4;921.056;;;;;;;;;;;;;;;;2019-10-24 13:29:02.254799
+77092615;400101;Accurate pass;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;924.056;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092616;800201;2+;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;4;924.056;26.72;7.74;;;;;;;;Cut;;;;;;2017-12-07 11:48:01.652
+77092620;400101;Accurate pass;1167;Tony Parker;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;4;964.458;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092621;200300;Pick'n'Roll;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;4;964.458;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:48:01.652
+77092622;800201;2+;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;4;964.458;21.41;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:48:01.652
+77092626;400101;Accurate pass;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1167;Tony Parker;4;1009.709;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+77092627;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;1009.709;26.72;7.35;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:48:01.652
+77092633;400101;Accurate pass;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;4;1068.946;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:48:01.652
+77092634;800201;2+;1167;Tony Parker;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;4;1068.946;24.50;6.27;;;;;;;;Hand offs;;Floater;;;;2017-12-07 11:48:01.652
+77092640;800202;2-;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;1117.428;24.50;2.10;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:48:01.652
+77092643;100300;Rebound;;;20;San Antonio Spurs;;;;;;;4;1134.675;;;;;;;;;;;;;;;;2017-12-07 11:48:01.652
+103647440;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;144.319;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647442;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;188.698;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647446;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;1;271.891;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647454;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;449.624;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647460;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;1;556.197;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647462;200900;Assisting;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1167;Tony Parker;1;615.341;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647464;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;650.509;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647468;200900;Assisting;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1167;Tony Parker;1;712.205;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647474;200900;Assisting;1170;Manu Ginobili;20;San Antonio Spurs;;;;;7864;Boris Diaw;1;842.585;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647478;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;1;908.160;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647482;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;1166;Patty Mills;1;1012.255;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647486;200900;Assisting;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;1;1053.772;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647488;200900;Assisting;1166;Patty Mills;20;San Antonio Spurs;;;;;;;1;1120.376;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647494;200900;Assisting;2422;Jonathon Simmons;20;San Antonio Spurs;;;;;7462;David West;2;62.443;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647498;200900;Assisting;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;135.550;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647504;200900;Assisting;7462;David West;20;San Antonio Spurs;;;;;1166;Patty Mills;2;337.027;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647508;200900;Assisting;7864;Boris Diaw;20;San Antonio Spurs;;;;;1169;Danny Green;2;395.361;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647510;200900;Assisting;7462;David West;20;San Antonio Spurs;;;;;;;2;418.588;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647512;200900;Assisting;7864;Boris Diaw;20;San Antonio Spurs;;;;;;;2;494.822;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647514;200900;Assisting;7462;David West;20;San Antonio Spurs;;;;;;;2;571.696;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647516;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;740.301;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647518;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;2;782.470;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647522;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;2;853.999;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647524;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;7462;David West;2;874.916;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647528;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;2;1039.945;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647532;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;2;1070.102;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647540;200900;Assisting;1169;Danny Green;20;San Antonio Spurs;;;;;1171;Tim Duncan;3;117.191;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647546;200900;Assisting;1169;Danny Green;20;San Antonio Spurs;;;;;1167;Tony Parker;3;276.806;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647550;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;311.824;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647552;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;3;366.224;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647556;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;1167;Tony Parker;3;385.578;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647560;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;520.477;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647562;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;;;3;561.594;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647564;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;1167;Tony Parker;3;578.256;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647568;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;692.974;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647572;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;3;730.734;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647576;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;;;3;808.626;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647578;200900;Assisting;1171;Tim Duncan;20;San Antonio Spurs;;;;;1170;Manu Ginobili;3;892.963;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647582;200900;Assisting;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1169;Danny Green;3;934.856;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647586;200900;Assisting;1170;Manu Ginobili;20;San Antonio Spurs;;;;;;;4;25.256;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647588;200900;Assisting;1169;Danny Green;20;San Antonio Spurs;;;;;7864;Boris Diaw;4;59.763;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647590;200900;Assisting;7864;Boris Diaw;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;159.467;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647596;200900;Assisting;1165;Kawhi Leonard;20;San Antonio Spurs;;;;;;;4;436.874;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647598;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1169;Danny Green;4;533.603;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647602;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;;;4;656.855;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647612;200900;Assisting;1170;Manu Ginobili;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;4;924.056;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647616;200900;Assisting;1168;LaMarcus Aldridge;20;San Antonio Spurs;;;;;1167;Tony Parker;4;964.458;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647620;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;1170;Manu Ginobili;4;1009.709;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796
+103647624;200900;Assisting;1167;Tony Parker;20;San Antonio Spurs;;;;;1168;LaMarcus Aldridge;4;1068.946;;;;;;;;;;;;;;;;2018-04-19 11:00:02.907796

@@ -1,0 +1,927 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76335771;1601000;Starting lineup;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335772;1601000;Starting lineup;7798;David Lee;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335773;1601000;Starting lineup;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335774;1601000;Starting lineup;7504;Evan Turner;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335775;1601000;Starting lineup;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335776;1601000;Starting lineup;165;Avery Bradley;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335777;1601000;Starting lineup;163;Amir Johnson;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335778;1601000;Starting lineup;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335779;1601000;Starting lineup;162;Jae Crowder;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335780;1601000;Starting lineup;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335781;1601000;Starting lineup;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335782;1601000;Starting lineup;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335783;1601000;Starting lineup;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335784;1601000;Starting lineup;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335785;1601000;Starting lineup;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335786;1601000;Starting lineup;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335787;1601000;Starting lineup;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335788;1601000;Starting lineup;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335789;1601000;Starting lineup;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335790;1601000;Starting lineup;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76335791;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335792;1600500;Guard;162;Jae Crowder;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335793;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335794;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335795;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335796;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335797;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335798;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335799;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335800;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335801;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335802;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;55.037;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335803;800302;3-;1866;Marcus Smart;8;Boston Celtics;;;;;166;Isaiah Thomas;1;69.037;26.57;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76335804;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;69.037;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335805;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;94.238;21.11;2.64;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76335806;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;1;94.238;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335807;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;102.580;26.51;3.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76335808;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;102.580;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335809;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;121.188;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335810;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;121.188;25.49;11.19;;;;;;;;Post;;Jumper;;;;2017-12-07 03:02:03.150857
+76335811;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;1;121.188;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335812;400101;Accurate pass;164;Jared Sullinger;8;Boston Celtics;;;;;162;Jae Crowder;1;136.419;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:02:03.150857
+76335813;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;164;Jared Sullinger;1;136.419;19.64;5.58;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76335814;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;153.105;26.99;7.17;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:02:03.150857
+76335815;100200;Game stop;;;;;;;;;;;1;153.105;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335816;100300;Rebound;;;8;Boston Celtics;;;;;;;1;153.105;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335817;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;157.920;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335818;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;178.920;26.99;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:02:03.150857
+76335819;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;189.383;25.97;7.89;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:02:03.150857
+76335820;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;189.383;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335821;800201;2+;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;198.054;22.97;7.32;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76335822;100200;Game stop;;;;;;;;;;;1;198.054;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335823;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;198.054;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335824;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;212.490;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335825;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;230.490;19.94;5.94;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:02:03.150857
+76335826;100300;Rebound;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;230.490;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335827;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;1;249.735;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76335828;800302;3-;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;1;249.735;19.79;6.12;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:02:03.150857
+76335829;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;249.735;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335830;100200;Game stop;;;;;;;;;;;1;261.530;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335831;300100;Foul;162;Jae Crowder;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;261.530;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335832;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;285.807;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335833;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;294.807;21.98;10.44;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76335834;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;294.807;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335835;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;294.807;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335836;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;294.807;20.81;8.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76335837;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;308.572;26.84;9.12;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76335838;800700;3F;2430;Wesley Matthews;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;1;336.488;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:02:03.150857
+76335839;100200;Game stop;;;;;;;;;;;1;336.488;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335840;300100;Foul;1866;Marcus Smart;8;Boston Celtics;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;336.488;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335841;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;1;354.910;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335842;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;1;366.572;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335843;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;1;376.680;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335844;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;378.929;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335845;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;163;Amir Johnson;1;388.929;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335846;200300;Pick'n'Roll;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;1;388.929;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335847;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;1;388.929;24.80;8.49;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 03:02:03.150857
+76335848;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;412.488;26.99;12.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76335849;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;1;412.488;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335850;800600;2F;163;Amir Johnson;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;418.061;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:02:03.150857
+76335851;100200;Game stop;;;;;;;;;;;1;418.061;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335852;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;163;Amir Johnson;8;Boston Celtics;;;1;418.061;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335853;800102;1-;163;Amir Johnson;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;442.806;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335854;100300;Rebound;;;8;Boston Celtics;;;;;;;1;442.806;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335855;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;442.806;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335856;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;442.806;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335857;800102;1-;163;Amir Johnson;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;470.216;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335858;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;470.216;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335859;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;470.216;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335860;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2427;Dwight Powell;1;486.739;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335861;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;486.739;26.99;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:02:03.150857
+76335862;800600;2F;164;Jared Sullinger;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;501.625;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 03:02:03.150857
+76335863;100200;Game stop;;;;;;;;;;;1;501.625;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335864;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;164;Jared Sullinger;8;Boston Celtics;;;1;501.625;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335865;800101;1+;164;Jared Sullinger;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;525.102;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335866;1600500;Guard;165;Avery Bradley;8;Boston Celtics;1866;Marcus Smart;8;Boston Celtics;;;1;525.102;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335867;800101;1+;164;Jared Sullinger;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;544.939;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335868;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;545.708;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335869;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;560.708;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335870;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;560.708;25.10;1.80;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:02:03.150857
+76335871;100200;Game stop;;;;;;;;;;;1;580.477;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335872;300100;Foul;163;Amir Johnson;8;Boston Celtics;2428;Deron Williams;2975;Dallas Mavericks;;;1;580.477;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335873;100500;Turnover;163;Amir Johnson;8;Boston Celtics;;;;;;;1;580.477;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335874;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;587.972;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335875;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;603.972;21.26;9.27;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76335876;100200;Game stop;;;;;;;;;;;1;613.739;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335877;1800600;Timeout;;;8;Boston Celtics;;;;;;;1;613.739;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335878;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;631.588;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335879;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;642.588;25.49;8.88;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:02:03.150857
+76335880;100200;Game stop;;;;;;;;;;;1;642.588;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335881;100300;Rebound;;;8;Boston Celtics;;;;;;;1;642.588;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335882;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;653.306;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335883;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;1;657.306;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335884;800201;2+;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;1;657.306;26.36;11.04;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:02:03.150857
+76335885;100200;Game stop;;;;;;;;;;;1;669.815;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335886;300100;Foul;165;Avery Bradley;8;Boston Celtics;2432;Devin L Harris;2975;Dallas Mavericks;;;1;669.815;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335887;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;1;669.815;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335888;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;701.189;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335889;100200;Game stop;;;;;;;;;;;1;705.189;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335890;300100;Foul;165;Avery Bradley;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;705.189;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335891;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;720.062;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335892;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;729.062;21.71;10.80;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:02:03.150857
+76335893;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;729.062;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335894;400101;Accurate pass;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;1;738.979;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335895;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;1;738.979;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335896;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;164;Jared Sullinger;1;738.979;26.99;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:02:03.150857
+76335897;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;751.472;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76335898;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;751.472;25.82;7.62;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 03:02:03.150857
+76335899;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;751.472;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335900;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;1;770.568;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335901;800301;3+;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;1;770.568;19.49;7.80;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76335902;100200;Game stop;;;;;;;;;;;1;770.568;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335903;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;770.568;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335904;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;770.568;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335905;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;770.568;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335906;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;782.677;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335907;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;793.677;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335908;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;793.677;26.84;2.40;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:02:03.150857
+76335909;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;1;807.577;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335910;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;1;807.577;24.65;11.58;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:02:03.150857
+76335911;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;827.627;21.71;10.26;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:02:03.150857
+76335912;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;827.627;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335913;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;;;1;836.480;21.71;5.01;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76335914;100400;Steal;165;Avery Bradley;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;848.141;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335915;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;;;1;851.759;27.08;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:02:03.150857
+76335916;800202;2-;2432;Devin L Harris;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;1;868.602;25.82;8.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76335917;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;868.602;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335918;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;1;884.950;22.28;5.97;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:02:03.150857
+76335919;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;884.950;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335920;400101;Accurate pass;164;Jared Sullinger;8;Boston Celtics;;;;;165;Avery Bradley;1;884.950;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335921;800301;3+;165;Avery Bradley;8;Boston Celtics;;;;;164;Jared Sullinger;1;884.950;21.41;12.69;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76335922;100400;Steal;164;Jared Sullinger;8;Boston Celtics;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;908.004;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335923;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;912.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335924;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;1;912.298;26.84;8.10;;;;;;;;Transition;;;;;;2017-12-07 03:02:03.150857
+76335925;100200;Game stop;;;;;;;;;;;1;912.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335926;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;912.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335927;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;1;912.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335928;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;1;912.298;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76335929;1600500;Guard;7504;Evan Turner;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;1;912.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335930;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;1;912.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335931;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;926.963;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335932;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;942.963;19.88;10.74;;;;;;;;Catch and shoot;;Jumper;;;;2018-10-20 17:58:37.550992
+76335933;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;1;942.963;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335934;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;1;964.208;23.18;14.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76335935;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;964.208;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335936;800202;2-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;964.208;27.20;7.17;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:02:03.150857
+76335937;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;964.208;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335938;800202;2-;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;964.208;27.38;7.80;;;;;;;;Putbacks;;;;;;2017-12-07 03:02:03.150857
+76335939;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;964.208;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335940;800600;2F;2427;Dwight Powell;2975;Dallas Mavericks;171;Jonas Jerebko;8;Boston Celtics;;;1;978.392;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:02:03.150857
+76335941;100200;Game stop;;;;;;;;;;;1;978.392;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335942;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;1;978.392;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335943;800102;1-;2427;Dwight Powell;2975;Dallas Mavericks;171;Jonas Jerebko;8;Boston Celtics;;;1;999.156;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335944;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;999.156;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335945;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;171;Jonas Jerebko;8;Boston Celtics;;;1;1015.123;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335946;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;1017.592;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335947;800202;2-;165;Avery Bradley;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;1;1037.592;26.99;7.65;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:02:03.150857
+76335948;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;1037.592;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76335949;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;1046.101;20.66;11.61;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:02:03.150857
+76335950;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;1046.101;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335951;200600;Post;7504;Evan Turner;8;Boston Celtics;;;;;;;1;1066.251;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335952;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;1;1066.251;26.51;11.13;;;;;;;;Post;;Jumper;;;;2017-12-07 03:02:03.150857
+76335953;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;1066.251;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335954;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;1080.203;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335955;800600;2F;2433;Dirk Nowitzki;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;1;1080.203;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:02:03.150857
+76335956;100200;Game stop;;;;;;;;;;;1;1080.203;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335957;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;1080.203;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335958;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;1;1104.166;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335959;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;1;1104.166;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335960;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;1;1122.987;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335961;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;1133.631;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335962;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;1;1146.231;21.26;9.75;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76335963;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;1;1146.231;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335964;800202;2-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;1164.473;23.60;9.66;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:02:03.150857
+76335965;100300;Rebound;;;8;Boston Celtics;;;;;;;1;1164.473;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335966;1800500;Halftime;;;;;;;;;;;1;1164.473;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335967;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335968;1600500;Guard;165;Avery Bradley;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335969;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335970;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335971;1600500;Guard;7504;Evan Turner;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335972;1600500;Guard;7798;David Lee;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335973;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335974;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335975;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335976;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335977;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76335978;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;2.407;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335979;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;18.407;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335980;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;18.407;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335981;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;18.407;23.72;5.88;;;;;;;;Post;;Jumper;;;;2017-12-07 03:02:03.150857
+76335982;200600;Post;7798;David Lee;8;Boston Celtics;;;;;;;2;33.963;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335983;800201;2+;7798;David Lee;8;Boston Celtics;;;;;;;2;33.963;27.23;9.84;;;;;;;;Post;;Jumper;;;;2017-12-07 03:02:03.150857
+76335984;100400;Steal;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;37.884;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335985;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;37.884;27.23;7.32;;;;;;;;;;Lay up;;;;2017-12-07 03:02:03.150857
+76335986;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;48.637;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:02:03.150857
+76335987;100200;Game stop;;;;;;;;;;;2;48.637;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335988;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;7499;Raymond Felton;2975;Dallas Mavericks;;;2;48.637;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335989;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;71.414;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335990;800102;1-;7499;Raymond Felton;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;87.946;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335991;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;87.946;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76335992;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;87.946;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335993;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;97.686;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335994;800600;2F;2433;Dirk Nowitzki;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;97.686;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:02:03.150857
+76335995;100200;Game stop;;;;;;;;;;;2;97.686;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335996;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;97.686;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335997;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;123.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335998;1600500;Guard;163;Amir Johnson;8;Boston Celtics;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;123.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76335999;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;152.856;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336000;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;157.204;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336001;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;7504;Evan Turner;2;172.204;26.81;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336002;100200;Game stop;;;;;;;;;;;2;172.204;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336003;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;172.204;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336004;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;180.902;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336005;100200;Game stop;;;;;;;;;;;2;188.902;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336006;300100;Foul;165;Avery Bradley;8;Boston Celtics;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;188.902;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336007;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;213.162;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336008;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;222.162;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336009;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;222.162;20.18;4.65;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:02:03.150857
+76336010;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;2;222.162;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336011;200300;Pick'n'Roll;7798;David Lee;8;Boston Celtics;;;;;;;2;235.108;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336012;800600;2F;7798;David Lee;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;235.108;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:02:03.150857
+76336013;100200;Game stop;;;;;;;;;;;2;235.108;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336014;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;7798;David Lee;8;Boston Celtics;;;2;235.108;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336015;800101;1+;7798;David Lee;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;260.166;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336016;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;2;260.166;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336017;800101;1+;7798;David Lee;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;277.930;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336018;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;280.323;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336019;100400;Steal;1866;Marcus Smart;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;296.323;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336020;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;303.292;19.88;5.04;;;;;;;;Transition;;;;;;2017-12-07 03:02:03.150857
+76336021;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;303.292;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336022;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;314.232;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336023;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;314.232;27.08;7.83;;;;;;;;Cut;;;;;;2018-10-20 17:58:37.550992
+76336024;800202;2-;7798;David Lee;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;166;Isaiah Thomas;2;330.323;26.84;7.95;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:02:03.150857
+76336025;100200;Game stop;;;;;;;;;;;2;330.323;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336026;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;330.323;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336027;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;347.129;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336028;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;359.129;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336029;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;359.129;23.18;3.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336030;200300;Pick'n'Roll;163;Amir Johnson;8;Boston Celtics;;;;;7504;Evan Turner;2;379.548;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336031;800202;2-;163;Amir Johnson;8;Boston Celtics;;;;;7504;Evan Turner;2;379.548;23.60;7.95;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 03:02:03.150857
+76336032;100200;Game stop;;;;;;;;;;;2;379.548;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336033;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;379.548;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336034;300100;Foul;7798;David Lee;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;379.548;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336035;1800600;Timeout;;;;;;;;;;;2;379.548;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336036;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;379.548;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336037;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;394.925;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336038;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;412.925;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336039;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;412.925;27.05;7.17;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:02:03.150857
+76336040;400101;Accurate pass;7798;David Lee;8;Boston Celtics;;;;;7504;Evan Turner;2;428.863;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336041;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;7798;David Lee;2;428.863;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:02:03.150857
+76336042;200600;Post;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;449.719;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336043;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;449.719;26.99;8.13;;;;;;;;Post;;Lay up;;;;2017-12-07 03:02:03.150857
+76336044;400101;Accurate pass;163;Amir Johnson;8;Boston Celtics;;;;;7504;Evan Turner;2;470.319;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:02:03.150857
+76336045;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;163;Amir Johnson;2;470.319;22.73;8.49;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76336046;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;509.534;22.28;3.96;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336047;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;509.534;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336048;800600;2F;7814;Chandler Parsons;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;2;509.534;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336049;100200;Game stop;;;;;;;;;;;2;509.534;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336050;300100;Foul;1866;Marcus Smart;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;509.534;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336051;800102;1-;7814;Chandler Parsons;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;2;541.734;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336052;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;541.734;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336053;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;2;541.734;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336054;800102;1-;7814;Chandler Parsons;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;2;563.265;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336055;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;563.265;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336056;100200;Game stop;;;;;;;;;;;2;563.265;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336057;100300;Rebound;;;8;Boston Celtics;;;;;;;2;563.265;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336058;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;577.428;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336059;100200;Game stop;;;;;;;;;;;2;581.428;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336060;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;2;581.428;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336061;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;594.420;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336062;100400;Steal;2428;Deron Williams;2975;Dallas Mavericks;7798;David Lee;8;Boston Celtics;;;2;601.420;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336063;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;607.801;19.88;10.44;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:02:03.150857
+76336064;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;2;607.801;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336065;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;617.659;26.99;14.52;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:02:03.150857
+76336066;100300;Rebound;1866;Marcus Smart;8;Boston Celtics;;;;;;;2;617.659;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336067;800202;2-;1866;Marcus Smart;8;Boston Celtics;;;;;;;2;617.659;26.57;7.68;;;;;;;;Putbacks;;;;;;2017-12-07 03:02:03.150857
+76336068;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;617.659;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336069;800600;2F;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7798;David Lee;8;Boston Celtics;;;2;629.247;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2018-10-20 17:58:37.550992
+76336070;100200;Game stop;;;;;;;;;;;2;629.247;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336071;300100;Foul;7798;David Lee;8;Boston Celtics;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;629.247;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336072;800102;1-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7798;David Lee;8;Boston Celtics;;;2;657.154;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336073;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;657.154;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336074;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;7798;David Lee;8;Boston Celtics;;;2;657.154;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336075;1600500;Guard;162;Jae Crowder;8;Boston Celtics;7504;Evan Turner;8;Boston Celtics;;;2;657.154;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336076;800101;1+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7798;David Lee;8;Boston Celtics;;;2;677.920;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336077;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;682.173;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336078;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;2;694.173;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336079;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;2;694.173;22.58;7.89;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:02:03.150857
+76336080;100300;Rebound;1866;Marcus Smart;8;Boston Celtics;;;;;;;2;694.173;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336081;800202;2-;1866;Marcus Smart;8;Boston Celtics;;;;;;;2;694.173;26.84;7.68;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:02:03.150857
+76336082;100300;Rebound;1866;Marcus Smart;8;Boston Celtics;;;;;;;2;694.173;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336083;800202;2-;1866;Marcus Smart;8;Boston Celtics;;;;;;;2;694.173;27.05;7.35;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:02:03.150857
+76336084;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;694.173;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336085;100400;Steal;166;Isaiah Thomas;8;Boston Celtics;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;700.705;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336086;800600;2F;162;Jae Crowder;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;708.696;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:02:03.150857
+76336087;100200;Game stop;;;;;;;;;;;2;708.696;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336088;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;162;Jae Crowder;8;Boston Celtics;;;2;708.696;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336089;800101;1+;162;Jae Crowder;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;747.256;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336090;800101;1+;162;Jae Crowder;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;761.542;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336091;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;764.910;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336092;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;786.910;23.27;11.88;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:02:03.150857
+76336093;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;164;Jared Sullinger;2;800.554;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336094;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;2;800.554;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336095;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;2;800.554;26.51;7.05;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:02:03.150857
+76336096;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;815.842;25.97;5.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76336097;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;815.842;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336098;100200;Game stop;;;;;;;;;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336099;1800600;Timeout;;;8;Boston Celtics;;;;;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336100;1600500;Guard;165;Avery Bradley;8;Boston Celtics;1866;Marcus Smart;8;Boston Celtics;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336101;1600500;Guard;7504;Evan Turner;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336102;1600500;Guard;163;Amir Johnson;8;Boston Celtics;171;Jonas Jerebko;8;Boston Celtics;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336103;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336104;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336105;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336106;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336107;100500;Turnover;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;826.034;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336108;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;840.745;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336109;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;860.745;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336110;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;860.745;24.65;7.59;;;;;;;;Post;;Jumper;;;;2017-12-07 03:02:03.150857
+76336111;800202;2-;162;Jae Crowder;8;Boston Celtics;2428;Deron Williams;2975;Dallas Mavericks;165;Avery Bradley;2;876.855;27.05;6.63;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:02:03.150857
+76336112;100200;Game stop;;;;;;;;;;;2;876.855;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336113;100300;Rebound;;;8;Boston Celtics;;;;;;;2;876.855;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336114;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;897.748;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336115;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;904.748;26.99;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:02:03.150857
+76336116;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;904.748;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336117;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;904.748;26.72;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 03:02:03.150857
+76336118;100400;Steal;165;Avery Bradley;8;Boston Celtics;2432;Devin L Harris;2975;Dallas Mavericks;;;2;921.459;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336119;800600;2F;165;Avery Bradley;8;Boston Celtics;2428;Deron Williams;2975;Dallas Mavericks;;;2;925.920;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:02:03.150857
+76336120;100200;Game stop;;;;;;;;;;;2;925.920;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336121;300100;Foul;2428;Deron Williams;2975;Dallas Mavericks;165;Avery Bradley;8;Boston Celtics;;;2;925.920;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336122;800101;1+;165;Avery Bradley;8;Boston Celtics;2428;Deron Williams;2975;Dallas Mavericks;;;2;948.976;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336123;800102;1-;165;Avery Bradley;8;Boston Celtics;2428;Deron Williams;2975;Dallas Mavericks;;;2;967.050;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336124;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;967.050;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336125;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;967.050;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336126;100400;Steal;162;Jae Crowder;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;967.050;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336127;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;;;2;979.434;25.19;14.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336128;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;979.434;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336129;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;985.233;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336130;800201;2+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;985.233;27.08;8.34;;;;;;;;Transition;;;;;;2017-12-07 03:02:03.150857
+76336131;200600;Post;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;1002.653;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336132;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;1002.653;26.27;6.72;;;;;;;;Post;;;;;;2017-12-07 03:02:03.150857
+76336133;800600;2F;2427;Dwight Powell;2975;Dallas Mavericks;164;Jared Sullinger;8;Boston Celtics;;;2;1018.003;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:02:03.150857
+76336134;100200;Game stop;;;;;;;;;;;2;1018.003;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336135;300100;Foul;164;Jared Sullinger;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1018.003;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336136;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;164;Jared Sullinger;8;Boston Celtics;;;2;1043.125;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336137;800102;1-;2427;Dwight Powell;2975;Dallas Mavericks;164;Jared Sullinger;8;Boston Celtics;;;2;1062.060;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336138;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;1062.060;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336139;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;2;1062.060;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336140;200600;Post;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;1079.790;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336141;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;1079.790;25.82;8.58;;;;;;;;Post;;Jumper;;;;2017-12-07 03:02:03.150857
+76336142;100200;Game stop;;;;;;;;;;;2;1079.790;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336143;100300;Rebound;;;8;Boston Celtics;;;;;;;2;1079.790;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336144;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;1079.790;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336145;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1079.790;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336146;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;1104.072;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336147;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;;;2;1116.072;20.21;10.44;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336148;100300;Rebound;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;1116.072;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336149;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;1138.607;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336150;800301;3+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;1138.607;27.38;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336151;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;;;2;1157.522;25.49;12.42;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336152;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;1179.407;25.22;6.18;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 03:02:03.150857
+76336153;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;1179.407;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336154;100200;Game stop;;;;;;;;;;;2;1179.407;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336155;300100;Foul;164;Jared Sullinger;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;1179.407;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336156;100500;Turnover;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;1179.407;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336157;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;2;1179.407;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336158;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1209.242;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336159;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1220.242;26.42;10.05;;;;;;;;Isolation;;Floater;Drives Left;;;2017-12-07 03:02:03.150857
+76336160;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;2;1234.958;26.57;3.33;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76336161;100200;Game stop;;;;;;;;;;;2;1234.958;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336162;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;1234.958;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336163;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1243.960;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336164;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;1255.960;21.65;2.64;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336165;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;1255.960;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336166;800302;3-;1866;Marcus Smart;8;Boston Celtics;;;;;;;2;1266.176;19.64;5.19;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76336167;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1266.176;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336168;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;1284.334;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336169;800301;3+;2428;Deron Williams;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;1284.334;26.57;0.48;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336170;100200;Game stop;;;;;;;;;;;2;1284.334;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336171;1800600;Timeout;;;8;Boston Celtics;;;;;;;2;1284.334;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336172;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;1284.334;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336173;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;1866;Marcus Smart;8;Boston Celtics;;;2;1284.334;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336174;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;1301.179;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336175;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;2;1312.179;26.42;10.50;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:02:03.150857
+76336176;100400;Steal;163;Amir Johnson;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1312.179;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336177;1800500;Halftime;;;;;;;;;;;2;1314.079;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336178;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336179;1600500;Guard;162;Jae Crowder;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336180;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336181;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336182;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336183;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336184;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336185;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336186;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336187;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336188;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336189;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336190;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;15.285;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336191;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;15.285;22.88;5.94;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336192;800302;3-;163;Amir Johnson;8;Boston Celtics;;;;;;;3;38.596;26.27;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336193;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;38.596;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336194;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;45.089;27.05;8.10;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:02:03.150857
+76336195;100200;Game stop;;;;;;;;;;;3;45.089;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336196;1800600;Timeout;;;8;Boston Celtics;;;;;;;3;45.089;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336197;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;52.523;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336198;800202;2-;1866;Marcus Smart;8;Boston Celtics;;;;;;;3;74.523;26.57;9.99;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336199;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;74.523;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336200;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;163;Amir Johnson;8;Boston Celtics;;;3;90.105;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:02:03.150857
+76336201;100200;Game stop;;;;;;;;;;;3;90.105;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336202;300100;Foul;163;Amir Johnson;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;90.105;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336203;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;163;Amir Johnson;8;Boston Celtics;;;3;120.277;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336204;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;163;Amir Johnson;8;Boston Celtics;;;3;140.228;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336205;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;145.885;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336206;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;1866;Marcus Smart;3;161.885;21.20;12.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336207;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;161.885;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336208;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;168.987;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336209;200600;Post;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;168.987;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336210;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;168.987;24.05;3.42;;;;;;;;Post;;Jumper;;;;2017-12-07 03:02:03.150857
+76336211;800600;2F;166;Isaiah Thomas;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;179.749;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:02:03.150857
+76336212;100200;Game stop;;;;;;;;;;;3;179.749;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336213;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;3;179.749;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336214;800101;1+;166;Isaiah Thomas;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;203.768;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336215;1600500;Guard;165;Avery Bradley;8;Boston Celtics;1866;Marcus Smart;8;Boston Celtics;;;3;203.768;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336216;800101;1+;166;Isaiah Thomas;8;Boston Celtics;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;222.661;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336217;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;235.401;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336218;800600;2F;7814;Chandler Parsons;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;3;254.401;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:02:03.150857
+76336219;100200;Game stop;;;;;;;;;;;3;254.401;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336220;300100;Foul;166;Isaiah Thomas;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;254.401;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336221;800102;1-;7814;Chandler Parsons;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;3;273.779;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336222;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;273.779;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336223;800102;1-;7814;Chandler Parsons;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;3;287.997;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336224;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;287.997;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336225;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;287.997;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336226;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;3;309.833;21.26;7.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336227;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;309.833;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336228;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;319.205;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336229;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;319.205;24.89;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336230;800202;2-;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;3;338.826;26.27;12.27;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:02:03.150857
+76336231;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;338.826;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336232;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;3;350.743;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336233;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;3;350.743;20.96;4.35;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 03:02:03.150857
+76336234;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;3;350.743;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336235;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;;;3;350.743;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:02:03.150857
+76336236;100200;Game stop;;;;;;;;;;;3;365.165;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336237;300100;Foul;166;Isaiah Thomas;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;365.165;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336238;1600500;Guard;7504;Evan Turner;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;3;365.165;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336239;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;391.713;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336240;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;397.713;25.64;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336241;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;3;397.713;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336242;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;163;Amir Johnson;3;410.002;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336243;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;165;Avery Bradley;3;410.002;27.08;7.17;;;;;;;;Cut;;;;;;2017-12-07 03:02:03.150857
+76336244;100200;Game stop;;;;;;;;;;;3;425.336;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336245;300100;Foul;165;Avery Bradley;8;Boston Celtics;2428;Deron Williams;2975;Dallas Mavericks;;;3;425.336;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336246;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;449.146;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336247;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;456.146;22.28;4.95;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76336248;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;456.146;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336249;100200;Game stop;;;;;;;;;;;3;467.756;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336250;100500;Turnover;162;Jae Crowder;8;Boston Celtics;;;;;;;3;467.756;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336251;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;473.843;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336252;100400;Steal;165;Avery Bradley;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;474.843;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336253;800202;2-;164;Jared Sullinger;8;Boston Celtics;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;480.589;26.42;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:02:03.150857
+76336254;100200;Game stop;;;;;;;;;;;3;480.589;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336255;100300;Rebound;;;8;Boston Celtics;;;;;;;3;480.589;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336256;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;496.515;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336257;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;162;Jae Crowder;3;498.515;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336258;800201;2+;162;Jae Crowder;8;Boston Celtics;;;;;7504;Evan Turner;3;498.515;26.72;11.52;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:02:03.150857
+76336259;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;511.382;26.42;7.50;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:02:03.150857
+76336260;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;511.382;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336261;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;511.382;27.20;7.80;;;;;;;;Putbacks;;;;;;2017-12-07 03:02:03.150857
+76336262;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;511.382;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336263;100200;Game stop;;;;;;;;;;;3;523.453;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336264;300100;Foul;163;Amir Johnson;8;Boston Celtics;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;523.453;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336265;100500;Turnover;163;Amir Johnson;8;Boston Celtics;;;;;;;3;523.453;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336266;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;537.612;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336267;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;553.612;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336268;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;553.612;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336269;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;553.612;22.25;4.86;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:02:03.150857
+76336270;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;3;583.249;22.13;11.07;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336271;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;583.249;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336272;800600;2F;2430;Wesley Matthews;2975;Dallas Mavericks;164;Jared Sullinger;8;Boston Celtics;;;3;591.253;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:02:03.150857
+76336273;100200;Game stop;;;;;;;;;;;3;591.253;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336274;300100;Foul;164;Jared Sullinger;8;Boston Celtics;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;591.253;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336275;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;164;Jared Sullinger;8;Boston Celtics;;;3;614.321;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336276;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;614.321;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336277;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;3;614.321;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336278;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;164;Jared Sullinger;8;Boston Celtics;;;3;635.305;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336279;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;640.119;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336280;100200;Game stop;;;;;;;;;;;3;646.119;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336281;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;164;Jared Sullinger;8;Boston Celtics;;;3;646.119;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336282;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;646.119;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336283;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;669.155;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336284;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;7504;Evan Turner;3;675.155;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336285;800202;2-;164;Jared Sullinger;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;7504;Evan Turner;3;675.155;25.97;6.48;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 03:02:03.150857
+76336286;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;675.155;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336287;100400;Steal;165;Avery Bradley;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;688.141;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336288;100400;Steal;2428;Deron Williams;2975;Dallas Mavericks;7504;Evan Turner;8;Boston Celtics;;;3;689.122;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336289;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;692.656;26.96;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:02:03.150857
+76336290;800202;2-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;3;715.884;24.74;9.18;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:02:03.150857
+76336291;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;715.884;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336292;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;715.884;27.08;7.56;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:02:03.150857
+76336293;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;740.348;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336294;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;740.348;22.13;8.58;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:02:03.150857
+76336295;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;3;740.348;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336296;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;750.126;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336297;800600;2F;164;Jared Sullinger;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;3;750.126;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:02:03.150857
+76336298;100200;Game stop;;;;;;;;;;;3;750.126;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336299;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;164;Jared Sullinger;8;Boston Celtics;;;3;750.126;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336300;800101;1+;164;Jared Sullinger;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;3;775.693;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336301;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;775.693;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336302;800102;1-;164;Jared Sullinger;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;3;800.248;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336303;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;800.248;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336304;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;800.248;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336305;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;800.248;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336306;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;849.852;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336307;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;871.779;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336308;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;875.370;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336309;100200;Game stop;;;;;;;;;;;3;887.370;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336310;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;7504;Evan Turner;8;Boston Celtics;;;3;887.370;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336311;1600500;Guard;7798;David Lee;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;3;887.370;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336312;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;913.007;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336313;100200;Game stop;;;;;;;;;;;3;918.007;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336314;100500;Turnover;7504;Evan Turner;8;Boston Celtics;;;;;;;3;918.007;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336315;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;933.684;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336316;100200;Game stop;;;;;;;;;;;3;940.684;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336317;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;7504;Evan Turner;8;Boston Celtics;;;3;940.684;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336318;100500;Turnover;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;940.684;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336319;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;950.759;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336320;200600;Post;7798;David Lee;8;Boston Celtics;;;;;;;3;963.759;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336321;800201;2+;7798;David Lee;8;Boston Celtics;;;;;;;3;963.759;25.82;9.27;;;;;;;;Post;;Jumper;;;;2017-12-07 03:02:03.150857
+76336322;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;980.094;26.99;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:02:03.150857
+76336323;800202;2-;162;Jae Crowder;8;Boston Celtics;;;;;;;3;1000.491;21.95;11.13;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336324;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;1000.491;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336325;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;3;1010.351;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336326;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;3;1010.351;23.33;12.21;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:02:03.150857
+76336327;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;3;1010.351;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336328;800202;2-;162;Jae Crowder;8;Boston Celtics;2432;Devin L Harris;2975;Dallas Mavericks;7504;Evan Turner;3;1028.232;27.08;7.68;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:02:03.150857
+76336329;100200;Game stop;;;;;;;;;;;3;1028.232;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336330;100300;Rebound;;;8;Boston Celtics;;;;;;;3;1028.232;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336331;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;1028.232;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336332;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;3;1028.232;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336333;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;7504;Evan Turner;8;Boston Celtics;;;3;1028.232;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336334;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;3;1028.232;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336335;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1049.911;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336336;800302;3-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;3;1064.911;21.80;1.80;;;;;;;;;;Jumper;;;;2017-12-07 03:02:03.150857
+76336337;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1064.911;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336338;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1089.385;20.96;3.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336339;100300;Rebound;7798;David Lee;8;Boston Celtics;;;;;;;3;1089.385;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336340;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;1100.030;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336341;800301;3+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;166;Isaiah Thomas;3;1100.030;27.05;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336342;100200;Game stop;;;;;;;;;;;3;1115.863;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336343;300100;Foul;7437;Jeremy Evans;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1115.863;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336344;100500;Turnover;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;3;1115.863;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336345;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1127.064;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336346;800600;2F;7798;David Lee;8;Boston Celtics;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1140.064;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:02:03.150857
+76336347;100200;Game stop;;;;;;;;;;;3;1140.064;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336348;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;7798;David Lee;8;Boston Celtics;;;3;1140.064;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336349;800101;1+;7798;David Lee;8;Boston Celtics;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1162.465;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336350;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7437;Jeremy Evans;2975;Dallas Mavericks;;;3;1162.465;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336351;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;3;1162.465;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336352;800101;1+;7798;David Lee;8;Boston Celtics;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1186.349;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336353;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1191.360;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336354;800600;2F;2427;Dwight Powell;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1211.360;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:02:03.150857
+76336355;100200;Game stop;;;;;;;;;;;3;1211.360;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336356;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;3;1211.360;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336357;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1239.463;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336358;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1255.690;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336359;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1259.357;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336360;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;3;1270.357;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336361;800301;3+;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;3;1270.357;26.21;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336362;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;1291.503;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336363;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2432;Devin L Harris;3;1291.503;25.37;9.66;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 03:02:03.150857
+76336364;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;3;1302.300;26.66;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:02:03.150857
+76336365;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1302.300;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336366;100200;Game stop;;;;;;;;;;;3;1309.695;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336367;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1309.695;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336368;100500;Turnover;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1309.695;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336369;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1329.411;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336370;800600;2F;166;Isaiah Thomas;8;Boston Celtics;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;3;1346.311;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:02:03.150857
+76336371;100200;Game stop;;;;;;;;;;;3;1346.311;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336372;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;3;1346.311;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336373;800101;1+;166;Isaiah Thomas;8;Boston Celtics;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;3;1369.374;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336374;1600500;Guard;162;Jae Crowder;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;3;1369.374;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336375;1600500;Guard;163;Amir Johnson;8;Boston Celtics;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1369.374;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336376;800102;1-;166;Isaiah Thomas;8;Boston Celtics;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;3;1396.208;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336377;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1396.208;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336378;100300;Rebound;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;3;1396.208;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336379;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;1416.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336380;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;1416.298;25.82;5.43;;;;;;;;Post;;Jumper;;;;2017-12-07 03:02:03.150857
+76336381;100200;Game stop;;;;;;;;;;;3;1416.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336382;100300;Rebound;;;8;Boston Celtics;;;;;;;3;1416.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336383;800600;2F;7798;David Lee;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;3;1416.298;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336384;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;7798;David Lee;8;Boston Celtics;;;3;1416.298;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336385;800101;1+;7798;David Lee;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;3;1448.109;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336386;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1448.109;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336387;1600500;Guard;7504;Evan Turner;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;3;1448.109;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336388;800101;1+;7798;David Lee;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;3;1473.456;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336389;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1483.827;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336390;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1497.727;21.35;5.16;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336391;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;1497.727;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336392;1800500;Halftime;;;;;;;;;;;3;1498.727;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336393;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336394;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336395;1600500;Guard;165;Avery Bradley;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336396;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336397;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336398;1600500;Guard;7798;David Lee;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336399;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336400;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336401;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336402;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336403;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336404;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;8.715;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336405;800202;2-;7798;David Lee;8;Boston Celtics;;;;;;;4;31.715;23.18;12.06;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:02:03.150857
+76336406;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;4;31.715;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336407;200600;Post;7798;David Lee;8;Boston Celtics;;;;;;;4;41.929;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336408;800201;2+;7798;David Lee;8;Boston Celtics;;;;;;;4;41.929;26.72;10.44;;;;;;;;Post;;Hook;;;;2017-12-07 03:02:03.150857
+76336409;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;69.561;19.94;4.95;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:02:03.150857
+76336410;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;69.561;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336411;400101;Accurate pass;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;4;69.561;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336412;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2427;Dwight Powell;4;69.561;19.88;5.40;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336413;400101;Accurate pass;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;4;84.330;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:02:03.150857
+76336414;800301;3+;166;Isaiah Thomas;8;Boston Celtics;;;;;163;Amir Johnson;4;84.330;22.37;2.01;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76336415;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;95.389;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:02:03.150857
+76336416;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;4;95.389;26.96;7.95;;;;;;;;Hand offs;;Lay up;;;;2018-10-20 17:58:37.550992
+76336417;100400;Steal;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;165;Avery Bradley;8;Boston Celtics;;;4;114.089;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336418;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;118.803;27.08;7.35;;;;;;;;Transition;;Lay up;;;;2018-10-20 17:58:37.550992
+76336419;800202;2-;7798;David Lee;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;4;126.502;26.99;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:02:03.150857
+76336420;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;126.502;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336421;100400;Steal;166;Isaiah Thomas;8;Boston Celtics;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;143.346;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336422;100200;Game stop;;;;;;;;;;;4;143.346;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336423;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;4;143.346;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336424;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;160.403;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336425;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;171.403;19.64;9.21;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336426;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;171.403;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336427;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;180.725;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336428;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;180.725;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336429;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;180.725;19.94;5.70;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:02:03.150857
+76336430;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;7798;David Lee;4;198.893;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336431;200300;Pick'n'Roll;7798;David Lee;8;Boston Celtics;;;;;165;Avery Bradley;4;198.893;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336432;800201;2+;7798;David Lee;8;Boston Celtics;;;;;165;Avery Bradley;4;198.893;26.84;7.11;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 03:02:03.150857
+76336433;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;217.352;27.05;8.13;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 03:02:03.150857
+76336434;400101;Accurate pass;1866;Marcus Smart;8;Boston Celtics;;;;;163;Amir Johnson;4;233.302;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336435;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;1866;Marcus Smart;4;233.302;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 03:02:03.150857
+76336436;100200;Game stop;;;;;;;;;;;4;247.261;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336437;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;4;247.261;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336438;100500;Turnover;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;247.261;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336439;1800600;Timeout;;;;;;;;;;;4;247.261;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336440;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;247.261;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336441;1600500;Guard;162;Jae Crowder;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;4;247.261;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336442;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;267.014;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336443;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;;;4;282.014;21.26;2.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336444;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;4;282.014;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336445;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;4;282.014;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336446;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;4;282.014;22.73;9.81;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:02:03.150857
+76336447;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;309.272;25.91;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336448;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;309.272;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336449;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;4;309.272;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336450;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;309.272;26.57;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336451;100200;Game stop;;;;;;;;;;;4;333.985;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336452;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;4;333.985;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336453;1600500;Guard;7504;Evan Turner;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;4;333.985;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336454;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;7798;David Lee;8;Boston Celtics;;;4;333.985;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336455;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;361.371;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336456;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;4;365.371;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336457;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;370.457;27.05;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:02:03.150857
+76336458;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;4;390.577;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336459;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;4;390.577;27.08;7.83;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 03:02:03.150857
+76336460;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;390.577;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336461;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;390.577;27.05;7.35;;;;;;;;Putbacks;;;;;;2017-12-07 03:02:03.150857
+76336462;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;415.794;21.11;12.30;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336463;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;415.794;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336464;100200;Game stop;;;;;;;;;;;4;415.794;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336465;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;415.794;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336466;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;415.794;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336467;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;415.794;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336468;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;427.992;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336469;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;442.992;23.90;11.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336470;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;463.831;22.13;1.86;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:02:03.150857
+76336471;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;463.831;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336472;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;483.058;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336473;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;483.058;26.99;7.65;;;;;;;;Post;;Lay up;;;;2017-12-07 03:02:03.150857
+76336474;100200;Game stop;;;;;;;;;;;4;500.578;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336475;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;4;500.578;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76336476;1600500;Guard;165;Avery Bradley;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;4;500.578;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336477;1600500;Guard;163;Amir Johnson;8;Boston Celtics;1866;Marcus Smart;8;Boston Celtics;;;4;500.578;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336478;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;500.578;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336479;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;534.359;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336480;200600;Post;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;545.359;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336481;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;545.359;26.96;7.05;;;;;;;;Post;;Lay up;;;;2017-12-07 03:02:03.150857
+76336482;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;545.359;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336483;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;566.457;25.37;2.70;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:02:03.150857
+76336484;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;4;566.457;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336485;100400;Steal;2433;Dirk Nowitzki;2975;Dallas Mavericks;7504;Evan Turner;8;Boston Celtics;;;4;571.342;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336486;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;584.784;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336487;800301;3+;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;584.784;25.49;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336488;100200;Game stop;;;;;;;;;;;4;602.104;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336489;100500;Turnover;162;Jae Crowder;8;Boston Celtics;;;;;;;4;602.104;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336490;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;7504;Evan Turner;8;Boston Celtics;;;4;602.104;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336491;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;623.274;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336492;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;642.274;26.12;10.35;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 03:02:03.150857
+76336493;100200;Game stop;;;;;;;;;;;4;642.274;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336494;1800600;Timeout;;;8;Boston Celtics;;;;;;;4;642.274;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336495;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;656.470;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336496;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;164;Jared Sullinger;4;672.470;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336497;800301;3+;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;4;672.470;19.64;7.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336498;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;4;693.255;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336499;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;693.255;26.99;6.63;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:02:03.150857
+76336500;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;165;Avery Bradley;4;717.646;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:02:03.150857
+76336501;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;165;Avery Bradley;4;717.646;26.72;6.48;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 03:02:03.150857
+76336502;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;4;717.646;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336503;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;735.059;25.52;10.11;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 03:02:03.150857
+76336504;100200;Game stop;;;;;;;;;;;4;735.059;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336505;100300;Rebound;;;8;Boston Celtics;;;;;;;4;735.059;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336506;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;756.894;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336507;100400;Steal;2430;Wesley Matthews;2975;Dallas Mavericks;165;Avery Bradley;8;Boston Celtics;;;4;764.894;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336508;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;768.626;26.99;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:02:03.150857
+76336509;100200;Game stop;;;;;;;;;;;4;768.626;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336510;1800600;Timeout;;;8;Boston Celtics;;;;;;;4;768.626;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336511;1600500;Guard;7504;Evan Turner;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;4;768.626;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336512;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;4;768.626;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336513;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;787.965;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336514;800600;2F;166;Isaiah Thomas;8;Boston Celtics;7499;Raymond Felton;2975;Dallas Mavericks;;;4;800.965;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:02:03.150857
+76336515;100200;Game stop;;;;;;;;;;;4;800.965;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336516;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;4;800.965;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336517;800102;1-;166;Isaiah Thomas;8;Boston Celtics;7499;Raymond Felton;2975;Dallas Mavericks;;;4;825.314;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336518;100300;Rebound;;;8;Boston Celtics;;;;;;;4;825.314;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336519;1600500;Guard;162;Jae Crowder;8;Boston Celtics;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;825.314;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336520;800101;1+;166;Isaiah Thomas;8;Boston Celtics;7499;Raymond Felton;2975;Dallas Mavericks;;;4;844.569;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336521;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;849.059;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336522;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;873.059;26.96;11.97;;;;;;;;;;Jumper;;;;2017-12-07 03:02:03.150857
+76336523;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;873.059;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336524;800302;3-;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;883.292;19.49;9.27;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:02:03.150857
+76336525;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;883.292;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336526;100200;Game stop;;;;;;;;;;;4;898.182;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336527;300100;Foul;165;Avery Bradley;8;Boston Celtics;2428;Deron Williams;2975;Dallas Mavericks;;;4;898.182;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336528;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;926.320;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336529;100200;Game stop;;;;;;;;;;;4;927.320;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336530;100500;Turnover;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;4;927.320;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336531;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;4;927.320;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336532;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;945.349;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336533;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;957.349;27.23;8.04;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:02:03.150857
+76336534;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;957.349;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336535;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;978.558;22.37;13.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:02:03.150857
+76336536;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;978.558;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336537;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;984.593;21.11;2.31;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:02:03.150857
+76336538;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;984.593;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336539;100200;Game stop;;;;;;;;;;;4;984.593;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336540;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;984.593;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336541;1600500;Guard;163;Amir Johnson;8;Boston Celtics;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;984.593;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336542;800600;2F;2430;Wesley Matthews;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;989.443;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336543;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;989.443;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336544;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;1032.261;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336545;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;1045.598;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336546;1800600;Timeout;;;8;Boston Celtics;;;;;;;4;1045.598;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336547;1600500;Guard;162;Jae Crowder;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;4;1045.598;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336548;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1065.474;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336549;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;162;Jae Crowder;4;1070.374;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336550;200300;Pick'n'Roll;7504;Evan Turner;8;Boston Celtics;;;;;162;Jae Crowder;4;1070.374;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336551;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;7504;Evan Turner;4;1070.374;20.63;3.51;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:02:03.150857
+76336552;100400;Steal;7504;Evan Turner;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;4;1089.928;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336553;800600;2F;162;Jae Crowder;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;4;1089.928;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336554;100200;Game stop;;;;;;;;;;;4;1089.928;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336555;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;162;Jae Crowder;8;Boston Celtics;;;4;1089.928;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336556;800101;1+;162;Jae Crowder;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;4;1122.187;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336557;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;1122.187;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336558;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;4;1122.187;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336559;800101;1+;162;Jae Crowder;8;Boston Celtics;2427;Dwight Powell;2975;Dallas Mavericks;;;4;1152.196;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336560;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;1152.196;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336561;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1175.423;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336562;800600;2F;2428;Deron Williams;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;4;1176.423;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336563;100200;Game stop;;;;;;;;;;;4;1176.423;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336564;300100;Foul;1866;Marcus Smart;8;Boston Celtics;2428;Deron Williams;2975;Dallas Mavericks;;;4;1176.423;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336565;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;4;1205.008;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336566;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;1205.008;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336567;1600500;Guard;163;Amir Johnson;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;4;1205.008;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336568;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;1866;Marcus Smart;8;Boston Celtics;;;4;1225.409;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336569;1800600;Timeout;;;8;Boston Celtics;;;;;;;4;1225.409;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336570;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;4;1225.409;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336571;1600500;Guard;162;Jae Crowder;8;Boston Celtics;1866;Marcus Smart;8;Boston Celtics;;;4;1225.409;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336572;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;4;1225.409;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336573;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1246.135;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336574;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;166;Isaiah Thomas;4;1249.535;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336575;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;7504;Evan Turner;4;1249.535;26.99;7.83;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 03:02:03.150857
+76336576;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;4;1261.577;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336577;100200;Game stop;;;;;;;;;;;4;1261.577;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336578;300100;Foul;166;Isaiah Thomas;8;Boston Celtics;7499;Raymond Felton;2975;Dallas Mavericks;;;4;1261.577;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336579;800102;1-;7499;Raymond Felton;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;4;1293.877;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336580;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;1293.877;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336581;800102;1-;7499;Raymond Felton;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;4;1313.976;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336582;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1313.976;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336583;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;4;1313.976;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336584;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;166;Isaiah Thomas;8;Boston Celtics;;;4;1313.976;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336585;100200;Game stop;;;;;;;;;;;4;1320.969;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336586;300100;Foul;165;Avery Bradley;8;Boston Celtics;2428;Deron Williams;2975;Dallas Mavericks;;;4;1320.969;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336587;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;4;1325.311;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336588;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;165;Avery Bradley;8;Boston Celtics;;;4;1356.265;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336589;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;165;Avery Bradley;8;Boston Celtics;;;4;1377.786;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336590;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;1385.157;;;;;;;;;;;;;;;;2019-10-24 13:05:03.082037
+76336591;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;1388.557;19.88;3.48;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:02:03.150857
+76336592;100300;Rebound;;;8;Boston Celtics;;;;;;;4;1388.557;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+76336593;1800700;Match end;;;;;;;;;;;4;1388.557;;;;;;;;;;;;;;;;2017-12-07 03:02:03.150857
+103713330;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;164;Jared Sullinger;1;136.419;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713332;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;178.920;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713334;200900;Assisting;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;198.054;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713336;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;294.807;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713338;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;308.572;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713340;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;336.488;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713342;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;1;388.929;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713344;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;1;418.061;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713346;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;486.739;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713348;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;501.625;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713350;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;560.708;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713352;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;603.972;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713354;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;1;657.306;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713356;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;164;Jared Sullinger;1;738.979;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713358;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;1;770.568;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713360;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;793.677;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713362;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;1;807.577;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713364;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;;;1;836.480;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713366;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;;;1;851.759;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713368;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;164;Jared Sullinger;1;884.950;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713370;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;1;912.298;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713372;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;978.392;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713374;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;1080.203;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713376;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;18.407;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713378;200900;Assisting;7798;David Lee;8;Boston Celtics;;;;;;;2;33.963;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713380;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;37.884;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713382;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;48.637;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713384;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;97.686;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713386;200900;Assisting;7798;David Lee;8;Boston Celtics;;;;;;;2;235.108;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713388;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;314.232;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103713390;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;359.129;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713392;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;412.925;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713394;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;7798;David Lee;2;428.863;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713396;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;449.719;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713398;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;163;Amir Johnson;2;470.319;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713400;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;509.534;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713402;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;629.247;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103713404;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;2;708.696;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713406;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;786.910;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713408;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;2;800.554;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713410;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;860.745;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713412;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;904.748;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713414;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;;;2;925.920;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713416;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;985.233;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713418;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;1002.653;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713420;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;1018.003;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713422;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;1138.607;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713424;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;2;1157.522;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713426;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1220.242;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713428;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;1284.334;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713430;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;2;1312.179;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713432;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;15.285;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713434;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;45.089;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713436;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;90.105;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713438;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;168.987;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713440;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;179.749;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713442;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;254.401;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713444;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;319.205;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713446;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;;;3;350.743;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713448;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;165;Avery Bradley;3;410.002;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713450;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;7504;Evan Turner;3;498.515;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713452;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;553.612;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713454;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;591.253;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713456;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;692.656;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713458;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;715.884;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713460;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;750.126;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713462;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;800.248;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713464;200900;Assisting;7798;David Lee;8;Boston Celtics;;;;;;;3;963.759;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713466;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;980.094;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713468;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;166;Isaiah Thomas;3;1100.030;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713470;200900;Assisting;7798;David Lee;8;Boston Celtics;;;;;;;3;1140.064;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713472;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1211.360;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713474;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;3;1270.357;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713476;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2432;Devin L Harris;3;1291.503;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713478;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;1346.311;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713480;200900;Assisting;7798;David Lee;8;Boston Celtics;;;;;;;3;1416.298;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713482;200900;Assisting;7798;David Lee;8;Boston Celtics;;;;;;;4;41.929;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713484;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2427;Dwight Powell;4;69.561;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713486;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;163;Amir Johnson;4;84.330;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713488;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;4;95.389;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103713490;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;118.803;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103713492;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;180.725;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713494;200900;Assisting;7798;David Lee;8;Boston Celtics;;;;;165;Avery Bradley;4;198.893;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713496;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;217.352;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713498;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;1866;Marcus Smart;4;233.302;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713500;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;4;282.014;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713502;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;309.272;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713504;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;370.457;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713506;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;390.577;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713508;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;442.992;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713510;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;483.058;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713512;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;584.784;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713514;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;642.274;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713516;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;4;672.470;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713518;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;693.255;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713520;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;768.626;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713522;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;800.965;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713524;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;989.443;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713526;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;7504;Evan Turner;4;1070.374;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713528;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;4;1089.928;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713530;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;1176.423;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713532;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;7504;Evan Turner;4;1249.535;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403
+103713534;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;1261.577;;;;;;;;;;;;;;;;2018-04-19 11:51:02.022403

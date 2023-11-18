@@ -1,0 +1,948 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76368591;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368606;100200;Game stop;;;;;;;;;;;1;88.529;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368620;100200;Game stop;;;;;;;;;;;1;194.854;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368627;100200;Game stop;;;;;;;;;;;1;252.981;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368633;100200;Game stop;;;;;;;;;;;1;298.925;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368644;100200;Game stop;;;;;;;;;;;1;377.542;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368650;100200;Game stop;;;;;;;;;;;1;446.644;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368655;100200;Game stop;;;;;;;;;;;1;474.806;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368662;100200;Game stop;;;;;;;;;;;1;554.623;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368667;100200;Game stop;;;;;;;;;;;1;603.205;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368672;100200;Game stop;;;;;;;;;;;1;647.530;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368678;100200;Game stop;;;;;;;;;;;1;676.199;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368683;100200;Game stop;;;;;;;;;;;1;709.494;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368694;100200;Game stop;;;;;;;;;;;1;810.206;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368708;100200;Game stop;;;;;;;;;;;1;899.676;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368716;100200;Game stop;;;;;;;;;;;1;962.405;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368733;100200;Game stop;;;;;;;;;;;1;1085.273;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368740;100200;Game stop;;;;;;;;;;;1;1126.977;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368750;100200;Game stop;;;;;;;;;;;1;1178.011;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368755;100200;Game stop;;;;;;;;;;;1;1209.109;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368759;100200;Game stop;;;;;;;;;;;1;1235.645;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368765;1800500;Halftime;;;;;;;;;;;1;1299.484;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368766;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368778;100200;Game stop;;;;;;;;;;;2;22.616;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368791;100200;Game stop;;;;;;;;;;;2;139.217;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368805;100200;Game stop;;;;;;;;;;;2;225.224;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368810;100200;Game stop;;;;;;;;;;;2;273.859;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368822;100200;Game stop;;;;;;;;;;;2;352.345;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368840;100200;Game stop;;;;;;;;;;;2;461.150;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368845;100200;Game stop;;;;;;;;;;;2;486.604;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368858;100200;Game stop;;;;;;;;;;;2;600.053;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368877;100200;Game stop;;;;;;;;;;;2;727.814;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368890;100200;Game stop;;;;;;;;;;;2;811.140;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368906;100200;Game stop;;;;;;;;;;;2;950.475;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368917;100200;Game stop;;;;;;;;;;;2;1049.909;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368937;100200;Game stop;;;;;;;;;;;2;1192.851;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368944;100200;Game stop;;;;;;;;;;;2;1271.401;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368954;1800500;Halftime;;;;;;;;;;;2;1312.423;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368955;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368967;100200;Game stop;;;;;;;;;;;3;20.543;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368978;100200;Game stop;;;;;;;;;;;3;105.905;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368988;100200;Game stop;;;;;;;;;;;3;189.770;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368998;100200;Game stop;;;;;;;;;;;3;268.290;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369012;100200;Game stop;;;;;;;;;;;3;346.455;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369022;100200;Game stop;;;;;;;;;;;3;443.050;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369038;100200;Game stop;;;;;;;;;;;3;570.600;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369043;100200;Game stop;;;;;;;;;;;3;598.727;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369058;100200;Game stop;;;;;;;;;;;3;707.153;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369064;100200;Game stop;;;;;;;;;;;3;781.193;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369071;100200;Game stop;;;;;;;;;;;3;827.777;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369088;100200;Game stop;;;;;;;;;;;3;947.762;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369097;100200;Game stop;;;;;;;;;;;3;1000.731;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369110;100200;Game stop;;;;;;;;;;;3;1122.320;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369120;100200;Game stop;;;;;;;;;;;3;1181.343;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369131;1800500;Halftime;;;;;;;;;;;3;1276.635;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369132;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369147;100200;Game stop;;;;;;;;;;;4;44.225;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369152;100200;Game stop;;;;;;;;;;;4;65.484;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369164;100200;Game stop;;;;;;;;;;;4;182.469;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369170;100200;Game stop;;;;;;;;;;;4;219.028;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369179;100200;Game stop;;;;;;;;;;;4;274.331;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369186;100200;Game stop;;;;;;;;;;;4;331.883;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369187;1800600;Timeout;;;;;;;;;;;4;331.883;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369209;100200;Game stop;;;;;;;;;;;4;498.766;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369223;100200;Game stop;;;;;;;;;;;4;615.025;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369231;100200;Game stop;;;;;;;;;;;4;689.757;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369242;100200;Game stop;;;;;;;;;;;4;783.501;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369246;100200;Game stop;;;;;;;;;;;4;816.974;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369256;100200;Game stop;;;;;;;;;;;4;902.215;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369267;100200;Game stop;;;;;;;;;;;4;971.280;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369271;100200;Game stop;;;;;;;;;;;4;1024.579;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369278;100200;Game stop;;;;;;;;;;;4;1063.555;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369288;100200;Game stop;;;;;;;;;;;4;1154.227;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369299;100200;Game stop;;;;;;;;;;;4;1214.467;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369309;100200;Game stop;;;;;;;;;;;4;1281.733;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369322;100200;Game stop;;;;;;;;;;;4;1388.392;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369330;1800500;Halftime;;;;;;;;;;;4;1423.415;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369331;1801100;Start of 1 overtime;;;;;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369347;100200;Game stop;;;;;;;;;;;5;44.508;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369364;100200;Game stop;;;;;;;;;;;5;164.304;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369369;100200;Game stop;;;;;;;;;;;5;220.575;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369381;100200;Game stop;;;;;;;;;;;5;318.543;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369390;100200;Game stop;;;;;;;;;;;5;404.133;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369393;100200;Game stop;;;;;;;;;;;5;404.133;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369399;100200;Game stop;;;;;;;;;;;5;437.201;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369405;100200;Game stop;;;;;;;;;;;5;487.985;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369411;1800700;Match end;;;;;;;;;;;5;527.436;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368571;1601000;Starting lineup;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368572;1601000;Starting lineup;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368573;1601000;Starting lineup;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368574;1601000;Starting lineup;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368575;1601000;Starting lineup;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368576;1601000;Starting lineup;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368577;1601000;Starting lineup;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368578;1601000;Starting lineup;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368579;1601000;Starting lineup;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368580;1601000;Starting lineup;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368581;1601000;Starting lineup;1923;Anderson Varejao;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368582;1601000;Starting lineup;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368583;1601000;Starting lineup;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368584;1601000;Starting lineup;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368585;1601000;Starting lineup;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368586;1601000;Starting lineup;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368587;1601000;Starting lineup;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368588;1601000;Starting lineup;7;James Jones;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368589;1601000;Starting lineup;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368590;1601000;Starting lineup;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368592;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368593;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368594;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368595;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368596;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368597;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368598;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368599;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368600;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368601;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368602;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;38.886;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368603;400101;Accurate pass;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;52.886;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368604;800201;2+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;52.886;22.73;12.12;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:41:02.375013
+76368605;100400;Steal;8395;Omer Faruk Asik;3279;New Orleans Pelicans;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;71.882;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368607;100500;Turnover;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;88.529;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368608;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;96.544;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368609;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;115.544;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368610;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;115.544;21.98;2.04;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+76368611;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;131.785;22.52;11.82;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76368612;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;131.785;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368613;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;143.100;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368614;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;143.100;26.72;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+76368615;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;158.361;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368616;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;158.361;23.33;11.97;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76368617;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;172.482;20.33;3.87;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+76368618;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;184.148;22.28;10.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368619;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;184.148;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368621;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;1;194.854;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368622;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;210.788;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368623;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;1;219.788;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368624;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;219.788;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 03:41:02.375013
+76368625;100400;Steal;1889;Kevin Love;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;237.670;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368626;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;242.545;26.81;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:41:02.375013
+76368628;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;1;252.981;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368629;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;262.982;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368630;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;271.982;23.27;4.11;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:41:02.375013
+76368631;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;271.982;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368632;100400;Steal;8394;Anthony Davis;3279;New Orleans Pelicans;1889;Kevin Love;1;Cleveland Cavaliers;;;1;292.471;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368634;300100;Foul;1889;Kevin Love;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;298.925;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368635;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;317.125;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368636;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;324.125;20.18;4.65;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:41:02.375013
+76368637;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;324.125;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368638;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;1;334.475;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368639;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;334.475;26.99;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:41:02.375013
+76368640;800201;2+;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;354.969;23.45;9.60;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:41:02.375013
+76368641;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;369.285;20.81;11.76;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:41:02.375013
+76368642;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;369.285;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368643;800400;2+1;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;377.542;26.96;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:41:02.375013
+76368645;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;377.542;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368646;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;401.792;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368647;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;420.369;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368648;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;435.369;19.43;7.59;;;;;;;;Hand offs;;Jumper;;;;2018-04-20 13:44:36.355048
+76368649;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;435.369;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368651;100500;Turnover;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;446.644;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368652;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;458.898;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368653;100400;Steal;8394;Anthony Davis;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;1;469.898;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368654;800600;2F;9128;Alonzo Gee;3279;New Orleans Pelicans;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;474.806;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:41:02.375013
+76368656;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;1;474.806;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368657;800102;1-;9128;Alonzo Gee;3279;New Orleans Pelicans;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;509.701;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368658;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;509.701;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368659;800101;1+;9128;Alonzo Gee;3279;New Orleans Pelicans;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;528.827;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368660;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;533.623;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368661;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;554.623;26.72;13.11;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+76368663;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;554.623;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368664;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;560.228;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368665;400101;Accurate pass;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;577.228;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368666;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;1;577.228;25.91;10.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:41:02.375013
+76368668;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;603.205;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368669;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;647.530;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368670;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;1;647.530;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368671;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;647.530;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368673;100500;Turnover;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;647.530;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368674;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;658.199;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368675;200600;Post;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;676.199;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368676;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;676.199;23.60;4.59;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76368677;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;676.199;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368679;300100;Foul;9128;Alonzo Gee;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;1;676.199;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368680;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;709.494;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368681;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;709.494;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368682;800600;2F;1;LeBron James;1;Cleveland Cavaliers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;709.494;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 03:41:02.375013
+76368684;300100;Foul;6753;Ryan Anderson;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;1;709.494;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368685;800101;1+;1;LeBron James;1;Cleveland Cavaliers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;735.708;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368686;800101;1+;1;LeBron James;1;Cleveland Cavaliers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;750.600;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368687;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;756.297;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368688;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;777.297;26.99;8.34;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 03:41:02.375013
+76368689;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;777.297;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368690;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;777.297;26.18;7.62;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 03:41:02.375013
+76368691;400101;Accurate pass;7;James Jones;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;794.311;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368692;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;794.311;24.02;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+76368693;800600;2F;8394;Anthony Davis;3279;New Orleans Pelicans;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;810.206;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:41:02.375013
+76368695;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;810.206;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368696;800102;1-;8394;Anthony Davis;3279;New Orleans Pelicans;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;836.748;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368697;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;836.748;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368698;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;857.054;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368699;800102;1-;8394;Anthony Davis;3279;New Orleans Pelicans;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;857.054;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368700;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;857.054;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368701;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;857.054;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368702;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;880.600;20.51;12.60;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2018-04-20 13:44:36.355048
+76368703;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;880.600;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368704;800202;2-;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;892.388;26.96;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:41:02.375013
+76368705;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;892.388;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368706;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;892.388;26.99;7.44;;;;;;;;Putbacks;;;;;;2017-12-07 03:41:02.375013
+76368707;100300;Rebound;7;James Jones;1;Cleveland Cavaliers;;;;;;;1;892.388;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368709;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;899.676;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368710;100500;Turnover;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;899.676;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368711;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;962.405;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368712;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;1;962.405;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368713;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;962.405;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368714;200300;Pick'n'Roll;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;962.405;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368715;800600;2F;6753;Ryan Anderson;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;1;962.405;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:41:02.375013
+76368717;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;962.405;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368718;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;1;985.039;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368719;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;1;1001.307;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368720;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;1003.444;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368721;400101;Accurate pass;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;1013.444;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:41:02.375013
+76368722;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;1;1013.444;20.21;10.68;;;;;;;;Hand offs;;Jumper;;;;2018-04-20 13:44:36.355048
+76368723;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;1024.172;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368724;200300;Pick'n'Roll;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;1024.172;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76368725;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;1024.172;19.79;8.73;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:41:02.375013
+76368726;800302;3-;91848;Maurice Williams;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;1047.377;20.33;4.35;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:41:02.375013
+76368727;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;1047.377;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368728;800302;3-;7;James Jones;1;Cleveland Cavaliers;;;;;;;1;1052.010;26.06;0.57;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:41:02.375013
+76368729;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1052.010;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368730;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;1063.053;26.06;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368731;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;1063.053;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368732;800600;2F;7;James Jones;1;Cleveland Cavaliers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;1;1085.273;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:41:02.375013
+76368734;300100;Foul;9128;Alonzo Gee;3279;New Orleans Pelicans;7;James Jones;1;Cleveland Cavaliers;;;1;1085.273;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368735;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;1;1085.273;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368736;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;1;1102.835;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368737;800101;1+;7;James Jones;1;Cleveland Cavaliers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;1;1102.835;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368738;800101;1+;7;James Jones;1;Cleveland Cavaliers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;1;1113.799;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368739;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;1116.977;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368741;100500;Turnover;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;1126.977;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368742;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;1133.645;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368743;800202;2-;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;1147.645;21.95;10.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76368744;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;1147.645;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368745;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1160.601;25.19;6.63;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:41:02.375013
+76368746;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1160.601;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368747;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1160.601;26.90;7.32;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:41:02.375013
+76368748;100300;Rebound;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;1;1160.601;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368749;800302;3-;7;James Jones;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;1;1178.011;19.34;7.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368751;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;1178.011;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368752;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;1185.832;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368753;800302;3-;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;1196.532;26.36;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368754;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;1196.532;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368756;100500;Turnover;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;1209.109;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368757;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;1222.345;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368758;800600;2F;8394;Anthony Davis;3279;New Orleans Pelicans;1895;Richard Jefferson;1;Cleveland Cavaliers;;;1;1235.645;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 03:41:02.375013
+76368760;300100;Foul;1895;Richard Jefferson;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;1235.645;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368761;800101;1+;8394;Anthony Davis;3279;New Orleans Pelicans;1895;Richard Jefferson;1;Cleveland Cavaliers;;;1;1259.232;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368762;800101;1+;8394;Anthony Davis;3279;New Orleans Pelicans;1895;Richard Jefferson;1;Cleveland Cavaliers;;;1;1272.592;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368763;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;1277.084;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368764;800201;2+;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;1295.584;21.26;7.32;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76368767;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368768;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368769;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368770;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368771;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368772;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368773;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368774;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368775;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368776;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368777;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;11.616;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368779;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;91848;Maurice Williams;1;Cleveland Cavaliers;;;2;22.616;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368780;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;36.497;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368781;800302;3-;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;2;49.497;19.94;10.14;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76368782;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;2;49.497;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368783;100400;Steal;7;James Jones;1;Cleveland Cavaliers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;65.186;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368784;100400;Steal;6753;Ryan Anderson;3279;New Orleans Pelicans;7;James Jones;1;Cleveland Cavaliers;;;2;65.186;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368785;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;102.962;26.84;7.98;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:41:02.375013
+76368786;800202;2-;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;2;127.957;20.09;7.59;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:41:02.375013
+76368787;100300;Rebound;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;2;127.957;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368788;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;127.957;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368789;800202;2-;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;2;127.957;24.44;8.79;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 03:41:02.375013
+76368790;800400;2+1;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;139.217;25.19;9.51;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 03:41:02.375013
+76368792;300100;Foul;7;James Jones;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;139.217;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368793;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;7;James Jones;1;Cleveland Cavaliers;;;2;175.626;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368794;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;175.626;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368795;1600500;Guard;8333;Luke Babbitt;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;175.626;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368796;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;7;James Jones;1;Cleveland Cavaliers;;;2;175.626;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368797;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;177.755;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368798;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;199.755;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368799;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;199.755;24.35;5.82;;;;;;;;Post;;Hook;;;;2017-12-07 03:41:02.375013
+76368800;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;215.940;20.90;5.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76368801;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;215.940;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368802;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;225.224;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368803;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;225.224;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368804;800400;2+1;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;2;225.224;26.12;9.57;;;;;;;;Post;;Hook;;;;2017-12-07 03:41:02.375013
+76368806;300100;Foul;8333;Luke Babbitt;3279;New Orleans Pelicans;1889;Kevin Love;1;Cleveland Cavaliers;;;2;225.224;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368807;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;8333;Luke Babbitt;3279;New Orleans Pelicans;;;2;248.010;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368808;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;254.859;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368809;800302;3-;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;273.859;23.75;14.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368811;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;273.859;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368812;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;273.859;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368813;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;288.555;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368814;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;298.555;22.58;6.57;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76368815;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;325.203;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368816;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;2;325.203;24.89;9.21;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76368817;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;325.203;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368818;800302;3-;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;341.670;19.34;8.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368819;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;341.670;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368820;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;352.345;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368821;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;8333;Luke Babbitt;3279;New Orleans Pelicans;;;2;352.345;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:41:02.375013
+76368823;300100;Foul;8333;Luke Babbitt;3279;New Orleans Pelicans;1889;Kevin Love;1;Cleveland Cavaliers;;;2;352.345;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368824;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;377.006;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368825;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;8333;Luke Babbitt;3279;New Orleans Pelicans;;;2;377.006;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368826;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;8333;Luke Babbitt;3279;New Orleans Pelicans;;;2;377.006;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368827;800102;1-;1889;Kevin Love;1;Cleveland Cavaliers;8333;Luke Babbitt;3279;New Orleans Pelicans;;;2;391.860;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368828;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;391.860;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368829;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;391.860;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368830;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;409.110;20.81;7.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368831;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;409.110;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368832;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;2;415.542;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368833;800201;2+;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;1;LeBron James;2;415.542;24.05;3.63;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:41:02.375013
+76368834;400101;Accurate pass;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;2;429.593;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368835;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7070;Norris Cole;2;429.593;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76368836;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7070;Norris Cole;2;429.593;22.43;9.42;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:41:02.375013
+76368837;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;453.176;27.08;14.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368838;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;453.176;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368839;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;461.150;26.72;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368841;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;2;461.150;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368842;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;478.604;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368843;200300;Pick'n'Roll;1889;Kevin Love;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;486.604;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76368844;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;486.604;21.26;9.84;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 03:41:02.375013
+76368846;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;2;486.604;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368847;300100;Foul;6753;Ryan Anderson;3279;New Orleans Pelicans;2;Timofey Mozgov;1;Cleveland Cavaliers;;;2;486.604;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368848;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;535.274;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368849;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;535.274;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368850;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;535.274;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368851;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;535.274;24.05;8.04;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76368852;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;535.274;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368853;400101;Accurate pass;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;2;545.328;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368854;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;2;545.328;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 03:41:02.375013
+76368855;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;573.956;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368856;800301;3+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;2;573.956;20.03;10.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76368857;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;585.044;22.67;8.82;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76368859;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;2;600.053;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368860;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;91848;Maurice Williams;1;Cleveland Cavaliers;;;2;629.756;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368861;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;629.756;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368862;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;629.756;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368863;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;629.756;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368864;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;629.756;26.57;3.48;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76368865;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;629.756;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368866;400101;Accurate pass;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;2;651.630;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:41:02.375013
+76368867;800201;2+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8395;Omer Faruk Asik;2;651.630;23.12;3.51;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:41:02.375013
+76368868;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;2;669.094;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368869;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;669.094;26.57;7.17;;;;;;;;Cut;;;;;;2017-12-07 03:41:02.375013
+76368870;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;689.334;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368871;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;689.334;26.51;3.93;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76368872;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;2;689.334;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368873;400101;Accurate pass;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;7070;Norris Cole;2;693.815;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368874;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;2;693.815;26.72;7.20;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:41:02.375013
+76368875;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;2;718.381;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368876;800301;3+;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;718.381;19.49;11.34;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:41:02.375013
+76368878;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;727.814;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368879;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;2;727.814;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368880;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;776.296;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368881;1600500;Guard;1923;Anderson Varejao;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;2;776.296;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368882;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;776.296;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368883;200300;Pick'n'Roll;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;7070;Norris Cole;2;776.296;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368884;800202;2-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;7070;Norris Cole;2;776.296;26.99;7.50;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 03:41:02.375013
+76368885;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;776.296;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368886;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;786.152;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368887;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;786.152;24.95;9.75;;;;;;;;Post;;Hook;;;;2017-12-07 03:41:02.375013
+76368888;200600;Post;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;811.140;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368889;800700;3F;6753;Ryan Anderson;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;2;811.140;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:41:02.375013
+76368891;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;811.140;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368892;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;2;840.552;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368893;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;2;862.417;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368894;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;2;884.730;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368895;800102;1-;6753;Ryan Anderson;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;2;884.730;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368896;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;884.730;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368897;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;884.730;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368898;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;2;904.255;20.36;3.81;;;;;;;;Isolation;;Jumper;;Quick first step;;2018-04-20 13:44:36.355048
+76368899;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;904.255;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368900;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;2;908.723;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368901;800201;2+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;908.723;27.08;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:41:02.375013
+76368902;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;2;925.347;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368903;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;925.347;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 03:41:02.375013
+76368904;200600;Post;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;950.475;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368905;800600;2F;6753;Ryan Anderson;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;2;950.475;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:41:02.375013
+76368907;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;950.475;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368908;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;2;950.475;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368909;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;996.643;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368910;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;2;996.643;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368911;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1012.425;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368912;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1015.459;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368913;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1035.459;19.19;11.52;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 03:41:02.375013
+76368914;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;2;1035.459;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368915;200600;Post;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1049.909;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368916;800600;2F;9049;Tyreke Evans;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1049.909;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:41:02.375013
+76368918;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;1049.909;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368919;800102;1-;9049;Tyreke Evans;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1076.748;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368920;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;1076.748;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368921;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1096.095;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368922;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1096.095;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368923;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1099.670;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368924;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1119.670;24.02;8.43;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76368925;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1119.670;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368926;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1125.931;26.72;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:41:02.375013
+76368927;400101;Accurate pass;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;1146.983;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368928;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;1146.983;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368929;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;2;1146.983;24.50;3.39;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76368930;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;2;1154.043;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368931;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;1154.043;20.21;3.66;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:41:02.375013
+76368932;800202;2-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1169.985;26.72;7.11;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 03:41:02.375013
+76368933;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1169.985;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368934;400101;Accurate pass;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;2;1175.899;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368935;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;2;1175.899;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 03:41:02.375013
+76368936;800600;2F;1923;Anderson Varejao;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;1192.851;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368938;300100;Foul;8394;Anthony Davis;3279;New Orleans Pelicans;1923;Anderson Varejao;1;Cleveland Cavaliers;;;2;1192.851;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368939;800101;1+;1923;Anderson Varejao;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;1231.760;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368940;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;2;1251.951;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368941;800101;1+;1923;Anderson Varejao;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;1251.951;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368942;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1253.472;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368943;100400;Steal;1895;Richard Jefferson;1;Cleveland Cavaliers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;2;1263.872;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368945;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;2;1271.401;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368946;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;1303.562;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368947;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;1923;Anderson Varejao;1;Cleveland Cavaliers;;;2;1303.562;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368948;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1303.562;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368949;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;1303.562;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368950;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;1303.562;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368951;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1303.562;25.82;7.35;;;;;;;;Post;;Hook;;;;2017-12-07 03:41:02.375013
+76368952;800302;3-;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;2;1312.423;15.35;12.75;;;;;;;;;;Jumper;;;;2017-12-07 03:41:02.375013
+76368953;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;1312.423;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368956;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368957;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368958;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368959;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368960;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368961;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368962;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368963;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368964;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368965;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368966;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;3.543;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368968;300100;Foul;9128;Alonzo Gee;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;3;20.543;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368969;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;40.622;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368970;800201;2+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;46.622;22.73;5.49;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 03:41:02.375013
+76368971;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;3;59.799;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368972;800301;3+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;59.799;26.57;14.85;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:41:02.375013
+76368973;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;3;76.537;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368974;200300;Pick'n'Roll;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;76.537;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368975;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;76.537;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 03:41:02.375013
+76368976;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;97.051;25.07;7.98;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 03:41:02.375013
+76368977;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;97.051;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76368979;300100;Foul;9128;Alonzo Gee;3279;New Orleans Pelicans;1889;Kevin Love;1;Cleveland Cavaliers;;;3;105.905;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368980;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;148.923;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368981;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;148.923;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368982;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;148.923;20.03;10.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-04-20 13:44:36.355048
+76368983;800202;2-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;175.485;26.21;8.37;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:41:02.375013
+76368984;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;175.485;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368985;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;183.908;20.66;2.97;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:41:02.375013
+76368986;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;183.908;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368987;800600;2F;8394;Anthony Davis;3279;New Orleans Pelicans;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;189.770;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:41:02.375013
+76368989;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;3;189.770;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368990;800102;1-;8394;Anthony Davis;3279;New Orleans Pelicans;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;222.213;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368991;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;3;222.213;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368992;800101;1+;8394;Anthony Davis;3279;New Orleans Pelicans;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;234.752;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368993;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;239.337;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76368994;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;252.337;26.72;14.76;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-04-20 13:44:36.355048
+76368995;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;252.337;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368996;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;260.776;24.65;8.01;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76368997;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;260.776;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76368999;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;2;Timofey Mozgov;1;Cleveland Cavaliers;;;3;268.290;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369000;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;284.471;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369001;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;298.471;26.81;7.62;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 03:41:02.375013
+76369002;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;298.471;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369003;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;298.471;26.96;7.59;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:41:02.375013
+76369004;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;310.701;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369005;200300;Pick'n'Roll;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;310.701;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369006;800201;2+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;310.701;21.83;4.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369007;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;324.337;27.05;8.28;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:41:02.375013
+76369008;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;324.337;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369009;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;332.341;20.21;3.63;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:41:02.375013
+76369010;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;332.341;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369011;800600;2F;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;3;346.455;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:41:02.375013
+76369013;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;346.455;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369014;800102;1-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;3;380.052;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369015;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;3;380.052;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369016;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;3;397.484;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369017;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;400.451;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369018;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;416.451;21.35;2.88;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+76369019;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;416.451;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369020;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;423.011;26.99;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:41:02.375013
+76369021;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;443.050;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:41:02.375013
+76369023;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1889;Kevin Love;1;Cleveland Cavaliers;;;3;443.050;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369024;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;479.685;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369025;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;501.368;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369026;800102;1-;1889;Kevin Love;1;Cleveland Cavaliers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;501.368;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369027;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;501.368;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369028;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;501.368;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369029;800201;2+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;522.266;24.95;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369030;200300;Pick'n'Roll;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;539.850;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76369031;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;539.850;26.84;6.96;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 03:41:02.375013
+76369032;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;539.850;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369033;100400;Steal;1889;Kevin Love;1;Cleveland Cavaliers;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;545.213;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369034;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;3;563.819;25.67;2.55;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:41:02.375013
+76369035;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;563.819;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369036;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;570.600;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369037;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;570.600;21.83;13.14;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:41:02.375013
+76369039;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;3;570.600;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369040;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;3;598.727;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369041;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;598.727;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369042;800600;2F;1;LeBron James;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;598.727;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369044;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;3;598.727;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369045;800102;1-;1;LeBron James;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;620.322;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369046;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;620.322;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369047;800101;1+;1;LeBron James;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;632.574;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369048;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;634.442;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369049;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;658.442;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369050;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;658.442;25.22;12.99;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76369051;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;686.494;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369052;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;686.494;26.42;13.65;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76369053;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;686.494;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369054;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;693.868;26.51;7.68;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:41:02.375013
+76369055;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;693.868;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369056;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;701.008;27.20;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:41:02.375013
+76369057;800600;2F;1;LeBron James;1;Cleveland Cavaliers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;707.153;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:41:02.375013
+76369059;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;3;707.153;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369060;800101;1+;1;LeBron James;1;Cleveland Cavaliers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;743.880;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369061;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;766.141;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369062;800101;1+;1;LeBron James;1;Cleveland Cavaliers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;766.141;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369063;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;770.193;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369065;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;3;781.193;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369066;100500;Turnover;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;781.193;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369067;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;3;818.148;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369068;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;818.148;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369069;100400;Steal;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;3;818.148;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369070;800600;2F;8399;Jrue Holiday;3279;New Orleans Pelicans;91848;Maurice Williams;1;Cleveland Cavaliers;;;3;827.777;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:41:02.375013
+76369072;300100;Foul;91848;Maurice Williams;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;827.777;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369073;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;91848;Maurice Williams;1;Cleveland Cavaliers;;;3;850.272;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369074;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;873.142;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369075;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;3;873.142;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369076;800102;1-;8399;Jrue Holiday;3279;New Orleans Pelicans;91848;Maurice Williams;1;Cleveland Cavaliers;;;3;873.142;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369077;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;873.142;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369078;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;873.142;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369079;800202;2-;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;3;891.814;22.37;5.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369080;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;891.814;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369081;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;3;900.534;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369082;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;900.534;24.35;6.51;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:41:02.375013
+76369083;100400;Steal;8399;Jrue Holiday;3279;New Orleans Pelicans;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;913.355;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369084;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;928.682;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369085;200300;Pick'n'Roll;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;928.682;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76369086;800301;3+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;928.682;20.33;11.28;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:41:02.375013
+76369087;100400;Steal;8393;Dante Cunningham;3279;New Orleans Pelicans;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;943.532;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369089;300100;Foul;91848;Maurice Williams;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;3;947.762;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369090;1600500;Guard;8333;Luke Babbitt;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;995.033;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369091;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;3;995.033;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369092;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;995.033;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369093;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;995.033;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76369094;800302;3-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;995.033;19.94;4.59;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:41:02.375013
+76369095;100300;Rebound;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;3;995.033;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369096;800600;2F;7;James Jones;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;1000.731;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369098;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;7;James Jones;1;Cleveland Cavaliers;;;3;1000.731;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369099;800101;1+;7;James Jones;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;1028.920;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369100;800101;1+;7;James Jones;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;1039.114;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369101;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1041.181;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369102;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;1051.181;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369103;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;1051.181;21.26;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76369104;800201;2+;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;3;1072.428;24.14;5.70;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369105;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;1085.117;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369106;200300;Pick'n'Roll;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;1085.117;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76369107;800301;3+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;1085.117;22.67;1.32;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76369108;400101;Accurate pass;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;7;James Jones;3;1103.009;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369109;800301;3+;7;James Jones;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;3;1103.009;21.83;13.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:41:02.375013
+76369111;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;3;1122.320;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369112;100500;Turnover;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;1122.320;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369113;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1130.609;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369114;800201;2+;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;3;1140.609;21.23;8.43;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369115;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;1168.022;25.64;9.84;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76369116;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;1168.022;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369117;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;1168.022;26.84;8.49;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:41:02.375013
+76369118;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1168.022;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369119;100400;Steal;1895;Richard Jefferson;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;1168.022;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369121;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;1181.343;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369122;100500;Turnover;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1181.343;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369123;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;1210.157;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369124;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1210.157;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369125;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;1210.157;26.51;8.34;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:41:02.375013
+76369126;800202;2-;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;3;1255.274;26.12;12.75;;;;;;;;Screen off;;Hook;;;;2017-12-07 03:41:02.375013
+76369127;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1255.274;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369128;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1255.274;26.51;7.95;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:41:02.375013
+76369129;800302;3-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1275.935;20.51;11.34;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369130;100300;Rebound;7;James Jones;1;Cleveland Cavaliers;;;;;;;3;1275.935;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369133;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369134;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369135;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369136;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369137;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369138;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369139;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369140;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369141;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369142;1600500;Guard;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369143;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;4.914;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369144;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;21.914;25.88;4.89;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:41:02.375013
+76369145;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;21.914;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369146;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;4;44.225;25.64;8.91;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:41:02.375013
+76369148;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;4;44.225;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369149;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;55.484;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369150;200300;Pick'n'Roll;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;4;65.484;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369151;800600;2F;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1895;Richard Jefferson;1;Cleveland Cavaliers;;;4;65.484;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:41:02.375013
+76369153;300100;Foul;1895;Richard Jefferson;1;Cleveland Cavaliers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;65.484;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369154;800102;1-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1895;Richard Jefferson;1;Cleveland Cavaliers;;;4;97.127;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369155;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;4;97.127;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369156;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1895;Richard Jefferson;1;Cleveland Cavaliers;;;4;118.020;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369157;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;120.203;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369158;400101;Accurate pass;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;4;142.203;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369159;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;4;142.203;26.66;8.37;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:41:02.375013
+76369160;400101;Accurate pass;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8395;Omer Faruk Asik;4;159.773;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369161;200300;Pick'n'Roll;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;159.773;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369162;800201;2+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;159.773;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 03:41:02.375013
+76369163;100400;Steal;8399;Jrue Holiday;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;4;173.943;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369165;100500;Turnover;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;182.469;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369166;300100;Foul;6753;Ryan Anderson;3279;New Orleans Pelicans;7;James Jones;1;Cleveland Cavaliers;;;4;182.469;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369167;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;197.886;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369168;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;208.886;21.26;13.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369169;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;4;208.886;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369171;300100;Foul;1895;Richard Jefferson;1;Cleveland Cavaliers;7070;Norris Cole;3279;New Orleans Pelicans;;;4;219.028;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369172;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;233.496;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369173;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;248.496;20.36;7.89;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:41:02.375013
+76369174;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;248.496;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369175;800302;3-;7;James Jones;1;Cleveland Cavaliers;;;;;;;4;256.271;23.18;14.22;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:41:02.375013
+76369176;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;256.271;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369177;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;264.335;25.52;9.81;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76369178;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;264.335;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369180;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;4;274.331;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369181;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;91848;Maurice Williams;1;Cleveland Cavaliers;;;4;317.041;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369182;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;317.041;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369183;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;317.041;26.72;7.98;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:41:02.375013
+76369184;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;331.883;25.19;5.88;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:41:02.375013
+76369185;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;4;331.883;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369188;800600;2F;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1895;Richard Jefferson;1;Cleveland Cavaliers;;;4;331.883;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 03:41:02.375013
+76369189;300100;Foul;1895;Richard Jefferson;1;Cleveland Cavaliers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;331.883;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369190;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;4;370.560;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76369191;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;370.560;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369192;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;370.560;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369193;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1895;Richard Jefferson;1;Cleveland Cavaliers;;;4;370.560;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369194;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1895;Richard Jefferson;1;Cleveland Cavaliers;;;4;391.663;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369195;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;395.574;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369196;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;410.574;19.58;6.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369197;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;410.574;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369198;200600;Post;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;429.703;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369199;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;429.703;25.73;7.80;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76369200;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;429.703;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369201;800302;3-;7;James Jones;1;Cleveland Cavaliers;;;;;1;LeBron James;4;439.881;26.42;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76369202;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;439.881;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369203;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;455.713;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76369204;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;455.713;21.71;10.26;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:41:02.375013
+76369205;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;4;455.713;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369206;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;474.289;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369207;800301;3+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;474.289;20.66;2.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76369208;100400;Steal;8394;Anthony Davis;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;4;495.439;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369210;300100;Foul;7;James Jones;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;498.766;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369211;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;545.777;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369212;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;7;James Jones;1;Cleveland Cavaliers;;;4;545.777;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369213;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;545.777;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369214;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;4;545.777;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369215;800201;2+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;545.777;22.82;3.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76369216;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;566.162;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369217;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;566.162;26.84;7.35;;;;;;;;Post;;Lay up;;;;2017-12-07 03:41:02.375013
+76369218;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;566.162;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369219;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;571.373;26.72;8.34;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:41:02.375013
+76369220;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;599.606;19.79;10.44;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:41:02.375013
+76369221;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;599.606;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369222;800600;2F;1;LeBron James;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;615.025;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:41:02.375013
+76369224;300100;Foul;8394;Anthony Davis;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;4;615.025;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369225;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;615.025;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369226;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;4;641.453;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369227;800101;1+;1;LeBron James;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;641.453;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369228;800101;1+;1;LeBron James;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;655.152;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369229;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;655.803;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369230;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;672.803;26.72;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:41:02.375013
+76369232;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;4;689.757;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369233;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;707.095;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369234;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;723.095;26.99;7.65;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:41:02.375013
+76369235;200300;Pick'n'Roll;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;739.178;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76369236;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;739.178;26.84;14.67;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:41:02.375013
+76369237;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;739.178;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369238;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;754.240;26.99;7.20;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 03:41:02.375013
+76369239;100400;Steal;3;Tristan Thompson;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;773.616;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369240;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;4;783.501;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369241;800301;3+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;4;783.501;22.37;13.23;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:41:02.375013
+76369243;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;783.501;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369244;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;805.974;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369245;800600;2F;9049;Tyreke Evans;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;4;816.974;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 03:41:02.375013
+76369247;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;816.974;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76369248;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;4;842.066;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369249;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;865.029;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369250;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;4;865.029;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369251;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;870.432;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369252;200600;Post;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;885.432;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369253;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;885.432;26.75;9.33;;;;;;;;Post;;Hook;;;;2017-12-07 03:41:02.375013
+76369254;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;885.432;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369255;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;902.215;19.43;7.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369257;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;4;902.215;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369258;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;939.804;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369259;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;939.804;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369260;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;939.804;20.33;3.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76369261;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;939.804;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369262;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;945.416;26.72;8.73;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:41:02.375013
+76369263;800302;3-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;964.972;26.57;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76369264;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;964.972;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369265;100400;Steal;1;LeBron James;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;964.972;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369266;800400;2+1;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;971.280;26.66;8.10;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:41:02.375013
+76369268;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;4;971.280;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369269;800101;1+;1;LeBron James;1;Cleveland Cavaliers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;4;1008.667;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369270;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1011.579;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369272;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;4;1024.579;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369273;100500;Turnover;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;1024.579;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369274;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;1063.555;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369275;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1063.555;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369276;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1063.555;25.34;7.20;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:41:02.375013
+76369277;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1063.555;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369279;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;1063.555;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369280;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1063.555;26.51;7.02;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:41:02.375013
+76369281;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;1096.926;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369282;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1096.926;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369283;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;4;1096.926;20.66;3.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76369284;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;1096.926;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369285;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1118.931;22.67;5.16;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:41:02.375013
+76369286;100400;Steal;5;Matthew William Dellavedova;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;1132.071;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369287;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1154.227;26.84;7.32;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:41:02.375013
+76369289;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;1154.227;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369290;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;1182.150;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369291;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;4;1182.150;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369292;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;4;1182.150;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369293;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1182.150;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369294;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;1182.150;26.84;7.83;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:41:02.375013
+76369295;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;1182.150;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369296;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;1182.150;26.72;7.26;;;;;;;;Putbacks;;;;;;2017-12-07 03:41:02.375013
+76369297;100400;Steal;8394;Anthony Davis;3279;New Orleans Pelicans;8;J.R. Smith;1;Cleveland Cavaliers;;;4;1212.651;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369298;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;1214.467;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 03:41:02.375013
+76369300;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;4;1214.467;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369301;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;1258.998;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369302;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;1258.998;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369303;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;1258.998;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369304;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1258.998;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369305;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1258.998;26.72;8.28;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:41:02.375013
+76369306;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1276.164;25.91;6.09;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 03:41:02.375013
+76369307;100300;Rebound;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;4;1276.164;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369308;800600;2F;1;LeBron James;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1281.733;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369310;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;4;1281.733;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369311;800101;1+;1;LeBron James;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1334.339;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369312;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;4;1356.943;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369313;800101;1+;1;LeBron James;1;Cleveland Cavaliers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1356.943;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369314;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;4;1356.943;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369315;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;1356.943;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369316;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;1388.392;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369317;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1388.392;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369318;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;4;1388.392;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369319;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1388.392;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369320;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;1388.392;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369321;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;1388.392;20.66;2.55;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76369323;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;4;1388.392;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369324;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;1423.315;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369325;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;1423.315;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369326;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;1423.315;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369327;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1423.315;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369328;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1423.315;22.97;11.58;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76369329;100300;Rebound;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;4;1423.315;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369332;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369333;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369334;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369335;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369336;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369337;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369338;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369339;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369340;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369341;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76369342;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;5.011;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369343;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;5;19.011;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369344;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;5;19.011;23.60;10.29;;;;;;;;Screen off;;Floater;;;;2017-12-07 03:41:02.375013
+76369345;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;5;44.508;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369346;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;5;44.508;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:41:02.375013
+76369348;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;3;Tristan Thompson;1;Cleveland Cavaliers;;;5;44.508;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369349;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;5;68.688;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369350;800102;1-;3;Tristan Thompson;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;5;84.238;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369351;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;5;84.238;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369352;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;86.000;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369353;200300;Pick'n'Roll;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;5;108.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369354;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;5;108.000;26.42;0.57;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 03:41:02.375013
+76369355;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;5;108.000;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369356;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;5;121.823;21.26;2.34;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:41:02.375013
+76369357;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;5;121.823;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369358;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;5;132.057;27.05;7.05;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:41:02.375013
+76369359;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;5;148.954;26.72;4.86;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:41:02.375013
+76369360;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;5;148.954;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369361;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;5;164.304;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369362;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;5;164.304;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369363;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;5;164.304;26.72;4.05;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76369365;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;5;164.304;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369366;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;5;182.266;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369367;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;5;201.266;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369368;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;5;201.266;26.93;10.35;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76369370;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;8394;Anthony Davis;3279;New Orleans Pelicans;;;5;220.575;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+76369371;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;242.538;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369372;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;5;251.538;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369373;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;5;251.538;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:41:02.375013
+76369374;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;5;251.538;22.97;9.84;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76369375;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;5;271.197;24.74;12.96;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:41:02.375013
+76369376;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;5;271.197;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369377;800302;3-;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;5;291.231;26.81;14.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:41:02.375013
+76369378;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;5;291.231;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369379;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;5;311.969;21.44;13.11;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:41:02.375013
+76369380;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;5;311.969;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369382;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;5;318.543;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369383;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;349.265;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369384;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;5;367.365;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369385;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;5;367.365;26.84;4.26;;;;;;;;Post;;Jumper;;;;2017-12-07 03:41:02.375013
+76369386;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;5;367.365;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369387;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;5;378.338;18.80;7.86;;;;;;;;Transition;;Jumper;;;;2018-04-20 13:44:36.355048
+76369388;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;5;378.338;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369389;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;5;404.133;24.80;6.87;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:41:02.375013
+76369391;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;5;404.133;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369392;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;5;404.133;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369394;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;5;404.133;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369395;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;5;431.916;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369396;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;5;431.916;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369397;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;5;431.916;20.33;3.57;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+76369398;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;5;431.916;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369400;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;5;437.201;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369401;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;5;487.985;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369402;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;5;487.985;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369403;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;487.985;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+76369404;800600;2F;7719;Eric Gordon;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;5;487.985;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369406;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;7719;Eric Gordon;3279;New Orleans Pelicans;;;5;487.985;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369407;800102;1-;7719;Eric Gordon;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;5;512.886;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369408;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;5;512.886;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369409;800101;1+;7719;Eric Gordon;3279;New Orleans Pelicans;1;LeBron James;1;Cleveland Cavaliers;;;5;525.836;;;;;;;;;;;;;;;;2017-12-07 03:41:02.375013
+76369410;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;5;525.836;;;;;;;;;;;;;;;;2019-10-24 12:10:02.090111
+103693230;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;52.886;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693232;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;115.544;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103693234;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;143.100;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103693236;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;158.361;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693238;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;172.482;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103693240;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;219.788;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693242;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;242.545;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693244;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;334.475;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693246;200900;Assisting;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;354.969;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693248;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;377.542;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693250;200900;Assisting;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;474.806;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693252;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;1;577.228;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693254;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;709.494;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693256;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;777.297;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693258;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;794.311;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103693260;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;810.206;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693262;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;962.405;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693264;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;1;1013.444;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103693266;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;1024.172;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693268;200900;Assisting;7;James Jones;1;Cleveland Cavaliers;;;;;;;1;1085.273;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693270;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;1235.645;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693272;200900;Assisting;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;1;1295.584;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693274;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;102.962;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693276;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;139.217;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693278;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;199.755;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693280;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;2;225.224;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693282;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;298.555;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693284;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;352.345;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693286;200900;Assisting;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;1;LeBron James;2;415.542;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693288;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7070;Norris Cole;2;429.593;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693290;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;2;545.328;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693292;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;2;573.956;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693294;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;585.044;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693296;200900;Assisting;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8395;Omer Faruk Asik;2;651.630;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693298;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;669.094;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693300;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;2;693.815;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693302;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;718.381;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693304;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;786.152;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693306;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;811.140;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693308;200900;Assisting;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;908.723;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693310;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;925.347;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693312;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;950.475;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693314;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1049.909;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693316;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1125.931;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693318;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;2;1146.983;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693320;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;1154.043;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693322;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;2;1175.899;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693324;200900;Assisting;1923;Anderson Varejao;1;Cleveland Cavaliers;;;;;;;2;1192.851;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693326;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1303.562;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693328;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;46.622;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693330;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;59.799;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693332;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;76.537;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693334;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;148.923;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103693336;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;189.770;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693338;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;298.471;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693340;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;310.701;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693342;200900;Assisting;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;346.455;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693344;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;423.011;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693346;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;443.050;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693348;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;522.266;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693350;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;570.600;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693352;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;598.727;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693354;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;658.442;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693356;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;701.008;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693358;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;707.153;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693360;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;827.777;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693362;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;900.534;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693364;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;928.682;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693366;200900;Assisting;7;James Jones;1;Cleveland Cavaliers;;;;;;;3;1000.731;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693368;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;1051.181;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693370;200900;Assisting;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;3;1072.428;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693372;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;1085.117;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693374;200900;Assisting;7;James Jones;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;3;1103.009;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693376;200900;Assisting;91848;Maurice Williams;1;Cleveland Cavaliers;;;;;;;3;1140.609;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693378;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;1210.157;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693380;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1255.274;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693382;200900;Assisting;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;4;65.484;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693384;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;91848;Maurice Williams;4;142.203;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693386;200900;Assisting;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;159.773;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693388;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;317.041;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693390;200900;Assisting;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;4;331.883;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693392;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;474.289;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693394;200900;Assisting;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;545.777;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693396;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;571.373;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693398;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;615.025;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693400;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;672.803;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693402;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;723.095;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693404;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;754.240;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693406;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;4;783.501;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693408;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;816.974;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693410;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;945.416;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693412;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;971.280;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693414;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1118.931;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693416;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1154.227;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693418;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;1182.150;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693420;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;1214.467;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693422;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1258.998;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693424;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1281.733;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693426;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;1388.392;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693428;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;5;19.011;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693430;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;5;44.508;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693432;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;5;132.057;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693434;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;5;164.304;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693436;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;5;201.266;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693438;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;5;251.538;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796
+103693440;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;5;487.985;;;;;;;;;;;;;;;;2018-04-19 11:35:02.387796

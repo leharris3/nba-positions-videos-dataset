@@ -1,0 +1,809 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76981611;1601000;Starting lineup;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981612;1601000;Starting lineup;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981613;1601000;Starting lineup;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981614;1601000;Starting lineup;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981615;1601000;Starting lineup;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981616;1601000;Starting lineup;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981617;1601000;Starting lineup;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981618;1601000;Starting lineup;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981619;1601000;Starting lineup;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981620;1601000;Starting lineup;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981621;1601000;Starting lineup;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981622;1601000;Starting lineup;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981623;1601000;Starting lineup;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981624;1601000;Starting lineup;1124;Justin Holiday;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981625;1601000;Starting lineup;370717;Lamar Patterson;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981626;1601000;Starting lineup;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981627;1601000;Starting lineup;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981628;1601000;Starting lineup;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981629;1601000;Starting lineup;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981630;1601000;Starting lineup;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981631;1601000;Starting lineup;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981632;1601000;Starting lineup;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981633;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981634;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981635;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981636;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981637;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981638;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981639;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981640;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981641;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981642;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981643;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981644;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;70.064;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981645;100400;Steal;1146;Thabo Sefolosha;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;86.064;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981646;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1147;Kyle Korver;1;93.456;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981647;800301;3+;1147;Kyle Korver;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;93.456;26.99;0.66;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76981648;800302;3-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;118.523;26.96;14.31;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981649;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;118.523;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981650;800600;2F;1146;Thabo Sefolosha;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;144.265;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:58:01.461182
+76981651;100200;Game stop;;;;;;;;;;;1;144.265;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981652;300100;Foul;7464;Kevin Durant;2935;Oklahoma City Thunder;1146;Thabo Sefolosha;79;Atlanta Hawks;;;1;144.265;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981653;800101;1+;1146;Thabo Sefolosha;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;169.040;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981654;800102;1-;1146;Thabo Sefolosha;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;184.859;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981655;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;184.859;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981656;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;184.859;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981657;100400;Steal;1146;Thabo Sefolosha;79;Atlanta Hawks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;199.910;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981658;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;1146;Thabo Sefolosha;79;Atlanta Hawks;;;1;202.111;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981659;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;1;221.496;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981660;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;221.496;26.84;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:58:01.461182
+76981661;800201;2+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;236.631;27.05;7.56;;;;;;;;Screen off;;Lay up;;;;2017-12-07 10:58:01.461182
+76981662;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;1;252.998;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981663;200300;Pick'n'Roll;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;252.998;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981664;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;252.998;26.12;6.33;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 10:58:01.461182
+76981665;400101;Accurate pass;1147;Kyle Korver;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;1;268.106;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981666;800201;2+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;268.106;26.72;11.43;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:58:01.461182
+76981667;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;1;280.836;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981668;200300;Pick'n'Roll;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;280.836;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981669;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;280.836;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 10:58:01.461182
+76981670;200600;Post;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;301.403;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981671;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;301.403;26.81;11.28;;;;;;;;Post;;Jumper;;;;2017-12-07 10:58:01.461182
+76981672;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;301.403;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981673;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;311.618;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981674;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;311.618;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76981675;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;311.618;22.67;5.88;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:58:01.461182
+76981676;800302;3-;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;334.997;26.21;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981677;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;334.997;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981678;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;346.719;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981679;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;346.719;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981680;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;346.719;23.60;6.72;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 10:58:01.461182
+76981681;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;1;363.521;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981682;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;372.069;26.84;0.87;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76981683;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;372.503;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981684;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;379.270;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981685;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;379.270;21.35;6.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981686;100200;Game stop;;;;;;;;;;;1;379.270;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981687;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;1;379.270;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981688;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;419.714;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981689;100200;Game stop;;;;;;;;;;;1;436.714;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981690;100500;Turnover;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;436.714;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981691;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;441.511;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981692;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;457.511;26.27;10.65;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:58:01.461182
+76981693;800302;3-;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;484.236;26.36;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981694;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;484.236;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981695;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;504.963;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981696;800301;3+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;504.963;21.71;12.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981697;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;530.305;23.87;3.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981698;100200;Game stop;;;;;;;;;;;1;530.305;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981699;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;1;530.305;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981700;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;1;530.305;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981701;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;530.305;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981702;100500;Turnover;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;530.305;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981703;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;560.856;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981704;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;574.856;22.73;3.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981705;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;592.126;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981706;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;592.126;26.12;6.36;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 10:58:01.461182
+76981707;100300;Rebound;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;592.126;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981708;800600;2F;1140;Paul Millsap;79;Atlanta Hawks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;601.849;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:58:01.461182
+76981709;100200;Game stop;;;;;;;;;;;1;601.849;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981710;300100;Foul;1850;Russell Westbrook;2935;Oklahoma City Thunder;1140;Paul Millsap;79;Atlanta Hawks;;;1;601.849;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981711;800102;1-;1140;Paul Millsap;79;Atlanta Hawks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;627.157;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981712;100300;Rebound;;;79;Atlanta Hawks;;;;;;;1;627.157;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981713;800102;1-;1140;Paul Millsap;79;Atlanta Hawks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;644.272;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981714;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;644.272;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981715;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;644.272;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981716;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;1;659.953;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981717;800301;3+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;659.953;26.06;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981718;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1145;Kent Bazemore;1;685.309;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981719;800301;3+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;685.309;19.79;8.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981720;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;1139;Jeff Teague;79;Atlanta Hawks;;;1;699.993;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:58:01.461182
+76981721;100200;Game stop;;;;;;;;;;;1;699.993;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981722;300100;Foul;1139;Jeff Teague;79;Atlanta Hawks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;699.993;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981723;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;1139;Jeff Teague;79;Atlanta Hawks;;;1;722.464;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981724;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;1;722.464;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981725;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1139;Jeff Teague;79;Atlanta Hawks;;;1;722.464;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981726;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;722.464;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981727;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;1139;Jeff Teague;79;Atlanta Hawks;;;1;739.654;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981728;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;744.437;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981729;100200;Game stop;;;;;;;;;;;1;756.437;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981730;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;1145;Kent Bazemore;79;Atlanta Hawks;;;1;756.437;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981731;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;768.126;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981732;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1148;Mike Muscala;1;783.126;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981733;200600;Post;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;1;783.126;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981734;800201;2+;1148;Mike Muscala;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;783.126;25.76;6.51;;;;;;;;Post;;Hook;;;;2017-12-07 10:58:01.461182
+76981735;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;796.262;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981736;800600;2F;9112;Serge Ibaka;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;1;796.262;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 10:58:01.461182
+76981737;100200;Game stop;;;;;;;;;;;1;796.262;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981738;300100;Foul;1148;Mike Muscala;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;796.262;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981739;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;1;823.793;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981740;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;1;843.497;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981741;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;846.979;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981742;800302;3-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;861.979;19.88;8.52;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76981743;100300;Rebound;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;1;862.387;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981744;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;1;862.387;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981745;800301;3+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;870.583;19.79;9.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981746;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1148;Mike Muscala;1;885.011;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981747;800201;2+;1148;Mike Muscala;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;885.011;26.51;8.73;;;;;;;;Cut;;Hook;;;;2017-12-07 10:58:01.461182
+76981748;100200;Game stop;;;;;;;;;;;1;897.977;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981749;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;897.977;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981750;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;1;897.977;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981751;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;897.977;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981752;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;897.977;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981753;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;1;939.471;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981754;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;1140;Paul Millsap;79;Atlanta Hawks;;;1;939.471;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981755;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;939.471;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981756;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;1;939.471;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981757;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;939.471;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981758;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;939.471;27.20;7.02;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:58:01.461182
+76981759;800202;2-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;952.614;21.98;9.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981760;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;1;952.614;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981761;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;1144;Dennis Schroder;79;Atlanta Hawks;;;1;960.542;26.96;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:58:01.461182
+76981762;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;962.356;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981763;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;962.356;26.84;6.96;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:58:01.461182
+76981764;400101;Accurate pass;1148;Mike Muscala;79;Atlanta Hawks;;;;;1145;Kent Bazemore;1;979.279;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981765;800301;3+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;979.279;27.20;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981766;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;1004.508;25.22;4.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981767;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;1;1004.540;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981768;100400;Steal;1144;Dennis Schroder;79;Atlanta Hawks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;1;1042.030;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981769;100200;Game stop;;;;;;;;;;;1;1044.840;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981770;100500;Turnover;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;1044.840;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981771;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;1063.694;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981772;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;1073.694;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981773;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;1850;Russell Westbrook;1;1073.694;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 10:58:01.461182
+76981774;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;1073.694;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981775;400101;Accurate pass;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1147;Kyle Korver;1;1080.009;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981776;800301;3+;1147;Kyle Korver;79;Atlanta Hawks;;;;;1145;Kent Bazemore;1;1080.009;26.84;0.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76981777;800301;3+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;1093.036;19.94;6.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981778;800201;2+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;1111.659;27.08;7.05;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:58:01.461182
+76981779;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;1124.924;22.28;10.50;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981780;800600;2F;1144;Dennis Schroder;79;Atlanta Hawks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;1;1147.934;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:58:01.461182
+76981781;100200;Game stop;;;;;;;;;;;1;1147.934;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981782;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;1144;Dennis Schroder;79;Atlanta Hawks;;;1;1147.934;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981783;800101;1+;1144;Dennis Schroder;79;Atlanta Hawks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;1;1172.056;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981784;800102;1-;1144;Dennis Schroder;79;Atlanta Hawks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;1;1186.631;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981785;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;1186.631;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981786;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;1;1186.631;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981787;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;1215.549;22.67;10.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981788;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;1;1215.549;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981789;1800500;Halftime;;;;;;;;;;;1;1215.549;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981790;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981791;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981792;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981793;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981794;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981795;1600500;Guard;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981796;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981797;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981798;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981799;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981800;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981801;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;15.195;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981802;800302;3-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;2;26.195;19.94;9.12;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:58:01.461182
+76981803;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;26.195;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981804;800202;2-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;44.442;22.37;9.12;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:58:01.461182
+76981805;100300;Rebound;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;44.442;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981806;800202;2-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;57.884;26.84;7.83;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:58:01.461182
+76981807;100200;Game stop;;;;;;;;;;;2;57.884;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981808;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;57.884;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981809;300100;Foul;1144;Dennis Schroder;79;Atlanta Hawks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;57.884;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981810;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;70.407;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981811;100200;Game stop;;;;;;;;;;;2;80.407;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981812;300100;Foul;1140;Paul Millsap;79;Atlanta Hawks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;80.407;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981813;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;100.112;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981814;100400;Steal;1140;Paul Millsap;79;Atlanta Hawks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;102.112;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981815;800201;2+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;115.717;26.72;7.68;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:58:01.461182
+76981816;100200;Game stop;;;;;;;;;;;2;133.574;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981817;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;133.574;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981818;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;2;133.574;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981819;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;1140;Paul Millsap;79;Atlanta Hawks;;;2;133.574;26.99;7.02;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:58:01.461182
+76981820;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;152.981;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981821;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;155.981;24.35;14.43;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76981822;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;156.384;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981823;800600;2F;9111;D.J. Augustin;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;2;165.102;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:58:01.461182
+76981824;100200;Game stop;;;;;;;;;;;2;165.102;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981825;300100;Foul;1147;Kyle Korver;79;Atlanta Hawks;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;2;165.102;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981826;800101;1+;9111;D.J. Augustin;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;2;194.873;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981827;800101;1+;9111;D.J. Augustin;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;2;210.621;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981828;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;215.708;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981829;800202;2-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;228.708;27.23;7.17;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 10:58:01.461182
+76981830;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;228.708;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981831;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;234.887;26.99;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:58:01.461182
+76981832;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;1140;Paul Millsap;2;246.929;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981833;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;246.929;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981834;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1143;Al Horford;2;246.929;26.42;6.63;;;;;;;;Post;;Jumper;;;;2017-12-07 10:58:01.461182
+76981835;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;266.963;21.41;9.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981836;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;266.963;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981837;800600;2F;1140;Paul Millsap;79;Atlanta Hawks;1853;Nick Collison;2935;Oklahoma City Thunder;;;2;273.857;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:58:01.461182
+76981838;100200;Game stop;;;;;;;;;;;2;273.857;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981839;300100;Foul;1853;Nick Collison;2935;Oklahoma City Thunder;1140;Paul Millsap;79;Atlanta Hawks;;;2;273.857;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981840;800102;1-;1140;Paul Millsap;79;Atlanta Hawks;1853;Nick Collison;2935;Oklahoma City Thunder;;;2;303.703;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981841;100300;Rebound;;;79;Atlanta Hawks;;;;;;;2;303.703;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981842;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;303.703;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981843;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;2;303.703;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981844;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;303.703;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981845;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;1145;Kent Bazemore;79;Atlanta Hawks;;;2;303.703;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981846;800102;1-;1140;Paul Millsap;79;Atlanta Hawks;1853;Nick Collison;2935;Oklahoma City Thunder;;;2;328.053;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981847;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;328.053;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981848;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;2;328.053;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981849;100200;Game stop;;;;;;;;;;;2;344.206;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981850;100500;Turnover;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;2;344.206;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981851;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;351.587;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981852;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;371.587;26.96;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:58:01.461182
+76981853;800600;2F;9111;D.J. Augustin;2935;Oklahoma City Thunder;1144;Dennis Schroder;79;Atlanta Hawks;;;2;387.353;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:58:01.461182
+76981854;100200;Game stop;;;;;;;;;;;2;387.353;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981855;300100;Foul;1144;Dennis Schroder;79;Atlanta Hawks;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;2;387.353;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981856;1800600;Timeout;;;;;;;;;;;2;387.353;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981857;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;2;387.353;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981858;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;1144;Dennis Schroder;79;Atlanta Hawks;;;2;387.353;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981859;800101;1+;9111;D.J. Augustin;2935;Oklahoma City Thunder;1144;Dennis Schroder;79;Atlanta Hawks;;;2;427.477;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981860;800102;1-;9111;D.J. Augustin;2935;Oklahoma City Thunder;1144;Dennis Schroder;79;Atlanta Hawks;;;2;443.624;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981861;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;443.624;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981862;100300;Rebound;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;443.624;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981863;100200;Game stop;;;;;;;;;;;2;469.657;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981864;100500;Turnover;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;2;469.657;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981865;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;481.837;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981866;400101;Accurate pass;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;505.837;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981867;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;2;505.837;19.49;6.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981868;100200;Game stop;;;;;;;;;;;2;521.687;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981869;300300;Technical foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;521.687;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981870;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;541.023;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981871;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;2;541.023;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981872;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;556.818;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981873;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;564.818;27.08;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:58:01.461182
+76981874;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;2;589.757;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981875;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;589.757;23.27;7.20;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:58:01.461182
+76981876;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1148;Mike Muscala;2;600.335;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981877;200300;Pick'n'Roll;1148;Mike Muscala;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;600.335;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76981878;800201;2+;1148;Mike Muscala;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;600.335;24.59;11.07;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:58:01.461182
+76981879;100200;Game stop;;;;;;;;;;;2;600.335;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981880;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;2;600.335;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981881;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;2;600.335;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981882;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;2;600.335;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981883;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;624.052;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981884;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;647.052;25.52;9.12;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 10:58:01.461182
+76981885;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;651.623;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981886;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;651.623;26.57;8.13;;;;;;;;Putbacks;;;;;;2017-12-07 10:58:01.461182
+76981887;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;651.623;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981888;800302;3-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;677.459;20.36;4.47;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981889;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;677.459;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981890;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;682.862;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981891;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;682.862;27.23;6.90;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:58:01.461182
+76981892;800202;2-;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;2;706.223;26.57;12.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981893;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;706.223;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981894;100400;Steal;1146;Thabo Sefolosha;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;714.309;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981895;800302;3-;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;733.214;26.36;14.31;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981896;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;733.214;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981897;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;744.591;21.83;9.45;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981898;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;745.565;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981899;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;745.565;26.51;7.56;;;;;;;;Putbacks;;;;;;2017-12-07 10:58:01.461182
+76981900;100400;Steal;7464;Kevin Durant;2935;Oklahoma City Thunder;1144;Dennis Schroder;79;Atlanta Hawks;;;2;760.329;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981901;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;765.054;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981902;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;765.054;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 10:58:01.461182
+76981903;100200;Game stop;;;;;;;;;;;2;765.054;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981904;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;2;765.054;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981905;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;1140;Paul Millsap;79;Atlanta Hawks;;;2;765.054;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981906;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;1148;Mike Muscala;79;Atlanta Hawks;;;2;765.054;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981907;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;1144;Dennis Schroder;79;Atlanta Hawks;;;2;765.054;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981908;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;800.420;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981909;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;817.420;26.72;6.90;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 10:58:01.461182
+76981910;100200;Game stop;;;;;;;;;;;2;817.420;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981911;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;817.420;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981912;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;821.877;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981913;200600;Post;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;838.877;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981914;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;838.877;22.67;7.44;;;;;;;;Post;;Jumper;;;;2017-12-07 10:58:01.461182
+76981915;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;838.877;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981916;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;851.736;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981917;800302;3-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;2;851.736;19.88;7.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76981918;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;867.259;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981919;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;867.259;26.84;10.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76981920;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;884.107;21.50;4.65;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:58:01.461182
+76981921;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;884.107;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981922;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;897.150;25.82;2.73;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:58:01.461182
+76981923;100200;Game stop;;;;;;;;;;;2;897.150;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981924;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;897.150;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981925;800600;2F;9112;Serge Ibaka;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;2;897.215;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981926;300100;Foul;1147;Kyle Korver;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;897.215;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981927;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;2;927.299;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981928;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;2;945.881;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981929;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;948.956;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981930;100400;Steal;9112;Serge Ibaka;2935;Oklahoma City Thunder;1143;Al Horford;79;Atlanta Hawks;;;2;962.956;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981931;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;1139;Jeff Teague;79;Atlanta Hawks;;;2;967.840;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:58:01.461182
+76981932;100200;Game stop;;;;;;;;;;;2;967.840;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981933;300100;Foul;1139;Jeff Teague;79;Atlanta Hawks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;967.840;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981934;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;1139;Jeff Teague;79;Atlanta Hawks;;;2;1003.063;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981935;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;1003.063;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981936;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;1139;Jeff Teague;79;Atlanta Hawks;;;2;1019.894;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981937;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;1025.177;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981938;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;2;1036.177;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981939;800201;2+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;1036.177;25.49;7.89;;;;;;;;Cut;;Floater;;;;2017-12-07 10:58:01.461182
+76981940;800302;3-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1052.335;21.98;12.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981941;100300;Rebound;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;2;1052.335;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981942;800600;2F;1145;Kent Bazemore;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1060.039;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:58:01.461182
+76981943;100200;Game stop;;;;;;;;;;;2;1060.039;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981944;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;1145;Kent Bazemore;79;Atlanta Hawks;;;2;1060.039;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981945;800101;1+;1145;Kent Bazemore;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1088.603;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981946;800101;1+;1145;Kent Bazemore;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1102.127;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981947;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1105.403;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981948;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;2;1117.403;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981949;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1117.403;23.03;3.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981950;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;1136.617;24.14;7.74;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 10:58:01.461182
+76981951;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;2;1136.815;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981952;400101;Accurate pass;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1145;Kent Bazemore;2;1141.139;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981953;800301;3+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;2;1141.139;26.21;0.48;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981954;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1162.154;23.60;5.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76981955;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;1162.154;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981956;800301;3+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;1175.022;24.80;14.61;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:58:01.461182
+76981957;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;1146;Thabo Sefolosha;79;Atlanta Hawks;;;2;1193.746;27.05;7.62;;;;;;;;Isolation;;;;;;2017-12-07 10:58:01.461182
+76981958;100200;Game stop;;;;;;;;;;;2;1193.746;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981959;300100;Foul;1146;Thabo Sefolosha;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;2;1193.746;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981960;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;1146;Thabo Sefolosha;79;Atlanta Hawks;;;2;1217.754;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981961;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;1146;Thabo Sefolosha;79;Atlanta Hawks;;;2;1232.849;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981962;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;1238.178;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981963;100400;Steal;1858;Steven Adams;2935;Oklahoma City Thunder;1139;Jeff Teague;79;Atlanta Hawks;;;2;1251.178;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981964;100200;Game stop;;;;;;;;;;;2;1256.836;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981965;100500;Turnover;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1256.836;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981966;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;1279.518;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981967;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;1298.718;26.66;7.56;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:58:01.461182
+76981968;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;1298.718;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981969;1800500;Halftime;;;;;;;;;;;2;1300.318;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981970;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981971;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981972;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981973;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981974;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981975;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981976;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981977;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981978;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981979;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981980;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981981;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;9.453;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981982;800302;3-;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;25.453;21.35;11.97;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76981983;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;25.453;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981984;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;3;36.752;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981985;800400;2+1;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;36.752;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 10:58:01.461182
+76981986;100200;Game stop;;;;;;;;;;;3;36.752;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981987;300100;Foul;1143;Al Horford;79;Atlanta Hawks;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;36.752;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981988;800101;1+;1858;Steven Adams;2935;Oklahoma City Thunder;1143;Al Horford;79;Atlanta Hawks;;;3;57.922;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981989;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;61.907;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76981990;400101;Accurate pass;1147;Kyle Korver;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;3;77.907;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981991;800201;2+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1147;Kyle Korver;3;77.907;26.72;14.13;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76981992;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;90.169;24.35;3.33;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76981993;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;90.169;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981994;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;105.734;22.67;5.01;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:58:01.461182
+76981995;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;105.734;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981996;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;119.568;26.06;7.59;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 10:58:01.461182
+76981997;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;119.568;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76981998;800302;3-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;136.461;21.71;12.84;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:58:01.461182
+76981999;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;136.461;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982000;100200;Game stop;;;;;;;;;;;3;137.220;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982001;300100;Foul;1140;Paul Millsap;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;137.220;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982002;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;159.176;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982003;800600;2F;1860;Andre Roberson;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;3;181.176;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 10:58:01.461182
+76982004;100200;Game stop;;;;;;;;;;;3;181.176;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982005;300100;Foul;1147;Kyle Korver;79;Atlanta Hawks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;181.176;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982006;800101;1+;1860;Andre Roberson;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;3;203.015;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982007;800102;1-;1860;Andre Roberson;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;3;216.616;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982008;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;216.616;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982009;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;3;216.616;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982010;100200;Game stop;;;;;;;;;;;3;225.342;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982011;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;1143;Al Horford;79;Atlanta Hawks;;;3;225.342;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982012;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;236.582;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982013;800202;2-;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;3;249.582;26.06;8.10;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:58:01.461182
+76982014;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;249.582;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982015;100200;Game stop;;;;;;;;;;;3;259.386;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982016;100500;Turnover;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;259.386;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982017;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;267.608;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982018;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;281.608;26.57;8.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76982019;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;297.222;24.20;5.16;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76982020;400101;Accurate pass;1147;Kyle Korver;79;Atlanta Hawks;;;;;1143;Al Horford;3;314.197;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982021;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1147;Kyle Korver;3;314.197;26.72;6.63;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 10:58:01.461182
+76982022;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;333.948;22.82;8.43;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76982023;100300;Rebound;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;333.948;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982024;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;348.484;26.57;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:58:01.461182
+76982025;100200;Game stop;;;;;;;;;;;3;361.831;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982026;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;3;361.831;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982027;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;394.686;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982028;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;401.686;26.72;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982029;100300;Rebound;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;401.686;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982030;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;1147;Kyle Korver;3;421.235;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982031;800301;3+;1147;Kyle Korver;79;Atlanta Hawks;;;;;1143;Al Horford;3;421.235;19.88;6.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982032;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;451.834;24.89;10.89;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76982033;100300;Rebound;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;3;451.834;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982034;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;1147;Kyle Korver;3;459.591;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982035;800301;3+;1147;Kyle Korver;79;Atlanta Hawks;;;;;1143;Al Horford;3;459.591;26.27;0.81;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76982036;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;473.530;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982037;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;473.530;23.72;4.65;;;;;;;;Post;;Jumper;;;;2017-12-07 10:58:01.461182
+76982038;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;490.262;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76982039;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;490.262;22.73;10.92;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 10:58:01.461182
+76982040;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;490.262;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982041;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;498.893;23.57;4.50;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76982042;100200;Game stop;;;;;;;;;;;3;498.893;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982043;100300;Rebound;;;79;Atlanta Hawks;;;;;;;3;498.893;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982044;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;506.010;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982045;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;527.010;23.33;7.74;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:58:01.461182
+76982046;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;527.010;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982047;200300;Pick'n'Roll;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;537.966;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982048;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;537.966;26.12;5.16;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 10:58:01.461182
+76982049;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;537.966;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982050;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;545.466;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982051;800301;3+;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;545.466;21.83;12.57;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76982052;400101;Accurate pass;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;567.563;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:58:01.461182
+76982053;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;3;567.563;22.58;4.32;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:58:01.461182
+76982054;400101;Accurate pass;1147;Kyle Korver;79;Atlanta Hawks;;;;;1143;Al Horford;3;581.373;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982055;800301;3+;1143;Al Horford;79;Atlanta Hawks;;;;;1147;Kyle Korver;3;581.373;19.79;8.10;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982056;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;1143;Al Horford;79;Atlanta Hawks;;;3;600.709;26.36;8.67;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76982057;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;601.287;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982058;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;3;607.979;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982059;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;607.979;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76982060;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;607.979;21.71;6.42;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:58:01.461182
+76982061;100200;Game stop;;;;;;;;;;;3;607.979;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982062;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;3;607.979;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982063;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;1140;Paul Millsap;79;Atlanta Hawks;;;3;607.979;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982064;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;647.849;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982065;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;668.849;24.50;4.71;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:58:01.461182
+76982066;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;668.849;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982067;100200;Game stop;;;;;;;;;;;3;676.451;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982068;300100;Foul;1143;Al Horford;79;Atlanta Hawks;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;676.451;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982069;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;3;676.451;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982070;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;696.598;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982071;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;705.598;26.57;7.56;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 10:58:01.461182
+76982072;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;760.949;27.08;7.17;;;;;;;;;;Lay up;;;;2017-12-07 10:58:01.461182
+76982073;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;1140;Paul Millsap;79;Atlanta Hawks;;;3;776.453;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 10:58:01.461182
+76982074;100200;Game stop;;;;;;;;;;;3;776.453;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982075;300100;Foul;1140;Paul Millsap;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;776.453;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982076;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;1140;Paul Millsap;79;Atlanta Hawks;;;3;799.456;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982077;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;799.456;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982078;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;3;799.456;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982079;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;799.456;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982080;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;1140;Paul Millsap;79;Atlanta Hawks;;;3;831.833;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982081;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;836.213;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982082;100200;Game stop;;;;;;;;;;;3;847.213;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982083;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;1145;Kent Bazemore;79;Atlanta Hawks;;;3;847.213;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982084;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1139;Jeff Teague;79;Atlanta Hawks;;;3;847.213;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982085;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;865.175;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982086;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;870.175;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982087;800201;2+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;870.175;26.96;1.02;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982088;100400;Steal;1145;Kent Bazemore;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;912.789;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982089;400101;Accurate pass;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;3;921.182;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982090;800201;2+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;921.182;26.99;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:58:01.461182
+76982091;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;936.094;26.81;7.17;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:58:01.461182
+76982092;100300;Rebound;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;3;936.094;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982093;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;949.158;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982094;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;1145;Kent Bazemore;3;949.158;26.84;8.13;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:58:01.461182
+76982095;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;949.158;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982096;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;3;955.928;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:58:01.461182
+76982097;100200;Game stop;;;;;;;;;;;3;955.928;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982098;300100;Foul;1148;Mike Muscala;79;Atlanta Hawks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;955.928;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982099;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;3;985.943;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982100;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;985.943;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982101;1600500;Guard;370717;Lamar Patterson;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;3;985.943;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982102;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;3;1012.703;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982103;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;1014.018;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982104;800202;2-;1145;Kent Bazemore;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;1030.018;26.06;8.04;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76982105;100300;Rebound;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;3;1030.018;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982106;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;3;1035.827;26.84;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:58:01.461182
+76982107;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;3;1038.732;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982108;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;3;1038.732;26.72;7.74;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:58:01.461182
+76982109;800202;2-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;3;1056.596;26.72;7.26;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:58:01.461182
+76982110;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;1056.596;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982111;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;1140;Paul Millsap;79;Atlanta Hawks;;;3;1062.795;26.84;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:58:01.461182
+76982112;100300;Rebound;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;3;1062.795;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982113;100200;Game stop;;;;;;;;;;;3;1062.795;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982114;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;1062.795;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982115;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;1082.720;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982116;200300;Pick'n'Roll;1148;Mike Muscala;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;1090.720;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76982117;800302;3-;1148;Mike Muscala;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;1090.720;19.79;9.81;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:58:01.461182
+76982118;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;1090.720;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982119;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;1098.769;22.73;4.86;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76982120;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;1098.769;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982121;800302;3-;1148;Mike Muscala;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;1115.428;27.05;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982122;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;1115.428;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982123;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;3;1123.176;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982124;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;1123.176;20.09;10.26;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76982125;100200;Game stop;;;;;;;;;;;3;1135.926;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982126;300100;Foul;1853;Nick Collison;2935;Oklahoma City Thunder;1144;Dennis Schroder;79;Atlanta Hawks;;;3;1135.926;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982127;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;1140;Paul Millsap;79;Atlanta Hawks;;;3;1135.926;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982128;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;1148;Mike Muscala;79;Atlanta Hawks;;;3;1135.926;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982129;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;1164.519;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982130;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;1170.119;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76982131;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;1170.119;21.56;7.26;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:58:01.461182
+76982132;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;3;1170.119;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982133;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;1191.139;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982134;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;1191.139;23.18;9.45;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:58:01.461182
+76982135;1800500;Halftime;;;;;;;;;;;3;1191.139;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982136;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982137;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982138;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982139;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982140;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982141;1600500;Guard;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982142;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982143;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982144;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982145;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982146;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982147;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;0.664;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982148;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;17.664;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982149;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;17.664;26.96;6.87;;;;;;;;Post;;Lay up;;;;2017-12-07 10:58:01.461182
+76982150;100300;Rebound;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;17.664;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982151;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;29.331;24.65;8.22;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76982152;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;44.485;23.03;10.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76982153;400101;Accurate pass;1144;Dennis Schroder;79;Atlanta Hawks;;;;;1143;Al Horford;4;62.582;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982154;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;62.582;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76982155;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;62.582;26.66;4.11;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:58:01.461182
+76982156;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;82.115;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982157;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;82.115;26.42;12.84;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76982158;800302;3-;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;92.614;19.73;9.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982159;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;92.614;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982160;100200;Game stop;;;;;;;;;;;4;103.616;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982161;100500;Turnover;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;103.616;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982162;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;113.914;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982163;100200;Game stop;;;;;;;;;;;4;128.914;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982164;300100;Foul;1144;Dennis Schroder;79;Atlanta Hawks;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;128.914;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982165;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;143.151;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982166;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;4;166.151;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982167;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;166.151;24.20;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982168;800202;2-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;4;191.596;26.57;1.17;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76982169;100300;Rebound;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;4;191.596;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982170;800202;2-;1851;Anthony Morrow;2935;Oklahoma City Thunder;1147;Kyle Korver;79;Atlanta Hawks;;;4;210.632;23.03;7.44;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:58:01.461182
+76982171;100300;Rebound;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;4;210.632;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982172;800600;2F;1145;Kent Bazemore;79;Atlanta Hawks;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;216.025;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:58:01.461182
+76982173;100200;Game stop;;;;;;;;;;;4;216.025;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982174;300100;Foul;1853;Nick Collison;2935;Oklahoma City Thunder;1145;Kent Bazemore;79;Atlanta Hawks;;;4;216.025;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982175;1800600;Timeout;;;;;;;;;;;4;216.025;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982176;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;216.025;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982177;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;1144;Dennis Schroder;79;Atlanta Hawks;;;4;216.025;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982178;800101;1+;1145;Kent Bazemore;79;Atlanta Hawks;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;255.841;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982179;800101;1+;1145;Kent Bazemore;79;Atlanta Hawks;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;273.227;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982180;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;1148;Mike Muscala;79;Atlanta Hawks;;;4;389.660;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982181;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;389.660;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982182;400101;Accurate pass;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;4;292.431;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982183;800201;2+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1853;Nick Collison;4;292.431;26.66;7.44;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:58:01.461182
+76982184;100200;Game stop;;;;;;;;;;;4;305.550;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982185;300100;Foul;7464;Kevin Durant;2935;Oklahoma City Thunder;1145;Kent Bazemore;79;Atlanta Hawks;;;4;305.550;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982186;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;4;305.550;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982187;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;331.180;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982188;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;346.180;26.84;4.89;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 10:58:01.461182
+76982189;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;346.180;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982190;800202;2-;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;356.224;27.05;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:58:01.461182
+76982191;100300;Rebound;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;356.224;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982192;800302;3-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;362.316;26.72;14.52;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76982193;100300;Rebound;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;362.316;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982194;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;371.921;20.63;4.26;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76982195;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;372.434;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982196;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;376.207;26.42;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982197;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;376.495;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982198;100400;Steal;1139;Jeff Teague;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;389.660;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982199;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;402.913;26.99;8.28;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 10:58:01.461182
+76982200;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;404.441;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982201;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;404.441;26.84;7.80;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:58:01.461182
+76982202;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;405.642;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982203;800600;2F;1143;Al Horford;79;Atlanta Hawks;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;405.642;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 10:58:01.461182
+76982204;100200;Game stop;;;;;;;;;;;4;405.642;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982205;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;1143;Al Horford;79;Atlanta Hawks;;;4;405.642;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982206;800101;1+;1143;Al Horford;79;Atlanta Hawks;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;437.632;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982207;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;437.632;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982208;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;4;437.632;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982209;800101;1+;1143;Al Horford;79;Atlanta Hawks;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;464.610;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982210;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;467.930;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982211;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;4;483.930;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982212;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;483.930;23.03;7.74;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:58:01.461182
+76982213;800600;2F;1146;Thabo Sefolosha;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;502.500;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:58:01.461182
+76982214;100200;Game stop;;;;;;;;;;;4;502.500;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982215;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;1146;Thabo Sefolosha;79;Atlanta Hawks;;;4;502.500;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982216;800102;1-;1146;Thabo Sefolosha;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;531.958;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982217;100300;Rebound;;;79;Atlanta Hawks;;;;;;;4;531.958;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982218;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;531.958;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982219;800102;1-;1146;Thabo Sefolosha;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;557.050;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982220;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;557.050;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982221;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;4;557.050;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982222;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;577.545;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982223;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;577.545;26.27;7.05;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 10:58:01.461182
+76982224;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;577.545;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982225;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1145;Kent Bazemore;4;589.763;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76982226;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1145;Kent Bazemore;4;589.763;24.80;8.91;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 10:58:01.461182
+76982227;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;612.630;26.96;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:58:01.461182
+76982228;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;612.630;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982229;800302;3-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;627.527;26.12;14.46;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:58:01.461182
+76982230;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;627.527;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982231;100200;Game stop;;;;;;;;;;;4;635.225;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982232;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;635.225;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982233;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;4;635.225;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982234;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;693.159;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982235;200300;Pick'n'Roll;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;4;704.159;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982236;800600;2F;1858;Steven Adams;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;4;704.159;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 10:58:01.461182
+76982237;100200;Game stop;;;;;;;;;;;4;704.159;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982238;300100;Foul;1148;Mike Muscala;79;Atlanta Hawks;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;704.159;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982239;800102;1-;1858;Steven Adams;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;4;727.372;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982240;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;727.372;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982241;800102;1-;1858;Steven Adams;2935;Oklahoma City Thunder;1148;Mike Muscala;79;Atlanta Hawks;;;4;742.566;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982242;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;4;742.566;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982243;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;742.566;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982244;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;749.730;26.99;6.90;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:58:01.461182
+76982245;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;749.730;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982246;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;755.601;19.73;9.18;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:58:01.461182
+76982247;800302;3-;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;4;778.842;26.81;0.96;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:58:01.461182
+76982248;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;779.924;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982249;800600;2F;1140;Paul Millsap;79;Atlanta Hawks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;779.924;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 10:58:01.461182
+76982250;100200;Game stop;;;;;;;;;;;4;779.924;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982251;300100;Foul;1850;Russell Westbrook;2935;Oklahoma City Thunder;1140;Paul Millsap;79;Atlanta Hawks;;;4;779.924;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982252;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;802.634;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982253;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;1145;Kent Bazemore;79;Atlanta Hawks;;;4;802.634;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982254;800102;1-;1140;Paul Millsap;79;Atlanta Hawks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;816.780;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982255;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;816.780;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982256;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;4;816.780;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982257;100400;Steal;1139;Jeff Teague;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;836.888;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982258;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;849.882;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982259;800600;2F;1140;Paul Millsap;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;849.882;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 10:58:01.461182
+76982260;100200;Game stop;;;;;;;;;;;4;849.882;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982261;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;1140;Paul Millsap;79;Atlanta Hawks;;;4;849.882;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982262;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;873.747;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982263;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;886.884;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982264;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;888.640;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982265;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;904.640;25.10;4.89;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:58:01.461182
+76982266;200300;Pick'n'Roll;1148;Mike Muscala;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;922.162;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76982267;800202;2-;1148;Mike Muscala;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;922.162;25.97;11.49;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:58:01.461182
+76982268;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;922.162;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982269;100400;Steal;1146;Thabo Sefolosha;79;Atlanta Hawks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;935.705;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982270;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;941.805;25.52;7.74;;;;;;;;Transition;;Floater;;;;2017-12-07 10:58:01.461182
+76982271;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;962.873;25.52;6.72;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 10:58:01.461182
+76982272;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;962.873;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982273;100200;Game stop;;;;;;;;;;;4;969.198;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982274;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;4;969.198;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982275;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;4;969.198;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982276;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;1148;Mike Muscala;79;Atlanta Hawks;;;4;969.198;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982277;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;998.620;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982278;800302;3-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1009.620;19.88;7.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982279;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1009.620;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982280;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;4;1027.201;26.99;2.88;;;;;;;;;;Jumper;;;;2017-12-07 10:58:01.461182
+76982281;800302;3-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;4;1041.709;19.64;9.84;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:58:01.461182
+76982282;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;1041.709;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982283;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;1056.680;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982284;200300;Pick'n'Roll;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1056.680;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982285;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1056.680;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 10:58:01.461182
+76982286;100200;Game stop;;;;;;;;;;;4;1056.680;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982287;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;4;1056.680;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982288;1600500;Guard;1124;Justin Holiday;79;Atlanta Hawks;1140;Paul Millsap;79;Atlanta Hawks;;;4;1056.680;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982289;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;4;1056.680;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982290;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;4;1056.680;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982291;1600500;Guard;370717;Lamar Patterson;79;Atlanta Hawks;1139;Jeff Teague;79;Atlanta Hawks;;;4;1056.680;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982292;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1107.591;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982293;400101;Accurate pass;1144;Dennis Schroder;79;Atlanta Hawks;;;;;1148;Mike Muscala;4;1120.591;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982294;200300;Pick'n'Roll;1148;Mike Muscala;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;1120.591;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:58:01.461182
+76982295;800201;2+;1148;Mike Muscala;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;1120.591;27.02;7.62;;;;;;;;Pick'n'pop;;Dunk;Drives Right;;;2017-12-07 10:58:01.461182
+76982296;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1135.929;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982297;800301;3+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;1135.929;20.09;10.11;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76982298;800302;3-;1124;Justin Holiday;79;Atlanta Hawks;;;;;;;4;1154.226;20.51;11.61;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:58:01.461182
+76982299;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;1154.226;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982300;800700;3F;7464;Kevin Durant;2935;Oklahoma City Thunder;1145;Kent Bazemore;79;Atlanta Hawks;;;4;1175.722;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:58:01.461182
+76982301;100200;Game stop;;;;;;;;;;;4;1175.722;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982302;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1175.722;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982303;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;1145;Kent Bazemore;79;Atlanta Hawks;;;4;1199.614;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982304;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;1145;Kent Bazemore;79;Atlanta Hawks;;;4;1214.803;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982305;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;1214.803;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982306;1600500;Guard;1854;Kyle Singler;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;1214.803;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982307;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;1145;Kent Bazemore;79;Atlanta Hawks;;;4;1250.223;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982308;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1254.685;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982309;800600;2F;1144;Dennis Schroder;79;Atlanta Hawks;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1255.685;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982310;100200;Game stop;;;;;;;;;;;4;1255.685;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982311;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;1144;Dennis Schroder;79;Atlanta Hawks;;;4;1255.685;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982312;800101;1+;1144;Dennis Schroder;79;Atlanta Hawks;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1290.093;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982313;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1290.093;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982314;800101;1+;1144;Dennis Schroder;79;Atlanta Hawks;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1305.758;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982315;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1308.478;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+76982316;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;1323.378;20.81;3.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:58:01.461182
+76982317;100300;Rebound;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;1323.378;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982318;800202;2-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;1328.332;26.99;6.72;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:58:01.461182
+76982319;100300;Rebound;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;4;1328.332;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+76982320;1800700;Match end;;;;;;;;;;;4;1347.132;;;;;;;;;;;;;;;;2017-12-07 10:58:01.461182
+93267630;100500;Turnover;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;128.914;;;;;;;;;;;;;;;;2018-01-11 20:48:01.423558
+103685296;200900;Assisting;1147;Kyle Korver;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;93.456;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685298;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;144.265;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685300;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;221.496;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685302;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;236.631;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685304;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;252.998;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685306;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;268.106;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685308;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;280.836;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685310;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;311.618;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685312;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;346.719;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685314;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;379.270;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685316;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;457.511;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685318;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;504.963;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685320;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;530.305;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685322;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;574.856;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685324;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;601.849;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685326;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;659.953;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685328;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;685.309;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685330;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;699.993;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685332;200900;Assisting;1148;Mike Muscala;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;783.126;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685334;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;796.262;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685336;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;870.583;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685338;200900;Assisting;1148;Mike Muscala;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;885.011;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685340;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;939.471;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685342;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;962.356;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685344;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;979.279;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685346;200900;Assisting;1147;Kyle Korver;79;Atlanta Hawks;;;;;1145;Kent Bazemore;1;1080.009;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685348;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;1093.036;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685350;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;1111.659;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685352;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;1124.924;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685354;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;1147.934;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685356;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;115.717;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685358;200900;Assisting;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;2;165.102;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685360;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;234.887;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685362;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1143;Al Horford;2;246.929;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685364;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;273.857;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685366;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;371.587;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685368;200900;Assisting;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;2;387.353;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685370;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;2;505.837;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685372;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;564.818;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685374;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;589.757;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685376;200900;Assisting;1148;Mike Muscala;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;600.335;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685378;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;682.862;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685380;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;745.565;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685382;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;765.054;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685384;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;867.259;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685386;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;897.215;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685388;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;967.840;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685390;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;1036.177;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685392;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;1060.039;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685394;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1117.403;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685396;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;2;1141.139;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685398;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;1175.022;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685400;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1193.746;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685402;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;36.752;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685404;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1147;Kyle Korver;3;77.907;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685406;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;181.176;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685408;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;281.608;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685410;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;297.222;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685412;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1147;Kyle Korver;3;314.197;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685414;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;348.484;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685416;200900;Assisting;1147;Kyle Korver;79;Atlanta Hawks;;;;;1143;Al Horford;3;421.235;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685418;200900;Assisting;1147;Kyle Korver;79;Atlanta Hawks;;;;;1143;Al Horford;3;459.591;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685420;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;473.530;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685422;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;545.466;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685424;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;3;567.563;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685426;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1147;Kyle Korver;3;581.373;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685428;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;607.979;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685430;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;705.598;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685432;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;760.949;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685434;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;776.453;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685436;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;870.175;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685438;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;921.182;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685440;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;955.928;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685442;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;3;1038.732;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685444;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;1123.176;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685446;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;29.331;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685448;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;44.485;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685450;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;62.582;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685452;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;166.151;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685454;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;216.025;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685456;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1853;Nick Collison;4;292.431;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685458;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;405.642;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685460;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;483.930;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685462;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;4;502.500;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685464;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1145;Kent Bazemore;4;589.763;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685466;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;4;704.159;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685468;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;755.601;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685470;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;779.924;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685472;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;849.882;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685474;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;904.640;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685476;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;941.805;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685478;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;4;1027.201;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685480;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1056.680;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685482;200900;Assisting;1148;Mike Muscala;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;1120.591;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685484;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;1135.929;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685486;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;1175.722;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685488;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;1255.685;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857

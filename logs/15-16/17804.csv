@@ -1,0 +1,787 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77015411;1601000;Starting lineup;9366;John Wall;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015412;1601000;Starting lineup;1150;Kris Humphries;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015413;1601000;Starting lineup;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015414;1601000;Starting lineup;9661;Gary Neal;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015415;1601000;Starting lineup;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015416;1601000;Starting lineup;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015417;1601000;Starting lineup;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015418;1601000;Starting lineup;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015429;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015430;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015431;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015432;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015433;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015434;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015440;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;32.223;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015441;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;52.223;24.50;5.04;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:13:04.564861
+77015443;100200;Game stop;;;;;;;;;;;1;66.642;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015444;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;2475;Marvin Williams;2977;Charlotte Hornets;;;1;66.642;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015446;100200;Game stop;;;;;;;;;;;1;95.182;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015448;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;106.859;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015449;200300;Pick'n'Roll;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;116.859;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015450;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;116.859;26.99;7.32;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:13:04.564861
+77015454;100200;Game stop;;;;;;;;;;;1;126.970;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015455;300100;Foul;7490;Garrett Temple;3300;Washington Wizards;2477;Nicolas Batum;2977;Charlotte Hornets;;;1;126.970;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015458;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;167.699;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015459;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;1;174.699;22.28;4.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015461;800202;2-;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;204.253;24.89;8.22;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015462;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;204.253;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015463;800201;2+;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;204.253;27.53;7.74;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:13:04.564861
+77015464;100200;Game stop;;;;;;;;;;;1;217.465;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015466;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;224.315;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015467;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9368;Kelly Oubre Jr.;1;237.315;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015468;800301;3+;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;237.315;26.51;14.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015470;200300;Pick'n'Roll;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;275.635;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015471;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;275.635;27.08;8.97;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:13:04.564861
+77015475;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;1;305.815;24.65;12.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015478;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;315.536;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015480;100400;Steal;8421;Jared Dudley;3300;Washington Wizards;2477;Nicolas Batum;2977;Charlotte Hornets;;;1;327.015;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015481;800400;2+1;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;333.481;26.96;7.65;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015482;100200;Game stop;;;;;;;;;;;1;333.481;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015484;800102;1-;7490;Garrett Temple;3300;Washington Wizards;2475;Marvin Williams;2977;Charlotte Hornets;;;1;362.530;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015488;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;374.940;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015489;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;1;383.936;26.99;8.04;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:13:04.564861
+77015490;100200;Game stop;;;;;;;;;;;1;383.936;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015494;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;406.344;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015495;400101;Accurate pass;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;418.085;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:13:04.564861
+77015496;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;9364;Marcin Gortat;1;418.085;26.99;8.43;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:13:04.564861
+77015499;800201;2+;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;457.599;24.59;3.03;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77015503;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;1;488.184;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015504;800202;2-;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;501.294;26.99;5.04;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015507;100200;Game stop;;;;;;;;;;;1;508.502;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015508;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;1;508.502;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015509;1800600;Timeout;;;3300;Washington Wizards;;;;;;;1;508.502;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015510;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;526.704;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015513;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;544.045;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015514;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;560.045;26.42;5.79;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:13:04.564861
+77015516;100400;Steal;9661;Gary Neal;3300;Washington Wizards;13688;PJ Hairston;2977;Charlotte Hornets;;;1;577.596;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015517;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;1;585.851;22.28;3.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015524;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;617.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015525;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;1;627.073;21.56;12.84;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015528;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;639.862;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015529;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;9366;John Wall;1;650.361;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015530;800301;3+;9366;John Wall;3300;Washington Wizards;;;;;9661;Gary Neal;1;650.361;20.09;12.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015532;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;671.912;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015533;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;1;680.430;21.41;6.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015539;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;713.435;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015540;800600;2F;9364;Marcin Gortat;3300;Washington Wizards;2483;Cody Zeller;2977;Charlotte Hornets;;;1;725.337;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:13:04.564861
+77015541;100200;Game stop;;;;;;;;;;;1;725.337;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015544;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;1;741.923;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015545;1600500;Guard;1150;Kris Humphries;3300;Washington Wizards;9366;John Wall;3300;Washington Wizards;;;1;741.923;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015550;800101;1+;9364;Marcin Gortat;3300;Washington Wizards;2483;Cody Zeller;2977;Charlotte Hornets;;;1;741.923;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015551;800101;1+;9364;Marcin Gortat;3300;Washington Wizards;2483;Cody Zeller;2977;Charlotte Hornets;;;1;754.471;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015555;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;9364;Marcin Gortat;1;785.902;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015556;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;7769;Ramon Sessions;1;785.902;26.66;6.03;;;;;;;;Cut;;Hook;;;;2017-12-07 11:13:04.564861
+77015559;100200;Game stop;;;;;;;;;;;1;814.980;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015561;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;835.399;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015562;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;841.399;21.98;8.37;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015565;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;;;1;896.830;23.18;3.42;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015567;100200;Game stop;;;;;;;;;;;1;910.004;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015569;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;923.067;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015570;800600;2F;7490;Garrett Temple;3300;Washington Wizards;2476;Jeremy Lamb;2977;Charlotte Hornets;;;1;935.367;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:13:04.564861
+77015571;100200;Game stop;;;;;;;;;;;1;935.367;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015573;800101;1+;7490;Garrett Temple;3300;Washington Wizards;2476;Jeremy Lamb;2977;Charlotte Hornets;;;1;961.010;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015574;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;9364;Marcin Gortat;3300;Washington Wizards;;;1;978.794;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015575;800101;1+;7490;Garrett Temple;3300;Washington Wizards;2476;Jeremy Lamb;2977;Charlotte Hornets;;;1;978.794;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015579;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;1012.742;23.12;5.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015581;100200;Game stop;;;;;;;;;;;1;1027.868;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015582;300100;Foul;7769;Ramon Sessions;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;1;1027.868;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015585;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;1053.473;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015586;1800500;Halftime;;;;;;;;;;;1;1054.473;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015587;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015588;1600500;Guard;1150;Kris Humphries;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015589;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015590;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015591;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015592;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015602;800302;3-;7769;Ramon Sessions;3300;Washington Wizards;;;;;9366;John Wall;2;49.313;21.98;1.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015603;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;53.473;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015604;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;2484;Frank Kaminsky;2977;Charlotte Hornets;;;2;53.473;26.99;7.83;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:13:04.564861
+77015607;800600;2F;9366;John Wall;3300;Washington Wizards;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;69.608;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:13:04.564861
+77015608;100200;Game stop;;;;;;;;;;;2;69.608;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015610;800101;1+;9366;John Wall;3300;Washington Wizards;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;93.448;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015611;800101;1+;9366;John Wall;3300;Washington Wizards;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;107.703;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015613;100200;Game stop;;;;;;;;;;;2;122.419;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015615;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;131.377;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015616;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;9366;John Wall;2;145.377;23.33;5.28;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015619;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;158.400;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015620;400101;Accurate pass;8421;Jared Dudley;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;163.769;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015621;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;8421;Jared Dudley;2;163.769;26.57;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015622;100200;Game stop;;;;;;;;;;;2;171.666;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015628;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;8421;Jared Dudley;2;207.680;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015629;800201;2+;8421;Jared Dudley;3300;Washington Wizards;;;;;9661;Gary Neal;2;207.680;21.11;4.89;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77015634;100400;Steal;9366;John Wall;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;254.389;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015635;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;8421;Jared Dudley;2;263.824;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015636;800301;3+;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;2;263.824;19.94;4.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015637;100400;Steal;9661;Gary Neal;3300;Washington Wizards;2473;Spencer Hawes;2977;Charlotte Hornets;;;2;282.220;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015638;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;2;295.549;22.73;10.68;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77015641;100300;Rebound;1150;Kris Humphries;3300;Washington Wizards;;;;;;;2;311.055;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015642;800302;3-;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;319.170;21.11;3.18;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015649;100200;Game stop;;;;;;;;;;;2;357.310;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015652;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;1150;Kris Humphries;3300;Washington Wizards;;;2;385.698;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015653;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;9661;Gary Neal;3300;Washington Wizards;;;2;385.698;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015655;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;385.698;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015656;100200;Game stop;;;;;;;;;;;2;385.698;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015657;300100;Foul;9364;Marcin Gortat;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;2;385.698;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015665;100200;Game stop;;;;;;;;;;;2;433.938;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015666;1800600;Timeout;;;3300;Washington Wizards;;;;;;;2;433.938;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015668;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;450.916;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015669;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;2;450.916;26.99;7.83;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:13:04.564861
+77015673;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;8421;Jared Dudley;2;484.219;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015674;800201;2+;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;2;484.219;27.05;7.65;;;;;;;;Cut;;;;;;2017-12-07 11:13:04.564861
+77015675;100200;Game stop;;;;;;;;;;;2;500.823;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015677;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;7769;Ramon Sessions;3300;Washington Wizards;;;2;529.301;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015678;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;529.301;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015679;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;2;529.301;21.83;4.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015682;100200;Game stop;;;;;;;;;;;2;543.917;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015683;300300;Technical foul;9366;John Wall;3300;Washington Wizards;;;;;;;2;543.917;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015685;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;584.468;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015686;100200;Game stop;;;;;;;;;;;2;594.468;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015688;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;611.818;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015689;200300;Pick'n'Roll;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;2;620.818;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015690;800202;2-;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;2;620.818;21.41;4.74;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:13:04.564861
+77015691;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;2;620.818;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015692;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;2;620.818;26.84;8.37;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77015694;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;2;649.814;26.84;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015696;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;2;663.647;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015697;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;2;669.117;26.72;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015699;100200;Game stop;;;;;;;;;;;2;710.668;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015704;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;2;710.668;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015705;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;2;722.840;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015706;800301;3+;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;722.840;25.97;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015708;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;2;742.926;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015709;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;2;752.611;27.08;7.35;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:13:04.564861
+77015710;100400;Steal;9366;John Wall;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;2;772.472;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015711;100200;Game stop;;;;;;;;;;;2;776.219;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015712;100500;Turnover;9366;John Wall;3300;Washington Wizards;;;;;;;2;776.219;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015713;1800600;Timeout;;;;;;;;;;;2;776.219;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015716;100200;Game stop;;;;;;;;;;;2;796.824;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015718;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;809.174;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015719;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9368;Kelly Oubre Jr.;2;821.174;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015720;800301;3+;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;2;821.174;26.27;15.00;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015723;800600;2F;9366;John Wall;3300;Washington Wizards;2485;Tyler Hansbrough;2977;Charlotte Hornets;;;2;855.674;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:13:04.564861
+77015724;100200;Game stop;;;;;;;;;;;2;855.674;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015726;800102;1-;9366;John Wall;3300;Washington Wizards;2485;Tyler Hansbrough;2977;Charlotte Hornets;;;2;882.355;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015727;100300;Rebound;;;3300;Washington Wizards;;;;;;;2;882.355;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015728;800101;1+;9366;John Wall;3300;Washington Wizards;2485;Tyler Hansbrough;2977;Charlotte Hornets;;;2;895.586;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015732;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;2475;Marvin Williams;2977;Charlotte Hornets;9366;John Wall;2;934.762;26.84;7.89;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77015734;100400;Steal;9366;John Wall;3300;Washington Wizards;2485;Tyler Hansbrough;2977;Charlotte Hornets;;;2;937.620;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015735;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;;;2;943.353;25.67;0.78;;;;;;;;;;Jumper;;;;2017-12-07 11:13:04.564861
+77015736;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;2;943.353;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015737;400101;Accurate pass;8421;Jared Dudley;3300;Washington Wizards;;;;;9364;Marcin Gortat;2;948.107;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015738;200300;Pick'n'Roll;9364;Marcin Gortat;3300;Washington Wizards;;;;;8421;Jared Dudley;2;948.107;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015739;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;8421;Jared Dudley;2;948.107;26.12;8.73;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:13:04.564861
+77015743;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;2;998.412;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015744;800301;3+;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;998.412;26.06;15.00;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015745;1800500;Halftime;;;;;;;;;;;2;998.512;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015746;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015747;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015748;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015749;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015750;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015751;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015757;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;7.860;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015758;100200;Game stop;;;;;;;;;;;3;36.860;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015759;100500;Turnover;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;36.860;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015764;100400;Steal;8421;Jared Dudley;3300;Washington Wizards;2477;Nicolas Batum;2977;Charlotte Hornets;;;3;88.499;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015765;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;3;94.143;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015766;800201;2+;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;3;94.143;27.38;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015768;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;3;112.909;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015769;200300;Pick'n'Roll;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;3;126.041;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015770;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;2477;Nicolas Batum;2977;Charlotte Hornets;9366;John Wall;3;126.041;27.08;7.95;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:13:04.564861
+77015776;800202;2-;7490;Garrett Temple;3300;Washington Wizards;2483;Cody Zeller;2977;Charlotte Hornets;;;3;150.493;27.23;8.37;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015781;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;179.920;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015782;100200;Game stop;;;;;;;;;;;3;232.878;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015784;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;232.878;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015785;800301;3+;9366;John Wall;3300;Washington Wizards;;;;;;;3;232.878;19.19;7.95;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015787;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;254.525;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015788;800201;2+;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;260.230;26.99;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015790;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;3;272.581;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015791;800302;3-;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;280.650;22.13;0.87;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015792;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;280.650;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015797;100200;Game stop;;;;;;;;;;;3;344.803;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015798;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;2477;Nicolas Batum;2977;Charlotte Hornets;;;3;344.803;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015801;100200;Game stop;;;;;;;;;;;3;366.498;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015802;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;2477;Nicolas Batum;2977;Charlotte Hornets;;;3;366.498;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015805;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;3;406.025;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015807;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;410.507;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015808;100200;Game stop;;;;;;;;;;;3;418.507;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015810;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;436.661;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015811;200600;Post;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;440.661;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015812;800600;2F;9364;Marcin Gortat;3300;Washington Wizards;2483;Cody Zeller;2977;Charlotte Hornets;;;3;440.661;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:13:04.564861
+77015813;100200;Game stop;;;;;;;;;;;3;440.661;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015815;800101;1+;9364;Marcin Gortat;3300;Washington Wizards;2483;Cody Zeller;2977;Charlotte Hornets;;;3;463.529;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015816;800101;1+;9364;Marcin Gortat;3300;Washington Wizards;2483;Cody Zeller;2977;Charlotte Hornets;;;3;477.719;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015820;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;3;521.192;23.57;3.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015823;100200;Game stop;;;;;;;;;;;3;530.319;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015824;1800600;Timeout;;;3300;Washington Wizards;;;;;;;3;530.319;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015825;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;538.620;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015826;800600;2F;9661;Gary Neal;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;3;555.620;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:13:04.564861
+77015827;100200;Game stop;;;;;;;;;;;3;555.620;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015829;800101;1+;9661;Gary Neal;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;3;582.139;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015830;800101;1+;9661;Gary Neal;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;3;597.173;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015833;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;3;616.657;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015837;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9364;Marcin Gortat;3;644.874;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015838;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;3;644.874;27.05;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77015839;100400;Steal;9364;Marcin Gortat;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;3;659.119;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015840;800600;2F;7490;Garrett Temple;3300;Washington Wizards;2475;Marvin Williams;2977;Charlotte Hornets;;;3;664.995;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:13:04.564861
+77015841;100200;Game stop;;;;;;;;;;;3;664.995;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015843;800102;1-;7490;Garrett Temple;3300;Washington Wizards;2475;Marvin Williams;2977;Charlotte Hornets;;;3;694.911;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015844;100300;Rebound;;;3300;Washington Wizards;;;;;;;3;694.911;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015846;800101;1+;7490;Garrett Temple;3300;Washington Wizards;2475;Marvin Williams;2977;Charlotte Hornets;;;3;708.854;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015849;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;735.233;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015850;100200;Game stop;;;;;;;;;;;3;747.548;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015851;100500;Turnover;9366;John Wall;3300;Washington Wizards;;;;;;;3;747.548;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015853;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;2477;Nicolas Batum;2977;Charlotte Hornets;;;3;766.664;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015854;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;8421;Jared Dudley;3;773.694;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015855;800301;3+;8421;Jared Dudley;3300;Washington Wizards;;;;;9661;Gary Neal;3;773.694;25.37;0.96;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015857;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;800.927;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015858;200600;Post;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;818.035;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015859;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;818.035;24.95;10.11;;;;;;;;Post;;Jumper;;;;2017-12-07 11:13:04.564861
+77015862;100200;Game stop;;;;;;;;;;;3;826.089;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015863;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;2484;Frank Kaminsky;2977;Charlotte Hornets;;;3;826.089;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015867;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;9366;John Wall;3300;Washington Wizards;;;3;867.662;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015868;1600500;Guard;1150;Kris Humphries;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;3;867.662;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015870;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;869.376;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015871;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;1150;Kris Humphries;3;891.376;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015872;200300;Pick'n'Roll;1150;Kris Humphries;3300;Washington Wizards;;;;;9661;Gary Neal;3;891.376;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77015873;800201;2+;1150;Kris Humphries;3300;Washington Wizards;;;;;9661;Gary Neal;3;891.376;21.26;7.62;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015874;100200;Game stop;;;;;;;;;;;3;908.086;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015875;300100;Foul;9661;Gary Neal;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;3;908.086;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015879;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;3;935.488;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015880;800302;3-;9661;Gary Neal;3300;Washington Wizards;;;;;;;3;953.281;20.75;2.70;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015882;100200;Game stop;;;;;;;;;;;3;969.226;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015884;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;987.494;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015885;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;1150;Kris Humphries;3;1003.494;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015886;200300;Pick'n'Roll;1150;Kris Humphries;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1003.494;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77015887;800400;2+1;1150;Kris Humphries;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1003.494;26.99;7.74;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 11:13:04.564861
+77015888;100200;Game stop;;;;;;;;;;;3;1003.494;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015891;800101;1+;1150;Kris Humphries;3300;Washington Wizards;2484;Frank Kaminsky;2977;Charlotte Hornets;;;3;1032.988;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015895;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;7769;Ramon Sessions;3;1086.459;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015896;100200;Game stop;;;;;;;;;;;3;1086.459;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015898;800400;2+1;7769;Ramon Sessions;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1086.459;25.22;4.32;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015899;800101;1+;7769;Ramon Sessions;3300;Washington Wizards;2484;Frank Kaminsky;2977;Charlotte Hornets;;;3;1110.012;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015902;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;3;1133.043;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015903;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;9661;Gary Neal;3;1144.625;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015904;800201;2+;9661;Gary Neal;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1144.625;24.65;8.64;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 11:13:04.564861
+77015907;100200;Game stop;;;;;;;;;;;3;1189.334;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015908;100500;Turnover;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;1189.334;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015912;1800500;Halftime;;;;;;;;;;;3;1205.779;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015913;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015914;1600500;Guard;1150;Kris Humphries;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015915;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015916;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015917;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015918;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015924;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;0.068;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015925;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9364;Marcin Gortat;4;14.068;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015926;200300;Pick'n'Roll;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;4;14.068;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015927;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;4;14.068;25.19;7.80;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:13:04.564861
+77015929;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;4;32.895;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015930;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;4;40.321;21.26;6.12;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015933;100300;Rebound;1150;Kris Humphries;3300;Washington Wizards;;;;;;;4;55.568;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015934;800302;3-;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;62.173;20.81;12.96;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015937;100200;Game stop;;;;;;;;;;;4;68.920;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015939;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;9364;Marcin Gortat;3300;Washington Wizards;;;4;95.279;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015941;100200;Game stop;;;;;;;;;;;4;95.279;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015942;300300;Technical foul;8421;Jared Dudley;3300;Washington Wizards;;;;;;;4;95.279;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015948;100200;Game stop;;;;;;;;;;;4;131.790;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015949;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;13688;PJ Hairston;2977;Charlotte Hornets;;;4;131.790;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015952;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;168.684;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015953;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;8421;Jared Dudley;4;186.684;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015954;800201;2+;8421;Jared Dudley;3300;Washington Wizards;;;;;9661;Gary Neal;4;186.684;22.28;7.59;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:13:04.564861
+77015957;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;202.101;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015958;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;8421;Jared Dudley;4;218.622;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015959;800301;3+;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;218.622;19.34;6.33;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015960;100200;Game stop;;;;;;;;;;;4;218.622;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015967;800302;3-;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;267.437;22.58;1.32;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:13:04.564861
+77015972;100300;Rebound;1150;Kris Humphries;3300;Washington Wizards;;;;;;;4;295.915;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015974;100200;Game stop;;;;;;;;;;;4;313.567;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015975;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;4;313.567;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015976;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;9661;Gary Neal;3300;Washington Wizards;;;4;346.539;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015982;100300;Rebound;1150;Kris Humphries;3300;Washington Wizards;;;;;;;4;364.966;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015983;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;376.063;26.84;7.56;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:13:04.564861
+77015986;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;4;396.468;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015987;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;415.257;27.20;7.65;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:13:04.564861
+77015990;100200;Game stop;;;;;;;;;;;4;426.098;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015991;300100;Foul;1150;Kris Humphries;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;4;426.098;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015993;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;1150;Kris Humphries;3300;Washington Wizards;;;4;473.726;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015995;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;477.185;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015996;400101;Accurate pass;8421;Jared Dudley;3300;Washington Wizards;;;;;9364;Marcin Gortat;4;490.185;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015997;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;4;490.185;26.57;8.88;;;;;;;;Cut;;Hook;;;;2017-12-07 11:13:04.564861
+77015999;100200;Game stop;;;;;;;;;;;4;535.544;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016001;1800600;Timeout;;;;;;;;;;;4;535.544;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016003;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;7769;Ramon Sessions;3300;Washington Wizards;;;4;563.719;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016004;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;563.719;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016005;800302;3-;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;563.719;22.10;1.95;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77016012;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;4;608.757;25.82;3.39;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77016015;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;4;618.895;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016016;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;4;628.372;22.67;6.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77016017;100200;Game stop;;;;;;;;;;;4;628.372;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016021;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;4;668.531;26.84;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77016025;100200;Game stop;;;;;;;;;;;4;676.599;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016026;1800600;Timeout;;;3300;Washington Wizards;;;;;;;4;676.599;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016027;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;4;697.249;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016028;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;697.249;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016029;400101;Accurate pass;8421;Jared Dudley;3300;Washington Wizards;;;;;7490;Garrett Temple;4;697.249;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016030;800201;2+;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;4;697.249;26.12;8.10;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 11:13:04.564861
+77016032;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;711.965;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016033;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;;;4;728.166;22.97;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77016036;800600;2F;7490;Garrett Temple;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;4;743.891;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:13:04.564861
+77016037;100200;Game stop;;;;;;;;;;;4;743.891;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016039;800101;1+;7490;Garrett Temple;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;4;771.539;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016040;800101;1+;7490;Garrett Temple;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;4;787.677;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016045;100200;Game stop;;;;;;;;;;;4;820.361;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016046;300100;Foul;7490;Garrett Temple;3300;Washington Wizards;2477;Nicolas Batum;2977;Charlotte Hornets;;;4;820.361;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016051;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;4;873.824;22.43;3.87;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77016053;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;4;889.793;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016054;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9364;Marcin Gortat;4;907.560;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016055;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;4;907.560;26.66;11.19;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:13:04.564861
+77016056;100200;Game stop;;;;;;;;;;;4;907.560;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016059;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;4;921.149;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016060;100200;Game stop;;;;;;;;;;;4;921.632;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016062;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;930.247;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016063;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;8421;Jared Dudley;4;949.247;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016064;200300;Pick'n'Roll;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;949.247;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016065;800201;2+;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;949.247;26.99;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:13:04.564861
+77016067;100200;Game stop;;;;;;;;;;;4;967.087;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016068;300100;Foul;9366;John Wall;3300;Washington Wizards;2483;Cody Zeller;2977;Charlotte Hornets;;;4;967.087;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016072;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1014.473;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016073;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;;;4;1034.573;18.59;8.19;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77016075;100200;Game stop;;;;;;;;;;;4;1046.104;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016077;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1095.586;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016078;800101;1+;8421;Jared Dudley;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;4;1099.086;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016079;100200;Game stop;;;;;;;;;;;4;1099.086;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016081;800101;1+;8421;Jared Dudley;3300;Washington Wizards;2480;Kemba Walker;2977;Charlotte Hornets;;;4;1109.630;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016084;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;9364;Marcin Gortat;3300;Washington Wizards;;;4;1130.622;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016091;800600;2F;9366;John Wall;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;1134.321;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016092;100200;Game stop;;;;;;;;;;;4;1134.321;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016094;800101;1+;9366;John Wall;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;1172.165;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016095;800101;1+;9366;John Wall;3300;Washington Wizards;2478;Jeremy Lin;2977;Charlotte Hornets;;;4;1185.553;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016098;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;4;1193.585;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016099;1800700;Match end;;;;;;;;;;;4;1206.285;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+93268225;100500;Turnover;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;2;385.698;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268226;100500;Turnover;7490;Garrett Temple;3300;Washington Wizards;;;;;;;4;820.361;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+103672293;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;1;174.699;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672297;200900;Assisting;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;204.253;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672299;200900;Assisting;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;237.315;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672305;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;333.481;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672307;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;9364;Marcin Gortat;1;418.085;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672311;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;457.599;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672315;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;1;585.851;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672317;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;9661;Gary Neal;1;650.361;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672319;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;1;680.430;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672323;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;725.337;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672327;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;7769;Ramon Sessions;1;785.902;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672331;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;841.399;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672335;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;935.367;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672343;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;69.608;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672345;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;8421;Jared Dudley;2;163.769;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672349;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9661;Gary Neal;2;207.680;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672353;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;2;263.824;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672359;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;450.916;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672363;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;2;484.219;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672367;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;2;620.818;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672371;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;649.814;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672373;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;722.840;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672375;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;752.611;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672377;200900;Assisting;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;2;821.174;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672381;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;855.674;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672385;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;8421;Jared Dudley;2;948.107;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672389;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;998.412;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672393;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;3;94.143;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672397;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;3;232.878;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672399;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;260.230;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672405;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;440.661;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672411;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;;;3;555.620;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672415;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;3;644.874;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672417;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;664.995;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672419;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9661;Gary Neal;3;773.694;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672423;200900;Assisting;1150;Kris Humphries;3300;Washington Wizards;;;;;9661;Gary Neal;3;891.376;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672425;200900;Assisting;1150;Kris Humphries;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1003.494;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672429;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1086.459;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672431;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1144.625;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672435;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;4;14.068;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672439;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9661;Gary Neal;4;186.684;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672441;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;218.622;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672449;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;4;490.185;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672459;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;4;697.249;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672463;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;;;4;743.891;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672469;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;873.824;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672471;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;4;907.560;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672473;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;949.247;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672479;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;1134.321;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+77015419;1601000;Starting lineup;2485;Tyler Hansbrough;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015420;1601000;Starting lineup;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015421;1601000;Starting lineup;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015422;1601000;Starting lineup;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015423;1601000;Starting lineup;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015424;1601000;Starting lineup;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015425;1601000;Starting lineup;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015426;1601000;Starting lineup;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015427;1601000;Starting lineup;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015428;1601000;Starting lineup;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015435;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015436;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015437;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015438;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015439;1600500;Guard;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015442;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;52.223;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015445;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;81.182;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015447;100500;Turnover;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;95.182;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015451;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;116.859;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015452;200600;Post;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;126.970;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015453;800600;2F;2477;Nicolas Batum;2977;Charlotte Hornets;7490;Garrett Temple;3300;Washington Wizards;;;1;126.970;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:13:04.564861
+77015456;800101;1+;2477;Nicolas Batum;2977;Charlotte Hornets;7490;Garrett Temple;3300;Washington Wizards;;;1;151.457;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015457;800101;1+;2477;Nicolas Batum;2977;Charlotte Hornets;7490;Garrett Temple;3300;Washington Wizards;;;1;165.861;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015460;800201;2+;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;188.789;27.20;7.50;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:13:04.564861
+77015465;100500;Turnover;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;217.465;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015469;800301;3+;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;1;261.979;21.80;2.40;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77015472;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;275.635;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015473;400101;Accurate pass;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2475;Marvin Williams;1;290.602;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015474;800301;3+;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;290.602;26.36;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015476;100300;Rebound;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;1;305.815;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015477;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;315.536;21.26;12.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015479;100400;Steal;2480;Kemba Walker;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;1;321.988;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015483;300100;Foul;2475;Marvin Williams;2977;Charlotte Hornets;7490;Garrett Temple;3300;Washington Wizards;;;1;333.481;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015485;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;362.530;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015486;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;362.530;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015487;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;374.940;21.83;1.89;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015491;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;1;383.936;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015492;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;392.344;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015493;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;406.344;23.90;3.51;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77015497;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;13688;PJ Hairston;1;437.980;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:13:04.564861
+77015498;800201;2+;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;437.980;27.08;7.80;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:13:04.564861
+77015500;800202;2-;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;484.627;26.42;5.79;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:13:04.564861
+77015501;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;1;484.627;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015502;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;488.184;19.43;7.65;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:13:04.564861
+77015505;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;501.294;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015506;800600;2F;2480;Kemba Walker;2977;Charlotte Hornets;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;508.502;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:13:04.564861
+77015511;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;526.704;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015512;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;541.157;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015515;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;560.045;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015518;200300;Pick'n'Roll;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;617.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015519;800202;2-;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;617.359;26.42;8.10;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:13:04.564861
+77015520;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;617.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015521;800202;2-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;617.359;26.66;7.95;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:13:04.564861
+77015522;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;617.359;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015523;800202;2-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;617.359;27.23;7.80;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:13:04.564861
+77015526;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;627.073;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015527;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;639.862;21.35;1.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015531;800302;3-;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;671.912;20.09;12.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015534;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;698.892;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015535;200300;Pick'n'Roll;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;698.892;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015536;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;698.892;23.90;7.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015537;100400;Steal;2480;Kemba Walker;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;1;703.011;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015538;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;1;713.435;22.10;13.44;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015542;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;9364;Marcin Gortat;3300;Washington Wizards;;;1;725.337;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015543;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;1;725.337;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015546;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;13688;PJ Hairston;2977;Charlotte Hornets;;;1;741.923;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015547;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;1;741.923;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015548;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;2483;Cody Zeller;2977;Charlotte Hornets;;;1;741.923;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015549;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;2477;Nicolas Batum;2977;Charlotte Hornets;;;1;741.923;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015552;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;757.212;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015553;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;771.212;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015554;800301;3+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;1;771.212;25.49;0.66;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015557;400101;Accurate pass;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;1;804.211;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015558;800301;3+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;1;804.211;20.63;12.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015560;300100;Foul;2473;Spencer Hawes;2977;Charlotte Hornets;9364;Marcin Gortat;3300;Washington Wizards;;;1;814.980;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015563;400101;Accurate pass;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;1;858.582;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015564;800301;3+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;1;858.582;25.67;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015566;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;1;896.830;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015568;100500;Turnover;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;910.004;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015572;300100;Foul;2476;Jeremy Lamb;2977;Charlotte Hornets;7490;Garrett Temple;3300;Washington Wizards;;;1;935.367;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015576;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;982.820;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015577;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2484;Frank Kaminsky;1;1001.020;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015578;800201;2+;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;1;1001.020;27.05;7.74;;;;;;;;Cut;;;;;;2017-12-07 11:13:04.564861
+77015580;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;1012.742;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015583;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;1;1047.873;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015584;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;1053.473;22.73;11.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015593;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015594;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015595;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015596;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015597;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015598;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015599;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;2;19.626;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015600;200300;Pick'n'Roll;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;19.626;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015601;800201;2+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;19.626;24.50;7.02;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:13:04.564861
+77015605;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;53.473;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015606;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;61.730;25.19;9.57;;;;;;;;Transition;;Floater;;;;2017-12-07 11:13:04.564861
+77015609;300100;Foul;2476;Jeremy Lamb;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;2;69.608;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015612;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;109.419;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015614;100500;Turnover;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;122.419;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015617;100300;Rebound;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;145.377;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015618;800202;2-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;158.400;25.82;7.05;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:13:04.564861
+77015623;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;2;171.666;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015624;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;179.611;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015625;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;2;187.611;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015626;200300;Pick'n'Roll;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;187.611;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:13:04.564861
+77015627;800301;3+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;187.611;19.19;5.58;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:13:04.564861
+77015630;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;227.752;21.95;11.22;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:13:04.564861
+77015631;100300;Rebound;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;227.752;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015632;800201;2+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;227.752;27.08;7.74;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:13:04.564861
+77015633;100400;Steal;2475;Marvin Williams;2977;Charlotte Hornets;9661;Gary Neal;3300;Washington Wizards;;;2;251.697;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015639;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;295.549;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015640;800302;3-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;311.055;26.84;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015643;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;319.170;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015644;800202;2-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;337.390;21.11;7.50;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:13:04.564861
+77015645;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;337.390;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015646;800302;3-;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;343.677;26.57;14.91;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:13:04.564861
+77015647;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;343.677;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015648;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;343.677;27.08;8.22;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77015650;300100;Foul;2476;Jeremy Lamb;2977;Charlotte Hornets;7769;Ramon Sessions;3300;Washington Wizards;;;2;357.310;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015651;1600500;Guard;13688;PJ Hairston;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;2;385.698;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015654;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;2476;Jeremy Lamb;2977;Charlotte Hornets;;;2;385.698;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015658;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;402.941;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015659;800202;2-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;418.941;27.20;8.34;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77015660;100300;Rebound;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;2;418.941;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015661;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;424.072;26.06;15.00;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015662;100300;Rebound;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;2;424.072;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015663;400101;Accurate pass;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;2;426.333;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015664;800201;2+;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;13688;PJ Hairston;2;426.333;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:13:04.564861
+77015667;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;2473;Spencer Hawes;2977;Charlotte Hornets;;;2;450.916;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015670;400101;Accurate pass;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;469.738;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015671;200300;Pick'n'Roll;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;469.738;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015672;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2484;Frank Kaminsky;2;469.738;25.49;7.17;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:13:04.564861
+77015676;100500;Turnover;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;500.823;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015680;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;529.301;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015681;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;543.917;22.25;6.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015684;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;569.435;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015687;300100;Foul;13688;PJ Hairston;2977;Charlotte Hornets;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;2;594.468;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015693;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;642.511;27.23;7.59;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:13:04.564861
+77015695;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;663.647;24.29;7.83;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015698;100300;Rebound;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;2;669.117;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015700;1600500;Guard;2485;Tyler Hansbrough;2977;Charlotte Hornets;2483;Cody Zeller;2977;Charlotte Hornets;;;2;710.668;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015701;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;2484;Frank Kaminsky;2977;Charlotte Hornets;;;2;710.668;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015702;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;710.668;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015703;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;710.668;20.09;3.39;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015707;800202;2-;2485;Tyler Hansbrough;2977;Charlotte Hornets;;;;;;;2;742.926;25.82;6.78;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015714;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;13688;PJ Hairston;2977;Charlotte Hornets;;;2;796.824;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015715;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;796.824;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015717;100500;Turnover;2485;Tyler Hansbrough;2977;Charlotte Hornets;;;;;;;2;796.824;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015721;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2475;Marvin Williams;2;846.478;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015722;800201;2+;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;846.478;26.99;8.73;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:13:04.564861
+77015725;300100;Foul;2485;Tyler Hansbrough;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;2;855.674;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015729;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;2;900.277;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015730;400101;Accurate pass;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;921.277;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015731;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;921.277;24.29;13.23;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77015733;100300;Rebound;2485;Tyler Hansbrough;2977;Charlotte Hornets;;;;;;;2;934.762;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015740;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;2;970.827;22.58;1.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015741;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;2;970.827;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015742;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;985.556;23.03;5.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015752;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015753;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015754;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015755;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015756;1600500;Guard;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015760;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;45.220;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015761;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;13688;PJ Hairston;3;60.220;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015762;800301;3+;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;60.220;19.34;7.68;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015763;100400;Steal;2477;Nicolas Batum;2977;Charlotte Hornets;9364;Marcin Gortat;3300;Washington Wizards;;;3;82.353;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015767;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;112.909;26.57;8.97;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:13:04.564861
+77015771;100300;Rebound;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;3;126.041;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015772;800202;2-;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;3;137.603;26.42;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015773;100300;Rebound;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;3;137.603;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015774;400101;Accurate pass;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;141.671;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015775;800301;3+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2475;Marvin Williams;3;141.671;21.56;12.69;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015777;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;150.493;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015778;800202;2-;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;172.294;24.29;4.95;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015779;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;172.294;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015780;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;179.920;22.13;13.29;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:13:04.564861
+77015783;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;13688;PJ Hairston;2977;Charlotte Hornets;;;3;232.878;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015786;800202;2-;2483;Cody Zeller;2977;Charlotte Hornets;9368;Kelly Oubre Jr.;3300;Washington Wizards;2480;Kemba Walker;3;254.525;26.99;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77015789;800302;3-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;272.581;20.66;3.24;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015793;100400;Steal;2483;Cody Zeller;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;3;285.342;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015794;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2483;Cody Zeller;3;291.991;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015795;800201;2+;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;291.991;27.08;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015796;100400;Steal;2477;Nicolas Batum;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;3;311.007;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015799;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;363.498;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015800;800600;2F;2477;Nicolas Batum;2977;Charlotte Hornets;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;3;366.498;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:13:04.564861
+77015803;800102;1-;2477;Nicolas Batum;2977;Charlotte Hornets;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;3;391.662;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015804;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;3;391.662;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015806;800101;1+;2477;Nicolas Batum;2977;Charlotte Hornets;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;3;406.025;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015809;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;9364;Marcin Gortat;3300;Washington Wizards;;;3;418.507;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015814;300100;Foul;2483;Cody Zeller;2977;Charlotte Hornets;9364;Marcin Gortat;3300;Washington Wizards;;;3;440.661;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015817;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;479.946;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015818;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;3;498.946;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015819;800301;3+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;498.946;19.88;3.87;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:13:04.564861
+77015821;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;521.192;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015822;800201;2+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;530.319;26.84;2.55;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77015828;300100;Foul;2478;Jeremy Lin;2977;Charlotte Hornets;9661;Gary Neal;3300;Washington Wizards;;;3;555.620;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015831;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;599.657;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015832;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;3;616.657;19.34;7.05;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015834;100400;Steal;2477;Nicolas Batum;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;3;623.109;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015835;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2475;Marvin Williams;3;628.350;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015836;800201;2+;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;628.350;27.38;7.74;;;;;;;;Transition;;;;;;2017-12-07 11:13:04.564861
+77015842;300100;Foul;2475;Marvin Williams;2977;Charlotte Hornets;7490;Garrett Temple;3300;Washington Wizards;;;3;664.995;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015845;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;2475;Marvin Williams;2977;Charlotte Hornets;;;3;708.854;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015847;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;712.233;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015848;800202;2-;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;3;735.233;23.03;3.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015852;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;754.664;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015856;800302;3-;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;3;800.927;20.21;12.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015860;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;818.035;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015861;800600;2F;2484;Frank Kaminsky;2977;Charlotte Hornets;8421;Jared Dudley;3300;Washington Wizards;;;3;826.089;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:13:04.564861
+77015864;800102;1-;2484;Frank Kaminsky;2977;Charlotte Hornets;8421;Jared Dudley;3300;Washington Wizards;;;3;852.079;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015865;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;3;852.079;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015866;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;2483;Cody Zeller;2977;Charlotte Hornets;;;3;867.662;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015869;800101;1+;2484;Frank Kaminsky;2977;Charlotte Hornets;8421;Jared Dudley;3300;Washington Wizards;;;3;867.662;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015876;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;3;908.086;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015877;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;920.488;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015878;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;3;935.488;21.26;12.84;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015881;100300;Rebound;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;3;953.281;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015883;100500;Turnover;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;969.226;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015889;300100;Foul;2484;Frank Kaminsky;2977;Charlotte Hornets;1150;Kris Humphries;3300;Washington Wizards;;;3;1003.494;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015890;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;2477;Nicolas Batum;2977;Charlotte Hornets;;;3;1032.988;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015892;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;1047.355;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015893;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2476;Jeremy Lamb;3;1070.355;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015894;800201;2+;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;3;1070.355;24.20;7.26;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:13:04.564861
+77015897;300100;Foul;2484;Frank Kaminsky;2977;Charlotte Hornets;7769;Ramon Sessions;3300;Washington Wizards;;;3;1086.459;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015900;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;1117.943;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015901;800302;3-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;1133.043;22.25;1.65;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015905;400101;Accurate pass;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2484;Frank Kaminsky;3;1165.905;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015906;800301;3+;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;1165.905;27.50;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015909;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;3;1204.079;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015910;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;9364;Marcin Gortat;3300;Washington Wizards;;;3;1205.779;27.23;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015911;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;3;1205.779;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015919;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015920;1600500;Guard;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015921;1600500;Guard;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015922;1600500;Guard;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015923;1600500;Guard;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015928;800302;3-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;32.895;20.90;2.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015931;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;40.321;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015932;800202;2-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;55.568;26.66;4.02;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:13:04.564861
+77015935;100300;Rebound;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;62.173;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015936;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;68.920;26.81;6.78;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77015938;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;4;68.920;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015940;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;95.279;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015943;800101;1+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;112.186;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015944;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;124.790;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015945;800302;3-;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;4;131.790;21.26;2.40;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77015946;100300;Rebound;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;4;131.790;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015947;800600;2F;13688;PJ Hairston;2977;Charlotte Hornets;8421;Jared Dudley;3300;Washington Wizards;;;4;131.790;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77015950;800101;1+;13688;PJ Hairston;2977;Charlotte Hornets;8421;Jared Dudley;3300;Washington Wizards;;;4;152.132;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015951;800101;1+;13688;PJ Hairston;2977;Charlotte Hornets;8421;Jared Dudley;3300;Washington Wizards;;;4;165.898;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015955;200300;Pick'n'Roll;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;4;202.101;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015956;800202;2-;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;4;202.101;27.08;8.22;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:13:04.564861
+77015961;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;218.622;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015962;1600500;Guard;2475;Marvin Williams;2977;Charlotte Hornets;13688;PJ Hairston;2977;Charlotte Hornets;;;4;241.150;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015963;1600500;Guard;2477;Nicolas Batum;2977;Charlotte Hornets;2484;Frank Kaminsky;2977;Charlotte Hornets;;;4;241.150;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015964;1600500;Guard;2480;Kemba Walker;2977;Charlotte Hornets;2476;Jeremy Lamb;2977;Charlotte Hornets;;;4;241.150;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015965;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;241.150;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015966;800201;2+;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;241.150;26.96;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:13:04.564861
+77015968;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;267.437;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015969;800202;2-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;286.989;24.50;12.84;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77015970;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;286.989;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015971;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;295.915;26.99;12.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015973;100400;Steal;2480;Kemba Walker;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;4;310.402;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015977;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;346.539;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77015978;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2480;Kemba Walker;4;346.539;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015979;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;4;346.539;26.57;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:13:04.564861
+77015980;100300;Rebound;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;357.568;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015981;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;364.966;26.06;7.95;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:13:04.564861
+77015984;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;376.063;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015985;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;396.468;20.63;11.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:13:04.564861
+77015988;100300;Rebound;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;4;415.257;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015989;800600;2F;2480;Kemba Walker;2977;Charlotte Hornets;1150;Kris Humphries;3300;Washington Wizards;;;4;426.098;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:13:04.564861
+77015992;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;1150;Kris Humphries;3300;Washington Wizards;;;4;455.758;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015994;800101;1+;2480;Kemba Walker;2977;Charlotte Hornets;1150;Kris Humphries;3300;Washington Wizards;;;4;473.726;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77015998;800201;2+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;517.861;21.56;7.20;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:13:04.564861
+77016000;300100;Foul;2480;Kemba Walker;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;4;535.544;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016002;1600500;Guard;2483;Cody Zeller;2977;Charlotte Hornets;2473;Spencer Hawes;2977;Charlotte Hornets;;;4;563.719;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016006;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;563.719;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016007;800302;3-;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;584.557;19.49;10.20;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77016008;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;584.557;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016009;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;584.557;26.72;8.13;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:13:04.564861
+77016010;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;584.557;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016011;800201;2+;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;584.557;27.38;7.89;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:13:04.564861
+77016013;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;608.757;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016014;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;618.895;24.50;12.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77016018;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;4;628.372;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016019;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;639.404;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016020;800201;2+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;650.404;26.84;7.35;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:13:04.564861
+77016022;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;668.531;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016023;400101;Accurate pass;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2480;Kemba Walker;4;676.599;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016024;800201;2+;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;4;676.599;26.96;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+77016031;800202;2-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;711.965;22.88;10.29;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:13:04.564861
+77016034;100300;Rebound;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;728.166;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016035;800201;2+;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;737.413;26.96;7.65;;;;;;;;;;Lay up;;;;2017-12-07 11:13:04.564861
+77016038;300100;Foul;2480;Kemba Walker;2977;Charlotte Hornets;7490;Garrett Temple;3300;Washington Wizards;;;4;743.891;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016041;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;791.411;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016042;800202;2-;2480;Kemba Walker;2977;Charlotte Hornets;9364;Marcin Gortat;3300;Washington Wizards;;;4;812.411;27.20;8.19;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:13:04.564861
+77016043;100300;Rebound;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;812.411;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016044;800201;2+;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;812.411;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:13:04.564861
+77016047;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;839.561;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016048;400101;Accurate pass;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2483;Cody Zeller;4;856.561;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016049;200300;Pick'n'Roll;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;4;856.561;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016050;800201;2+;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;4;856.561;26.81;9.06;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:13:04.564861
+77016052;800302;3-;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;889.793;20.03;4.71;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:13:04.564861
+77016057;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;907.560;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016058;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;917.149;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016061;300100;Foul;2477;Nicolas Batum;2977;Charlotte Hornets;7490;Garrett Temple;3300;Washington Wizards;;;4;921.632;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016066;800600;2F;2483;Cody Zeller;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;4;967.087;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:13:04.564861
+77016069;800102;1-;2483;Cody Zeller;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;4;997.401;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016070;100300;Rebound;;;2977;Charlotte Hornets;;;;;;;4;997.401;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016071;800101;1+;2483;Cody Zeller;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;4;1010.051;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016074;100300;Rebound;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;1034.573;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016076;100500;Turnover;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;1046.104;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016080;300100;Foul;2480;Kemba Walker;2977;Charlotte Hornets;8421;Jared Dudley;3300;Washington Wizards;;;4;1099.086;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016082;1800600;Timeout;;;2977;Charlotte Hornets;;;;;;;4;1109.630;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016083;1600500;Guard;2473;Spencer Hawes;2977;Charlotte Hornets;2483;Cody Zeller;2977;Charlotte Hornets;;;4;1130.622;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016085;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;1130.622;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016086;800202;2-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;1130.622;27.38;7.35;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:13:04.564861
+77016087;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;1130.622;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016088;800202;2-;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;1130.622;27.77;7.98;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:13:04.564861
+77016089;100300;Rebound;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;1130.622;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016090;800201;2+;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;1130.622;27.53;7.65;;;;;;;;Putbacks;;;;;;2017-12-07 11:13:04.564861
+77016093;300100;Foul;2478;Jeremy Lin;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;4;1134.321;;;;;;;;;;;;;;;;2017-12-07 11:13:04.564861
+77016096;100100;Ball in play;;;2977;Charlotte Hornets;;;;;;;4;1189.285;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+77016097;800202;2-;2478;Jeremy Lin;2977;Charlotte Hornets;9366;John Wall;3300;Washington Wizards;;;4;1193.585;27.08;7.65;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:13:04.564861
+103672291;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;1;126.970;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672295;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;188.789;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672301;200900;Assisting;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;1;261.979;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672303;200900;Assisting;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2480;Kemba Walker;1;290.602;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672309;200900;Assisting;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;437.980;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672313;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;1;508.502;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672321;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;1;698.892;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672325;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;1;771.212;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672329;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;1;804.211;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672333;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2473;Spencer Hawes;1;858.582;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672337;200900;Assisting;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;1;1001.020;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672339;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;19.626;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672341;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;61.730;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672347;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;187.611;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672351;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;;;2;227.752;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672355;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;;;2;343.677;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672357;200900;Assisting;2473;Spencer Hawes;2977;Charlotte Hornets;;;;;13688;PJ Hairston;2;426.333;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672361;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2484;Frank Kaminsky;2;469.738;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672365;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;543.917;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672369;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;2;642.511;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672379;200900;Assisting;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;2;846.478;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672383;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2480;Kemba Walker;2;921.277;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672387;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;2;985.556;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672391;200900;Assisting;13688;PJ Hairston;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;60.220;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672395;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;2475;Marvin Williams;3;141.671;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672401;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;291.991;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672403;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;366.498;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672407;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;498.946;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672409;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;3;530.319;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672413;200900;Assisting;2475;Marvin Williams;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;3;628.350;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672421;200900;Assisting;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;;;3;826.089;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672427;200900;Assisting;2476;Jeremy Lamb;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;3;1070.355;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672433;200900;Assisting;2484;Frank Kaminsky;2977;Charlotte Hornets;;;;;2480;Kemba Walker;3;1165.905;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672437;200900;Assisting;13688;PJ Hairston;2977;Charlotte Hornets;;;;;;;4;131.790;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672443;200900;Assisting;2478;Jeremy Lin;2977;Charlotte Hornets;;;;;;;4;241.150;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672445;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;4;346.539;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672447;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;;;4;426.098;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672451;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;517.861;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672453;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;584.557;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672455;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;650.404;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672457;200900;Assisting;2480;Kemba Walker;2977;Charlotte Hornets;;;;;2478;Jeremy Lin;4;676.599;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672461;200900;Assisting;2477;Nicolas Batum;2977;Charlotte Hornets;;;;;;;4;737.413;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672465;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;812.411;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672467;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;2477;Nicolas Batum;4;856.561;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672475;200900;Assisting;2483;Cody Zeller;2977;Charlotte Hornets;;;;;;;4;967.087;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854
+103672477;200900;Assisting;2475;Marvin Williams;2977;Charlotte Hornets;;;;;;;4;1130.622;;;;;;;;;;;;;;;;2018-04-19 11:20:04.683854

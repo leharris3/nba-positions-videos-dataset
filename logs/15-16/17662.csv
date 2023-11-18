@@ -1,0 +1,751 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77098446;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098463;100200;Game stop;;;;;;;;;;;1;87.716;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098467;100200;Game stop;;;;;;;;;;;1;104.632;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098486;100200;Game stop;;;;;;;;;;;1;196.640;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098492;100200;Game stop;;;;;;;;;;;1;250.670;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098510;100200;Game stop;;;;;;;;;;;1;357.303;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098522;100200;Game stop;;;;;;;;;;;1;444.602;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098527;100200;Game stop;;;;;;;;;;;1;501.972;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098532;100200;Game stop;;;;;;;;;;;1;533.457;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098536;100200;Game stop;;;;;;;;;;;1;568.248;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098543;100200;Game stop;;;;;;;;;;;1;627.281;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098552;100200;Game stop;;;;;;;;;;;1;708.069;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098559;100200;Game stop;;;;;;;;;;;1;750.135;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098568;100200;Game stop;;;;;;;;;;;1;819.354;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098585;100200;Game stop;;;;;;;;;;;1;950.338;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098592;100200;Game stop;;;;;;;;;;;1;996.981;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098611;100200;Game stop;;;;;;;;;;;1;1114.865;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098621;100200;Game stop;;;;;;;;;;;1;1174.837;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098635;1800500;Halftime;;;;;;;;;;;1;1263.292;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098636;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098655;100200;Game stop;;;;;;;;;;;2;57.493;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098660;100200;Game stop;;;;;;;;;;;2;90.261;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098686;100200;Game stop;;;;;;;;;;;2;238.833;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098700;100200;Game stop;;;;;;;;;;;2;322.276;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098705;100200;Game stop;;;;;;;;;;;2;343.884;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098717;100200;Game stop;;;;;;;;;;;2;449.108;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098729;100200;Game stop;;;;;;;;;;;2;570.007;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098731;1800600;Timeout;;;;;;;;;;;2;570.007;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098738;100200;Game stop;;;;;;;;;;;2;612.188;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098748;100200;Game stop;;;;;;;;;;;2;680.049;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098764;100200;Game stop;;;;;;;;;;;2;834.613;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098775;100200;Game stop;;;;;;;;;;;2;935.091;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098796;100200;Game stop;;;;;;;;;;;2;1053.280;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098800;100200;Game stop;;;;;;;;;;;2;1103.682;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098804;100200;Game stop;;;;;;;;;;;2;1136.078;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098809;100200;Game stop;;;;;;;;;;;2;1227.100;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098813;100200;Game stop;;;;;;;;;;;2;1271.891;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098825;1800500;Halftime;;;;;;;;;;;2;1352.998;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098826;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098847;100200;Game stop;;;;;;;;;;;3;73.385;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098874;100200;Game stop;;;;;;;;;;;3;288.231;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098895;100200;Game stop;;;;;;;;;;;3;388.540;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098906;100200;Game stop;;;;;;;;;;;3;502.191;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098916;100200;Game stop;;;;;;;;;;;3;588.820;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098919;100200;Game stop;;;;;;;;;;;3;622.271;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098923;100200;Game stop;;;;;;;;;;;3;644.547;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098932;100200;Game stop;;;;;;;;;;;3;706.406;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098943;100200;Game stop;;;;;;;;;;;3;774.295;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098949;100200;Game stop;;;;;;;;;;;3;812.416;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098954;100200;Game stop;;;;;;;;;;;3;866.050;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098962;100200;Game stop;;;;;;;;;;;3;910.446;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098971;100200;Game stop;;;;;;;;;;;3;993.392;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098985;1800500;Halftime;;;;;;;;;;;3;1094.750;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098986;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099009;100200;Game stop;;;;;;;;;;;4;85.295;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099020;100200;Game stop;;;;;;;;;;;4;179.766;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099025;100200;Game stop;;;;;;;;;;;4;219.184;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099032;100200;Game stop;;;;;;;;;;;4;334.030;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099033;1800600;Timeout;;;;;;;;;;;4;334.030;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099037;100200;Game stop;;;;;;;;;;;4;371.102;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099048;100200;Game stop;;;;;;;;;;;4;493.477;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099055;100200;Game stop;;;;;;;;;;;4;572.879;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099065;100200;Game stop;;;;;;;;;;;4;669.219;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099073;100200;Game stop;;;;;;;;;;;4;739.200;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099081;100200;Game stop;;;;;;;;;;;4;799.276;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099088;100200;Game stop;;;;;;;;;;;4;874.481;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099093;1800700;Match end;;;;;;;;;;;4;896.663;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098426;1601000;Starting lineup;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098427;1601000;Starting lineup;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098428;1601000;Starting lineup;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098429;1601000;Starting lineup;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098430;1601000;Starting lineup;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098431;1601000;Starting lineup;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098432;1601000;Starting lineup;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098433;1601000;Starting lineup;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098434;1601000;Starting lineup;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098435;1601000;Starting lineup;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098436;1601000;Starting lineup;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098437;1601000;Starting lineup;7101;Jared Cunningham;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098438;1601000;Starting lineup;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098439;1601000;Starting lineup;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098440;1601000;Starting lineup;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098441;1601000;Starting lineup;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098442;1601000;Starting lineup;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77098443;1601000;Starting lineup;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098444;1601000;Starting lineup;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098445;1601000;Starting lineup;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098447;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098448;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098449;1600500;Guard;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098450;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098451;1600500;Guard;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098452;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098453;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098454;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098455;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098456;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77098457;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;43.321;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098458;800202;2-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;61.321;27.23;6.87;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:51:02.554038
+77098459;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;61.321;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098460;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;75.767;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098461;200300;Pick'n'Roll;1;LeBron James;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;75.767;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098462;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1;LeBron James;1;75.767;26.27;8.91;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:51:02.554038
+77098464;100500;Turnover;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;87.716;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098465;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;91.632;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098466;800301;3+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;104.632;21.41;12.84;;;;;;;;;;Jumper;;;;2017-12-07 11:51:02.554038
+77098468;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;1;104.632;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098469;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;114.562;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098470;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;126.562;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098471;200300;Pick'n'Roll;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;126.562;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098472;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;126.562;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:51:02.554038
+77098473;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;1;148.723;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098474;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;148.723;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098475;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;148.723;27.50;5.01;;;;;;;;Post;;Jumper;;;;2017-12-07 11:51:02.554038
+77098476;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;158.709;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098477;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;158.709;26.96;8.22;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:51:02.554038
+77098478;200300;Pick'n'Roll;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;174.813;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:51:02.554038
+77098479;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;174.813;20.75;12.12;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:51:02.554038
+77098480;100300;Rebound;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;1;174.813;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098481;200600;Post;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;184.527;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098482;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;184.527;27.38;11.91;;;;;;;;Post;;Jumper;;;;2017-12-07 11:51:02.554038
+77098483;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;184.527;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098484;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;196.640;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098485;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;1;196.640;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:51:02.554038
+77098487;300100;Foul;6394;Jahlil Okafor;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;196.640;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098488;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;1;217.998;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098489;800102;1-;3;Tristan Thompson;1;Cleveland Cavaliers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;1;233.763;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098490;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;233.763;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098491;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;233.763;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098493;300300;Technical foul;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;250.670;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098494;800101;1+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;260.175;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098495;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;270.526;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098496;800302;3-;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;1;279.526;22.82;1.26;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098497;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;279.526;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098498;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;287.197;20.96;8.76;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098499;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;287.197;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098500;800201;2+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;301.496;24.44;6.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098501;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;320.216;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098502;800201;2+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;320.216;26.81;7.62;;;;;;;;Cut;;;;;;2018-04-20 13:44:36.355048
+77098503;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;331.885;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098504;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;1890;Kyrie Irving;1;Cleveland Cavaliers;8590;Ishmael Smith;1;331.885;26.84;8.19;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:51:02.554038
+77098505;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;331.885;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098506;400101;Accurate pass;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;337.371;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098507;800201;2+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;337.371;24.29;6.81;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:51:02.554038
+77098508;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;346.834;21.56;13.44;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098509;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;346.834;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098511;100500;Turnover;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;357.303;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098512;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;368.897;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098513;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;382.897;19.64;9.21;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+77098514;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;382.897;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098515;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;1;395.704;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098516;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;395.704;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098517;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;395.704;24.95;6.48;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:51:02.554038
+77098518;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;412.274;22.82;4.71;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098519;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;412.274;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098520;800202;2-;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;427.322;22.13;7.65;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:51:02.554038
+77098521;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;427.322;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098523;300100;Foul;1889;Kevin Love;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;1;444.602;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098524;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;467.726;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098525;400101;Accurate pass;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;1;485.726;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:51:02.554038
+77098526;800201;2+;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;485.726;26.99;7.44;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:51:02.554038
+77098528;300100;Foul;7466;Jerami Grant;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;501.972;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098529;1600500;Guard;6393;Carl Landry;3224;Philadelphia 76ers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;533.457;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098530;1600500;Guard;6399;Hollis Thompson;3224;Philadelphia 76ers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;1;533.457;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098531;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;533.457;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098533;300300;Technical foul;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;533.457;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098534;800101;1+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;543.680;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098535;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;558.248;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098537;300100;Foul;6394;Jahlil Okafor;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;568.248;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098538;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;1;604.488;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098539;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;604.488;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098540;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;604.488;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098541;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;604.488;26.72;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77098542;100400;Steal;1;LeBron James;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;1;617.562;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098544;300100;Foul;6393;Carl Landry;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;627.281;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098545;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;1;666.851;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098546;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;7466;Jerami Grant;3224;Philadelphia 76ers;;;1;666.851;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098547;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;666.851;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098548;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;1;666.851;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098549;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;666.851;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:51:02.554038
+77098550;800201;2+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;693.536;25.82;2.25;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:51:02.554038
+77098551;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;708.069;26.21;2.01;;;;;;;;Isolation;;Jumper;Drives Right;;;2018-04-20 13:44:36.355048
+77098553;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;1;708.069;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098554;1600500;Guard;6397;T.J. McConnell;3224;Philadelphia 76ers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;1;742.390;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098555;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;742.390;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098556;800302;3-;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;742.390;24.59;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098557;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;742.390;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098558;800600;2F;1;LeBron James;1;Cleveland Cavaliers;6399;Hollis Thompson;3224;Philadelphia 76ers;;;1;750.135;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:51:02.554038
+77098560;300100;Foul;6399;Hollis Thompson;3224;Philadelphia 76ers;1;LeBron James;1;Cleveland Cavaliers;;;1;750.135;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098561;800102;1-;1;LeBron James;1;Cleveland Cavaliers;6399;Hollis Thompson;3224;Philadelphia 76ers;;;1;774.093;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098562;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;1;774.093;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098563;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;791.219;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098564;800101;1+;1;LeBron James;1;Cleveland Cavaliers;6399;Hollis Thompson;3224;Philadelphia 76ers;;;1;791.219;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098565;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;793.617;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098566;800201;2+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;808.617;26.27;6.09;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098567;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;1;819.354;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098569;300100;Foul;6393;Carl Landry;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;819.354;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098570;800102;1-;1889;Kevin Love;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;1;850.452;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098571;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;1;850.452;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098572;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;6393;Carl Landry;3224;Philadelphia 76ers;;;1;877.653;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098573;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;1;877.653;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098574;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;879.210;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098575;400101;Accurate pass;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;1;891.210;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098576;200300;Pick'n'Roll;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;1;891.210;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098577;800201;2+;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;891.210;25.82;2.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098578;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;908.623;26.66;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:51:02.554038
+77098579;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;908.623;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098580;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;908.623;26.96;7.32;;;;;;;;Putbacks;;;;;;2017-12-07 11:51:02.554038
+77098581;800302;3-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;937.316;20.51;11.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098582;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;937.316;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098583;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;6399;Hollis Thompson;3224;Philadelphia 76ers;;;1;945.497;26.42;8.88;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:51:02.554038
+77098584;100300;Rebound;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;945.497;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098586;100500;Turnover;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;950.338;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098587;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;1;950.338;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098588;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;1;989.604;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098589;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;989.604;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098590;800202;2-;4;Iman Shumpert;1;Cleveland Cavaliers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;989.604;24.05;6.87;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:51:02.554038
+77098591;100300;Rebound;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;1;989.604;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098593;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;1;996.981;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098594;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;1023.494;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098595;800202;2-;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;1;1038.494;24.74;3.24;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:51:02.554038
+77098596;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;1038.494;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098597;800202;2-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;1051.006;24.80;7.50;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098598;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;1051.006;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098599;100400;Steal;1889;Kevin Love;1;Cleveland Cavaliers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;1;1067.726;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098600;100400;Steal;6395;JaKarr Sampson;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;1063.921;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098601;800202;2-;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;1067.937;22.58;8.67;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:51:02.554038
+77098602;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;1067.937;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098603;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;1076.198;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098604;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;1076.198;23.03;0.87;;;;;;;;Transition;;Jumper;;;;2018-04-20 13:44:36.355048
+77098605;800302;3-;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;1;1088.862;20.36;12.75;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098606;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;1088.862;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098607;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;1096.558;21.35;13.38;;;;;;;;Hand offs;;Jumper;;;;2018-04-20 13:44:36.355048
+77098608;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;1096.558;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098609;100400;Steal;5;Matthew William Dellavedova;1;Cleveland Cavaliers;6400;Robert Covington;3224;Philadelphia 76ers;;;1;1104.608;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098610;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;1114.865;20.75;12.90;;;;;;;;Transition;;Jumper;;;;2018-04-20 13:44:36.355048
+77098612;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;1;1114.865;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098613;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;1;1114.865;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098614;300100;Foul;6395;JaKarr Sampson;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;1114.865;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098615;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;1;1145.303;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098616;800102;1-;1889;Kevin Love;1;Cleveland Cavaliers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;1;1163.191;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098617;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;1;1163.191;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098618;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;1163.191;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098619;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;1;1163.191;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098620;800600;2F;6391;Nerlens Noel;3224;Philadelphia 76ers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;1174.837;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:51:02.554038
+77098622;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;1174.837;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098623;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;1196.867;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098624;800101;1+;6391;Nerlens Noel;3224;Philadelphia 76ers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;1196.867;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098625;800102;1-;6391;Nerlens Noel;3224;Philadelphia 76ers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;1217.419;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098626;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;1217.419;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098627;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;1217.419;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098628;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;1227.902;26.96;6.81;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:51:02.554038
+77098629;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;1227.902;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098630;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;1227.902;26.72;7.68;;;;;;;;Putbacks;;;;;;2017-12-07 11:51:02.554038
+77098631;800302;3-;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;1;1240.485;27.38;0.57;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:51:02.554038
+77098632;100300;Rebound;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;1;1240.485;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098633;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;1263.292;19.58;10.35;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:51:02.554038
+77098634;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;1;1263.292;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098637;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098638;1600500;Guard;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098639;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098640;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098641;1600500;Guard;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098642;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098643;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098644;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098645;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098646;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098647;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;4.532;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098648;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;21.532;24.14;11.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098649;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;21.532;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098650;200600;Post;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;32.294;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098651;800202;2-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;32.294;25.82;7.20;;;;;;;;Post;;Jumper;;;;2017-12-07 11:51:02.554038
+77098652;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;32.294;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098653;800302;3-;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;2;42.358;26.57;14.58;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:51:02.554038
+77098654;100300;Rebound;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;2;42.358;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098656;100500;Turnover;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;57.493;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098657;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;65.520;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098658;800301;3+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;77.520;19.04;10.29;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098659;800600;2F;7466;Jerami Grant;3224;Philadelphia 76ers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;90.261;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:51:02.554038
+77098661;300100;Foul;1895;Richard Jefferson;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;90.261;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098662;800102;1-;7466;Jerami Grant;3224;Philadelphia 76ers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;115.207;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098663;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;2;115.207;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098664;800102;1-;7466;Jerami Grant;3224;Philadelphia 76ers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;128.477;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098665;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;128.477;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098666;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;128.477;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098667;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;134.458;27.08;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:51:02.554038
+77098668;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;134.458;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098669;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;2;144.060;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098670;800301;3+;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;144.060;26.84;14.37;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:51:02.554038
+77098671;800201;2+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;159.125;26.51;9.75;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098672;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;174.742;25.82;7.83;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:51:02.554038
+77098673;100300;Rebound;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;2;174.742;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098674;800202;2-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;184.833;24.59;6.87;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:51:02.554038
+77098675;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;184.833;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098676;200600;Post;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;189.354;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098677;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;189.354;26.96;6.96;;;;;;;;Post;;Lay up;;;;2017-12-07 11:51:02.554038
+77098678;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;189.354;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098679;800201;2+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;198.843;23.45;8.67;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098680;800202;2-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;216.619;26.36;10.14;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098681;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;216.619;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098682;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;223.058;26.96;8.43;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:51:02.554038
+77098683;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;223.058;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098684;800202;2-;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;2;231.915;26.72;9.30;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:51:02.554038
+77098685;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;231.915;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098687;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;2;238.833;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098688;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;2;273.588;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098689;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;273.588;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098690;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;273.588;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098691;800302;3-;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;273.588;19.94;10.26;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098692;100300;Rebound;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;2;273.588;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098693;800202;2-;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;289.587;27.23;8.13;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:51:02.554038
+77098694;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;289.587;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098695;400101;Accurate pass;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;2;297.759;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098696;800301;3+;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;2;297.759;27.23;14.52;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:51:02.554038
+77098697;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;312.715;21.11;12.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098698;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;312.715;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098699;800302;3-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;322.276;20.48;11.49;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:51:02.554038
+77098701;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;2;322.276;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098702;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;334.884;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098703;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1895;Richard Jefferson;2;343.884;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098704;800400;2+1;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;343.884;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:51:02.554038
+77098706;300100;Foul;6400;Robert Covington;3224;Philadelphia 76ers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;343.884;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098707;800101;1+;1895;Richard Jefferson;1;Cleveland Cavaliers;6400;Robert Covington;3224;Philadelphia 76ers;;;2;370.325;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098708;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;374.553;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098709;400101;Accurate pass;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6400;Robert Covington;2;392.553;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098710;800201;2+;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;2;392.553;22.25;9.60;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:51:02.554038
+77098711;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;423.888;24.02;11.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098712;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;423.888;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098713;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;432.871;20.33;11.97;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:51:02.554038
+77098714;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;432.871;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098715;200600;Post;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;449.108;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098716;800600;2F;6394;Jahlil Okafor;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;449.108;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:51:02.554038
+77098718;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;2;449.108;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098719;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;480.758;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098720;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;522.019;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77098721;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;522.019;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098722;800102;1-;6394;Jahlil Okafor;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;522.019;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098723;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;523.385;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098724;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;525.385;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098725;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;525.385;25.67;3.96;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:51:02.554038
+77098726;100400;Steal;7466;Jerami Grant;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;2;546.350;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098727;800302;3-;6400;Robert Covington;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;564.952;20.09;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098728;100300;Rebound;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;564.952;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098730;100500;Turnover;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;570.007;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098732;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;4;Iman Shumpert;1;Cleveland Cavaliers;;;2;607.456;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098733;1600500;Guard;6393;Carl Landry;3224;Philadelphia 76ers;6400;Robert Covington;3224;Philadelphia 76ers;;;2;607.456;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098734;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;607.456;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098735;800202;2-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;607.456;25.64;7.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098736;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;607.456;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098737;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;2;612.188;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098739;300100;Foul;6393;Carl Landry;3224;Philadelphia 76ers;1;LeBron James;1;Cleveland Cavaliers;;;2;612.188;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098740;800400;2+1;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;612.188;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:51:02.554038
+77098741;800101;1+;1;LeBron James;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;2;635.324;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098742;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;635.324;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098743;800201;2+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;651.272;24.50;4.50;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098744;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;2;668.653;20.21;4.02;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77098745;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;668.653;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098746;200600;Post;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;680.049;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098747;800600;2F;6393;Carl Landry;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;2;680.049;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:51:02.554038
+77098749;300100;Foul;1889;Kevin Love;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;2;680.049;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098750;800102;1-;6393;Carl Landry;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;2;717.599;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098751;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;2;717.599;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098752;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;2;736.834;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098753;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;742.193;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098754;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;2;754.193;21.41;13.35;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77098755;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;754.193;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098756;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;759.170;19.43;7.68;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:51:02.554038
+77098757;100300;Rebound;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;2;759.170;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098758;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6393;Carl Landry;2;783.203;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098759;800201;2+;6393;Carl Landry;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;783.203;22.88;3.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098760;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;804.475;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098761;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;804.475;27.92;2.19;;;;;;;;Post;;Jumper;;;;2017-12-07 11:51:02.554038
+77098762;100400;Steal;1;LeBron James;1;Cleveland Cavaliers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;2;825.459;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098763;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;834.613;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:51:02.554038
+77098765;300100;Foul;7466;Jerami Grant;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;834.613;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098766;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;834.613;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098767;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;2;834.613;27.08;7.05;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:51:02.554038
+77098768;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;866.498;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098769;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;2;889.470;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098770;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;889.470;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098771;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;901.861;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098772;800302;3-;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;921.861;27.92;0.48;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098773;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;921.861;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098774;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;2;935.091;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:51:02.554038
+77098776;300100;Foul;6393;Carl Landry;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;935.091;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098777;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;2;935.091;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098778;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;2;956.778;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098779;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;6393;Carl Landry;3224;Philadelphia 76ers;;;2;977.065;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098780;800102;1-;3;Tristan Thompson;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;2;977.065;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098781;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;977.065;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098782;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;977.065;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098783;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;2;977.065;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098784;100400;Steal;8;J.R. Smith;1;Cleveland Cavaliers;6400;Robert Covington;3224;Philadelphia 76ers;;;2;992.976;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77098785;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;8;J.R. Smith;2;1001.454;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098786;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;1001.454;19.04;7.11;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77098787;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;1021.515;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:51:02.554038
+77098788;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;1021.515;26.84;8.13;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 11:51:02.554038
+77098789;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;1021.515;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098790;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;1029.964;19.49;8.64;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:51:02.554038
+77098791;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;1029.964;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098792;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;2;1037.998;26.66;7.74;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:51:02.554038
+77098793;100300;Rebound;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;1037.998;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098794;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;1043.829;26.99;6.90;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:51:02.554038
+77098795;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;2;1043.829;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77098797;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;2;1053.280;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098798;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;2;1082.496;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098799;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1098.682;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098801;300300;Technical foul;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;1103.682;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098802;800101;1+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1114.140;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098803;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1131.078;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098805;100500;Turnover;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;1136.078;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098806;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;2;1136.078;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098807;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;1215.100;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098808;800400;2+1;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;1227.100;27.20;7.11;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:51:02.554038
+77098810;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;2;1227.100;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098811;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;2;1256.018;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098812;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1260.891;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098814;100500;Turnover;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1271.891;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098815;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;1282.159;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098816;400101;Accurate pass;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;2;1288.759;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098817;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6400;Robert Covington;2;1288.759;27.35;6.96;;;;;;;;;;Lay up;;;;2017-12-07 11:51:02.554038
+77098818;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1313.552;21.71;11.82;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:51:02.554038
+77098819;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6400;Robert Covington;2;1323.360;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098820;800201;2+;6400;Robert Covington;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;1323.360;26.81;7.89;;;;;;;;Cut;;;;;;2017-12-07 11:51:02.554038
+77098821;800302;3-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;1344.057;27.38;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098822;100300;Rebound;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;2;1344.057;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098823;400101;Accurate pass;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;2;1352.298;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098824;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;2;1352.298;26.57;6.63;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:51:02.554038
+77098827;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098828;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098829;1600500;Guard;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098830;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098831;1600500;Guard;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098832;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098833;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098834;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098835;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098836;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77098837;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098838;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;3;10.978;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098839;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;10.978;20.81;12.21;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+77098840;100400;Steal;1889;Kevin Love;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;3;25.586;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098841;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;47.309;20.63;12.15;;;;;;;;Isolation;;Jumper;Drives Right;;;2018-04-20 13:44:36.355048
+77098842;100300;Rebound;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;3;47.309;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098843;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;65.179;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:51:02.554038
+77098844;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;65.179;22.28;10.74;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:51:02.554038
+77098845;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;65.179;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77098846;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;73.385;24.02;12.15;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098848;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;3;73.385;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098849;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;91.021;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098850;800302;3-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;106.021;26.96;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098851;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;106.021;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098852;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;114.957;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098853;800301;3+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;3;114.957;20.09;3.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098854;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;3;130.614;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098855;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;130.614;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098856;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;130.614;24.20;7.32;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 11:51:02.554038
+77098857;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;158.165;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098858;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;158.165;25.82;2.85;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:51:02.554038
+77098859;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;170.403;24.50;8.58;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:51:02.554038
+77098860;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;184.236;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098861;200300;Pick'n'Roll;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;184.236;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:51:02.554038
+77098862;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;184.236;26.66;7.80;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 11:51:02.554038
+77098863;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;3;194.429;25.67;2.19;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098864;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;194.429;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098865;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;209.852;27.68;0.57;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:51:02.554038
+77098866;100300;Rebound;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;3;209.852;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098867;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;229.218;25.22;12.06;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:51:02.554038
+77098868;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;3;253.158;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098869;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;253.158;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:51:02.554038
+77098870;800302;3-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;3;267.902;20.21;12.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098871;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;267.902;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098872;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;283.701;27.20;8.34;;;;;;;;Isolation;;Lay up;Drives Left;;;2018-04-20 13:44:36.355048
+77098873;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;283.701;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098875;300100;Foul;1890;Kyrie Irving;1;Cleveland Cavaliers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;3;288.231;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098876;1600500;Guard;6399;Hollis Thompson;3224;Philadelphia 76ers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;3;327.217;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098877;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;3;327.217;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098878;1600500;Guard;6393;Carl Landry;3224;Philadelphia 76ers;7466;Jerami Grant;3224;Philadelphia 76ers;;;3;327.217;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098879;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;327.217;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098880;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;3;327.217;26.84;7.17;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:51:02.554038
+77098881;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;327.217;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098882;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;334.863;26.72;7.02;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:51:02.554038
+77098883;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;3;334.863;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098884;200600;Post;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;349.049;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098885;800202;2-;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;349.049;26.06;10.35;;;;;;;;Post;;Jumper;;;;2017-12-07 11:51:02.554038
+77098886;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;349.049;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098887;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;364.131;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098888;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;364.131;27.38;2.49;;;;;;;;Post;;Jumper;;;;2017-12-07 11:51:02.554038
+77098889;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;364.131;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098890;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;369.699;19.43;7.32;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77098891;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;369.699;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098892;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;374.924;20.81;11.52;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:51:02.554038
+77098893;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;374.924;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098894;800600;2F;6394;Jahlil Okafor;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;388.540;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:51:02.554038
+77098896;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;3;388.540;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098897;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;423.219;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098898;1600500;Guard;6397;T.J. McConnell;3224;Philadelphia 76ers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;3;452.758;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098899;800102;1-;6394;Jahlil Okafor;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;452.758;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098900;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;452.758;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098901;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;452.758;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098902;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;469.350;24.29;12.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098903;400101;Accurate pass;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;3;489.538;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098904;800301;3+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;3;489.538;27.08;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098905;100400;Steal;6397;T.J. McConnell;3224;Philadelphia 76ers;1;LeBron James;1;Cleveland Cavaliers;;;3;496.711;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098907;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;3;502.191;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098908;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;3;523.990;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098909;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;523.990;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098910;800202;2-;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;3;523.990;21.65;10.83;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098911;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;523.990;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098912;100400;Steal;6397;T.J. McConnell;3224;Philadelphia 76ers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;3;532.657;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098913;400101;Accurate pass;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;3;545.229;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098914;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6400;Robert Covington;3;545.229;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:51:02.554038
+77098915;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;570.502;25.76;9.90;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098917;100500;Turnover;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;588.820;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098918;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;606.271;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098920;300100;Foul;6400;Robert Covington;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;3;622.271;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098921;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;638.547;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098922;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;3;644.547;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:51:02.554038
+77098924;300100;Foul;6393;Carl Landry;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;3;644.547;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098925;800102;1-;1889;Kevin Love;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;3;668.222;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098926;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;668.222;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098927;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;3;696.151;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098928;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;6393;Carl Landry;3224;Philadelphia 76ers;;;3;696.151;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098929;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;6393;Carl Landry;3224;Philadelphia 76ers;;;3;696.151;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098930;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;699.406;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098931;800600;2F;6391;Nerlens Noel;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;706.406;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:51:02.554038
+77098933;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;3;706.406;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098934;800101;1+;6391;Nerlens Noel;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;731.463;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098935;800102;1-;6391;Nerlens Noel;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;744.047;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098936;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;744.047;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098937;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;744.047;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098938;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;3;748.422;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098939;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;748.422;27.02;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:51:02.554038
+77098940;800202;2-;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;3;764.375;26.42;6.63;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098941;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;764.375;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098942;800301;3+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;774.295;20.96;2.88;;;;;;;;Transition;;;;;;2017-12-07 11:51:02.554038
+77098944;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;3;774.295;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098945;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;799.236;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098946;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;799.236;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098947;400101;Accurate pass;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;3;799.236;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098948;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6400;Robert Covington;3;799.236;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:51:02.554038
+77098950;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;3;812.416;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098951;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;3;843.472;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098952;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;843.472;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098953;800201;2+;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;3;843.472;26.84;8.04;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:51:02.554038
+77098955;300100;Foul;7466;Jerami Grant;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;3;866.050;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098956;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;887.427;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098957;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;900.427;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098958;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;3;900.427;26.36;7.89;;;;;;;;Post;;Lay up;;;;2017-12-07 11:51:02.554038
+77098959;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;3;900.427;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098960;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;3;910.446;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098961;800400;2+1;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;3;910.446;26.81;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:51:02.554038
+77098963;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;3;910.446;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098964;800102;1-;7466;Jerami Grant;3224;Philadelphia 76ers;1;LeBron James;1;Cleveland Cavaliers;;;3;932.027;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098965;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;932.027;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098966;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;932.027;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098967;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;957.640;27.38;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77098968;100300;Rebound;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;3;957.640;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098969;100400;Steal;5;Matthew William Dellavedova;1;Cleveland Cavaliers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;3;969.327;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098970;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;993.392;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098972;300100;Foul;6400;Robert Covington;3224;Philadelphia 76ers;1889;Kevin Love;1;Cleveland Cavaliers;;;3;993.392;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098973;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;993.392;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098974;800400;2+1;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;3;993.392;26.72;7.95;;;;;;;;Post;;Lay up;;;;2017-12-07 11:51:02.554038
+77098975;1600500;Guard;8590;Ishmael Smith;3224;Philadelphia 76ers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;3;1022.197;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098976;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;6400;Robert Covington;3224;Philadelphia 76ers;;;3;1022.197;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098977;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;1028.241;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098978;800202;2-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;3;1041.341;26.06;9.21;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:51:02.554038
+77098979;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;3;1041.341;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098980;100400;Steal;6391;Nerlens Noel;3224;Philadelphia 76ers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;1066.138;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098981;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;3;1094.750;25.22;2.85;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:51:02.554038
+77098982;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;1094.750;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098983;800202;2-;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;1094.750;25.52;10.59;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:51:02.554038
+77098984;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;3;1094.750;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098987;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098988;1600500;Guard;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098989;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098990;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098991;1600500;Guard;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098992;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098993;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098994;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098995;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098996;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77098997;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;20.359;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77098998;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;38.359;24.20;6.72;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77098999;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;38.359;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099000;200600;Post;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;47.408;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099001;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;47.408;24.44;10.98;;;;;;;;Post;;Jumper;;;;2017-12-07 11:51:02.554038
+77099002;100300;Rebound;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;4;47.408;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099003;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;55.575;26.84;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:51:02.554038
+77099004;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;4;55.575;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099005;800201;2+;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;4;55.575;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:51:02.554038
+77099006;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;4;79.202;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099007;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;5;Matthew William Dellavedova;4;79.202;26.27;7.74;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:51:02.554038
+77099008;100300;Rebound;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;79.202;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099010;100500;Turnover;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;4;85.295;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099011;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;102.799;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099012;400101;Accurate pass;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;4;122.799;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099013;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;4;122.799;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099014;800201;2+;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;4;122.799;26.84;12.51;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77099015;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;4;145.880;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099016;800301;3+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;4;145.880;26.57;0.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77099017;100400;Steal;8590;Ishmael Smith;3224;Philadelphia 76ers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;161.684;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099018;100400;Steal;1890;Kyrie Irving;1;Cleveland Cavaliers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;4;164.664;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099019;800302;3-;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;179.766;27.77;14.46;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:51:02.554038
+77099021;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;179.766;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099022;300100;Foul;6391;Nerlens Noel;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;179.766;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099023;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;203.184;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099024;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;4;219.184;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:51:02.554038
+77099026;300100;Foul;7466;Jerami Grant;3224;Philadelphia 76ers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;219.184;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099027;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;4;253.098;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099028;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;7466;Jerami Grant;3224;Philadelphia 76ers;;;4;271.629;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099029;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;276.655;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099030;800201;2+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;292.655;25.37;5.49;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:51:02.554038
+77099031;800201;2+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;307.983;26.57;7.05;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:51:02.554038
+77099034;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;4;371.102;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099035;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;371.102;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099036;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;371.102;26.72;7.89;;;;;;;;;;Lay up;;;;2017-12-07 11:51:02.554038
+77099038;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;371.102;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099039;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;4;404.191;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099040;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;404.191;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099041;800301;3+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;404.191;19.28;8.52;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77099042;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;426.643;19.79;11.58;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:51:02.554038
+77099043;100300;Rebound;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;426.643;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099044;800302;3-;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;438.396;21.20;2.79;;;;;;;;Transition;;;;;;2017-12-07 11:51:02.554038
+77099045;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;438.396;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099046;100400;Steal;1890;Kyrie Irving;1;Cleveland Cavaliers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;4;489.440;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099047;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;4;493.477;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099049;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;4;493.477;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099050;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;4;493.477;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:51:02.554038
+77099051;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;518.485;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099052;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;538.485;26.81;6.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:51:02.554038
+77099053;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;538.485;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099054;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;558.248;23.33;11.97;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:51:02.554038
+77099056;100500;Turnover;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;572.879;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099057;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;598.571;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099058;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;619.571;23.27;11.13;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2018-04-20 13:44:36.355048
+77099059;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;619.571;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099060;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;4;631.480;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099061;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;4;631.480;26.84;7.80;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:51:02.554038
+77099062;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;661.268;24.59;11.61;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:51:02.554038
+77099063;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;4;661.268;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099064;800600;2F;8590;Ishmael Smith;3224;Philadelphia 76ers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;669.219;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:51:02.554038
+77099066;300100;Foul;1890;Kyrie Irving;1;Cleveland Cavaliers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;4;669.219;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099067;800101;1+;8590;Ishmael Smith;3224;Philadelphia 76ers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;694.539;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099068;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;694.539;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099069;800101;1+;8590;Ishmael Smith;3224;Philadelphia 76ers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;709.864;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099070;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;714.608;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099071;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;4;733.608;27.05;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77099072;100300;Rebound;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;4;733.608;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099074;100500;Turnover;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;4;739.200;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099075;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;750.014;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099076;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;773.014;22.88;2.40;;;;;;;;Isolation;;Jumper;Drives Left;;;2018-04-20 13:44:36.355048
+77099077;100300;Rebound;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;773.014;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099078;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;780.873;26.96;7.74;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:51:02.554038
+77099079;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;780.873;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77099080;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;799.276;21.26;12.66;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:51:02.554038
+77099082;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;799.276;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099083;1600500;Guard;7101;Jared Cunningham;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;4;843.688;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099084;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;843.688;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099085;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;4;843.688;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099086;200300;Pick'n'Roll;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;4;843.688;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099087;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;4;843.688;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:51:02.554038
+77099089;100500;Turnover;7101;Jared Cunningham;1;Cleveland Cavaliers;;;;;;;4;874.481;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+77099090;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;891.663;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+77099091;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;896.663;20.66;7.74;;;;;;;;;;Jumper;;;;2017-12-07 11:51:02.554038
+77099092;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;896.663;;;;;;;;;;;;;;;;2017-12-07 11:51:02.554038
+93270098;100500;Turnover;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;444.602;;;;;;;;;;;;;;;;2018-01-11 20:53:04.421947
+93270099;100500;Turnover;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;812.416;;;;;;;;;;;;;;;;2018-01-11 20:53:04.421947
+103644620;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1;LeBron James;1;75.767;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644622;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;104.632;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644624;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;126.562;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644626;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;148.723;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644628;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;158.709;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644630;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;196.640;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644632;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;301.496;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644634;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;320.216;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103644636;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;337.371;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644638;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;395.704;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644640;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;485.726;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644642;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;604.488;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103644644;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;666.851;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644646;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;693.536;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644648;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;750.135;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644650;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;808.617;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644652;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;819.354;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644654;200900;Assisting;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;891.210;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644656;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;908.623;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644658;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;1076.198;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103644660;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;1114.865;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644662;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;1174.837;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644664;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;1227.902;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644666;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;77.520;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644668;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;90.261;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644670;200900;Assisting;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;144.060;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644672;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;159.125;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644674;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;198.843;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644676;200900;Assisting;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;2;297.759;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644678;200900;Assisting;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;343.884;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644680;200900;Assisting;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;2;392.553;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644682;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;449.108;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644684;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;525.385;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644686;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;612.188;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644688;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;651.272;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644690;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;680.049;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644692;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;783.203;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644694;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;804.475;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644696;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;834.613;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644698;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;935.091;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644700;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;1001.454;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103644702;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;1227.100;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644704;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6400;Robert Covington;2;1288.759;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644706;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1313.552;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644708;200900;Assisting;6400;Robert Covington;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;1323.360;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644710;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;2;1352.298;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644712;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;10.978;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103644714;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;73.385;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644716;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;3;114.957;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644718;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;130.614;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644720;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;158.165;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644722;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;170.403;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644724;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;184.236;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644726;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;229.218;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644728;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;253.158;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644730;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;388.540;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644732;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;469.350;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644734;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;3;489.538;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644736;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6400;Robert Covington;3;545.229;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644738;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;570.502;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644740;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;644.547;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644742;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;706.406;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644744;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;748.422;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644746;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;774.295;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644748;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6400;Robert Covington;3;799.236;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644750;200900;Assisting;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;3;843.472;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644752;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;3;910.446;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644754;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;3;993.392;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644756;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;4;55.575;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644758;200900;Assisting;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;4;122.799;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644760;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;4;145.880;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644762;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;219.184;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644764;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;292.655;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644766;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;307.983;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644768;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;404.191;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644770;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;4;493.477;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644772;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;558.248;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644774;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;4;631.480;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644776;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;4;669.219;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372
+103644778;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;4;843.688;;;;;;;;;;;;;;;;2018-04-19 10:58:05.236372

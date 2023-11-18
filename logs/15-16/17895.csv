@@ -1,0 +1,826 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76376956;1601000;Starting lineup;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376957;1601000;Starting lineup;169;James Young;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376958;1601000;Starting lineup;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376959;1601000;Starting lineup;7504;Evan Turner;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376960;1601000;Starting lineup;165;Avery Bradley;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376961;1601000;Starting lineup;163;Amir Johnson;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376962;1601000;Starting lineup;162;Jae Crowder;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376963;1601000;Starting lineup;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376964;1601000;Starting lineup;173;Terry Rozier;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376965;1601000;Starting lineup;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376966;1601000;Starting lineup;174;Tyler Zeller;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376967;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376973;1600500;Guard;162;Jae Crowder;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376974;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376975;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376976;1600500;Guard;165;Avery Bradley;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376977;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376981;400101;Accurate pass;164;Jared Sullinger;8;Boston Celtics;;;;;162;Jae Crowder;1;57.472;;;;;;;;;;Hand offs;;;;;;2017-12-07 03:49:05.033481
+76376982;800201;2+;162;Jae Crowder;8;Boston Celtics;;;;;164;Jared Sullinger;1;57.472;20.96;7.89;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:49:05.033481
+76376986;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;101.696;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376987;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;1;108.618;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376988;800301;3+;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;108.618;20.81;11.88;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76376989;100200;Game stop;;;;;;;;;;;1;119.662;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376991;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;128.445;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76376992;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;162;Jae Crowder;1;142.445;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:49:05.033481
+76376993;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;162;Jae Crowder;1;142.445;21.26;5.25;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:49:05.033481
+76376996;100200;Game stop;;;;;;;;;;;1;152.358;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376997;100300;Rebound;;;8;Boston Celtics;;;;;;;1;152.358;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376998;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;157.108;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76376999;800302;3-;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;1;178.108;27.23;14.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377002;100200;Game stop;;;;;;;;;;;1;189.690;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377007;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;219.859;26.81;8.04;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:49:05.033481
+76377009;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;229.687;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377010;800302;3-;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;239.546;20.66;12.03;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377013;100200;Game stop;;;;;;;;;;;1;260.110;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377014;300100;Foul;164;Jared Sullinger;8;Boston Celtics;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;1;260.110;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377018;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;308.000;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377022;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;343.379;26.72;7.68;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:49:05.033481
+76377025;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;357.414;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377026;800202;2-;164;Jared Sullinger;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;166;Isaiah Thomas;1;369.310;26.51;8.58;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:49:05.033481
+76377027;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;369.310;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377028;800600;2F;164;Jared Sullinger;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;374.848;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 03:49:05.033481
+76377029;100200;Game stop;;;;;;;;;;;1;374.848;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377031;800101;1+;164;Jared Sullinger;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;401.912;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377032;800101;1+;164;Jared Sullinger;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;447.728;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377035;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;1;471.770;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377036;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;484.490;25.04;12.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377039;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;498.592;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377040;800600;2F;163;Amir Johnson;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;515.477;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:49:05.033481
+76377041;100200;Game stop;;;;;;;;;;;1;515.477;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377043;800101;1+;163;Amir Johnson;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;541.197;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377045;800101;1+;163;Amir Johnson;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;559.976;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377047;100400;Steal;166;Isaiah Thomas;8;Boston Celtics;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;569.488;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377048;100200;Game stop;;;;;;;;;;;1;573.003;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377050;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;655.911;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377051;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;1;673.911;20.21;4.86;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377053;100200;Game stop;;;;;;;;;;;1;682.943;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377055;1600500;Guard;174;Tyler Zeller;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;1;682.943;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377061;400101;Accurate pass;163;Amir Johnson;8;Boston Celtics;;;;;174;Tyler Zeller;1;747.999;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377062;800201;2+;174;Tyler Zeller;8;Boston Celtics;;;;;163;Amir Johnson;1;747.999;26.96;8.28;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:49:05.033481
+76377065;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;764.571;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377066;800600;2F;163;Amir Johnson;8;Boston Celtics;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;771.736;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:49:05.033481
+76377067;100200;Game stop;;;;;;;;;;;1;771.736;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377069;800101;1+;163;Amir Johnson;8;Boston Celtics;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;793.184;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377070;800102;1-;163;Amir Johnson;8;Boston Celtics;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;808.018;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377075;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;;;1;842.562;21.56;12.99;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:49:05.033481
+76377078;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;1;850.832;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377079;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;857.744;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377080;800301;3+;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;1;857.744;21.41;12.60;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377084;100200;Game stop;;;;;;;;;;;1;890.166;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377085;1800600;Timeout;;;8;Boston Celtics;;;;;;;1;890.166;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377086;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;1;890.166;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377089;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;920.171;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377090;100200;Game stop;;;;;;;;;;;1;930.171;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377091;100500;Turnover;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;930.171;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377092;1600500;Guard;7504;Evan Turner;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;1;930.171;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377095;800600;2F;162;Jae Crowder;8;Boston Celtics;8393;Dante Cunningham;3279;New Orleans Pelicans;;;1;982.727;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377096;100200;Game stop;;;;;;;;;;;1;982.727;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377098;800101;1+;162;Jae Crowder;8;Boston Celtics;8393;Dante Cunningham;3279;New Orleans Pelicans;;;1;1003.371;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377099;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;1;1003.371;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377100;800101;1+;162;Jae Crowder;8;Boston Celtics;8393;Dante Cunningham;3279;New Orleans Pelicans;;;1;1026.827;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377102;100200;Game stop;;;;;;;;;;;1;1046.559;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377103;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;1046.559;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377106;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;1076.756;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377107;800202;2-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;1092.304;26.99;2.49;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:49:05.033481
+76377110;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;1;1098.893;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377111;800302;3-;7504;Evan Turner;8;Boston Celtics;;;;;;;1;1120.605;20.96;3.33;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377114;100200;Game stop;;;;;;;;;;;1;1136.235;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377115;100300;Rebound;;;8;Boston Celtics;;;;;;;1;1136.235;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377116;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;1145.710;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377117;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;171;Jonas Jerebko;1;1152.710;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377118;800201;2+;171;Jonas Jerebko;8;Boston Celtics;;;;;162;Jae Crowder;1;1152.710;26.81;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+76377121;100200;Game stop;;;;;;;;;;;1;1177.589;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377124;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;1191.933;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377125;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;1;1205.033;26.66;3.87;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377128;100200;Game stop;;;;;;;;;;;1;1210.752;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377129;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;8399;Jrue Holiday;3279;New Orleans Pelicans;;;1;1210.752;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377131;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;1232.586;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377132;400101;Accurate pass;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;174;Tyler Zeller;1;1248.786;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377133;800201;2+;174;Tyler Zeller;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;1;1248.786;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 03:49:05.033481
+76377137;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;7504;Evan Turner;1;1282.082;20.33;5.10;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377138;100300;Rebound;;;8;Boston Celtics;;;;;;;1;1282.082;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377139;1800500;Halftime;;;;;;;;;;;1;1282.082;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377140;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377146;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377147;1600500;Guard;169;James Young;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377148;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377149;1600500;Guard;174;Tyler Zeller;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377150;1600500;Guard;7504;Evan Turner;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377151;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;7.495;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377152;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;2;30.495;22.67;7.68;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377153;100300;Rebound;174;Tyler Zeller;8;Boston Celtics;;;;;;;2;30.495;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377154;100200;Game stop;;;;;;;;;;;2;30.495;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377155;100500;Turnover;174;Tyler Zeller;8;Boston Celtics;;;;;;;2;30.495;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377158;100200;Game stop;;;;;;;;;;;2;64.237;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377159;100500;Turnover;7504;Evan Turner;8;Boston Celtics;;;;;;;2;64.237;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377162;100200;Game stop;;;;;;;;;;;2;81.729;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377163;100300;Rebound;;;8;Boston Celtics;;;;;;;2;81.729;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377164;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;90.002;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377165;800302;3-;169;James Young;8;Boston Celtics;;;;;7504;Evan Turner;2;110.002;22.73;13.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377168;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;2;117.691;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377169;100200;Game stop;;;;;;;;;;;2;127.163;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377170;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;174;Tyler Zeller;8;Boston Celtics;;;2;127.163;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377171;100500;Turnover;7504;Evan Turner;8;Boston Celtics;;;;;;;2;127.163;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377175;800202;2-;7504;Evan Turner;8;Boston Celtics;8399;Jrue Holiday;3279;New Orleans Pelicans;166;Isaiah Thomas;2;177.172;26.72;7.35;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 03:49:05.033481
+76377176;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;2;177.172;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377177;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;2;177.172;26.90;7.02;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:49:05.033481
+76377180;800302;3-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;192.868;22.43;13.68;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377181;100200;Game stop;;;;;;;;;;;2;192.868;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377184;100400;Steal;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;2;211.484;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377185;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;;;2;216.841;26.99;8.22;;;;;;;;;;Lay up;;;;2017-12-07 03:49:05.033481
+76377188;100200;Game stop;;;;;;;;;;;2;235.956;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377189;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;235.956;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377192;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;171;Jonas Jerebko;8;Boston Celtics;;;2;263.746;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377194;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;283.218;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377195;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;283.218;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377196;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;297.505;26.06;9.18;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:49:05.033481
+76377198;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;308.355;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377199;100200;Game stop;;;;;;;;;;;2;319.556;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377200;1800600;Timeout;;;;;;;;;;;2;319.556;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377201;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;346.402;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377202;800302;3-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;350.402;20.36;4.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377205;400101;Accurate pass;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;166;Isaiah Thomas;2;382.799;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377206;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;2;382.799;22.73;7.65;;;;;;;;Screen off;;Floater;;;;2017-12-07 03:49:05.033481
+76377207;100200;Game stop;;;;;;;;;;;2;398.878;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377208;1600500;Guard;165;Avery Bradley;8;Boston Celtics;7504;Evan Turner;8;Boston Celtics;;;2;398.878;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377210;100200;Game stop;;;;;;;;;;;2;420.257;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377212;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;427.575;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377213;800202;2-;166;Isaiah Thomas;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;2;435.575;24.95;9.60;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:49:05.033481
+76377215;100200;Game stop;;;;;;;;;;;2;435.575;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377216;300100;Foul;166;Isaiah Thomas;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;2;435.575;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377220;100300;Rebound;169;James Young;8;Boston Celtics;;;;;;;2;470.502;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377221;200600;Post;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;487.879;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377222;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;487.879;26.99;5.34;;;;;;;;Post;;Hook;;;;2017-12-07 03:49:05.033481
+76377224;100300;Rebound;169;James Young;8;Boston Celtics;;;;;;;2;501.926;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377225;100200;Game stop;;;;;;;;;;;2;508.316;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377228;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;541.677;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377229;100200;Game stop;;;;;;;;;;;2;545.677;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377230;100500;Turnover;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;545.677;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377233;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;2;583.320;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377234;800301;3+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;165;Avery Bradley;2;583.320;20.75;3.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377238;200300;Pick'n'Roll;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;166;Isaiah Thomas;2;614.955;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:49:05.033481
+76377239;800302;3-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;166;Isaiah Thomas;2;614.955;20.18;10.83;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:49:05.033481
+76377240;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;614.955;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377241;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;624.531;26.99;6.81;;;;;;;;;;Lay up;;;;2017-12-07 03:49:05.033481
+76377244;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;662.549;21.95;5.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377246;100200;Game stop;;;;;;;;;;;2;672.482;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377247;300100;Foul;164;Jared Sullinger;8;Boston Celtics;8393;Dante Cunningham;3279;New Orleans Pelicans;;;2;672.482;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377249;1600500;Guard;162;Jae Crowder;8;Boston Celtics;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;672.482;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377250;1600500;Guard;163;Amir Johnson;8;Boston Celtics;169;James Young;8;Boston Celtics;;;2;672.482;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377254;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;722.727;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377255;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;2;735.727;24.05;9.72;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:49:05.033481
+76377258;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;750.558;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377259;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;761.004;23.33;8.10;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 03:49:05.033481
+76377260;100400;Steal;164;Jared Sullinger;8;Boston Celtics;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;777.102;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377261;200600;Post;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;805.200;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377262;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;805.200;26.72;7.56;;;;;;;;Post;;Lay up;;;;2017-12-07 03:49:05.033481
+76377264;100200;Game stop;;;;;;;;;;;2;812.973;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377266;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;826.228;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377267;400101;Accurate pass;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;2;837.228;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377268;800301;3+;166;Isaiah Thomas;8;Boston Celtics;;;;;164;Jared Sullinger;2;837.228;22.13;2.16;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:49:05.033481
+76377269;100400;Steal;165;Avery Bradley;8;Boston Celtics;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;854.199;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377270;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;;;2;867.744;25.49;7.62;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 03:49:05.033481
+76377273;400101;Accurate pass;163;Amir Johnson;8;Boston Celtics;;;;;162;Jae Crowder;2;903.270;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377274;800201;2+;162;Jae Crowder;8;Boston Celtics;;;;;163;Amir Johnson;2;903.270;26.66;7.17;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:49:05.033481
+76377278;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;928.378;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377279;100200;Game stop;;;;;;;;;;;2;934.046;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377281;1800600;Timeout;;;8;Boston Celtics;;;;;;;2;934.046;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377283;800101;1+;165;Avery Bradley;8;Boston Celtics;;;;;;;2;986.462;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377284;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;995.900;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377285;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;2;1002.900;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377286;800301;3+;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;2;1002.900;22.58;13.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377288;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;2;1024.938;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377289;100200;Game stop;;;;;;;;;;;2;1043.668;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377290;100500;Turnover;165;Avery Bradley;8;Boston Celtics;;;;;;;2;1043.668;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377291;300100;Foul;165;Avery Bradley;8;Boston Celtics;7719;Eric Gordon;3279;New Orleans Pelicans;;;2;1043.668;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377293;100200;Game stop;;;;;;;;;;;2;1073.782;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377294;300100;Foul;162;Jae Crowder;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;1073.782;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377297;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;2;1098.999;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377299;1800500;Halftime;;;;;;;;;;;2;1124.896;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377300;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377306;1600500;Guard;162;Jae Crowder;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377307;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377308;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377309;1600500;Guard;165;Avery Bradley;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377310;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377311;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377315;100200;Game stop;;;;;;;;;;;3;20.592;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377316;300100;Foul;164;Jared Sullinger;8;Boston Celtics;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;20.592;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377318;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;46.729;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377319;100200;Game stop;;;;;;;;;;;3;57.729;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377320;100500;Turnover;162;Jae Crowder;8;Boston Celtics;;;;;;;3;57.729;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377322;100200;Game stop;;;;;;;;;;;3;88.920;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377323;300100;Foul;163;Amir Johnson;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;3;88.920;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377326;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;111.101;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377327;100200;Game stop;;;;;;;;;;;3;122.325;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377329;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;131.920;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377330;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;164;Jared Sullinger;3;144.920;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377331;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;3;144.920;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:49:05.033481
+76377332;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;3;144.920;24.20;13.89;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:49:05.033481
+76377336;100200;Game stop;;;;;;;;;;;3;187.046;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377337;300100;Foul;163;Amir Johnson;8;Boston Celtics;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;187.046;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377340;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;234.358;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377341;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;3;248.358;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377342;200300;Pick'n'Roll;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;3;248.358;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377343;800500;3+1;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;3;248.358;20.96;11.61;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377344;100200;Game stop;;;;;;;;;;;3;248.358;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377346;800101;1+;165;Avery Bradley;8;Boston Celtics;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;290.623;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377348;100200;Game stop;;;;;;;;;;;3;307.353;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377350;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;312.898;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377351;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;3;329.898;26.84;7.17;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:49:05.033481
+76377355;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;342.789;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377356;800202;2-;166;Isaiah Thomas;8;Boston Celtics;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;350.418;26.99;8.43;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+76377357;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;350.418;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377358;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;;;3;350.418;27.08;8.76;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 03:49:05.033481
+76377359;100200;Game stop;;;;;;;;;;;3;360.109;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377365;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;388.840;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377366;800202;2-;163;Amir Johnson;8;Boston Celtics;;;;;;;3;408.403;24.50;1.86;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:49:05.033481
+76377369;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;425.590;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377370;400101;Accurate pass;164;Jared Sullinger;8;Boston Celtics;;;;;165;Avery Bradley;3;438.664;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377371;800301;3+;165;Avery Bradley;8;Boston Celtics;;;;;164;Jared Sullinger;3;438.664;26.42;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377373;100200;Game stop;;;;;;;;;;;3;456.230;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377374;300100;Foul;165;Avery Bradley;8;Boston Celtics;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;456.230;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377380;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;496.492;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377381;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;;;3;512.492;23.75;14.19;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:49:05.033481
+76377384;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;3;522.275;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377385;800301;3+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;528.467;20.18;9.99;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377387;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;548.170;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377388;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;;;3;556.863;23.60;1.11;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377389;100200;Game stop;;;;;;;;;;;3;556.863;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377394;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;591.833;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377395;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;3;602.072;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377396;200300;Pick'n'Roll;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;3;602.072;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377397;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;3;602.072;20.03;6.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377398;100200;Game stop;;;;;;;;;;;3;612.889;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377402;800700;3F;162;Jae Crowder;8;Boston Celtics;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;683.541;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377403;100200;Game stop;;;;;;;;;;;3;683.541;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377405;800101;1+;162;Jae Crowder;8;Boston Celtics;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;709.591;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377406;800101;1+;162;Jae Crowder;8;Boston Celtics;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;723.837;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377407;800101;1+;162;Jae Crowder;8;Boston Celtics;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;737.875;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377410;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;755.147;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377411;100200;Game stop;;;;;;;;;;;3;768.919;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377412;300100;Foul;164;Jared Sullinger;8;Boston Celtics;6753;Ryan Anderson;3279;New Orleans Pelicans;;;3;768.919;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377413;100500;Turnover;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;768.919;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377416;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;810.705;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377417;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;818.349;26.66;8.22;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+76377421;100200;Game stop;;;;;;;;;;;3;845.626;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377423;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;3;845.626;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377424;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;864.251;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377425;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;163;Amir Johnson;3;874.251;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377426;200300;Pick'n'Roll;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;3;874.251;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377427;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;3;874.251;25.97;7.68;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 03:49:05.033481
+76377432;100200;Game stop;;;;;;;;;;;3;906.086;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377433;1800600;Timeout;;;8;Boston Celtics;;;;;;;3;906.086;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377435;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;927.549;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377436;200600;Post;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;3;934.549;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377437;800202;2-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;3;934.549;25.82;7.50;;;;;;;;Post;;Hook;;;;2017-12-07 03:49:05.033481
+76377440;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;947.116;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377441;800202;2-;162;Jae Crowder;8;Boston Celtics;;;;;;;3;959.981;21.41;11.19;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 03:49:05.033481
+76377447;100200;Game stop;;;;;;;;;;;3;980.613;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377448;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6753;Ryan Anderson;3279;New Orleans Pelicans;;;3;980.613;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377452;1600500;Guard;169;James Young;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;3;1005.484;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377453;1600500;Guard;7504;Evan Turner;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;3;1005.484;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377455;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1027.317;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377456;800302;3-;169;James Young;8;Boston Celtics;;;;;;;3;1041.317;20.96;3.24;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:49:05.033481
+76377461;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;3;1068.558;20.81;6.57;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:49:05.033481
+76377462;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;1068.558;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377463;800600;2F;169;James Young;8;Boston Celtics;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;3;1079.824;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:49:05.033481
+76377464;100200;Game stop;;;;;;;;;;;3;1079.824;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377466;800102;1-;169;James Young;8;Boston Celtics;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;3;1101.607;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377467;100300;Rebound;;;8;Boston Celtics;;;;;;;3;1101.607;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377469;800102;1-;169;James Young;8;Boston Celtics;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;3;1122.689;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377470;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1124.475;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377471;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;3;1126.475;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377475;800600;2F;163;Amir Johnson;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1150.067;27.05;7.62;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377476;100200;Game stop;;;;;;;;;;;3;1150.067;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377478;800102;1-;163;Amir Johnson;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1183.115;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377479;100300;Rebound;;;8;Boston Celtics;;;;;;;3;1183.115;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377480;800102;1-;163;Amir Johnson;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1200.018;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377483;100400;Steal;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8590;Ishmael Smith;3279;New Orleans Pelicans;;;3;1209.461;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377484;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;1227.445;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377485;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;165;Avery Bradley;3;1227.445;26.66;7.17;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 03:49:05.033481
+76377487;100200;Game stop;;;;;;;;;;;3;1242.476;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377488;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8590;Ishmael Smith;3279;New Orleans Pelicans;;;3;1242.476;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377491;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;3;1261.323;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377493;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1281.296;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377494;800600;2F;7504;Evan Turner;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1297.996;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 03:49:05.033481
+76377495;100200;Game stop;;;;;;;;;;;3;1297.996;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377497;800101;1+;7504;Evan Turner;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1320.069;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377498;800101;1+;7504;Evan Turner;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1330.926;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377501;100200;Game stop;;;;;;;;;;;3;1349.517;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377506;800201;2+;169;James Young;8;Boston Celtics;;;;;;;3;1376.906;26.84;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+76377512;1800500;Halftime;;;;;;;;;;;3;1404.927;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377513;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377519;1600500;Guard;162;Jae Crowder;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377520;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377521;1600500;Guard;169;James Young;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377522;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377523;1600500;Guard;7504;Evan Turner;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377528;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;4;77.852;26.12;4.20;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:49:05.033481
+76377530;100200;Game stop;;;;;;;;;;;4;84.382;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377531;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;84.382;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377532;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;171;Jonas Jerebko;8;Boston Celtics;;;4;84.382;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377536;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;162;Jae Crowder;4;145.630;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377537;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;7504;Evan Turner;4;145.630;19.88;3.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377541;200600;Post;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;185.687;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377542;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;185.687;25.67;5.64;;;;;;;;Post;;Jumper;;;;2017-12-07 03:49:05.033481
+76377544;100400;Steal;169;James Young;8;Boston Celtics;8590;Ishmael Smith;3279;New Orleans Pelicans;;;4;195.335;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377545;400101;Accurate pass;169;James Young;8;Boston Celtics;;;;;7504;Evan Turner;4;200.227;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377546;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;169;James Young;4;200.227;26.84;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+76377551;100300;Rebound;169;James Young;8;Boston Celtics;;;;;;;4;213.808;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377552;200600;Post;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;233.514;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377553;800202;2-;164;Jared Sullinger;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;233.514;26.81;7.11;;;;;;;;Post;;Lay up;;;;2017-12-07 03:49:05.033481
+76377554;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;233.514;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377555;800202;2-;164;Jared Sullinger;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;233.514;27.05;6.78;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 03:49:05.033481
+76377556;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;233.514;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377557;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;233.514;26.66;7.20;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:49:05.033481
+76377558;100400;Steal;7504;Evan Turner;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;4;250.390;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377559;800700;3F;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;257.391;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:49:05.033481
+76377560;100200;Game stop;;;;;;;;;;;4;257.391;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377562;1800600;Timeout;;;;;;;;;;;4;257.391;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377563;800101;1+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;303.848;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377564;800101;1+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;314.607;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377565;800101;1+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;325.744;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377568;800201;2+;169;James Young;8;Boston Celtics;;;;;7504;Evan Turner;4;367.272;26.12;8.13;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:49:05.033481
+76377570;200600;Post;7504;Evan Turner;8;Boston Celtics;;;;;;;4;411.391;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377571;800600;2F;7504;Evan Turner;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;4;411.391;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:49:05.033481
+76377572;100200;Game stop;;;;;;;;;;;4;411.391;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377574;800101;1+;7504;Evan Turner;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;4;430.887;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377576;800101;1+;7504;Evan Turner;8;Boston Celtics;7070;Norris Cole;3279;New Orleans Pelicans;;;4;444.646;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377582;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;463.738;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377583;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;162;Jae Crowder;4;479.591;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377584;200600;Post;162;Jae Crowder;8;Boston Celtics;;;;;;;4;479.591;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377585;800201;2+;162;Jae Crowder;8;Boston Celtics;;;;;7504;Evan Turner;4;479.591;26.81;7.98;;;;;;;;Post;;Lay up;;;;2017-12-07 03:49:05.033481
+76377587;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;4;492.349;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377589;100400;Steal;7504;Evan Turner;8;Boston Celtics;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;503.131;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377590;100200;Game stop;;;;;;;;;;;4;512.360;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377592;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;530.980;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377593;100200;Game stop;;;;;;;;;;;4;539.980;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377594;100500;Turnover;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;539.980;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377599;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;602.193;26.57;2.01;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:49:05.033481
+76377602;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;612.788;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377603;200300;Pick'n'Roll;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;631.723;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:49:05.033481
+76377604;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;631.723;24.74;9.72;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 03:49:05.033481
+76377606;100200;Game stop;;;;;;;;;;;4;644.315;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377607;300100;Foul;169;James Young;8;Boston Celtics;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;644.315;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377609;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;169;James Young;8;Boston Celtics;;;4;644.315;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377613;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;706.335;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377614;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;4;726.335;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377615;800301;3+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;726.335;19.94;8.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377617;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;740.082;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377619;100200;Game stop;;;;;;;;;;;4;758.801;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377622;300100;Foul;166;Isaiah Thomas;8;Boston Celtics;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;758.801;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377628;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;4;876.317;27.08;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377633;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;910.063;25.97;3.93;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:49:05.033481
+76377638;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;4;925.434;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377639;100200;Game stop;;;;;;;;;;;4;937.994;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377640;1800600;Timeout;;;8;Boston Celtics;;;;;;;4;937.994;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377641;1600500;Guard;169;James Young;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;4;937.994;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377642;1600500;Guard;173;Terry Rozier;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;4;937.994;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377644;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;969.898;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377645;400101;Accurate pass;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;164;Jared Sullinger;4;979.898;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377646;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;4;979.898;26.51;7.11;;;;;;;;Screen off;;Lay up;;;;2017-12-07 03:49:05.033481
+76377649;400101;Accurate pass;169;James Young;8;Boston Celtics;;;;;164;Jared Sullinger;4;1012.885;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377650;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;169;James Young;4;1012.885;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377651;800301;3+;164;Jared Sullinger;8;Boston Celtics;;;;;169;James Young;4;1012.885;19.49;6.96;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 03:49:05.033481
+76377654;100300;Rebound;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1025.247;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377655;800302;3-;169;James Young;8;Boston Celtics;;;;;;;4;1033.010;22.97;13.89;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377658;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;4;1053.765;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377659;200600;Post;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;1053.765;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377660;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;1053.765;26.51;7.26;;;;;;;;Post;;Lay up;;;;2017-12-07 03:49:05.033481
+76377662;100300;Rebound;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1069.032;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377663;800202;2-;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1085.695;26.42;7.05;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 03:49:05.033481
+76377664;100300;Rebound;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1085.695;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377665;800201;2+;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1085.695;26.84;7.32;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:49:05.033481
+76377669;800302;3-;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1139.414;19.49;6.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377672;1800700;Match end;;;;;;;;;;;4;1151.855;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+103690484;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;164;Jared Sullinger;1;57.472;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690488;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;108.618;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690492;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;219.859;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690498;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;343.379;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690500;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;374.848;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690502;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;1;515.477;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690506;200900;Assisting;174;Tyler Zeller;8;Boston Celtics;;;;;163;Amir Johnson;1;747.999;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690508;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;1;771.736;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690512;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;1;857.744;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690518;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;1;982.727;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690520;200900;Assisting;171;Jonas Jerebko;8;Boston Celtics;;;;;162;Jae Crowder;1;1152.710;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690524;200900;Assisting;174;Tyler Zeller;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;1;1248.786;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690534;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;2;216.841;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690538;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;297.505;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690542;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;2;382.799;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690544;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;487.879;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690548;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;165;Avery Bradley;2;583.320;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690552;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;624.531;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690556;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;662.549;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690560;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;761.004;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690562;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;164;Jared Sullinger;2;837.228;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690564;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;2;867.744;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690568;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;163;Amir Johnson;2;903.270;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690570;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;2;1002.900;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690574;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;3;144.920;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690578;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;3;248.358;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690580;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;3;350.418;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690582;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;164;Jared Sullinger;3;438.664;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690586;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;528.467;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690588;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;3;602.072;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690592;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;3;683.541;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690596;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;3;874.251;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690604;200900;Assisting;169;James Young;8;Boston Celtics;;;;;;;3;1079.824;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690608;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;3;1150.067;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690610;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;165;Avery Bradley;3;1227.445;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690614;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;3;1297.996;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690618;200900;Assisting;169;James Young;8;Boston Celtics;;;;;;;3;1376.906;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690624;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;7504;Evan Turner;4;145.630;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690628;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;169;James Young;4;200.227;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690630;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;233.514;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690632;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;257.391;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690636;200900;Assisting;169;James Young;8;Boston Celtics;;;;;7504;Evan Turner;4;367.272;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690640;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;4;411.391;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690642;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;7504;Evan Turner;4;479.591;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690646;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;631.723;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690650;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;726.335;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690656;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;4;979.898;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690660;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;169;James Young;4;1012.885;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690664;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;4;1053.765;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690666;200900;Assisting;173;Terry Rozier;8;Boston Celtics;;;;;;;4;1085.695;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+76376943;1601000;Starting lineup;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376944;1601000;Starting lineup;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376945;1601000;Starting lineup;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376946;1601000;Starting lineup;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376947;1601000;Starting lineup;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376948;1601000;Starting lineup;112342;Tyler Hobgood;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376949;1601000;Starting lineup;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376950;1601000;Starting lineup;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376951;1601000;Starting lineup;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376952;1601000;Starting lineup;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376953;1601000;Starting lineup;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376954;1601000;Starting lineup;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376955;1601000;Starting lineup;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376968;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376969;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376970;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376971;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376972;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376978;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;19.880;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76376979;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;40.880;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376980;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;40.880;21.95;10.05;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76376983;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;80.367;20.96;8.91;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 03:49:05.033481
+76376984;100400;Steal;8395;Omer Faruk Asik;3279;New Orleans Pelicans;162;Jae Crowder;8;Boston Celtics;;;1;96.492;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376985;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;101.696;27.08;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+76376990;100500;Turnover;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;119.662;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376994;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;142.445;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76376995;800302;3-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;152.358;20.36;4.05;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377000;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;178.108;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377001;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;162;Jae Crowder;8;Boston Celtics;;;1;189.690;26.84;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:49:05.033481
+76377003;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;189.690;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377004;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;203.609;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377005;400101;Accurate pass;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;207.609;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377006;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;1;207.609;23.57;3.03;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:49:05.033481
+76377008;800202;2-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;229.687;26.72;7.17;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:49:05.033481
+76377011;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;239.546;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377012;800600;2F;8395;Omer Faruk Asik;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;1;260.110;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:49:05.033481
+76377015;800102;1-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;1;289.688;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377016;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;289.688;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377017;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;1;304.746;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377019;100400;Steal;8394;Anthony Davis;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;1;319.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377020;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;1;327.172;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377021;800301;3+;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;327.172;27.23;14.52;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377023;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;357.414;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:49:05.033481
+76377024;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;357.414;22.88;4.41;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:49:05.033481
+76377030;300100;Foul;8394;Anthony Davis;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;1;374.848;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377033;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;450.770;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377034;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;471.770;20.66;3.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377037;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;484.490;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377038;800202;2-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;162;Jae Crowder;8;Boston Celtics;;;1;498.592;26.81;8.28;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:49:05.033481
+76377042;300100;Foul;8394;Anthony Davis;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;;;1;515.477;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377044;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;541.197;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377046;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;562.488;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377049;300100;Foul;7719;Eric Gordon;3279;New Orleans Pelicans;166;Isaiah Thomas;8;Boston Celtics;;;1;573.003;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377052;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;673.911;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377054;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;1;682.943;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377056;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;1;682.943;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377057;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;1;682.943;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377058;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;718.704;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377059;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;1;731.704;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377060;800301;3+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;731.704;24.20;0.93;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:49:05.033481
+76377063;200600;Post;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;764.571;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377064;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;764.571;24.74;4.26;;;;;;;;Post;;Jumper;;;;2017-12-07 03:49:05.033481
+76377068;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;;;1;771.736;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377071;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;808.018;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377072;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;808.018;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377073;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;1;823.329;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377074;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;823.329;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 03:49:05.033481
+76377076;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;1;842.562;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377077;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;;;1;850.832;26.72;8.19;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:49:05.033481
+76377081;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;1;874.218;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377082;200600;Post;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;874.218;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377083;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;874.218;26.99;4.65;;;;;;;;Post;;Jumper;;;;2017-12-07 03:49:05.033481
+76377087;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;890.166;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377088;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;890.166;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377093;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;949.112;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377094;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;969.112;21.56;2.97;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:49:05.033481
+76377097;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;162;Jae Crowder;8;Boston Celtics;;;1;982.727;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377101;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;1031.559;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377104;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;1060.756;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377105;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;1076.756;24.80;13.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377108;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1092.304;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377109;800302;3-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1098.893;19.79;9.51;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377112;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;1120.605;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377113;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;1;1136.235;26.42;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:49:05.033481
+76377119;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;162;Jae Crowder;8;Boston Celtics;;;1;1177.589;26.27;8.13;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:49:05.033481
+76377120;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;1177.589;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377122;300100;Foul;6753;Ryan Anderson;3279;New Orleans Pelicans;171;Jonas Jerebko;8;Boston Celtics;;;1;1177.589;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377123;100500;Turnover;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;1177.589;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377126;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1205.033;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377127;800400;2+1;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1210.752;27.08;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+76377130;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;171;Jonas Jerebko;8;Boston Celtics;;;1;1231.170;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377134;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;1;1270.284;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377135;200300;Pick'n'Roll;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;1270.284;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377136;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;1270.284;26.81;7.11;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:49:05.033481
+76377141;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377142;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377143;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377144;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377145;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377156;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;41.812;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377157;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;52.812;24.65;11.82;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377160;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;73.729;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377161;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;81.729;26.72;7.89;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 03:49:05.033481
+76377166;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;110.002;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377167;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;117.691;24.29;12.15;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377172;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;142.473;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377173;400101;Accurate pass;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;2;157.473;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377174;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;2;157.473;26.99;6.90;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:49:05.033481
+76377178;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;177.172;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377179;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;182.978;26.96;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+76377182;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;192.868;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377183;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;202.484;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377186;200600;Post;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;235.956;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377187;800600;2F;6753;Ryan Anderson;3279;New Orleans Pelicans;171;Jonas Jerebko;8;Boston Celtics;;;2;235.956;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:49:05.033481
+76377190;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;171;Jonas Jerebko;8;Boston Celtics;;;2;263.746;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377191;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;2;263.746;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377193;800102;1-;6753;Ryan Anderson;3279;New Orleans Pelicans;171;Jonas Jerebko;8;Boston Celtics;;;2;283.218;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377197;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;308.355;19.49;8.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377203;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;2;350.402;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377204;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;367.035;22.97;10.26;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377209;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;419.257;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377211;100500;Turnover;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;420.257;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377214;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;435.575;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377217;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;449.502;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377218;200600;Post;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;470.502;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377219;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;470.502;25.52;10.44;;;;;;;;Post;;Jumper;;;;2017-12-07 03:49:05.033481
+76377223;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;501.926;21.98;5.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377226;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;166;Isaiah Thomas;8;Boston Celtics;;;2;508.316;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377227;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;2;508.316;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377231;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;553.398;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377232;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;569.398;25.67;10.38;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:49:05.033481
+76377235;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;2;595.600;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377236;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;595.600;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377237;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;595.600;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 03:49:05.033481
+76377242;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;2;640.825;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377243;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;640.825;26.84;7.35;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 03:49:05.033481
+76377245;800600;2F;8393;Dante Cunningham;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;2;672.482;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:49:05.033481
+76377248;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;2;672.482;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377251;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;672.482;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377252;800101;1+;8393;Dante Cunningham;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;2;706.626;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377253;800101;1+;8393;Dante Cunningham;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;2;718.567;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377256;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;2;735.727;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377257;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;750.558;24.35;12.06;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:49:05.033481
+76377263;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;805.200;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377265;100500;Turnover;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;812.973;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377271;200300;Pick'n'Roll;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;2;886.431;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377272;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;2;886.431;25.22;7.32;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 03:49:05.033481
+76377275;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;928.378;26.84;6.51;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:49:05.033481
+76377276;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;928.378;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377277;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;928.378;26.57;7.26;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:49:05.033481
+76377280;300300;Technical foul;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;934.046;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377282;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;2;934.046;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377287;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;1024.938;22.73;3.87;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:49:05.033481
+76377292;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1058.182;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377295;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1089.399;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377296;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;1098.999;27.20;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377298;100400;Steal;7070;Norris Cole;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;;;2;1120.996;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377301;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377302;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377303;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377304;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377305;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377312;100400;Steal;9049;Tyreke Evans;3279;New Orleans Pelicans;166;Isaiah Thomas;8;Boston Celtics;;;3;11.929;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377313;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;3;20.592;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377314;800400;2+1;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;20.592;26.72;2.64;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377317;800101;1+;9128;Alonzo Gee;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;3;42.454;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377321;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;80.920;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377324;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;103.101;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377325;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;111.101;22.88;3.24;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377328;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;162;Jae Crowder;8;Boston Celtics;;;3;122.325;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377333;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;187.046;26.42;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:49:05.033481
+76377334;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;187.046;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377335;800600;2F;8395;Omer Faruk Asik;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;;;3;187.046;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 03:49:05.033481
+76377338;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;;;3;213.901;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377339;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;;;3;229.926;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377345;300100;Foul;7719;Eric Gordon;3279;New Orleans Pelicans;165;Avery Bradley;8;Boston Celtics;;;3;248.358;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377347;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;293.353;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377349;100500;Turnover;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;307.353;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377352;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;329.898;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377353;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;342.789;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:49:05.033481
+76377354;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;342.789;26.84;6.24;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 03:49:05.033481
+76377360;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;3;360.109;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377361;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;360.109;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377362;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;360.109;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377363;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;377.840;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377364;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;388.840;21.20;9.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377367;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;3;408.403;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377368;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;425.590;24.44;10.53;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377372;800600;2F;8399;Jrue Holiday;3279;New Orleans Pelicans;165;Avery Bradley;8;Boston Celtics;;;3;456.230;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 03:49:05.033481
+76377375;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;165;Avery Bradley;8;Boston Celtics;;;3;475.119;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377376;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;475.119;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377377;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;3;475.119;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377378;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;475.119;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377379;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;165;Avery Bradley;8;Boston Celtics;;;3;493.527;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377382;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;512.492;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377383;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;522.275;26.57;8.22;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:49:05.033481
+76377386;800202;2-;8393;Dante Cunningham;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;8403;Alexis Ajinca;3;548.170;26.27;7.89;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:49:05.033481
+76377390;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;3;556.863;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377391;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;573.833;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377392;200600;Post;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;591.833;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377393;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;591.833;26.84;9.30;;;;;;;;Post;;Hook;;;;2017-12-07 03:49:05.033481
+76377399;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;3;612.889;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377400;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;652.229;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377401;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;667.229;22.43;5.25;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377404;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;162;Jae Crowder;8;Boston Celtics;;;3;683.541;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377408;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;742.147;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377409;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;755.147;20.81;6.96;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377414;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;785.705;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377415;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;810.705;23.12;13.77;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377418;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;818.349;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377419;400101;Accurate pass;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;3;828.007;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377420;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;828.007;25.52;7.35;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377422;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;166;Isaiah Thomas;8;Boston Celtics;;;3;845.626;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377428;200600;Post;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;887.984;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377429;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;;;3;887.984;26.84;8.19;;;;;;;;Post;;Lay up;;;;2017-12-07 03:49:05.033481
+76377430;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;887.984;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377431;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;887.984;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:49:05.033481
+76377434;1600500;Guard;8590;Ishmael Smith;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;906.086;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377438;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;934.549;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377439;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;947.116;23.90;11.82;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377442;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;959.981;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377443;200600;Post;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;980.613;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377444;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;980.613;25.58;7.65;;;;;;;;Post;;Jumper;;;;2017-12-07 03:49:05.033481
+76377445;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;980.613;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377446;800600;2F;6753;Ryan Anderson;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;980.613;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 03:49:05.033481
+76377449;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;980.613;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377450;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;980.613;26.81;8.19;;;;;;;;Putbacks;;;;;;2017-12-07 03:49:05.033481
+76377451;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1005.484;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377454;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1024.229;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377457;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;1041.317;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377458;400101;Accurate pass;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;3;1052.442;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377459;200300;Pick'n'Roll;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;3;1052.442;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:49:05.033481
+76377460;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;3;1052.442;26.57;6.42;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 03:49:05.033481
+76377465;300100;Foul;8403;Alexis Ajinca;3279;New Orleans Pelicans;169;James Young;8;Boston Celtics;;;3;1079.824;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377468;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;3;1101.607;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377472;100400;Steal;8393;Dante Cunningham;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1126.475;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377473;400101;Accurate pass;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;3;1141.415;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377474;800301;3+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;3;1141.415;26.57;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377477;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;163;Amir Johnson;8;Boston Celtics;;;3;1150.067;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377481;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1200.018;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377482;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;1200.018;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377486;800600;2F;8590;Ishmael Smith;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1242.476;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:49:05.033481
+76377489;800102;1-;8590;Ishmael Smith;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1261.323;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377490;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;3;1261.323;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377492;800101;1+;8590;Ishmael Smith;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1278.615;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377496;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;7504;Evan Turner;8;Boston Celtics;;;3;1297.996;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377499;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1335.117;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377500;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;3;1349.517;22.88;13.77;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:49:05.033481
+76377502;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;3;1349.517;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377503;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1364.274;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377504;400101;Accurate pass;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;3;1369.574;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377505;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;1369.574;25.64;10.20;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:49:05.033481
+76377507;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;3;1399.222;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377508;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;3;1399.222;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 03:49:05.033481
+76377509;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;1404.827;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377510;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;1404.827;22.73;14.22;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 03:49:05.033481
+76377511;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;1404.827;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377514;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377515;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377516;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377517;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377518;1600500;Guard;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377524;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;10.136;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377525;400101;Accurate pass;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;24.136;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377526;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;24.136;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377527;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;4;24.136;25.82;10.74;;;;;;;;Post;;Jumper;;;;2017-12-07 03:49:05.033481
+76377529;100300;Rebound;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;77.852;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377533;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;107.865;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377534;400101;Accurate pass;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;4;117.865;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377535;800201;2+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;117.865;26.42;7.02;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 03:49:05.033481
+76377538;400101;Accurate pass;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;168.552;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377539;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;168.552;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377540;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;4;168.552;26.57;8.28;;;;;;;;Post;;Lay up;;;;2017-12-07 03:49:05.033481
+76377543;100300;Rebound;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;185.687;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377547;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;213.808;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377548;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;213.808;26.81;3.39;;;;;;;;Post;;Jumper;;;;2017-12-07 03:49:05.033481
+76377549;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;213.808;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377550;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;213.808;26.81;8.04;;;;;;;;Putbacks;;;;;;2017-12-07 03:49:05.033481
+76377561;300100;Foul;8394;Anthony Davis;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;257.391;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377566;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;326.523;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377567;800201;2+;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;349.523;24.95;11.52;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377569;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;389.607;25.64;12.45;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377573;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;7504;Evan Turner;8;Boston Celtics;;;4;411.391;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377575;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;4;430.887;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377577;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;447.738;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377578;200600;Post;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;463.738;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377579;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;463.738;26.57;7.83;;;;;;;;Post;;Lay up;;;;2017-12-07 03:49:05.033481
+76377580;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;463.738;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377581;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;463.738;26.36;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 03:49:05.033481
+76377586;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;492.349;25.34;10.14;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:49:05.033481
+76377588;100400;Steal;8399;Jrue Holiday;3279;New Orleans Pelicans;7504;Evan Turner;8;Boston Celtics;;;4;499.070;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377591;300100;Foul;6753;Ryan Anderson;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;512.360;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377595;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;553.223;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377596;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;4;574.223;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377597;200300;Pick'n'Roll;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;574.223;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:49:05.033481
+76377598;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;574.223;21.11;4.47;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 03:49:05.033481
+76377600;100300;Rebound;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;602.193;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377601;800302;3-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;612.788;19.79;8.04;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:49:05.033481
+76377605;800600;2F;8399;Jrue Holiday;3279;New Orleans Pelicans;169;James Young;8;Boston Celtics;;;4;644.315;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 03:49:05.033481
+76377608;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;644.315;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377610;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;644.315;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377611;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;169;James Young;8;Boston Celtics;;;4;693.955;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377612;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;169;James Young;8;Boston Celtics;;;4;705.881;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377616;800202;2-;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;740.082;25.82;8.64;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:49:05.033481
+76377618;100400;Steal;8394;Anthony Davis;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;754.554;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377620;1600500;Guard;8333;Luke Babbitt;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;4;758.801;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377621;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;758.801;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377623;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;850.035;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76377624;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;860.035;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377625;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;860.035;26.57;7.62;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 03:49:05.033481
+76377626;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;860.035;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377627;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;860.035;26.72;7.17;;;;;;;;Putbacks;;;;;;2017-12-07 03:49:05.033481
+76377629;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;876.317;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377630;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;895.096;25.19;3.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:49:05.033481
+76377631;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;895.096;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377632;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;895.096;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:49:05.033481
+76377634;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;910.063;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377635;800202;2-;8333;Luke Babbitt;3279;New Orleans Pelicans;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8590;Ishmael Smith;4;925.434;26.72;8.13;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 03:49:05.033481
+76377636;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;925.434;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377637;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;925.434;26.96;7.05;;;;;;;;Putbacks;;;;;;2017-12-07 03:49:05.033481
+76377643;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;937.994;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377647;400101;Accurate pass;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;4;995.951;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377648;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;995.951;25.34;12.60;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:49:05.033481
+76377652;200300;Pick'n'Roll;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;1025.247;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:49:05.033481
+76377653;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;1025.247;24.20;12.27;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:49:05.033481
+76377656;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;1033.010;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377657;800201;2+;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;1040.273;26.99;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+76377661;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;1069.032;22.10;4.50;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:49:05.033481
+76377666;100400;Steal;7070;Norris Cole;3279;New Orleans Pelicans;164;Jared Sullinger;8;Boston Celtics;;;4;1114.066;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377667;400101;Accurate pass;7070;Norris Cole;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;4;1119.010;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377668;800201;2+;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;1119.010;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 03:49:05.033481
+76377670;100300;Rebound;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;1139.414;;;;;;;;;;;;;;;;2017-12-07 03:49:05.033481
+76377671;800201;2+;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;1145.255;26.72;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:49:05.033481
+103690482;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;40.880;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690486;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;80.367;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690490;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;1;207.609;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690494;200900;Assisting;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;260.110;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690496;200900;Assisting;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;327.172;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690504;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;731.704;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690510;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;823.329;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690514;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;874.218;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690516;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;969.112;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690522;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1210.752;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690526;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;1270.284;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690528;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;52.812;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690530;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;2;157.473;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690532;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;182.978;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690536;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;235.956;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690540;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;367.035;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690546;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;569.398;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690550;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;595.600;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690554;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;640.825;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690558;200900;Assisting;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;2;672.482;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690566;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;2;886.431;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690572;200900;Assisting;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;20.592;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690576;200900;Assisting;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;187.046;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690584;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;456.230;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690590;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;667.229;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690594;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;828.007;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690598;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;887.984;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690600;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;980.613;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690602;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;3;1052.442;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690606;200900;Assisting;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;3;1141.415;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690612;200900;Assisting;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;3;1242.476;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690616;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;1369.574;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690620;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;4;24.136;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690622;200900;Assisting;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;117.865;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690626;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;4;168.552;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690634;200900;Assisting;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;349.523;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690638;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;389.607;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690644;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;574.223;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690648;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;644.315;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690652;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;860.035;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690654;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;895.096;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690658;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;995.951;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690662;200900;Assisting;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;1040.273;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690668;200900;Assisting;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;1119.010;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401
+103690670;200900;Assisting;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;1145.255;;;;;;;;;;;;;;;;2018-04-19 11:32:02.908401

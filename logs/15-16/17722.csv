@@ -1,0 +1,825 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77067554;1601000;Starting lineup;159;Cameron Bairstow;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067555;1601000;Starting lineup;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067556;1601000;Starting lineup;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067557;1601000;Starting lineup;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067558;1601000;Starting lineup;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067559;1601000;Starting lineup;161;Bobby Portis;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067560;1601000;Starting lineup;160;Aaron Brooks;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067561;1601000;Starting lineup;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067562;1601000;Starting lineup;79;Tony Snell;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067563;1601000;Starting lineup;156;Doug McDermott;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067564;1601000;Starting lineup;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067565;1601000;Starting lineup;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067566;1601000;Starting lineup;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067567;1601000;Starting lineup;7776;Jerian Grant;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067568;1601000;Starting lineup;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067569;1601000;Starting lineup;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067570;1601000;Starting lineup;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067571;1601000;Starting lineup;6036;Lance Thomas;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067572;1601000;Starting lineup;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067573;1601000;Starting lineup;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067574;1601000;Starting lineup;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067575;1601000;Starting lineup;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067576;1601000;Starting lineup;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067577;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067578;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067579;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067580;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067581;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067582;1600500;Guard;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067583;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067584;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067585;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067586;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067587;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067588;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;24.380;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067589;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;157;Nikola Mirotic;1;40.380;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067590;800301;3+;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;1;40.380;19.79;6.66;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:37:02.115874
+77067591;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;59.344;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067592;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;59.344;26.51;6.48;;;;;;;;Post;;Hook;;;;2017-12-07 11:37:02.115874
+77067593;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;59.344;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067594;800201;2+;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;1;66.787;27.08;6.90;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:37:02.115874
+77067595;100400;Steal;150;Taj Gibson;7;Chicago Bulls;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;87.087;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067596;100200;Game stop;;;;;;;;;;;1;88.728;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067597;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;150;Taj Gibson;7;Chicago Bulls;;;1;88.728;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067598;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;118.269;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067599;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;137.269;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067600;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;137.269;26.66;7.68;;;;;;;;Post;;Lay up;;;;2017-12-07 11:37:02.115874
+77067601;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;137.269;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067602;400101;Accurate pass;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;1;137.269;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067603;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;157;Nikola Mirotic;1;137.269;25.97;2.79;;;;;;;;Catch and Drive;;Hook;Drives Right;;;2017-12-07 11:37:02.115874
+77067604;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;153.513;23.18;12.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:37:02.115874
+77067605;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;153.513;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067606;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;153.513;27.08;7.11;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77067607;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;153.513;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067608;400101;Accurate pass;157;Nikola Mirotic;7;Chicago Bulls;;;;;72;Pau Gasol;1;165.977;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067609;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;157;Nikola Mirotic;1;165.977;22.88;9.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067610;100200;Game stop;;;;;;;;;;;1;174.835;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067611;1800600;Timeout;;;3173;New York Knicks;;;;;;;1;174.835;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067612;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;199.203;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067613;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;206.203;24.02;11.34;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:37:02.115874
+77067614;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;206.203;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067615;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;150;Taj Gibson;1;222.192;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067616;200300;Pick'n'Roll;150;Taj Gibson;7;Chicago Bulls;;;;;71;Jimmy Butler;1;222.192;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:37:02.115874
+77067617;800201;2+;150;Taj Gibson;7;Chicago Bulls;;;;;71;Jimmy Butler;1;222.192;23.87;4.17;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:37:02.115874
+77067618;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;72;Pau Gasol;7;Chicago Bulls;;;1;239.606;27.08;7.20;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:37:02.115874
+77067619;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;239.606;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067620;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;239.606;27.08;8.28;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77067621;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;239.606;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067622;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;239.606;26.84;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77067623;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;239.606;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067624;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;246.966;20.96;2.43;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:37:02.115874
+77067625;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;246.966;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067626;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;259.887;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067627;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;259.887;24.80;7.65;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77067628;100200;Game stop;;;;;;;;;;;1;259.887;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067629;100300;Rebound;;;3173;New York Knicks;;;;;;;1;259.887;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067630;300100;Foul;150;Taj Gibson;7;Chicago Bulls;6028;Kristaps Porzingis;3173;New York Knicks;;;1;259.887;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067631;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;280.911;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067632;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;288.911;22.52;3.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067633;100300;Rebound;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;1;288.911;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067634;800202;2-;150;Taj Gibson;7;Chicago Bulls;6030;Robin Lopez;3173;New York Knicks;;;1;300.795;26.84;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77067635;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;300.795;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067636;800302;3-;7493;Arron Afflalo;3173;New York Knicks;71;Jimmy Butler;7;Chicago Bulls;;;1;308.809;22.37;2.01;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:37:02.115874
+77067637;100300;Rebound;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;1;308.809;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067638;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;1142;Kirk Hinrich;1;321.067;22.28;5.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067639;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;321.067;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067640;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6028;Kristaps Porzingis;1;333.029;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067641;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;333.029;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067642;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;333.029;26.72;7.02;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:37:02.115874
+77067643;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;358.810;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067644;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;358.810;27.20;12.03;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77067645;100200;Game stop;;;;;;;;;;;1;377.035;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067646;100500;Turnover;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;377.035;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067647;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;390.652;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067648;100200;Game stop;;;;;;;;;;;1;400.652;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067649;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;1142;Kirk Hinrich;7;Chicago Bulls;;;1;400.652;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067650;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;413.588;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067651;400101;Accurate pass;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;418.588;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067652;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;1;418.588;26.99;8.19;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77067653;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;439.959;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067654;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;439.959;25.67;8.04;;;;;;;;Post;;Hook;;;;2017-12-07 11:37:02.115874
+77067655;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;460.566;25.67;8.73;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 11:37:02.115874
+77067656;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;460.566;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067657;100400;Steal;71;Jimmy Butler;7;Chicago Bulls;7493;Arron Afflalo;3173;New York Knicks;;;1;474.086;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067658;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;487.625;26.99;2.16;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067659;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;487.625;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067660;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;503.686;19.94;5.70;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:37:02.115874
+77067661;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;503.686;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067662;800202;2-;71;Jimmy Butler;7;Chicago Bulls;6028;Kristaps Porzingis;3173;New York Knicks;;;1;517.029;26.99;6.72;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:37:02.115874
+77067663;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;517.029;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067664;800600;2F;150;Taj Gibson;7;Chicago Bulls;6028;Kristaps Porzingis;3173;New York Knicks;;;1;517.029;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77067665;100200;Game stop;;;;;;;;;;;1;517.029;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067666;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;150;Taj Gibson;7;Chicago Bulls;;;1;517.029;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067667;800101;1+;150;Taj Gibson;7;Chicago Bulls;6028;Kristaps Porzingis;3173;New York Knicks;;;1;547.477;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067668;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;1;568.497;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067669;800101;1+;150;Taj Gibson;7;Chicago Bulls;6028;Kristaps Porzingis;3173;New York Knicks;;;1;568.497;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067670;100500;Turnover;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;575.578;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067671;1600500;Guard;161;Bobby Portis;7;Chicago Bulls;150;Taj Gibson;7;Chicago Bulls;;;1;621.006;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067672;1600500;Guard;6031;Kyle O'Quinn;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;1;621.006;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067673;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;631.381;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067674;400101;Accurate pass;1142;Kirk Hinrich;7;Chicago Bulls;;;;;157;Nikola Mirotic;1;637.381;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067675;800301;3+;157;Nikola Mirotic;7;Chicago Bulls;;;;;1142;Kirk Hinrich;1;637.381;24.20;14.37;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:37:02.115874
+77067676;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;654.627;27.20;2.10;;;;;;;;;;Jumper;;;;2017-12-07 11:37:02.115874
+77067677;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;72;Pau Gasol;1;674.808;19.79;9.99;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067678;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;674.808;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067679;100200;Game stop;;;;;;;;;;;1;685.443;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067680;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;6029;Carmelo Anthony;3173;New York Knicks;;;1;685.443;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067681;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;1;710.386;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067682;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;710.386;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067683;100200;Game stop;;;;;;;;;;;1;710.386;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067684;300100;Foul;161;Bobby Portis;7;Chicago Bulls;6031;Kyle O'Quinn;3173;New York Knicks;;;1;710.386;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067685;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;723.415;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067686;800202;2-;6036;Lance Thomas;3173;New York Knicks;157;Nikola Mirotic;7;Chicago Bulls;7478;Jose Manuel Calderon;1;730.415;26.12;10.11;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:37:02.115874
+77067687;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;1;730.415;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067688;400101;Accurate pass;161;Bobby Portis;7;Chicago Bulls;;;;;157;Nikola Mirotic;1;739.141;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067689;800301;3+;157;Nikola Mirotic;7;Chicago Bulls;;;;;161;Bobby Portis;1;739.141;22.28;13.44;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:37:02.115874
+77067690;400101;Accurate pass;6031;Kyle O'Quinn;3173;New York Knicks;;;;;6036;Lance Thomas;1;753.674;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067691;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;6031;Kyle O'Quinn;1;753.674;26.81;8.34;;;;;;;;Cut;;;;;;2017-12-07 11:37:02.115874
+77067692;400101;Accurate pass;157;Nikola Mirotic;7;Chicago Bulls;;;;;161;Bobby Portis;1;766.657;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067693;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;157;Nikola Mirotic;1;766.657;22.88;4.02;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:37:02.115874
+77067694;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6024;Kevin Seraphin;1;777.985;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067695;200300;Pick'n'Roll;6024;Kevin Seraphin;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;777.985;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:37:02.115874
+77067696;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;777.985;20.96;9.57;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:37:02.115874
+77067697;100200;Game stop;;;;;;;;;;;1;796.711;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067698;100500;Turnover;161;Bobby Portis;7;Chicago Bulls;;;;;;;1;796.711;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067699;1600500;Guard;160;Aaron Brooks;7;Chicago Bulls;1142;Kirk Hinrich;7;Chicago Bulls;;;1;833.218;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067700;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;833.218;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067701;400101;Accurate pass;6024;Kevin Seraphin;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;833.218;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067702;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;833.218;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067703;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;6024;Kevin Seraphin;1;833.218;24.50;11.67;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77067704;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;858.637;27.08;8.34;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:37:02.115874
+77067705;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;858.637;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067706;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;858.637;27.05;6.96;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77067707;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;858.637;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067708;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;161;Bobby Portis;1;858.637;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067709;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;71;Jimmy Butler;1;858.637;23.03;8.19;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:37:02.115874
+77067710;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;891.693;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067711;800301;3+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;891.693;21.50;13.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067712;200300;Pick'n'Roll;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;912.736;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:37:02.115874
+77067713;800600;2F;72;Pau Gasol;7;Chicago Bulls;6024;Kevin Seraphin;3173;New York Knicks;;;1;912.736;27.05;7.62;;;;;;;;Pick'n'pop;;;Drives Left;;;2017-12-07 11:37:02.115874
+77067714;100200;Game stop;;;;;;;;;;;1;912.736;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067715;300100;Foul;6024;Kevin Seraphin;3173;New York Knicks;72;Pau Gasol;7;Chicago Bulls;;;1;912.736;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067716;1800600;Timeout;;;7;Chicago Bulls;;;;;;;1;912.736;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067717;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;929.627;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067718;800101;1+;72;Pau Gasol;7;Chicago Bulls;6024;Kevin Seraphin;3173;New York Knicks;;;1;929.627;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067719;800101;1+;72;Pau Gasol;7;Chicago Bulls;6024;Kevin Seraphin;3173;New York Knicks;;;1;943.461;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067720;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;948.521;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067721;200600;Post;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;965.521;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067722;800202;2-;6031;Kyle O'Quinn;3173;New York Knicks;72;Pau Gasol;7;Chicago Bulls;;;1;965.521;26.72;6.72;;;;;;;;Post;;Lay up;;;;2017-12-07 11:37:02.115874
+77067723;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;965.521;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067724;800600;2F;71;Jimmy Butler;7;Chicago Bulls;369815;Langston Galloway;3173;New York Knicks;;;1;978.430;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:37:02.115874
+77067725;100200;Game stop;;;;;;;;;;;1;978.430;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067726;300100;Foul;369815;Langston Galloway;3173;New York Knicks;71;Jimmy Butler;7;Chicago Bulls;;;1;978.430;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067727;800102;1-;71;Jimmy Butler;7;Chicago Bulls;369815;Langston Galloway;3173;New York Knicks;;;1;1002.409;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067728;100300;Rebound;;;7;Chicago Bulls;;;;;;;1;1002.409;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067729;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6031;Kyle O'Quinn;3173;New York Knicks;;;1;1021.163;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067730;800101;1+;71;Jimmy Butler;7;Chicago Bulls;369815;Langston Galloway;3173;New York Knicks;;;1;1021.163;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067731;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;1023.169;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067732;400101;Accurate pass;6036;Lance Thomas;3173;New York Knicks;;;;;8329;Derrick Williams;1;1037.169;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067733;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;6036;Lance Thomas;1;1037.169;27.38;13.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067734;400101;Accurate pass;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;1062.494;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067735;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;1;1062.494;26.81;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77067736;800202;2-;6036;Lance Thomas;3173;New York Knicks;;;;;;;1;1080.371;22.73;5.55;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:37:02.115874
+77067737;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;1080.371;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067738;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;1093.609;27.23;7.83;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:37:02.115874
+77067739;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;1093.609;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067740;800600;2F;8329;Derrick Williams;3173;New York Knicks;160;Aaron Brooks;7;Chicago Bulls;;;1;1100.370;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:37:02.115874
+77067741;100200;Game stop;;;;;;;;;;;1;1100.370;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067742;300100;Foul;160;Aaron Brooks;7;Chicago Bulls;8329;Derrick Williams;3173;New York Knicks;;;1;1100.370;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067743;800102;1-;8329;Derrick Williams;3173;New York Knicks;160;Aaron Brooks;7;Chicago Bulls;;;1;1120.304;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067744;100300;Rebound;;;3173;New York Knicks;;;;;;;1;1120.304;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067745;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;1;1138.826;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067746;800101;1+;8329;Derrick Williams;3173;New York Knicks;160;Aaron Brooks;7;Chicago Bulls;;;1;1138.826;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067747;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;1142.060;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067748;800201;2+;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;1;1163.860;24.44;7.95;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:37:02.115874
+77067749;800302;3-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;1172.302;5.33;7.05;;;;;;;;;;Jumper;;;;2017-12-07 11:37:02.115874
+77067750;100300;Rebound;;;3173;New York Knicks;;;;;;;1;1172.302;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067751;1800500;Halftime;;;;;;;;;;;1;1172.302;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067752;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067753;1600500;Guard;79;Tony Snell;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067754;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067755;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067756;1600500;Guard;160;Aaron Brooks;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067757;1600500;Guard;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067758;1600500;Guard;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067759;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067760;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067761;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067762;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067763;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;3.625;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067764;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;28.625;22.25;3.57;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:37:02.115874
+77067765;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;49.409;22.97;2.70;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:37:02.115874
+77067766;400101;Accurate pass;8329;Derrick Williams;3173;New York Knicks;;;;;369815;Langston Galloway;2;62.738;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067767;800301;3+;369815;Langston Galloway;3173;New York Knicks;;;;;8329;Derrick Williams;2;62.738;19.64;5.64;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:37:02.115874
+77067768;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;2;81.882;26.72;7.83;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:37:02.115874
+77067769;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;81.882;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067770;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;89.362;22.43;13.74;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:37:02.115874
+77067771;100300;Rebound;156;Doug McDermott;7;Chicago Bulls;;;;;;;2;89.362;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067772;200600;Post;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;99.942;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067773;800202;2-;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;99.942;27.23;11.13;;;;;;;;Post;;Hook;;;;2017-12-07 11:37:02.115874
+77067774;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;99.942;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067775;800202;2-;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;108.830;27.05;7.02;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:37:02.115874
+77067776;100300;Rebound;156;Doug McDermott;7;Chicago Bulls;;;;;;;2;108.830;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067777;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;2;119.046;22.58;11.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:37:02.115874
+77067778;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;119.046;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067779;200300;Pick'n'Roll;6031;Kyle O'Quinn;3173;New York Knicks;;;;;369815;Langston Galloway;2;132.078;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067780;800202;2-;6031;Kyle O'Quinn;3173;New York Knicks;;;;;369815;Langston Galloway;2;132.078;24.35;7.26;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:37:02.115874
+77067781;100200;Game stop;;;;;;;;;;;2;132.078;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067782;100300;Rebound;;;7;Chicago Bulls;;;;;;;2;132.078;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067783;300100;Foul;6031;Kyle O'Quinn;3173;New York Knicks;150;Taj Gibson;7;Chicago Bulls;;;2;132.078;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067784;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;147.904;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067785;100200;Game stop;;;;;;;;;;;2;158.904;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067786;300100;Foul;369815;Langston Galloway;3173;New York Knicks;160;Aaron Brooks;7;Chicago Bulls;;;2;158.904;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067787;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;176.053;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067788;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;2;185.053;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067789;100200;Game stop;;;;;;;;;;;2;185.053;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067790;300100;Foul;160;Aaron Brooks;7;Chicago Bulls;6031;Kyle O'Quinn;3173;New York Knicks;;;2;185.053;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067791;800202;2-;160;Aaron Brooks;7;Chicago Bulls;;;;;;;2;185.053;26.81;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:37:02.115874
+77067792;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;198.879;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067793;800600;2F;8329;Derrick Williams;3173;New York Knicks;156;Doug McDermott;7;Chicago Bulls;;;2;211.879;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:37:02.115874
+77067794;100200;Game stop;;;;;;;;;;;2;211.879;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067795;300100;Foul;156;Doug McDermott;7;Chicago Bulls;8329;Derrick Williams;3173;New York Knicks;;;2;211.879;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067796;800101;1+;8329;Derrick Williams;3173;New York Knicks;156;Doug McDermott;7;Chicago Bulls;;;2;231.213;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067797;800101;1+;8329;Derrick Williams;3173;New York Knicks;156;Doug McDermott;7;Chicago Bulls;;;2;242.888;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067798;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;244.718;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067799;400101;Accurate pass;161;Bobby Portis;7;Chicago Bulls;;;;;160;Aaron Brooks;2;267.718;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067800;800301;3+;160;Aaron Brooks;7;Chicago Bulls;;;;;161;Bobby Portis;2;267.718;27.50;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067801;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6031;Kyle O'Quinn;2;286.465;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067802;200300;Pick'n'Roll;6031;Kyle O'Quinn;3173;New York Knicks;;;;;369815;Langston Galloway;2;286.465;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:37:02.115874
+77067803;800201;2+;6031;Kyle O'Quinn;3173;New York Knicks;;;;;369815;Langston Galloway;2;286.465;23.33;11.76;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:37:02.115874
+77067804;100200;Game stop;;;;;;;;;;;2;296.988;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067805;1800600;Timeout;;;3173;New York Knicks;;;;;;;2;296.988;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067806;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;2;320.724;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067807;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6031;Kyle O'Quinn;3173;New York Knicks;;;2;320.724;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067808;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;320.724;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067809;800302;3-;156;Doug McDermott;7;Chicago Bulls;;;;;;;2;320.724;20.36;3.96;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:37:02.115874
+77067810;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;320.724;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067811;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;334.880;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:37:02.115874
+77067812;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;334.880;26.72;7.02;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 11:37:02.115874
+77067813;400101;Accurate pass;160;Aaron Brooks;7;Chicago Bulls;;;;;156;Doug McDermott;2;368.083;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067814;800201;2+;156;Doug McDermott;7;Chicago Bulls;;;;;160;Aaron Brooks;2;368.083;22.43;11.76;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:37:02.115874
+77067815;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;386.365;24.20;2.85;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:37:02.115874
+77067816;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;386.365;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067817;400101;Accurate pass;160;Aaron Brooks;7;Chicago Bulls;;;;;161;Bobby Portis;2;400.305;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067818;800301;3+;161;Bobby Portis;7;Chicago Bulls;;;;;160;Aaron Brooks;2;400.305;20.21;10.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067819;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;417.353;27.02;7.62;;;;;;;;Isolation;;Dunk;Drives Left;;;2017-12-07 11:37:02.115874
+77067820;200600;Post;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;440.193;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067821;800202;2-;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;440.193;25.52;9.66;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77067822;800202;2-;156;Doug McDermott;7;Chicago Bulls;;;;;;;2;440.193;25.49;7.65;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:37:02.115874
+77067823;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;440.193;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067824;800201;2+;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;440.193;27.23;6.96;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:37:02.115874
+77067825;400101;Accurate pass;8329;Derrick Williams;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;464.914;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:37:02.115874
+77067826;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;8329;Derrick Williams;2;464.914;24.95;13.11;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:37:02.115874
+77067827;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;2;485.557;27.23;6.90;;;;;;;;Isolation;;Dunk;Drives Right;;;2017-12-07 11:37:02.115874
+77067828;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;2;485.557;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067829;800201;2+;79;Tony Snell;7;Chicago Bulls;;;;;;;2;485.557;27.08;6.96;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:37:02.115874
+77067830;100200;Game stop;;;;;;;;;;;2;485.557;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067831;1800600;Timeout;;;3173;New York Knicks;;;;;;;2;485.557;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067832;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;156;Doug McDermott;7;Chicago Bulls;;;2;519.650;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067833;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;79;Tony Snell;7;Chicago Bulls;;;2;519.650;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067834;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;2;519.650;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067835;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;2;519.650;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067836;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;519.650;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067837;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;519.650;27.08;6.78;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77067838;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;519.650;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067839;800302;3-;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;537.492;27.83;14.37;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:37:02.115874
+77067840;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;537.492;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067841;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;556.708;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067842;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;556.708;26.12;6.48;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77067843;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;556.708;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067844;800202;2-;7493;Arron Afflalo;3173;New York Knicks;150;Taj Gibson;7;Chicago Bulls;;;2;556.708;26.72;6.33;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:37:02.115874
+77067845;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;556.708;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067846;100200;Game stop;;;;;;;;;;;2;556.708;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067847;300100;Foul;6030;Robin Lopez;3173;New York Knicks;150;Taj Gibson;7;Chicago Bulls;;;2;556.708;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067848;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;161;Bobby Portis;7;Chicago Bulls;;;2;595.026;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067849;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;595.026;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067850;800201;2+;160;Aaron Brooks;7;Chicago Bulls;;;;;;;2;595.026;24.35;12.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:37:02.115874
+77067851;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;609.974;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067852;800301;3+;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;2;609.974;20.33;4.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067853;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;626.303;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067854;800400;2+1;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;626.303;25.82;7.80;;;;;;;;Post;;Hook;;;;2017-12-07 11:37:02.115874
+77067855;100200;Game stop;;;;;;;;;;;2;626.303;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067856;300100;Foul;6030;Robin Lopez;3173;New York Knicks;72;Pau Gasol;7;Chicago Bulls;;;2;626.303;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067857;800101;1+;72;Pau Gasol;7;Chicago Bulls;6030;Robin Lopez;3173;New York Knicks;;;2;649.366;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067858;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;651.438;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067859;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;673.438;21.20;7.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:37:02.115874
+77067860;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;673.438;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067861;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;673.438;26.99;8.22;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77067862;400101;Accurate pass;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;2;691.788;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067863;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;2;691.788;26.99;6.90;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77067864;100200;Game stop;;;;;;;;;;;2;703.280;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067865;300100;Foul;160;Aaron Brooks;7;Chicago Bulls;7493;Arron Afflalo;3173;New York Knicks;;;2;703.280;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067866;1600500;Guard;1142;Kirk Hinrich;7;Chicago Bulls;160;Aaron Brooks;7;Chicago Bulls;;;2;742.585;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067867;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;742.585;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067868;100200;Game stop;;;;;;;;;;;2;742.585;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067869;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;6030;Robin Lopez;3173;New York Knicks;;;2;742.585;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067870;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;757.547;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067871;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;767.547;27.05;6.90;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:37:02.115874
+77067872;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;793.559;28.58;7.11;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:37:02.115874
+77067873;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;793.559;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067874;800201;2+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;803.948;27.08;8.28;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:37:02.115874
+77067875;800600;2F;71;Jimmy Butler;7;Chicago Bulls;7493;Arron Afflalo;3173;New York Knicks;;;2;824.353;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:37:02.115874
+77067876;100200;Game stop;;;;;;;;;;;2;824.353;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067877;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;71;Jimmy Butler;7;Chicago Bulls;;;2;824.353;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067878;1800600;Timeout;;;7;Chicago Bulls;;;;;;;2;824.353;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067879;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;2;841.991;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067880;800102;1-;71;Jimmy Butler;7;Chicago Bulls;7493;Arron Afflalo;3173;New York Knicks;;;2;841.991;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067881;100300;Rebound;;;7;Chicago Bulls;;;;;;;2;841.991;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067882;800101;1+;71;Jimmy Butler;7;Chicago Bulls;7493;Arron Afflalo;3173;New York Knicks;;;2;854.413;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067883;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;856.796;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067884;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;873.796;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067885;800301;3+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;873.796;19.79;8.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067886;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;890.711;26.84;6.63;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77067887;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;890.711;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067888;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6028;Kristaps Porzingis;2;901.064;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067889;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;901.064;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:37:02.115874
+77067890;800301;3+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;901.064;19.19;6.27;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:37:02.115874
+77067891;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;916.706;21.05;3.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:37:02.115874
+77067892;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;916.706;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067893;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;927.719;21.35;12.57;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:37:02.115874
+77067894;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;927.719;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067895;800600;2F;6036;Lance Thomas;3173;New York Knicks;157;Nikola Mirotic;7;Chicago Bulls;;;2;937.853;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:37:02.115874
+77067896;100200;Game stop;;;;;;;;;;;2;937.853;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067897;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;6036;Lance Thomas;3173;New York Knicks;;;2;937.853;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067898;800101;1+;6036;Lance Thomas;3173;New York Knicks;157;Nikola Mirotic;7;Chicago Bulls;;;2;962.436;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067899;1800600;Timeout;;;7;Chicago Bulls;;;;;;;2;962.436;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067900;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;2;987.965;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067901;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;2;987.965;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067902;800101;1+;6036;Lance Thomas;3173;New York Knicks;157;Nikola Mirotic;7;Chicago Bulls;;;2;987.965;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067903;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;994.560;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067904;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;1002.360;26.81;7.02;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:37:02.115874
+77067905;800202;2-;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;1002.360;26.72;7.17;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77067906;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;1002.360;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067907;800202;2-;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;1002.360;26.51;6.78;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:37:02.115874
+77067908;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;1002.360;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067909;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1026.578;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067910;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1026.578;26.99;3.63;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77067911;100300;Rebound;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;2;1026.578;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067912;800302;3-;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;2;1032.656;20.66;4.11;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:37:02.115874
+77067913;100300;Rebound;;;7;Chicago Bulls;;;;;;;2;1032.656;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067914;1800500;Halftime;;;;;;;;;;;2;1032.656;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067915;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067916;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067917;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067918;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067919;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067920;1600500;Guard;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067921;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067922;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067923;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067924;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067925;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067926;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067927;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;14.347;22.73;2.64;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:37:02.115874
+77067928;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;14.347;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067929;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;35.644;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067930;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;35.644;27.05;11.22;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77067931;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;35.644;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067932;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;45.628;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:37:02.115874
+77067933;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;45.628;21.95;5.10;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:37:02.115874
+77067934;100300;Rebound;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;3;45.628;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067935;100200;Game stop;;;;;;;;;;;3;52.220;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067936;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;1142;Kirk Hinrich;7;Chicago Bulls;;;3;52.220;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067937;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;68.659;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067938;400101;Accurate pass;1142;Kirk Hinrich;7;Chicago Bulls;;;;;72;Pau Gasol;3;79.659;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067939;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;1142;Kirk Hinrich;3;79.659;22.13;5.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067940;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;99.498;26.81;10.92;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:37:02.115874
+77067941;100200;Game stop;;;;;;;;;;;3;99.498;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067942;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;99.498;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067943;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;127.807;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067944;400101;Accurate pass;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;3;141.807;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067945;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;157;Nikola Mirotic;3;141.807;22.58;5.88;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:37:02.115874
+77067946;100200;Game stop;;;;;;;;;;;3;141.807;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067947;1800600;Timeout;;;3173;New York Knicks;;;;;;;3;141.807;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067948;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;3;178.915;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067949;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;178.915;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067950;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;178.915;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067951;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;178.915;24.59;3.12;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77067952;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;178.915;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067953;800202;2-;71;Jimmy Butler;7;Chicago Bulls;6030;Robin Lopez;3173;New York Knicks;;;3;194.845;26.27;8.13;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:37:02.115874
+77067954;100200;Game stop;;;;;;;;;;;3;194.845;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067955;100300;Rebound;;;3173;New York Knicks;;;;;;;3;194.845;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067956;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;221.346;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067957;100200;Game stop;;;;;;;;;;;3;235.346;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067958;100500;Turnover;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;235.346;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067959;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;244.602;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067960;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;259.602;21.56;10.05;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:37:02.115874
+77067961;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;259.602;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067962;800201;2+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;270.699;26.84;6.78;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:37:02.115874
+77067963;100200;Game stop;;;;;;;;;;;3;286.072;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067964;100500;Turnover;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;286.072;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067965;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;299.459;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067966;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;320.459;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067967;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;320.459;26.66;6.96;;;;;;;;Post;;Lay up;;;;2017-12-07 11:37:02.115874
+77067968;800600;2F;150;Taj Gibson;7;Chicago Bulls;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;332.862;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:37:02.115874
+77067969;100200;Game stop;;;;;;;;;;;3;332.862;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067970;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;150;Taj Gibson;7;Chicago Bulls;;;3;332.862;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067971;800102;1-;150;Taj Gibson;7;Chicago Bulls;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;360.718;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067972;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;360.718;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067973;800101;1+;150;Taj Gibson;7;Chicago Bulls;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;374.314;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067974;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;379.151;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067975;800400;2+1;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;392.151;27.53;11.07;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:37:02.115874
+77067976;100200;Game stop;;;;;;;;;;;3;392.151;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067977;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;6036;Lance Thomas;3173;New York Knicks;;;3;392.151;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067978;1600500;Guard;79;Tony Snell;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;3;423.677;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067979;800101;1+;6036;Lance Thomas;3173;New York Knicks;157;Nikola Mirotic;7;Chicago Bulls;;;3;423.677;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067980;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;425.815;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067981;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;443.815;22.88;2.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77067982;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;443.815;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067983;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;150;Taj Gibson;7;Chicago Bulls;;;3;456.815;26.72;6.57;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:37:02.115874
+77067984;100300;Rebound;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;3;456.815;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067985;100400;Steal;7478;Jose Manuel Calderon;3173;New York Knicks;1142;Kirk Hinrich;7;Chicago Bulls;;;3;464.113;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067986;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;467.598;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067987;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;467.598;26.96;6.81;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:37:02.115874
+77067988;100200;Game stop;;;;;;;;;;;3;467.598;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067989;1800600;Timeout;;;7;Chicago Bulls;;;;;;;3;467.598;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067990;1600500;Guard;160;Aaron Brooks;7;Chicago Bulls;1142;Kirk Hinrich;7;Chicago Bulls;;;3;496.939;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067991;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;496.939;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067992;800201;2+;160;Aaron Brooks;7;Chicago Bulls;;;;;;;3;496.939;26.36;8.13;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:37:02.115874
+77067993;100200;Game stop;;;;;;;;;;;3;509.120;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067994;300300;Technical foul;150;Taj Gibson;7;Chicago Bulls;;;;;;;3;509.120;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067995;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;528.369;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067996;300100;Foul;150;Taj Gibson;7;Chicago Bulls;6028;Kristaps Porzingis;3173;New York Knicks;;;3;543.944;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77067997;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;559.592;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77067998;800201;2+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;565.592;22.67;9.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:37:02.115874
+77067999;800600;2F;72;Pau Gasol;7;Chicago Bulls;6030;Robin Lopez;3173;New York Knicks;;;3;582.491;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:37:02.115874
+77068000;100200;Game stop;;;;;;;;;;;3;582.491;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068001;300100;Foul;6030;Robin Lopez;3173;New York Knicks;72;Pau Gasol;7;Chicago Bulls;;;3;582.491;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068002;800101;1+;72;Pau Gasol;7;Chicago Bulls;6030;Robin Lopez;3173;New York Knicks;;;3;604.247;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068003;800101;1+;72;Pau Gasol;7;Chicago Bulls;6030;Robin Lopez;3173;New York Knicks;;;3;616.102;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068004;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;620.847;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068005;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;637.847;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:37:02.115874
+77068006;800400;2+1;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6030;Robin Lopez;3;637.847;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:37:02.115874
+77068007;100200;Game stop;;;;;;;;;;;3;637.847;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068008;300100;Foul;160;Aaron Brooks;7;Chicago Bulls;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;637.847;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068009;1600500;Guard;8396;E'Twaun Moore;7;Chicago Bulls;160;Aaron Brooks;7;Chicago Bulls;;;3;671.638;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068010;800101;1+;7478;Jose Manuel Calderon;3173;New York Knicks;160;Aaron Brooks;7;Chicago Bulls;;;3;671.638;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068011;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;676.125;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068012;100200;Game stop;;;;;;;;;;;3;686.125;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068013;300100;Foul;6030;Robin Lopez;3173;New York Knicks;72;Pau Gasol;7;Chicago Bulls;;;3;686.125;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068014;1600500;Guard;6031;Kyle O'Quinn;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;3;733.800;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068015;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;733.800;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068016;200300;Pick'n'Roll;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;3;733.800;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:37:02.115874
+77068017;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;3;733.800;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:37:02.115874
+77068018;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;733.800;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068019;800302;3-;6036;Lance Thomas;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;745.931;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068020;100300;Rebound;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;3;745.931;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068021;200300;Pick'n'Roll;150;Taj Gibson;7;Chicago Bulls;;;;;8396;E'Twaun Moore;3;755.269;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068022;800202;2-;150;Taj Gibson;7;Chicago Bulls;;;;;8396;E'Twaun Moore;3;755.269;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:37:02.115874
+77068023;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;755.269;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068024;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;767.677;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068025;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;767.677;27.05;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 11:37:02.115874
+77068026;800600;2F;71;Jimmy Butler;7;Chicago Bulls;6036;Lance Thomas;3173;New York Knicks;;;3;777.752;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068027;100200;Game stop;;;;;;;;;;;3;777.752;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068028;300100;Foul;6036;Lance Thomas;3173;New York Knicks;71;Jimmy Butler;7;Chicago Bulls;;;3;777.752;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068029;800101;1+;71;Jimmy Butler;7;Chicago Bulls;6036;Lance Thomas;3173;New York Knicks;;;3;799.327;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068030;1600500;Guard;161;Bobby Portis;7;Chicago Bulls;150;Taj Gibson;7;Chicago Bulls;;;3;814.820;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068031;800102;1-;71;Jimmy Butler;7;Chicago Bulls;6036;Lance Thomas;3173;New York Knicks;;;3;814.820;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068032;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;814.820;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068033;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;814.820;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068034;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;826.981;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068035;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;826.981;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068036;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;851.627;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068037;800202;2-;72;Pau Gasol;7;Chicago Bulls;6031;Kyle O'Quinn;3173;New York Knicks;;;3;851.627;27.05;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:37:02.115874
+77068038;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;3;851.627;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068039;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;851.627;27.05;7.62;;;;;;;;;;Jumper;;;;2017-12-07 11:37:02.115874
+77068040;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;851.627;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068041;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;872.475;27.05;7.62;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:37:02.115874
+77068042;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;872.475;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068043;400101;Accurate pass;8396;E'Twaun Moore;7;Chicago Bulls;;;;;71;Jimmy Butler;3;878.418;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068044;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;8396;E'Twaun Moore;3;878.418;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:37:02.115874
+77068045;100200;Game stop;;;;;;;;;;;3;895.540;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068046;300100;Foul;79;Tony Snell;7;Chicago Bulls;6036;Lance Thomas;3173;New York Knicks;;;3;895.540;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068047;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;3;932.597;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068048;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;932.597;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068049;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;932.597;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068050;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;8396;E'Twaun Moore;7;Chicago Bulls;;;3;932.597;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77068051;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;932.597;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068052;800202;2-;71;Jimmy Butler;7;Chicago Bulls;6031;Kyle O'Quinn;3173;New York Knicks;;;3;939.936;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:37:02.115874
+77068053;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;939.936;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068054;100200;Game stop;;;;;;;;;;;3;948.934;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068055;300100;Foul;6031;Kyle O'Quinn;3173;New York Knicks;8396;E'Twaun Moore;7;Chicago Bulls;;;3;948.934;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068056;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;960.417;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068057;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;3;981.417;27.05;7.62;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:37:02.115874
+77068058;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;3;981.417;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068059;100200;Game stop;;;;;;;;;;;3;1025.086;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068060;100500;Turnover;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;3;1025.086;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068061;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;1040.999;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068062;400101;Accurate pass;72;Pau Gasol;7;Chicago Bulls;;;;;161;Bobby Portis;3;1054.999;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068063;800301;3+;161;Bobby Portis;7;Chicago Bulls;;;;;72;Pau Gasol;3;1054.999;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068064;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;1084.122;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068065;800301;3+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;1084.122;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068066;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;1097.720;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:37:02.115874
+77068067;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;1097.720;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068068;800600;2F;71;Jimmy Butler;7;Chicago Bulls;6031;Kyle O'Quinn;3173;New York Knicks;;;3;1097.720;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77068069;100200;Game stop;;;;;;;;;;;3;1097.720;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068070;300100;Foul;6031;Kyle O'Quinn;3173;New York Knicks;71;Jimmy Butler;7;Chicago Bulls;;;3;1097.720;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068071;800101;1+;71;Jimmy Butler;7;Chicago Bulls;6031;Kyle O'Quinn;3173;New York Knicks;;;3;1119.378;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068072;800101;1+;71;Jimmy Butler;7;Chicago Bulls;6031;Kyle O'Quinn;3173;New York Knicks;;;3;1144.335;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068073;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;3;1144.335;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068074;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6031;Kyle O'Quinn;3173;New York Knicks;;;3;1144.335;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068075;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1148.684;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068076;800600;2F;8329;Derrick Williams;3173;New York Knicks;161;Bobby Portis;7;Chicago Bulls;;;3;1159.684;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068077;100200;Game stop;;;;;;;;;;;3;1159.684;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068078;300100;Foul;161;Bobby Portis;7;Chicago Bulls;8329;Derrick Williams;3173;New York Knicks;;;3;1159.684;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068079;800101;1+;8329;Derrick Williams;3173;New York Knicks;161;Bobby Portis;7;Chicago Bulls;;;3;1182.092;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068080;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;1216.358;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068081;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;3;1216.358;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068082;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;71;Jimmy Butler;7;Chicago Bulls;;;3;1216.358;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068083;800102;1-;8329;Derrick Williams;3173;New York Knicks;161;Bobby Portis;7;Chicago Bulls;;;3;1216.358;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068084;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;1216.358;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068085;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;1216.358;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068086;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;1229.983;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068087;800600;2F;72;Pau Gasol;7;Chicago Bulls;6024;Kevin Seraphin;3173;New York Knicks;;;3;1229.983;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:37:02.115874
+77068088;100200;Game stop;;;;;;;;;;;3;1229.983;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068089;300100;Foul;6024;Kevin Seraphin;3173;New York Knicks;72;Pau Gasol;7;Chicago Bulls;;;3;1229.983;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068090;800101;1+;72;Pau Gasol;7;Chicago Bulls;6024;Kevin Seraphin;3173;New York Knicks;;;3;1252.393;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068091;800101;1+;72;Pau Gasol;7;Chicago Bulls;6024;Kevin Seraphin;3173;New York Knicks;;;3;1265.961;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068092;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1271.235;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068093;100200;Game stop;;;;;;;;;;;3;1283.235;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068094;100500;Turnover;8329;Derrick Williams;3173;New York Knicks;;;;;;;3;1283.235;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068095;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;1295.348;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068096;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;3;1307.448;27.05;7.62;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:37:02.115874
+77068097;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;3;1307.448;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068098;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;;;3;1325.643;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:37:02.115874
+77068099;100300;Rebound;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;3;1325.643;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068100;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;1337.949;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068101;800201;2+;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;1337.949;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77068102;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;1357.020;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:37:02.115874
+77068103;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;3;1357.020;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068104;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;3;1357.020;27.05;7.62;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:37:02.115874
+77068105;1800500;Halftime;;;;;;;;;;;3;1370.620;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068106;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068107;1600500;Guard;79;Tony Snell;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068108;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068109;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068110;1600500;Guard;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068111;1600500;Guard;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068112;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068113;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068114;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068115;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068116;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068117;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;1.929;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068118;200600;Post;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;4;21.929;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068119;800600;2F;157;Nikola Mirotic;7;Chicago Bulls;7478;Jose Manuel Calderon;3173;New York Knicks;;;4;21.929;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:37:02.115874
+77068120;100200;Game stop;;;;;;;;;;;4;21.929;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068121;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;157;Nikola Mirotic;7;Chicago Bulls;;;4;21.929;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068122;800101;1+;157;Nikola Mirotic;7;Chicago Bulls;7478;Jose Manuel Calderon;3173;New York Knicks;;;4;54.037;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068123;800102;1-;157;Nikola Mirotic;7;Chicago Bulls;7478;Jose Manuel Calderon;3173;New York Knicks;;;4;69.289;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068124;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;69.289;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068125;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;69.289;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068126;200600;Post;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;90.445;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068127;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;90.445;27.05;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 11:37:02.115874
+77068128;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;90.445;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068129;800202;2-;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;105.398;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:37:02.115874
+77068130;100300;Rebound;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;105.398;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068131;100400;Steal;6024;Kevin Seraphin;3173;New York Knicks;8396;E'Twaun Moore;7;Chicago Bulls;;;4;105.398;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068132;800202;2-;8329;Derrick Williams;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;4;121.722;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77068133;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;121.722;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068134;100200;Game stop;;;;;;;;;;;4;133.232;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068135;300100;Foul;6024;Kevin Seraphin;3173;New York Knicks;157;Nikola Mirotic;7;Chicago Bulls;;;4;133.232;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068136;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;150.444;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068137;100200;Game stop;;;;;;;;;;;4;152.444;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068138;300100;Foul;6036;Lance Thomas;3173;New York Knicks;156;Doug McDermott;7;Chicago Bulls;;;4;152.444;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068139;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;167.159;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068140;400101;Accurate pass;8396;E'Twaun Moore;7;Chicago Bulls;;;;;157;Nikola Mirotic;4;180.159;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068141;800201;2+;157;Nikola Mirotic;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;180.159;27.05;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:37:02.115874
+77068142;800202;2-;6036;Lance Thomas;3173;New York Knicks;79;Tony Snell;7;Chicago Bulls;;;4;201.493;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77068143;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;201.493;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068144;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;201.493;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77068145;100300;Rebound;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;201.493;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068146;400101;Accurate pass;157;Nikola Mirotic;7;Chicago Bulls;;;;;156;Doug McDermott;4;212.059;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068147;800201;2+;156;Doug McDermott;7;Chicago Bulls;;;;;157;Nikola Mirotic;4;212.059;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068148;100200;Game stop;;;;;;;;;;;4;212.059;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068149;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;212.059;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068150;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;6024;Kevin Seraphin;3173;New York Knicks;;;4;248.364;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068151;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;4;248.364;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068152;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;79;Tony Snell;7;Chicago Bulls;;;4;248.364;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068153;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;248.364;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068154;100200;Game stop;;;;;;;;;;;4;248.364;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068155;300100;Foul;6036;Lance Thomas;3173;New York Knicks;157;Nikola Mirotic;7;Chicago Bulls;;;4;248.364;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068156;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;272.325;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068157;100400;Steal;6028;Kristaps Porzingis;3173;New York Knicks;161;Bobby Portis;7;Chicago Bulls;;;4;287.325;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068158;100200;Game stop;;;;;;;;;;;4;287.325;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068159;300100;Foul;161;Bobby Portis;7;Chicago Bulls;6028;Kristaps Porzingis;3173;New York Knicks;;;4;287.325;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068160;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;303.779;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068161;100200;Game stop;;;;;;;;;;;4;312.779;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068162;300100;Foul;156;Doug McDermott;7;Chicago Bulls;369815;Langston Galloway;3173;New York Knicks;;;4;312.779;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068163;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;329.917;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068164;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;338.917;27.05;7.62;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 11:37:02.115874
+77068165;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;4;338.917;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068166;800600;2F;71;Jimmy Butler;7;Chicago Bulls;6029;Carmelo Anthony;3173;New York Knicks;;;4;356.189;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:37:02.115874
+77068167;100200;Game stop;;;;;;;;;;;4;356.189;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068168;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;71;Jimmy Butler;7;Chicago Bulls;;;4;356.189;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068169;800101;1+;71;Jimmy Butler;7;Chicago Bulls;6029;Carmelo Anthony;3173;New York Knicks;;;4;380.770;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068170;800101;1+;71;Jimmy Butler;7;Chicago Bulls;6029;Carmelo Anthony;3173;New York Knicks;;;4;395.419;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068171;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;401.537;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068172;800600;2F;6036;Lance Thomas;3173;New York Knicks;71;Jimmy Butler;7;Chicago Bulls;;;4;413.537;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:37:02.115874
+77068173;100200;Game stop;;;;;;;;;;;4;413.537;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068174;300100;Foul;71;Jimmy Butler;7;Chicago Bulls;6036;Lance Thomas;3173;New York Knicks;;;4;413.537;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068175;800101;1+;6036;Lance Thomas;3173;New York Knicks;71;Jimmy Butler;7;Chicago Bulls;;;4;433.878;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068176;800101;1+;6036;Lance Thomas;3173;New York Knicks;71;Jimmy Butler;7;Chicago Bulls;;;4;449.919;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068177;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;454.395;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068178;100200;Game stop;;;;;;;;;;;4;468.395;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068179;100500;Turnover;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;468.395;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068180;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;478.585;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068181;400101;Accurate pass;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6036;Lance Thomas;4;493.585;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068182;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6036;Lance Thomas;4;493.585;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068183;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;6028;Kristaps Porzingis;4;493.585;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:37:02.115874
+77068184;400101;Accurate pass;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;4;504.708;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068185;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;157;Nikola Mirotic;4;504.708;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:37:02.115874
+77068186;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;517.368;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068187;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;157;Nikola Mirotic;7;Chicago Bulls;;;4;517.368;27.05;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:37:02.115874
+77068188;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;517.368;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068189;800202;2-;156;Doug McDermott;7;Chicago Bulls;;;;;;;4;523.307;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:37:02.115874
+77068190;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;523.307;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068191;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;523.307;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77068192;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;538.204;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068193;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;538.204;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068194;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;538.204;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:37:02.115874
+77068195;400101;Accurate pass;157;Nikola Mirotic;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;551.705;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068196;800201;2+;8396;E'Twaun Moore;7;Chicago Bulls;;;;;157;Nikola Mirotic;4;551.705;27.05;7.62;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:37:02.115874
+77068197;100400;Steal;157;Nikola Mirotic;7;Chicago Bulls;369815;Langston Galloway;3173;New York Knicks;;;4;567.764;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068198;800600;2F;161;Bobby Portis;7;Chicago Bulls;369815;Langston Galloway;3173;New York Knicks;;;4;573.687;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:37:02.115874
+77068199;100200;Game stop;;;;;;;;;;;4;573.687;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068200;300100;Foul;369815;Langston Galloway;3173;New York Knicks;161;Bobby Portis;7;Chicago Bulls;;;4;573.687;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068201;800101;1+;161;Bobby Portis;7;Chicago Bulls;369815;Langston Galloway;3173;New York Knicks;;;4;605.444;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068202;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;4;626.597;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068203;800101;1+;161;Bobby Portis;7;Chicago Bulls;369815;Langston Galloway;3173;New York Knicks;;;4;626.597;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068204;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;630.310;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068205;100200;Game stop;;;;;;;;;;;4;648.310;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068206;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;648.310;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068207;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;657.919;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068208;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;157;Nikola Mirotic;4;674.919;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068209;800301;3+;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;4;674.919;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068210;100200;Game stop;;;;;;;;;;;4;674.919;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068211;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;674.919;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068212;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;4;712.806;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068213;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;712.806;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068214;100400;Steal;157;Nikola Mirotic;7;Chicago Bulls;7493;Arron Afflalo;3173;New York Knicks;;;4;712.806;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068215;800202;2-;156;Doug McDermott;7;Chicago Bulls;;;;;71;Jimmy Butler;4;732.302;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77068216;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;732.302;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068217;800302;3-;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;740.814;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:37:02.115874
+77068218;100300;Rebound;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;740.814;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068219;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;763.067;27.05;7.62;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:37:02.115874
+77068220;200300;Pick'n'Roll;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;777.984;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068221;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;161;Bobby Portis;7;Chicago Bulls;;;4;777.984;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:37:02.115874
+77068222;100200;Game stop;;;;;;;;;;;4;777.984;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068223;300100;Foul;161;Bobby Portis;7;Chicago Bulls;6029;Carmelo Anthony;3173;New York Knicks;;;4;777.984;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068224;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;777.984;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068225;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;4;797.637;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068226;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;161;Bobby Portis;7;Chicago Bulls;;;4;797.637;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068227;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;161;Bobby Portis;7;Chicago Bulls;;;4;813.931;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068228;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;817.310;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068229;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;156;Doug McDermott;4;840.310;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068230;800301;3+;156;Doug McDermott;7;Chicago Bulls;;;;;71;Jimmy Butler;4;840.310;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068231;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;4;855.491;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068232;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;4;855.491;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068233;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;156;Doug McDermott;4;862.917;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068234;800301;3+;156;Doug McDermott;7;Chicago Bulls;;;;;71;Jimmy Butler;4;862.917;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:37:02.115874
+77068235;100200;Game stop;;;;;;;;;;;4;862.917;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068236;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;862.917;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068237;1600500;Guard;79;Tony Snell;7;Chicago Bulls;71;Jimmy Butler;7;Chicago Bulls;;;4;890.528;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068238;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;890.528;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068239;100200;Game stop;;;;;;;;;;;4;890.528;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068240;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;4;890.528;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068241;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;4;890.528;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068242;1600500;Guard;6034;Sasha Vujacic;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;4;890.528;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068243;800202;2-;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;890.528;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:37:02.115874
+77068244;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;890.528;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068245;800600;2F;6024;Kevin Seraphin;3173;New York Knicks;79;Tony Snell;7;Chicago Bulls;;;4;890.528;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:37:02.115874
+77068246;300100;Foul;79;Tony Snell;7;Chicago Bulls;6024;Kevin Seraphin;3173;New York Knicks;;;4;890.528;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068247;800102;1-;6024;Kevin Seraphin;3173;New York Knicks;79;Tony Snell;7;Chicago Bulls;;;4;907.387;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068248;100300;Rebound;;;3173;New York Knicks;;;;;;;4;907.387;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068249;800102;1-;6024;Kevin Seraphin;3173;New York Knicks;79;Tony Snell;7;Chicago Bulls;;;4;919.642;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068250;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;919.642;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068251;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;4;919.642;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068252;400101;Accurate pass;156;Doug McDermott;7;Chicago Bulls;;;;;79;Tony Snell;4;938.055;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:37:02.115874
+77068253;800201;2+;79;Tony Snell;7;Chicago Bulls;;;;;156;Doug McDermott;4;938.055;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:37:02.115874
+77068254;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;963.370;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068255;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;4;963.370;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068256;800202;2-;161;Bobby Portis;7;Chicago Bulls;6024;Kevin Seraphin;3173;New York Knicks;79;Tony Snell;4;983.861;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:37:02.115874
+77068257;100300;Rebound;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;4;983.861;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068258;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;6034;Sasha Vujacic;4;996.331;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:37:02.115874
+77068259;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;4;996.331;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068260;100200;Game stop;;;;;;;;;;;4;1002.458;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068261;100500;Turnover;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;1002.458;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068262;1600500;Guard;159;Cameron Bairstow;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;4;1029.712;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068263;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1029.712;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068264;800202;2-;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;4;1029.712;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:37:02.115874
+77068265;100300;Rebound;159;Cameron Bairstow;7;Chicago Bulls;;;;;;;4;1029.712;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068266;400101;Accurate pass;8396;E'Twaun Moore;7;Chicago Bulls;;;;;156;Doug McDermott;4;1045.688;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068267;200300;Pick'n'Roll;8396;E'Twaun Moore;7;Chicago Bulls;;;;;156;Doug McDermott;4;1045.688;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068268;800301;3+;156;Doug McDermott;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;1045.688;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 11:37:02.115874
+77068269;200600;Post;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;1063.580;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068270;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;1063.580;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:37:02.115874
+77068271;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;1063.580;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068272;800202;2-;159;Cameron Bairstow;7;Chicago Bulls;7776;Jerian Grant;3173;New York Knicks;79;Tony Snell;4;1078.727;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:37:02.115874
+77068273;100300;Rebound;159;Cameron Bairstow;7;Chicago Bulls;;;;;;;4;1078.884;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068274;800202;2-;159;Cameron Bairstow;7;Chicago Bulls;;;;;;;4;1078.884;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:37:02.115874
+77068275;100300;Rebound;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;1078.884;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068276;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;1093.361;27.05;7.62;;;;;;;;Cut;;Hook;;;;2017-12-07 11:37:02.115874
+77068277;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;1093.361;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068278;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;4;1119.746;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:37:02.115874
+77068279;100200;Game stop;;;;;;;;;;;4;1119.746;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068280;100300;Rebound;;;7;Chicago Bulls;;;;;;;4;1119.746;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068281;100500;Turnover;79;Tony Snell;7;Chicago Bulls;;;;;;;4;1119.746;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068282;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1147.666;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77068283;800202;2-;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;1159.366;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:37:02.115874
+77068284;100300;Rebound;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;1159.366;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068285;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;4;1170.150;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+77068286;1800700;Match end;;;;;;;;;;;4;1178.750;;;;;;;;;;;;;;;;2017-12-07 11:37:02.115874
+93269461;100500;Turnover;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;3;948.934;;;;;;;;;;;;;;;;2018-01-11 20:52:03.983799
+93269462;100500;Turnover;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;248.364;;;;;;;;;;;;;;;;2018-01-11 20:52:03.983799
+103656849;200900;Assisting;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;1;40.380;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656851;200900;Assisting;1142;Kirk Hinrich;7;Chicago Bulls;;;;;;;1;66.787;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656853;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;157;Nikola Mirotic;1;137.269;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656855;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;157;Nikola Mirotic;1;165.977;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656857;200900;Assisting;150;Taj Gibson;7;Chicago Bulls;;;;;71;Jimmy Butler;1;222.192;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656859;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;333.029;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656861;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;358.810;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656863;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;1;418.588;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656865;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;439.959;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656867;200900;Assisting;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;517.029;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656869;200900;Assisting;157;Nikola Mirotic;7;Chicago Bulls;;;;;1142;Kirk Hinrich;1;637.381;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656871;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;654.627;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656873;200900;Assisting;157;Nikola Mirotic;7;Chicago Bulls;;;;;161;Bobby Portis;1;739.141;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656875;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;6031;Kyle O'Quinn;1;753.674;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656877;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;157;Nikola Mirotic;1;766.657;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656879;200900;Assisting;6024;Kevin Seraphin;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;777.985;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656881;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;6024;Kevin Seraphin;1;833.218;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656883;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;71;Jimmy Butler;1;858.637;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656885;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;891.693;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656887;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;912.736;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656889;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;978.430;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656891;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;6036;Lance Thomas;1;1037.169;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656893;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;1;1062.494;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656895;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;1100.370;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656897;200900;Assisting;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;1;1163.860;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656899;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;28.625;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656901;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;49.409;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656903;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;8329;Derrick Williams;2;62.738;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656905;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;211.879;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656907;200900;Assisting;160;Aaron Brooks;7;Chicago Bulls;;;;;161;Bobby Portis;2;267.718;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656909;200900;Assisting;6031;Kyle O'Quinn;3173;New York Knicks;;;;;369815;Langston Galloway;2;286.465;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656911;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;334.880;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656913;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;160;Aaron Brooks;2;368.083;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656915;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;160;Aaron Brooks;2;400.305;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656917;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;417.353;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656919;200900;Assisting;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;440.193;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656921;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;8329;Derrick Williams;2;464.914;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656923;200900;Assisting;79;Tony Snell;7;Chicago Bulls;;;;;;;2;485.557;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656925;200900;Assisting;160;Aaron Brooks;7;Chicago Bulls;;;;;;;2;595.026;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656927;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;2;609.974;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656929;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;626.303;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656931;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;673.438;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656933;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;72;Pau Gasol;2;691.788;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656935;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;767.547;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656937;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;803.948;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656939;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;824.353;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656941;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;873.796;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656943;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;901.064;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656945;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;937.853;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656947;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;1142;Kirk Hinrich;3;79.659;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656949;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;157;Nikola Mirotic;3;141.807;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656951;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;270.699;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656953;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;320.459;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656955;200900;Assisting;150;Taj Gibson;7;Chicago Bulls;;;;;;;3;332.862;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656957;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;392.151;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656959;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;467.598;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656961;200900;Assisting;160;Aaron Brooks;7;Chicago Bulls;;;;;;;3;496.939;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656963;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;565.592;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656965;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;582.491;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656967;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6030;Robin Lopez;3;637.847;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656969;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;767.677;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656971;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;777.752;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656973;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;8396;E'Twaun Moore;3;878.418;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656975;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;72;Pau Gasol;3;1054.999;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656977;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;1084.122;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656979;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;1097.720;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656981;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;;;3;1159.684;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656983;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;1229.983;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656985;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;1337.949;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656987;200900;Assisting;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;3;1357.020;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656989;200900;Assisting;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;4;21.929;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656991;200900;Assisting;157;Nikola Mirotic;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;180.159;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656993;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;157;Nikola Mirotic;4;212.059;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656995;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;356.189;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656997;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;413.537;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103656999;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;6028;Kristaps Porzingis;4;493.585;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657001;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;157;Nikola Mirotic;4;504.708;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657003;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;523.307;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657005;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;538.204;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657007;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;157;Nikola Mirotic;4;551.705;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657009;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;573.687;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657011;200900;Assisting;157;Nikola Mirotic;7;Chicago Bulls;;;;;71;Jimmy Butler;4;674.919;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657013;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;763.067;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657015;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;777.984;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657017;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;71;Jimmy Butler;4;840.310;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657019;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;71;Jimmy Butler;4;862.917;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657021;200900;Assisting;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;4;890.528;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657023;200900;Assisting;79;Tony Snell;7;Chicago Bulls;;;;;156;Doug McDermott;4;938.055;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508
+103657025;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;1045.688;;;;;;;;;;;;;;;;2018-04-19 11:06:00.917508

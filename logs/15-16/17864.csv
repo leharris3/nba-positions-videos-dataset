@@ -1,0 +1,748 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76986891;1601000;Starting lineup;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986892;1601000;Starting lineup;10862;Ronnie Price;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986893;1601000;Starting lineup;13604;Cory Jefferson;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986894;1601000;Starting lineup;370642;TJ Warren;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986895;1601000;Starting lineup;5278;Devin Booker;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986896;1601000;Starting lineup;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986897;1601000;Starting lineup;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986898;1601000;Starting lineup;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986899;1601000;Starting lineup;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986900;1601000;Starting lineup;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986901;1601000;Starting lineup;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986902;1601000;Starting lineup;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986903;1601000;Starting lineup;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986904;1601000;Starting lineup;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986905;1601000;Starting lineup;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986906;1601000;Starting lineup;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986907;1601000;Starting lineup;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986908;1601000;Starting lineup;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986909;1601000;Starting lineup;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986910;1601000;Starting lineup;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986911;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986912;1600500;Guard;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986913;1600500;Guard;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986914;1600500;Guard;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986915;1600500;Guard;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986916;1600500;Guard;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986917;1600500;Guard;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986918;1600500;Guard;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986919;1600500;Guard;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986920;1600500;Guard;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986921;1600500;Guard;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986922;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;69.580;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76986923;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;8428;Alex Len;1;89.580;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986924;200300;Pick'n'Roll;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;89.580;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:00:03.638073
+76986925;800201;2+;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;89.580;24.80;10.53;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:00:03.638073
+76986926;100200;Game stop;;;;;;;;;;;1;98.702;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986927;100500;Turnover;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;98.702;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986928;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;102.676;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76986929;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;8591;Jon Leuer;1;111.676;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986930;200300;Pick'n'Roll;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;111.676;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986931;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;111.676;26.96;5.73;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:00:03.638073
+76986932;100200;Game stop;;;;;;;;;;;1;130.542;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986933;300100;Foul;419014;CJ McCollum;21;Portland Trail Blazers;8591;Jon Leuer;3175;Phoenix Suns;;;1;130.542;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986934;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;143.132;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76986935;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;155.132;20.18;10.92;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986936;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;155.274;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986937;100200;Game stop;;;;;;;;;;;1;183.556;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986938;300100;Foul;1152;Noah Vonleh;21;Portland Trail Blazers;371088;PJ Tucker;3175;Phoenix Suns;;;1;183.556;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986939;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;200.928;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76986940;800302;3-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;206.928;19.79;5.88;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76986941;100300;Rebound;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;206.928;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986942;100400;Steal;5279;Brandon Knight;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;1;215.304;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986943;800202;2-;8591;Jon Leuer;3175;Phoenix Suns;;;;;8428;Alex Len;1;233.115;26.42;8.19;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:00:03.638073
+76986944;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;233.115;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986945;800302;3-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;246.673;20.96;11.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986946;100300;Rebound;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;246.673;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986947;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;259.270;20.36;11.28;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76986948;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;259.270;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986949;800202;2-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;269.889;24.80;11.76;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76986950;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;1;269.889;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986951;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;8428;Alex Len;1;280.810;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986952;800201;2+;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;280.810;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:00:03.638073
+76986953;800302;3-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;310.349;20.81;11.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986954;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;310.791;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986955;400101;Accurate pass;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;1;314.544;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986956;800400;2+1;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;1;314.544;27.08;8.28;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:00:03.638073
+76986957;100200;Game stop;;;;;;;;;;;1;314.544;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986958;300100;Foul;8591;Jon Leuer;3175;Phoenix Suns;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;1;314.544;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986959;800101;1+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8591;Jon Leuer;3175;Phoenix Suns;;;1;336.741;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986960;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;337.506;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76986961;400101;Accurate pass;371088;PJ Tucker;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;348.506;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986962;200300;Pick'n'Roll;371088;PJ Tucker;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;348.506;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986963;800301;3+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;371088;PJ Tucker;1;348.506;19.94;6.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986964;800301;3+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;368.037;21.65;12.69;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76986965;200600;Post;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;384.734;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986966;800202;2-;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;384.734;27.08;10.83;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76986967;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;384.734;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986968;400101;Accurate pass;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;1;392.226;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986969;800201;2+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;392.226;27.53;13.29;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986970;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;408.443;26.03;9.48;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:00:03.638073
+76986971;800202;2-;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;408.953;27.20;7.50;;;;;;;;Putbacks;;;;;;2017-12-07 11:00:03.638073
+76986972;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;408.953;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986973;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;409.935;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986974;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;409.935;27.23;7.74;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:00:03.638073
+76986975;800302;3-;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;1;418.034;21.14;12.51;;;;;;;;;;Jumper;;;;2017-12-07 11:00:03.638073
+76986976;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;418.034;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986977;400101;Accurate pass;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;434.894;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986978;800201;2+;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;1;434.894;27.05;6.87;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:00:03.638073
+76986979;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;8428;Alex Len;1;448.990;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986980;800201;2+;8428;Alex Len;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;448.990;21.26;7.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986981;400101;Accurate pass;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;466.182;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986982;200300;Pick'n'Roll;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;466.182;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986983;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;1;466.182;20.51;7.83;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986984;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;478.536;19.88;5.70;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986985;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;478.536;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986986;800202;2-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;485.617;25.22;8.91;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986987;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;485.617;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986988;200300;Pick'n'Roll;8428;Alex Len;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;496.934;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:00:03.638073
+76986989;800202;2-;8428;Alex Len;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;496.934;26.84;8.34;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 11:00:03.638073
+76986990;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;496.934;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986991;400101;Accurate pass;1153;Damian Lillard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;508.956;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986992;800301;3+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;508.956;20.21;4.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986993;100200;Game stop;;;;;;;;;;;1;516.749;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986994;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;1;516.749;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986995;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;551.457;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76986996;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;559.457;24.14;4.86;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76986997;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;559.457;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986998;800202;2-;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;559.457;26.84;7.44;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:00:03.638073
+76986999;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;559.457;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987000;800302;3-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;575.516;24.14;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987001;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;577.433;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987002;800201;2+;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;577.433;27.23;7.35;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:00:03.638073
+76987003;400101;Accurate pass;8428;Alex Len;3175;Phoenix Suns;;;;;8591;Jon Leuer;1;591.798;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987004;200600;Post;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;591.798;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987005;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;8428;Alex Len;1;591.798;25.76;8.82;;;;;;;;Post;;Hook;;;;2017-12-07 11:00:03.638073
+76987006;100400;Steal;8591;Jon Leuer;3175;Phoenix Suns;1162;Mason Plumlee;21;Portland Trail Blazers;;;1;604.202;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987007;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;609.822;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987008;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;609.822;27.23;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76987009;800201;2+;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;626.551;26.84;7.74;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:00:03.638073
+76987010;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;638.174;25.67;6.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987011;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;638.174;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987012;800201;2+;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;645.928;26.99;8.22;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76987013;800202;2-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;662.646;25.37;6.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987014;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;662.646;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987015;800202;2-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;371088;PJ Tucker;3175;Phoenix Suns;;;1;669.235;26.42;6.09;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987016;100200;Game stop;;;;;;;;;;;1;669.235;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987017;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;1;669.235;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987018;1600500;Guard;1161;Allen Crabbe;21;Portland Trail Blazers;419014;CJ McCollum;21;Portland Trail Blazers;;;1;713.945;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987019;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;8591;Jon Leuer;3175;Phoenix Suns;;;1;713.945;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987020;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;5279;Brandon Knight;3175;Phoenix Suns;;;1;713.945;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987021;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;713.945;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987022;400101;Accurate pass;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;1;713.945;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987023;800301;3+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;713.945;20.54;2.70;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987024;400101;Accurate pass;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;5278;Devin Booker;1;730.062;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987025;800201;2+;5278;Devin Booker;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;1;730.062;27.05;7.56;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:00:03.638073
+76987026;800301;3+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;736.609;21.26;12.27;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987027;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;1;754.344;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987028;800301;3+;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;754.344;19.64;5.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987029;100200;Game stop;;;;;;;;;;;1;765.510;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987030;1800600;Timeout;;;21;Portland Trail Blazers;;;;;;;1;765.510;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987031;1600500;Guard;370642;TJ Warren;3175;Phoenix Suns;371088;PJ Tucker;3175;Phoenix Suns;;;1;817.266;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987032;1600500;Guard;1159;Meyers Leonard;21;Portland Trail Blazers;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;1;817.266;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987033;1600500;Guard;1158;Gerald Henderson;21;Portland Trail Blazers;1152;Noah Vonleh;21;Portland Trail Blazers;;;1;817.266;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987034;1600500;Guard;1160;Ed Davis;21;Portland Trail Blazers;1162;Mason Plumlee;21;Portland Trail Blazers;;;1;817.266;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987035;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;817.266;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987036;800302;3-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;817.266;21.56;12.57;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76987037;100200;Game stop;;;;;;;;;;;1;817.266;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987038;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;1;817.266;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987039;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;839.303;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987040;800202;2-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;1;847.303;23.87;10.65;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76987041;100200;Game stop;;;;;;;;;;;1;847.303;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987042;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;1;847.303;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987043;300100;Foul;5278;Devin Booker;3175;Phoenix Suns;1160;Ed Davis;21;Portland Trail Blazers;;;1;847.303;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987044;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;863.769;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987045;800202;2-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;873.769;27.05;7.11;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:00:03.638073
+76987046;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;873.769;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987047;100200;Game stop;;;;;;;;;;;1;883.065;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987048;100500;Turnover;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;1;883.065;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987049;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;896.317;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987050;800202;2-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;912.317;22.10;7.26;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76987051;100300;Rebound;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;1;912.317;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987052;200600;Post;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;925.014;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987053;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;925.014;25.22;7.89;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76987054;400101;Accurate pass;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;1;943.966;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987055;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;943.966;21.20;8.13;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76987056;100200;Game stop;;;;;;;;;;;1;954.577;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987057;300100;Foul;1161;Allen Crabbe;21;Portland Trail Blazers;5278;Devin Booker;3175;Phoenix Suns;;;1;954.577;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987058;1600500;Guard;13604;Cory Jefferson;3175;Phoenix Suns;8428;Alex Len;3175;Phoenix Suns;;;1;990.675;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987059;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;990.675;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987060;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;13604;Cory Jefferson;1;990.675;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987061;200300;Pick'n'Roll;13604;Cory Jefferson;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;990.675;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987062;800201;2+;13604;Cory Jefferson;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;990.675;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:00:03.638073
+76987063;800202;2-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;1014.348;22.13;8.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76987064;100300;Rebound;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;1016.218;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987065;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;1016.218;26.06;7.35;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:00:03.638073
+76987066;800302;3-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;1039.521;19.43;8.13;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987067;100300;Rebound;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;1039.521;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987068;400101;Accurate pass;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;1160;Ed Davis;1;1062.476;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987069;200300;Pick'n'Roll;1160;Ed Davis;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;1;1062.476;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987070;800400;2+1;1160;Ed Davis;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;1;1062.476;26.99;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:00:03.638073
+76987071;100200;Game stop;;;;;;;;;;;1;1062.476;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987072;300100;Foul;13604;Cory Jefferson;3175;Phoenix Suns;1160;Ed Davis;21;Portland Trail Blazers;;;1;1062.476;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987073;800102;1-;1160;Ed Davis;21;Portland Trail Blazers;13604;Cory Jefferson;3175;Phoenix Suns;;;1;1089.805;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987074;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;1089.805;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987075;100300;Rebound;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;1;1089.805;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987076;800302;3-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;1100.793;19.79;6.72;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76987077;100300;Rebound;;;3175;Phoenix Suns;;;;;;;1;1100.793;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987078;1800500;Halftime;;;;;;;;;;;1;1100.793;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987079;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987080;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987081;1600500;Guard;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987082;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987083;1600500;Guard;13604;Cory Jefferson;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987084;1600500;Guard;370642;TJ Warren;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987085;1600500;Guard;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987086;1600500;Guard;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987087;1600500;Guard;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987088;1600500;Guard;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987089;1600500;Guard;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987090;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987091;100400;Steal;5279;Brandon Knight;3175;Phoenix Suns;1161;Allen Crabbe;21;Portland Trail Blazers;;;2;17.312;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987092;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;5278;Devin Booker;2;23.595;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987093;800301;3+;5278;Devin Booker;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;23.595;19.94;6.03;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987094;200600;Post;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;42.969;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987095;800202;2-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;42.969;26.72;4.89;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76987096;100300;Rebound;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;2;42.969;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987097;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;2;56.871;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987098;800301;3+;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;56.871;20.18;5.70;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987099;200600;Post;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;2;81.207;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987100;800202;2-;1159;Meyers Leonard;21;Portland Trail Blazers;370642;TJ Warren;3175;Phoenix Suns;;;2;81.207;25.73;6.00;;;;;;;;Post;;Hook;;;;2017-12-07 11:00:03.638073
+76987101;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;370642;TJ Warren;3175;Phoenix Suns;;;2;81.385;26.63;8.43;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:00:03.638073
+76987102;100300;Rebound;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;2;81.385;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987103;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;81.385;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987104;100400;Steal;1161;Allen Crabbe;21;Portland Trail Blazers;9014;Mirza Teletovic;3175;Phoenix Suns;;;2;87.860;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987105;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;5278;Devin Booker;3175;Phoenix Suns;;;2;93.581;26.99;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76987106;100300;Rebound;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;2;93.690;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987107;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;2;93.690;26.81;7.50;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:00:03.638073
+76987108;800302;3-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;5278;Devin Booker;2;117.642;20.66;11.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987109;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;117.642;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987110;800302;3-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;128.179;20.63;3.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987111;100300;Rebound;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;128.179;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987112;800202;2-;5279;Brandon Knight;3175;Phoenix Suns;1158;Gerald Henderson;21;Portland Trail Blazers;;;2;133.651;26.99;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76987113;100200;Game stop;;;;;;;;;;;2;133.651;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987114;100300;Rebound;;;3175;Phoenix Suns;;;;;;;2;133.651;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987115;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;143.884;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987116;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;2;150.884;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987117;800301;3+;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;150.884;19.64;7.83;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76987118;800500;3+1;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;172.137;19.73;6.33;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987119;100200;Game stop;;;;;;;;;;;2;172.137;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987120;300100;Foul;5279;Brandon Knight;3175;Phoenix Suns;419014;CJ McCollum;21;Portland Trail Blazers;;;2;172.137;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987121;800101;1+;419014;CJ McCollum;21;Portland Trail Blazers;5279;Brandon Knight;3175;Phoenix Suns;;;2;227.402;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987122;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;230.035;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987123;100200;Game stop;;;;;;;;;;;2;244.035;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987124;100500;Turnover;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;244.035;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987125;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;249.075;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987126;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;264.075;26.99;5.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987127;400101;Accurate pass;5278;Devin Booker;3175;Phoenix Suns;;;;;13604;Cory Jefferson;2;283.289;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987128;800201;2+;13604;Cory Jefferson;3175;Phoenix Suns;;;;;5278;Devin Booker;2;283.289;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:00:03.638073
+76987129;400101;Accurate pass;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;1160;Ed Davis;2;304.666;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987130;200300;Pick'n'Roll;1160;Ed Davis;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;2;304.666;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987131;800201;2+;1160;Ed Davis;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;2;304.666;27.05;8.13;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:00:03.638073
+76987132;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;316.894;19.79;8.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987133;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;316.894;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987134;800302;3-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;2;328.514;20.75;11.58;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76987135;100300;Rebound;13604;Cory Jefferson;3175;Phoenix Suns;;;;;;;2;328.514;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987136;800301;3+;5278;Devin Booker;3175;Phoenix Suns;;;;;;;2;340.605;20.03;5.43;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76987137;400101;Accurate pass;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;2;362.533;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987138;800301;3+;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;362.533;20.51;11.22;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987139;100200;Game stop;;;;;;;;;;;2;370.678;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987140;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;2;370.678;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987141;1600500;Guard;10862;Ronnie Price;3175;Phoenix Suns;9014;Mirza Teletovic;3175;Phoenix Suns;;;2;410.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987142;1600500;Guard;8428;Alex Len;3175;Phoenix Suns;5278;Devin Booker;3175;Phoenix Suns;;;2;410.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987143;1600500;Guard;8591;Jon Leuer;3175;Phoenix Suns;13604;Cory Jefferson;3175;Phoenix Suns;;;2;410.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987144;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;410.820;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987145;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;8591;Jon Leuer;2;410.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987146;800301;3+;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;410.820;20.09;5.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987147;800202;2-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;433.051;26.99;7.68;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:00:03.638073
+76987148;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;2;433.051;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987149;100200;Game stop;;;;;;;;;;;2;441.351;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987150;300100;Foul;1159;Meyers Leonard;21;Portland Trail Blazers;5279;Brandon Knight;3175;Phoenix Suns;;;2;441.351;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987151;1600500;Guard;8736;Maurice Harkless;21;Portland Trail Blazers;1161;Allen Crabbe;21;Portland Trail Blazers;;;2;470.397;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987152;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;470.397;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987153;200300;Pick'n'Roll;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;470.397;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987154;800600;2F;8428;Alex Len;3175;Phoenix Suns;1160;Ed Davis;21;Portland Trail Blazers;;;2;470.397;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:00:03.638073
+76987155;100200;Game stop;;;;;;;;;;;2;470.397;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987156;300100;Foul;1160;Ed Davis;21;Portland Trail Blazers;8428;Alex Len;3175;Phoenix Suns;;;2;470.397;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987157;800101;1+;8428;Alex Len;3175;Phoenix Suns;1160;Ed Davis;21;Portland Trail Blazers;;;2;488.828;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987158;800102;1-;8428;Alex Len;3175;Phoenix Suns;1160;Ed Davis;21;Portland Trail Blazers;;;2;501.406;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987159;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;501.406;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987160;100300;Rebound;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;;;2;501.406;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987161;800302;3-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;522.145;20.96;3.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987162;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;524.088;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987163;800201;2+;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;524.088;26.81;6.12;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:00:03.638073
+76987164;200600;Post;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;541.413;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987165;800600;2F;8428;Alex Len;3175;Phoenix Suns;419014;CJ McCollum;21;Portland Trail Blazers;;;2;541.413;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:00:03.638073
+76987166;100200;Game stop;;;;;;;;;;;2;541.413;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987167;300100;Foul;419014;CJ McCollum;21;Portland Trail Blazers;8428;Alex Len;3175;Phoenix Suns;;;2;541.413;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987168;1800600;Timeout;;;;;;;;;;;2;541.413;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987169;1600500;Guard;8420;Eric Bledsoe;3175;Phoenix Suns;370642;TJ Warren;3175;Phoenix Suns;;;2;571.007;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987170;1600500;Guard;1153;Damian Lillard;21;Portland Trail Blazers;419014;CJ McCollum;21;Portland Trail Blazers;;;2;571.007;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987171;1600500;Guard;1151;Al-Farouq Aminu;21;Portland Trail Blazers;1160;Ed Davis;21;Portland Trail Blazers;;;2;571.007;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987172;1600500;Guard;1162;Mason Plumlee;21;Portland Trail Blazers;1159;Meyers Leonard;21;Portland Trail Blazers;;;2;571.007;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987173;800101;1+;8428;Alex Len;3175;Phoenix Suns;419014;CJ McCollum;21;Portland Trail Blazers;;;2;571.007;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987174;800101;1+;8428;Alex Len;3175;Phoenix Suns;419014;CJ McCollum;21;Portland Trail Blazers;;;2;582.145;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987175;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;585.009;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987176;200600;Post;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;602.009;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987177;800202;2-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;602.009;25.76;5.79;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76987178;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;2;602.009;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987179;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;10862;Ronnie Price;2;620.134;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987180;800301;3+;10862;Ronnie Price;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;620.134;25.76;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987181;800202;2-;8736;Maurice Harkless;21;Portland Trail Blazers;8428;Alex Len;3175;Phoenix Suns;;;2;630.903;27.08;6.96;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:00:03.638073
+76987182;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;630.903;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987183;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;640.072;25.49;7.20;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:00:03.638073
+76987184;800201;2+;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;2;651.737;27.05;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76987185;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;10862;Ronnie Price;2;676.369;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987186;800301;3+;10862;Ronnie Price;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;2;676.369;26.99;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987187;400101;Accurate pass;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;2;695.210;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987188;800301;3+;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;2;695.210;27.08;14.61;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76987189;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;709.961;19.94;5.70;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987190;100300;Rebound;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;710.803;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987191;200300;Pick'n'Roll;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;719.079;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987192;800600;2F;8428;Alex Len;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;2;719.079;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:00:03.638073
+76987193;100200;Game stop;;;;;;;;;;;2;719.079;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987194;300100;Foul;1153;Damian Lillard;21;Portland Trail Blazers;8428;Alex Len;3175;Phoenix Suns;;;2;719.079;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987195;800101;1+;8428;Alex Len;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;2;741.616;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987196;800102;1-;8428;Alex Len;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;2;752.382;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987197;100300;Rebound;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;2;752.382;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987198;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;752.382;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987199;100200;Game stop;;;;;;;;;;;2;763.276;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987200;300100;Foul;5279;Brandon Knight;3175;Phoenix Suns;1158;Gerald Henderson;21;Portland Trail Blazers;;;2;763.276;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987201;1800600;Timeout;;;21;Portland Trail Blazers;;;;;;;2;763.276;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987202;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;805.082;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987203;100200;Game stop;;;;;;;;;;;2;810.082;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987204;100500;Turnover;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;810.082;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987205;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;821.529;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987206;800202;2-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;837.529;25.22;6.03;;;;;;;;Screen off;;Floater;;;;2017-12-07 11:00:03.638073
+76987207;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;837.529;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987208;400101;Accurate pass;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;2;843.908;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987209;800201;2+;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;8736;Maurice Harkless;2;843.908;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:00:03.638073
+76987210;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;872.132;27.23;2.04;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76987211;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;872.132;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987212;400101;Accurate pass;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;8736;Maurice Harkless;2;878.117;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987213;800201;2+;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;2;878.117;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:00:03.638073
+76987214;800600;2F;8428;Alex Len;3175;Phoenix Suns;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;895.969;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:00:03.638073
+76987215;100200;Game stop;;;;;;;;;;;2;895.969;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987216;300100;Foul;1162;Mason Plumlee;21;Portland Trail Blazers;8428;Alex Len;3175;Phoenix Suns;;;2;895.969;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987217;1600500;Guard;1161;Allen Crabbe;21;Portland Trail Blazers;1158;Gerald Henderson;21;Portland Trail Blazers;;;2;895.969;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987218;800102;1-;8428;Alex Len;3175;Phoenix Suns;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;924.929;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987219;100300;Rebound;;;3175;Phoenix Suns;;;;;;;2;924.929;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987220;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;8591;Jon Leuer;3175;Phoenix Suns;;;2;951.811;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987221;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;5279;Brandon Knight;3175;Phoenix Suns;;;2;951.811;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987222;800101;1+;8428;Alex Len;3175;Phoenix Suns;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;951.811;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987223;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;956.382;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987224;100400;Steal;10862;Ronnie Price;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;2;970.382;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987225;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;989.634;22.28;5.10;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76987226;800202;2-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;2;1005.097;26.96;8.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987227;100300;Rebound;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;2;1005.097;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987228;800302;3-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;2;1014.063;27.68;14.58;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987229;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1014.063;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987230;800202;2-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;2;1020.392;26.96;6.36;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987231;100300;Rebound;10862;Ronnie Price;3175;Phoenix Suns;;;;;;;2;1020.392;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987232;800400;2+1;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;1036.634;25.67;8.34;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76987233;100200;Game stop;;;;;;;;;;;2;1036.634;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987234;300100;Foul;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8420;Eric Bledsoe;3175;Phoenix Suns;;;2;1036.634;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987235;1600500;Guard;419014;CJ McCollum;21;Portland Trail Blazers;8736;Maurice Harkless;21;Portland Trail Blazers;;;2;1064.323;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987236;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;2;1064.323;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987237;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;1065.516;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987238;800202;2-;1153;Damian Lillard;21;Portland Trail Blazers;8420;Eric Bledsoe;3175;Phoenix Suns;419014;CJ McCollum;2;1085.516;26.84;7.89;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:00:03.638073
+76987239;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1087.644;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987240;800202;2-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1087.644;27.08;7.92;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:00:03.638073
+76987241;100300;Rebound;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;2;1087.644;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987242;800302;3-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;2;1098.427;20.09;9.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987243;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1098.427;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987244;800302;3-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1101.655;5.51;7.59;;;;;;;;;;Jumper;;;;2017-12-07 11:00:03.638073
+76987245;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;2;1101.655;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987246;1800500;Halftime;;;;;;;;;;;2;1101.655;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987247;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987248;1600500;Guard;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987249;1600500;Guard;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987250;1600500;Guard;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987251;1600500;Guard;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987252;1600500;Guard;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987253;1600500;Guard;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987254;1600500;Guard;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987255;1600500;Guard;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987256;1600500;Guard;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987257;1600500;Guard;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987258;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;0.203;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987259;800302;3-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;23.203;19.88;6.78;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76987260;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;23.203;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987261;200600;Post;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;3;39.519;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987262;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;3;39.519;23.72;9.51;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76987263;400101;Accurate pass;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;1153;Damian Lillard;3;56.390;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987264;800201;2+;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1152;Noah Vonleh;3;56.390;27.35;1.89;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76987265;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;3;68.339;19.73;6.51;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76987266;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;3;68.339;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987267;800201;2+;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;78.188;24.05;12.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987268;400101;Accurate pass;371088;PJ Tucker;3175;Phoenix Suns;;;;;8428;Alex Len;3;92.311;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987269;800201;2+;8428;Alex Len;3175;Phoenix Suns;;;;;371088;PJ Tucker;3;92.311;22.73;5.34;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76987270;800302;3-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;120.020;19.79;5.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987271;100300;Rebound;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;120.020;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987272;800202;2-;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;137.682;22.82;10.44;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987273;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;141.121;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987274;800202;2-;8428;Alex Len;3175;Phoenix Suns;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;3;145.686;26.12;6.57;;;;;;;;;;Jumper;;;;2017-12-07 11:00:03.638073
+76987275;100300;Rebound;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;145.686;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987276;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;3;149.535;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987277;800201;2+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;149.535;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:00:03.638073
+76987278;800202;2-;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;156.560;27.08;7.80;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:00:03.638073
+76987279;800201;2+;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;158.128;26.84;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:00:03.638073
+76987280;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;158.128;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987281;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;3;177.731;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987282;800301;3+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;177.731;19.94;5.79;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76987283;100400;Steal;419014;CJ McCollum;21;Portland Trail Blazers;5279;Brandon Knight;3175;Phoenix Suns;;;3;195.146;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987284;800302;3-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;202.358;26.99;14.52;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987285;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;202.538;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987286;200600;Post;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;208.998;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987287;800201;2+;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;208.998;25.22;7.98;;;;;;;;Post;;Hook;;;;2017-12-07 11:00:03.638073
+76987288;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;3;254.702;20.75;11.37;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76987289;100200;Game stop;;;;;;;;;;;3;254.702;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987290;100300;Rebound;;;3175;Phoenix Suns;;;;;;;3;254.702;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987291;100500;Turnover;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;3;254.702;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987292;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;265.573;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987293;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;281.573;24.35;12.36;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76987294;100400;Steal;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8591;Jon Leuer;3175;Phoenix Suns;;;3;298.961;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987295;100200;Game stop;;;;;;;;;;;3;300.565;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987296;300100;Foul;371088;PJ Tucker;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;3;300.565;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987297;1600500;Guard;10862;Ronnie Price;3175;Phoenix Suns;5279;Brandon Knight;3175;Phoenix Suns;;;3;341.891;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987298;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;341.891;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987299;800301;3+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;341.891;19.94;10.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987300;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;355.382;27.05;6.66;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76987301;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;358.470;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987302;800202;2-;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;358.470;27.08;8.10;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:00:03.638073
+76987303;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;358.470;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987304;800202;2-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;367.802;26.72;7.98;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:00:03.638073
+76987305;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;3;367.802;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987306;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;380.426;26.99;7.95;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:00:03.638073
+76987307;100200;Game stop;;;;;;;;;;;3;424.580;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987308;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;8428;Alex Len;3175;Phoenix Suns;;;3;424.580;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987309;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;424.580;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987310;800302;3-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;424.580;19.64;6.72;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76987311;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;424.580;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987312;800301;3+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;433.048;19.94;6.63;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987313;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;458.759;22.28;10.14;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76987314;100300;Rebound;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;458.759;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987315;800302;3-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;3;482.815;21.71;2.01;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987316;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;482.815;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987317;100200;Game stop;;;;;;;;;;;3;494.997;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987318;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;3;494.997;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987319;1600500;Guard;1158;Gerald Henderson;21;Portland Trail Blazers;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;3;522.828;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987320;1600500;Guard;1161;Allen Crabbe;21;Portland Trail Blazers;419014;CJ McCollum;21;Portland Trail Blazers;;;3;522.828;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987321;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;522.828;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987322;800600;2F;1153;Damian Lillard;21;Portland Trail Blazers;8591;Jon Leuer;3175;Phoenix Suns;;;3;522.828;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:00:03.638073
+76987323;100200;Game stop;;;;;;;;;;;3;522.828;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987324;300100;Foul;8591;Jon Leuer;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;3;522.828;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987325;800102;1-;1153;Damian Lillard;21;Portland Trail Blazers;8591;Jon Leuer;3175;Phoenix Suns;;;3;542.613;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987326;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;3;542.613;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987327;800101;1+;1153;Damian Lillard;21;Portland Trail Blazers;8591;Jon Leuer;3175;Phoenix Suns;;;3;556.955;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987328;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;559.005;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987329;400101;Accurate pass;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;8591;Jon Leuer;3;584.005;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987330;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;3;584.005;24.35;9.51;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76987331;100200;Game stop;;;;;;;;;;;3;600.854;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987332;100500;Turnover;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;3;600.854;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987333;1600500;Guard;1159;Meyers Leonard;21;Portland Trail Blazers;1152;Noah Vonleh;21;Portland Trail Blazers;;;3;635.757;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987334;1600500;Guard;1160;Ed Davis;21;Portland Trail Blazers;1162;Mason Plumlee;21;Portland Trail Blazers;;;3;635.757;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987335;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;635.757;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987336;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;635.757;27.08;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:00:03.638073
+76987337;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;635.757;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987338;800202;2-;1153;Damian Lillard;21;Portland Trail Blazers;10862;Ronnie Price;3175;Phoenix Suns;;;3;643.148;26.51;8.43;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987339;100200;Game stop;;;;;;;;;;;3;643.148;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987340;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;3;643.148;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987341;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;658.962;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987342;200300;Pick'n'Roll;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1153;Damian Lillard;3;670.962;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:00:03.638073
+76987343;800302;3-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1153;Damian Lillard;3;670.962;19.79;7.98;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:00:03.638073
+76987344;100200;Game stop;;;;;;;;;;;3;670.962;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987345;100300;Rebound;;;3175;Phoenix Suns;;;;;;;3;670.962;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987346;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;681.009;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987347;800302;3-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;3;690.009;20.09;10.05;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987348;100300;Rebound;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;690.009;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987349;800302;3-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1153;Damian Lillard;3;702.646;19.94;6.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987350;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;702.626;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987351;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;702.626;26.72;7.89;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:00:03.638073
+76987352;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;702.626;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987353;100200;Game stop;;;;;;;;;;;3;709.878;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987354;300100;Foul;1158;Gerald Henderson;21;Portland Trail Blazers;8420;Eric Bledsoe;3175;Phoenix Suns;;;3;709.878;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987355;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;728.133;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987356;800600;2F;8420;Eric Bledsoe;3175;Phoenix Suns;1159;Meyers Leonard;21;Portland Trail Blazers;;;3;734.133;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:00:03.638073
+76987357;100200;Game stop;;;;;;;;;;;3;734.133;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987358;300100;Foul;1159;Meyers Leonard;21;Portland Trail Blazers;8420;Eric Bledsoe;3175;Phoenix Suns;;;3;734.133;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987359;800102;1-;8420;Eric Bledsoe;3175;Phoenix Suns;1159;Meyers Leonard;21;Portland Trail Blazers;;;3;755.151;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987360;100300;Rebound;;;3175;Phoenix Suns;;;;;;;3;755.151;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987361;800102;1-;8420;Eric Bledsoe;3175;Phoenix Suns;1159;Meyers Leonard;21;Portland Trail Blazers;;;3;769.416;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987362;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;769.416;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987363;100300;Rebound;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;3;769.416;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987364;400101;Accurate pass;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1159;Meyers Leonard;3;783.249;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987365;200300;Pick'n'Roll;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1153;Damian Lillard;3;783.249;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987366;800201;2+;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1153;Damian Lillard;3;783.249;23.12;7.56;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:00:03.638073
+76987367;800201;2+;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;799.927;27.08;6.66;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:00:03.638073
+76987368;100400;Steal;10862;Ronnie Price;3175;Phoenix Suns;1159;Meyers Leonard;21;Portland Trail Blazers;;;3;815.461;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987369;800600;2F;9014;Mirza Teletovic;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;3;820.299;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:00:03.638073
+76987370;100200;Game stop;;;;;;;;;;;3;820.299;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987371;300100;Foul;1153;Damian Lillard;21;Portland Trail Blazers;9014;Mirza Teletovic;3175;Phoenix Suns;;;3;820.299;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987372;1800600;Timeout;;;21;Portland Trail Blazers;;;;;;;3;820.299;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987373;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;371088;PJ Tucker;3175;Phoenix Suns;;;3;882.158;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987374;1600500;Guard;13604;Cory Jefferson;3175;Phoenix Suns;8591;Jon Leuer;3175;Phoenix Suns;;;3;882.158;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987375;800101;1+;9014;Mirza Teletovic;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;3;882.158;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987376;800102;1-;9014;Mirza Teletovic;3175;Phoenix Suns;1153;Damian Lillard;21;Portland Trail Blazers;;;3;895.804;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987377;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;895.804;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987378;100300;Rebound;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;3;895.804;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987379;800302;3-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;921.104;19.79;5.43;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76987380;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;924.783;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987381;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;924.783;26.99;8.28;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:00:03.638073
+76987382;100300;Rebound;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;3;926.602;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987383;100400;Steal;8420;Eric Bledsoe;3175;Phoenix Suns;1159;Meyers Leonard;21;Portland Trail Blazers;;;3;926.602;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987384;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;933.032;21.26;7.80;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987385;400101;Accurate pass;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;3;951.374;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987386;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1153;Damian Lillard;3;951.374;24.35;8.22;;;;;;;;Screen off;;Floater;;;;2017-12-07 11:00:03.638073
+76987387;800301;3+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;975.216;20.09;9.75;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987388;800202;2-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;989.219;26.66;8.49;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76987389;100300;Rebound;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;989.219;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987390;800302;3-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;999.014;26.57;0.93;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76987391;100300;Rebound;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;999.014;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987392;800202;2-;1153;Damian Lillard;21;Portland Trail Blazers;13604;Cory Jefferson;3175;Phoenix Suns;;;3;1006.544;27.05;7.74;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:00:03.638073
+76987393;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;1009.527;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987394;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;1009.527;27.20;8.43;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:00:03.638073
+76987395;100300;Rebound;13604;Cory Jefferson;3175;Phoenix Suns;;;;;;;3;1009.527;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987396;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;1035.668;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987397;800302;3-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;3;1041.221;15.80;12.96;;;;;;;;;;Jumper;;;;2017-12-07 11:00:03.638073
+76987398;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;3;1041.221;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987399;1800500;Halftime;;;;;;;;;;;3;1041.221;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987400;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987401;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987402;1600500;Guard;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987403;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987404;1600500;Guard;10862;Ronnie Price;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987405;1600500;Guard;13604;Cory Jefferson;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987406;1600500;Guard;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987407;1600500;Guard;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987408;1600500;Guard;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987409;1600500;Guard;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987410;1600500;Guard;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987411;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;22.456;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987412;800202;2-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;4;39.456;25.64;12.60;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76987413;100300;Rebound;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;39.456;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987414;800202;2-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;48.468;25.52;5.19;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76987415;100300;Rebound;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;4;48.468;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987416;800302;3-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;4;56.184;20.09;9.96;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987417;100300;Rebound;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;4;56.184;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987418;400101;Accurate pass;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1160;Ed Davis;4;77.588;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987419;200300;Pick'n'Roll;1160;Ed Davis;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;4;77.588;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987420;800201;2+;1160;Ed Davis;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;4;77.588;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:00:03.638073
+76987421;200600;Post;13604;Cory Jefferson;3175;Phoenix Suns;;;;;;;4;98.011;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987422;800202;2-;13604;Cory Jefferson;3175;Phoenix Suns;;;;;;;4;98.011;26.72;10.05;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76987423;100300;Rebound;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;98.011;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987424;400101;Accurate pass;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;4;110.816;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:00:03.638073
+76987425;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1159;Meyers Leonard;4;110.816;21.71;9.30;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76987426;800202;2-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;4;126.564;21.56;6.42;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987427;100300;Rebound;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;126.564;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987428;800302;3-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;140.475;22.73;1.77;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987429;100300;Rebound;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;4;140.475;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987430;800302;3-;10862;Ronnie Price;3175;Phoenix Suns;1161;Allen Crabbe;21;Portland Trail Blazers;5279;Brandon Knight;4;166.397;21.14;2.40;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:00:03.638073
+76987431;100200;Game stop;;;;;;;;;;;4;166.397;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987432;100300;Rebound;;;3175;Phoenix Suns;;;;;;;4;166.397;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987433;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;166.397;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987434;100200;Game stop;;;;;;;;;;;4;166.397;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987435;100500;Turnover;10862;Ronnie Price;3175;Phoenix Suns;;;;;;;4;166.397;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987436;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;187.872;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987437;100200;Game stop;;;;;;;;;;;4;193.872;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987438;300100;Foul;10862;Ronnie Price;3175;Phoenix Suns;419014;CJ McCollum;21;Portland Trail Blazers;;;4;193.872;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987439;1600500;Guard;370642;TJ Warren;3175;Phoenix Suns;10862;Ronnie Price;3175;Phoenix Suns;;;4;225.669;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987440;1600500;Guard;8591;Jon Leuer;3175;Phoenix Suns;13604;Cory Jefferson;3175;Phoenix Suns;;;4;225.669;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987441;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;225.669;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987442;200300;Pick'n'Roll;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;225.669;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:00:03.638073
+76987443;800302;3-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;225.669;19.88;6.27;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:00:03.638073
+76987444;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;4;225.669;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987445;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;4;238.325;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987446;800301;3+;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;238.325;20.96;12.21;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987447;800302;3-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;262.455;19.73;6.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987448;100300;Rebound;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;262.716;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987449;800201;2+;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;266.913;27.05;6.51;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 11:00:03.638073
+76987450;100200;Game stop;;;;;;;;;;;4;273.904;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987451;1800600;Timeout;;;;;;;;;;;4;273.904;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987452;800600;2F;370642;TJ Warren;3175;Phoenix Suns;1161;Allen Crabbe;21;Portland Trail Blazers;;;4;273.904;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987453;300100;Foul;1161;Allen Crabbe;21;Portland Trail Blazers;370642;TJ Warren;3175;Phoenix Suns;;;4;273.904;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987454;1600500;Guard;1151;Al-Farouq Aminu;21;Portland Trail Blazers;1159;Meyers Leonard;21;Portland Trail Blazers;;;4;318.022;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987455;800102;1-;370642;TJ Warren;3175;Phoenix Suns;1161;Allen Crabbe;21;Portland Trail Blazers;;;4;318.022;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987456;100300;Rebound;;;3175;Phoenix Suns;;;;;;;4;318.022;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987457;800101;1+;370642;TJ Warren;3175;Phoenix Suns;1161;Allen Crabbe;21;Portland Trail Blazers;;;4;329.598;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987458;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;334.488;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987459;200300;Pick'n'Roll;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;4;355.488;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987460;800600;2F;1160;Ed Davis;21;Portland Trail Blazers;9014;Mirza Teletovic;3175;Phoenix Suns;;;4;355.488;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:00:03.638073
+76987461;100200;Game stop;;;;;;;;;;;4;355.488;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987462;300100;Foul;9014;Mirza Teletovic;3175;Phoenix Suns;1160;Ed Davis;21;Portland Trail Blazers;;;4;355.488;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987463;800101;1+;1160;Ed Davis;21;Portland Trail Blazers;9014;Mirza Teletovic;3175;Phoenix Suns;;;4;382.874;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987464;1600500;Guard;8428;Alex Len;3175;Phoenix Suns;9014;Mirza Teletovic;3175;Phoenix Suns;;;4;406.894;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987465;800102;1-;1160;Ed Davis;21;Portland Trail Blazers;9014;Mirza Teletovic;3175;Phoenix Suns;;;4;406.894;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987466;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;406.894;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987467;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;4;406.894;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987468;800202;2-;370642;TJ Warren;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;424.854;25.82;4.71;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76987469;100300;Rebound;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;4;424.854;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987470;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;433.595;26.72;10.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987471;100200;Game stop;;;;;;;;;;;4;445.600;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987472;300300;Technical foul;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;4;445.600;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987473;800101;1+;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;4;465.684;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987474;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;480.250;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987475;100200;Game stop;;;;;;;;;;;4;495.250;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987476;100500;Turnover;5278;Devin Booker;3175;Phoenix Suns;;;;;;;4;495.250;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987477;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;507.788;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987478;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;521.788;23.27;10.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987479;800202;2-;5278;Devin Booker;3175;Phoenix Suns;;;;;;;4;537.832;22.88;10.98;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76987480;100300;Rebound;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;537.832;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987481;800202;2-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;548.848;21.71;7.17;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987482;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;4;548.848;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987483;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;370642;TJ Warren;4;562.910;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987484;800201;2+;370642;TJ Warren;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;562.910;26.51;7.35;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:00:03.638073
+76987485;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;4;586.983;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987486;800301;3+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;586.983;25.97;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987487;100200;Game stop;;;;;;;;;;;4;595.385;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987488;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;4;595.385;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987489;1600500;Guard;1153;Damian Lillard;21;Portland Trail Blazers;1158;Gerald Henderson;21;Portland Trail Blazers;;;4;646.923;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987490;1600500;Guard;8420;Eric Bledsoe;3175;Phoenix Suns;8591;Jon Leuer;3175;Phoenix Suns;;;4;646.923;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987491;1600500;Guard;371088;PJ Tucker;3175;Phoenix Suns;5278;Devin Booker;3175;Phoenix Suns;;;4;646.923;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987492;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;646.923;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987493;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;646.923;24.59;6.42;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76987494;100200;Game stop;;;;;;;;;;;4;646.923;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987495;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;4;646.923;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987496;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;663.771;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987497;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;4;678.771;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987498;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;678.771;26.99;2.49;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76987499;800302;3-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;700.257;27.38;0.66;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76987500;100300;Rebound;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;4;700.257;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987501;800302;3-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;4;707.708;24.80;14.76;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76987502;100300;Rebound;370642;TJ Warren;3175;Phoenix Suns;;;;;;;4;707.708;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987503;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;4;717.012;20.96;11.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987504;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;4;717.012;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987505;800301;3+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;739.343;19.94;5.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987506;100200;Game stop;;;;;;;;;;;4;739.343;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987507;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;4;739.343;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987508;1600500;Guard;10862;Ronnie Price;3175;Phoenix Suns;8428;Alex Len;3175;Phoenix Suns;;;4;785.395;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987509;1600500;Guard;8591;Jon Leuer;3175;Phoenix Suns;5279;Brandon Knight;3175;Phoenix Suns;;;4;785.395;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987510;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;370642;TJ Warren;3175;Phoenix Suns;;;4;785.395;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987511;1600500;Guard;1162;Mason Plumlee;21;Portland Trail Blazers;1160;Ed Davis;21;Portland Trail Blazers;;;4;785.395;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987512;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;785.395;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987513;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;785.395;27.35;8.04;;;;;;;;;;Lay up;;;;2017-12-07 11:00:03.638073
+76987514;100200;Game stop;;;;;;;;;;;4;785.395;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987515;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;4;785.395;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987516;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;798.272;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987517;200600;Post;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;4;816.272;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987518;800201;2+;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;4;816.272;26.66;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:00:03.638073
+76987519;100400;Steal;419014;CJ McCollum;21;Portland Trail Blazers;10862;Ronnie Price;3175;Phoenix Suns;;;4;831.675;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987520;800301;3+;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;4;852.695;20.66;12.06;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76987521;100200;Game stop;;;;;;;;;;;4;865.968;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987522;300100;Foul;1162;Mason Plumlee;21;Portland Trail Blazers;8420;Eric Bledsoe;3175;Phoenix Suns;;;4;865.968;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987523;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;8591;Jon Leuer;3175;Phoenix Suns;;;4;900.974;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987524;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;1162;Mason Plumlee;21;Portland Trail Blazers;;;4;900.974;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987525;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;904.132;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987526;800201;2+;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;4;926.132;21.50;9.57;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76987527;800301;3+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;938.290;20.18;10.11;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76987528;100200;Game stop;;;;;;;;;;;4;948.764;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987529;1800600;Timeout;;;21;Portland Trail Blazers;;;;;;;4;948.764;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987530;1600500;Guard;5279;Brandon Knight;3175;Phoenix Suns;371088;PJ Tucker;3175;Phoenix Suns;;;4;982.437;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987531;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;982.437;;;;;;;;;;;;;;;;2019-10-24 10:56:28.612853
+76987532;800302;3-;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;4;982.437;24.29;14.82;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76987533;100300;Rebound;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;4;982.437;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987534;100400;Steal;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8420;Eric Bledsoe;3175;Phoenix Suns;;;4;990.723;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987535;800202;2-;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;4;1031.520;23.03;4.74;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76987536;100300;Rebound;5278;Devin Booker;3175;Phoenix Suns;;;;;;;4;1031.520;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987537;100400;Steal;419014;CJ McCollum;21;Portland Trail Blazers;5279;Brandon Knight;3175;Phoenix Suns;;;4;1035.143;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987538;400101;Accurate pass;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;4;1060.693;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987539;200300;Pick'n'Roll;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1153;Damian Lillard;4;1060.693;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987540;800201;2+;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1153;Damian Lillard;4;1060.693;26.84;7.83;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:00:03.638073
+76987541;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;1075.034;27.08;7.98;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:00:03.638073
+76987542;800302;3-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;1100.677;20.75;12.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76987543;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;4;1101.126;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987544;100400;Steal;8420;Eric Bledsoe;3175;Phoenix Suns;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;4;1118.982;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987545;100400;Steal;1151;Al-Farouq Aminu;21;Portland Trail Blazers;10862;Ronnie Price;3175;Phoenix Suns;;;4;1119.980;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76987546;1800700;Match end;;;;;;;;;;;4;1130.880;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+93267651;100500;Turnover;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;130.542;;;;;;;;;;;;;;;;2018-01-11 20:49:02.145159
+103684928;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;89.580;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684930;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;111.676;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684932;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;280.810;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684934;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;1;314.544;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684936;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;371088;PJ Tucker;1;348.506;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684938;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;368.037;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684940;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;392.226;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684942;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;409.935;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684944;200900;Assisting;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;1;434.894;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684946;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;448.990;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684948;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;1;466.182;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684950;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;508.956;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684952;200900;Assisting;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;577.433;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684954;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;8428;Alex Len;1;591.798;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684956;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;609.822;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684958;200900;Assisting;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;626.551;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684960;200900;Assisting;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;1;645.928;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684962;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;713.945;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684964;200900;Assisting;5278;Devin Booker;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;1;730.062;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684966;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;736.609;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684968;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;754.344;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684970;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;925.014;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684972;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1153;Damian Lillard;1;943.966;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684974;200900;Assisting;13604;Cory Jefferson;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;990.675;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684976;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;1016.218;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684978;200900;Assisting;1160;Ed Davis;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;1;1062.476;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684980;200900;Assisting;5278;Devin Booker;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;23.595;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684982;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;56.871;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684984;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;2;93.690;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684986;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;150.884;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684988;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;172.137;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684990;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;264.075;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684992;200900;Assisting;13604;Cory Jefferson;3175;Phoenix Suns;;;;;5278;Devin Booker;2;283.289;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684994;200900;Assisting;1160;Ed Davis;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;2;304.666;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684996;200900;Assisting;5278;Devin Booker;3175;Phoenix Suns;;;;;;;2;340.605;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103684998;200900;Assisting;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;362.533;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685000;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;410.820;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685002;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;470.397;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685004;200900;Assisting;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;524.088;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685006;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;541.413;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685008;200900;Assisting;10862;Ronnie Price;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;620.134;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685010;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;640.072;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685012;200900;Assisting;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;2;651.737;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685014;200900;Assisting;10862;Ronnie Price;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;2;676.369;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685016;200900;Assisting;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;2;695.210;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685018;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;719.079;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685020;200900;Assisting;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;8736;Maurice Harkless;2;843.908;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685022;200900;Assisting;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;2;878.117;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685024;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;895.969;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685026;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;989.634;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685028;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;1036.634;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685030;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;3;39.519;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685032;200900;Assisting;1153;Damian Lillard;21;Portland Trail Blazers;;;;;1152;Noah Vonleh;3;56.390;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685034;200900;Assisting;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;78.188;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685036;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;371088;PJ Tucker;3;92.311;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685038;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;149.535;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685040;200900;Assisting;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;158.128;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685042;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;177.731;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685044;200900;Assisting;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;208.998;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685046;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;281.573;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685048;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;341.891;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685050;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;380.426;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685052;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;433.048;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685054;200900;Assisting;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;3;522.828;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685056;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;3;584.005;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685058;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;734.133;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685060;200900;Assisting;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1153;Damian Lillard;3;783.249;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685062;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;799.927;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685064;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;3;820.299;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685066;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;933.032;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685068;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1153;Damian Lillard;3;951.374;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685070;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;975.216;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685072;200900;Assisting;1160;Ed Davis;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;4;77.588;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685074;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1159;Meyers Leonard;4;110.816;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685076;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;238.325;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685078;200900;Assisting;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;266.913;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685080;200900;Assisting;370642;TJ Warren;3175;Phoenix Suns;;;;;;;4;273.904;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685082;200900;Assisting;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;4;355.488;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685084;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;433.595;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685086;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;521.788;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685088;200900;Assisting;370642;TJ Warren;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;562.910;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685090;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;586.983;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685092;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;678.771;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685094;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;739.343;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685096;200900;Assisting;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;4;816.272;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685098;200900;Assisting;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;4;852.695;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685100;200900;Assisting;1153;Damian Lillard;21;Portland Trail Blazers;;;;;;;4;926.132;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685102;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;938.290;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685104;200900;Assisting;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1153;Damian Lillard;4;1060.693;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103685106;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;1075.034;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857

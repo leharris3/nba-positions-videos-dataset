@@ -1,0 +1,838 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76380691;1601000;Starting lineup;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380692;1601000;Starting lineup;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380693;1601000;Starting lineup;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380694;1601000;Starting lineup;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380695;1601000;Starting lineup;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380696;1601000;Starting lineup;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380697;1601000;Starting lineup;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380698;1601000;Starting lineup;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380699;1601000;Starting lineup;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76380700;1601000;Starting lineup;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380701;1601000;Starting lineup;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380702;1601000;Starting lineup;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380703;1601000;Starting lineup;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380704;1601000;Starting lineup;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380705;1601000;Starting lineup;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380706;1601000;Starting lineup;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380707;1601000;Starting lineup;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380708;1601000;Starting lineup;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380709;1601000;Starting lineup;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380710;1601000;Starting lineup;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380711;1601000;Starting lineup;370717;Lamar Patterson;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380712;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380713;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380714;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380715;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380716;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380717;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380718;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380719;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380720;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380721;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380722;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380723;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;65.219;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380724;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;82.219;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76380725;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;82.219;20.21;4.74;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:54:02.316933
+76380726;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;82.219;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380727;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1143;Al Horford;1;95.679;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380728;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;95.679;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380729;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;95.679;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 03:54:02.316933
+76380730;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;116.346;21.95;9.81;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 03:54:02.316933
+76380731;100300;Rebound;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;116.346;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380732;800302;3-;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;123.912;19.88;8.73;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:54:02.316933
+76380733;100200;Game stop;;;;;;;;;;;1;123.912;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380734;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;123.912;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380735;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;128.490;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380736;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;146.490;24.05;0.93;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76380737;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;146.490;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380738;200600;Post;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;160.970;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380739;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;160.970;26.99;2.70;;;;;;;;Post;;Jumper;;;;2017-12-07 03:54:02.316933
+76380740;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;160.970;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380741;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;1143;Al Horford;79;Atlanta Hawks;;;1;170.646;26.57;7.35;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 03:54:02.316933
+76380742;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;170.646;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380743;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;181.342;26.81;10.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76380744;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;181.342;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380745;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;199.835;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380746;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;199.835;26.96;3.57;;;;;;;;Post;;Jumper;;;;2017-12-07 03:54:02.316933
+76380747;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;199.835;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380748;100200;Game stop;;;;;;;;;;;1;209.118;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380749;100500;Turnover;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;209.118;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380750;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;213.556;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380751;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;234.556;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380752;800301;3+;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;234.556;26.81;14.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380753;100200;Game stop;;;;;;;;;;;1;243.880;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380754;300100;Foul;2428;Deron Williams;2975;Dallas Mavericks;1139;Jeff Teague;79;Atlanta Hawks;;;1;243.880;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380755;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;260.770;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380756;800302;3-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;271.770;19.34;10.59;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:54:02.316933
+76380757;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;271.770;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380758;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;271.770;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:54:02.316933
+76380759;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;292.813;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380760;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;292.813;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380761;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;292.813;27.08;7.83;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 03:54:02.316933
+76380762;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;1;313.615;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380763;800301;3+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1143;Al Horford;1;313.615;20.21;5.01;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380764;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;325.738;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380765;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;325.738;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76380766;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;325.738;20.66;4.17;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:54:02.316933
+76380767;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;346.319;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380768;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;346.319;26.21;5.49;;;;;;;;Post;;Jumper;;;;2017-12-07 03:54:02.316933
+76380769;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;346.319;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380770;100400;Steal;1140;Paul Millsap;79;Atlanta Hawks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;346.319;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380771;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;352.223;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380772;800301;3+;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;352.223;21.98;12.90;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380773;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;376.444;25.22;1.80;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76380774;100300;Rebound;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;1;376.444;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380775;200600;Post;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;394.410;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380776;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;394.410;25.82;4.86;;;;;;;;Post;;Jumper;;;;2017-12-07 03:54:02.316933
+76380777;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;394.410;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380778;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;402.523;27.08;7.02;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:54:02.316933
+76380779;800302;3-;1147;Kyle Korver;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;420.478;27.20;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380780;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;420.478;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380781;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;431.089;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380782;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;431.089;21.11;8.82;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:54:02.316933
+76380783;100200;Game stop;;;;;;;;;;;1;431.089;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380784;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;1;431.089;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380785;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;464.446;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380786;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;1;464.446;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380787;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;1;464.446;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380788;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;464.446;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380789;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;1;464.446;21.95;8.76;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76380790;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;464.446;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380791;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;1148;Mike Muscala;79;Atlanta Hawks;;;1;479.621;26.57;8.37;;;;;;;;Screen off;;Lay up;;;;2017-12-07 03:54:02.316933
+76380792;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;479.621;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380793;100400;Steal;7463;Zaza Pachulia;2975;Dallas Mavericks;1147;Kyle Korver;79;Atlanta Hawks;;;1;493.310;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380794;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;505.979;23.75;9.18;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:54:02.316933
+76380795;100300;Rebound;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;1;505.979;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380796;800302;3-;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;520.669;26.84;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380797;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;520.669;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380798;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2427;Dwight Powell;1;530.359;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380799;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;530.359;26.66;7.50;;;;;;;;Cut;;;;;;2017-12-07 03:54:02.316933
+76380800;400101;Accurate pass;1147;Kyle Korver;79;Atlanta Hawks;;;;;1148;Mike Muscala;1;548.505;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380801;800201;2+;1148;Mike Muscala;79;Atlanta Hawks;;;;;1147;Kyle Korver;1;548.505;23.42;2.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380802;800302;3-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;563.919;21.71;2.34;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76380803;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;1;563.919;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380804;400101;Accurate pass;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;571.283;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380805;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;571.283;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380806;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;1;571.283;27.08;7.65;;;;;;;;Post;;Lay up;;;;2017-12-07 03:54:02.316933
+76380807;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;586.581;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380808;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;586.581;27.35;7.68;;;;;;;;Cut;;;;;;2017-12-07 03:54:02.316933
+76380809;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1148;Mike Muscala;1;601.397;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380810;200300;Pick'n'Roll;1148;Mike Muscala;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;601.397;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380811;800201;2+;1148;Mike Muscala;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;601.397;27.05;8.34;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 03:54:02.316933
+76380812;800700;3F;2430;Wesley Matthews;2975;Dallas Mavericks;1147;Kyle Korver;79;Atlanta Hawks;;;1;613.504;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 03:54:02.316933
+76380813;100200;Game stop;;;;;;;;;;;1;613.504;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380814;300100;Foul;1147;Kyle Korver;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;613.504;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380815;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;1147;Kyle Korver;79;Atlanta Hawks;;;1;638.692;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380816;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;1147;Kyle Korver;79;Atlanta Hawks;;;1;650.839;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380817;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;1;677.091;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380818;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1139;Jeff Teague;79;Atlanta Hawks;;;1;677.091;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380819;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;1147;Kyle Korver;79;Atlanta Hawks;;;1;677.091;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380820;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;680.450;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380821;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;691.450;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76380822;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;1;691.450;24.50;12.42;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:54:02.316933
+76380823;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;691.450;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380824;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;706.665;21.56;7.98;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76380825;100300;Rebound;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;706.665;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380826;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;716.470;21.98;3.87;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 03:54:02.316933
+76380827;100200;Game stop;;;;;;;;;;;1;716.470;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380828;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;716.470;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380829;1600500;Guard;370717;Lamar Patterson;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;1;761.580;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380830;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;761.580;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380831;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;761.580;20.18;4.47;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:54:02.316933
+76380832;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;1;784.286;26.12;7.11;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:54:02.316933
+76380833;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;784.286;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380834;100200;Game stop;;;;;;;;;;;1;784.286;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380835;300100;Foul;1140;Paul Millsap;79;Atlanta Hawks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;784.286;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380836;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;828.109;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380837;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;828.109;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380838;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;1;828.109;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76380839;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;1140;Paul Millsap;79;Atlanta Hawks;;;1;828.109;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380840;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;828.109;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380841;100200;Game stop;;;;;;;;;;;1;828.109;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380842;1600500;Guard;12224;Tiago Splitter;79;Atlanta Hawks;1148;Mike Muscala;79;Atlanta Hawks;;;1;828.109;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380843;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;849.716;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380844;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;856.716;25.19;10.35;;;;;;;;Isolation;;Jumper;Drives Left;;;2018-10-20 17:58:37.550992
+76380845;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;856.716;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380846;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;864.306;26.06;2.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76380847;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;887.158;26.42;9.03;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:54:02.316933
+76380848;100200;Game stop;;;;;;;;;;;1;887.158;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380849;100300;Rebound;;;79;Atlanta Hawks;;;;;;;1;887.158;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380850;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;919.432;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380851;800202;2-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;1;945.132;26.99;1.35;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:54:02.316933
+76380852;100200;Game stop;;;;;;;;;;;1;945.132;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380853;100300;Rebound;;;79;Atlanta Hawks;;;;;;;1;945.132;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380854;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;962.012;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380855;100400;Steal;1143;Al Horford;79;Atlanta Hawks;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;987.112;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380856;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;1005.788;21.41;5.34;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76380857;800600;2F;2432;Devin L Harris;2975;Dallas Mavericks;12224;Tiago Splitter;79;Atlanta Hawks;;;1;1022.585;27.05;7.62;;;;;;;;Catch and Drive;;;;;;2017-12-07 03:54:02.316933
+76380858;100200;Game stop;;;;;;;;;;;1;1022.585;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380859;300100;Foul;12224;Tiago Splitter;79;Atlanta Hawks;2432;Devin L Harris;2975;Dallas Mavericks;;;1;1022.585;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380860;800102;1-;2432;Devin L Harris;2975;Dallas Mavericks;12224;Tiago Splitter;79;Atlanta Hawks;;;1;1049.145;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380861;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;1049.145;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380862;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;1066.292;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380863;800101;1+;2432;Devin L Harris;2975;Dallas Mavericks;12224;Tiago Splitter;79;Atlanta Hawks;;;1;1066.292;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380864;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;1;1076.323;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380865;800202;2-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;1078.323;21.95;5.97;;;;;;;;;;Jumper;;;;2017-12-07 03:54:02.316933
+76380866;100300;Rebound;;;79;Atlanta Hawks;;;;;;;1;1078.323;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380867;1800500;Halftime;;;;;;;;;;;1;1078.323;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380868;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380869;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380870;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380871;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380872;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380873;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76380874;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380875;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380876;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380877;1600500;Guard;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380878;1600500;Guard;370717;Lamar Patterson;79;Atlanta Hawks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380879;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;8.543;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380880;400101;Accurate pass;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1145;Kent Bazemore;2;20.543;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380881;800201;2+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;12224;Tiago Splitter;2;20.543;27.08;7.20;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:54:02.316933
+76380882;100200;Game stop;;;;;;;;;;;2;35.729;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380883;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;2432;Devin L Harris;2975;Dallas Mavericks;;;2;35.729;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380884;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;50.485;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380885;100200;Game stop;;;;;;;;;;;2;56.485;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380886;100500;Turnover;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;56.485;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380887;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;370717;Lamar Patterson;79;Atlanta Hawks;;;2;56.485;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380888;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;70.662;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380889;400101;Accurate pass;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1143;Al Horford;2;88.662;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380890;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;88.662;26.99;7.65;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:54:02.316933
+76380891;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;101.072;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380892;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;101.072;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380893;800301;3+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;101.072;20.96;2.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76380894;100200;Game stop;;;;;;;;;;;2;109.848;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380895;300100;Foul;1144;Dennis Schroder;79;Atlanta Hawks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;109.848;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380896;100500;Turnover;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;109.848;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380897;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;124.976;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380898;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2427;Dwight Powell;2;140.976;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76380899;800400;2+1;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;140.976;26.72;6.36;;;;;;;;Cut;;;;;;2017-12-07 03:54:02.316933
+76380900;100200;Game stop;;;;;;;;;;;2;140.976;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380901;300100;Foul;1145;Kent Bazemore;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;2;140.976;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380902;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;1145;Kent Bazemore;79;Atlanta Hawks;;;2;169.548;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380903;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;172.521;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380904;800302;3-;370717;Lamar Patterson;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;188.521;20.51;4.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380905;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;188.521;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380906;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;196.063;26.51;9.42;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:54:02.316933
+76380907;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;196.063;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380908;100400;Steal;2433;Dirk Nowitzki;2975;Dallas Mavericks;1144;Dennis Schroder;79;Atlanta Hawks;;;2;202.542;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380909;100200;Game stop;;;;;;;;;;;2;256.223;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380910;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;1145;Kent Bazemore;79;Atlanta Hawks;;;2;256.223;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380911;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;256.223;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380912;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;256.223;20.33;4.59;;;;;;;;Catch and shoot;;Hook;;;;2017-12-07 03:54:02.316933
+76380913;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;2;256.223;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380914;100200;Game stop;;;;;;;;;;;2;264.384;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380915;300100;Foul;1144;Dennis Schroder;79;Atlanta Hawks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;264.384;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380916;100500;Turnover;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;264.384;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380917;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;275.898;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380918;100400;Steal;12224;Tiago Splitter;79;Atlanta Hawks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;285.898;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380919;400101;Accurate pass;370717;Lamar Patterson;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;2;293.408;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380920;800201;2+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;370717;Lamar Patterson;2;293.408;26.72;13.68;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:54:02.316933
+76380921;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;319.119;20.48;3.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380922;100300;Rebound;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;2;319.119;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380923;100200;Game stop;;;;;;;;;;;2;330.695;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380924;100500;Turnover;370717;Lamar Patterson;79;Atlanta Hawks;;;;;;;2;330.695;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380925;1800600;Timeout;;;;;;;;;;;2;330.695;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380926;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;369.426;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380927;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;369.426;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380928;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;2;369.426;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380929;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;369.426;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380930;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;2;369.426;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380931;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;370717;Lamar Patterson;79;Atlanta Hawks;;;2;369.426;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380932;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;369.426;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380933;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;369.426;22.52;1.86;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380934;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;2;369.426;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380935;400101;Accurate pass;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;12224;Tiago Splitter;2;385.651;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380936;800201;2+;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;2;385.651;27.08;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:54:02.316933
+76380937;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;411.877;25.37;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380938;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;411.877;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380939;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;417.267;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380940;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;417.267;24.80;6.66;;;;;;;;Cut;;Floater;;;;2017-12-07 03:54:02.316933
+76380941;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;434.564;27.08;2.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380942;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;434.564;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380943;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;456.961;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380944;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;456.961;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76380945;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;456.961;24.05;6.72;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:54:02.316933
+76380946;800202;2-;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;477.297;23.33;7.02;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 03:54:02.316933
+76380947;100300;Rebound;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;2;477.769;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380948;100200;Game stop;;;;;;;;;;;2;481.328;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380949;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;2;481.328;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380950;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;2;515.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380951;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;1144;Dennis Schroder;79;Atlanta Hawks;;;2;515.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380952;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;12224;Tiago Splitter;79;Atlanta Hawks;;;2;515.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380953;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;515.000;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380954;400101;Accurate pass;1148;Mike Muscala;79;Atlanta Hawks;;;;;1140;Paul Millsap;2;515.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380955;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;515.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380956;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1148;Mike Muscala;2;515.000;27.02;7.62;;;;;;;;Post;;Dunk;;;;2017-12-07 03:54:02.316933
+76380957;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;536.242;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380958;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;2;536.242;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:54:02.316933
+76380959;100200;Game stop;;;;;;;;;;;2;536.242;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380960;300100;Foul;1146;Thabo Sefolosha;79;Atlanta Hawks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;536.242;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380961;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;2;561.096;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380962;800102;1-;7463;Zaza Pachulia;2975;Dallas Mavericks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;2;581.929;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380963;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;581.929;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380964;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;2;581.929;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380965;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;2;593.298;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380966;800201;2+;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;593.298;26.99;8.10;;;;;;;;Cut;;;;;;2017-12-07 03:54:02.316933
+76380967;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;605.955;26.57;7.44;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 03:54:02.316933
+76380968;800201;2+;1148;Mike Muscala;79;Atlanta Hawks;;;;;1140;Paul Millsap;2;619.606;27.05;7.35;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 03:54:02.316933
+76380969;200300;Pick'n'Roll;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;632.369;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76380970;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;632.369;24.65;6.57;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 03:54:02.316933
+76380971;800302;3-;1148;Mike Muscala;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;660.601;19.94;9.45;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380972;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;660.601;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380973;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;671.500;19.73;6.63;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76380974;100300;Rebound;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;2;671.500;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380975;800202;2-;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1140;Paul Millsap;2;691.637;25.19;7.02;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:54:02.316933
+76380976;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;691.637;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380977;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;1147;Kyle Korver;79;Atlanta Hawks;;;2;698.321;26.99;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:54:02.316933
+76380978;100200;Game stop;;;;;;;;;;;2;698.321;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380979;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;698.321;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380980;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;2;730.002;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380981;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;730.002;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380982;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;730.002;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380983;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;730.002;26.27;5.79;;;;;;;;Screen off;;;;;;2017-12-07 03:54:02.316933
+76380984;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;730.002;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380985;800302;3-;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;2;747.387;26.99;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76380986;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;747.387;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380987;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;755.009;23.12;4.20;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 03:54:02.316933
+76380988;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;755.009;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380989;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1147;Kyle Korver;2;762.608;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380990;800301;3+;1147;Kyle Korver;79;Atlanta Hawks;;;;;1140;Paul Millsap;2;762.608;21.35;2.85;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76380991;100200;Game stop;;;;;;;;;;;2;762.608;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380992;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;762.608;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380993;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;2;796.587;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380994;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;1148;Mike Muscala;79;Atlanta Hawks;;;2;796.587;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380995;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;796.587;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76380996;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;813.756;22.58;7.44;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76380997;100300;Rebound;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;813.756;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76380998;800600;2F;1139;Jeff Teague;79;Atlanta Hawks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;818.897;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 03:54:02.316933
+76380999;100200;Game stop;;;;;;;;;;;2;818.897;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381000;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;1139;Jeff Teague;79;Atlanta Hawks;;;2;818.897;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381001;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;843.350;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381002;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;855.502;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381003;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;860.251;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381004;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;874.251;20.96;3.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381005;100200;Game stop;;;;;;;;;;;2;874.251;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381006;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;1145;Kent Bazemore;79;Atlanta Hawks;;;2;874.251;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381007;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;874.251;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381008;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;2;888.056;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381009;800302;3-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;900.056;20.33;10.44;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381010;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;900.056;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381011;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;916.741;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381012;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;916.741;26.36;3.48;;;;;;;;Post;;Jumper;;;;2017-12-07 03:54:02.316933
+76381013;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;916.741;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381014;100400;Steal;2433;Dirk Nowitzki;2975;Dallas Mavericks;1139;Jeff Teague;79;Atlanta Hawks;;;2;921.101;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381015;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;924.555;26.99;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:54:02.316933
+76381016;800202;2-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;2;946.204;26.42;5.28;;;;;;;;Hand offs;;Hook;;;;2017-12-07 03:54:02.316933
+76381017;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;946.204;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381018;800600;2F;1140;Paul Millsap;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;2;946.204;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 03:54:02.316933
+76381019;100200;Game stop;;;;;;;;;;;2;946.204;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381020;300100;Foul;2428;Deron Williams;2975;Dallas Mavericks;1140;Paul Millsap;79;Atlanta Hawks;;;2;946.204;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381021;800102;1-;1140;Paul Millsap;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;2;971.805;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381022;100300;Rebound;;;79;Atlanta Hawks;;;;;;;2;971.805;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381023;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;2;988.829;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381024;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;996.133;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381025;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;1145;Kent Bazemore;79;Atlanta Hawks;;;2;1010.133;26.72;7.44;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 03:54:02.316933
+76381026;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1010.133;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381027;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;1018.812;23.90;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381028;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1018.812;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381029;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1028.901;19.94;6.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381030;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1028.901;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381031;100200;Game stop;;;;;;;;;;;2;1028.901;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381032;300100;Foul;1143;Al Horford;79;Atlanta Hawks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;1028.901;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381033;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1056.702;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381034;100400;Steal;1143;Al Horford;79;Atlanta Hawks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;1063.702;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381035;400101;Accurate pass;1147;Kyle Korver;79;Atlanta Hawks;;;;;1145;Kent Bazemore;2;1070.732;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381036;800301;3+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1147;Kyle Korver;2;1070.732;26.42;0.66;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:54:02.316933
+76381037;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;1087.260;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381038;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;1087.260;21.83;5.64;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381039;400101;Accurate pass;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1147;Kyle Korver;2;1102.334;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381040;800201;2+;1147;Kyle Korver;79;Atlanta Hawks;;;;;1145;Kent Bazemore;2;1102.334;21.56;8.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76381041;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;1115.144;27.35;7.26;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:54:02.316933
+76381042;800600;2F;1139;Jeff Teague;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;2;1128.841;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:54:02.316933
+76381043;100200;Game stop;;;;;;;;;;;2;1128.841;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381044;300100;Foul;2428;Deron Williams;2975;Dallas Mavericks;1139;Jeff Teague;79;Atlanta Hawks;;;2;1128.841;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381045;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;2;1154.225;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381046;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;2;1168.080;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381047;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;2;1168.080;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381048;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1173.333;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381049;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1188.033;25.10;2.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76381050;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;2;1188.033;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381051;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;1201.486;26.81;8.67;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381052;100300;Rebound;;;79;Atlanta Hawks;;;;;;;2;1201.486;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381053;1800500;Halftime;;;;;;;;;;;2;1201.486;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381054;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381055;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381056;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381057;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381058;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381059;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381060;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381061;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381062;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381063;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381064;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381065;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;5.980;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381066;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;1147;Kyle Korver;79;Atlanta Hawks;;;3;15.980;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381067;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;35.020;26.96;8.52;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:54:02.316933
+76381068;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;35.020;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381069;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;46.417;26.84;3.33;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381070;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;46.417;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381071;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;46.417;26.84;11.61;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 03:54:02.316933
+76381072;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;46.417;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381073;100200;Game stop;;;;;;;;;;;3;46.417;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381074;300100;Foul;1139;Jeff Teague;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;3;46.417;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381075;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;70.793;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381076;200300;Pick'n'Roll;2428;Deron Williams;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;82.793;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76381077;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;1146;Thabo Sefolosha;79;Atlanta Hawks;2433;Dirk Nowitzki;3;82.793;25.91;0.78;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:54:02.316933
+76381078;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;82.793;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381079;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;82.793;27.08;7.44;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:54:02.316933
+76381080;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;100.230;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381081;800400;2+1;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;100.230;26.12;6.63;;;;;;;;Post;;Jumper;;;;2017-12-07 03:54:02.316933
+76381082;100200;Game stop;;;;;;;;;;;3;100.230;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381083;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;1140;Paul Millsap;79;Atlanta Hawks;;;3;100.230;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381084;800102;1-;1140;Paul Millsap;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;129.743;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381085;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;129.743;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381086;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;129.743;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381087;800301;3+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;146.622;20.81;4.02;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381088;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;173.732;24.89;6.78;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 03:54:02.316933
+76381089;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;173.732;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381090;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;184.126;22.10;5.01;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:54:02.316933
+76381091;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;184.126;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381092;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;188.060;26.42;14.43;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:54:02.316933
+76381093;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;188.060;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381094;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;197.851;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381095;800301;3+;1139;Jeff Teague;79;Atlanta Hawks;;;;;1143;Al Horford;3;197.851;21.41;12.21;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381096;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;212.821;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381097;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;212.821;21.80;10.53;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76381098;100200;Game stop;;;;;;;;;;;3;227.652;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381099;300100;Foul;1139;Jeff Teague;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;3;227.652;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381100;100500;Turnover;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;227.652;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381101;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;239.079;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381102;100400;Steal;1140;Paul Millsap;79;Atlanta Hawks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;256.079;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381103;100200;Game stop;;;;;;;;;;;3;262.977;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381104;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;262.977;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381105;800202;2-;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;3;262.977;26.72;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:54:02.316933
+76381106;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;272.463;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381107;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;283.463;25.64;6.03;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 03:54:02.316933
+76381108;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;1140;Paul Millsap;3;297.693;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381109;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;297.693;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381110;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1143;Al Horford;3;297.693;26.57;7.56;;;;;;;;Post;;Hook;;;;2017-12-07 03:54:02.316933
+76381111;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;314.863;23.18;6.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381112;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;314.863;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381113;800201;2+;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;324.826;26.96;7.59;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:54:02.316933
+76381114;100200;Game stop;;;;;;;;;;;3;333.659;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381115;300100;Foul;1140;Paul Millsap;79;Atlanta Hawks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;333.659;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381116;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;349.559;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381117;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;1143;Al Horford;79;Atlanta Hawks;;;3;359.559;26.06;8.76;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 03:54:02.316933
+76381118;100200;Game stop;;;;;;;;;;;3;359.559;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381119;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;359.559;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381120;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;374.291;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381121;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;379.291;26.84;10.59;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 03:54:02.316933
+76381122;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;379.291;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381123;100200;Game stop;;;;;;;;;;;3;384.506;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381124;100500;Turnover;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;384.506;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381125;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;391.802;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381126;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;397.802;27.08;7.35;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 03:54:02.316933
+76381127;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;410.154;24.50;8.49;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:54:02.316933
+76381128;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;410.154;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381129;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;417.326;27.23;6.63;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:54:02.316933
+76381130;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;417.326;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381131;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;425.686;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381132;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;425.686;26.66;10.38;;;;;;;;Post;;Jumper;;;;2017-12-07 03:54:02.316933
+76381133;800302;3-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;3;439.496;20.36;4.41;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76381134;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;439.496;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381135;100400;Steal;1147;Kyle Korver;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;3;448.167;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381136;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1143;Al Horford;3;453.379;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381137;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;453.379;27.05;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:54:02.316933
+76381138;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;473.178;22.97;7.50;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:54:02.316933
+76381139;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;473.178;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381140;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;473.178;25.19;12.27;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 03:54:02.316933
+76381141;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1143;Al Horford;3;497.969;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381142;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;497.969;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76381143;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;497.969;21.41;5.82;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:54:02.316933
+76381144;100200;Game stop;;;;;;;;;;;3;497.969;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381145;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;3;497.969;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381146;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;533.791;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381147;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;3;533.791;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381148;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;533.791;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381149;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;533.791;23.45;7.11;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 03:54:02.316933
+76381150;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;533.791;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381151;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;533.791;27.23;6.96;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:54:02.316933
+76381152;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;554.624;26.72;8.58;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 03:54:02.316933
+76381153;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;577.251;21.80;3.96;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 03:54:02.316933
+76381154;800202;2-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;3;594.318;26.84;8.34;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:54:02.316933
+76381155;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;594.318;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381156;800600;2F;2427;Dwight Powell;2975;Dallas Mavericks;1139;Jeff Teague;79;Atlanta Hawks;;;3;609.145;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:54:02.316933
+76381157;100200;Game stop;;;;;;;;;;;3;609.145;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381158;300100;Foul;1139;Jeff Teague;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;609.145;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381159;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;1139;Jeff Teague;79;Atlanta Hawks;;;3;634.465;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381160;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;656.078;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381161;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;3;656.078;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381162;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;1139;Jeff Teague;79;Atlanta Hawks;;;3;656.078;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381163;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;1139;Jeff Teague;79;Atlanta Hawks;;;3;656.078;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381164;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;659.119;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381165;800600;2F;1140;Paul Millsap;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;672.119;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:54:02.316933
+76381166;100200;Game stop;;;;;;;;;;;3;672.119;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381167;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;1140;Paul Millsap;79;Atlanta Hawks;;;3;672.119;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381168;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;695.272;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381169;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;711.079;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381170;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;714.303;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381171;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;729.303;26.72;12.90;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381172;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;729.303;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381173;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2427;Dwight Powell;3;736.084;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381174;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;736.084;26.99;7.56;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:54:02.316933
+76381175;800202;2-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;3;754.388;26.84;7.80;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:54:02.316933
+76381176;100300;Rebound;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;3;754.388;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381177;800202;2-;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;3;754.388;26.81;7.56;;;;;;;;Putbacks;;;;;;2017-12-07 03:54:02.316933
+76381178;100300;Rebound;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;3;754.401;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381179;800201;2+;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;3;754.401;25.82;6.96;;;;;;;;Putbacks;;Hook;;;;2017-12-07 03:54:02.316933
+76381180;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2427;Dwight Powell;3;769.223;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381181;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;769.223;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 03:54:02.316933
+76381182;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;789.048;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76381183;800302;3-;1140;Paul Millsap;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;789.048;20.63;4.26;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:54:02.316933
+76381184;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;789.048;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381185;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;803.443;24.05;7.98;;;;;;;;Cut;;Jumper;;;;2017-12-07 03:54:02.316933
+76381186;100300;Rebound;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;3;803.443;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381187;100200;Game stop;;;;;;;;;;;3;808.845;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381188;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;3;808.845;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381189;1600500;Guard;370717;Lamar Patterson;79;Atlanta Hawks;1147;Kyle Korver;79;Atlanta Hawks;;;3;846.302;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381190;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;846.302;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381191;800302;3-;370717;Lamar Patterson;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;846.302;21.98;12.84;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381192;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;846.302;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381193;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;862.631;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381194;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;1140;Paul Millsap;79;Atlanta Hawks;;;3;862.631;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:54:02.316933
+76381195;100200;Game stop;;;;;;;;;;;3;862.631;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381196;300100;Foul;1140;Paul Millsap;79;Atlanta Hawks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;862.631;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381197;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;1140;Paul Millsap;79;Atlanta Hawks;;;3;892.087;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381198;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;3;925.303;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381199;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;3;925.303;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76381200;1600500;Guard;12224;Tiago Splitter;79;Atlanta Hawks;1140;Paul Millsap;79;Atlanta Hawks;;;3;925.303;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381201;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;1148;Mike Muscala;79;Atlanta Hawks;;;3;925.303;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381202;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;1140;Paul Millsap;79;Atlanta Hawks;;;3;925.303;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381203;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;927.062;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381204;400101;Accurate pass;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1143;Al Horford;3;942.062;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381205;200300;Pick'n'Roll;1143;Al Horford;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;942.062;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76381206;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;942.062;21.71;7.11;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:54:02.316933
+76381207;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;962.197;20.36;4.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381208;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;3;962.197;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381209;400101;Accurate pass;1143;Al Horford;79;Atlanta Hawks;;;;;12224;Tiago Splitter;3;981.649;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381210;800201;2+;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1143;Al Horford;3;981.649;27.05;7.56;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:54:02.316933
+76381211;100200;Game stop;;;;;;;;;;;3;981.649;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381212;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;3;981.649;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381213;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;981.649;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381214;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1006.697;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381215;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1023.797;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381216;800600;2F;2427;Dwight Powell;2975;Dallas Mavericks;12224;Tiago Splitter;79;Atlanta Hawks;;;3;1023.797;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 03:54:02.316933
+76381217;100200;Game stop;;;;;;;;;;;3;1023.797;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381218;300100;Foul;12224;Tiago Splitter;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;1023.797;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381219;800102;1-;2427;Dwight Powell;2975;Dallas Mavericks;12224;Tiago Splitter;79;Atlanta Hawks;;;3;1051.629;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381220;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;1051.629;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381221;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;12224;Tiago Splitter;79;Atlanta Hawks;;;3;1067.633;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381222;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;3;1071.469;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381223;800201;2+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;3;1084.469;25.91;4.89;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 03:54:02.316933
+76381224;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;1105.075;27.08;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2018-10-20 17:58:37.550992
+76381225;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1105.075;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381226;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1105.075;26.84;7.80;;;;;;;;Putbacks;;;;;;2017-12-07 03:54:02.316933
+76381227;100300;Rebound;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;3;1105.075;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381228;400101;Accurate pass;1144;Dennis Schroder;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;1110.386;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381229;800201;2+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;1110.386;27.08;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:54:02.316933
+76381230;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;1120.121;17.12;2.40;;;;;;;;;;Jumper;;;;2018-10-20 17:58:37.550992
+76381231;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;3;1120.121;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381232;1800500;Halftime;;;;;;;;;;;3;1120.121;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381233;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381234;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381235;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381236;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381237;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381238;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76381239;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381240;1600500;Guard;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381241;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381242;1600500;Guard;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381243;1600500;Guard;370717;Lamar Patterson;79;Atlanta Hawks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381244;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;13.486;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381245;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;29.486;22.13;13.05;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381246;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;29.486;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381247;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;37.897;22.43;10.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381248;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;57.983;21.05;3.18;;;;;;;;Hand offs;;Jumper;;;;2018-10-20 17:58:37.550992
+76381249;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;57.983;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76381250;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;62.397;26.99;7.65;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:54:02.316933
+76381251;100300;Rebound;12224;Tiago Splitter;79;Atlanta Hawks;;;;;;;4;62.397;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381252;100400;Steal;2427;Dwight Powell;2975;Dallas Mavericks;1145;Kent Bazemore;79;Atlanta Hawks;;;4;65.779;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381253;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;73.703;25.34;14.37;;;;;;;;Transition;;Jumper;;;;2018-10-20 17:58:37.550992
+76381254;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;73.703;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381255;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;73.703;26.96;7.89;;;;;;;;Putbacks;;;;;;2017-12-07 03:54:02.316933
+76381256;100300;Rebound;370717;Lamar Patterson;79;Atlanta Hawks;;;;;;;4;73.703;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381257;100200;Game stop;;;;;;;;;;;4;97.658;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381258;100500;Turnover;370717;Lamar Patterson;79;Atlanta Hawks;;;;;;;4;97.658;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381259;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;117.312;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381260;800600;2F;2427;Dwight Powell;2975;Dallas Mavericks;370717;Lamar Patterson;79;Atlanta Hawks;;;4;131.312;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:54:02.316933
+76381261;100200;Game stop;;;;;;;;;;;4;131.312;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381262;300100;Foul;370717;Lamar Patterson;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;131.312;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381263;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;370717;Lamar Patterson;79;Atlanta Hawks;;;4;165.019;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381264;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;370717;Lamar Patterson;79;Atlanta Hawks;;;4;180.971;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381265;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;185.106;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381266;100200;Game stop;;;;;;;;;;;4;189.106;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381267;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;1144;Dennis Schroder;79;Atlanta Hawks;;;4;189.106;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381268;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;203.947;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381269;800201;2+;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;211.947;22.67;4.02;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 03:54:02.316933
+76381270;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;230.744;26.99;8.19;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2018-10-20 17:58:37.550992
+76381271;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;230.744;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381272;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;230.744;26.84;7.11;;;;;;;;Putbacks;;;;;;2017-12-07 03:54:02.316933
+76381273;100200;Game stop;;;;;;;;;;;4;230.744;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381274;100300;Rebound;;;79;Atlanta Hawks;;;;;;;4;230.744;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381275;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;249.213;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381276;200300;Pick'n'Roll;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;266.213;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381277;800202;2-;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1144;Dennis Schroder;4;266.213;26.96;7.98;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 03:54:02.316933
+76381278;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;266.213;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381279;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2432;Devin L Harris;4;271.347;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76381280;800400;2+1;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;271.347;27.05;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:54:02.316933
+76381281;100200;Game stop;;;;;;;;;;;4;271.347;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381282;300100;Foul;370717;Lamar Patterson;79;Atlanta Hawks;2432;Devin L Harris;2975;Dallas Mavericks;;;4;271.347;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381283;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;311.751;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381284;1600500;Guard;1140;Paul Millsap;79;Atlanta Hawks;12224;Tiago Splitter;79;Atlanta Hawks;;;4;311.751;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381285;800101;1+;2432;Devin L Harris;2975;Dallas Mavericks;370717;Lamar Patterson;79;Atlanta Hawks;;;4;311.751;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381286;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;4;311.751;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381287;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;316.442;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381288;200600;Post;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;330.442;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381289;800202;2-;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;330.442;24.59;8.22;;;;;;;;Post;;Hook;;;;2017-12-07 03:54:02.316933
+76381290;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;330.442;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381291;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;350.304;21.98;10.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381292;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;350.304;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381293;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;358.669;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381294;800202;2-;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;358.669;26.51;5.70;;;;;;;;Post;;Jumper;;;;2017-12-07 03:54:02.316933
+76381295;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;358.669;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381296;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;366.664;25.34;4.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381297;100300;Rebound;1143;Al Horford;79;Atlanta Hawks;;;;;;;4;366.664;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381298;800600;2F;1144;Dennis Schroder;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;377.692;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:54:02.316933
+76381299;100200;Game stop;;;;;;;;;;;4;377.692;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381300;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;1144;Dennis Schroder;79;Atlanta Hawks;;;4;377.692;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381301;1800600;Timeout;;;;;;;;;;;4;377.692;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381302;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;402.766;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381303;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;4;402.766;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381304;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;370717;Lamar Patterson;79;Atlanta Hawks;;;4;402.766;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381305;800101;1+;1144;Dennis Schroder;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;402.766;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381306;800102;1-;1144;Dennis Schroder;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;420.720;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381307;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;420.720;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381308;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;449.083;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381309;100200;Game stop;;;;;;;;;;;4;468.083;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381310;1600500;Guard;1147;Kyle Korver;79;Atlanta Hawks;1145;Kent Bazemore;79;Atlanta Hawks;;;4;468.083;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381311;100500;Turnover;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;468.083;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381312;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;468.083;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381313;800202;2-;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;468.083;26.66;7.56;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 03:54:02.316933
+76381314;100200;Game stop;;;;;;;;;;;4;468.083;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381315;100300;Rebound;;;79;Atlanta Hawks;;;;;;;4;468.083;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381316;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;486.342;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381317;100400;Steal;2430;Wesley Matthews;2975;Dallas Mavericks;1144;Dennis Schroder;79;Atlanta Hawks;;;4;494.342;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381318;200600;Post;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;509.348;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381319;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;509.348;26.66;7.56;;;;;;;;Post;;Hook;;;;2017-12-07 03:54:02.316933
+76381320;800302;3-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;4;531.515;20.81;4.11;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 03:54:02.316933
+76381321;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;531.515;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381322;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;540.331;23.72;14.46;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:54:02.316933
+76381323;100300;Rebound;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;;;4;540.331;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381324;100200;Game stop;;;;;;;;;;;4;545.134;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381325;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;4;545.134;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381326;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;1144;Dennis Schroder;79;Atlanta Hawks;;;4;570.560;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381327;1600500;Guard;1148;Mike Muscala;79;Atlanta Hawks;1143;Al Horford;79;Atlanta Hawks;;;4;570.560;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381328;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;570.560;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381329;200600;Post;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;570.560;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381330;800600;2F;1140;Paul Millsap;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;570.560;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 03:54:02.316933
+76381331;100200;Game stop;;;;;;;;;;;4;570.560;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381332;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;1140;Paul Millsap;79;Atlanta Hawks;;;4;570.560;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381333;800102;1-;1140;Paul Millsap;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;596.279;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381334;100300;Rebound;;;79;Atlanta Hawks;;;;;;;4;596.279;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381335;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;613.350;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381336;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;615.798;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381337;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;626.798;26.06;4.20;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:54:02.316933
+76381338;800600;2F;1140;Paul Millsap;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;640.570;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 03:54:02.316933
+76381339;100200;Game stop;;;;;;;;;;;4;640.570;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381340;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;1140;Paul Millsap;79;Atlanta Hawks;;;4;640.570;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381341;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;674.281;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381342;800101;1+;1140;Paul Millsap;79;Atlanta Hawks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;694.469;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381343;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;697.949;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381344;200600;Post;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;713.949;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381345;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;713.949;26.57;5.64;;;;;;;;Post;;Jumper;;;;2017-12-07 03:54:02.316933
+76381346;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;713.949;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381347;100200;Game stop;;;;;;;;;;;4;721.004;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381348;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;721.004;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381349;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;755.605;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381350;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;755.605;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381351;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;4;755.605;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381352;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;755.605;23.03;13.68;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76381353;800302;3-;1147;Kyle Korver;79;Atlanta Hawks;;;;;;;4;775.804;26.06;0.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381354;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;775.804;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381355;100200;Game stop;;;;;;;;;;;4;814.607;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381356;1600500;Guard;1143;Al Horford;79;Atlanta Hawks;1148;Mike Muscala;79;Atlanta Hawks;;;4;814.607;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381357;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;814.607;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381358;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;814.607;26.36;13.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381359;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;814.607;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381360;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;4;817.348;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381361;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;817.348;26.81;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 03:54:02.316933
+76381362;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;837.043;26.42;10.05;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 03:54:02.316933
+76381363;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;837.043;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381364;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;852.671;25.67;4.26;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381365;100400;Steal;2433;Dirk Nowitzki;2975;Dallas Mavericks;1143;Al Horford;79;Atlanta Hawks;;;4;874.521;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381366;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;881.349;20.33;4.71;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:54:02.316933
+76381367;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;881.349;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381368;100200;Game stop;;;;;;;;;;;4;888.497;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381369;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;888.497;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381370;800202;2-;1143;Al Horford;79;Atlanta Hawks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;888.497;27.08;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:54:02.316933
+76381371;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;900.298;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381372;100400;Steal;1140;Paul Millsap;79;Atlanta Hawks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;910.298;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381373;400101;Accurate pass;1140;Paul Millsap;79;Atlanta Hawks;;;;;1147;Kyle Korver;4;915.683;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381374;800400;2+1;1147;Kyle Korver;79;Atlanta Hawks;;;;;1140;Paul Millsap;4;915.683;27.08;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 03:54:02.316933
+76381375;100200;Game stop;;;;;;;;;;;4;915.683;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381376;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;1147;Kyle Korver;79;Atlanta Hawks;;;4;915.683;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381377;1600500;Guard;1145;Kent Bazemore;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;4;953.901;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381378;800101;1+;1147;Kyle Korver;79;Atlanta Hawks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;953.901;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381379;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;958.411;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381380;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;973.411;22.13;7.56;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381381;100200;Game stop;;;;;;;;;;;4;982.019;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381382;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;4;982.019;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381383;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;1011.742;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381384;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1011.742;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381385;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1143;Al Horford;4;1011.742;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381386;800201;2+;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1011.742;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 03:54:02.316933
+76381387;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;1026.705;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381388;800301;3+;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;1026.705;26.99;0.78;;;;;;;;Screen off;;Jumper;;;;2017-12-07 03:54:02.316933
+76381389;800202;2-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1040.530;25.52;5.58;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 03:54:02.316933
+76381390;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;1040.530;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381391;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;1040.530;26.84;7.56;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 03:54:02.316933
+76381392;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;1061.042;23.33;1.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 03:54:02.316933
+76381393;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;1061.042;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381394;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1145;Kent Bazemore;4;1073.865;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381395;800301;3+;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1073.865;20.81;3.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381396;100200;Game stop;;;;;;;;;;;4;1073.865;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381397;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;1073.865;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381398;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;1111.105;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381399;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1111.105;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381400;100200;Game stop;;;;;;;;;;;4;1111.105;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381401;300100;Foul;1139;Jeff Teague;79;Atlanta Hawks;2428;Deron Williams;2975;Dallas Mavericks;;;4;1111.105;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381402;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1131.039;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381403;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;1144.039;25.67;3.66;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:54:02.316933
+76381404;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;1144.039;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381405;400101;Accurate pass;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;4;1156.597;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381406;200300;Pick'n'Roll;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1156.597;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 03:54:02.316933
+76381407;800201;2+;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1156.597;22.28;9.27;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 03:54:02.316933
+76381408;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;1140;Paul Millsap;79;Atlanta Hawks;;;4;1177.726;25.67;0.87;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 03:54:02.316933
+76381409;100300;Rebound;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;4;1177.726;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381410;800302;3-;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1192.954;22.43;1.77;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 03:54:02.316933
+76381411;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;1192.954;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381412;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;1201.649;21.26;12.36;;;;;;;;Transition;;Jumper;;;;2017-12-07 03:54:02.316933
+76381413;100300;Rebound;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;1201.649;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381414;800202;2-;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;1222.762;22.88;8.91;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 03:54:02.316933
+76381415;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;1222.762;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381416;100200;Game stop;;;;;;;;;;;4;1222.762;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381417;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;1222.762;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381418;1600500;Guard;1146;Thabo Sefolosha;79;Atlanta Hawks;1139;Jeff Teague;79;Atlanta Hawks;;;4;1251.682;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381419;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1251.682;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381420;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;1143;Al Horford;79;Atlanta Hawks;;;4;1251.682;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 03:54:02.316933
+76381421;100200;Game stop;;;;;;;;;;;4;1251.682;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381422;300100;Foul;1143;Al Horford;79;Atlanta Hawks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;1251.682;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381423;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;1143;Al Horford;79;Atlanta Hawks;;;4;1279.374;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381424;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;1143;Al Horford;79;Atlanta Hawks;;;4;1296.881;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381425;1800600;Timeout;;;79;Atlanta Hawks;;;;;;;4;1296.881;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381426;1600500;Guard;1139;Jeff Teague;79;Atlanta Hawks;1146;Thabo Sefolosha;79;Atlanta Hawks;;;4;1343.445;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381427;100100;Ball in play;;;79;Atlanta Hawks;;;;;;;4;1343.445;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381428;800600;2F;1139;Jeff Teague;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;1343.445;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 03:54:02.316933
+76381429;100200;Game stop;;;;;;;;;;;4;1343.445;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381430;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;1139;Jeff Teague;79;Atlanta Hawks;;;4;1343.445;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381431;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;1377.147;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381432;800101;1+;1139;Jeff Teague;79;Atlanta Hawks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;1397.983;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381433;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1404.062;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76381434;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;1414.462;21.41;2.85;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 03:54:02.316933
+76381435;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;4;1414.462;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+76381436;1800700;Match end;;;;;;;;;;;4;1414.662;;;;;;;;;;;;;;;;2017-12-07 03:54:02.316933
+103686870;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;95.679;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686872;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;234.556;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686874;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;;;1;271.770;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686876;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;292.813;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686878;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1143;Al Horford;1;313.615;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686880;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;325.738;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686882;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;1140;Paul Millsap;1;352.223;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686884;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;402.523;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686886;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;431.089;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686888;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;530.359;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686890;200900;Assisting;1148;Mike Muscala;79;Atlanta Hawks;;;;;1147;Kyle Korver;1;548.505;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686892;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;1;571.283;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686894;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;586.581;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686896;200900;Assisting;1148;Mike Muscala;79;Atlanta Hawks;;;;;1139;Jeff Teague;1;601.397;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686898;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;613.504;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686900;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;716.470;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686902;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;761.580;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686904;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;864.306;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686906;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;1;1005.788;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686908;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;1022.585;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686910;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;12224;Tiago Splitter;2;20.543;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686912;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1144;Dennis Schroder;2;88.662;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686914;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;101.072;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686916;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;140.976;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686918;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;370717;Lamar Patterson;2;293.408;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686920;200900;Assisting;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1146;Thabo Sefolosha;2;385.651;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686922;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;417.267;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686924;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;456.961;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686926;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1148;Mike Muscala;2;515.000;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686928;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;536.242;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686930;200900;Assisting;1146;Thabo Sefolosha;79;Atlanta Hawks;;;;;1139;Jeff Teague;2;593.298;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686932;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;605.955;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686934;200900;Assisting;1148;Mike Muscala;79;Atlanta Hawks;;;;;1140;Paul Millsap;2;619.606;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686936;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;632.369;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686938;200900;Assisting;1147;Kyle Korver;79;Atlanta Hawks;;;;;1140;Paul Millsap;2;762.608;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686940;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;818.897;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686942;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;924.555;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686944;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;2;946.204;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686946;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1147;Kyle Korver;2;1070.732;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686948;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;1087.260;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686950;200900;Assisting;1147;Kyle Korver;79;Atlanta Hawks;;;;;1145;Kent Bazemore;2;1102.334;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686952;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;1115.144;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686954;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;2;1128.841;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686956;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;82.793;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686958;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;100.230;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686960;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;146.622;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686962;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;1143;Al Horford;3;197.851;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686964;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;212.821;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686966;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;283.463;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686968;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1143;Al Horford;3;297.693;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686970;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;3;324.826;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686972;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;397.802;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686974;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;425.686;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686976;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;453.379;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686978;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;473.178;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686980;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;3;497.969;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686982;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;533.791;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686984;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;554.624;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686986;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;577.251;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686988;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;609.145;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686990;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;3;672.119;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686992;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;736.084;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686994;200900;Assisting;1148;Mike Muscala;79;Atlanta Hawks;;;;;;;3;754.401;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686996;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;769.223;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103686998;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;862.631;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687000;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1145;Kent Bazemore;3;942.062;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687002;200900;Assisting;12224;Tiago Splitter;79;Atlanta Hawks;;;;;1143;Al Horford;3;981.649;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687004;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1023.797;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687006;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;;;3;1084.469;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687008;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1144;Dennis Schroder;3;1110.386;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687010;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;37.897;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687012;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;131.312;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687014;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;211.947;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687016;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;271.347;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687018;200900;Assisting;1144;Dennis Schroder;79;Atlanta Hawks;;;;;;;4;377.692;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687020;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;509.348;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687022;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;570.560;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687024;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;626.798;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687026;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;640.570;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687028;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;755.605;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687030;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;817.348;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687032;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;852.671;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687034;200900;Assisting;1147;Kyle Korver;79;Atlanta Hawks;;;;;1140;Paul Millsap;4;915.683;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687036;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;973.411;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687038;200900;Assisting;1143;Al Horford;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1011.742;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687040;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;1026.705;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687042;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;;;4;1040.530;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687044;200900;Assisting;1145;Kent Bazemore;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1073.865;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687046;200900;Assisting;1140;Paul Millsap;79;Atlanta Hawks;;;;;1139;Jeff Teague;4;1156.597;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687048;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;1251.682;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687050;200900;Assisting;1139;Jeff Teague;79;Atlanta Hawks;;;;;;;4;1343.445;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145

@@ -1,0 +1,852 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76440559;1601000;Starting lineup;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440560;1601000;Starting lineup;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440561;1601000;Starting lineup;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440562;1601000;Starting lineup;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440563;1601000;Starting lineup;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440564;1601000;Starting lineup;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440565;1601000;Starting lineup;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440566;1601000;Starting lineup;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440567;1601000;Starting lineup;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440568;1601000;Starting lineup;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440569;1601000;Starting lineup;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440570;1601000;Starting lineup;1862;Mitch McGary;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440571;1601000;Starting lineup;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440572;1601000;Starting lineup;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440573;1601000;Starting lineup;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440574;1601000;Starting lineup;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440575;1601000;Starting lineup;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440576;1601000;Starting lineup;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440577;1601000;Starting lineup;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440578;1601000;Starting lineup;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440579;1601000;Starting lineup;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440580;1601000;Starting lineup;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440581;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440582;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440583;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440584;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440585;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440586;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440587;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440588;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440589;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440590;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440591;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440592;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;98.039;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440593;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;110.039;22.58;9.06;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:18:01.392112
+76440594;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;1;122.621;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440595;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;122.621;27.23;7.89;;;;;;;;Screen off;;Lay up;;;;2017-12-07 05:18:01.392112
+76440596;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;7437;Jeremy Evans;2975;Dallas Mavericks;;;1;143.879;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 05:18:01.392112
+76440597;100200;Game stop;;;;;;;;;;;1;143.879;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440598;300100;Foul;7437;Jeremy Evans;2975;Dallas Mavericks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;143.879;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440599;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;7437;Jeremy Evans;2975;Dallas Mavericks;;;1;170.533;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440600;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;1;170.533;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440601;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;7437;Jeremy Evans;2975;Dallas Mavericks;;;1;185.644;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440602;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;185.644;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440603;100300;Rebound;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;1;185.644;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440604;800302;3-;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;202.897;26.99;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440605;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;202.897;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440606;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;210.327;21.56;7.74;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76440607;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;210.327;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440608;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;225.489;27.08;6.87;;;;;;;;Isolation;;Lay up;Drives Right;;;2018-10-20 17:58:37.550992
+76440609;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;225.489;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440610;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;252.618;26.99;7.17;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:18:01.392112
+76440611;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;271.973;20.81;11.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440612;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;271.973;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440613;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;281.234;21.41;2.70;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76440614;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;281.234;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440615;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7461;JaVale McGee;1;291.259;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440616;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;291.259;22.25;7.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440617;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;316.031;20.96;3.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440618;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;319.020;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440619;100200;Game stop;;;;;;;;;;;1;319.020;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440620;100500;Turnover;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;319.020;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440621;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;329.286;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440622;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;338.286;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440623;800301;3+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;338.286;21.11;3.39;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440624;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;353.058;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440625;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;353.058;23.60;1.08;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440626;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;7437;Jeremy Evans;2975;Dallas Mavericks;;;1;366.018;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440627;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;1;371.596;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440628;800201;2+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;371.596;26.96;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:18:01.392112
+76440629;200300;Pick'n'Roll;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;383.949;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:18:01.392112
+76440630;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;383.949;22.73;6.72;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:18:01.392112
+76440631;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;383.949;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440632;200600;Post;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;404.029;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440633;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;404.029;27.08;8.13;;;;;;;;Post;;Lay up;;;;2017-12-07 05:18:01.392112
+76440634;100200;Game stop;;;;;;;;;;;1;404.029;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440635;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;404.029;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440636;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;410.250;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440637;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;431.250;20.18;4.80;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:18:01.392112
+76440638;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;431.250;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440639;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;1;438.378;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440640;800201;2+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;438.378;27.23;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:18:01.392112
+76440641;100400;Steal;1858;Steven Adams;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;1;453.801;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440642;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;1;458.356;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440643;800201;2+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;458.356;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 05:18:01.392112
+76440644;100200;Game stop;;;;;;;;;;;1;458.356;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440645;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;458.356;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440646;1600500;Guard;370702;Justin Anderson;2975;Dallas Mavericks;7437;Jeremy Evans;2975;Dallas Mavericks;;;1;458.356;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440647;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;1;458.356;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440648;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;470.916;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440649;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;485.916;21.41;12.42;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76440650;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;485.916;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440651;100200;Game stop;;;;;;;;;;;1;501.204;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440652;100500;Turnover;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;501.204;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440653;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;501.204;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440654;100400;Steal;1860;Andre Roberson;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;1;501.204;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440655;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;526.031;26.96;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:18:01.392112
+76440656;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;528.129;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440657;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;528.129;23.45;4.35;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 05:18:01.392112
+76440658;800302;3-;370702;Justin Anderson;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;550.140;20.66;3.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440659;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;550.140;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440660;200300;Pick'n'Roll;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;563.199;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440661;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;563.199;26.96;8.88;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 05:18:01.392112
+76440662;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;563.199;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440663;800202;2-;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;571.759;27.05;8.10;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 05:18:01.392112
+76440664;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;572.891;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440665;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;572.891;26.51;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 05:18:01.392112
+76440666;800600;2F;1860;Andre Roberson;2935;Oklahoma City Thunder;7461;JaVale McGee;2975;Dallas Mavericks;;;1;598.511;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 05:18:01.392112
+76440667;100200;Game stop;;;;;;;;;;;1;598.511;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440668;300100;Foul;7461;JaVale McGee;2975;Dallas Mavericks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;598.511;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440669;800101;1+;1860;Andre Roberson;2935;Oklahoma City Thunder;7461;JaVale McGee;2975;Dallas Mavericks;;;1;631.499;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440670;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;1;631.499;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440671;800101;1+;1860;Andre Roberson;2935;Oklahoma City Thunder;7461;JaVale McGee;2975;Dallas Mavericks;;;1;648.503;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440672;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;653.158;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440673;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;665.158;19.79;7.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76440674;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;665.158;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440675;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;678.615;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440676;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;678.615;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440677;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;678.615;22.58;6.57;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 05:18:01.392112
+76440678;200300;Pick'n'Roll;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;689.475;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:18:01.392112
+76440679;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;689.475;25.82;8.28;;;;;;;;Pick'n'pop;;Floater;Drives Left;;;2017-12-07 05:18:01.392112
+76440680;200300;Pick'n'Roll;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;708.464;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440681;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;708.464;25.97;7.74;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 05:18:01.392112
+76440682;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;710.212;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440683;100400;Steal;2425;Charlie Villanueva;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;710.212;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440684;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;718.303;27.05;7.74;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:18:01.392112
+76440685;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;718.303;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440686;100200;Game stop;;;;;;;;;;;1;728.933;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440687;100500;Turnover;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;728.933;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440688;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;738.671;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440689;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;747.671;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440690;800201;2+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;747.671;27.05;7.02;;;;;;;;Screen off;;Lay up;;;;2017-12-07 05:18:01.392112
+76440691;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;764.486;20.63;10.98;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440692;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;764.486;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440693;800302;3-;370702;Justin Anderson;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;782.441;22.13;12.96;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 05:18:01.392112
+76440694;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;782.441;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440695;800600;2F;1860;Andre Roberson;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;1;792.559;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:18:01.392112
+76440696;100200;Game stop;;;;;;;;;;;1;792.559;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440697;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;792.559;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440698;800101;1+;1860;Andre Roberson;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;1;815.913;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440699;1600500;Guard;1854;Kyle Singler;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;815.913;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440700;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;1;815.913;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440701;800102;1-;1860;Andre Roberson;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;1;834.205;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440702;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;834.205;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440703;100300;Rebound;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;1;834.205;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440704;800302;3-;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;857.977;21.95;13.05;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:18:01.392112
+76440705;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;857.977;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440706;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;1;866.518;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:18:01.392112
+76440707;100200;Game stop;;;;;;;;;;;1;866.518;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440708;300100;Foul;370702;Justin Anderson;2975;Dallas Mavericks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;866.518;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440709;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;1;866.518;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440710;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;866.518;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440711;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;866.518;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440712;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;1;884.178;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440713;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;1;899.378;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440714;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;900.408;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440715;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;913.408;24.80;3.39;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76440716;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;913.408;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440717;200600;Post;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;928.355;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440718;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;928.355;25.22;7.65;;;;;;;;Post;;Jumper;;;;2017-12-07 05:18:01.392112
+76440719;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;946.527;21.50;12.21;;;;;;;;Catch and shoot;;Jumper;;;;2018-10-20 17:58:37.550992
+76440720;100300;Rebound;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;1;946.527;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440721;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;1;957.373;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440722;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;1;957.373;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:18:01.392112
+76440723;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;975.991;20.51;11.07;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76440724;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;997.579;22.52;7.17;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:18:01.392112
+76440725;100200;Game stop;;;;;;;;;;;1;1014.495;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440726;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;1;1014.495;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440727;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;1014.495;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440728;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1043.054;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440729;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2427;Dwight Powell;1;1048.854;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440730;800400;2+1;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;1048.854;27.08;6.96;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:18:01.392112
+76440731;100200;Game stop;;;;;;;;;;;1;1048.854;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440732;300100;Foul;1857;Enes Freedom;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;1;1048.854;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440733;800102;1-;2427;Dwight Powell;2975;Dallas Mavericks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;1;1074.331;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440734;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;1074.331;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440735;100300;Rebound;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;1;1074.331;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440736;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;1086.824;25.82;7.17;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 05:18:01.392112
+76440737;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;1102.614;26.81;6.81;;;;;;;;Pick'n'Roll;;Lay up;;;;2018-10-20 17:58:37.550992
+76440738;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1129.444;26.57;3.33;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:18:01.392112
+76440739;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;1129.444;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440740;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;1138.704;25.91;8.43;;;;;;;;Pick'n'Roll;;Floater;;;;2018-10-20 17:58:37.550992
+76440741;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;1138.704;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440742;1800500;Halftime;;;;;;;;;;;1;1138.704;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440743;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440744;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440745;1600500;Guard;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440746;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440747;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440748;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440749;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440750;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440751;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440752;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440753;1600500;Guard;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440754;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;7.502;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440755;800700;3F;2427;Dwight Powell;2975;Dallas Mavericks;1854;Kyle Singler;2935;Oklahoma City Thunder;;;2;15.502;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 05:18:01.392112
+76440756;100200;Game stop;;;;;;;;;;;2;15.502;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440757;300100;Foul;1854;Kyle Singler;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;2;15.502;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440758;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;1854;Kyle Singler;2935;Oklahoma City Thunder;;;2;43.206;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440759;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;1854;Kyle Singler;2935;Oklahoma City Thunder;;;2;55.543;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440760;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;1854;Kyle Singler;2935;Oklahoma City Thunder;;;2;70.981;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440761;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;75.172;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440762;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;91.172;20.81;7.98;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 05:18:01.392112
+76440763;100200;Game stop;;;;;;;;;;;2;91.172;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440764;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;91.172;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440765;300100;Foul;370702;Justin Anderson;2975;Dallas Mavericks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;91.172;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440766;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;108.951;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440767;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;2;118.951;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440768;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;118.951;20.51;4.26;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440769;800302;3-;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;2;141.077;19.79;10.65;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76440770;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;141.077;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440771;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;2;151.054;26.84;7.56;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:18:01.392112
+76440772;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;151.773;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440773;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;154.938;26.96;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440774;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;155.421;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440775;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;165.346;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440776;800301;3+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;2;165.346;26.42;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440777;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;177.057;26.84;6.87;;;;;;;;Pick'n'Roll;;Lay up;;;;2018-10-20 17:58:37.550992
+76440778;800202;2-;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;2;188.543;26.72;7.80;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:18:01.392112
+76440779;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;188.543;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440780;100200;Game stop;;;;;;;;;;;2;199.210;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440781;100500;Turnover;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;199.210;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440782;1600500;Guard;8429;John Jenkins;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;2;199.210;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440783;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;219.234;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440784;100200;Game stop;;;;;;;;;;;2;230.234;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440785;300100;Foul;1857;Enes Freedom;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;2;230.234;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440786;100500;Turnover;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;230.234;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440787;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;247.501;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440788;100200;Game stop;;;;;;;;;;;2;259.501;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440789;100500;Turnover;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;259.501;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440790;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;268.900;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440791;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;291.900;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440792;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;291.900;27.08;7.05;;;;;;;;Post;;Lay up;;;;2017-12-07 05:18:01.392112
+76440793;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;311.796;26.84;5.16;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 05:18:01.392112
+76440794;100200;Game stop;;;;;;;;;;;2;311.796;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440795;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;311.796;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440796;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;311.796;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440797;1600500;Guard;2434;Salah Mejri;2975;Dallas Mavericks;7437;Jeremy Evans;2975;Dallas Mavericks;;;2;311.796;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440798;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;339.057;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440799;400101;Accurate pass;370702;Justin Anderson;2975;Dallas Mavericks;;;;;8429;John Jenkins;2;343.057;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440800;800201;2+;8429;John Jenkins;2975;Dallas Mavericks;;;;;370702;Justin Anderson;2;343.057;25.22;12.27;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76440801;100200;Game stop;;;;;;;;;;;2;354.174;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440802;1800600;Timeout;;;;;;;;;;;2;354.174;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440803;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;368.138;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440804;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;380.138;26.99;7.17;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 05:18:01.392112
+76440805;100200;Game stop;;;;;;;;;;;2;395.657;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440806;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;8429;John Jenkins;2975;Dallas Mavericks;;;2;395.657;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440807;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;410.539;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440808;400101;Accurate pass;370702;Justin Anderson;2975;Dallas Mavericks;;;;;2434;Salah Mejri;2;422.539;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440809;200300;Pick'n'Roll;2434;Salah Mejri;2975;Dallas Mavericks;;;;;370702;Justin Anderson;2;422.539;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440810;800201;2+;2434;Salah Mejri;2975;Dallas Mavericks;;;;;370702;Justin Anderson;2;422.539;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 05:18:01.392112
+76440811;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;446.369;19.58;10.29;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440812;100300;Rebound;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;2;446.369;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440813;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;469.766;22.73;12.42;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:18:01.392112
+76440814;100300;Rebound;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;469.766;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440815;800600;2F;8331;Dion Waiters;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;2;479.798;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:18:01.392112
+76440816;100200;Game stop;;;;;;;;;;;2;479.798;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440817;300100;Foul;370702;Justin Anderson;2975;Dallas Mavericks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;479.798;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440818;800102;1-;8331;Dion Waiters;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;2;505.054;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440819;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;505.054;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440820;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1854;Kyle Singler;2935;Oklahoma City Thunder;;;2;505.054;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440821;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;2;505.054;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440822;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;370702;Justin Anderson;2975;Dallas Mavericks;;;2;505.054;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440823;800101;1+;8331;Dion Waiters;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;2;529.424;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440824;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;530.920;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440825;100400;Steal;1851;Anthony Morrow;2935;Oklahoma City Thunder;8429;John Jenkins;2975;Dallas Mavericks;;;2;544.920;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440826;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;552.946;22.43;9.75;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76440827;100200;Game stop;;;;;;;;;;;2;567.220;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440828;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;2;567.220;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440829;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;567.220;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440830;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;567.220;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440831;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;588.931;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440832;800202;2-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;603.931;25.97;7.20;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 05:18:01.392112
+76440833;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;603.931;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440834;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;2;611.390;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440835;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;611.390;22.97;7.17;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76440836;100200;Game stop;;;;;;;;;;;2;611.390;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440837;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;611.390;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440838;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7437;Jeremy Evans;2975;Dallas Mavericks;;;2;611.390;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440839;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;624.918;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440840;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;2;640.918;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440841;800301;3+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;640.918;21.41;12.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440842;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;664.392;22.28;9.36;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:18:01.392112
+76440843;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;666.734;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440844;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;666.734;25.67;7.35;;;;;;;;Putbacks;;Hook;;;;2017-12-07 05:18:01.392112
+76440845;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;666.734;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440846;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;676.656;19.94;6.81;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76440847;100300;Rebound;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;2;677.345;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440848;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;682.946;23.45;14.04;;;;;;;;Catch and shoot;;Jumper;;;;2018-10-20 17:58:37.550992
+76440849;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;682.946;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440850;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;694.594;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440851;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;694.594;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 05:18:01.392112
+76440852;100200;Game stop;;;;;;;;;;;2;694.594;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440853;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;694.594;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440854;300300;Technical foul;1850;Russell Westbrook;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;715.830;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440855;300300;Technical foul;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;715.830;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440856;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;715.830;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440857;300300;Technical foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;715.830;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440858;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;739.128;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440859;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;739.128;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440860;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;753.604;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440861;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;753.604;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440862;100100;Ball in play;;;;;;;;;;;2;753.604;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440863;100200;Game stop;;;;;;;;;;;2;753.604;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440864;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;753.604;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440865;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;765.722;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440866;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;777.722;26.99;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440867;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;779.569;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440868;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;779.569;26.81;7.98;;;;;;;;Putbacks;;;;;;2017-12-07 05:18:01.392112
+76440869;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;779.569;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440870;800202;2-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;793.487;23.90;7.11;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 05:18:01.392112
+76440871;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;793.736;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440872;400101;Accurate pass;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;2;798.698;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440873;800301;3+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;2;798.698;20.63;11.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440874;100200;Game stop;;;;;;;;;;;2;815.472;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440875;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;8429;John Jenkins;2975;Dallas Mavericks;;;2;815.472;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440876;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;815.472;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440877;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;2;815.472;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440878;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;852.506;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440879;200300;Pick'n'Roll;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;2;859.506;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:18:01.392112
+76440880;800600;2F;2434;Salah Mejri;2975;Dallas Mavericks;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;859.506;27.05;7.62;;;;;;;;Pick'n'pop;;;Drives Left;;;2017-12-07 05:18:01.392112
+76440881;100200;Game stop;;;;;;;;;;;2;859.506;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440882;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;2;859.506;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440883;800102;1-;2434;Salah Mejri;2975;Dallas Mavericks;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;878.082;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440884;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;878.082;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440885;800101;1+;2434;Salah Mejri;2975;Dallas Mavericks;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;889.613;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440886;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;893.037;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440887;200600;Post;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;902.037;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440888;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;902.037;24.29;6.57;;;;;;;;Post;;Jumper;;;;2017-12-07 05:18:01.392112
+76440889;100300;Rebound;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;2;902.037;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440890;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;911.692;19.64;7.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:18:01.392112
+76440891;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;911.692;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440892;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;2;922.714;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440893;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;922.714;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:18:01.392112
+76440894;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;922.714;23.27;9.21;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:18:01.392112
+76440895;100200;Game stop;;;;;;;;;;;2;922.714;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440896;1600500;Guard;370702;Justin Anderson;2975;Dallas Mavericks;8429;John Jenkins;2975;Dallas Mavericks;;;2;922.714;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440897;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;927.792;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440898;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;963.297;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440899;800600;2F;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;983.297;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2018-10-20 17:58:37.550992
+76440900;100200;Game stop;;;;;;;;;;;2;983.297;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440901;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;983.297;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440902;800102;1-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1003.366;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440903;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;1003.366;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440904;800102;1-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1016.993;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440905;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1016.993;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440906;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1016.993;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440907;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1024.500;20.63;4.02;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76440908;800302;3-;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;2;1039.496;19.79;7.35;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76440909;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;1039.496;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440910;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1046.092;20.18;4.95;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76440911;100400;Steal;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;2;1064.114;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440912;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1067.620;26.93;7.65;;;;;;;;Transition;;Dunk;;;;2017-12-07 05:18:01.392112
+76440913;100200;Game stop;;;;;;;;;;;2;1067.620;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440914;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;1067.620;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440915;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1081.100;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440916;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2434;Salah Mejri;2;1095.100;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440917;200300;Pick'n'Roll;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;1095.100;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440918;800400;2+1;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;1095.100;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 05:18:01.392112
+76440919;100200;Game stop;;;;;;;;;;;2;1095.100;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440920;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;370702;Justin Anderson;2975;Dallas Mavericks;;;2;1095.100;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440921;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;2;1095.100;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440922;800102;1-;2434;Salah Mejri;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1126.524;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440923;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1126.524;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440924;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1126.524;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440925;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1134.432;19.79;9.42;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:18:01.392112
+76440926;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;1135.076;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440927;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;1141.075;20.09;9.75;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440928;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;1141.075;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440929;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2434;Salah Mejri;2;1151.334;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440930;800201;2+;2434;Salah Mejri;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;1151.334;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:18:01.392112
+76440931;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;2;1167.003;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440932;100200;Game stop;;;;;;;;;;;2;1167.003;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440933;300100;Foul;7437;Jeremy Evans;2975;Dallas Mavericks;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;1167.003;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440934;800400;2+1;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1167.003;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:18:01.392112
+76440935;800101;1+;1858;Steven Adams;2935;Oklahoma City Thunder;7437;Jeremy Evans;2975;Dallas Mavericks;;;2;1189.999;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440936;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1194.104;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440937;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;1212.104;26.75;8.46;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 05:18:01.392112
+76440938;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;1213.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440939;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1213.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440940;100200;Game stop;;;;;;;;;;;2;1219.198;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440941;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1219.198;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440942;300300;Technical foul;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1287.434;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440943;1600500;Guard;1862;Mitch McGary;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1287.434;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440944;800101;1+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;1287.434;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440945;800101;1+;1862;Mitch McGary;2935;Oklahoma City Thunder;;;;;;;2;1334.464;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440946;800102;1-;1862;Mitch McGary;2935;Oklahoma City Thunder;;;;;;;2;1348.065;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440947;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1348.065;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440948;100300;Rebound;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;2;1348.065;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440949;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;2;1363.247;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 05:18:01.392112
+76440950;100200;Game stop;;;;;;;;;;;2;1363.247;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440951;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;2;1363.247;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440952;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;2;1363.247;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440953;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1862;Mitch McGary;2935;Oklahoma City Thunder;;;2;1363.247;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440954;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;2;1384.519;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440955;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;2;1395.829;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440956;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;1400.789;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440957;800600;2F;1858;Steven Adams;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1405.789;27.05;7.62;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440958;100200;Game stop;;;;;;;;;;;2;1405.789;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440959;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;1858;Steven Adams;2935;Oklahoma City Thunder;;;2;1405.789;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440960;800102;1-;1858;Steven Adams;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1423.338;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440961;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;1423.338;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440962;800101;1+;1858;Steven Adams;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1437.035;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440963;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1440.913;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440964;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;1452.613;27.08;7.98;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 05:18:01.392112
+76440965;100200;Game stop;;;;;;;;;;;2;1466.877;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440966;100500;Turnover;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1466.877;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440967;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1475.580;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440968;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;1491.880;27.08;8.10;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2018-10-20 17:58:37.550992
+76440969;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;1491.880;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440970;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;1497.809;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:18:01.392112
+76440971;100200;Game stop;;;;;;;;;;;2;1497.809;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440972;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;2;1497.809;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440973;800102;1-;7464;Kevin Durant;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;1519.664;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440974;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;1519.664;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440975;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;1532.724;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440976;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1537.487;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440977;800302;3-;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;1553.087;21.11;12.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440978;100300;Rebound;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;2;1556.113;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440979;1800500;Halftime;;;;;;;;;;;2;1557.013;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440980;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440981;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440982;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440983;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440984;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440985;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440986;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440987;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440988;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440989;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440990;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440991;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;8.018;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76440992;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7461;JaVale McGee;3;19.018;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76440993;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;19.018;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:18:01.392112
+76440994;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;3;55.241;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440995;800301;3+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;55.241;21.26;3.09;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76440996;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;71.569;27.02;7.62;;;;;;;;Catch and Drive;;Dunk;Drives Right;;;2017-12-07 05:18:01.392112
+76440997;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;71.569;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76440998;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;79.938;19.88;7.89;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76440999;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;79.938;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441000;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;94.518;26.84;8.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:18:01.392112
+76441001;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;95.132;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441002;800202;2-;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;3;98.877;26.72;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:18:01.392112
+76441003;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;98.877;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441004;800302;3-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;117.517;27.05;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441005;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;117.517;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441006;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;129.290;26.42;7.17;;;;;;;;Pick'n'Roll;;Lay up;;;;2018-10-20 17:58:37.550992
+76441007;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;130.774;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441008;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;130.774;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:18:01.392112
+76441009;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;149.249;22.73;7.74;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:18:01.392112
+76441010;100200;Game stop;;;;;;;;;;;3;149.249;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441011;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;149.249;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441012;300100;Foul;7461;JaVale McGee;2975;Dallas Mavericks;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;149.249;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441013;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;166.808;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441014;800301;3+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;178.808;21.41;12.45;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 05:18:01.392112
+76441015;800302;3-;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;3;205.476;22.43;1.86;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441016;100200;Game stop;;;;;;;;;;;3;205.476;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441017;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;205.476;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441018;300100;Foul;1858;Steven Adams;2935;Oklahoma City Thunder;7461;JaVale McGee;2975;Dallas Mavericks;;;3;205.476;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441019;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;218.428;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441020;100200;Game stop;;;;;;;;;;;3;228.428;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441021;100500;Turnover;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;228.428;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76441022;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;238.229;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441023;400101;Accurate pass;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;248.229;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441024;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;3;248.229;26.96;0.81;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76441025;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;258.966;27.08;7.20;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:18:01.392112
+76441026;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;259.203;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441027;800302;3-;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;3;274.153;23.90;14.43;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:18:01.392112
+76441028;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;274.153;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441029;100200;Game stop;;;;;;;;;;;3;281.907;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441030;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;7437;Jeremy Evans;2975;Dallas Mavericks;;;3;281.907;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441031;100500;Turnover;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;281.907;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441032;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;309.481;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441033;100400;Steal;1860;Andre Roberson;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;3;326.481;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441034;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;359.447;26.81;8.73;;;;;;;;Cut;;Hook;;;;2017-12-07 05:18:01.392112
+76441035;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;359.447;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441036;100200;Game stop;;;;;;;;;;;3;367.850;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441037;300100;Foul;7461;JaVale McGee;2975;Dallas Mavericks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;3;367.850;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441038;100500;Turnover;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;367.850;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441039;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;3;367.850;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441040;1600500;Guard;370702;Justin Anderson;2975;Dallas Mavericks;7437;Jeremy Evans;2975;Dallas Mavericks;;;3;367.850;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441041;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;380.063;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441042;800202;2-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;392.063;26.12;7.32;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 05:18:01.392112
+76441043;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;394.351;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441044;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;3;394.351;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 05:18:01.392112
+76441045;100200;Game stop;;;;;;;;;;;3;394.351;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441046;300100;Foul;370702;Justin Anderson;2975;Dallas Mavericks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;394.351;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441047;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;3;416.398;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441048;800102;1-;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;3;432.194;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441049;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;432.194;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441050;100300;Rebound;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;3;432.194;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441051;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;445.980;23.45;4.56;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76441052;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;445.980;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441053;100400;Steal;370702;Justin Anderson;2975;Dallas Mavericks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;454.535;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441054;400101;Accurate pass;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;459.355;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441055;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2427;Dwight Powell;3;459.355;26.99;7.83;;;;;;;;Transition;;Lay up;;;;2018-10-20 17:58:37.550992
+76441056;100200;Game stop;;;;;;;;;;;3;486.401;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441057;100500;Turnover;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;486.401;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441058;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;501.493;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441059;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;512.493;25.97;2.70;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76441060;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;512.493;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441061;100400;Steal;370702;Justin Anderson;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;524.455;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441062;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;535.239;20.21;4.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76441063;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;535.239;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441064;100400;Steal;370702;Justin Anderson;2975;Dallas Mavericks;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;556.995;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441065;800201;2+;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;3;561.413;27.23;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:18:01.392112
+76441066;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;576.552;22.67;6.42;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:18:01.392112
+76441067;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;592.908;25.82;6.72;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:18:01.392112
+76441068;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;609.342;20.90;11.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441069;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;610.138;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441070;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;615.316;22.25;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441071;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;615.316;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76441072;800600;2F;7461;JaVale McGee;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;628.590;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 05:18:01.392112
+76441073;100200;Game stop;;;;;;;;;;;3;628.590;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441074;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;7461;JaVale McGee;2975;Dallas Mavericks;;;3;628.590;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441075;800101;1+;7461;JaVale McGee;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;662.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441076;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1861;Cameron Payne;2935;Oklahoma City Thunder;;;3;662.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441077;1600500;Guard;9111;D.J. Augustin;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;662.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441078;1600500;Guard;8429;John Jenkins;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;3;662.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441079;800101;1+;7461;JaVale McGee;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;684.889;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441080;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;686.928;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441081;800302;3-;9111;D.J. Augustin;2935;Oklahoma City Thunder;7461;JaVale McGee;2975;Dallas Mavericks;8331;Dion Waiters;3;703.928;26.81;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441082;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;703.928;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441083;800302;3-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;718.892;20.63;4.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441084;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;718.892;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441085;400101;Accurate pass;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;3;730.366;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441086;800301;3+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;9111;D.J. Augustin;3;730.366;26.57;14.46;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441087;100200;Game stop;;;;;;;;;;;3;730.366;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441088;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;3;730.366;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441089;1600500;Guard;2434;Salah Mejri;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;3;730.366;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441090;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;730.366;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441091;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;740.405;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441092;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;8429;John Jenkins;3;751.405;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441093;800201;2+;8429;John Jenkins;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;751.405;26.81;4.35;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76441094;100200;Game stop;;;;;;;;;;;3;776.831;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441095;100500;Turnover;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;776.831;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441096;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;776.831;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441097;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;791.592;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441098;200300;Pick'n'Roll;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;804.592;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441099;800202;2-;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;804.592;26.93;7.65;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 05:18:01.392112
+76441100;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;3;804.592;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441101;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;3;810.825;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:18:01.392112
+76441102;100200;Game stop;;;;;;;;;;;3;810.825;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441103;300100;Foul;370702;Justin Anderson;2975;Dallas Mavericks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;810.825;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441104;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;3;843.800;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441105;1600500;Guard;1854;Kyle Singler;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;843.800;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441106;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;370702;Justin Anderson;2975;Dallas Mavericks;;;3;860.416;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441107;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;864.339;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441108;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;884.339;24.95;7.17;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 05:18:01.392112
+76441109;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;3;884.339;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441110;100200;Game stop;;;;;;;;;;;3;894.275;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441111;100500;Turnover;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;3;894.275;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441112;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;904.151;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441113;800302;3-;370702;Justin Anderson;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;927.151;19.49;8.49;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441114;100200;Game stop;;;;;;;;;;;3;927.151;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441115;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;927.151;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441116;300100;Foul;9111;D.J. Augustin;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;3;927.151;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441117;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;943.370;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441118;200300;Pick'n'Roll;2434;Salah Mejri;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;953.370;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:18:01.392112
+76441119;800201;2+;2434;Salah Mejri;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;953.370;27.08;7.80;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 05:18:01.392112
+76441120;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;973.852;27.05;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:18:01.392112
+76441121;100300;Rebound;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;3;973.852;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441122;400101;Accurate pass;8429;John Jenkins;2975;Dallas Mavericks;;;;;370702;Justin Anderson;3;985.825;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441123;800301;3+;370702;Justin Anderson;2975;Dallas Mavericks;;;;;8429;John Jenkins;3;985.825;19.94;9.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441124;100200;Game stop;;;;;;;;;;;3;1010.933;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441125;300100;Foul;1857;Enes Freedom;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;3;1010.933;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441126;100500;Turnover;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;3;1010.933;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441127;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1032.640;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441128;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;3;1039.640;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:18:01.392112
+76441129;100200;Game stop;;;;;;;;;;;3;1039.640;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441130;300100;Foul;9111;D.J. Augustin;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;3;1039.640;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441131;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;3;1061.188;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441132;800102;1-;7499;Raymond Felton;2975;Dallas Mavericks;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;3;1074.865;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441133;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1074.865;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441134;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;1076.348;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441135;800600;2F;8331;Dion Waiters;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;3;1092.748;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 05:18:01.392112
+76441136;100200;Game stop;;;;;;;;;;;3;1092.748;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441137;300100;Foul;2434;Salah Mejri;2975;Dallas Mavericks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;3;1092.748;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441138;800101;1+;8331;Dion Waiters;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;3;1115.041;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441139;800102;1-;8331;Dion Waiters;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;3;1131.152;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441140;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1131.152;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441141;100300;Rebound;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;3;1131.152;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441142;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;3;1150.872;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:18:01.392112
+76441143;100200;Game stop;;;;;;;;;;;3;1150.872;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441144;300100;Foul;9111;D.J. Augustin;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;3;1150.872;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441145;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;3;1174.168;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441146;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;3;1185.165;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441147;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;1189.119;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441148;800302;3-;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;9111;D.J. Augustin;3;1210.519;25.37;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441149;100300;Rebound;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;3;1210.519;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441150;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1217.668;19.64;9.81;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76441151;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;1217.668;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441152;1800500;Halftime;;;;;;;;;;;3;1217.668;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441153;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441154;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441155;1600500;Guard;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441156;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441157;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441158;1600500;Guard;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441159;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441160;1600500;Guard;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441161;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441162;1600500;Guard;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441163;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76441164;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;13.045;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441165;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;32.045;23.45;1.32;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441166;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;32.045;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76441167;100200;Game stop;;;;;;;;;;;4;32.045;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441168;300100;Foul;1854;Kyle Singler;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;32.045;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441169;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;50.825;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441170;100200;Game stop;;;;;;;;;;;4;61.825;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441171;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;7437;Jeremy Evans;2975;Dallas Mavericks;;;4;61.825;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441172;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;80.583;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441173;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;8429;John Jenkins;4;96.583;22.43;10.11;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 05:18:01.392112
+76441174;100300;Rebound;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;;;;;4;96.583;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441175;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;9111;D.J. Augustin;4;107.073;26.84;14.31;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441176;100300;Rebound;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;4;110.438;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441177;800202;2-;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;4;110.438;27.20;6.96;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 05:18:01.392112
+76441178;100300;Rebound;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;4;110.438;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441179;400101;Accurate pass;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2434;Salah Mejri;4;120.753;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441180;800201;2+;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2427;Dwight Powell;4;120.753;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:18:01.392112
+76441181;100200;Game stop;;;;;;;;;;;4;120.753;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441182;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;120.753;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441183;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;159.055;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441184;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;193.055;19.79;6.42;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76441185;800302;3-;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;4;213.733;26.99;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441186;100300;Rebound;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;4;213.733;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441187;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;236.362;25.91;7.32;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 05:18:01.392112
+76441188;100300;Rebound;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;4;236.362;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441189;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1854;Kyle Singler;4;247.942;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441190;800201;2+;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;247.942;24.65;7.62;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 05:18:01.392112
+76441191;100400;Steal;1857;Enes Freedom;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;268.609;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441192;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1854;Kyle Singler;4;281.943;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441193;800301;3+;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;281.943;19.88;7.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441194;100200;Game stop;;;;;;;;;;;4;281.943;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441195;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;281.943;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441196;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;281.943;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441197;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;9111;D.J. Augustin;2935;Oklahoma City Thunder;;;4;281.943;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441198;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;281.943;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441199;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;284.646;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441200;100400;Steal;1861;Cameron Payne;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;4;297.646;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441201;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;4;303.794;26.51;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:18:01.392112
+76441202;100200;Game stop;;;;;;;;;;;4;303.794;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441203;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;4;303.794;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441204;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;315.894;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441205;400101;Accurate pass;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;4;328.894;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441206;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;328.894;26.57;14.52;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 05:18:01.392112
+76441207;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;348.826;25.52;7.35;;;;;;;;Pick'n'Roll;;Floater;;;;2018-10-20 17:58:37.550992
+76441208;800202;2-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;367.643;22.13;2.94;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:18:01.392112
+76441209;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;367.643;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441210;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;384.221;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:18:01.392112
+76441211;100200;Game stop;;;;;;;;;;;4;384.221;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441212;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;4;384.221;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441213;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;407.893;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441214;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;421.182;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441215;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;424.383;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441216;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;433.383;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441217;800301;3+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;433.383;20.51;4.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441218;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2434;Salah Mejri;4;457.975;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76441219;200300;Pick'n'Roll;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;457.975;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441220;800201;2+;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;457.975;26.42;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 05:18:01.392112
+76441221;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;471.256;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441222;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;471.256;26.21;7.05;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 05:18:01.392112
+76441223;100300;Rebound;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;4;471.256;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441224;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;479.373;19.94;9.90;;;;;;;;Isolation;;Jumper;;Quick first step;;2018-10-20 17:58:37.550992
+76441225;800600;2F;9112;Serge Ibaka;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;4;492.632;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 05:18:01.392112
+76441226;100200;Game stop;;;;;;;;;;;4;492.632;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441227;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;492.632;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441228;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;4;523.324;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441229;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;523.324;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441230;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;1854;Kyle Singler;2935;Oklahoma City Thunder;;;4;523.324;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441231;800102;1-;9112;Serge Ibaka;2935;Oklahoma City Thunder;7499;Raymond Felton;2975;Dallas Mavericks;;;4;561.789;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441232;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;561.789;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441233;100300;Rebound;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;4;561.789;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441234;200300;Pick'n'Roll;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;574.915;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441235;800202;2-;2434;Salah Mejri;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;2426;Jose Juan Barea Mora;4;574.915;26.84;7.32;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 05:18:01.392112
+76441236;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;574.915;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441237;100200;Game stop;;;;;;;;;;;4;594.170;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441238;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;594.170;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76441239;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;610.744;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441240;100200;Game stop;;;;;;;;;;;4;613.744;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441241;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;4;613.744;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441242;100500;Turnover;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;613.744;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441243;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;625.880;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441244;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;635.880;21.11;2.64;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76441245;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;635.880;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441246;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;643.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441247;800301;3+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;643.614;20.81;3.12;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:18:01.392112
+76441248;100200;Game stop;;;;;;;;;;;4;643.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441249;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;643.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441250;1600500;Guard;370702;Justin Anderson;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;643.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441251;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;643.614;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441252;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;653.527;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441253;200600;Post;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;4;666.527;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441254;800202;2-;370702;Justin Anderson;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;666.527;25.82;6.57;;;;;;;;Post;;Jumper;;;;2017-12-07 05:18:01.392112
+76441255;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;666.527;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441256;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;685.259;20.96;11.58;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 05:18:01.392112
+76441257;100300;Rebound;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;4;685.259;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441258;800202;2-;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;699.482;22.37;11.37;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:18:01.392112
+76441259;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;699.482;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441260;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;711.343;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441261;800301;3+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;711.343;26.72;14.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441262;100200;Game stop;;;;;;;;;;;4;727.692;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441263;300100;Foul;2434;Salah Mejri;2975;Dallas Mavericks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;727.692;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441264;100500;Turnover;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;4;727.692;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441265;1600500;Guard;1862;Mitch McGary;2935;Oklahoma City Thunder;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;727.692;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441266;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;750.414;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441267;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;765.414;27.02;7.62;;;;;;;;Isolation;;Dunk;Drives Right;;;2017-12-07 05:18:01.392112
+76441268;400101;Accurate pass;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2427;Dwight Powell;4;777.967;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441269;800400;2+1;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2434;Salah Mejri;4;777.967;26.84;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:18:01.392112
+76441270;100200;Game stop;;;;;;;;;;;4;777.967;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441271;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;2427;Dwight Powell;2975;Dallas Mavericks;;;4;777.967;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441272;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;798.525;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441273;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;800.626;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441274;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;4;823.626;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441275;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;823.626;25.10;11.97;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:18:01.392112
+76441276;800302;3-;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;8429;John Jenkins;4;848.706;26.57;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441277;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;849.163;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441278;800600;2F;2434;Salah Mejri;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;856.155;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 05:18:01.392112
+76441279;100200;Game stop;;;;;;;;;;;4;856.155;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441280;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;4;856.155;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441281;1800600;Timeout;;;;;;;;;;;4;856.155;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441282;1600500;Guard;1854;Kyle Singler;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;856.155;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441283;800101;1+;2434;Salah Mejri;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;873.158;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441284;800101;1+;2434;Salah Mejri;2975;Dallas Mavericks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;4;884.621;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441285;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;886.097;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441286;800202;2-;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;;;4;901.097;21.95;5.49;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441287;100300;Rebound;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;4;901.097;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441288;800302;3-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;913.952;26.27;14.46;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:18:01.392112
+76441289;100300;Rebound;1862;Mitch McGary;2935;Oklahoma City Thunder;;;;;;;4;913.952;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441290;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;925.314;21.11;7.56;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 05:18:01.392112
+76441291;100300;Rebound;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;4;925.314;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441292;800600;2F;8429;John Jenkins;2975;Dallas Mavericks;1862;Mitch McGary;2935;Oklahoma City Thunder;;;4;943.694;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:18:01.392112
+76441293;100200;Game stop;;;;;;;;;;;4;943.694;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441294;300100;Foul;1862;Mitch McGary;2935;Oklahoma City Thunder;8429;John Jenkins;2975;Dallas Mavericks;;;4;943.694;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441295;800101;1+;8429;John Jenkins;2975;Dallas Mavericks;1862;Mitch McGary;2935;Oklahoma City Thunder;;;4;961.775;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441296;800101;1+;8429;John Jenkins;2975;Dallas Mavericks;1862;Mitch McGary;2935;Oklahoma City Thunder;;;4;973.056;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441297;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;975.778;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441298;100400;Steal;2427;Dwight Powell;2975;Dallas Mavericks;1862;Mitch McGary;2935;Oklahoma City Thunder;;;4;989.778;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441299;100400;Steal;1861;Cameron Payne;2935;Oklahoma City Thunder;8429;John Jenkins;2975;Dallas Mavericks;;;4;994.718;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441300;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;1005.988;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441301;800400;2+1;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;1005.988;26.66;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:18:01.392112
+76441302;100200;Game stop;;;;;;;;;;;4;1005.988;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441303;300100;Foul;2434;Salah Mejri;2975;Dallas Mavericks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;1005.988;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441304;800101;1+;8331;Dion Waiters;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;4;1028.790;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441305;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1036.065;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76441306;800302;3-;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;4;1049.065;26.51;0.72;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:18:01.392112
+76441307;100300;Rebound;1862;Mitch McGary;2935;Oklahoma City Thunder;;;;;;;4;1049.065;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441308;800302;3-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;1061.888;19.94;8.13;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:18:01.392112
+76441309;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;1061.888;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441310;100400;Steal;1861;Cameron Payne;2935;Oklahoma City Thunder;2434;Salah Mejri;2975;Dallas Mavericks;;;4;1068.597;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441311;100400;Steal;7437;Jeremy Evans;2975;Dallas Mavericks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;1073.096;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441312;400101;Accurate pass;370702;Justin Anderson;2975;Dallas Mavericks;;;;;2434;Salah Mejri;4;1078.253;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441313;800201;2+;2434;Salah Mejri;2975;Dallas Mavericks;;;;;370702;Justin Anderson;4;1078.253;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 05:18:01.392112
+76441314;800202;2-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1862;Mitch McGary;4;1105.782;26.96;8.76;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:18:01.392112
+76441315;100300;Rebound;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;4;1105.782;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+76441316;800201;2+;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;1118.548;21.83;10.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:18:01.392112
+76441317;1800700;Match end;;;;;;;;;;;4;1130.748;;;;;;;;;;;;;;;;2017-12-07 05:18:01.392112
+103932709;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;110.039;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932711;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;122.621;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932713;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;143.879;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932715;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;252.618;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932717;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;291.259;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932719;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;338.286;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932721;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;353.058;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932723;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;371.596;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932725;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;438.378;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932727;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;458.356;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932729;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;528.129;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932731;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;572.891;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932733;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;598.511;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932735;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;678.615;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932737;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;689.475;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932739;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;747.671;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932741;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;792.559;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932743;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;866.518;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932745;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;928.355;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932747;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;1;957.373;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932749;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;975.991;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103932751;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;997.579;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932753;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;1048.854;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932755;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;1086.824;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932757;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;1102.614;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103932759;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;15.502;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932761;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;2;118.951;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932763;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;2;165.346;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932765;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;177.057;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103932767;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;291.900;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932769;200900;Assisting;8429;John Jenkins;2975;Dallas Mavericks;;;;;370702;Justin Anderson;2;343.057;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932771;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;380.138;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932773;200900;Assisting;2434;Salah Mejri;2975;Dallas Mavericks;;;;;370702;Justin Anderson;2;422.539;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932775;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;479.798;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932777;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;552.946;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932779;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;611.390;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932781;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;640.918;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932783;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;694.594;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932785;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;2;798.698;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932787;200900;Assisting;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;2;859.506;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932789;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;922.714;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932791;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;983.297;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103932793;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1024.500;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932795;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1046.092;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932797;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1067.620;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932799;200900;Assisting;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;1095.100;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932801;200900;Assisting;2434;Salah Mejri;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;1151.334;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932803;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1167.003;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932805;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;1363.247;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932807;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;1405.789;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932809;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;1452.613;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932811;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1497.809;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932813;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;19.018;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932815;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;55.241;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932817;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;130.774;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932819;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;178.808;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932821;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;3;248.229;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932823;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;394.351;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932825;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2427;Dwight Powell;3;459.355;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103932827;200900;Assisting;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;3;561.413;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932829;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;576.552;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932831;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;592.908;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932833;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;628.590;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932835;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;9111;D.J. Augustin;3;730.366;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932837;200900;Assisting;8429;John Jenkins;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;751.405;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932839;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;810.825;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932841;200900;Assisting;2434;Salah Mejri;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;953.370;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932843;200900;Assisting;370702;Justin Anderson;2975;Dallas Mavericks;;;;;8429;John Jenkins;3;985.825;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932845;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1039.640;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932847;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;3;1092.748;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932849;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1150.872;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932851;200900;Assisting;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2427;Dwight Powell;4;120.753;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932853;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;193.055;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103932855;200900;Assisting;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;247.942;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932857;200900;Assisting;1854;Kyle Singler;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;281.943;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932859;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;328.894;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932861;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;348.826;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103932863;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;384.221;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932865;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;433.383;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932867;200900;Assisting;2434;Salah Mejri;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;457.975;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932869;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;479.373;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103932871;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;4;492.632;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932873;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;643.614;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932875;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;711.343;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932877;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;765.414;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932879;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2434;Salah Mejri;4;777.967;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932881;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;823.626;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932883;200900;Assisting;2434;Salah Mejri;2975;Dallas Mavericks;;;;;;;4;856.155;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932885;200900;Assisting;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;943.694;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932887;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;1005.988;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932889;200900;Assisting;2434;Salah Mejri;2975;Dallas Mavericks;;;;;370702;Justin Anderson;4;1078.253;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608
+103932891;200900;Assisting;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;1118.548;;;;;;;;;;;;;;;;2018-04-19 15:01:01.053608

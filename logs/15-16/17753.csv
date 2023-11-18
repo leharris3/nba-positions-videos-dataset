@@ -1,0 +1,795 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77051941;1601000;Starting lineup;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051942;1601000;Starting lineup;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051943;1601000;Starting lineup;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051944;1601000;Starting lineup;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051945;1601000;Starting lineup;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051946;1601000;Starting lineup;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051947;1601000;Starting lineup;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051948;1601000;Starting lineup;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051949;1601000;Starting lineup;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77051950;1601000;Starting lineup;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051951;1601000;Starting lineup;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051952;1601000;Starting lineup;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051953;1601000;Starting lineup;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051954;1601000;Starting lineup;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051955;1601000;Starting lineup;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051956;1601000;Starting lineup;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051957;1601000;Starting lineup;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051958;1601000;Starting lineup;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051959;1601000;Starting lineup;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051960;1601000;Starting lineup;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051961;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051962;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051963;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051964;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051965;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051966;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77051967;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051968;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051969;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051970;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051971;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051972;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;58.927;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77051973;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;76.927;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051974;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;76.927;22.13;1.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77051975;100400;Steal;7463;Zaza Pachulia;2975;Dallas Mavericks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;89.564;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051976;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;102.476;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77051977;800301;3+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;102.476;25.04;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77051978;100200;Game stop;;;;;;;;;;;1;112.658;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051979;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;1;112.658;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051980;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;157.405;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77051981;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;165.405;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051982;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;165.405;26.12;10.89;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77051983;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;189.921;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:29:01.807596
+77051984;100200;Game stop;;;;;;;;;;;1;189.921;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051985;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;189.921;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051986;800102;1-;7463;Zaza Pachulia;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;215.757;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051987;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;215.757;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051988;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;232.372;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051989;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;232.372;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77051990;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;247.778;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051991;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;247.778;26.72;9.27;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:29:01.807596
+77051992;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;264.906;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77051993;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;264.906;23.03;1.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77051994;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;284.061;25.97;6.51;;;;;;;;Cut;;Hook;;;;2017-12-07 11:29:01.807596
+77051995;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;284.061;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77051996;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;288.780;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77051997;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;288.780;26.96;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:29:01.807596
+77051998;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;301.478;21.98;5.64;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:29:01.807596
+77051999;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;325.782;23.03;3.03;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:29:01.807596
+77052000;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;325.782;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052001;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;340.477;23.03;11.52;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:29:01.807596
+77052002;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;360.327;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052003;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;360.327;26.84;7.02;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:29:01.807596
+77052004;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;382.402;23.18;11.49;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:29:01.807596
+77052005;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;382.402;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052006;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;386.880;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:29:01.807596
+77052007;100200;Game stop;;;;;;;;;;;1;386.880;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052008;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;386.880;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052009;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;417.487;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052010;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;439.652;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052011;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;445.397;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052012;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;467.397;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052013;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;467.397;26.12;11.97;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052014;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;467.397;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052015;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;483.502;23.42;4.17;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:29:01.807596
+77052016;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;483.502;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052017;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;493.692;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052018;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;493.692;22.13;10.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052019;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;513.674;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052020;800600;2F;9020;Khris Middleton;3280;Milwaukee Bucks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;1;513.674;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:29:01.807596
+77052021;100200;Game stop;;;;;;;;;;;1;513.674;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052022;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;513.674;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052023;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;1;535.346;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052024;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;566.016;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052025;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;566.016;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052026;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;1;566.016;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052027;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;568.681;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052028;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;578.681;19.88;5.79;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:29:01.807596
+77052029;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;578.681;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052030;800302;3-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;593.961;26.21;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052031;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;593.961;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052032;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;606.978;26.27;6.81;;;;;;;;Isolation;;Jumper;Drives Right;;;2018-10-20 17:58:37.550992
+77052033;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;606.978;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052034;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;613.764;26.81;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:29:01.807596
+77052035;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;613.764;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052036;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2427;Dwight Powell;1;619.674;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052037;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;619.674;26.72;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:29:01.807596
+77052038;100200;Game stop;;;;;;;;;;;1;645.572;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052039;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;1;645.572;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052040;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;1;677.006;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052041;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;677.006;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052042;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;677.006;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052043;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;677.006;20.90;7.50;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:29:01.807596
+77052044;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;677.006;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052045;200600;Post;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;690.830;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052046;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;690.830;26.57;7.05;;;;;;;;Post;;Lay up;;;;2017-12-07 11:29:01.807596
+77052047;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;705.394;23.60;5.73;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:29:01.807596
+77052048;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;705.394;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052049;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;713.695;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052050;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;713.695;26.27;3.39;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:29:01.807596
+77052051;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;740.175;25.19;7.65;;;;;;;;;;Hook;;;;2017-12-07 11:29:01.807596
+77052052;100300;Rebound;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;740.175;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052053;800600;2F;2432;Devin L Harris;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;746.290;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:29:01.807596
+77052054;100200;Game stop;;;;;;;;;;;1;746.290;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052055;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;2432;Devin L Harris;2975;Dallas Mavericks;;;1;746.290;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052056;800102;1-;2432;Devin L Harris;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;775.078;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052057;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;775.078;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052058;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;790.919;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052059;800101;1+;2432;Devin L Harris;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;790.919;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052060;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;794.791;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052061;100200;Game stop;;;;;;;;;;;1;801.791;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052062;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;801.791;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052063;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;814.812;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052064;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;826.812;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052065;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;826.812;24.35;10.20;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052066;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;839.573;26.81;7.17;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:29:01.807596
+77052067;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;839.573;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052068;100200;Game stop;;;;;;;;;;;1;839.573;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052069;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;839.573;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052070;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;870.102;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052071;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;870.102;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052072;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;870.102;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052073;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;870.102;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:29:01.807596
+77052074;100200;Game stop;;;;;;;;;;;1;870.102;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052075;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;870.102;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052076;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;894.245;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052077;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;908.397;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052078;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;910.618;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052079;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;7499;Raymond Felton;1;928.618;26.27;7.44;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:29:01.807596
+77052080;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;928.618;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052081;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;935.066;26.57;0.48;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:29:01.807596
+77052082;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;935.066;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052083;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;975.005;19.79;11.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052084;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;975.005;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052085;800201;2+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;1;988.353;26.57;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:29:01.807596
+77052086;100200;Game stop;;;;;;;;;;;1;994.320;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052087;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;994.320;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052088;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1014.327;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052089;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1031.327;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052090;800301;3+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;1031.327;26.12;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052091;100400;Steal;2432;Devin L Harris;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;1;1045.560;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052092;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;1;1051.136;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:29:01.807596
+77052093;100200;Game stop;;;;;;;;;;;1;1051.136;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052094;300100;Foul;14294;Jerryd Bayless;3280;Milwaukee Bucks;7499;Raymond Felton;2975;Dallas Mavericks;;;1;1051.136;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052095;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;1;1072.587;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052096;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;1;1085.731;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052097;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;1089.693;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052098;100200;Game stop;;;;;;;;;;;1;1101.693;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052099;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;2427;Dwight Powell;2975;Dallas Mavericks;;;1;1101.693;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052100;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;1136.147;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052101;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1140.904;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052102;800202;2-;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;1157.904;26.27;7.95;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:29:01.807596
+77052103;100300;Rebound;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;1;1157.904;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052104;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;1;1171.255;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052105;800301;3+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;1171.255;21.71;2.10;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052106;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;1185.284;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:29:01.807596
+77052107;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;1185.284;22.13;9.66;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:29:01.807596
+77052108;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;1185.284;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052109;800201;2+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;1;1194.459;22.73;5.94;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:29:01.807596
+77052110;100200;Game stop;;;;;;;;;;;1;1194.459;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052111;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;1194.459;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052112;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;1229.408;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052113;1600500;Guard;9016;Miles Plumlee;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;1229.408;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052114;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1229.408;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052115;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;1251.473;22.97;2.16;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:29:01.807596
+77052116;200300;Pick'n'Roll;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;1;1266.182;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052117;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;1;1266.182;26.84;14.28;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:29:01.807596
+77052118;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;1266.182;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052119;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1281.025;26.72;8.10;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:29:01.807596
+77052120;800600;2F;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;2427;Dwight Powell;2975;Dallas Mavericks;;;1;1302.180;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:29:01.807596
+77052121;100200;Game stop;;;;;;;;;;;1;1302.180;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052122;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;1;1302.180;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052123;800102;1-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;2427;Dwight Powell;2975;Dallas Mavericks;;;1;1326.114;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052124;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;1326.114;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052125;800101;1+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;2427;Dwight Powell;2975;Dallas Mavericks;;;1;1341.307;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052126;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1351.334;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052127;800202;2-;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;1358.434;26.51;7.98;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:29:01.807596
+77052128;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;1358.434;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052129;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;1358.434;26.96;7.35;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:29:01.807596
+77052130;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;1366.089;24.50;8.76;;;;;;;;Transition;;;;;;2017-12-07 11:29:01.807596
+77052131;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;1366.089;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052132;1800500;Halftime;;;;;;;;;;;1;1366.089;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052133;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052134;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052135;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052136;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052137;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052138;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052139;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052140;1600500;Guard;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052141;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052142;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052143;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052144;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052145;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;11.759;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052146;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;11.759;21.56;4.32;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:29:01.807596
+77052147;400101;Accurate pass;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;24.780;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052148;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;24.780;26.72;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:29:01.807596
+77052149;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;2;36.900;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052150;800201;2+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;36.900;26.84;2.01;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052151;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;63.763;24.14;11.52;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:29:01.807596
+77052152;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;63.763;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052153;800201;2+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;73.984;23.90;3.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:29:01.807596
+77052154;100200;Game stop;;;;;;;;;;;2;82.627;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052155;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;82.627;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052156;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;2;117.058;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052157;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;117.058;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052158;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;117.058;26.18;14.34;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052159;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;2;117.058;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052160;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;9016;Miles Plumlee;3280;Milwaukee Bucks;2433;Dirk Nowitzki;2;126.778;26.36;7.26;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:29:01.807596
+77052161;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;126.778;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052162;400101;Accurate pass;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;133.728;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052163;800301;3+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;2;133.728;26.06;14.58;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:29:01.807596
+77052164;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;145.086;24.35;5.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+77052165;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;2;158.617;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052166;800201;2+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;158.617;24.20;12.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052167;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;179.283;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052168;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;179.283;26.21;7.05;;;;;;;;Screen off;;Lay up;;;;2018-10-20 17:58:37.550992
+77052169;100400;Steal;2433;Dirk Nowitzki;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;2;192.734;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052170;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;198.081;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052171;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;198.081;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:29:01.807596
+77052172;100200;Game stop;;;;;;;;;;;2;198.081;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052173;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;2;198.081;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052174;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;228.943;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052175;200300;Pick'n'Roll;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;2;248.943;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:29:01.807596
+77052176;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;2;248.943;26.57;6.66;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:29:01.807596
+77052177;100300;Rebound;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;2;248.943;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052178;800201;2+;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;2;248.943;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:29:01.807596
+77052179;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;276.430;20.66;3.66;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2018-10-20 17:58:37.550992
+77052180;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;2;276.430;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052181;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;282.601;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052182;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;282.601;22.37;8.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052183;800202;2-;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;310.400;25.76;10.65;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:29:01.807596
+77052184;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;310.400;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052185;800302;3-;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;315.153;26.51;14.61;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:29:01.807596
+77052186;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;315.153;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052187;200600;Post;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;2;330.042;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052188;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;2;330.042;26.42;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:29:01.807596
+77052189;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;330.042;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052190;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;342.422;26.36;11.34;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:29:01.807596
+77052191;100200;Game stop;;;;;;;;;;;2;350.904;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052192;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;350.904;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052193;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;385.128;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052194;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;385.128;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052195;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;385.128;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052196;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;2;385.128;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052197;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;385.128;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052198;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;385.128;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052199;200300;Pick'n'Roll;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;385.128;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:29:01.807596
+77052200;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;385.128;23.57;11.58;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:29:01.807596
+77052201;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;385.128;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052202;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;402.506;23.45;9.60;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:29:01.807596
+77052203;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;432.785;25.37;8.88;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:29:01.807596
+77052204;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;447.303;25.22;6.87;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:29:01.807596
+77052205;800202;2-;2425;Charlie Villanueva;2975;Dallas Mavericks;9016;Miles Plumlee;3280;Milwaukee Bucks;7499;Raymond Felton;2;465.475;26.36;7.98;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 11:29:01.807596
+77052206;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;465.475;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052207;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;465.475;26.84;7.65;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:29:01.807596
+77052208;100200;Game stop;;;;;;;;;;;2;477.786;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052209;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;477.786;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052210;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;496.067;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052211;100200;Game stop;;;;;;;;;;;2;504.067;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052212;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;504.067;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052213;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;2;545.169;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052214;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9016;Miles Plumlee;3280;Milwaukee Bucks;;;2;545.169;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052215;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;545.169;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052216;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;545.169;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052217;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;545.169;25.37;10.38;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:29:01.807596
+77052218;800202;2-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;561.790;25.22;6.12;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:29:01.807596
+77052219;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;561.790;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052220;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;573.719;22.13;6.24;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:29:01.807596
+77052221;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;573.719;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052222;200600;Post;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;590.502;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052223;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;590.502;26.21;11.37;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052224;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;590.502;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052225;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;608.228;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052226;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;608.228;25.19;6.33;;;;;;;;Post;;Hook;;;;2017-12-07 11:29:01.807596
+77052227;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;608.228;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052228;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;2;626.916;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052229;800301;3+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;626.916;26.51;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052230;100200;Game stop;;;;;;;;;;;2;646.729;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052231;100500;Turnover;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;646.729;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052232;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;651.538;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052233;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;2;665.538;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052234;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;665.538;26.21;1.95;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:29:01.807596
+77052235;800600;2F;370973;Jabari Parker;3280;Milwaukee Bucks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;683.782;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:29:01.807596
+77052236;100200;Game stop;;;;;;;;;;;2;683.782;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052237;300100;Foul;2425;Charlie Villanueva;2975;Dallas Mavericks;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;683.782;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052238;800101;1+;370973;Jabari Parker;3280;Milwaukee Bucks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;709.556;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052239;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;2;731.854;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052240;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;2;731.854;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052241;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;731.854;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052242;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;2;731.854;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052243;800101;1+;370973;Jabari Parker;3280;Milwaukee Bucks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;731.854;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052244;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;738.417;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052245;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;750.417;26.21;12.21;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:29:01.807596
+77052246;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;750.417;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052247;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;765.643;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052248;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;765.643;26.72;5.73;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052249;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;765.643;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052250;200600;Post;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;779.520;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052251;800600;2F;2430;Wesley Matthews;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;779.520;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:29:01.807596
+77052252;100200;Game stop;;;;;;;;;;;2;779.520;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052253;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;2430;Wesley Matthews;2975;Dallas Mavericks;;;2;779.520;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052254;1800600;Timeout;;;;;;;;;;;2;779.520;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052255;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;817.743;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052256;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;829.321;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052257;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;831.850;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052258;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;851.850;25.91;12.75;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:29:01.807596
+77052259;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;851.850;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052260;100200;Game stop;;;;;;;;;;;2;864.120;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052261;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;864.120;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052262;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;884.229;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052263;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;888.229;26.42;7.80;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:29:01.807596
+77052264;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;888.229;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052265;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;888.229;26.81;7.59;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:29:01.807596
+77052266;100200;Game stop;;;;;;;;;;;2;900.868;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052267;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;900.868;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052268;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;920.066;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052269;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;928.066;25.52;8.13;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 11:29:01.807596
+77052270;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;928.066;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052271;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;936.391;24.14;0.72;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:29:01.807596
+77052272;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;936.391;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052273;100200;Game stop;;;;;;;;;;;2;944.170;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052274;100500;Turnover;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;944.170;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052275;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;961.321;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052276;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;971.321;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052277;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;971.321;26.72;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:29:01.807596
+77052278;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;984.223;26.27;9.90;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:29:01.807596
+77052279;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;993.147;26.66;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2018-10-20 17:58:37.550992
+77052280;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;993.147;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052281;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;998.312;26.72;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:29:01.807596
+77052282;800600;2F;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;1013.896;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2018-10-20 17:58:37.550992
+77052283;100200;Game stop;;;;;;;;;;;2;1013.896;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052284;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;1013.896;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052285;300300;Technical foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;1013.896;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052286;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;1063.712;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052287;800102;1-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;1063.712;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052288;800101;1+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;1079.412;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052289;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1082.145;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052290;100200;Game stop;;;;;;;;;;;2;1093.445;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052291;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;2430;Wesley Matthews;2975;Dallas Mavericks;;;2;1093.445;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052292;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;1137.655;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052293;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1137.655;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052294;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1137.655;26.27;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052295;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1137.655;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052296;800302;3-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1141.777;9.65;5.10;;;;;;;;;;Jumper;;;;2017-12-07 11:29:01.807596
+77052297;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;1141.777;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052298;1800500;Halftime;;;;;;;;;;;2;1141.777;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052299;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052300;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052301;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052302;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052303;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052304;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052305;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052306;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052307;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052308;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052309;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052310;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;6.450;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052311;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;19.450;23.57;5.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:29:01.807596
+77052312;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;43.933;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052313;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;43.933;21.26;13.05;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052314;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;58.270;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:29:01.807596
+77052315;100200;Game stop;;;;;;;;;;;3;58.270;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052316;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;58.270;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052317;800102;1-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;89.025;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052318;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;3;89.025;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052319;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;106.076;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052320;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;111.483;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052321;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;126.483;26.42;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052322;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;126.483;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052323;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;146.637;21.83;6.18;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:29:01.807596
+77052324;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;146.637;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052325;100400;Steal;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;164.407;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052326;100200;Game stop;;;;;;;;;;;3;171.645;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052327;100500;Turnover;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;171.645;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052328;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;182.091;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052329;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;207.091;21.83;9.75;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:29:01.807596
+77052330;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;207.091;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052331;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;217.981;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052332;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;217.981;23.03;13.77;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052333;100200;Game stop;;;;;;;;;;;3;237.137;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052334;300300;Technical foul;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;237.137;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052335;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;253.374;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052336;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;264.498;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052337;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;270.498;27.02;7.62;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 11:29:01.807596
+77052338;200600;Post;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;293.568;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052339;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;293.568;23.33;5.43;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052340;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;331.596;22.28;9.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052341;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;331.596;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052342;200600;Post;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;342.285;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052343;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;342.285;25.67;5.43;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052344;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;342.285;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052345;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;351.268;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:29:01.807596
+77052346;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;351.268;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052347;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;351.268;26.57;7.17;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:29:01.807596
+77052348;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;377.171;23.90;10.92;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:29:01.807596
+77052349;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;377.171;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052350;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;386.329;26.27;7.89;;;;;;;;;;Lay up;;;;2017-12-07 11:29:01.807596
+77052351;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;386.329;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052352;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;397.837;20.21;9.90;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052353;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;397.837;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052354;100400;Steal;7463;Zaza Pachulia;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;411.732;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052355;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;421.257;21.41;2.55;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+77052356;100200;Game stop;;;;;;;;;;;3;421.257;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052357;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;3;421.257;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052358;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;456.040;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052359;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;456.040;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052360;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;3;456.040;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052361;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;456.040;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052362;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;456.040;25.22;4.11;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:29:01.807596
+77052363;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;456.040;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052364;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;477.764;20.90;2.01;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+77052365;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;477.764;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052366;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;492.426;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052367;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;492.426;24.65;10.80;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052368;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;492.426;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052369;800202;2-;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;512.504;26.42;7.83;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:29:01.807596
+77052370;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;512.504;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052371;100200;Game stop;;;;;;;;;;;3;521.001;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052372;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;521.001;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052373;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;534.672;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052374;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;546.672;20.51;8.82;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:29:01.807596
+77052375;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;546.672;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052376;100400;Steal;7814;Chandler Parsons;2975;Dallas Mavericks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;552.959;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052377;800600;2F;7814;Chandler Parsons;2975;Dallas Mavericks;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;558.697;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:29:01.807596
+77052378;100200;Game stop;;;;;;;;;;;3;558.697;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052379;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;558.697;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052380;800102;1-;7814;Chandler Parsons;2975;Dallas Mavericks;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;602.319;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052381;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;602.319;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052382;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;3;618.731;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052383;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;618.731;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052384;800102;1-;7814;Chandler Parsons;2975;Dallas Mavericks;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;618.731;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052385;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;618.731;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052386;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;618.731;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052387;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;636.635;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052388;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;636.635;25.10;7.17;;;;;;;;Post;;Hook;;;;2017-12-07 11:29:01.807596
+77052389;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;657.326;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052390;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;657.326;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:29:01.807596
+77052391;100200;Game stop;;;;;;;;;;;3;657.326;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052392;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;657.326;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052393;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;692.804;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052394;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;714.570;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052395;800102;1-;7463;Zaza Pachulia;2975;Dallas Mavericks;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;714.570;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052396;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;714.570;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052397;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;714.570;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052398;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;736.446;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052399;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;736.446;25.91;6.03;;;;;;;;Post;;Hook;;;;2017-12-07 11:29:01.807596
+77052400;100300;Rebound;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;3;736.446;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052401;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;752.135;25.82;8.43;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:29:01.807596
+77052402;800302;3-;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;3;767.758;20.36;4.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052403;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;767.758;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052404;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;779.173;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:29:01.807596
+77052405;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;779.173;21.95;7.74;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:29:01.807596
+77052406;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;779.173;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052407;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;787.679;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052408;800301;3+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;787.679;26.42;14.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052409;100200;Game stop;;;;;;;;;;;3;808.714;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052410;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;808.714;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052411;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;839.684;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052412;200600;Post;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;850.684;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052413;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;850.684;26.27;3.09;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052414;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;850.684;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052415;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;864.074;26.42;7.95;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:29:01.807596
+77052416;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;864.074;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052417;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;864.074;26.72;7.02;;;;;;;;Putbacks;;;;;;2017-12-07 11:29:01.807596
+77052418;100200;Game stop;;;;;;;;;;;3;873.069;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052419;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;3;873.069;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052420;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;908.140;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052421;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;908.140;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052422;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;908.140;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052423;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;908.140;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:29:01.807596
+77052424;100200;Game stop;;;;;;;;;;;3;908.140;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052425;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;908.140;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052426;800102;1-;7463;Zaza Pachulia;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;935.455;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052427;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;935.455;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052428;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;959.980;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052429;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;959.980;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052430;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;963.820;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052431;100200;Game stop;;;;;;;;;;;3;976.820;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052432;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;976.820;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052433;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1011.165;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052434;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;1020.165;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052435;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;1035.670;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:29:01.807596
+77052436;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;1035.670;25.67;6.12;;;;;;;;Pick'n'pop;;;Drives Right;;;2017-12-07 11:29:01.807596
+77052437;100200;Game stop;;;;;;;;;;;3;1035.670;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052438;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;3;1035.670;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052439;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1044.280;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052440;100400;Steal;2427;Dwight Powell;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;3;1061.280;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052441;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1065.671;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:29:01.807596
+77052442;800202;2-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;3;1092.101;25.97;7.17;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:29:01.807596
+77052443;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;1092.101;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052444;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;1092.101;26.66;7.32;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:29:01.807596
+77052445;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;1092.101;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052446;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;1092.101;26.57;7.44;;;;;;;;Putbacks;;;;;;2017-12-07 11:29:01.807596
+77052447;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;3;1108.190;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:29:01.807596
+77052448;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;3;1108.190;21.65;4.41;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:29:01.807596
+77052449;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;3;1108.190;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052450;100200;Game stop;;;;;;;;;;;3;1151.234;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052451;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;1151.234;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052452;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;1151.234;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052453;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;3;1151.234;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052454;1600500;Guard;9016;Miles Plumlee;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;1151.234;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052455;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1151.234;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052456;800600;2F;14294;Jerryd Bayless;3280;Milwaukee Bucks;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1151.234;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:29:01.807596
+77052457;100200;Game stop;;;;;;;;;;;3;1151.234;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052458;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;3;1151.234;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052459;800101;1+;14294;Jerryd Bayless;3280;Milwaukee Bucks;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1175.630;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052460;800101;1+;14294;Jerryd Bayless;3280;Milwaukee Bucks;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1193.725;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052461;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1199.073;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052462;800600;2F;2427;Dwight Powell;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;3;1209.173;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052463;100200;Game stop;;;;;;;;;;;3;1209.173;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052464;300100;Foul;14294;Jerryd Bayless;3280;Milwaukee Bucks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;1209.173;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052465;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;3;1239.052;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052466;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;3;1255.460;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052467;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1259.542;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052468;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9016;Miles Plumlee;3;1275.742;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052469;800201;2+;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;3;1275.742;26.81;7.50;;;;;;;;Cut;;;;;;2017-12-07 11:29:01.807596
+77052470;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1289.611;25.52;6.24;;;;;;;;;;Jumper;;;;2017-12-07 11:29:01.807596
+77052471;100300;Rebound;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;3;1289.611;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052472;1800500;Halftime;;;;;;;;;;;3;1289.711;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052473;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052474;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052475;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052476;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052477;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052478;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77052479;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052480;1600500;Guard;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052481;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052482;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052483;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052484;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;7.943;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052485;100400;Steal;14294;Jerryd Bayless;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;4;17.943;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052486;800202;2-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;24.188;26.42;8.49;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:29:01.807596
+77052487;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;24.188;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052488;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7461;JaVale McGee;4;33.180;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052489;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2432;Devin L Harris;4;33.180;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:29:01.807596
+77052490;100400;Steal;2432;Devin L Harris;2975;Dallas Mavericks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;4;59.621;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052491;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7461;JaVale McGee;4;63.911;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052492;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2432;Devin L Harris;4;63.911;26.93;7.47;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:29:01.807596
+77052493;400101;Accurate pass;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;87.265;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:29:01.807596
+77052494;800201;2+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9016;Miles Plumlee;4;87.265;26.42;11.97;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:29:01.807596
+77052495;800202;2-;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;110.563;21.83;8.13;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:29:01.807596
+77052496;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;110.563;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052497;800201;2+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;120.690;23.03;2.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:29:01.807596
+77052498;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;147.225;20.03;4.50;;;;;;;;Isolation;;Jumper;;Quick first step;;2018-10-20 17:58:37.550992
+77052499;100300;Rebound;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;4;147.225;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052500;200600;Post;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;157.534;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052501;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;157.534;26.21;11.58;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052502;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;157.534;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052503;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;181.448;21.71;7.68;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:29:01.807596
+77052504;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;181.448;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052505;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;4;194.485;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052506;200600;Post;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;194.485;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052507;800201;2+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;194.485;26.42;7.80;;;;;;;;Post;;Lay up;;;;2017-12-07 11:29:01.807596
+77052508;100200;Game stop;;;;;;;;;;;4;194.485;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052509;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;194.485;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052510;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;4;234.827;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052511;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;234.827;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052512;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;234.827;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052513;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;234.827;23.42;0.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052514;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;234.827;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052515;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;245.634;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:29:01.807596
+77052516;800301;3+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;245.634;22.58;1.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:29:01.807596
+77052517;100200;Game stop;;;;;;;;;;;4;258.774;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052518;300100;Foul;14294;Jerryd Bayless;3280;Milwaukee Bucks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;258.774;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052519;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;4;299.215;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052520;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;299.215;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052521;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;299.215;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052522;100200;Game stop;;;;;;;;;;;4;299.215;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052523;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;299.215;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052524;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;317.290;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052525;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;327.290;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:29:01.807596
+77052526;100200;Game stop;;;;;;;;;;;4;327.290;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052527;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;327.290;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052528;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;351.824;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052529;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;378.441;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052530;800102;1-;7499;Raymond Felton;2975;Dallas Mavericks;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;378.441;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052531;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;378.441;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052532;100300;Rebound;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;4;378.441;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052533;400101;Accurate pass;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9016;Miles Plumlee;4;395.394;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052534;800201;2+;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;4;395.394;26.57;7.98;;;;;;;;Cut;;Hook;;;;2017-12-07 11:29:01.807596
+77052535;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;404.598;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052536;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;404.598;26.72;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:29:01.807596
+77052537;100200;Game stop;;;;;;;;;;;4;421.314;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052538;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;9016;Miles Plumlee;3280;Milwaukee Bucks;;;4;421.314;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052539;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;438.287;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052540;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;448.287;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052541;200300;Pick'n'Roll;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;448.287;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052542;800201;2+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;448.287;22.73;5.16;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:29:01.807596
+77052543;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;469.333;25.52;9.27;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:29:01.807596
+77052544;800201;2+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;487.833;24.65;8.49;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:29:01.807596
+77052545;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;508.208;25.04;10.53;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:29:01.807596
+77052546;100300;Rebound;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;4;508.208;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052547;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;9020;Khris Middleton;4;527.005;26.72;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:29:01.807596
+77052548;100200;Game stop;;;;;;;;;;;4;527.005;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052549;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;527.005;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052550;1800600;Timeout;;;;;;;;;;;4;527.005;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052551;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;4;577.360;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052552;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;577.360;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052553;100400;Steal;9016;Miles Plumlee;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;4;577.360;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052554;100200;Game stop;;;;;;;;;;;4;592.648;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052555;300100;Foul;14294;Jerryd Bayless;3280;Milwaukee Bucks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;592.648;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052556;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9016;Miles Plumlee;3280;Milwaukee Bucks;;;4;630.177;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052557;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;630.177;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052558;800600;2F;2430;Wesley Matthews;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;630.177;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:29:01.807596
+77052559;100200;Game stop;;;;;;;;;;;4;630.177;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052560;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;630.177;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052561;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;654.173;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052562;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;4;673.530;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052563;800102;1-;2430;Wesley Matthews;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;673.530;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052564;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;673.530;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052565;100300;Rebound;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;673.530;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052566;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;687.957;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052567;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;687.957;25.10;8.22;;;;;;;;Post;;Jumper;;;;2017-12-07 11:29:01.807596
+77052568;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;4;713.097;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052569;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;713.097;19.94;4.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052570;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;730.468;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052571;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;730.468;24.95;7.98;;;;;;;;Catch and Drive;;Hook;;;;2017-12-07 11:29:01.807596
+77052572;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;4;747.398;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052573;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;747.398;21.80;2.25;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052574;100200;Game stop;;;;;;;;;;;4;747.398;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052575;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;747.398;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052576;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;768.980;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052577;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;781.980;21.56;12.90;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:29:01.807596
+77052578;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;781.980;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052579;100400;Steal;95270;OJ Mayo;3280;Milwaukee Bucks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;805.501;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052580;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;830.905;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052581;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;830.905;26.06;9.12;;;;;;;;Post;;Hook;;;;2017-12-07 11:29:01.807596
+77052582;100200;Game stop;;;;;;;;;;;4;830.905;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052583;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;830.905;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052584;100500;Turnover;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;830.905;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052585;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;853.206;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052586;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;865.206;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:29:01.807596
+77052587;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;865.206;26.27;6.48;;;;;;;;Hand offs;;;;;;2017-12-07 11:29:01.807596
+77052588;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;884.271;21.26;7.17;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:29:01.807596
+77052589;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;884.271;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052590;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;901.690;22.28;3.63;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:29:01.807596
+77052591;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;901.690;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052592;800302;3-;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;910.488;19.34;7.35;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:29:01.807596
+77052593;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;910.488;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052594;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;913.499;21.98;12.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:29:01.807596
+77052595;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;913.499;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052596;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;932.828;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:29:01.807596
+77052597;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;932.828;23.12;3.57;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:29:01.807596
+77052598;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;932.828;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052599;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;951.901;26.57;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:29:01.807596
+77052600;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;951.901;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052601;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;951.901;26.66;7.26;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:29:01.807596
+77052602;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;4;976.958;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052603;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;2430;Wesley Matthews;4;976.958;26.42;7.74;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:29:01.807596
+77052604;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;976.958;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052605;100200;Game stop;;;;;;;;;;;4;982.782;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052606;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;7814;Chandler Parsons;2975;Dallas Mavericks;;;4;982.782;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052607;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1005.834;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052608;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;1026.834;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:29:01.807596
+77052609;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;1026.834;19.64;6.51;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:29:01.807596
+77052610;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1026.834;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052611;100200;Game stop;;;;;;;;;;;4;1026.834;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052612;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1026.834;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052613;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;1026.834;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052614;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;1086.469;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052615;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1086.469;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052616;100400;Steal;7814;Chandler Parsons;2975;Dallas Mavericks;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;1086.469;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052617;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2432;Devin L Harris;4;1092.536;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052618;800201;2+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;1092.536;26.57;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:29:01.807596
+77052619;100200;Game stop;;;;;;;;;;;4;1092.536;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052620;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;1092.536;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052621;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1151.186;;;;;;;;;;;;;;;;2019-10-24 13:08:04.507806
+77052622;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;1153.386;19.19;10.80;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:29:01.807596
+77052623;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;4;1153.386;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052624;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1155.513;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052625;100200;Game stop;;;;;;;;;;;4;1155.513;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052626;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;4;1155.513;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052627;300300;Technical foul;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;1155.513;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052628;300300;Technical foul;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;1155.513;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052629;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;1227.208;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052630;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;1227.208;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052631;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1256.032;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052632;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1272.404;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052633;100100;Ball in play;;;;;;;;;;;4;1272.404;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+77052634;1800700;Match end;;;;;;;;;;;4;1278.604;;;;;;;;;;;;;;;;2017-12-07 11:29:01.807596
+102325921;100500;Turnover;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;1101.693;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+102325922;100500;Turnover;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1093.445;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+102325923;100500;Turnover;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;521.001;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+102325924;100500;Turnover;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;592.648;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+102325925;100500;Turnover;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;982.782;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+103662677;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;76.927;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662679;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;102.476;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662681;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;165.405;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662683;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;189.921;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662685;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;247.778;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662687;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;264.906;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662689;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;288.780;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662691;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;301.478;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662693;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;340.477;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662695;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;360.327;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662697;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;386.880;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662699;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;493.692;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662701;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;513.674;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662703;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;619.674;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662705;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;690.830;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662707;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;713.695;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662709;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;746.290;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662711;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;826.812;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662713;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;870.102;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662715;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;1;988.353;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662717;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2432;Devin L Harris;1;1031.327;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662719;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;1051.136;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662721;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;1171.255;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662723;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;1;1194.459;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662725;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;1251.473;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662727;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1281.025;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662729;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;1302.180;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662731;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;1358.434;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662733;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;11.759;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662735;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;24.780;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662737;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;36.900;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662739;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;73.984;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662741;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;2;133.728;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662743;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;145.086;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103662745;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;158.617;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662747;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;179.283;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103662749;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;198.081;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662751;200900;Assisting;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;2;248.943;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662753;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;282.601;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662755;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;342.422;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662757;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;402.506;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662759;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;432.785;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662761;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;447.303;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662763;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;465.475;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662765;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;545.169;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662767;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;626.916;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662769;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;2;665.538;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662771;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;683.782;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662773;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;779.520;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662775;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;888.229;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662777;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;971.321;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662779;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;984.223;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662781;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;998.312;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662783;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;1013.896;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103662785;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;19.450;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662787;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;43.933;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662789;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;58.270;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662791;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;217.981;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662793;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;270.498;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662795;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;293.568;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662797;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;351.268;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662799;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;421.257;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103662801;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;558.697;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662803;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;636.635;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662805;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;657.326;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662807;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;752.135;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662809;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;787.679;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662811;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;864.074;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662813;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;908.140;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662815;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1065.671;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662817;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;1092.101;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662819;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;3;1151.234;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662821;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1209.173;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662823;200900;Assisting;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;3;1275.742;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662825;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2432;Devin L Harris;4;33.180;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662827;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2432;Devin L Harris;4;63.911;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662829;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9016;Miles Plumlee;4;87.265;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662831;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;120.690;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662833;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;194.485;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662835;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;245.634;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662837;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;327.290;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662839;200900;Assisting;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;4;395.394;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662841;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;404.598;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662843;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;448.287;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662845;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;469.333;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662847;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;487.833;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662849;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;630.177;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662851;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;687.957;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662853;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;713.097;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662855;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;730.468;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662857;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;747.398;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662859;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;865.206;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662861;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;951.901;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662863;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;1092.536;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455
+103662865;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;4;1155.513;;;;;;;;;;;;;;;;2018-04-19 11:11:02.105455

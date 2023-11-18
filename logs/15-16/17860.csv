@@ -1,0 +1,799 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76986204;1601000;Starting lineup;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986205;1601000;Starting lineup;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986206;1601000;Starting lineup;8546;Ryan Hollins;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986207;1601000;Starting lineup;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986208;1601000;Starting lineup;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986209;1601000;Starting lineup;9661;Gary Neal;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986210;1601000;Starting lineup;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986211;1601000;Starting lineup;9366;John Wall;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986212;1601000;Starting lineup;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986213;1601000;Starting lineup;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986214;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986220;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986221;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986222;1600500;Guard;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986223;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986224;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986225;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;39.055;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986226;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;64.055;22.43;13.92;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76986228;100400;Steal;8421;Jared Dudley;3300;Washington Wizards;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;83.393;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986229;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;9364;Marcin Gortat;1;95.999;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986230;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;1;95.999;22.67;9.75;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986232;100300;Rebound;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;1;126.458;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986233;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9364;Marcin Gortat;1;131.581;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986234;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;131.581;26.99;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76986237;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;1;150.176;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986238;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;1;158.248;21.95;4.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986244;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;1;203.094;19.88;4.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986249;100200;Game stop;;;;;;;;;;;1;222.854;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986251;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;235.452;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986254;100200;Game stop;;;;;;;;;;;1;250.489;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986262;800202;2-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;1;313.239;26.84;1.23;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986265;400101;Accurate pass;8421;Jared Dudley;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;1;351.931;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986266;800301;3+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;8421;Jared Dudley;1;351.931;19.88;5.49;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986268;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;1;373.663;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986269;800301;3+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;373.663;20.21;11.04;;;;;;;;;;Jumper;;;;2017-12-07 11:00:03.638073
+76986271;400101;Accurate pass;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;409.548;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:00:03.638073
+76986272;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;9364;Marcin Gortat;1;409.548;26.36;12.27;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76986274;200300;Pick'n'Roll;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;1;446.766;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:00:03.638073
+76986275;800202;2-;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;1;446.766;22.28;4.02;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:00:03.638073
+76986276;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;447.791;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986277;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;447.791;26.99;7.05;;;;;;;;Putbacks;;;;;;2017-12-07 11:00:03.638073
+76986280;100200;Game stop;;;;;;;;;;;1;455.047;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986281;300100;Foul;7490;Garrett Temple;3300;Washington Wizards;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;455.047;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986287;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;494.749;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986289;100400;Steal;9363;Otto Porter Jr.;3300;Washington Wizards;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;515.985;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986290;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9364;Marcin Gortat;1;526.328;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986291;200300;Pick'n'Roll;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;526.328;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:00:03.638073
+76986292;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;526.328;23.18;11.43;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:00:03.638073
+76986295;800302;3-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;555.409;19.58;8.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986298;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;1;578.171;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986299;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;1;586.406;22.58;4.05;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986301;100200;Game stop;;;;;;;;;;;1;595.285;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986302;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;595.285;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986303;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;7490;Garrett Temple;3300;Washington Wizards;;;1;651.347;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986307;100300;Rebound;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;1;651.347;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986308;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;1;667.747;25.10;7.59;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986310;100200;Game stop;;;;;;;;;;;1;686.054;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986312;1800600;Timeout;;;3300;Washington Wizards;;;;;;;1;686.054;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986313;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;1;753.227;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986314;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;753.227;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986315;400101;Accurate pass;9364;Marcin Gortat;3300;Washington Wizards;;;;;9661;Gary Neal;1;753.227;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986316;800301;3+;9661;Gary Neal;3300;Washington Wizards;;;;;9366;John Wall;1;753.227;27.05;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986318;100300;Rebound;9661;Gary Neal;3300;Washington Wizards;;;;;;;1;774.208;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986319;800302;3-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;785.820;26.84;0.33;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986322;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;1;795.512;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986323;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;1;802.794;24.95;4.80;;;;;;;;Transition;;Floater;;;;2017-12-07 11:00:03.638073
+76986327;800600;2F;7769;Ramon Sessions;3300;Washington Wizards;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;835.619;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:00:03.638073
+76986328;100200;Game stop;;;;;;;;;;;1;835.619;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986330;800101;1+;7769;Ramon Sessions;3300;Washington Wizards;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;860.184;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986331;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;9366;John Wall;3300;Washington Wizards;;;1;879.510;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986333;800101;1+;7769;Ramon Sessions;3300;Washington Wizards;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;879.510;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986337;100200;Game stop;;;;;;;;;;;1;912.046;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986339;200600;Post;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;912.046;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986340;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;1;912.046;26.72;10.89;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76986341;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;912.046;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986342;1600500;Guard;8546;Ryan Hollins;3300;Washington Wizards;9364;Marcin Gortat;3300;Washington Wizards;;;1;940.704;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986345;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;958.673;26.51;7.74;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:00:03.638073
+76986347;100200;Game stop;;;;;;;;;;;1;985.600;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986348;100300;Rebound;;;3300;Washington Wizards;;;;;;;1;985.600;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986349;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;1025.822;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986350;100200;Game stop;;;;;;;;;;;1;1026.522;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986351;1600500;Guard;9366;John Wall;3300;Washington Wizards;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;1026.522;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986352;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;1026.522;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986353;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;7769;Ramon Sessions;1;1026.522;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986354;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;9366;John Wall;1;1026.522;23.45;3.39;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:00:03.638073
+76986356;1800500;Halftime;;;;;;;;;;;1;1033.710;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986357;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986363;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986364;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986365;1600500;Guard;8546;Ryan Hollins;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986366;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986367;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986372;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;9661;Gary Neal;2;47.674;24.89;3.96;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76986376;800302;3-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;78.970;19.64;9.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986381;400101;Accurate pass;8421;Jared Dudley;3300;Washington Wizards;;;;;8546;Ryan Hollins;2;111.469;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986382;800201;2+;8546;Ryan Hollins;3300;Washington Wizards;;;;;8421;Jared Dudley;2;111.469;26.06;5.04;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986384;100200;Game stop;;;;;;;;;;;2;152.759;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986385;100500;Turnover;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;2;152.759;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986390;100200;Game stop;;;;;;;;;;;2;183.942;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986391;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;2;183.942;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986395;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;218.866;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986396;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;234.866;22.58;3.39;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76986400;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;245.421;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986401;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;252.066;26.57;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76986404;400101;Accurate pass;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9661;Gary Neal;2;279.324;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986405;800201;2+;9661;Gary Neal;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;279.324;24.95;8.19;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 11:00:03.638073
+76986407;100200;Game stop;;;;;;;;;;;2;304.132;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986409;1800600;Timeout;;;;;;;;;;;2;304.132;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986410;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;8546;Ryan Hollins;3300;Washington Wizards;;;2;353.910;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986412;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;353.910;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986413;800600;2F;9661;Gary Neal;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;353.910;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:00:03.638073
+76986414;100200;Game stop;;;;;;;;;;;2;353.910;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986416;800101;1+;9661;Gary Neal;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;377.638;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986417;800101;1+;9661;Gary Neal;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;395.323;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986419;100200;Game stop;;;;;;;;;;;2;439.962;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986422;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;439.962;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986423;800302;3-;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;439.962;21.11;2.34;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76986426;100200;Game stop;;;;;;;;;;;2;452.970;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986427;100300;Rebound;;;3300;Washington Wizards;;;;;;;2;452.970;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986428;1600500;Guard;9366;John Wall;3300;Washington Wizards;7769;Ramon Sessions;3300;Washington Wizards;;;2;511.559;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986429;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;9661;Gary Neal;3300;Washington Wizards;;;2;511.559;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986430;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;511.559;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986433;100200;Game stop;;;;;;;;;;;2;518.404;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986434;100300;Rebound;;;3300;Washington Wizards;;;;;;;2;518.404;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986435;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;522.771;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986436;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;2;538.771;25.91;6.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986438;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;2;552.453;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986440;100400;Steal;8421;Jared Dudley;3300;Washington Wizards;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;575.389;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986441;100200;Game stop;;;;;;;;;;;2;590.420;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986443;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;2;634.235;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986446;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;634.235;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986447;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;2;634.235;23.45;7.26;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:00:03.638073
+76986450;100200;Game stop;;;;;;;;;;;2;663.665;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986452;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;687.707;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986453;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;7490;Garrett Temple;2;702.707;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986454;800201;2+;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;702.707;26.12;10.35;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76986455;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;737.880;26.84;8.37;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:00:03.638073
+76986458;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;2;760.582;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986459;800301;3+;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;760.582;26.66;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986460;100200;Game stop;;;;;;;;;;;2;771.922;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986461;300100;Foul;7490;Garrett Temple;3300;Washington Wizards;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;771.922;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986462;1600500;Guard;9363;Otto Porter Jr.;3300;Washington Wizards;7769;Ramon Sessions;3300;Washington Wizards;;;2;811.129;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986466;100200;Game stop;;;;;;;;;;;2;811.129;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986467;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;2;811.129;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986470;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;2;847.514;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986471;800301;3+;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;847.514;20.36;11.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986472;100200;Game stop;;;;;;;;;;;2;861.762;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986474;1800600;Timeout;;;3300;Washington Wizards;;;;;;;2;861.762;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986477;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;2;925.015;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986478;100200;Game stop;;;;;;;;;;;2;938.007;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986480;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;949.278;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986481;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;2;960.278;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986482;800201;2+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;2;960.278;24.14;3.42;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76986485;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;986.041;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986486;800600;2F;9366;John Wall;3300;Washington Wizards;8393;Dante Cunningham;3279;New Orleans Pelicans;;;2;990.969;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:00:03.638073
+76986487;100200;Game stop;;;;;;;;;;;2;990.969;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986489;800101;1+;9366;John Wall;3300;Washington Wizards;8393;Dante Cunningham;3279;New Orleans Pelicans;;;2;1022.041;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986490;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;7490;Garrett Temple;3300;Washington Wizards;;;2;1056.493;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986491;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;2;1056.493;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986493;800102;1-;9366;John Wall;3300;Washington Wizards;8393;Dante Cunningham;3279;New Orleans Pelicans;;;2;1056.493;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986497;100200;Game stop;;;;;;;;;;;2;1069.730;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986498;300100;Foul;9363;Otto Porter Jr.;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;2;1069.730;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986501;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;1119.754;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986502;100300;Rebound;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;2;1119.754;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986503;800301;3+;9366;John Wall;3300;Washington Wizards;;;;;;;2;1142.324;19.28;7.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986507;800202;2-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;2;1182.139;22.13;11.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986511;100200;Game stop;;;;;;;;;;;2;1232.041;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986512;1800600;Timeout;;;3300;Washington Wizards;;;;;;;2;1232.041;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986514;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;1254.708;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986515;800600;2F;9366;John Wall;3300;Washington Wizards;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;1254.708;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:00:03.638073
+76986516;100200;Game stop;;;;;;;;;;;2;1254.708;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986518;800101;1+;9366;John Wall;3300;Washington Wizards;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;1290.112;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986520;800102;1-;9366;John Wall;3300;Washington Wizards;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;1322.303;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986525;1800500;Halftime;;;;;;;;;;;2;1327.356;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986526;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986532;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986533;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986534;1600500;Guard;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986535;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986536;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986539;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;3;56.426;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986540;200300;Pick'n'Roll;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;3;79.027;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986541;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;3;79.027;26.81;10.98;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:00:03.638073
+76986544;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;85.958;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986545;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;98.862;24.44;7.80;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986547;100400;Steal;9366;John Wall;3300;Washington Wizards;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;139.574;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986548;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;3;143.459;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986549;800201;2+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;3;143.459;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:00:03.638073
+76986551;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;3;171.016;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986552;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;3;183.346;20.36;3.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986553;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;183.346;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986554;800600;2F;9364;Marcin Gortat;3300;Washington Wizards;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;3;183.346;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:00:03.638073
+76986555;100200;Game stop;;;;;;;;;;;3;183.346;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986557;800102;1-;9364;Marcin Gortat;3300;Washington Wizards;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;3;211.289;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986558;100300;Rebound;;;3300;Washington Wizards;;;;;;;3;211.289;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986559;800102;1-;9364;Marcin Gortat;3300;Washington Wizards;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;3;226.243;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986563;100200;Game stop;;;;;;;;;;;3;239.985;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986564;100300;Rebound;;;3300;Washington Wizards;;;;;;;3;239.985;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986565;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;248.589;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986566;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;3;257.589;22.37;10.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986569;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;269.729;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986570;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;291.311;21.50;12.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986571;100200;Game stop;;;;;;;;;;;3;291.311;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986572;100300;Rebound;;;3300;Washington Wizards;;;;;;;3;291.311;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986573;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;351.282;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986574;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;3;366.282;21.80;7.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986578;800400;2+1;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;3;403.184;24.95;6.24;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 11:00:03.638073
+76986579;100200;Game stop;;;;;;;;;;;3;403.184;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986581;800101;1+;9366;John Wall;3300;Washington Wizards;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;425.547;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986583;100200;Game stop;;;;;;;;;;;3;451.070;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986585;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;461.947;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986586;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;472.947;26.57;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986590;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;490.247;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986591;800302;3-;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;3;503.138;19.79;8.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986594;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;3;551.095;19.94;4.80;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986595;100300;Rebound;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;3;551.095;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986596;800201;2+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;3;551.095;26.51;3.27;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:00:03.638073
+76986600;400101;Accurate pass;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;8421;Jared Dudley;3;584.988;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986601;800301;3+;8421;Jared Dudley;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;3;584.988;20.21;4.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986602;100200;Game stop;;;;;;;;;;;3;584.988;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986609;100200;Game stop;;;;;;;;;;;3;621.489;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986610;300100;Foul;9364;Marcin Gortat;3300;Washington Wizards;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;621.489;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986613;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;668.149;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986614;100200;Game stop;;;;;;;;;;;3;680.149;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986616;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;711.271;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986620;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;3;743.548;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986621;800201;2+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;3;743.548;26.99;13.83;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986625;100200;Game stop;;;;;;;;;;;3;783.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986627;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;790.840;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986628;100200;Game stop;;;;;;;;;;;3;802.840;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986629;100500;Turnover;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;802.840;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986632;100200;Game stop;;;;;;;;;;;3;834.092;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986635;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;3;861.986;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986639;200600;Post;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;876.534;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986640;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;876.534;24.20;6.96;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76986642;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;885.518;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986643;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;9366;John Wall;3;894.305;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986644;800301;3+;9366;John Wall;3300;Washington Wizards;;;;;9661;Gary Neal;3;894.305;19.34;7.35;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986646;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;3;912.747;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986647;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;9364;Marcin Gortat;3;921.841;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986648;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;3;921.841;24.20;9.51;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986650;100200;Game stop;;;;;;;;;;;3;934.646;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986651;300100;Foul;9366;John Wall;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;934.646;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986652;1800600;Timeout;;;3300;Washington Wizards;;;;;;;3;934.646;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986653;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;9366;John Wall;3300;Washington Wizards;;;3;972.801;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986657;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;990.875;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986658;800201;2+;9661;Gary Neal;3300;Washington Wizards;;;;;;;3;1009.875;21.35;10.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986660;100300;Rebound;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;3;1030.497;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986661;200600;Post;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;1046.415;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986662;800202;2-;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;1046.415;24.05;7.17;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76986665;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;9364;Marcin Gortat;3;1084.558;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986666;200300;Pick'n'Roll;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1084.558;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986667;800201;2+;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1084.558;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:00:03.638073
+76986669;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;1099.357;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986670;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;3;1118.342;26.84;6.72;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:00:03.638073
+76986671;100200;Game stop;;;;;;;;;;;3;1126.838;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986672;300100;Foul;7769;Ramon Sessions;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1126.838;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986673;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;9364;Marcin Gortat;3300;Washington Wizards;;;3;1164.414;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986675;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1164.414;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986676;1800500;Halftime;;;;;;;;;;;3;1165.214;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986677;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986683;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986684;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986685;1600500;Guard;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986686;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986687;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986688;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;37.674;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986689;800202;2-;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;58.674;25.49;5.19;;;;;;;;;;Jumper;;;;2017-12-07 11:00:03.638073
+76986690;100300;Rebound;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;58.674;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986691;800201;2+;7490;Garrett Temple;3300;Washington Wizards;;;;;;;4;58.674;26.57;13.83;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986692;100400;Steal;9363;Otto Porter Jr.;3300;Washington Wizards;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;4;73.164;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986693;800600;2F;9363;Otto Porter Jr.;3300;Washington Wizards;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;77.650;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:00:03.638073
+76986694;100200;Game stop;;;;;;;;;;;4;77.650;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986696;800102;1-;9363;Otto Porter Jr.;3300;Washington Wizards;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;102.666;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986697;100300;Rebound;;;3300;Washington Wizards;;;;;;;4;102.666;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986700;800101;1+;9363;Otto Porter Jr.;3300;Washington Wizards;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;126.672;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986703;100300;Rebound;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;4;147.583;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986704;800600;2F;7769;Ramon Sessions;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;4;156.881;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:00:03.638073
+76986705;100200;Game stop;;;;;;;;;;;4;156.881;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986707;800101;1+;7769;Ramon Sessions;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;4;181.763;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986708;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;9363;Otto Porter Jr.;3300;Washington Wizards;;;4;199.859;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986709;800101;1+;7769;Ramon Sessions;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;4;199.859;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986711;100400;Steal;8421;Jared Dudley;3300;Washington Wizards;8590;Ishmael Smith;3279;New Orleans Pelicans;;;4;216.309;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986712;800600;2F;7769;Ramon Sessions;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;4;226.077;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76986713;100200;Game stop;;;;;;;;;;;4;226.077;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986715;800101;1+;7769;Ramon Sessions;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;4;251.077;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986716;800102;1-;7769;Ramon Sessions;3300;Washington Wizards;7070;Norris Cole;3279;New Orleans Pelicans;;;4;266.214;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986720;100300;Rebound;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;279.576;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986721;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;8421;Jared Dudley;4;288.507;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986722;800301;3+;8421;Jared Dudley;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;288.507;23.60;1.08;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986724;800202;2-;13739;DeJuan Blair;3300;Washington Wizards;;;;;8421;Jared Dudley;4;322.929;26.81;8.49;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986725;100300;Rebound;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;322.929;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986726;800600;2F;13739;DeJuan Blair;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;322.929;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:00:03.638073
+76986727;100200;Game stop;;;;;;;;;;;4;322.929;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986729;800102;1-;13739;DeJuan Blair;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;346.356;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986730;100300;Rebound;;;3300;Washington Wizards;;;;;;;4;346.356;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986732;800101;1+;13739;DeJuan Blair;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;362.273;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986736;800302;3-;8421;Jared Dudley;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;410.751;20.66;3.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986737;100200;Game stop;;;;;;;;;;;4;410.751;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986742;100200;Game stop;;;;;;;;;;;4;419.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986743;1800600;Timeout;;;3300;Washington Wizards;;;;;;;4;419.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986744;1600500;Guard;9366;John Wall;3300;Washington Wizards;7490;Garrett Temple;3300;Washington Wizards;;;4;456.891;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986745;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;456.891;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986746;200300;Pick'n'Roll;13739;DeJuan Blair;3300;Washington Wizards;;;;;9661;Gary Neal;4;456.891;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986747;800202;2-;13739;DeJuan Blair;3300;Washington Wizards;;;;;9661;Gary Neal;4;456.891;26.27;6.18;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:00:03.638073
+76986749;100200;Game stop;;;;;;;;;;;4;465.336;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986751;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;480.005;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986752;400101;Accurate pass;8421;Jared Dudley;3300;Washington Wizards;;;;;9661;Gary Neal;4;495.005;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:00:03.638073
+76986753;800301;3+;9661;Gary Neal;3300;Washington Wizards;;;;;8421;Jared Dudley;4;495.005;19.28;7.98;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:00:03.638073
+76986756;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;13739;DeJuan Blair;4;531.370;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986757;800201;2+;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;4;531.370;24.44;8.13;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986759;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;9366;John Wall;4;581.883;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986760;800301;3+;9366;John Wall;3300;Washington Wizards;;;;;9661;Gary Neal;4;581.883;20.66;12.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986761;100200;Game stop;;;;;;;;;;;4;592.362;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986762;300100;Foul;9661;Gary Neal;3300;Washington Wizards;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;592.362;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986765;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;621.242;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986766;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;13739;DeJuan Blair;4;627.951;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986767;200300;Pick'n'Roll;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;4;627.951;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986768;800201;2+;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;4;627.951;26.99;7.50;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:00:03.638073
+76986769;100200;Game stop;;;;;;;;;;;4;627.951;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986776;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;;;4;695.447;20.09;5.25;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986777;100300;Rebound;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;695.447;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986781;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;722.835;21.26;4.95;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986784;100300;Rebound;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;729.711;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986785;800600;2F;7769;Ramon Sessions;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;737.166;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:00:03.638073
+76986786;100200;Game stop;;;;;;;;;;;4;737.166;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986788;800102;1-;7769;Ramon Sessions;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;762.647;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986789;100300;Rebound;;;3300;Washington Wizards;;;;;;;4;762.647;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986790;1600500;Guard;9363;Otto Porter Jr.;3300;Washington Wizards;13739;DeJuan Blair;3300;Washington Wizards;;;4;785.034;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986791;800101;1+;7769;Ramon Sessions;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;785.034;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986793;100200;Game stop;;;;;;;;;;;4;803.684;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986794;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;803.684;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986797;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;4;824.684;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986798;800302;3-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;4;834.375;20.66;3.42;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986802;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;8421;Jared Dudley;4;877.743;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986803;200300;Pick'n'Roll;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;877.743;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986804;800201;2+;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;877.743;26.57;6.87;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:00:03.638073
+76986805;100200;Game stop;;;;;;;;;;;4;891.518;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986806;300100;Foul;9366;John Wall;3300;Washington Wizards;8590;Ishmael Smith;3279;New Orleans Pelicans;;;4;891.518;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986809;100200;Game stop;;;;;;;;;;;4;929.465;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986810;100300;Rebound;;;3300;Washington Wizards;;;;;;;4;929.465;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986811;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;941.012;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986814;100200;Game stop;;;;;;;;;;;4;958.044;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986815;300100;Foul;9661;Gary Neal;3300;Washington Wizards;8590;Ishmael Smith;3279;New Orleans Pelicans;;;4;958.044;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986818;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;996.509;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986819;800301;3+;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;1011.509;21.41;12.75;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76986823;200300;Pick'n'Roll;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;1046.939;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986824;800202;2-;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;1046.939;21.41;9.60;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:00:03.638073
+76986827;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;4;1061.956;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986828;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;4;1073.565;24.35;8.19;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76986831;100200;Game stop;;;;;;;;;;;4;1083.990;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986832;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;1083.990;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986833;1800600;Timeout;;;3300;Washington Wizards;;;;;;;4;1083.990;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986836;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1131.651;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986837;100300;Rebound;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;1131.651;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986838;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;1155.775;23.45;4.26;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76986841;100300;Rebound;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;4;1172.164;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986842;800302;3-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;1186.768;26.84;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986844;100200;Game stop;;;;;;;;;;;4;1196.623;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986846;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;9661;Gary Neal;3300;Washington Wizards;;;4;1282.034;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986847;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;4;1282.034;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986848;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;7769;Ramon Sessions;3300;Washington Wizards;;;4;1282.034;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986851;100300;Rebound;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;4;1282.034;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986852;100200;Game stop;;;;;;;;;;;4;1282.034;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986853;1800600;Timeout;;;3300;Washington Wizards;;;;;;;4;1282.034;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986855;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;7490;Garrett Temple;3300;Washington Wizards;;;4;1331.035;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986856;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1331.035;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986857;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;4;1331.035;21.26;5.79;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986860;100200;Game stop;;;;;;;;;;;4;1331.035;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986861;300100;Foul;9363;Otto Porter Jr.;3300;Washington Wizards;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;1331.035;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986864;1800600;Timeout;;;3300;Washington Wizards;;;;;;;4;1376.342;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986865;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;9364;Marcin Gortat;3300;Washington Wizards;;;4;1418.587;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986866;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1418.587;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986867;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;4;1418.587;26.96;7.59;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:00:03.638073
+76986868;100200;Game stop;;;;;;;;;;;4;1418.587;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986871;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;9661;Gary Neal;3300;Washington Wizards;;;4;1459.255;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986873;100400;Steal;8421;Jared Dudley;3300;Washington Wizards;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;1459.255;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986874;100200;Game stop;;;;;;;;;;;4;1520.635;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986875;1600500;Guard;9364;Marcin Gortat;3300;Washington Wizards;7769;Ramon Sessions;3300;Washington Wizards;;;4;1520.635;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986879;100200;Game stop;;;;;;;;;;;4;1520.635;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986880;300100;Foul;9363;Otto Porter Jr.;3300;Washington Wizards;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1520.635;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986884;1800600;Timeout;;;3300;Washington Wizards;;;;;;;4;1565.750;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986885;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;7490;Garrett Temple;3300;Washington Wizards;;;4;1595.479;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986887;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1595.479;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986888;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;1595.479;23.03;11.49;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76986889;100300;Rebound;;;3300;Washington Wizards;;;;;;;4;1595.479;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986890;1800700;Match end;;;;;;;;;;;4;1595.479;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+103683586;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;1;95.999;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683588;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;131.581;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683590;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;1;158.248;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683600;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;8421;Jared Dudley;1;351.931;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683604;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;373.663;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683608;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;9364;Marcin Gortat;1;409.548;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683614;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;9366;John Wall;1;526.328;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683618;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;9366;John Wall;1;753.227;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683620;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;1;802.794;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683624;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;835.619;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683630;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;958.673;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683632;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;9366;John Wall;1;1026.522;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683642;200900;Assisting;8546;Ryan Hollins;3300;Washington Wizards;;;;;8421;Jared Dudley;2;111.469;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683648;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;252.066;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683652;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;279.324;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683656;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;353.910;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683658;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;538.771;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683660;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;634.235;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683664;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;702.707;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683668;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;760.582;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683672;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;847.514;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683674;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;2;960.278;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683676;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;990.969;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683680;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;1142.324;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683686;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;1254.708;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683688;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;3;143.459;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683690;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;;;3;183.346;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683694;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;3;403.184;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683698;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;3;551.095;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683702;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;3;584.988;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683708;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;3;743.548;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683714;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;9661;Gary Neal;3;894.305;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683716;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;3;921.841;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683720;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;;;3;1009.875;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683724;200900;Assisting;9364;Marcin Gortat;3300;Washington Wizards;;;;;7490;Garrett Temple;3;1084.558;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683726;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;3;1118.342;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683728;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;;;4;58.674;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683730;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;4;77.650;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683732;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;156.881;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683734;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;226.077;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683736;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;288.507;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683740;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;322.929;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683746;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;8421;Jared Dudley;4;495.005;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683750;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;4;531.370;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683754;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;9661;Gary Neal;4;581.883;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683756;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;4;627.951;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683762;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;737.166;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683766;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;877.743;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683770;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;1011.509;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683778;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;1418.587;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+76986193;1601000;Starting lineup;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986194;1601000;Starting lineup;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986195;1601000;Starting lineup;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986196;1601000;Starting lineup;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986197;1601000;Starting lineup;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986198;1601000;Starting lineup;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986199;1601000;Starting lineup;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986200;1601000;Starting lineup;112342;Tyler Hobgood;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986201;1601000;Starting lineup;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986202;1601000;Starting lineup;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986203;1601000;Starting lineup;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986215;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986216;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986217;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986218;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986219;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986227;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;64.055;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986231;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;126.458;22.73;3.51;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76986235;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;150.176;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986236;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;150.176;23.03;6.87;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76986239;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;180.202;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986240;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;180.202;26.57;5.01;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76986241;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;180.202;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986242;400101;Accurate pass;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;182.673;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986243;800301;3+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;1;182.673;22.43;13.38;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986245;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;203.094;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986246;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;213.682;20.48;11.07;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986247;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;213.682;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986248;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;213.682;26.48;6.48;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:00:03.638073
+76986250;300100;Foul;9128;Alonzo Gee;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;1;222.854;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986252;100400;Steal;7719;Eric Gordon;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;1;242.452;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986253;800202;2-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;250.489;26.72;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76986255;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;250.489;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986256;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;274.550;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986257;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;283.550;25.34;8.10;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76986258;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;283.550;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986259;800202;2-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;283.550;26.72;7.44;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:00:03.638073
+76986260;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;283.550;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986261;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;283.592;26.57;7.62;;;;;;;;;;Lay up;;;;2017-12-07 11:00:03.638073
+76986263;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;313.239;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986264;800301;3+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;330.526;19.58;6.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986267;800201;2+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;364.977;22.13;11.43;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986270;800201;2+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;398.238;26.42;7.74;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:00:03.638073
+76986273;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;426.732;20.48;11.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986278;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;447.791;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986279;800600;2F;9049;Tyreke Evans;3279;New Orleans Pelicans;7490;Garrett Temple;3300;Washington Wizards;;;1;455.047;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:00:03.638073
+76986282;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;1;455.047;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986283;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;1;477.611;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986284;800102;1-;9049;Tyreke Evans;3279;New Orleans Pelicans;7490;Garrett Temple;3300;Washington Wizards;;;1;477.611;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986285;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;477.611;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986286;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;7490;Garrett Temple;3300;Washington Wizards;;;1;490.821;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986288;100400;Steal;9049;Tyreke Evans;3279;New Orleans Pelicans;9364;Marcin Gortat;3300;Washington Wizards;;;1;511.749;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986293;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;1;543.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986294;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;543.820;21.26;7.98;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986296;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;555.409;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986297;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;578.171;19.94;5.40;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986300;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;1;586.406;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986304;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;651.347;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986305;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;651.347;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986306;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;651.347;19.79;5.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986309;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;1;667.747;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986311;300100;Foul;8394;Anthony Davis;3279;New Orleans Pelicans;8421;Jared Dudley;3300;Washington Wizards;;;1;686.054;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986317;800202;2-;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;774.208;26.27;13.83;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986320;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;785.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986321;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;795.512;21.50;9.75;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986324;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;819.143;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986325;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;819.143;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:00:03.638073
+76986326;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;819.143;22.43;10.11;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:00:03.638073
+76986329;300100;Foul;7719;Eric Gordon;3279;New Orleans Pelicans;7769;Ramon Sessions;3300;Washington Wizards;;;1;835.619;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986332;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;1;879.510;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986334;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;880.994;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986335;400101;Accurate pass;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;892.994;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986336;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;892.994;20.75;7.83;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986338;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;912.046;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986343;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;940.704;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986344;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;940.704;21.50;4.17;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986346;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;985.600;21.71;6.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986355;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1033.710;14.09;4.41;;;;;;;;;;Jumper;;;;2017-12-07 11:00:03.638073
+76986358;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986359;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986360;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986361;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986362;1600500;Guard;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986368;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;3.119;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986369;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;24.119;25.10;12.30;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986370;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;24.119;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986371;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;24.119;26.84;7.89;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:00:03.638073
+76986373;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;47.674;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986374;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7070;Norris Cole;2;52.342;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986375;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;52.342;23.75;12.57;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986377;100300;Rebound;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;2;78.970;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986378;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;87.711;24.65;7.26;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986379;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;87.711;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986380;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;87.711;24.80;10.44;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:00:03.638073
+76986383;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;123.147;20.33;11.04;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986386;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;183.942;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986387;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;183.942;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986388;200300;Pick'n'Roll;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;183.942;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986389;800600;2F;8403;Alexis Ajinca;3279;New Orleans Pelicans;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;2;183.942;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:00:03.638073
+76986392;800102;1-;8403;Alexis Ajinca;3279;New Orleans Pelicans;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;2;206.024;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986393;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;206.024;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986394;800101;1+;8403;Alexis Ajinca;3279;New Orleans Pelicans;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;2;218.382;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986397;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;234.866;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986398;200600;Post;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;245.421;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986399;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;245.421;26.72;9.99;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76986402;400101;Accurate pass;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;261.249;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986403;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7070;Norris Cole;2;261.249;20.36;3.93;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986406;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;292.191;24.02;9.57;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76986408;300100;Foul;8590;Ishmael Smith;3279;New Orleans Pelicans;7769;Ramon Sessions;3300;Washington Wizards;;;2;304.132;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986411;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;2;353.910;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986415;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;9661;Gary Neal;3300;Washington Wizards;;;2;353.910;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986418;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;430.962;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986420;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;8590;Ishmael Smith;3279;New Orleans Pelicans;;;2;439.962;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986421;100500;Turnover;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;439.962;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986424;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;439.962;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986425;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;452.970;20.33;4.71;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986431;100400;Steal;8393;Dante Cunningham;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;2;511.559;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986432;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;518.404;22.67;3.96;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986437;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;552.453;23.03;3.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986439;100400;Steal;8393;Dante Cunningham;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;2;563.984;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986442;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;2;590.420;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986444;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;634.235;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986445;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;2;634.235;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986448;200600;Post;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;653.279;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986449;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;653.279;24.14;12.69;;;;;;;;Post;;Jumper;;;;2017-12-07 11:00:03.638073
+76986451;300100;Foul;8403;Alexis Ajinca;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;2;663.665;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986456;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;737.880;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986457;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;744.013;26.84;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76986463;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;2;811.129;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986464;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;811.129;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986465;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;811.129;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986468;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;825.659;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986469;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;833.659;21.65;5.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986473;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;2;861.762;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986475;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;912.015;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986476;800202;2-;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;2;925.015;23.90;10.74;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986479;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;9364;Marcin Gortat;3300;Washington Wizards;;;2;938.007;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986483;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;2;986.041;20.21;4.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986484;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;986.041;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986488;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;2;990.969;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986492;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;2;1056.493;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986494;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1056.493;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986495;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;1056.493;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986496;800600;2F;7070;Norris Cole;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;2;1069.730;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:00:03.638073
+76986499;800101;1+;7070;Norris Cole;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;2;1098.917;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986500;800102;1-;7070;Norris Cole;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;2;1119.754;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986504;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;2;1161.939;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986505;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;1161.939;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986506;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;1161.939;26.81;7.50;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:00:03.638073
+76986508;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1182.139;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986509;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;2;1223.507;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986510;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;1223.507;26.48;5.97;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986513;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;2;1254.708;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986517;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;2;1254.708;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986519;1600500;Guard;8590;Ishmael Smith;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;2;1322.303;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986521;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1322.303;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986522;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1322.303;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986523;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1327.356;17.12;6.12;;;;;;;;;;Jumper;;;;2017-12-07 11:00:03.638073
+76986524;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;1327.356;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986527;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986528;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986529;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986530;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986531;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986537;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;36.426;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986538;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;56.426;25.34;4.47;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:00:03.638073
+76986542;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;79.027;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986543;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;85.958;27.38;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76986546;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;3;98.862;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986550;800202;2-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;171.016;26.42;13.83;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76986556;300100;Foul;8403;Alexis Ajinca;3279;New Orleans Pelicans;9364;Marcin Gortat;3300;Washington Wizards;;;3;183.346;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986560;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;226.243;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986561;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;226.243;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986562;800202;2-;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;239.985;26.57;6.03;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:00:03.638073
+76986567;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;257.589;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986568;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;269.729;20.66;7.17;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986575;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;366.282;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986576;400101;Accurate pass;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;381.258;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986577;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;3;381.258;24.89;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986580;300100;Foul;9128;Alonzo Gee;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;3;403.184;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986582;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;429.070;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986584;100500;Turnover;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;451.070;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986587;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;472.947;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986588;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;490.247;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986589;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;490.247;21.80;8.34;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:00:03.638073
+76986592;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;503.138;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986593;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;525.815;21.26;10.53;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76986597;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;3;567.237;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986598;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;567.237;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986599;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;567.237;26.81;7.89;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:00:03.638073
+76986603;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;3;584.988;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986604;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;621.489;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986605;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;3;621.489;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986606;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;621.489;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986607;200300;Pick'n'Roll;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;621.489;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986608;800600;2F;8393;Dante Cunningham;3279;New Orleans Pelicans;9364;Marcin Gortat;3300;Washington Wizards;;;3;621.489;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:00:03.638073
+76986611;800101;1+;8393;Dante Cunningham;3279;New Orleans Pelicans;9364;Marcin Gortat;3300;Washington Wizards;;;3;651.064;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986612;800101;1+;8393;Dante Cunningham;3279;New Orleans Pelicans;9364;Marcin Gortat;3300;Washington Wizards;;;3;663.954;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986615;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;8421;Jared Dudley;3300;Washington Wizards;;;3;680.149;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986617;100400;Steal;8399;Jrue Holiday;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;3;722.271;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986618;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;727.414;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986619;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;727.414;22.67;14.07;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986622;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;3;759.105;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986623;800301;3+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;759.105;26.57;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986624;100400;Steal;8394;Anthony Davis;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;3;775.295;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986626;100500;Turnover;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;783.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986630;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;819.092;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986631;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;834.092;26.12;7.20;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:00:03.638073
+76986633;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;3;834.092;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986634;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;861.986;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986636;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;861.986;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986637;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;3;861.986;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986638;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;861.986;26.72;12.60;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:00:03.638073
+76986641;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;876.534;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986645;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;912.747;26.72;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986649;800600;2F;8399;Jrue Holiday;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;3;934.646;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:00:03.638073
+76986654;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;3;972.801;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986655;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;3;972.801;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986656;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;3;986.626;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986659;800202;2-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;1030.497;26.84;7.26;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:00:03.638073
+76986663;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;3;1046.415;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986664;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1066.371;26.99;14.52;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:00:03.638073
+76986668;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;9364;Marcin Gortat;3300;Washington Wizards;;;3;1099.357;26.81;8.28;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:00:03.638073
+76986674;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1164.414;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986678;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986679;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986680;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986681;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986682;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986695;300100;Foul;7719;Eric Gordon;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;4;77.650;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986698;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;4;126.672;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986699;1600500;Guard;8590;Ishmael Smith;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;126.672;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986701;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;128.583;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986702;800302;3-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;147.583;19.58;8.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986706;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;7769;Ramon Sessions;3300;Washington Wizards;;;4;156.881;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986710;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;202.309;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986714;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;7769;Ramon Sessions;3300;Washington Wizards;;;4;226.077;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986717;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;266.214;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986718;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;266.214;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986719;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;279.576;21.65;9.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986723;800201;2+;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;299.368;23.45;9.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986728;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;13739;DeJuan Blair;3300;Washington Wizards;;;4;322.929;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986731;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;362.273;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986733;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;363.752;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986734;400101;Accurate pass;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;373.752;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986735;800301;3+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;373.752;20.51;11.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986738;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;4;410.751;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986739;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;414.820;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986740;400101;Accurate pass;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;419.820;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986741;800301;3+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;419.820;23.87;0.66;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986748;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;456.891;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986750;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;13739;DeJuan Blair;3300;Washington Wizards;;;4;465.336;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986754;400101;Accurate pass;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;4;511.086;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986755;800301;3+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;511.086;25.91;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986758;800201;2+;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;554.337;27.23;6.87;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:00:03.638073
+76986763;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;615.242;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986764;800202;2-;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;621.242;26.72;7.32;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:00:03.638073
+76986770;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;627.951;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986771;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;4;669.619;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986772;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;4;669.619;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986773;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;669.619;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986774;400101;Accurate pass;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;669.619;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986775;800201;2+;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;669.619;22.73;7.65;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76986778;100400;Steal;8399;Jrue Holiday;3279;New Orleans Pelicans;13739;DeJuan Blair;3300;Washington Wizards;;;4;695.447;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986779;400101;Accurate pass;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;702.321;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986780;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;702.321;19.94;11.13;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:00:03.638073
+76986782;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;722.835;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986783;800202;2-;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;729.711;26.96;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:00:03.638073
+76986787;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;7769;Ramon Sessions;3300;Washington Wizards;;;4;737.166;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986792;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;789.684;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986795;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;818.684;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986796;800302;3-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;824.684;19.49;7.95;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986799;100300;Rebound;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;834.375;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986800;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;860.469;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986801;800301;3+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;860.469;19.94;9.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986807;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;914.465;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986808;800302;3-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;929.465;19.64;7.05;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76986812;100400;Steal;9049;Tyreke Evans;3279;New Orleans Pelicans;9366;John Wall;3300;Washington Wizards;;;4;952.012;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986813;800600;2F;8590;Ishmael Smith;3279;New Orleans Pelicans;9661;Gary Neal;3300;Washington Wizards;;;4;958.044;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:00:03.638073
+76986816;800101;1+;8590;Ishmael Smith;3279;New Orleans Pelicans;9661;Gary Neal;3300;Washington Wizards;;;4;978.605;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986817;800101;1+;8590;Ishmael Smith;3279;New Orleans Pelicans;9661;Gary Neal;3300;Washington Wizards;;;4;993.354;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986820;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;1033.726;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986821;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;1033.726;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:00:03.638073
+76986822;800301;3+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;1033.726;19.13;7.65;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:00:03.638073
+76986825;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1046.939;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986826;800302;3-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;1061.956;19.58;7.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:00:03.638073
+76986829;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1073.565;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986830;800600;2F;8394;Anthony Davis;3279;New Orleans Pelicans;8421;Jared Dudley;3300;Washington Wizards;;;4;1083.990;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:00:03.638073
+76986834;800101;1+;8394;Anthony Davis;3279;New Orleans Pelicans;8421;Jared Dudley;3300;Washington Wizards;;;4;1117.122;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986835;800102;1-;8394;Anthony Davis;3279;New Orleans Pelicans;8421;Jared Dudley;3300;Washington Wizards;;;4;1131.651;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986839;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1155.775;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986840;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1172.164;20.81;9.51;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:00:03.638073
+76986843;100300;Rebound;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;1186.768;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986845;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;1196.623;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986849;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1282.034;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986850;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1282.034;26.84;7.50;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:00:03.638073
+76986854;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;8590;Ishmael Smith;3279;New Orleans Pelicans;;;4;1331.035;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986858;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;4;1331.035;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986859;800600;2F;7719;Eric Gordon;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;4;1331.035;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986862;800101;1+;7719;Eric Gordon;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;4;1362.036;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986863;800101;1+;7719;Eric Gordon;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;4;1376.342;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986869;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;1418.587;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986870;1600500;Guard;8590;Ishmael Smith;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;4;1459.255;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986872;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1459.255;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986876;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;8590;Ishmael Smith;3279;New Orleans Pelicans;;;4;1520.635;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986877;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1520.635;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76986878;800600;2F;9049;Tyreke Evans;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;4;1520.635;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986881;800102;1-;9049;Tyreke Evans;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;4;1546.799;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986882;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;4;1546.799;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986883;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;9363;Otto Porter Jr.;3300;Washington Wizards;;;4;1565.750;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+76986886;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;1595.479;;;;;;;;;;;;;;;;2017-12-07 11:00:03.638073
+93267649;100500;Turnover;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;686.054;;;;;;;;;;;;;;;;2018-01-11 20:49:02.145159
+93267650;100500;Turnover;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;465.336;;;;;;;;;;;;;;;;2018-01-11 20:49:02.145159
+103683592;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;1;182.673;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683594;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;213.682;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683596;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;283.592;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683598;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;330.526;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683602;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;364.977;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683606;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;398.238;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683610;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;426.732;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683612;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;455.047;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683616;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;543.820;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683622;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;819.143;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683626;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;892.994;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683628;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;940.704;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683634;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1033.710;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683636;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;24.119;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683638;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;52.342;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683640;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;87.711;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683644;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;123.147;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683646;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;183.942;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683650;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7070;Norris Cole;2;261.249;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683654;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;292.191;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683662;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;653.279;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683666;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;744.013;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683670;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;833.659;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683678;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;1069.730;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683682;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;1161.939;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683684;200900;Assisting;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;1223.507;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683692;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;3;381.258;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683696;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;525.815;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683700;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;567.237;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683704;200900;Assisting;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;621.489;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683706;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;727.414;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683710;200900;Assisting;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;759.105;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683712;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;861.986;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683718;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;934.646;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683722;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1066.371;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683738;200900;Assisting;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;299.368;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683742;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;373.752;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683744;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;419.820;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683748;200900;Assisting;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;511.086;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683752;200900;Assisting;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;554.337;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683758;200900;Assisting;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;669.619;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683760;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;702.321;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683764;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;860.469;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683768;200900;Assisting;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;958.044;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683772;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;1033.726;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683774;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;1083.990;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683776;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;4;1331.035;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857
+103683780;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1520.635;;;;;;;;;;;;;;;;2018-04-19 11:28:01.335857

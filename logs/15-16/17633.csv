@@ -1,0 +1,863 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76443652;1601000;Starting lineup;108;Joe Young;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443653;1601000;Starting lineup;98;Paul George;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443654;1601000;Starting lineup;99;Ian Mahinmi;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443655;1601000;Starting lineup;100;Monta Ellis;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443656;1601000;Starting lineup;370972;CJ Miles;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443657;1601000;Starting lineup;7854;George Hill;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443658;1601000;Starting lineup;7246;Chase Budinger;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443659;1601000;Starting lineup;102;Lavoy Allen;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443660;1601000;Starting lineup;109;Myles Turner;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443661;1601000;Starting lineup;106;Glenn Robinson III;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443662;1601000;Starting lineup;104;Jordan Hill;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443663;1601000;Starting lineup;8400;Solomon Hill;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443664;1601000;Starting lineup;9366;John Wall;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443665;1601000;Starting lineup;14021;Jarell Eddie;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443666;1601000;Starting lineup;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443667;1601000;Starting lineup;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443668;1601000;Starting lineup;9661;Gary Neal;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443669;1601000;Starting lineup;9365;Bradley Beal;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443670;1601000;Starting lineup;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443671;1601000;Starting lineup;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443672;1601000;Starting lineup;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443673;1601000;Starting lineup;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443674;1601000;Starting lineup;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443675;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443676;1600500;Guard;98;Paul George;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443677;1600500;Guard;99;Ian Mahinmi;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443678;1600500;Guard;100;Monta Ellis;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443679;1600500;Guard;7854;George Hill;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443680;1600500;Guard;370972;CJ Miles;9;Indiana Pacers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443681;1600500;Guard;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443682;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443683;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443684;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443685;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443686;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;109.454;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443687;100400;Steal;100;Monta Ellis;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;1;126.454;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443688;100200;Game stop;;;;;;;;;;;1;130.385;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443689;100500;Turnover;98;Paul George;9;Indiana Pacers;;;;;;;1;130.385;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443690;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;146.672;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443691;800600;2F;9368;Kelly Oubre Jr.;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;1;157.672;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 05:21:02.615171
+76443692;100200;Game stop;;;;;;;;;;;1;157.672;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443693;300100;Foul;99;Ian Mahinmi;9;Indiana Pacers;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;157.672;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443694;800102;1-;9368;Kelly Oubre Jr.;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;1;179.862;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443695;100300;Rebound;;;3300;Washington Wizards;;;;;;;1;179.862;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443696;800101;1+;9368;Kelly Oubre Jr.;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;1;192.334;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443697;100100;Ball in play;;;9;Indiana Pacers;;;;;;;1;197.106;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443698;100400;Steal;9366;John Wall;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;1;211.106;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443699;400101;Accurate pass;8421;Jared Dudley;3300;Washington Wizards;;;;;3629;Nene Hilario;1;215.445;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443700;800201;2+;3629;Nene Hilario;3300;Washington Wizards;;;;;8421;Jared Dudley;1;215.445;26.72;7.44;;;;;;;;Transition;;Dunk;;;;2017-12-07 05:21:02.615171
+76443701;100400;Steal;9368;Kelly Oubre Jr.;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;1;225.878;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443702;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;235.919;24.50;0.81;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76443703;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;235.939;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443704;800202;2-;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;255.358;21.98;7.35;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443705;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;255.358;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443706;800202;2-;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;266.073;26.21;6.42;;;;;;;;Cut;;Hook;;;;2017-12-07 05:21:02.615171
+76443707;100300;Rebound;98;Paul George;9;Indiana Pacers;;;;;;;1;266.073;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443708;800302;3-;98;Paul George;9;Indiana Pacers;;;;;;;1;274.262;20.21;4.95;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76443709;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;274.262;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443710;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;1;286.698;22.88;3.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76443711;100300;Rebound;98;Paul George;9;Indiana Pacers;;;;;;;1;286.698;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443712;400101;Accurate pass;98;Paul George;9;Indiana Pacers;;;;;100;Monta Ellis;1;291.575;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443713;800201;2+;100;Monta Ellis;9;Indiana Pacers;;;;;98;Paul George;1;291.575;27.08;8.49;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76443714;800600;2F;9366;John Wall;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;1;312.923;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:21:02.615171
+76443715;100200;Game stop;;;;;;;;;;;1;312.923;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443716;300100;Foul;370972;CJ Miles;9;Indiana Pacers;9366;John Wall;3300;Washington Wizards;;;1;312.923;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443717;800102;1-;9366;John Wall;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;1;343.616;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443718;100300;Rebound;;;3300;Washington Wizards;;;;;;;1;343.616;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443719;800101;1+;9366;John Wall;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;1;361.398;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443720;100100;Ball in play;;;9;Indiana Pacers;;;;;;;1;365.351;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443721;100200;Game stop;;;;;;;;;;;1;378.351;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443722;100500;Turnover;7854;George Hill;9;Indiana Pacers;;;;;;;1;378.351;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443723;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;384.232;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443724;800202;2-;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;398.232;27.08;8.22;;;;;;;;Hand offs;;Dunk;;;;2017-12-07 05:21:02.615171
+76443725;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;398.232;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443726;800202;2-;9368;Kelly Oubre Jr.;3300;Washington Wizards;98;Paul George;9;Indiana Pacers;;;1;404.038;26.66;8.37;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:21:02.615171
+76443727;100300;Rebound;98;Paul George;9;Indiana Pacers;;;;;;;1;404.038;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443728;100200;Game stop;;;;;;;;;;;1;409.789;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443729;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;98;Paul George;9;Indiana Pacers;;;1;409.789;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443730;100100;Ball in play;;;9;Indiana Pacers;;;;;;;1;430.382;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443731;200600;Post;98;Paul George;9;Indiana Pacers;;;;;;;1;443.382;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443732;800201;2+;98;Paul George;9;Indiana Pacers;;;;;;;1;443.382;26.84;7.35;;;;;;;;Post;;Lay up;;;;2017-12-07 05:21:02.615171
+76443733;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;8421;Jared Dudley;1;461.663;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443734;800301;3+;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;1;461.663;20.21;4.26;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443735;200300;Pick'n'Roll;99;Ian Mahinmi;9;Indiana Pacers;;;;;98;Paul George;1;484.484;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:21:02.615171
+76443736;800202;2-;99;Ian Mahinmi;9;Indiana Pacers;;;;;98;Paul George;1;484.484;21.41;7.44;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:21:02.615171
+76443737;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;1;484.484;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443738;200300;Pick'n'Roll;3629;Nene Hilario;3300;Washington Wizards;;;;;9366;John Wall;1;503.096;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443739;800202;2-;3629;Nene Hilario;3300;Washington Wizards;;;;;9366;John Wall;1;503.096;27.08;8.10;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 05:21:02.615171
+76443740;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;503.096;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443741;800201;2+;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;509.914;26.72;6.66;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 05:21:02.615171
+76443742;100200;Game stop;;;;;;;;;;;1;521.846;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443743;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;1;521.846;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443744;100100;Ball in play;;;9;Indiana Pacers;;;;;;;1;542.620;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443745;200300;Pick'n'Roll;99;Ian Mahinmi;9;Indiana Pacers;;;;;100;Monta Ellis;1;549.620;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443746;800202;2-;99;Ian Mahinmi;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;100;Monta Ellis;1;549.620;26.42;8.97;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 05:21:02.615171
+76443747;100200;Game stop;;;;;;;;;;;1;549.620;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443748;100300;Rebound;;;3300;Washington Wizards;;;;;;;1;549.620;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443749;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;556.126;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443750;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;1;570.126;26.96;7.17;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:21:02.615171
+76443751;100200;Game stop;;;;;;;;;;;1;579.051;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443752;100500;Turnover;98;Paul George;9;Indiana Pacers;;;;;;;1;579.051;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443753;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;582.502;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443754;100200;Game stop;;;;;;;;;;;1;591.502;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443755;300100;Foul;7854;George Hill;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;;;1;591.502;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443756;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;604.625;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443757;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;622.625;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443758;100200;Game stop;;;;;;;;;;;1;627.609;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443759;100300;Rebound;;;3300;Washington Wizards;;;;;;;1;627.609;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443760;300100;Foul;7854;George Hill;9;Indiana Pacers;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;627.609;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443761;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;;;1;627.609;20.66;11.43;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:21:02.615171
+76443762;1600500;Guard;7246;Chase Budinger;9;Indiana Pacers;7854;George Hill;9;Indiana Pacers;;;1;672.870;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443763;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;672.870;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443764;800202;2-;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;672.870;26.72;7.50;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:21:02.615171
+76443765;100300;Rebound;7246;Chase Budinger;9;Indiana Pacers;;;;;;;1;672.870;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443766;100200;Game stop;;;;;;;;;;;1;678.804;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443767;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;7246;Chase Budinger;9;Indiana Pacers;;;1;678.804;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443768;1600500;Guard;36741;Drew Gooden;3300;Washington Wizards;3629;Nene Hilario;3300;Washington Wizards;;;1;730.702;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443769;800102;1-;7246;Chase Budinger;9;Indiana Pacers;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;730.702;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443770;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;730.702;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443771;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;730.702;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443772;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;1;744.917;23.03;4.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76443773;100300;Rebound;99;Ian Mahinmi;9;Indiana Pacers;;;;;;;1;744.917;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443774;800201;2+;370972;CJ Miles;9;Indiana Pacers;;;;;;;1;755.034;20.90;7.68;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:21:02.615171
+76443775;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;36741;Drew Gooden;1;765.954;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443776;800201;2+;36741;Drew Gooden;3300;Washington Wizards;;;;;7490;Garrett Temple;1;765.954;22.67;7.89;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:21:02.615171
+76443777;100200;Game stop;;;;;;;;;;;1;765.954;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443778;1800600;Timeout;;;9;Indiana Pacers;;;;;;;1;765.954;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443779;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;1;816.032;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443780;100100;Ball in play;;;9;Indiana Pacers;;;;;;;1;816.032;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443781;800202;2-;98;Paul George;9;Indiana Pacers;;;;;100;Monta Ellis;1;816.032;27.08;13.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443782;100300;Rebound;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;816.032;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443783;800202;2-;7490;Garrett Temple;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;1;835.556;26.96;6.96;;;;;;;;Cut;;;;;;2017-12-07 05:21:02.615171
+76443784;100300;Rebound;7246;Chase Budinger;9;Indiana Pacers;;;;;;;1;835.556;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443785;800202;2-;100;Monta Ellis;9;Indiana Pacers;;;;;;;1;842.990;25.91;11.37;;;;;;;;Transition;;;;;;2017-12-07 05:21:02.615171
+76443786;100300;Rebound;98;Paul George;9;Indiana Pacers;;;;;;;1;842.990;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443787;800201;2+;98;Paul George;9;Indiana Pacers;;;;;;;1;842.990;26.72;7.80;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:21:02.615171
+76443788;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9368;Kelly Oubre Jr.;1;860.039;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443789;800301;3+;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;860.039;26.84;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443790;100400;Steal;9368;Kelly Oubre Jr.;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;1;870.344;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443791;800201;2+;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;874.168;26.66;7.74;;;;;;;;Transition;;Dunk;;;;2017-12-07 05:21:02.615171
+76443792;800201;2+;98;Paul George;9;Indiana Pacers;;;;;;;1;894.150;24.50;8.43;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76443793;100200;Game stop;;;;;;;;;;;1;901.289;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443794;1800600;Timeout;;;3300;Washington Wizards;;;;;;;1;901.289;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443795;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;7490;Garrett Temple;3300;Washington Wizards;;;1;951.299;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443796;1600500;Guard;102;Lavoy Allen;9;Indiana Pacers;370972;CJ Miles;9;Indiana Pacers;;;1;951.299;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443797;1600500;Guard;109;Myles Turner;9;Indiana Pacers;99;Ian Mahinmi;9;Indiana Pacers;;;1;951.299;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443798;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;951.299;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443799;200600;Post;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;951.299;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443800;800202;2-;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;951.299;25.37;7.65;;;;;;;;Post;;Hook;;;;2017-12-07 05:21:02.615171
+76443801;100300;Rebound;102;Lavoy Allen;9;Indiana Pacers;;;;;;;1;951.299;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443802;800400;2+1;100;Monta Ellis;9;Indiana Pacers;;;;;;;1;960.048;26.66;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76443803;100200;Game stop;;;;;;;;;;;1;960.048;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443804;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;100;Monta Ellis;9;Indiana Pacers;;;1;960.048;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443805;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;999.503;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443806;800101;1+;100;Monta Ellis;9;Indiana Pacers;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;1;999.503;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443807;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;1005.247;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443808;100200;Game stop;;;;;;;;;;;1;1022.247;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443809;100500;Turnover;9365;Bradley Beal;3300;Washington Wizards;;;;;;;1;1022.247;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443810;100100;Ball in play;;;9;Indiana Pacers;;;;;;;1;1034.705;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443811;200600;Post;109;Myles Turner;9;Indiana Pacers;;;;;;;1;1043.705;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443812;800600;2F;109;Myles Turner;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;1;1043.705;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 05:21:02.615171
+76443813;100200;Game stop;;;;;;;;;;;1;1043.705;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443814;300100;Foul;9365;Bradley Beal;3300;Washington Wizards;109;Myles Turner;9;Indiana Pacers;;;1;1043.705;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443815;800101;1+;109;Myles Turner;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;1;1065.923;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443816;800101;1+;109;Myles Turner;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;1;1079.197;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443817;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;1081.225;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443818;100400;Steal;98;Paul George;9;Indiana Pacers;36741;Drew Gooden;3300;Washington Wizards;;;1;1095.225;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443819;800201;2+;98;Paul George;9;Indiana Pacers;;;;;;;1;1102.757;23.75;7.74;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 05:21:02.615171
+76443820;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9365;Bradley Beal;1;1115.002;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443821;800201;2+;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;1;1115.002;27.23;8.34;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 05:21:02.615171
+76443822;100200;Game stop;;;;;;;;;;;1;1132.430;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443823;100500;Turnover;7246;Chase Budinger;9;Indiana Pacers;;;;;;;1;1132.430;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443824;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;1140.451;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443825;800202;2-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;1;1152.451;21.56;8.76;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:21:02.615171
+76443826;100300;Rebound;7246;Chase Budinger;9;Indiana Pacers;;;;;;;1;1152.451;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443827;400101;Accurate pass;100;Monta Ellis;9;Indiana Pacers;;;;;102;Lavoy Allen;1;1163.164;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443828;200300;Pick'n'Roll;102;Lavoy Allen;9;Indiana Pacers;;;;;100;Monta Ellis;1;1163.164;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443829;800400;2+1;102;Lavoy Allen;9;Indiana Pacers;;;;;100;Monta Ellis;1;1163.164;26.42;7.89;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 05:21:02.615171
+76443830;100200;Game stop;;;;;;;;;;;1;1163.164;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443831;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;102;Lavoy Allen;9;Indiana Pacers;;;1;1163.164;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443832;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;1;1195.445;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443833;800101;1+;102;Lavoy Allen;9;Indiana Pacers;8421;Jared Dudley;3300;Washington Wizards;;;1;1195.445;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443834;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;1200.016;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443835;800201;2+;9661;Gary Neal;3300;Washington Wizards;;;;;9365;Bradley Beal;1;1220.016;26.96;4.65;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 05:21:02.615171
+76443836;400101;Accurate pass;98;Paul George;9;Indiana Pacers;;;;;109;Myles Turner;1;1231.898;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443837;200600;Post;109;Myles Turner;9;Indiana Pacers;;;;;;;1;1231.898;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443838;800201;2+;109;Myles Turner;9;Indiana Pacers;;;;;98;Paul George;1;1231.898;25.67;9.45;;;;;;;;Post;;Hook;;;;2017-12-07 05:21:02.615171
+76443839;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;1;1251.231;26.12;7.59;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 05:21:02.615171
+76443840;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;1;1251.231;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443841;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;1;1251.231;27.08;7.44;;;;;;;;Putbacks;;;;;;2017-12-07 05:21:02.615171
+76443842;100300;Rebound;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;1;1251.231;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443843;800302;3-;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;1251.231;19.49;7.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443844;100300;Rebound;100;Monta Ellis;9;Indiana Pacers;;;;;;;1;1251.231;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443845;800600;2F;100;Monta Ellis;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;1;1251.231;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:21:02.615171
+76443846;100200;Game stop;;;;;;;;;;;1;1251.231;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443847;300100;Foul;9365;Bradley Beal;3300;Washington Wizards;100;Monta Ellis;9;Indiana Pacers;;;1;1251.231;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443848;800102;1-;100;Monta Ellis;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;1;1289.763;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443849;100300;Rebound;;;9;Indiana Pacers;;;;;;;1;1289.763;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443850;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;9366;John Wall;3300;Washington Wizards;;;1;1310.974;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443851;800102;1-;100;Monta Ellis;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;1;1310.974;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443852;100100;Ball in play;;;9;Indiana Pacers;;;;;;;1;1310.974;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443853;100300;Rebound;109;Myles Turner;9;Indiana Pacers;;;;;;;1;1310.974;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443854;400101;Accurate pass;98;Paul George;9;Indiana Pacers;;;;;109;Myles Turner;1;1316.484;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443855;800201;2+;109;Myles Turner;9;Indiana Pacers;;;;;98;Paul George;1;1316.484;26.36;7.65;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:21:02.615171
+76443856;800202;2-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;1;1342.429;26.12;7.56;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 05:21:02.615171
+76443857;100300;Rebound;9365;Bradley Beal;3300;Washington Wizards;;;;;;;1;1342.429;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443858;400101;Accurate pass;9365;Bradley Beal;3300;Washington Wizards;;;;;36741;Drew Gooden;1;1342.429;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443859;800201;2+;36741;Drew Gooden;3300;Washington Wizards;;;;;9365;Bradley Beal;1;1342.429;21.71;11.13;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443860;400101;Accurate pass;109;Myles Turner;9;Indiana Pacers;;;;;102;Lavoy Allen;1;1364.044;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443861;800201;2+;102;Lavoy Allen;9;Indiana Pacers;;;;;100;Monta Ellis;1;1364.044;26.81;8.28;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:21:02.615171
+76443862;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;;;1;1383.506;26.12;3.72;;;;;;;;Hand offs;;Hook;;;;2017-12-07 05:21:02.615171
+76443863;100300;Rebound;109;Myles Turner;9;Indiana Pacers;;;;;;;1;1383.506;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443864;800202;2-;98;Paul George;9;Indiana Pacers;;;;;;;1;1399.104;26.84;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:21:02.615171
+76443865;100300;Rebound;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;1399.104;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443866;1800500;Halftime;;;;;;;;;;;1;1399.104;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443867;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443868;1600500;Guard;102;Lavoy Allen;9;Indiana Pacers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443869;1600500;Guard;106;Glenn Robinson III;9;Indiana Pacers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443870;1600500;Guard;109;Myles Turner;9;Indiana Pacers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443871;1600500;Guard;7246;Chase Budinger;9;Indiana Pacers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443872;1600500;Guard;7854;George Hill;9;Indiana Pacers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443873;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443874;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443875;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443876;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443877;1600500;Guard;36741;Drew Gooden;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443878;100100;Ball in play;;;9;Indiana Pacers;;;;;;;2;12.551;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443879;200300;Pick'n'Roll;109;Myles Turner;9;Indiana Pacers;;;;;7854;George Hill;2;27.551;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:21:02.615171
+76443880;800202;2-;109;Myles Turner;9;Indiana Pacers;;;;;7854;George Hill;2;27.551;23.75;2.43;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:21:02.615171
+76443881;100300;Rebound;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;27.551;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443882;800201;2+;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;35.034;24.29;13.38;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76443883;200300;Pick'n'Roll;102;Lavoy Allen;9;Indiana Pacers;;;;;106;Glenn Robinson III;2;48.512;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:21:02.615171
+76443884;800202;2-;102;Lavoy Allen;9;Indiana Pacers;;;;;106;Glenn Robinson III;2;48.512;21.05;7.83;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:21:02.615171
+76443885;100300;Rebound;9365;Bradley Beal;3300;Washington Wizards;;;;;;;2;48.512;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443886;800201;2+;9365;Bradley Beal;3300;Washington Wizards;;;;;;;2;71.966;23.33;4.41;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76443887;100200;Game stop;;;;;;;;;;;2;85.864;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443888;300100;Foul;7769;Ramon Sessions;3300;Washington Wizards;7854;George Hill;9;Indiana Pacers;;;2;85.864;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443889;100100;Ball in play;;;9;Indiana Pacers;;;;;;;2;98.428;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443890;100400;Steal;13739;DeJuan Blair;3300;Washington Wizards;109;Myles Turner;9;Indiana Pacers;;;2;101.428;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443891;800302;3-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;2;108.237;24.80;0.87;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76443892;100300;Rebound;109;Myles Turner;9;Indiana Pacers;;;;;;;2;108.237;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443893;800202;2-;7246;Chase Budinger;9;Indiana Pacers;;;;;;;2;123.063;25.10;4.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76443894;100300;Rebound;36741;Drew Gooden;3300;Washington Wizards;;;;;;;2;123.063;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443895;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;13739;DeJuan Blair;2;139.384;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443896;800201;2+;13739;DeJuan Blair;3300;Washington Wizards;;;;;9365;Bradley Beal;2;139.384;22.58;7.95;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:21:02.615171
+76443897;800302;3-;7246;Chase Budinger;9;Indiana Pacers;;;;;7854;George Hill;2;157.554;20.96;2.94;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443898;100300;Rebound;36741;Drew Gooden;3300;Washington Wizards;;;;;;;2;157.554;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443899;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;9365;Bradley Beal;2;173.613;25.19;3.78;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 05:21:02.615171
+76443900;100300;Rebound;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;2;173.613;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443901;100400;Steal;106;Glenn Robinson III;9;Indiana Pacers;36741;Drew Gooden;3300;Washington Wizards;;;2;173.479;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443902;100200;Game stop;;;;;;;;;;;2;173.479;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443903;300100;Foul;9661;Gary Neal;3300;Washington Wizards;106;Glenn Robinson III;9;Indiana Pacers;;;2;173.479;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443904;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;36741;Drew Gooden;3300;Washington Wizards;;;2;219.010;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443905;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;9365;Bradley Beal;3300;Washington Wizards;;;2;219.010;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443906;1600500;Guard;3629;Nene Hilario;3300;Washington Wizards;13739;DeJuan Blair;3300;Washington Wizards;;;2;219.010;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443907;100100;Ball in play;;;9;Indiana Pacers;;;;;;;2;219.010;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443908;200300;Pick'n'Roll;109;Myles Turner;9;Indiana Pacers;;;;;7854;George Hill;2;219.010;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:21:02.615171
+76443909;800202;2-;109;Myles Turner;9;Indiana Pacers;;;;;7854;George Hill;2;219.010;21.26;7.65;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:21:02.615171
+76443910;100300;Rebound;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;219.010;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443911;800202;2-;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;227.294;26.51;4.89;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76443912;100300;Rebound;7854;George Hill;9;Indiana Pacers;;;;;;;2;227.294;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443913;200600;Post;109;Myles Turner;9;Indiana Pacers;;;;;;;2;236.781;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443914;800202;2-;109;Myles Turner;9;Indiana Pacers;;;;;;;2;236.781;22.73;4.05;;;;;;;;Post;;Jumper;;;;2017-12-07 05:21:02.615171
+76443915;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;236.781;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443916;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;244.797;26.57;8.52;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76443917;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;244.797;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443918;100200;Game stop;;;;;;;;;;;2;244.797;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443919;300100;Foul;109;Myles Turner;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;2;244.797;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443920;1800600;Timeout;;;;;;;;;;;2;244.797;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443921;1600500;Guard;104;Jordan Hill;9;Indiana Pacers;109;Myles Turner;9;Indiana Pacers;;;2;292.617;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443922;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;292.617;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443923;800202;2-;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;292.617;21.98;9.60;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:21:02.615171
+76443924;100300;Rebound;7854;George Hill;9;Indiana Pacers;;;;;;;2;292.617;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443925;800202;2-;106;Glenn Robinson III;9;Indiana Pacers;;;;;;;2;307.528;26.99;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:21:02.615171
+76443926;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;307.528;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443927;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;313.410;26.72;8.64;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76443928;800202;2-;7854;George Hill;9;Indiana Pacers;;;;;;;2;330.219;26.51;8.37;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:21:02.615171
+76443929;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;330.219;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443930;100200;Game stop;;;;;;;;;;;2;334.150;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443931;100500;Turnover;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;334.150;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443932;100100;Ball in play;;;9;Indiana Pacers;;;;;;;2;346.391;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443933;100200;Game stop;;;;;;;;;;;2;357.391;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443934;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;7246;Chase Budinger;9;Indiana Pacers;;;2;357.391;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443935;100100;Ball in play;;;9;Indiana Pacers;;;;;;;2;369.320;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443936;400101;Accurate pass;104;Jordan Hill;9;Indiana Pacers;;;;;102;Lavoy Allen;2;383.320;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443937;800201;2+;102;Lavoy Allen;9;Indiana Pacers;;;;;104;Jordan Hill;2;383.320;26.99;8.28;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:21:02.615171
+76443938;800302;3-;9661;Gary Neal;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;399.212;26.66;15.00;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443939;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;399.212;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443940;800201;2+;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;399.212;26.72;7.83;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:21:02.615171
+76443941;800202;2-;7854;George Hill;9;Indiana Pacers;;;;;;;2;412.321;26.51;9.81;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 05:21:02.615171
+76443942;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;412.321;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443943;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;9661;Gary Neal;2;420.240;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443944;800301;3+;9661;Gary Neal;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;420.240;21.11;12.30;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76443945;800302;3-;7246;Chase Budinger;9;Indiana Pacers;;;;;104;Jordan Hill;2;449.732;19.58;6.24;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443946;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;2;449.732;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443947;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;455.405;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443948;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;7490;Garrett Temple;2;455.405;26.96;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76443949;100200;Game stop;;;;;;;;;;;2;455.405;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443950;1800600;Timeout;;;9;Indiana Pacers;;;;;;;2;455.405;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443951;1600500;Guard;370972;CJ Miles;9;Indiana Pacers;102;Lavoy Allen;9;Indiana Pacers;;;2;510.918;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443952;100100;Ball in play;;;9;Indiana Pacers;;;;;;;2;510.918;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443953;200600;Post;104;Jordan Hill;9;Indiana Pacers;;;;;;;2;510.918;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443954;800202;2-;104;Jordan Hill;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;2;510.918;26.66;6.90;;;;;;;;Post;;Lay up;;;;2017-12-07 05:21:02.615171
+76443955;100200;Game stop;;;;;;;;;;;2;510.918;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443956;100300;Rebound;;;9;Indiana Pacers;;;;;;;2;510.918;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443957;100100;Ball in play;;;9;Indiana Pacers;;;;;;;2;541.253;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443958;400101;Accurate pass;7246;Chase Budinger;9;Indiana Pacers;;;;;7854;George Hill;2;544.253;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443959;800201;2+;7854;George Hill;9;Indiana Pacers;;;;;7246;Chase Budinger;2;544.253;26.42;5.70;;;;;;;;Cut;;Hook;;;;2017-12-07 05:21:02.615171
+76443960;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;9661;Gary Neal;2;561.700;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443961;800201;2+;9661;Gary Neal;3300;Washington Wizards;;;;;9366;John Wall;2;561.700;23.12;4.71;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 05:21:02.615171
+76443962;200600;Post;104;Jordan Hill;9;Indiana Pacers;;;;;;;2;584.954;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443963;800202;2-;104;Jordan Hill;9;Indiana Pacers;;;;;;;2;584.954;26.84;12.69;;;;;;;;Post;;Jumper;;;;2017-12-07 05:21:02.615171
+76443964;100300;Rebound;7854;George Hill;9;Indiana Pacers;;;;;;;2;584.954;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443965;800202;2-;7854;George Hill;9;Indiana Pacers;;;;;;;2;584.954;27.23;7.35;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:21:02.615171
+76443966;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;584.954;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443967;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;7490;Garrett Temple;2;600.070;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443968;800301;3+;7490;Garrett Temple;3300;Washington Wizards;;;;;3629;Nene Hilario;2;600.070;26.84;14.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76443969;400101;Accurate pass;104;Jordan Hill;9;Indiana Pacers;;;;;7854;George Hill;2;612.226;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443970;800201;2+;7854;George Hill;9;Indiana Pacers;;;;;104;Jordan Hill;2;612.226;26.81;7.11;;;;;;;;Cut;;;;;;2017-12-07 05:21:02.615171
+76443971;100400;Steal;370972;CJ Miles;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;2;626.755;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443972;400101;Accurate pass;7246;Chase Budinger;9;Indiana Pacers;;;;;7854;George Hill;2;633.818;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443973;800301;3+;7854;George Hill;9;Indiana Pacers;;;;;7246;Chase Budinger;2;633.818;26.42;14.97;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76443974;100200;Game stop;;;;;;;;;;;2;643.032;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443975;1800600;Timeout;;;3300;Washington Wizards;;;;;;;2;643.032;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443976;1600500;Guard;100;Monta Ellis;9;Indiana Pacers;7854;George Hill;9;Indiana Pacers;;;2;681.802;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443977;1600500;Guard;98;Paul George;9;Indiana Pacers;106;Glenn Robinson III;9;Indiana Pacers;;;2;681.802;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443978;1600500;Guard;9366;John Wall;3300;Washington Wizards;7769;Ramon Sessions;3300;Washington Wizards;;;2;681.802;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443979;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;681.802;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443980;800600;2F;9366;John Wall;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;2;681.802;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:21:02.615171
+76443981;100200;Game stop;;;;;;;;;;;2;681.802;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443982;300100;Foul;370972;CJ Miles;9;Indiana Pacers;9366;John Wall;3300;Washington Wizards;;;2;681.802;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443983;800101;1+;9366;John Wall;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;2;710.204;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443984;800102;1-;9366;John Wall;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;2;728.523;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443985;100300;Rebound;104;Jordan Hill;9;Indiana Pacers;;;;;;;2;728.523;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443986;100100;Ball in play;;;9;Indiana Pacers;;;;;;;2;728.523;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443987;800302;3-;98;Paul George;9;Indiana Pacers;;;;;;;2;753.084;20.81;12.21;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 05:21:02.615171
+76443988;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;753.084;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443989;100200;Game stop;;;;;;;;;;;2;806.712;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443990;1600500;Guard;7854;George Hill;9;Indiana Pacers;7246;Chase Budinger;9;Indiana Pacers;;;2;806.712;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443991;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;806.712;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76443992;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;806.712;26.96;6.03;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 05:21:02.615171
+76443993;100300;Rebound;370972;CJ Miles;9;Indiana Pacers;;;;;;;2;806.712;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443994;800202;2-;100;Monta Ellis;9;Indiana Pacers;;;;;;;2;813.433;26.57;8.34;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76443995;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;2;813.433;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443996;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;;;2;820.431;25.97;14.52;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76443997;100300;Rebound;104;Jordan Hill;9;Indiana Pacers;;;;;;;2;820.431;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76443998;800600;2F;104;Jordan Hill;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;;;2;836.935;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 05:21:02.615171
+76443999;100200;Game stop;;;;;;;;;;;2;836.935;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444000;300100;Foul;7490;Garrett Temple;3300;Washington Wizards;104;Jordan Hill;9;Indiana Pacers;;;2;836.935;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444001;800101;1+;104;Jordan Hill;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;;;2;862.618;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444002;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;3629;Nene Hilario;3300;Washington Wizards;;;2;886.328;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444003;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;9661;Gary Neal;3300;Washington Wizards;;;2;886.328;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444004;800102;1-;104;Jordan Hill;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;;;2;886.328;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444005;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;886.328;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444006;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;886.328;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444007;400101;Accurate pass;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;2;899.966;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444008;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;13739;DeJuan Blair;2;899.966;26.57;7.02;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:21:02.615171
+76444009;800202;2-;7854;George Hill;9;Indiana Pacers;;;;;100;Monta Ellis;2;912.465;26.96;7.11;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:21:02.615171
+76444010;100300;Rebound;7854;George Hill;9;Indiana Pacers;;;;;;;2;912.465;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444011;800201;2+;7854;George Hill;9;Indiana Pacers;;;;;;;2;912.465;26.57;7.02;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:21:02.615171
+76444012;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;13739;DeJuan Blair;2;922.153;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444013;200300;Pick'n'Roll;13739;DeJuan Blair;3300;Washington Wizards;;;;;7490;Garrett Temple;2;922.153;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444014;800201;2+;13739;DeJuan Blair;3300;Washington Wizards;;;;;7490;Garrett Temple;2;922.153;24.05;6.09;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 05:21:02.615171
+76444015;800201;2+;100;Monta Ellis;9;Indiana Pacers;;;;;;;2;931.391;23.75;7.95;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 05:21:02.615171
+76444016;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9365;Bradley Beal;2;951.359;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444017;800301;3+;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;2;951.359;19.73;5.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444018;800201;2+;100;Monta Ellis;9;Indiana Pacers;;;;;;;2;964.229;26.36;8.73;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:21:02.615171
+76444019;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;2;971.423;26.84;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444020;800202;2-;98;Paul George;9;Indiana Pacers;;;;;;;2;986.144;21.56;6.90;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444021;100300;Rebound;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;2;986.144;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444022;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9365;Bradley Beal;2;996.795;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444023;800301;3+;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;2;996.795;24.20;0.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444024;800201;2+;7854;George Hill;9;Indiana Pacers;;;;;;;2;1015.723;24.50;12.21;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444025;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;2;1023.045;27.05;8.28;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444026;800600;2F;7854;George Hill;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;2;1030.008;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:21:02.615171
+76444027;100200;Game stop;;;;;;;;;;;2;1030.008;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444028;300100;Foul;9365;Bradley Beal;3300;Washington Wizards;7854;George Hill;9;Indiana Pacers;;;2;1030.008;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444029;800101;1+;7854;George Hill;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;2;1070.445;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444030;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;9365;Bradley Beal;3300;Washington Wizards;;;2;1100.123;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444031;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;2;1100.123;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444032;1600500;Guard;99;Ian Mahinmi;9;Indiana Pacers;104;Jordan Hill;9;Indiana Pacers;;;2;1100.123;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444033;1600500;Guard;102;Lavoy Allen;9;Indiana Pacers;370972;CJ Miles;9;Indiana Pacers;;;2;1100.123;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444034;800102;1-;7854;George Hill;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;2;1100.123;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444035;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;2;1100.123;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444036;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;1100.123;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444037;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;2;1109.914;21.80;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444038;100300;Rebound;99;Ian Mahinmi;9;Indiana Pacers;;;;;;;2;1109.914;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444039;100200;Game stop;;;;;;;;;;;2;1122.764;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444040;300100;Foul;98;Paul George;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;;;2;1122.764;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444041;100500;Turnover;98;Paul George;9;Indiana Pacers;;;;;;;2;1122.764;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444042;1800600;Timeout;;;3300;Washington Wizards;;;;;;;2;1122.764;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444043;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;2;1190.027;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444044;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;7769;Ramon Sessions;3300;Washington Wizards;;;2;1190.027;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444045;1600500;Guard;7246;Chase Budinger;9;Indiana Pacers;7854;George Hill;9;Indiana Pacers;;;2;1190.027;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444046;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;1190.027;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444047;100400;Steal;99;Ian Mahinmi;9;Indiana Pacers;9366;John Wall;3300;Washington Wizards;;;2;1190.027;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444048;800202;2-;100;Monta Ellis;9;Indiana Pacers;;;;;;;2;1198.243;26.72;12.84;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76444049;100300;Rebound;;;9;Indiana Pacers;;;;;;;2;1198.243;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444050;1800500;Halftime;;;;;;;;;;;2;1198.243;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444051;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444052;1600500;Guard;98;Paul George;9;Indiana Pacers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444053;1600500;Guard;99;Ian Mahinmi;9;Indiana Pacers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444054;1600500;Guard;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444055;1600500;Guard;7854;George Hill;9;Indiana Pacers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444056;1600500;Guard;370972;CJ Miles;9;Indiana Pacers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444057;1600500;Guard;3629;Nene Hilario;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444058;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444059;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444060;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444061;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444062;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;11.135;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444063;400101;Accurate pass;100;Monta Ellis;9;Indiana Pacers;;;;;98;Paul George;3;27.135;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444064;800301;3+;98;Paul George;9;Indiana Pacers;;;;;100;Monta Ellis;3;27.135;21.56;2.55;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:21:02.615171
+76444065;200300;Pick'n'Roll;3629;Nene Hilario;3300;Washington Wizards;;;;;7490;Garrett Temple;3;64.784;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:21:02.615171
+76444066;800202;2-;3629;Nene Hilario;3300;Washington Wizards;;;;;7490;Garrett Temple;3;64.784;20.75;7.80;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:21:02.615171
+76444067;100300;Rebound;7854;George Hill;9;Indiana Pacers;;;;;;;3;64.784;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444068;800202;2-;98;Paul George;9;Indiana Pacers;;;;;;;3;73.596;23.60;4.02;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 05:21:02.615171
+76444069;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;73.596;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444070;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;3;92.194;21.83;6.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444071;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;3;92.194;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444072;200600;Post;3629;Nene Hilario;3300;Washington Wizards;;;;;;;3;92.194;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444073;800201;2+;3629;Nene Hilario;3300;Washington Wizards;;;;;;;3;92.194;25.10;8.67;;;;;;;;Post;;Hook;;;;2017-12-07 05:21:02.615171
+76444074;100200;Game stop;;;;;;;;;;;3;102.302;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444075;300100;Foul;7490;Garrett Temple;3300;Washington Wizards;98;Paul George;9;Indiana Pacers;;;3;102.302;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444076;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;118.780;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444077;100200;Game stop;;;;;;;;;;;3;132.780;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444078;300100;Foul;7490;Garrett Temple;3300;Washington Wizards;100;Monta Ellis;9;Indiana Pacers;;;3;132.780;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444079;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;151.779;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444080;800302;3-;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;165.779;20.63;11.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444081;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;3;165.779;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444082;800400;2+1;9366;John Wall;3300;Washington Wizards;;;;;;;3;172.266;26.72;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444083;100200;Game stop;;;;;;;;;;;3;172.266;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444084;300100;Foul;100;Monta Ellis;9;Indiana Pacers;9366;John Wall;3300;Washington Wizards;;;3;172.266;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444085;800101;1+;9366;John Wall;3300;Washington Wizards;100;Monta Ellis;9;Indiana Pacers;;;3;196.175;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444086;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;200.499;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444087;100200;Game stop;;;;;;;;;;;3;217.499;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444088;300100;Foul;9366;John Wall;3300;Washington Wizards;7854;George Hill;9;Indiana Pacers;;;3;217.499;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444089;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;230.528;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444090;400101;Accurate pass;98;Paul George;9;Indiana Pacers;;;;;99;Ian Mahinmi;3;234.528;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444091;800201;2+;99;Ian Mahinmi;9;Indiana Pacers;;;;;98;Paul George;3;234.528;27.08;7.05;;;;;;;;Cut;;;;;;2017-12-07 05:21:02.615171
+76444092;100200;Game stop;;;;;;;;;;;3;241.694;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444093;100500;Turnover;9366;John Wall;3300;Washington Wizards;;;;;;;3;241.694;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444094;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;249.053;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444095;400101;Accurate pass;98;Paul George;9;Indiana Pacers;;;;;99;Ian Mahinmi;3;263.053;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444096;800201;2+;99;Ian Mahinmi;9;Indiana Pacers;;;;;98;Paul George;3;263.053;26.84;7.20;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:21:02.615171
+76444097;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;277.914;22.67;1.26;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:21:02.615171
+76444098;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;3;277.914;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444099;800302;3-;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;3;285.819;26.51;15.06;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444100;100200;Game stop;;;;;;;;;;;3;285.819;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444101;100300;Rebound;;;3300;Washington Wizards;;;;;;;3;285.819;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444102;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;299.340;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444103;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;3;313.340;26.42;8.13;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 05:21:02.615171
+76444104;400101;Accurate pass;370972;CJ Miles;9;Indiana Pacers;;;;;7854;George Hill;3;324.053;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444105;800301;3+;7854;George Hill;9;Indiana Pacers;;;;;370972;CJ Miles;3;324.053;20.18;11.22;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76444106;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;3;337.153;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444107;800301;3+;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;3;337.153;19.49;7.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444108;800201;2+;7854;George Hill;9;Indiana Pacers;;;;;;;3;350.342;26.81;8.22;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:21:02.615171
+76444109;400101;Accurate pass;3629;Nene Hilario;3300;Washington Wizards;;;;;7490;Garrett Temple;3;368.835;;;;;;;;;;Hand offs;;;;;;2017-12-07 05:21:02.615171
+76444110;800201;2+;7490;Garrett Temple;3300;Washington Wizards;;;;;3629;Nene Hilario;3;368.835;26.99;7.59;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 05:21:02.615171
+76444111;800302;3-;7854;George Hill;9;Indiana Pacers;;;;;;;3;382.967;21.56;2.25;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:21:02.615171
+76444112;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;3;382.967;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444113;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;3;399.786;22.58;10.68;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444114;100200;Game stop;;;;;;;;;;;3;399.786;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444115;1800600;Timeout;;;9;Indiana Pacers;;;;;;;3;399.786;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444116;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;432.302;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444117;200300;Pick'n'Roll;99;Ian Mahinmi;9;Indiana Pacers;;;;;;;3;452.302;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444118;800600;2F;99;Ian Mahinmi;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;3;452.302;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 05:21:02.615171
+76444119;100200;Game stop;;;;;;;;;;;3;452.302;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444120;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;3;452.302;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444121;800101;1+;99;Ian Mahinmi;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;3;474.002;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444122;800102;1-;99;Ian Mahinmi;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;3;488.790;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444123;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;488.790;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444124;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;488.790;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444125;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;3;510.706;23.33;3.33;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444126;100300;Rebound;99;Ian Mahinmi;9;Indiana Pacers;;;;;;;3;510.706;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444127;200600;Post;98;Paul George;9;Indiana Pacers;;;;;;;3;521.502;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444128;800600;2F;98;Paul George;9;Indiana Pacers;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;3;521.502;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 05:21:02.615171
+76444129;100200;Game stop;;;;;;;;;;;3;521.502;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444130;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;98;Paul George;9;Indiana Pacers;;;3;521.502;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444131;800101;1+;98;Paul George;9;Indiana Pacers;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;3;546.265;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444132;800101;1+;98;Paul George;9;Indiana Pacers;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;3;562.172;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444133;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;565.593;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444134;800600;2F;9368;Kelly Oubre Jr.;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;3;582.593;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 05:21:02.615171
+76444135;100200;Game stop;;;;;;;;;;;3;582.593;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444136;300100;Foul;99;Ian Mahinmi;9;Indiana Pacers;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;3;582.593;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444137;800102;1-;9368;Kelly Oubre Jr.;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;3;608.204;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444138;100300;Rebound;;;3300;Washington Wizards;;;;;;;3;608.204;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444139;800101;1+;9368;Kelly Oubre Jr.;3300;Washington Wizards;99;Ian Mahinmi;9;Indiana Pacers;;;3;622.503;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444140;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;627.046;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444141;200600;Post;98;Paul George;9;Indiana Pacers;;;;;;;3;644.046;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444142;800202;2-;98;Paul George;9;Indiana Pacers;;;;;;;3;644.046;26.84;2.85;;;;;;;;Post;;Jumper;;;;2017-12-07 05:21:02.615171
+76444143;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;3;644.046;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444144;800302;3-;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;659.811;25.91;0.66;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76444145;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;3;659.811;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444146;800202;2-;7490;Garrett Temple;3300;Washington Wizards;100;Monta Ellis;9;Indiana Pacers;;;3;659.811;26.96;7.95;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:21:02.615171
+76444147;100300;Rebound;7854;George Hill;9;Indiana Pacers;;;;;;;3;659.811;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444148;100400;Steal;3629;Nene Hilario;3300;Washington Wizards;98;Paul George;9;Indiana Pacers;;;3;667.532;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444149;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;3629;Nene Hilario;3;691.019;19.79;5.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444150;100300;Rebound;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;691.019;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444151;100200;Game stop;;;;;;;;;;;3;741.824;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444152;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;3629;Nene Hilario;3300;Washington Wizards;;;3;741.824;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444153;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;3;741.824;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444154;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;741.824;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444155;400101;Accurate pass;98;Paul George;9;Indiana Pacers;;;;;99;Ian Mahinmi;3;741.824;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444156;200300;Pick'n'Roll;99;Ian Mahinmi;9;Indiana Pacers;;;;;7854;George Hill;3;741.824;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444157;800201;2+;99;Ian Mahinmi;9;Indiana Pacers;;;;;7854;George Hill;3;741.824;26.66;7.32;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 05:21:02.615171
+76444158;800400;2+1;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;760.912;23.45;9.72;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 05:21:02.615171
+76444159;100200;Game stop;;;;;;;;;;;3;760.912;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444160;300100;Foul;370972;CJ Miles;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;3;760.912;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444161;800102;1-;9365;Bradley Beal;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;3;788.162;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444162;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;788.162;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444163;100200;Game stop;;;;;;;;;;;3;788.162;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444164;100300;Rebound;;;9;Indiana Pacers;;;;;;;3;788.162;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444165;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;795.084;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444166;800302;3-;370972;CJ Miles;9;Indiana Pacers;;;;;7854;George Hill;3;807.084;21.50;2.55;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444167;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;3;807.084;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444168;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9365;Bradley Beal;3;822.419;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444169;800301;3+;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;3;822.419;26.12;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444170;800201;2+;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;837.385;26.72;2.55;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444171;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;13739;DeJuan Blair;3;846.487;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444172;800201;2+;13739;DeJuan Blair;3300;Washington Wizards;;;;;7490;Garrett Temple;3;846.487;26.57;6.90;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444173;800201;2+;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;861.937;26.99;8.67;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 05:21:02.615171
+76444174;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;3;874.791;21.95;9.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444175;100200;Game stop;;;;;;;;;;;3;874.791;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444176;1800600;Timeout;;;9;Indiana Pacers;;;;;;;3;874.791;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444177;1600500;Guard;109;Myles Turner;9;Indiana Pacers;370972;CJ Miles;9;Indiana Pacers;;;3;917.672;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444178;1600500;Guard;8400;Solomon Hill;9;Indiana Pacers;99;Ian Mahinmi;9;Indiana Pacers;;;3;917.672;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444179;1600500;Guard;102;Lavoy Allen;9;Indiana Pacers;7854;George Hill;9;Indiana Pacers;;;3;917.672;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444180;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;917.672;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444181;800600;2F;98;Paul George;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;3;917.672;27.05;7.62;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444182;100200;Game stop;;;;;;;;;;;3;917.672;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444183;300100;Foul;13739;DeJuan Blair;3300;Washington Wizards;98;Paul George;9;Indiana Pacers;;;3;917.672;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444184;800101;1+;98;Paul George;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;3;941.469;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444185;800101;1+;98;Paul George;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;3;960.285;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444186;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;962.424;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444187;100200;Game stop;;;;;;;;;;;3;981.424;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444188;1800600;Timeout;;;3300;Washington Wizards;;;;;;;3;981.424;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444189;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;1022.157;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444190;800302;3-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;1028.157;26.36;0.81;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:21:02.615171
+76444191;100300;Rebound;98;Paul George;9;Indiana Pacers;;;;;;;3;1028.157;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444192;800302;3-;98;Paul George;9;Indiana Pacers;;;;;;;3;1044.164;21.26;2.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444193;100300;Rebound;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;1044.164;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444194;100200;Game stop;;;;;;;;;;;3;1049.509;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444195;100500;Turnover;9366;John Wall;3300;Washington Wizards;;;;;;;3;1049.509;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444196;100100;Ball in play;;;9;Indiana Pacers;;;;;;;3;1057.667;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444197;800202;2-;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;1072.667;23.42;5.19;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444198;100300;Rebound;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;3;1072.667;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444199;800202;2-;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;3;1084.153;26.21;7.35;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:21:02.615171
+76444200;100300;Rebound;102;Lavoy Allen;9;Indiana Pacers;;;;;;;3;1084.153;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444201;800202;2-;102;Lavoy Allen;9;Indiana Pacers;;;;;;;3;1096.945;26.84;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444202;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;1096.945;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444203;100400;Steal;98;Paul George;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;;;3;1096.945;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444204;800600;2F;102;Lavoy Allen;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;3;1096.945;27.05;7.62;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444205;100200;Game stop;;;;;;;;;;;3;1096.945;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444206;300100;Foul;13739;DeJuan Blair;3300;Washington Wizards;102;Lavoy Allen;9;Indiana Pacers;;;3;1096.945;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444207;800102;1-;102;Lavoy Allen;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;3;1123.449;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444208;100300;Rebound;;;9;Indiana Pacers;;;;;;;3;1123.449;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444209;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;9366;John Wall;3300;Washington Wizards;;;3;1141.669;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444210;800101;1+;102;Lavoy Allen;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;3;1141.669;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444211;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;1141.669;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444212;100200;Game stop;;;;;;;;;;;3;1141.669;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444213;1600500;Guard;36741;Drew Gooden;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;3;1141.669;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444214;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;1177.058;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444215;800202;2-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;1181.058;23.90;8.10;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:21:02.615171
+76444216;100300;Rebound;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;1181.058;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444217;200300;Pick'n'Roll;36741;Drew Gooden;3300;Washington Wizards;;;;;7769;Ramon Sessions;3;1196.680;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:21:02.615171
+76444218;800202;2-;36741;Drew Gooden;3300;Washington Wizards;;;;;7769;Ramon Sessions;3;1196.680;20.63;7.35;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:21:02.615171
+76444219;100300;Rebound;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;1196.680;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444220;800600;2F;98;Paul George;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;;;3;1207.334;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 05:21:02.615171
+76444221;100200;Game stop;;;;;;;;;;;3;1207.334;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444222;300100;Foul;7490;Garrett Temple;3300;Washington Wizards;98;Paul George;9;Indiana Pacers;;;3;1207.334;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444223;800101;1+;98;Paul George;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;;;3;1237.741;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444224;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;7490;Garrett Temple;3300;Washington Wizards;;;3;1262.262;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444225;800101;1+;98;Paul George;9;Indiana Pacers;7490;Garrett Temple;3300;Washington Wizards;;;3;1262.262;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444226;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;1264.647;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444227;800201;2+;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;1287.047;26.51;4.47;;;;;;;;Isolation;;Floater;Drives Right;;;2017-12-07 05:21:02.615171
+76444228;800302;3-;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;1303.204;19.73;5.94;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:21:02.615171
+76444229;100300;Rebound;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;1303.204;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444230;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;9661;Gary Neal;3;1324.647;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444231;800301;3+;9661;Gary Neal;3300;Washington Wizards;;;;;7769;Ramon Sessions;3;1324.647;20.51;11.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444232;800202;2-;98;Paul George;9;Indiana Pacers;;;;;;;3;1338.573;22.43;8.97;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 05:21:02.615171
+76444233;100300;Rebound;;;9;Indiana Pacers;;;;;;;3;1338.573;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444234;1800500;Halftime;;;;;;;;;;;3;1338.573;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444235;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444236;1600500;Guard;98;Paul George;9;Indiana Pacers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444237;1600500;Guard;100;Monta Ellis;9;Indiana Pacers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444238;1600500;Guard;102;Lavoy Allen;9;Indiana Pacers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444239;1600500;Guard;109;Myles Turner;9;Indiana Pacers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444240;1600500;Guard;7854;George Hill;9;Indiana Pacers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444241;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444242;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444243;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444244;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444245;1600500;Guard;36741;Drew Gooden;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444246;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;14.395;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444247;100200;Game stop;;;;;;;;;;;4;30.395;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444248;100500;Turnover;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;30.395;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444249;100100;Ball in play;;;9;Indiana Pacers;;;;;;;4;48.781;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444250;800302;3-;98;Paul George;9;Indiana Pacers;;;;;;;4;61.781;19.94;9.57;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:21:02.615171
+76444251;100300;Rebound;7854;George Hill;9;Indiana Pacers;;;;;;;4;61.781;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444252;200300;Pick'n'Roll;109;Myles Turner;9;Indiana Pacers;;;;;7854;George Hill;4;73.434;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444253;800202;2-;109;Myles Turner;9;Indiana Pacers;;;;;7854;George Hill;4;73.434;22.97;5.28;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 05:21:02.615171
+76444254;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;73.434;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444255;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;36741;Drew Gooden;4;85.395;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444256;200300;Pick'n'Roll;36741;Drew Gooden;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;85.395;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:21:02.615171
+76444257;800201;2+;36741;Drew Gooden;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;85.395;22.43;11.73;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:21:02.615171
+76444258;400101;Accurate pass;98;Paul George;9;Indiana Pacers;;;;;102;Lavoy Allen;4;99.913;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444259;200300;Pick'n'Roll;102;Lavoy Allen;9;Indiana Pacers;;;;;98;Paul George;4;99.913;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444260;800400;2+1;102;Lavoy Allen;9;Indiana Pacers;;;;;98;Paul George;4;99.913;26.81;6.78;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 05:21:02.615171
+76444261;100200;Game stop;;;;;;;;;;;4;99.913;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444262;300100;Foul;36741;Drew Gooden;3300;Washington Wizards;102;Lavoy Allen;9;Indiana Pacers;;;4;99.913;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444263;800101;1+;102;Lavoy Allen;9;Indiana Pacers;36741;Drew Gooden;3300;Washington Wizards;;;4;125.441;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444264;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;127.914;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444265;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;146.914;22.52;8.13;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 05:21:02.615171
+76444266;800600;2F;98;Paul George;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;4;157.683;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:21:02.615171
+76444267;100200;Game stop;;;;;;;;;;;4;157.683;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444268;300100;Foul;13739;DeJuan Blair;3300;Washington Wizards;98;Paul George;9;Indiana Pacers;;;4;157.683;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444269;800101;1+;98;Paul George;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;4;190.655;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444270;800101;1+;98;Paul George;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;4;212.606;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444271;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;252.344;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444272;200600;Post;36741;Drew Gooden;3300;Washington Wizards;;;;;;;4;272.344;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444273;800202;2-;36741;Drew Gooden;3300;Washington Wizards;;;;;;;4;272.344;26.57;4.86;;;;;;;;Post;;Hook;;;;2017-12-07 05:21:02.615171
+76444274;100300;Rebound;7854;George Hill;9;Indiana Pacers;;;;;;;4;272.344;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444275;100200;Game stop;;;;;;;;;;;4;274.303;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444276;300100;Foul;7769;Ramon Sessions;3300;Washington Wizards;7854;George Hill;9;Indiana Pacers;;;4;274.303;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444277;100100;Ball in play;;;9;Indiana Pacers;;;;;;;4;289.987;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444278;800302;3-;98;Paul George;9;Indiana Pacers;;;;;;;4;300.987;23.90;1.11;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:21:02.615171
+76444279;100300;Rebound;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;300.987;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444280;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;313.568;26.66;3.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444281;100300;Rebound;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;313.568;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444282;800201;2+;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;313.568;26.51;6.63;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:21:02.615171
+76444283;400101;Accurate pass;102;Lavoy Allen;9;Indiana Pacers;;;;;98;Paul George;4;327.637;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444284;800201;2+;98;Paul George;9;Indiana Pacers;;;;;102;Lavoy Allen;4;327.637;26.96;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:21:02.615171
+76444285;800201;2+;9365;Bradley Beal;3300;Washington Wizards;;;;;;;4;344.757;24.80;11.43;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 05:21:02.615171
+76444286;200300;Pick'n'Roll;98;Paul George;9;Indiana Pacers;;;;;7854;George Hill;4;356.498;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444287;800302;3-;98;Paul George;9;Indiana Pacers;;;;;7854;George Hill;4;356.498;26.72;15.27;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 05:21:02.615171
+76444288;100300;Rebound;9661;Gary Neal;3300;Washington Wizards;;;;;;;4;356.498;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444289;100200;Game stop;;;;;;;;;;;4;368.155;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444290;300100;Foul;98;Paul George;9;Indiana Pacers;9661;Gary Neal;3300;Washington Wizards;;;4;368.155;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444291;1800600;Timeout;;;;;;;;;;;4;368.155;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444292;1600500;Guard;9366;John Wall;3300;Washington Wizards;9365;Bradley Beal;3300;Washington Wizards;;;4;413.679;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444293;1600500;Guard;7246;Chase Budinger;9;Indiana Pacers;98;Paul George;9;Indiana Pacers;;;4;413.679;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444294;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;413.679;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444295;800202;2-;9661;Gary Neal;3300;Washington Wizards;;;;;9366;John Wall;4;413.679;26.66;12.75;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 05:21:02.615171
+76444296;100300;Rebound;102;Lavoy Allen;9;Indiana Pacers;;;;;;;4;413.679;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444297;400101;Accurate pass;7854;George Hill;9;Indiana Pacers;;;;;102;Lavoy Allen;4;428.500;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444298;800201;2+;102;Lavoy Allen;9;Indiana Pacers;;;;;7854;George Hill;4;428.500;22.28;9.18;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:21:02.615171
+76444299;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;13739;DeJuan Blair;4;451.879;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444300;200300;Pick'n'Roll;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;4;451.879;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444301;800201;2+;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;4;451.879;27.20;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 05:21:02.615171
+76444302;100400;Steal;7769;Ramon Sessions;3300;Washington Wizards;7854;George Hill;9;Indiana Pacers;;;4;469.816;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444303;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;475.142;26.84;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444304;100200;Game stop;;;;;;;;;;;4;475.142;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444305;1800600;Timeout;;;9;Indiana Pacers;;;;;;;4;475.142;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444306;1600500;Guard;99;Ian Mahinmi;9;Indiana Pacers;109;Myles Turner;9;Indiana Pacers;;;4;529.028;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444307;1600500;Guard;370972;CJ Miles;9;Indiana Pacers;7246;Chase Budinger;9;Indiana Pacers;;;4;529.028;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444308;100100;Ball in play;;;9;Indiana Pacers;;;;;;;4;529.028;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444309;800302;3-;370972;CJ Miles;9;Indiana Pacers;;;;;;;4;529.028;26.42;15.00;;;;;;;;;;Jumper;;;;2017-12-07 05:21:02.615171
+76444310;100300;Rebound;370972;CJ Miles;9;Indiana Pacers;;;;;;;4;529.028;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444311;800201;2+;102;Lavoy Allen;9;Indiana Pacers;;;;;;;4;529.028;27.05;7.11;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:21:02.615171
+76444312;800302;3-;36741;Drew Gooden;3300;Washington Wizards;;;;;;;4;549.878;25.97;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444313;100300;Rebound;99;Ian Mahinmi;9;Indiana Pacers;;;;;;;4;549.878;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444314;100200;Game stop;;;;;;;;;;;4;558.775;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444315;300100;Foul;36741;Drew Gooden;3300;Washington Wizards;102;Lavoy Allen;9;Indiana Pacers;;;4;558.775;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444316;100100;Ball in play;;;9;Indiana Pacers;;;;;;;4;577.716;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444317;800202;2-;100;Monta Ellis;9;Indiana Pacers;;;;;;;4;580.716;25.22;6.48;;;;;;;;Screen off;;Floater;;;;2017-12-07 05:21:02.615171
+76444318;100300;Rebound;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;580.716;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444319;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;4;593.153;25.10;3.09;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444320;800600;2F;100;Monta Ellis;9;Indiana Pacers;36741;Drew Gooden;3300;Washington Wizards;;;4;607.410;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:21:02.615171
+76444321;100200;Game stop;;;;;;;;;;;4;607.410;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444322;300100;Foul;36741;Drew Gooden;3300;Washington Wizards;100;Monta Ellis;9;Indiana Pacers;;;4;607.410;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444323;800101;1+;100;Monta Ellis;9;Indiana Pacers;36741;Drew Gooden;3300;Washington Wizards;;;4;637.771;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444324;800101;1+;100;Monta Ellis;9;Indiana Pacers;36741;Drew Gooden;3300;Washington Wizards;;;4;656.815;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444325;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;660.415;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444326;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;36741;Drew Gooden;4;675.415;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444327;200300;Pick'n'Roll;36741;Drew Gooden;3300;Washington Wizards;;;;;9366;John Wall;4;675.415;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:21:02.615171
+76444328;800201;2+;36741;Drew Gooden;3300;Washington Wizards;;;;;9366;John Wall;4;675.415;23.03;12.15;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:21:02.615171
+76444329;800201;2+;100;Monta Ellis;9;Indiana Pacers;;;;;;;4;683.817;25.91;9.75;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76444330;100400;Steal;7854;George Hill;9;Indiana Pacers;9661;Gary Neal;3300;Washington Wizards;;;4;710.580;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444331;800201;2+;7854;George Hill;9;Indiana Pacers;;;;;;;4;714.255;26.51;8.22;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444332;100200;Game stop;;;;;;;;;;;4;714.255;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444333;1800600;Timeout;;;3300;Washington Wizards;;;;;;;4;714.255;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444334;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;9661;Gary Neal;3300;Washington Wizards;;;4;765.804;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444335;1600500;Guard;3629;Nene Hilario;3300;Washington Wizards;13739;DeJuan Blair;3300;Washington Wizards;;;4;765.804;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444336;1600500;Guard;98;Paul George;9;Indiana Pacers;102;Lavoy Allen;9;Indiana Pacers;;;4;765.804;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444337;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;36741;Drew Gooden;3300;Washington Wizards;;;4;765.804;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444338;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;765.804;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444339;100200;Game stop;;;;;;;;;;;4;765.804;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444340;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;4;765.804;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444341;100500;Turnover;3629;Nene Hilario;3300;Washington Wizards;;;;;;;4;765.804;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444342;100100;Ball in play;;;9;Indiana Pacers;;;;;;;4;777.461;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444343;800202;2-;98;Paul George;9;Indiana Pacers;;;;;;;4;795.461;26.84;6.72;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 05:21:02.615171
+76444344;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;4;795.461;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444345;400101;Accurate pass;3629;Nene Hilario;3300;Washington Wizards;;;;;9365;Bradley Beal;4;817.265;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444346;800301;3+;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;4;817.265;25.52;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444347;800600;2F;370972;CJ Miles;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;4;827.894;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:21:02.615171
+76444348;100200;Game stop;;;;;;;;;;;4;827.894;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444349;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;370972;CJ Miles;9;Indiana Pacers;;;4;827.894;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444350;800101;1+;370972;CJ Miles;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;4;852.064;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444351;1600500;Guard;8400;Solomon Hill;9;Indiana Pacers;99;Ian Mahinmi;9;Indiana Pacers;;;4;869.091;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444352;800101;1+;370972;CJ Miles;9;Indiana Pacers;3629;Nene Hilario;3300;Washington Wizards;;;4;869.091;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444353;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;872.560;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444354;100400;Steal;98;Paul George;9;Indiana Pacers;9365;Bradley Beal;3300;Washington Wizards;;;4;888.560;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444355;800302;3-;7854;George Hill;9;Indiana Pacers;;;;;;;4;894.241;26.42;0.48;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76444356;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;894.241;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444357;800302;3-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;4;904.039;20.66;11.76;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:21:02.615171
+76444358;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;4;904.039;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444359;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;4;916.568;26.66;7.44;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 05:21:02.615171
+76444360;100400;Steal;7769;Ramon Sessions;3300;Washington Wizards;98;Paul George;9;Indiana Pacers;;;4;928.819;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444361;100200;Game stop;;;;;;;;;;;4;937.636;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444362;300100;Foul;98;Paul George;9;Indiana Pacers;9366;John Wall;3300;Washington Wizards;;;4;937.636;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444363;1800600;Timeout;;;9;Indiana Pacers;;;;;;;4;937.636;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444364;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;3629;Nene Hilario;3300;Washington Wizards;;;4;991.458;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444365;1600500;Guard;108;Joe Young;9;Indiana Pacers;370972;CJ Miles;9;Indiana Pacers;;;4;991.458;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444366;1600500;Guard;7246;Chase Budinger;9;Indiana Pacers;98;Paul George;9;Indiana Pacers;;;4;991.458;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444367;1600500;Guard;106;Glenn Robinson III;9;Indiana Pacers;100;Monta Ellis;9;Indiana Pacers;;;4;991.458;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444368;1600500;Guard;109;Myles Turner;9;Indiana Pacers;7854;George Hill;9;Indiana Pacers;;;4;991.458;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444369;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;991.458;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444370;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;4;991.458;23.18;4.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:21:02.615171
+76444371;100200;Game stop;;;;;;;;;;;4;1036.249;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444372;1600500;Guard;14021;Jarell Eddie;3300;Washington Wizards;9366;John Wall;3300;Washington Wizards;;;4;1036.249;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444373;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;9365;Bradley Beal;3300;Washington Wizards;;;4;1036.249;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444374;100100;Ball in play;;;9;Indiana Pacers;;;;;;;4;1036.249;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444375;100400;Steal;13739;DeJuan Blair;3300;Washington Wizards;7246;Chase Budinger;9;Indiana Pacers;;;4;1036.249;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444376;100400;Steal;7246;Chase Budinger;9;Indiana Pacers;7769;Ramon Sessions;3300;Washington Wizards;;;4;1040.706;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444377;800201;2+;108;Joe Young;9;Indiana Pacers;;;;;;;4;1048.190;27.08;7.02;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444378;100200;Game stop;;;;;;;;;;;4;1097.065;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444379;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;4;1097.065;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444380;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1097.065;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444381;800302;3-;14021;Jarell Eddie;3300;Washington Wizards;;;;;;;4;1097.065;26.72;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444382;100300;Rebound;8400;Solomon Hill;9;Indiana Pacers;;;;;;;4;1097.065;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444383;800400;2+1;7246;Chase Budinger;9;Indiana Pacers;;;;;;;4;1103.857;26.96;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444384;100200;Game stop;;;;;;;;;;;4;1103.857;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444385;300100;Foul;9661;Gary Neal;3300;Washington Wizards;7246;Chase Budinger;9;Indiana Pacers;;;4;1103.857;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444386;800101;1+;7246;Chase Budinger;9;Indiana Pacers;9661;Gary Neal;3300;Washington Wizards;;;4;1125.960;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444387;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1134.964;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444388;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;1147.964;26.66;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:21:02.615171
+76444389;200600;Post;109;Myles Turner;9;Indiana Pacers;;;;;;;4;1167.171;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444390;800201;2+;109;Myles Turner;9;Indiana Pacers;;;;;;;4;1167.171;26.27;3.39;;;;;;;;Post;;Jumper;;;;2017-12-07 05:21:02.615171
+76444391;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;13739;DeJuan Blair;4;1191.689;;;;;;;;;;Hand offs;;;;;;2017-12-07 05:21:02.615171
+76444392;800201;2+;13739;DeJuan Blair;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;1191.689;22.43;7.83;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:21:02.615171
+76444393;800600;2F;108;Joe Young;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;4;1200.916;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:21:02.615171
+76444394;100200;Game stop;;;;;;;;;;;4;1200.916;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444395;300100;Foul;13739;DeJuan Blair;3300;Washington Wizards;108;Joe Young;9;Indiana Pacers;;;4;1200.916;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444396;800101;1+;108;Joe Young;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;4;1223.769;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444397;800101;1+;108;Joe Young;9;Indiana Pacers;13739;DeJuan Blair;3300;Washington Wizards;;;4;1237.794;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444398;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1240.514;;;;;;;;;;;;;;;;2019-10-24 12:39:03.699061
+76444399;200300;Pick'n'Roll;13739;DeJuan Blair;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;1258.514;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444400;800202;2-;13739;DeJuan Blair;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;1258.514;25.67;6.48;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 05:21:02.615171
+76444401;100300;Rebound;7246;Chase Budinger;9;Indiana Pacers;;;;;;;4;1258.514;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444402;400101;Accurate pass;7246;Chase Budinger;9;Indiana Pacers;;;;;109;Myles Turner;4;1264.649;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444403;800201;2+;109;Myles Turner;9;Indiana Pacers;;;;;7246;Chase Budinger;4;1264.649;26.57;7.59;;;;;;;;Transition;;Dunk;;;;2017-12-07 05:21:02.615171
+76444404;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;14021;Jarell Eddie;4;1291.553;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+76444405;800301;3+;14021;Jarell Eddie;3300;Washington Wizards;;;;;9661;Gary Neal;4;1291.553;26.66;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:21:02.615171
+76444406;800201;2+;108;Joe Young;9;Indiana Pacers;;;;;;;4;1302.533;26.51;7.02;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:21:02.615171
+76444407;1800700;Match end;;;;;;;;;;;4;1302.633;;;;;;;;;;;;;;;;2017-12-07 05:21:02.615171
+103639060;200900;Assisting;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;157.672;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639062;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;8421;Jared Dudley;1;215.445;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639064;200900;Assisting;100;Monta Ellis;9;Indiana Pacers;;;;;98;Paul George;1;291.575;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639066;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;1;312.923;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639068;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;;;1;443.382;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639070;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;1;461.663;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639072;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;509.914;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639074;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;1;570.126;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639076;200900;Assisting;370972;CJ Miles;9;Indiana Pacers;;;;;;;1;755.034;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639078;200900;Assisting;36741;Drew Gooden;3300;Washington Wizards;;;;;7490;Garrett Temple;1;765.954;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639080;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;;;1;842.990;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639082;200900;Assisting;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;860.039;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639084;200900;Assisting;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;874.168;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639086;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;;;1;894.150;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639088;200900;Assisting;100;Monta Ellis;9;Indiana Pacers;;;;;;;1;960.048;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639090;200900;Assisting;109;Myles Turner;9;Indiana Pacers;;;;;;;1;1043.705;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639092;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;;;1;1102.757;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639094;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;1;1115.002;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639096;200900;Assisting;102;Lavoy Allen;9;Indiana Pacers;;;;;100;Monta Ellis;1;1163.164;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639098;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;9365;Bradley Beal;1;1220.016;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639100;200900;Assisting;109;Myles Turner;9;Indiana Pacers;;;;;98;Paul George;1;1231.898;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639102;200900;Assisting;100;Monta Ellis;9;Indiana Pacers;;;;;;;1;1251.231;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639104;200900;Assisting;109;Myles Turner;9;Indiana Pacers;;;;;98;Paul George;1;1316.484;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639106;200900;Assisting;36741;Drew Gooden;3300;Washington Wizards;;;;;9365;Bradley Beal;1;1342.429;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639108;200900;Assisting;102;Lavoy Allen;9;Indiana Pacers;;;;;100;Monta Ellis;1;1364.044;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639110;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;35.034;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639112;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;;;2;71.966;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639114;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;9365;Bradley Beal;2;139.384;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639116;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;313.410;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639118;200900;Assisting;102;Lavoy Allen;9;Indiana Pacers;;;;;104;Jordan Hill;2;383.320;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639120;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;399.212;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639122;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;420.240;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639124;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;7490;Garrett Temple;2;455.405;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639126;200900;Assisting;7854;George Hill;9;Indiana Pacers;;;;;7246;Chase Budinger;2;544.253;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639128;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;9366;John Wall;2;561.700;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639130;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;3629;Nene Hilario;2;600.070;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639132;200900;Assisting;7854;George Hill;9;Indiana Pacers;;;;;104;Jordan Hill;2;612.226;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639134;200900;Assisting;7854;George Hill;9;Indiana Pacers;;;;;7246;Chase Budinger;2;633.818;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639136;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;681.802;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639138;200900;Assisting;104;Jordan Hill;9;Indiana Pacers;;;;;;;2;836.935;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639140;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;13739;DeJuan Blair;2;899.966;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639142;200900;Assisting;7854;George Hill;9;Indiana Pacers;;;;;;;2;912.465;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639144;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;7490;Garrett Temple;2;922.153;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639146;200900;Assisting;100;Monta Ellis;9;Indiana Pacers;;;;;;;2;931.391;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639148;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;2;951.359;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639150;200900;Assisting;100;Monta Ellis;9;Indiana Pacers;;;;;;;2;964.229;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639152;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;971.423;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639154;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;2;996.795;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639156;200900;Assisting;7854;George Hill;9;Indiana Pacers;;;;;;;2;1015.723;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639158;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;1023.045;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639160;200900;Assisting;7854;George Hill;9;Indiana Pacers;;;;;;;2;1030.008;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639162;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;100;Monta Ellis;3;27.135;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639164;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;;;3;92.194;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639166;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;3;172.266;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639168;200900;Assisting;99;Ian Mahinmi;9;Indiana Pacers;;;;;98;Paul George;3;234.528;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639170;200900;Assisting;99;Ian Mahinmi;9;Indiana Pacers;;;;;98;Paul George;3;263.053;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639172;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;3;313.340;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639174;200900;Assisting;7854;George Hill;9;Indiana Pacers;;;;;370972;CJ Miles;3;324.053;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639176;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;3;337.153;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639178;200900;Assisting;7854;George Hill;9;Indiana Pacers;;;;;;;3;350.342;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639180;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;3629;Nene Hilario;3;368.835;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639182;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;3;399.786;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639184;200900;Assisting;99;Ian Mahinmi;9;Indiana Pacers;;;;;;;3;452.302;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639186;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;;;3;521.502;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639188;200900;Assisting;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;3;582.593;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639190;200900;Assisting;99;Ian Mahinmi;9;Indiana Pacers;;;;;7854;George Hill;3;741.824;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639192;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;760.912;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639194;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;3;822.419;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639196;200900;Assisting;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;837.385;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639198;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;7490;Garrett Temple;3;846.487;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639200;200900;Assisting;100;Monta Ellis;9;Indiana Pacers;;;;;;;3;861.937;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639202;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;3;874.791;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639204;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;;;3;917.672;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639206;200900;Assisting;102;Lavoy Allen;9;Indiana Pacers;;;;;;;3;1096.945;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639208;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;;;3;1207.334;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639210;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;1287.047;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639212;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;7769;Ramon Sessions;3;1324.647;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639214;200900;Assisting;36741;Drew Gooden;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;85.395;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639216;200900;Assisting;102;Lavoy Allen;9;Indiana Pacers;;;;;98;Paul George;4;99.913;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639218;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;146.914;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639220;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;;;4;157.683;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639222;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;4;313.568;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639224;200900;Assisting;98;Paul George;9;Indiana Pacers;;;;;102;Lavoy Allen;4;327.637;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639226;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;;;4;344.757;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639228;200900;Assisting;102;Lavoy Allen;9;Indiana Pacers;;;;;7854;George Hill;4;428.500;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639230;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;4;451.879;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639232;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;475.142;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639234;200900;Assisting;102;Lavoy Allen;9;Indiana Pacers;;;;;;;4;529.028;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639236;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;593.153;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639238;200900;Assisting;100;Monta Ellis;9;Indiana Pacers;;;;;;;4;607.410;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639240;200900;Assisting;36741;Drew Gooden;3300;Washington Wizards;;;;;9366;John Wall;4;675.415;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639242;200900;Assisting;100;Monta Ellis;9;Indiana Pacers;;;;;;;4;683.817;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639244;200900;Assisting;7854;George Hill;9;Indiana Pacers;;;;;;;4;714.255;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639246;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;9366;John Wall;4;817.265;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639248;200900;Assisting;370972;CJ Miles;9;Indiana Pacers;;;;;;;4;827.894;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639250;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;916.568;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639252;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;991.458;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639254;200900;Assisting;108;Joe Young;9;Indiana Pacers;;;;;;;4;1048.190;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639256;200900;Assisting;7246;Chase Budinger;9;Indiana Pacers;;;;;;;4;1103.857;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639258;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;1147.964;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639260;200900;Assisting;109;Myles Turner;9;Indiana Pacers;;;;;;;4;1167.171;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639262;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;1191.689;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639264;200900;Assisting;108;Joe Young;9;Indiana Pacers;;;;;;;4;1200.916;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639266;200900;Assisting;109;Myles Turner;9;Indiana Pacers;;;;;7246;Chase Budinger;4;1264.649;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639268;200900;Assisting;14021;Jarell Eddie;3300;Washington Wizards;;;;;9661;Gary Neal;4;1291.553;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778
+103639270;200900;Assisting;108;Joe Young;9;Indiana Pacers;;;;;;;4;1302.533;;;;;;;;;;;;;;;;2018-04-19 10:52:02.198778

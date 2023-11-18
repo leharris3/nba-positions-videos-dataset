@@ -1,0 +1,823 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77027363;1601000;Starting lineup;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027364;1601000;Starting lineup;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027365;1601000;Starting lineup;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027366;1601000;Starting lineup;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027367;1601000;Starting lineup;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027368;1601000;Starting lineup;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027369;1601000;Starting lineup;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027370;1601000;Starting lineup;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027371;1601000;Starting lineup;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027372;1601000;Starting lineup;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027373;1601000;Starting lineup;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027374;1601000;Starting lineup;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027375;1601000;Starting lineup;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027376;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027382;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027383;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027384;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027385;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027386;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027393;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;83.728;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027394;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;83.728;26.81;2.64;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:18:01.651812
+77027396;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;124.823;25.97;8.10;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:18:01.651812
+77027401;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;163.154;19.34;7.05;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:18:01.651812
+77027404;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;201.689;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027405;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;201.689;26.72;11.67;;;;;;;;Post;;Jumper;;;;2017-12-07 11:18:01.651812
+77027410;100200;Game stop;;;;;;;;;;;1;216.104;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027411;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;216.104;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027412;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;232.859;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027413;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;253.859;23.87;9.90;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:18:01.651812
+77027417;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;280.377;26.57;14.52;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:18:01.651812
+77027419;100200;Game stop;;;;;;;;;;;1;291.877;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027420;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;1;291.877;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027421;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;334.926;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027424;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;334.926;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027425;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;358.456;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027426;800301;3+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;358.456;20.36;11.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027428;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;380.185;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027429;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7461;JaVale McGee;1;388.915;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027430;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;388.915;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:18:01.651812
+77027431;100200;Game stop;;;;;;;;;;;1;403.835;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027433;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;413.543;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027434;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;421.543;19.79;9.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:18:01.651812
+77027435;100200;Game stop;;;;;;;;;;;1;421.543;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027436;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;421.543;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027438;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;464.768;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027439;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;1;464.768;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027440;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;464.768;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027441;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;464.768;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027442;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;464.768;21.50;1.77;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027445;100200;Game stop;;;;;;;;;;;1;477.215;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027446;300100;Foul;2425;Charlie Villanueva;2975;Dallas Mavericks;7535;Luis Scola;78;Toronto Raptors;;;1;477.215;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027450;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;520.736;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027451;200600;Post;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;535.736;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027452;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;535.736;23.18;7.32;;;;;;;;Post;;Jumper;;;;2017-12-07 11:18:01.651812
+77027457;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;543.638;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027458;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;550.768;22.52;1.50;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:18:01.651812
+77027462;800202;2-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;607.148;26.96;7.98;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:18:01.651812
+77027466;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;636.898;21.71;10.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:18:01.651812
+77027470;100200;Game stop;;;;;;;;;;;1;645.224;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027471;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;645.224;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027472;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;1;679.816;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027473;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;679.816;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027474;200600;Post;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;679.816;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027475;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;679.816;24.50;2.97;;;;;;;;Post;;Jumper;;;;2017-12-07 11:18:01.651812
+77027479;100200;Game stop;;;;;;;;;;;1;691.557;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027480;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;1;691.557;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027482;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;745.658;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027485;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;749.273;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027486;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;1;764.273;27.20;7.20;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:18:01.651812
+77027487;100200;Game stop;;;;;;;;;;;1;764.273;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027488;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;764.273;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027490;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;791.608;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027491;400101;Accurate pass;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;791.608;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:18:01.651812
+77027492;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;7461;JaVale McGee;1;791.608;21.83;6.33;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:18:01.651812
+77027493;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;1;816.254;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027494;100200;Game stop;;;;;;;;;;;1;816.254;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027495;100500;Turnover;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;816.254;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027496;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;1;878.486;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027500;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;878.486;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027501;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;7535;Luis Scola;78;Toronto Raptors;;;1;885.748;26.84;8.94;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:18:01.651812
+77027503;100200;Game stop;;;;;;;;;;;1;912.519;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027504;300300;Technical foul;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;912.519;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027506;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;1;942.580;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027510;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;976.318;20.09;12.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027511;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;976.318;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027512;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;976.318;19.79;6.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027513;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;976.318;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027514;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;976.318;21.98;7.68;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:18:01.651812
+77027515;100200;Game stop;;;;;;;;;;;1;988.398;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027521;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;1013.655;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027522;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;1037.233;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027523;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;1037.233;22.52;7.44;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:18:01.651812
+77027524;100200;Game stop;;;;;;;;;;;1;1037.233;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027528;100200;Game stop;;;;;;;;;;;1;1065.811;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027529;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;1;1065.811;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027531;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1094.490;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027532;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;1101.490;24.95;5.19;;;;;;;;Pick'n'Roll;;;;;;2018-10-20 17:58:37.550992
+77027533;100200;Game stop;;;;;;;;;;;1;1101.490;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027535;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1117.906;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027536;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;1125.906;26.66;6.96;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:18:01.651812
+77027538;100200;Game stop;;;;;;;;;;;1;1134.996;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027540;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1134.996;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027543;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;1191.036;25.22;2.49;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:18:01.651812
+77027544;100400;Steal;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;1;1211.585;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027545;1800500;Halftime;;;;;;;;;;;1;1213.485;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027546;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027552;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027553;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027554;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027555;1600500;Guard;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027556;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027557;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;6.114;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027558;100200;Game stop;;;;;;;;;;;2;15.114;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027560;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;54.711;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027561;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;61.711;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027562;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;61.711;21.98;6.78;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:18:01.651812
+77027565;100300;Rebound;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;2;75.333;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027566;800400;2+1;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;87.760;26.96;7.26;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:18:01.651812
+77027567;100200;Game stop;;;;;;;;;;;2;87.760;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027569;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;1138;Lucas Nogueira;78;Toronto Raptors;;;2;117.674;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027572;100300;Rebound;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;2;143.910;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027573;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;153.476;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027574;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;153.476;20.18;11.07;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:18:01.651812
+77027576;100400;Steal;7814;Chandler Parsons;2975;Dallas Mavericks;1129;Cory Joseph;78;Toronto Raptors;;;2;185.443;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027577;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;194.872;26.99;6.63;;;;;;;;Isolation;;Lay up;Drives Right;;;2018-10-20 17:58:37.550992
+77027578;100200;Game stop;;;;;;;;;;;2;202.509;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027580;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;222.345;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027581;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;235.345;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027582;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;235.345;26.72;2.58;;;;;;;;Post;;Jumper;;;;2017-12-07 11:18:01.651812
+77027583;100200;Game stop;;;;;;;;;;;2;245.561;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027588;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;270.634;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027589;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;285.570;27.05;8.22;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:18:01.651812
+77027592;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;309.705;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027593;800201;2+;8429;John Jenkins;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;321.448;25.76;1.50;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:18:01.651812
+77027596;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;351.081;26.51;6.87;;;;;;;;Cut;;Hook;;;;2017-12-07 11:18:01.651812
+77027598;100200;Game stop;;;;;;;;;;;2;351.081;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027599;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;2;351.081;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027602;100200;Game stop;;;;;;;;;;;2;397.223;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027606;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;450.365;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027607;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;450.365;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027608;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;450.365;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027609;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;450.365;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027610;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;8429;John Jenkins;2975;Dallas Mavericks;;;2;450.365;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027611;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;450.365;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027612;100200;Game stop;;;;;;;;;;;2;450.365;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027614;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;474.845;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027615;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;2;485.845;25.82;7.50;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:18:01.651812
+77027616;100200;Game stop;;;;;;;;;;;2;485.845;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027619;100200;Game stop;;;;;;;;;;;2;503.059;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027621;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;508.422;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027622;200600;Post;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;524.422;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027623;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;524.422;25.82;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 11:18:01.651812
+77027624;100200;Game stop;;;;;;;;;;;2;548.063;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027626;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;565.061;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027627;100200;Game stop;;;;;;;;;;;2;573.061;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027629;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;594.888;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027631;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;628.266;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027632;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;628.266;25.67;8.10;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:18:01.651812
+77027635;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;662.078;22.52;13.92;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027638;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;680.453;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027639;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;688.703;27.08;0.24;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:18:01.651812
+77027641;100200;Game stop;;;;;;;;;;;2;699.276;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027642;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;2;699.276;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027643;1800600;Timeout;;;;;;;;;;;2;699.276;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027644;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;2;747.485;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027647;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;747.485;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027648;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;1131;Bismack Biyombo;78;Toronto Raptors;;;2;755.591;26.57;8.49;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:18:01.651812
+77027652;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;782.732;23.03;14.22;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027657;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;806.950;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027658;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;825.839;24.65;8.43;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:18:01.651812
+77027661;100200;Game stop;;;;;;;;;;;2;906.580;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027662;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;2;906.580;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027663;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;906.580;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027666;100200;Game stop;;;;;;;;;;;2;914.305;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027667;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;914.305;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027669;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;2;937.386;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027670;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;937.386;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027671;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;937.386;21.56;1.95;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027676;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;979.082;25.22;9.51;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:18:01.651812
+77027679;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;997.879;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027680;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;1014.021;26.42;2.40;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:18:01.651812
+77027682;100200;Game stop;;;;;;;;;;;2;1025.407;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027685;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;1052.766;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027686;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1052.766;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027687;800600;2F;2428;Deron Williams;2975;Dallas Mavericks;7535;Luis Scola;78;Toronto Raptors;;;2;1052.766;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:18:01.651812
+77027688;100200;Game stop;;;;;;;;;;;2;1052.766;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027690;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;7535;Luis Scola;78;Toronto Raptors;;;2;1086.692;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027691;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;7535;Luis Scola;78;Toronto Raptors;;;2;1104.485;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027694;100200;Game stop;;;;;;;;;;;2;1125.588;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027695;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;1125.588;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027696;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1131.157;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027698;100400;Steal;7463;Zaza Pachulia;2975;Dallas Mavericks;7535;Luis Scola;78;Toronto Raptors;;;2;1148.357;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027699;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1151.115;26.27;7.44;;;;;;;;;;Lay up;;;;2017-12-07 11:18:01.651812
+77027702;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;1190.925;24.65;5.94;;;;;;;;Pick'n'Roll;;Hook;;;;2018-10-20 17:58:37.550992
+77027704;1800500;Halftime;;;;;;;;;;;2;1191.825;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027705;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027711;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027712;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027713;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027714;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027715;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027716;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027717;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;18.384;26.84;14.07;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:18:01.651812
+77027720;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;59.549;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027721;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;76.196;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027722;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;76.196;27.35;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027724;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;108.680;26.42;2.04;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:18:01.651812
+77027727;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;131.052;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027728;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;131.052;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027729;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;131.052;19.58;9.45;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:18:01.651812
+77027731;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;147.626;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027732;100200;Game stop;;;;;;;;;;;3;157.233;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027734;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;171.696;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027735;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;181.696;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027736;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;3;181.696;22.10;11.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027739;100200;Game stop;;;;;;;;;;;3;222.859;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027740;100500;Turnover;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;222.859;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027745;100200;Game stop;;;;;;;;;;;3;253.328;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027746;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;7535;Luis Scola;78;Toronto Raptors;;;3;253.328;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027749;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;305.968;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027750;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;318.968;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027751;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;318.968;23.60;11.22;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:18:01.651812
+77027754;100200;Game stop;;;;;;;;;;;3;349.065;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027757;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;392.496;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027758;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;3;392.496;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027759;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;392.496;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027760;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;392.496;26.96;7.11;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:18:01.651812
+77027763;100200;Game stop;;;;;;;;;;;3;404.471;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027764;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;1131;Bismack Biyombo;78;Toronto Raptors;;;3;404.471;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027767;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;454.444;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027768;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;473.325;24.89;1.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:18:01.651812
+77027771;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;480.651;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027772;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;489.810;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027773;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;3;489.810;19.64;6.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027774;100200;Game stop;;;;;;;;;;;3;489.810;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027778;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;519.786;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027779;100200;Game stop;;;;;;;;;;;3;533.546;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027781;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;550.412;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027782;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;562.412;22.28;9.12;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:18:01.651812
+77027783;100200;Game stop;;;;;;;;;;;3;562.412;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027786;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;3;584.250;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027787;100200;Game stop;;;;;;;;;;;3;586.367;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027789;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;594.644;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027790;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;605.644;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027791;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;605.644;19.64;9.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027792;100200;Game stop;;;;;;;;;;;3;613.540;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027793;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;3;613.540;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027794;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;3;648.001;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027797;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;648.001;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027798;200600;Post;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;662.130;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027799;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;662.130;25.37;10.98;;;;;;;;Post;;Jumper;;;;2017-12-07 11:18:01.651812
+77027801;100200;Game stop;;;;;;;;;;;3;670.870;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027802;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;3;670.870;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027803;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;733.832;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027804;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;733.832;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027806;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;3;733.832;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027807;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;741.620;20.66;6.24;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:18:01.651812
+77027811;100200;Game stop;;;;;;;;;;;3;766.045;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027812;300100;Foul;7461;JaVale McGee;2975;Dallas Mavericks;1131;Bismack Biyombo;78;Toronto Raptors;;;3;766.045;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027816;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;820.360;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027817;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;840.360;26.36;0.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027819;100200;Game stop;;;;;;;;;;;3;850.599;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027821;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;3;850.599;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027824;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;885.978;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027825;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;885.978;24.80;7.20;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:18:01.651812
+77027827;800600;2F;2427;Dwight Powell;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;3;925.156;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027828;100200;Game stop;;;;;;;;;;;3;925.156;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027830;800102;1-;2427;Dwight Powell;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;3;954.583;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027831;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;954.583;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027832;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;3;972.382;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027836;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;1006.636;23.42;12.21;;;;;;;;Hand offs;;Floater;;;;2017-12-07 11:18:01.651812
+77027838;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;1059.275;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027839;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;1080.611;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027840;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;1080.611;19.43;5.70;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027842;800600;2F;7461;JaVale McGee;2975;Dallas Mavericks;1138;Lucas Nogueira;78;Toronto Raptors;;;3;1125.659;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:18:01.651812
+77027843;100200;Game stop;;;;;;;;;;;3;1125.659;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027845;800102;1-;7461;JaVale McGee;2975;Dallas Mavericks;1138;Lucas Nogueira;78;Toronto Raptors;;;3;1161.078;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027846;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;1161.078;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027847;800101;1+;7461;JaVale McGee;2975;Dallas Mavericks;1138;Lucas Nogueira;78;Toronto Raptors;;;3;1175.325;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027850;100200;Game stop;;;;;;;;;;;3;1185.845;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027851;300100;Foul;7461;JaVale McGee;2975;Dallas Mavericks;1138;Lucas Nogueira;78;Toronto Raptors;;;3;1185.845;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027854;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1223.845;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027855;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;1223.845;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027856;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;1244.587;26.66;7.56;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:18:01.651812
+77027859;1800500;Halftime;;;;;;;;;;;3;1271.088;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027860;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027866;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027867;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027868;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027869;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027870;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027873;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;24.610;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027874;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2427;Dwight Powell;4;41.197;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027875;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;41.197;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027876;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;41.197;26.57;7.59;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:18:01.651812
+77027879;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;73.853;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027880;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;73.853;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027881;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;73.853;22.13;13.59;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:18:01.651812
+77027883;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;91.833;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027884;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;104.078;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027885;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;104.078;26.36;14.52;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:18:01.651812
+77027887;100200;Game stop;;;;;;;;;;;4;111.246;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027888;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;4;111.246;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027891;100200;Game stop;;;;;;;;;;;4;151.563;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027892;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;4;151.563;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027896;100200;Game stop;;;;;;;;;;;4;195.097;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027898;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;208.912;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027899;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;218.912;26.81;7.56;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:18:01.651812
+77027901;100200;Game stop;;;;;;;;;;;4;224.854;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027902;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;4;224.854;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027905;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;261.002;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027906;200600;Post;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;274.491;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027907;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;274.491;26.42;9.36;;;;;;;;Post;;Hook;;;;2017-12-07 11:18:01.651812
+77027909;100200;Game stop;;;;;;;;;;;4;274.491;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027910;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;7535;Luis Scola;78;Toronto Raptors;;;4;274.491;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027911;1800600;Timeout;;;;;;;;;;;4;274.491;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027913;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;301.464;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027914;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;301.464;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027917;100200;Game stop;;;;;;;;;;;4;328.991;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027918;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;1129;Cory Joseph;78;Toronto Raptors;;;4;328.991;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027921;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;367.898;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027922;100200;Game stop;;;;;;;;;;;4;375.898;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027924;800101;1+;7461;JaVale McGee;2975;Dallas Mavericks;1131;Bismack Biyombo;78;Toronto Raptors;;;4;410.276;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027927;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;431.232;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027928;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;438.515;26.06;7.74;;;;;;;;Transition;;Lay up;;;;2018-10-20 17:58:37.550992
+77027932;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;469.078;22.73;4.89;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:18:01.651812
+77027936;100200;Game stop;;;;;;;;;;;4;482.150;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027937;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;482.150;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027938;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;508.894;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027939;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;4;508.894;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027940;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;508.894;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027941;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;508.894;26.27;8.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+77027944;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;514.698;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027945;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;526.602;25.04;5.34;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:18:01.651812
+77027949;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;1131;Bismack Biyombo;78;Toronto Raptors;2430;Wesley Matthews;4;552.262;26.81;6.63;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:18:01.651812
+77027952;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;562.621;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027953;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;571.902;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027954;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;571.902;21.26;5.16;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:18:01.651812
+77027958;100200;Game stop;;;;;;;;;;;4;589.796;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027959;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;7535;Luis Scola;78;Toronto Raptors;;;4;589.796;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027961;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;4;650.623;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027964;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;650.623;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027965;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;650.623;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027966;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;667.130;21.65;2.34;;;;;;;;Catch and shoot;;Jumper;;;;2018-10-20 17:58:37.550992
+77027968;100200;Game stop;;;;;;;;;;;4;682.828;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027970;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;682.828;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027971;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;709.463;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027972;1600500;Guard;8429;John Jenkins;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;709.463;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027973;1600500;Guard;370702;Justin Anderson;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;709.463;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027974;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;709.463;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027975;400101;Accurate pass;8429;John Jenkins;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;709.463;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027976;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;8429;John Jenkins;4;709.463;25.76;8.37;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:18:01.651812
+77027978;100300;Rebound;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;4;729.607;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027979;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;370702;Justin Anderson;4;747.736;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027980;800201;2+;370702;Justin Anderson;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;747.736;26.96;12.27;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:18:01.651812
+77027982;100200;Game stop;;;;;;;;;;;4;764.498;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027983;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;1129;Cory Joseph;78;Toronto Raptors;;;4;764.498;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77027986;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;810.879;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027987;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;822.879;20.21;11.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+77027994;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;848.280;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027995;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;858.711;26.81;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027997;100200;Game stop;;;;;;;;;;;4;867.534;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028001;100400;Steal;2425;Charlie Villanueva;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;4;892.524;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028002;400101;Accurate pass;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;370702;Justin Anderson;4;897.015;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028003;800201;2+;370702;Justin Anderson;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;897.015;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:18:01.651812
+77028004;100200;Game stop;;;;;;;;;;;4;922.465;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028006;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;944.069;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028007;400101;Accurate pass;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7437;Jeremy Evans;4;954.069;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028008;800201;2+;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;954.069;24.95;1.77;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:18:01.651812
+77028011;400101;Accurate pass;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7437;Jeremy Evans;4;993.364;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028012;800201;2+;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;993.364;27.02;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:18:01.651812
+77028014;100200;Game stop;;;;;;;;;;;4;1025.460;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028015;300100;Foul;8429;John Jenkins;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;4;1025.460;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028019;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1066.372;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028020;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;1078.372;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77028021;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;1078.372;25.52;8.34;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:18:01.651812
+77028022;100400;Steal;2425;Charlie Villanueva;2975;Dallas Mavericks;1129;Cory Joseph;78;Toronto Raptors;;;4;1093.207;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028023;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;1098.053;27.08;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:18:01.651812
+77028025;100200;Game stop;;;;;;;;;;;4;1114.481;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028026;300100;Foul;370702;Justin Anderson;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;4;1114.481;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028030;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1166.662;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028031;100200;Game stop;;;;;;;;;;;4;1173.762;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028032;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;1173.762;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028034;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1197.054;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028035;200300;Pick'n'Roll;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;1204.054;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77028036;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;1204.054;19.88;9.30;;;;;;;;Pick'n'pop;;Hook;;;;2017-12-07 11:18:01.651812
+77028038;100200;Game stop;;;;;;;;;;;4;1213.133;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028039;300100;Foul;370702;Justin Anderson;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;4;1213.133;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028041;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;1269.189;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028043;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1292.173;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028044;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;1294.273;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77028045;800301;3+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;1294.273;19.28;9.30;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:18:01.651812
+77028047;100200;Game stop;;;;;;;;;;;4;1307.186;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028048;300100;Foul;8429;John Jenkins;2975;Dallas Mavericks;1130;Kyle Lowry;78;Toronto Raptors;;;4;1307.186;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028051;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1353.733;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028052;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;1361.933;20.03;4.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+77028055;100200;Game stop;;;;;;;;;;;4;1377.718;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028056;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;1377.718;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028058;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1402.890;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028059;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7437;Jeremy Evans;4;1402.890;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+77028060;800400;2+1;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;1402.890;26.72;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:18:01.651812
+77028061;100200;Game stop;;;;;;;;;;;4;1402.890;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028064;800102;1-;7437;Jeremy Evans;2975;Dallas Mavericks;1132;DeMar DeRozan;78;Toronto Raptors;;;4;1449.017;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028065;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1449.017;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028067;100200;Game stop;;;;;;;;;;;4;1449.017;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028072;100200;Game stop;;;;;;;;;;;4;1470.136;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028073;300100;Foul;7437;Jeremy Evans;2975;Dallas Mavericks;85;Terrence Ross;78;Toronto Raptors;;;4;1470.136;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028077;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1535.021;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028078;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;1541.621;18.26;4.86;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+77028079;100300;Rebound;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;1541.621;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028080;800202;2-;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;1541.621;26.99;12.81;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:18:01.651812
+77028082;1800700;Match end;;;;;;;;;;;4;1541.821;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+103669041;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;83.728;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669053;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;358.456;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669055;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;388.915;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669057;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;464.768;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669069;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;7461;JaVale McGee;1;791.608;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669073;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;976.318;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669079;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;1191.036;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669081;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;87.760;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669083;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;194.872;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103669085;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;235.345;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669087;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;285.570;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669089;200900;Assisting;8429;John Jenkins;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;321.448;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669095;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;524.422;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669101;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;825.839;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669109;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;1052.766;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669111;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1151.115;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669115;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;76.196;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669121;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;131.052;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669123;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;3;181.696;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669129;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;318.968;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669133;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;392.496;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669135;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;3;489.810;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669137;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;605.644;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669139;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;741.620;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669143;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;885.978;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669147;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;925.156;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669151;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;1006.636;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669153;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;1080.611;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669157;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;1125.659;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669161;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;1244.587;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669165;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;41.197;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669169;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;73.853;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669183;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;8429;John Jenkins;4;709.463;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669185;200900;Assisting;370702;Justin Anderson;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;747.736;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669189;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;822.879;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103669191;200900;Assisting;370702;Justin Anderson;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;897.015;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669193;200900;Assisting;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;954.069;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669197;200900;Assisting;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;993.364;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669201;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;1078.372;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669203;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;1098.053;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669207;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;1294.273;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669211;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;1361.933;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103669215;200900;Assisting;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;1402.890;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+77027353;1601000;Starting lineup;27398;Tony Bennett;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027354;1601000;Starting lineup;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027355;1601000;Starting lineup;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027356;1601000;Starting lineup;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027357;1601000;Starting lineup;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027358;1601000;Starting lineup;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027359;1601000;Starting lineup;1129;Cory Joseph;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027360;1601000;Starting lineup;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027361;1601000;Starting lineup;1138;Lucas Nogueira;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027362;1601000;Starting lineup;1137;Delon Wright;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027377;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027378;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027379;1600500;Guard;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027380;1600500;Guard;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027381;1600500;Guard;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027387;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;52.889;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027388;200300;Pick'n'Roll;7535;Luis Scola;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;65.889;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027389;800202;2-;7535;Luis Scola;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;65.889;21.65;7.74;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:18:01.651812
+77027390;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;65.889;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027391;400101;Accurate pass;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;65.889;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027392;800301;3+;1130;Kyle Lowry;78;Toronto Raptors;;;;;1131;Bismack Biyombo;1;65.889;25.37;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027395;800201;2+;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;103.023;21.83;6.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:18:01.651812
+77027397;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;124.823;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027398;400101;Accurate pass;1132;DeMar DeRozan;78;Toronto Raptors;;;;;7535;Luis Scola;1;134.838;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027399;200300;Pick'n'Roll;7535;Luis Scola;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;134.838;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027400;800201;2+;7535;Luis Scola;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;134.838;22.88;11.37;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:18:01.651812
+77027402;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;163.154;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027403;800301;3+;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;175.772;24.80;14.61;;;;;;;;;;Jumper;;;;2017-12-07 11:18:01.651812
+77027406;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;201.689;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027407;800302;3-;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;216.104;22.10;1.71;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027408;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;216.104;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027409;800201;2+;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;216.104;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:18:01.651812
+77027414;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;253.859;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027415;200600;Post;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;263.971;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027416;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;263.971;26.72;11.49;;;;;;;;Post;;Jumper;;;;2017-12-07 11:18:01.651812
+77027418;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;280.377;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027422;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;334.926;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027423;800302;3-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;334.926;26.21;0.42;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:18:01.651812
+77027427;800202;2-;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;380.185;21.11;7.80;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027432;100500;Turnover;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;403.835;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027437;300100;Foul;7535;Luis Scola;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;421.543;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027443;200600;Post;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;477.215;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027444;800600;2F;7535;Luis Scola;78;Toronto Raptors;2425;Charlie Villanueva;2975;Dallas Mavericks;;;1;477.215;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:18:01.651812
+77027447;800102;1-;7535;Luis Scola;78;Toronto Raptors;2425;Charlie Villanueva;2975;Dallas Mavericks;;;1;502.582;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027448;100300;Rebound;;;78;Toronto Raptors;;;;;;;1;502.582;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027449;800101;1+;7535;Luis Scola;78;Toronto Raptors;2425;Charlie Villanueva;2975;Dallas Mavericks;;;1;518.963;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027453;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;535.736;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027454;800202;2-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;543.638;26.42;6.66;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:18:01.651812
+77027455;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;543.638;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027456;800202;2-;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;543.638;27.05;8.28;;;;;;;;Putbacks;;;;;;2017-12-07 11:18:01.651812
+77027459;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;550.768;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027460;400101;Accurate pass;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1131;Bismack Biyombo;1;566.725;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027461;800201;2+;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;566.725;26.84;10.68;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:18:01.651812
+77027463;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;607.148;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027464;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;7535;Luis Scola;1;615.705;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027465;800201;2+;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;615.705;25.52;7.56;;;;;;;;Transition;;Hook;;;;2017-12-07 11:18:01.651812
+77027467;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;636.898;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027468;400101;Accurate pass;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;645.224;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027469;800201;2+;1130;Kyle Lowry;78;Toronto Raptors;;;;;1131;Bismack Biyombo;1;645.224;26.84;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:18:01.651812
+77027476;100300;Rebound;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;679.816;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027477;200600;Post;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;691.557;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027478;800600;2F;1132;DeMar DeRozan;78;Toronto Raptors;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;691.557;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:18:01.651812
+77027481;800101;1+;1132;DeMar DeRozan;78;Toronto Raptors;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;714.667;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027483;1600500;Guard;1136;Patrick Patterson;78;Toronto Raptors;1131;Bismack Biyombo;78;Toronto Raptors;;;1;745.658;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027484;800101;1+;1132;DeMar DeRozan;78;Toronto Raptors;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;745.658;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027489;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;85;Terrence Ross;78;Toronto Raptors;;;1;791.608;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027497;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;878.486;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027498;200600;Post;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;878.486;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027499;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;878.486;26.60;3.60;;;;;;;;Post;;Jumper;;;;2017-12-07 11:18:01.651812
+77027502;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;885.748;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027505;800101;1+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;912.519;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027507;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;942.580;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027508;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;942.580;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027509;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1129;Cory Joseph;1;942.580;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:18:01.651812
+77027516;1800600;Timeout;;;78;Toronto Raptors;;;;;;;1;988.398;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027517;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;7535;Luis Scola;78;Toronto Raptors;;;1;1013.655;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027518;1600500;Guard;1138;Lucas Nogueira;78;Toronto Raptors;1130;Kyle Lowry;78;Toronto Raptors;;;1;1013.655;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027519;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;1013.655;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027520;800302;3-;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;1;1013.655;27.23;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027525;100300;Rebound;;;78;Toronto Raptors;;;;;;;1;1037.233;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027526;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;1052.811;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027527;800400;2+1;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;1065.811;25.82;7.44;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:18:01.651812
+77027530;800101;1+;1132;DeMar DeRozan;78;Toronto Raptors;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;1088.484;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027534;300100;Foul;85;Terrence Ross;78;Toronto Raptors;2427;Dwight Powell;2975;Dallas Mavericks;;;1;1101.490;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027537;100300;Rebound;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;1125.906;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027539;100500;Turnover;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;1;1134.996;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027541;100400;Steal;1136;Patrick Patterson;78;Toronto Raptors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;1;1134.996;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027542;800301;3+;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;1170.075;21.83;1.95;;;;;;;;Transition;;;;;;2017-12-07 11:18:01.651812
+77027547;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027548;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027549;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027550;1600500;Guard;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027551;1600500;Guard;1138;Lucas Nogueira;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027559;300100;Foul;1130;Kyle Lowry;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;15.114;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027563;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;61.711;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027564;800302;3-;1136;Patrick Patterson;78;Toronto Raptors;;;;;1130;Kyle Lowry;2;75.333;20.66;4.02;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027568;300100;Foul;1138;Lucas Nogueira;78;Toronto Raptors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;87.760;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027570;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;119.910;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027571;800302;3-;85;Terrence Ross;78;Toronto Raptors;;;;;1130;Kyle Lowry;2;143.910;19.58;8.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027575;100300;Rebound;85;Terrence Ross;78;Toronto Raptors;;;;;;;2;153.476;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027579;100500;Turnover;1129;Cory Joseph;78;Toronto Raptors;;;;;;;2;202.509;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027584;1800600;Timeout;;;78;Toronto Raptors;;;;;;;2;245.561;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027585;1600500;Guard;1131;Bismack Biyombo;78;Toronto Raptors;1138;Lucas Nogueira;78;Toronto Raptors;;;2;270.634;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027586;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;270.634;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027587;800302;3-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;270.634;21.11;2.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:18:01.651812
+77027590;200300;Pick'n'Roll;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1129;Cory Joseph;2;309.705;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027591;800202;2-;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1129;Cory Joseph;2;309.705;26.99;11.97;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:18:01.651812
+77027594;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;85;Terrence Ross;2;339.427;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027595;800301;3+;85;Terrence Ross;78;Toronto Raptors;;;;;1129;Cory Joseph;2;339.427;26.72;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027597;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;351.081;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027600;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;366.441;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027601;800201;2+;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;380.441;26.72;7.05;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:18:01.651812
+77027603;300100;Foul;1129;Cory Joseph;78;Toronto Raptors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;397.223;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027604;1600500;Guard;7535;Luis Scola;78;Toronto Raptors;1136;Patrick Patterson;78;Toronto Raptors;;;2;450.365;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027605;1600500;Guard;1137;Delon Wright;78;Toronto Raptors;1129;Cory Joseph;78;Toronto Raptors;;;2;450.365;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027613;300100;Foul;1131;Bismack Biyombo;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;2;450.365;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027617;100300;Rebound;;;78;Toronto Raptors;;;;;;;2;485.845;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027618;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;496.059;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027620;100500;Turnover;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;503.059;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027625;100500;Turnover;1137;Delon Wright;78;Toronto Raptors;;;;;;;2;548.063;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027628;300300;Technical foul;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;2;573.061;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027630;1600500;Guard;1132;DeMar DeRozan;78;Toronto Raptors;85;Terrence Ross;78;Toronto Raptors;;;2;628.266;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027633;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;2;628.266;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027634;800201;2+;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;647.394;21.56;8.04;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:18:01.651812
+77027636;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;2;662.078;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027637;800202;2-;1137;Delon Wright;78;Toronto Raptors;;;;;;;2;680.453;26.84;8.04;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:18:01.651812
+77027640;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;688.703;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027645;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;747.485;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027646;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;2;747.485;26.84;8.52;;;;;;;;Isolation;;Floater;Drives Left;;;2017-12-07 11:18:01.651812
+77027649;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;2;755.591;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027650;400101;Accurate pass;1137;Delon Wright;78;Toronto Raptors;;;;;1131;Bismack Biyombo;2;764.785;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027651;800201;2+;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1137;Delon Wright;2;764.785;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:18:01.651812
+77027653;100300;Rebound;1137;Delon Wright;78;Toronto Raptors;;;;;;;2;782.732;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027654;800202;2-;1131;Bismack Biyombo;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;1137;Delon Wright;2;806.950;26.21;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:18:01.651812
+77027655;100300;Rebound;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;806.950;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027656;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;806.950;26.36;8.49;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:18:01.651812
+77027659;800202;2-;1137;Delon Wright;78;Toronto Raptors;;;;;1132;DeMar DeRozan;2;863.625;21.98;7.65;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:18:01.651812
+77027660;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;2;863.625;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027664;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;906.580;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027665;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;906.580;23.42;3.12;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:18:01.651812
+77027668;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;1130;Kyle Lowry;78;Toronto Raptors;;;2;937.386;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027672;100300;Rebound;1129;Cory Joseph;78;Toronto Raptors;;;;;;;2;937.386;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027673;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;955.246;25.37;4.17;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:18:01.651812
+77027674;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;7535;Luis Scola;2;968.843;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027675;800201;2+;7535;Luis Scola;78;Toronto Raptors;;;;;1129;Cory Joseph;2;968.843;21.71;7.50;;;;;;;;;;Jumper;;;;2017-12-07 11:18:01.651812
+77027677;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;2;979.082;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027678;800202;2-;1129;Cory Joseph;78;Toronto Raptors;;;;;;;2;997.879;25.76;6.87;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:18:01.651812
+77027681;100300;Rebound;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;1014.021;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027683;100500;Turnover;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;1025.407;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027684;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;1137;Delon Wright;78;Toronto Raptors;;;2;1052.766;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027689;300100;Foul;7535;Luis Scola;78;Toronto Raptors;2428;Deron Williams;2975;Dallas Mavericks;;;2;1052.766;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027692;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;1109.488;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027693;800202;2-;7535;Luis Scola;78;Toronto Raptors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;1125.588;26.84;6.48;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:18:01.651812
+77027697;100400;Steal;7535;Luis Scola;78;Toronto Raptors;7499;Raymond Felton;2975;Dallas Mavericks;;;2;1148.357;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027700;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;1131;Bismack Biyombo;2;1164.508;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027701;800201;2+;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1129;Cory Joseph;2;1164.508;26.99;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:18:01.651812
+77027703;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;2;1190.925;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027706;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027707;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027708;1600500;Guard;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027709;1600500;Guard;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027710;1600500;Guard;7535;Luis Scola;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027718;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;18.384;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027719;800302;3-;85;Terrence Ross;78;Toronto Raptors;;;;;;;3;59.549;23.18;14.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027723;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;95.272;26.51;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:18:01.651812
+77027725;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;108.680;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027726;800201;2+;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;118.973;26.99;8.34;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:18:01.651812
+77027730;800202;2-;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;147.626;22.58;7.56;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:18:01.651812
+77027733;300100;Foul;7535;Luis Scola;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;157.233;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027737;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;203.648;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027738;800301;3+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;203.648;22.28;13.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027741;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;242.328;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027742;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;253.328;22.97;7.68;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:18:01.651812
+77027743;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;3;253.328;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027744;800600;2F;7535;Luis Scola;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;253.328;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:18:01.651812
+77027747;800101;1+;7535;Luis Scola;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;286.815;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027748;800101;1+;7535;Luis Scola;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;303.432;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027752;400101;Accurate pass;1132;DeMar DeRozan;78;Toronto Raptors;;;;;7535;Luis Scola;3;340.499;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027753;800301;3+;7535;Luis Scola;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;340.499;27.50;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027755;300100;Foul;7535;Luis Scola;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;349.065;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027756;1600500;Guard;27398;Tony Bennett;78;Toronto Raptors;7535;Luis Scola;78;Toronto Raptors;;;3;392.496;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027761;800302;3-;27398;Tony Bennett;78;Toronto Raptors;;;;;;;3;404.471;27.08;0.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027762;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;404.471;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027765;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;430.444;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027766;800202;2-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;454.444;25.91;7.26;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 11:18:01.651812
+77027769;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;473.325;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027770;800302;3-;85;Terrence Ross;78;Toronto Raptors;;;;;;;3;480.651;23.27;0.96;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:18:01.651812
+77027775;1800600;Timeout;;;78;Toronto Raptors;;;;;;;3;489.810;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027776;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;502.786;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027777;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;519.786;23.27;11.19;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:18:01.651812
+77027780;300100;Foul;27398;Tony Bennett;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;533.546;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027784;100300;Rebound;;;78;Toronto Raptors;;;;;;;3;562.412;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027785;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;566.250;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027788;300100;Foul;1132;DeMar DeRozan;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;586.367;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027795;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;648.001;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027796;800202;2-;27398;Tony Bennett;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;648.001;25.82;11.76;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:18:01.651812
+77027800;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;662.130;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027805;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;733.832;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027808;800302;3-;85;Terrence Ross;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;766.045;21.11;12.90;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027809;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;766.045;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027810;800600;2F;1131;Bismack Biyombo;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;3;766.045;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:18:01.651812
+77027813;800102;1-;1131;Bismack Biyombo;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;3;800.215;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027814;100300;Rebound;;;78;Toronto Raptors;;;;;;;3;800.215;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027815;800101;1+;1131;Bismack Biyombo;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;3;817.324;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027818;100300;Rebound;27398;Tony Bennett;78;Toronto Raptors;;;;;;;3;840.360;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027820;300100;Foul;1132;DeMar DeRozan;78;Toronto Raptors;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;850.599;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027822;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;1130;Kyle Lowry;78;Toronto Raptors;;;3;885.978;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027823;1600500;Guard;1138;Lucas Nogueira;78;Toronto Raptors;1131;Bismack Biyombo;78;Toronto Raptors;;;3;885.978;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027826;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;908.704;26.96;3.33;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:18:01.651812
+77027829;300100;Foul;1132;DeMar DeRozan;78;Toronto Raptors;2427;Dwight Powell;2975;Dallas Mavericks;;;3;925.156;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027833;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;974.463;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027834;400101;Accurate pass;85;Terrence Ross;78;Toronto Raptors;;;;;27398;Tony Bennett;3;991.463;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027835;800301;3+;27398;Tony Bennett;78;Toronto Raptors;;;;;85;Terrence Ross;3;991.463;26.72;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027837;800302;3-;1129;Cory Joseph;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;1059.275;19.58;6.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027841;800201;2+;27398;Tony Bennett;78;Toronto Raptors;;;;;;;3;1100.837;26.84;8.22;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:18:01.651812
+77027844;300100;Foul;1138;Lucas Nogueira;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;3;1125.659;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027848;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;1179.445;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027849;800600;2F;1138;Lucas Nogueira;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;3;1185.845;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027852;800101;1+;1138;Lucas Nogueira;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;3;1206.727;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027853;800102;1-;1138;Lucas Nogueira;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;3;1223.845;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027857;800201;2+;1129;Cory Joseph;78;Toronto Raptors;;;;;;;3;1263.859;26.84;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:18:01.651812
+77027858;100400;Steal;85;Terrence Ross;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;3;1270.888;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027861;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027862;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027863;1600500;Guard;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027864;1600500;Guard;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027865;1600500;Guard;27398;Tony Bennett;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027871;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;2.610;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027872;800202;2-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;24.610;24.44;6.96;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:18:01.651812
+77027877;400101;Accurate pass;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;56.186;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027878;800301;3+;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;4;56.186;23.27;1.47;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:18:01.651812
+77027882;800302;3-;27398;Tony Bennett;78;Toronto Raptors;;;;;1129;Cory Joseph;4;91.833;20.18;4.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027886;100300;Rebound;27398;Tony Bennett;78;Toronto Raptors;;;;;;;4;104.078;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027889;1600500;Guard;7535;Luis Scola;78;Toronto Raptors;27398;Tony Bennett;78;Toronto Raptors;;;4;151.563;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027890;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;151.563;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027893;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;167.427;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027894;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;4;183.427;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027895;800301;3+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;183.427;19.94;4.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027897;300100;Foul;1130;Kyle Lowry;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;195.097;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027900;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;218.912;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027903;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;241.002;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027904;800202;2-;1131;Bismack Biyombo;78;Toronto Raptors;2433;Dirk Nowitzki;2975;Dallas Mavericks;1130;Kyle Lowry;4;261.002;26.72;6.87;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:18:01.651812
+77027908;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;4;274.491;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027912;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;1132;DeMar DeRozan;78;Toronto Raptors;;;4;301.464;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027915;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;312.991;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027916;800600;2F;1129;Cory Joseph;78;Toronto Raptors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;328.991;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027919;800101;1+;1129;Cory Joseph;78;Toronto Raptors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;349.585;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027920;800101;1+;1129;Cory Joseph;78;Toronto Raptors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;364.568;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027923;300100;Foul;1131;Bismack Biyombo;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;4;375.898;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027925;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;412.232;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77027926;800302;3-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;431.232;22.13;1.77;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:18:01.651812
+77027929;100300;Rebound;1129;Cory Joseph;78;Toronto Raptors;;;;;;;4;438.515;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027930;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1129;Cory Joseph;4;448.485;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027931;800301;3+;1129;Cory Joseph;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;448.485;25.67;14.85;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:18:01.651812
+77027933;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;469.078;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027934;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1129;Cory Joseph;4;482.150;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027935;800301;3+;1129;Cory Joseph;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;482.150;27.53;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:18:01.651812
+77027942;100300;Rebound;85;Terrence Ross;78;Toronto Raptors;;;;;;;4;508.894;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027943;800202;2-;1130;Kyle Lowry;78;Toronto Raptors;7461;JaVale McGee;2975;Dallas Mavericks;;;4;514.698;26.99;8.49;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:18:01.651812
+77027946;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;526.602;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027947;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;85;Terrence Ross;4;534.644;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027948;800301;3+;85;Terrence Ross;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;534.644;26.99;0.93;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:18:01.651812
+77027950;100300;Rebound;1129;Cory Joseph;78;Toronto Raptors;;;;;;;4;552.262;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027951;800302;3-;1129;Cory Joseph;78;Toronto Raptors;;;;;;;4;562.621;19.94;11.07;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:18:01.651812
+77027955;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;571.902;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027956;200300;Pick'n'Roll;7535;Luis Scola;78;Toronto Raptors;;;;;;;4;589.796;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027957;800600;2F;7535;Luis Scola;78;Toronto Raptors;2427;Dwight Powell;2975;Dallas Mavericks;;;4;589.796;27.05;7.62;;;;;;;;Pick'n'pop;;;Drives Right;;;2017-12-07 11:18:01.651812
+77027960;800101;1+;7535;Luis Scola;78;Toronto Raptors;2427;Dwight Powell;2975;Dallas Mavericks;;;4;625.543;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027962;1600500;Guard;1132;DeMar DeRozan;78;Toronto Raptors;1130;Kyle Lowry;78;Toronto Raptors;;;4;650.623;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027963;800102;1-;7535;Luis Scola;78;Toronto Raptors;2427;Dwight Powell;2975;Dallas Mavericks;;;4;650.623;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027967;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;4;667.130;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027969;100500;Turnover;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;682.828;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027977;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1129;Cory Joseph;4;729.607;25.67;7.35;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:18:01.651812
+77027981;800600;2F;1129;Cory Joseph;78;Toronto Raptors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;764.498;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:18:01.651812
+77027984;800101;1+;1129;Cory Joseph;78;Toronto Raptors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;784.570;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027985;800101;1+;1129;Cory Joseph;78;Toronto Raptors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;797.141;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027988;200300;Pick'n'Roll;7535;Luis Scola;78;Toronto Raptors;;;;;1132;DeMar DeRozan;4;848.280;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:18:01.651812
+77027989;800202;2-;7535;Luis Scola;78;Toronto Raptors;;;;;1132;DeMar DeRozan;4;848.280;21.71;9.90;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:18:01.651812
+77027990;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;848.280;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027991;800202;2-;1131;Bismack Biyombo;78;Toronto Raptors;7437;Jeremy Evans;2975;Dallas Mavericks;;;4;848.280;26.84;6.96;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:18:01.651812
+77027992;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;848.280;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027993;800202;2-;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;848.280;27.08;7.35;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:18:01.651812
+77027996;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;858.711;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027998;1800600;Timeout;;;78;Toronto Raptors;;;;;;;4;867.534;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77027999;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;85;Terrence Ross;78;Toronto Raptors;;;4;892.524;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028000;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;892.524;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028005;100500;Turnover;7535;Luis Scola;78;Toronto Raptors;;;;;;;4;922.465;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028009;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;7535;Luis Scola;4;975.559;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028010;800201;2+;7535;Luis Scola;78;Toronto Raptors;;;;;1129;Cory Joseph;4;975.559;26.72;7.74;;;;;;;;Cut;;;;;;2017-12-07 11:18:01.651812
+77028013;800600;2F;1132;DeMar DeRozan;78;Toronto Raptors;8429;John Jenkins;2975;Dallas Mavericks;;;4;1025.460;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:18:01.651812
+77028016;800102;1-;1132;DeMar DeRozan;78;Toronto Raptors;8429;John Jenkins;2975;Dallas Mavericks;;;4;1047.327;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028017;100300;Rebound;;;78;Toronto Raptors;;;;;;;4;1047.327;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028018;800101;1+;1132;DeMar DeRozan;78;Toronto Raptors;8429;John Jenkins;2975;Dallas Mavericks;;;4;1061.929;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028024;800600;2F;1132;DeMar DeRozan;78;Toronto Raptors;370702;Justin Anderson;2975;Dallas Mavericks;;;4;1114.481;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:18:01.651812
+77028027;800102;1-;1132;DeMar DeRozan;78;Toronto Raptors;370702;Justin Anderson;2975;Dallas Mavericks;;;4;1141.646;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028028;100300;Rebound;;;78;Toronto Raptors;;;;;;;4;1141.646;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028029;800101;1+;1132;DeMar DeRozan;78;Toronto Raptors;370702;Justin Anderson;2975;Dallas Mavericks;;;4;1160.097;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028033;300100;Foul;1132;DeMar DeRozan;78;Toronto Raptors;7437;Jeremy Evans;2975;Dallas Mavericks;;;4;1173.762;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028037;100300;Rebound;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;4;1204.054;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028040;800101;1+;1130;Kyle Lowry;78;Toronto Raptors;370702;Justin Anderson;2975;Dallas Mavericks;;;4;1248.446;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028042;100500;Turnover;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;1269.189;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028046;800600;2F;1130;Kyle Lowry;78;Toronto Raptors;8429;John Jenkins;2975;Dallas Mavericks;;;4;1307.186;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028049;800101;1+;1130;Kyle Lowry;78;Toronto Raptors;8429;John Jenkins;2975;Dallas Mavericks;;;4;1332.995;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028050;800101;1+;1130;Kyle Lowry;78;Toronto Raptors;8429;John Jenkins;2975;Dallas Mavericks;;;4;1348.840;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028053;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;4;1377.718;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028054;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;1377.718;27.20;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:18:01.651812
+77028057;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;7535;Luis Scola;78;Toronto Raptors;;;4;1402.890;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028062;300100;Foul;1132;DeMar DeRozan;78;Toronto Raptors;7437;Jeremy Evans;2975;Dallas Mavericks;;;4;1402.890;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028063;1600500;Guard;7535;Luis Scola;78;Toronto Raptors;85;Terrence Ross;78;Toronto Raptors;;;4;1449.017;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028066;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;1449.017;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028068;1800600;Timeout;;;78;Toronto Raptors;;;;;;;4;1449.017;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028069;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;1131;Bismack Biyombo;78;Toronto Raptors;;;4;1470.136;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028070;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;1470.136;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77028071;800600;2F;85;Terrence Ross;78;Toronto Raptors;7437;Jeremy Evans;2975;Dallas Mavericks;;;4;1470.136;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028074;800101;1+;85;Terrence Ross;78;Toronto Raptors;7437;Jeremy Evans;2975;Dallas Mavericks;;;4;1498.906;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028075;1600500;Guard;1131;Bismack Biyombo;78;Toronto Raptors;7535;Luis Scola;78;Toronto Raptors;;;4;1529.267;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028076;800101;1+;85;Terrence Ross;78;Toronto Raptors;7437;Jeremy Evans;2975;Dallas Mavericks;;;4;1529.267;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+77028081;100300;Rebound;1129;Cory Joseph;78;Toronto Raptors;;;;;;;4;1541.621;;;;;;;;;;;;;;;;2017-12-07 11:18:01.651812
+93268264;100500;Turnover;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;850.599;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268265;300100;Foul;7535;Luis Scola;78;Toronto Raptors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;922.465;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+103669039;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;1131;Bismack Biyombo;1;65.889;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669043;200900;Assisting;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;103.023;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669045;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;134.838;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669047;200900;Assisting;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;175.772;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669049;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;216.104;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669051;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;263.971;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669059;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;477.215;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669061;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;566.725;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669063;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;615.705;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669065;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;1131;Bismack Biyombo;1;645.224;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669067;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;691.557;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669071;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1129;Cory Joseph;1;942.580;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669075;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;1065.811;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669077;200900;Assisting;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;1170.075;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669091;200900;Assisting;85;Terrence Ross;78;Toronto Raptors;;;;;1129;Cory Joseph;2;339.427;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669093;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;380.441;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669097;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;647.394;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669099;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1137;Delon Wright;2;764.785;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669103;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;906.580;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669105;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;955.246;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669107;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;1129;Cory Joseph;2;968.843;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669113;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1129;Cory Joseph;2;1164.508;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669117;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;95.272;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669119;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;118.973;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669125;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;203.648;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669127;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;;;3;253.328;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669131;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;340.499;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669141;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;766.045;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669145;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;908.704;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669149;200900;Assisting;27398;Tony Bennett;78;Toronto Raptors;;;;;85;Terrence Ross;3;991.463;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669155;200900;Assisting;27398;Tony Bennett;78;Toronto Raptors;;;;;;;3;1100.837;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669159;200900;Assisting;1138;Lucas Nogueira;78;Toronto Raptors;;;;;;;3;1185.845;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669163;200900;Assisting;1129;Cory Joseph;78;Toronto Raptors;;;;;;;3;1263.859;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669167;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;4;56.186;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669171;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;183.427;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669173;200900;Assisting;1129;Cory Joseph;78;Toronto Raptors;;;;;;;4;328.991;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669175;200900;Assisting;1129;Cory Joseph;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;448.485;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669177;200900;Assisting;1129;Cory Joseph;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;482.150;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669179;200900;Assisting;85;Terrence Ross;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;534.644;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669181;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;;;4;589.796;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669187;200900;Assisting;1129;Cory Joseph;78;Toronto Raptors;;;;;;;4;764.498;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669195;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;1129;Cory Joseph;4;975.559;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669199;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;4;1025.460;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669205;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;4;1114.481;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669209;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;1307.186;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669213;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;1377.718;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296
+103669217;200900;Assisting;85;Terrence Ross;78;Toronto Raptors;;;;;;;4;1470.136;;;;;;;;;;;;;;;;2018-04-19 11:16:03.730296

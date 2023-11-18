@@ -1,0 +1,847 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77034582;1601000;Starting lineup;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034583;1601000;Starting lineup;1157;Pat Connaughton;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034584;1601000;Starting lineup;13752;Luis Montero;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034585;1601000;Starting lineup;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034586;1601000;Starting lineup;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034587;1601000;Starting lineup;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034588;1601000;Starting lineup;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034589;1601000;Starting lineup;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034590;1601000;Starting lineup;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034591;1601000;Starting lineup;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034592;1601000;Starting lineup;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034593;1601000;Starting lineup;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034594;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034600;1600500;Guard;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034601;1600500;Guard;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034602;1600500;Guard;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034603;1600500;Guard;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034604;1600500;Guard;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034606;100400;Steal;1152;Noah Vonleh;21;Portland Trail Blazers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;1;106.205;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034607;100200;Game stop;;;;;;;;;;;1;113.040;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034608;100500;Turnover;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;113.040;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034614;200300;Pick'n'Roll;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;162.174;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034615;800202;2-;1162;Mason Plumlee;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;419014;CJ McCollum;1;162.174;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:21:03.588582
+77034616;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;162.174;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034617;800201;2+;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;162.174;26.57;7.05;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77034619;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;1;189.294;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034620;800202;2-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;200.499;20.81;9.90;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034623;800302;3-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;228.536;21.26;12.27;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77034625;100200;Game stop;;;;;;;;;;;1;232.629;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034626;300100;Foul;1152;Noah Vonleh;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;232.629;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034630;100300;Rebound;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;267.014;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034631;400101;Accurate pass;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1152;Noah Vonleh;1;278.072;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034632;800201;2+;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;1;278.072;26.99;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77034636;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;306.044;26.81;11.52;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034640;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;332.520;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034641;400101;Accurate pass;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;1;338.047;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034642;800201;2+;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;1;338.047;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:21:03.588582
+77034644;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;356.484;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034645;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;1;369.683;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034646;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;369.683;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77034650;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;403.604;22.73;13.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034655;800201;2+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;433.940;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034656;100200;Game stop;;;;;;;;;;;1;456.441;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034658;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;473.533;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034661;100200;Game stop;;;;;;;;;;;1;494.713;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034662;300100;Foul;1161;Allen Crabbe;21;Portland Trail Blazers;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;494.713;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034665;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;536.595;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034666;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;547.595;27.23;12.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034670;100200;Game stop;;;;;;;;;;;1;562.622;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034671;1800600;Timeout;;;21;Portland Trail Blazers;;;;;;;1;562.622;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034674;1600500;Guard;1159;Meyers Leonard;21;Portland Trail Blazers;1152;Noah Vonleh;21;Portland Trail Blazers;;;1;588.683;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034675;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;588.683;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034679;100200;Game stop;;;;;;;;;;;1;597.685;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034680;300100;Foul;1162;Mason Plumlee;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;597.685;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034683;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;632.865;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034684;400101;Accurate pass;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;1;652.865;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034685;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;652.865;24.74;1.23;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034689;200300;Pick'n'Roll;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;681.302;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77034690;800302;3-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;681.302;19.94;6.03;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:21:03.588582
+77034691;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;681.302;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034692;100200;Game stop;;;;;;;;;;;1;711.427;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034693;1600500;Guard;1158;Gerald Henderson;21;Portland Trail Blazers;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;1;711.427;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034694;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;711.427;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034695;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;711.427;22.43;7.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034697;100300;Rebound;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;727.247;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034698;800302;3-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;1;748.662;20.09;10.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034701;100300;Rebound;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;1;754.692;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034702;800301;3+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;771.759;20.90;3.18;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:21:03.588582
+77034704;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;789.610;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034705;800302;3-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;804.005;20.09;9.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034706;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;804.005;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034707;100200;Game stop;;;;;;;;;;;1;804.005;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034708;100500;Turnover;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;804.005;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034710;1600500;Guard;1160;Ed Davis;21;Portland Trail Blazers;1162;Mason Plumlee;21;Portland Trail Blazers;;;1;823.967;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034711;1600500;Guard;8736;Maurice Harkless;21;Portland Trail Blazers;1161;Allen Crabbe;21;Portland Trail Blazers;;;1;823.967;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034715;100300;Rebound;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;;;1;855.814;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034716;200600;Post;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;1;873.701;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034717;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;1;873.701;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:21:03.588582
+77034718;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;1;873.701;26.33;7.17;;;;;;;;Putbacks;;;;;;2017-12-07 11:21:03.588582
+77034719;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;1;873.701;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034724;200600;Post;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;910.385;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034725;800202;2-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;910.385;27.05;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:21:03.588582
+77034726;100300;Rebound;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;910.385;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034727;800201;2+;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;910.385;24.95;11.34;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:21:03.588582
+77034729;100300;Rebound;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;;;1;924.860;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034730;200600;Post;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;946.137;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034731;800201;2+;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;946.137;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:21:03.588582
+77034734;100400;Steal;8736;Maurice Harkless;21;Portland Trail Blazers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;963.609;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034737;100200;Game stop;;;;;;;;;;;1;977.132;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034738;300100;Foul;419014;CJ McCollum;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;1;977.132;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034741;1600500;Guard;8397;Tim Frazier;21;Portland Trail Blazers;419014;CJ McCollum;21;Portland Trail Blazers;;;1;1048.915;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034744;100200;Game stop;;;;;;;;;;;1;1080.032;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034745;300100;Foul;1158;Gerald Henderson;21;Portland Trail Blazers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;1;1080.032;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034749;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;1;1121.163;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034750;800202;2-;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;1;1127.063;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77034751;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;1;1127.063;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034752;1800500;Halftime;;;;;;;;;;;1;1127.063;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034753;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034759;1600500;Guard;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034760;1600500;Guard;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034761;1600500;Guard;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034762;1600500;Guard;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034763;1600500;Guard;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034764;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034765;200600;Post;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;;;2;15.363;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034766;800202;2-;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;;;2;15.363;26.57;7.59;;;;;;;;Post;;Lay up;;;;2017-12-07 11:21:03.588582
+77034770;800201;2+;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;38.750;23.72;9.42;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77034772;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;53.369;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034773;800302;3-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;2;72.481;23.42;1.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034777;100200;Game stop;;;;;;;;;;;2;81.822;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034778;300100;Foul;1158;Gerald Henderson;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;81.822;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034781;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;108.229;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034782;200300;Pick'n'Roll;1160;Ed Davis;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;2;118.988;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034783;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1158;Gerald Henderson;2;118.988;26.84;7.74;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:21:03.588582
+77034786;100200;Game stop;;;;;;;;;;;2;164.886;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034788;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;176.885;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034789;800302;3-;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;;;2;186.885;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034792;100300;Rebound;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;2;197.762;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034793;100200;Game stop;;;;;;;;;;;2;204.927;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034796;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;246.481;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034797;800202;2-;8397;Tim Frazier;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;2;246.481;25.64;10.98;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:21:03.588582
+77034800;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;251.597;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034801;800202;2-;1158;Gerald Henderson;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;260.619;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77034802;100200;Game stop;;;;;;;;;;;2;260.619;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034803;1800600;Timeout;;;;;;;;;;;2;260.619;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034804;800600;2F;1160;Ed Davis;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;260.619;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:21:03.588582
+77034807;800101;1+;1160;Ed Davis;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;281.382;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034808;800101;1+;1160;Ed Davis;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;299.412;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034810;100200;Game stop;;;;;;;;;;;2;308.929;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034812;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;321.224;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034813;800202;2-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;333.224;26.96;2.79;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77034816;100300;Rebound;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;345.695;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034817;800302;3-;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;2;354.294;22.28;13.68;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77034819;100200;Game stop;;;;;;;;;;;2;354.294;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034821;800102;1-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;2;375.743;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034825;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;396.932;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034826;100200;Game stop;;;;;;;;;;;2;416.290;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034827;100500;Turnover;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;416.290;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034828;1600500;Guard;1151;Al-Farouq Aminu;21;Portland Trail Blazers;1159;Meyers Leonard;21;Portland Trail Blazers;;;2;444.007;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034833;200300;Pick'n'Roll;1160;Ed Davis;21;Portland Trail Blazers;;;;;8736;Maurice Harkless;2;462.853;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034834;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;;;;;8736;Maurice Harkless;2;462.853;26.36;7.59;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:21:03.588582
+77034836;100400;Steal;8736;Maurice Harkless;21;Portland Trail Blazers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;473.407;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034837;800302;3-;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;8397;Tim Frazier;2;491.449;22.58;13.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034840;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;502.283;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034841;100200;Game stop;;;;;;;;;;;2;577.681;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034844;1600500;Guard;1161;Allen Crabbe;21;Portland Trail Blazers;1158;Gerald Henderson;21;Portland Trail Blazers;;;2;577.681;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034845;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;577.681;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034846;800302;3-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;2;577.681;23.03;1.23;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77034850;100200;Game stop;;;;;;;;;;;2;595.721;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034851;1800600;Timeout;;;21;Portland Trail Blazers;;;;;;;2;595.721;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034852;1600500;Guard;419014;CJ McCollum;21;Portland Trail Blazers;1160;Ed Davis;21;Portland Trail Blazers;;;2;625.281;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034853;1600500;Guard;1162;Mason Plumlee;21;Portland Trail Blazers;8397;Tim Frazier;21;Portland Trail Blazers;;;2;625.281;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034854;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;625.281;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034855;100200;Game stop;;;;;;;;;;;2;625.281;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034856;100500;Turnover;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;625.281;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034859;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;643.098;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034860;800302;3-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;656.200;19.64;5.64;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034861;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;2;656.200;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034862;800202;2-;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;2;656.200;26.42;9.57;;;;;;;;Putbacks;;Hook;;;;2017-12-07 11:21:03.588582
+77034864;100200;Game stop;;;;;;;;;;;2;660.165;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034865;300100;Foul;1162;Mason Plumlee;21;Portland Trail Blazers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;660.165;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034869;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;2;701.796;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034870;100200;Game stop;;;;;;;;;;;2;709.030;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034872;800102;1-;1162;Mason Plumlee;21;Portland Trail Blazers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;2;731.665;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034873;800201;2+;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;2;731.665;26.81;7.26;;;;;;;;;;Lay up;;;;2017-12-07 11:21:03.588582
+77034877;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;2;738.236;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034878;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;2;749.908;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034879;200300;Pick'n'Roll;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;749.908;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77034880;800301;3+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;749.908;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:21:03.588582
+77034883;400101;Accurate pass;8736;Maurice Harkless;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;2;782.716;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034884;800201;2+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;8736;Maurice Harkless;2;782.716;27.02;7.62;;;;;;;;Catch and Drive;;Dunk;Drives Left;;;2017-12-07 11:21:03.588582
+77034886;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;2;800.656;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034889;100200;Game stop;;;;;;;;;;;2;817.352;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034890;300100;Foul;1151;Al-Farouq Aminu;21;Portland Trail Blazers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;817.352;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034894;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;869.090;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034895;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;885.090;21.65;5.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034896;100200;Game stop;;;;;;;;;;;2;885.090;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034898;1600500;Guard;1158;Gerald Henderson;21;Portland Trail Blazers;8736;Maurice Harkless;21;Portland Trail Blazers;;;2;922.831;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034902;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;2;935.608;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034903;800201;2+;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;935.608;26.99;7.20;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:21:03.588582
+77034906;100200;Game stop;;;;;;;;;;;2;966.451;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034907;1800600;Timeout;;;21;Portland Trail Blazers;;;;;;;2;966.451;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034910;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;981.449;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034911;800202;2-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1002.449;21.11;8.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034912;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;2;1002.449;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034913;800202;2-;1162;Mason Plumlee;21;Portland Trail Blazers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;2;1002.449;26.99;7.05;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:21:03.588582
+77034915;100200;Game stop;;;;;;;;;;;2;1013.639;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034916;300100;Foul;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;1013.639;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034919;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1040.793;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034920;800302;3-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;1056.242;21.98;2.01;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:21:03.588582
+77034921;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1056.242;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034922;800202;2-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;1056.242;26.72;7.20;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:21:03.588582
+77034924;100200;Game stop;;;;;;;;;;;2;1060.711;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034925;300300;Technical foul;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1060.711;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034928;100400;Steal;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;;;2;1107.269;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034929;100200;Game stop;;;;;;;;;;;2;1113.887;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034930;100500;Turnover;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;2;1113.887;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034931;1600500;Guard;1152;Noah Vonleh;21;Portland Trail Blazers;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;2;1149.462;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034936;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;1170.346;26.51;7.59;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:21:03.588582
+77034938;100200;Game stop;;;;;;;;;;;2;1170.346;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034939;300100;Foul;1162;Mason Plumlee;21;Portland Trail Blazers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;1170.346;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034941;1600500;Guard;1159;Meyers Leonard;21;Portland Trail Blazers;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;1225.260;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034943;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;2;1227.937;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034944;800302;3-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;2;1245.337;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034947;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;1283.698;26.42;8.19;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:21:03.588582
+77034948;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;2;1283.698;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034949;1800500;Halftime;;;;;;;;;;;2;1283.698;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034950;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034956;1600500;Guard;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034957;1600500;Guard;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034958;1600500;Guard;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034959;1600500;Guard;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034960;1600500;Guard;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034961;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;5.720;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034962;100200;Game stop;;;;;;;;;;;3;29.720;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034963;100500;Turnover;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;3;29.720;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034967;800202;2-;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;76.805;27.05;7.62;;;;;;;;;;Lay up;;;;2017-12-07 11:21:03.588582
+77034971;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;89.017;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034972;200300;Pick'n'Roll;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;100.539;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77034973;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;100.539;27.05;7.62;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 11:21:03.588582
+77034976;200600;Post;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;137.257;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034977;800202;2-;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;3;137.257;27.02;7.62;;;;;;;;Post;;Dunk;;;;2017-12-07 11:21:03.588582
+77034981;800600;2F;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;184.360;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:21:03.588582
+77034982;100200;Game stop;;;;;;;;;;;3;184.360;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034984;800101;1+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;214.612;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034985;1600500;Guard;1160;Ed Davis;21;Portland Trail Blazers;1162;Mason Plumlee;21;Portland Trail Blazers;;;3;236.350;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034986;800101;1+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;236.350;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034990;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;267.017;24.59;5.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034993;100300;Rebound;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;278.237;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034994;800600;2F;1151;Al-Farouq Aminu;21;Portland Trail Blazers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;284.491;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:21:03.588582
+77034995;100200;Game stop;;;;;;;;;;;3;284.491;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034997;800101;1+;1151;Al-Farouq Aminu;21;Portland Trail Blazers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;307.413;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034998;800102;1-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;325.170;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035004;200300;Pick'n'Roll;1160;Ed Davis;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;3;354.744;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035005;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;3;354.744;27.05;8.19;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:21:03.588582
+77035008;100200;Game stop;;;;;;;;;;;3;362.855;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035009;300100;Foul;1161;Allen Crabbe;21;Portland Trail Blazers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;362.855;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035012;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;409.575;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035013;800202;2-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;428.575;24.50;8.28;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77035014;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;3;428.575;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035015;800600;2F;1152;Noah Vonleh;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;428.575;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:21:03.588582
+77035016;100200;Game stop;;;;;;;;;;;3;428.575;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035018;800101;1+;1152;Noah Vonleh;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;447.966;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035019;800101;1+;1152;Noah Vonleh;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;458.094;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035022;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;3;470.787;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035023;800202;2-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;478.640;26.84;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77035024;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;478.640;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035025;800201;2+;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;478.640;26.81;8.04;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77035026;100400;Steal;1151;Al-Farouq Aminu;21;Portland Trail Blazers;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;494.962;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035027;800202;2-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;3;509.833;25.19;12.12;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77035028;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;509.833;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035029;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;;;3;509.833;26.66;7.74;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77035030;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;509.833;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035031;800600;2F;1160;Ed Davis;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;509.833;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:21:03.588582
+77035032;100200;Game stop;;;;;;;;;;;3;509.833;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035034;800101;1+;1160;Ed Davis;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;540.822;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035036;800102;1-;1160;Ed Davis;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;562.711;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035040;100200;Game stop;;;;;;;;;;;3;574.532;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035041;300100;Foul;419014;CJ McCollum;21;Portland Trail Blazers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;574.532;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035044;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;611.322;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035045;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;621.322;22.10;4.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035046;100200;Game stop;;;;;;;;;;;3;631.293;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035050;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;661.338;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035051;800302;3-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;735.857;22.13;13.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035052;100300;Rebound;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;735.857;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035053;800302;3-;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;735.857;20.09;5.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035055;100200;Game stop;;;;;;;;;;;3;751.254;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035057;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;776.655;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035058;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;789.655;22.58;5.01;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035062;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;811.333;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035063;800202;2-;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;3;834.208;25.97;7.89;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77035064;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;834.208;26.81;7.80;;;;;;;;Putbacks;;;;;;2017-12-07 11:21:03.588582
+77035065;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;834.208;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035066;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;834.208;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035067;800202;2-;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;834.208;26.42;7.80;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:21:03.588582
+77035069;100200;Game stop;;;;;;;;;;;3;880.776;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035071;1600500;Guard;1159;Meyers Leonard;21;Portland Trail Blazers;1152;Noah Vonleh;21;Portland Trail Blazers;;;3;880.776;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035072;1600500;Guard;1158;Gerald Henderson;21;Portland Trail Blazers;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;3;880.776;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035075;400101;Accurate pass;1160;Ed Davis;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;3;923.674;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77035076;800301;3+;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;1160;Ed Davis;3;923.674;20.09;5.04;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77035080;800302;3-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;950.369;19.79;8.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035081;100300;Rebound;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;950.369;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035082;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;950.369;25.64;9.21;;;;;;;;Putbacks;;Floater;;;;2017-12-07 11:21:03.588582
+77035083;100200;Game stop;;;;;;;;;;;3;950.369;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035087;100200;Game stop;;;;;;;;;;;3;976.014;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035088;300100;Foul;1160;Ed Davis;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;;;3;976.014;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035092;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1159;Meyers Leonard;3;1023.684;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035093;800301;3+;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;1023.684;22.43;2.01;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035095;100300;Rebound;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;1034.037;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035096;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;1048.208;23.60;11.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035097;100300;Rebound;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;1048.208;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035098;400101;Accurate pass;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;1159;Meyers Leonard;3;1048.208;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035099;800301;3+;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;3;1048.208;20.63;11.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035101;100300;Rebound;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;3;1063.551;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035102;100200;Game stop;;;;;;;;;;;3;1073.060;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035103;100500;Turnover;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;3;1073.060;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035107;100300;Rebound;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;3;1105.899;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035108;200600;Post;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;3;1117.300;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035109;800600;2F;1159;Meyers Leonard;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1117.300;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:21:03.588582
+77035110;100200;Game stop;;;;;;;;;;;3;1117.300;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035112;800102;1-;1159;Meyers Leonard;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1136.356;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035113;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;3;1136.356;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035114;800101;1+;1159;Meyers Leonard;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1151.388;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035116;100200;Game stop;;;;;;;;;;;3;1166.118;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035118;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;3;1169.996;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035119;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;3;1185.996;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035120;800201;2+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;1185.996;22.88;2.49;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77035122;100200;Game stop;;;;;;;;;;;3;1212.968;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035123;300100;Foul;1159;Meyers Leonard;21;Portland Trail Blazers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;1212.968;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035126;400101;Accurate pass;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;1282.806;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035127;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;3;1282.806;26.72;6.87;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:21:03.588582
+77035128;100400;Steal;1160;Ed Davis;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1305.228;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035129;800600;2F;1161;Allen Crabbe;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1305.228;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035130;100200;Game stop;;;;;;;;;;;3;1305.228;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035132;800101;1+;1161;Allen Crabbe;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1334.895;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035133;1600500;Guard;8397;Tim Frazier;21;Portland Trail Blazers;419014;CJ McCollum;21;Portland Trail Blazers;;;3;1351.810;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035134;800102;1-;1161;Allen Crabbe;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1351.810;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035137;100200;Game stop;;;;;;;;;;;3;1362.058;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035138;300100;Foul;8397;Tim Frazier;21;Portland Trail Blazers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;3;1362.058;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035142;1800500;Halftime;;;;;;;;;;;3;1384.131;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035143;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035149;1600500;Guard;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035150;1600500;Guard;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035151;1600500;Guard;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035152;1600500;Guard;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035153;1600500;Guard;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035156;100200;Game stop;;;;;;;;;;;4;4.793;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035157;300100;Foul;1159;Meyers Leonard;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;4.793;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035159;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;24.353;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035160;100300;Rebound;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;24.353;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035161;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1159;Meyers Leonard;4;39.842;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035162;800301;3+;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;39.842;23.45;14.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035165;100200;Game stop;;;;;;;;;;;4;72.797;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035166;100500;Turnover;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;4;72.797;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035170;100200;Game stop;;;;;;;;;;;4;96.767;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035171;1800600;Timeout;;;21;Portland Trail Blazers;;;;;;;4;96.767;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035172;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;110.106;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035173;800202;2-;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;4;128.106;26.57;13.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035177;100200;Game stop;;;;;;;;;;;4;144.679;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035178;300100;Foul;1159;Meyers Leonard;21;Portland Trail Blazers;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;144.679;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035180;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;167.289;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035181;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;186.289;26.42;2.70;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035185;800201;2+;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;213.844;24.20;3.63;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035187;100200;Game stop;;;;;;;;;;;4;226.449;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035188;300100;Foul;1158;Gerald Henderson;21;Portland Trail Blazers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;226.449;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035190;1600500;Guard;1161;Allen Crabbe;21;Portland Trail Blazers;1158;Gerald Henderson;21;Portland Trail Blazers;;;4;273.900;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035193;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;278.762;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035194;800600;2F;419014;CJ McCollum;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;285.762;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:21:03.588582
+77035195;100200;Game stop;;;;;;;;;;;4;285.762;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035197;800101;1+;419014;CJ McCollum;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;309.708;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035198;800101;1+;419014;CJ McCollum;21;Portland Trail Blazers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;323.129;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035201;100300;Rebound;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;337.128;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035202;800302;3-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;346.554;19.64;6.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035204;100200;Game stop;;;;;;;;;;;4;362.951;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035205;300100;Foul;8397;Tim Frazier;21;Portland Trail Blazers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;362.951;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035209;800202;2-;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;416.277;26.81;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77035210;100300;Rebound;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;416.277;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035211;400101;Accurate pass;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;4;416.277;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035212;800301;3+;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;416.277;23.12;14.46;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035214;100300;Rebound;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;435.168;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035215;800202;2-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;454.578;21.11;5.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035219;800202;2-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;8397;Tim Frazier;4;483.662;27.05;9.21;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77035222;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;4;492.930;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035223;800302;3-;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;4;504.205;24.14;14.73;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77035224;100300;Rebound;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;4;504.205;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035225;800201;2+;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;4;504.205;26.72;7.35;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77035227;100200;Game stop;;;;;;;;;;;4;520.675;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035228;1800600;Timeout;;;21;Portland Trail Blazers;;;;;;;4;520.675;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035229;1600500;Guard;13752;Luis Montero;21;Portland Trail Blazers;1162;Mason Plumlee;21;Portland Trail Blazers;;;4;549.339;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035230;1600500;Guard;1152;Noah Vonleh;21;Portland Trail Blazers;1161;Allen Crabbe;21;Portland Trail Blazers;;;4;549.339;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035231;1600500;Guard;1157;Pat Connaughton;21;Portland Trail Blazers;419014;CJ McCollum;21;Portland Trail Blazers;;;4;549.339;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035234;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;549.339;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035235;800302;3-;13752;Luis Montero;21;Portland Trail Blazers;;;;;;;4;549.339;20.66;3.96;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77035236;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;4;549.339;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035237;800202;2-;1157;Pat Connaughton;21;Portland Trail Blazers;;;;;;;4;563.724;26.27;8.64;;;;;;;;Screen off;;Hook;;;;2017-12-07 11:21:03.588582
+77035240;100300;Rebound;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;4;588.377;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035241;800600;2F;8397;Tim Frazier;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;4;596.231;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:21:03.588582
+77035242;100200;Game stop;;;;;;;;;;;4;596.231;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035244;800102;1-;8397;Tim Frazier;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;4;619.809;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035245;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;4;619.809;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035246;800101;1+;8397;Tim Frazier;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;4;633.275;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035251;400101;Accurate pass;8397;Tim Frazier;21;Portland Trail Blazers;;;;;1159;Meyers Leonard;4;672.421;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035252;200300;Pick'n'Roll;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;8397;Tim Frazier;4;672.421;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77035253;800201;2+;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;8397;Tim Frazier;4;672.421;22.52;10.20;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:21:03.588582
+77035260;800202;2-;13752;Luis Montero;21;Portland Trail Blazers;;;;;;;4;723.715;26.57;2.55;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:21:03.588582
+77035262;100400;Steal;8397;Tim Frazier;21;Portland Trail Blazers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;733.374;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035263;100200;Game stop;;;;;;;;;;;4;734.618;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035267;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;778.867;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035268;200600;Post;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;778.867;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035269;800201;2+;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;778.867;21.98;7.74;;;;;;;;Post;;Jumper;;;;2017-12-07 11:21:03.588582
+77035272;800302;3-;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;8397;Tim Frazier;4;823.813;19.88;8.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035274;100200;Game stop;;;;;;;;;;;4;832.340;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035275;1800600;Timeout;;;;;;;;;;;4;832.340;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035277;300100;Foul;13752;Luis Montero;21;Portland Trail Blazers;7070;Norris Cole;3279;New Orleans Pelicans;;;4;832.340;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035283;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;875.271;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035284;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;4;875.271;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035285;100200;Game stop;;;;;;;;;;;4;876.813;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035288;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;906.260;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035289;800600;2F;13752;Luis Montero;21;Portland Trail Blazers;370683;Toney Douglas;3279;New Orleans Pelicans;;;4;906.260;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:21:03.588582
+77035290;100200;Game stop;;;;;;;;;;;4;906.260;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035292;800101;1+;13752;Luis Montero;21;Portland Trail Blazers;370683;Toney Douglas;3279;New Orleans Pelicans;;;4;926.198;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035293;800101;1+;13752;Luis Montero;21;Portland Trail Blazers;370683;Toney Douglas;3279;New Orleans Pelicans;;;4;938.183;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035296;800302;3-;13752;Luis Montero;21;Portland Trail Blazers;;;;;1159;Meyers Leonard;4;980.586;21.98;13.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035299;100300;Rebound;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;4;988.208;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035300;800600;2F;1159;Meyers Leonard;21;Portland Trail Blazers;8333;Luke Babbitt;3279;New Orleans Pelicans;;;4;1003.365;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035301;100200;Game stop;;;;;;;;;;;4;1003.365;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035303;800102;1-;1159;Meyers Leonard;21;Portland Trail Blazers;8333;Luke Babbitt;3279;New Orleans Pelicans;;;4;1023.483;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035304;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;4;1023.483;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035305;800101;1+;1159;Meyers Leonard;21;Portland Trail Blazers;8333;Luke Babbitt;3279;New Orleans Pelicans;;;4;1033.701;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035308;100200;Game stop;;;;;;;;;;;4;1046.595;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035309;100300;Rebound;;;21;Portland Trail Blazers;;;;;;;4;1046.595;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035310;100100;Ball in play;;;21;Portland Trail Blazers;;;;;;;4;1061.810;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035311;800202;2-;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;4;1081.910;26.72;7.17;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:21:03.588582
+77035312;100300;Rebound;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;4;1081.910;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035313;400101;Accurate pass;13752;Luis Montero;21;Portland Trail Blazers;;;;;1152;Noah Vonleh;4;1081.910;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035314;800201;2+;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;13752;Luis Montero;4;1081.910;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77035317;800302;3-;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;4;1110.408;19.73;7.59;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:21:03.588582
+77035319;1800700;Match end;;;;;;;;;;;4;1132.308;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+102325915;300100;Foul;1151;Al-Farouq Aminu;21;Portland Trail Blazers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;1113.887;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+102325916;100500;Turnover;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;3;1212.968;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+103668137;200900;Assisting;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;1;162.174;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668141;200900;Assisting;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;1162;Mason Plumlee;1;278.072;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668145;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;306.044;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668147;200900;Assisting;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;1151;Al-Farouq Aminu;1;338.047;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668149;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;369.683;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668155;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;1;433.940;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668163;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;1;652.865;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668167;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;711.427;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668169;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;1;771.759;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668173;200900;Assisting;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;910.385;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668175;200900;Assisting;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;1;946.137;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668181;200900;Assisting;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;;;2;38.750;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668185;200900;Assisting;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;2;260.619;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668191;200900;Assisting;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;2;731.665;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668193;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;749.908;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668197;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;8736;Maurice Harkless;2;782.716;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668203;200900;Assisting;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;419014;CJ McCollum;2;935.608;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668217;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;100.539;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668223;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;184.360;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668227;200900;Assisting;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;;;;;3;284.491;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668233;200900;Assisting;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;;;3;428.575;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668235;200900;Assisting;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;478.640;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668237;200900;Assisting;1160;Ed Davis;21;Portland Trail Blazers;;;;;;;3;509.833;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668241;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;621.322;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668245;200900;Assisting;1158;Gerald Henderson;21;Portland Trail Blazers;;;;;1160;Ed Davis;3;923.674;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668249;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;3;950.369;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668253;200900;Assisting;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;1023.684;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668255;200900;Assisting;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;1161;Allen Crabbe;3;1048.208;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668257;200900;Assisting;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;3;1117.300;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668259;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;3;1185.996;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668265;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;1158;Gerald Henderson;3;1282.806;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668267;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;;;3;1305.228;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668271;200900;Assisting;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;39.842;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668279;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;186.289;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668283;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;213.844;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668287;200900;Assisting;419014;CJ McCollum;21;Portland Trail Blazers;;;;;;;4;285.762;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668291;200900;Assisting;1161;Allen Crabbe;21;Portland Trail Blazers;;;;;419014;CJ McCollum;4;416.277;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668295;200900;Assisting;1162;Mason Plumlee;21;Portland Trail Blazers;;;;;;;4;504.205;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668299;200900;Assisting;8397;Tim Frazier;21;Portland Trail Blazers;;;;;;;4;596.231;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668303;200900;Assisting;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;8397;Tim Frazier;4;672.421;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668307;200900;Assisting;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;778.867;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668313;200900;Assisting;13752;Luis Montero;21;Portland Trail Blazers;;;;;;;4;906.260;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668317;200900;Assisting;1159;Meyers Leonard;21;Portland Trail Blazers;;;;;;;4;1003.365;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668319;200900;Assisting;1152;Noah Vonleh;21;Portland Trail Blazers;;;;;13752;Luis Montero;4;1081.910;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+77034570;1601000;Starting lineup;370683;Toney Douglas;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034571;1601000;Starting lineup;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034572;1601000;Starting lineup;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034573;1601000;Starting lineup;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034574;1601000;Starting lineup;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034575;1601000;Starting lineup;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034576;1601000;Starting lineup;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034577;1601000;Starting lineup;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034578;1601000;Starting lineup;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034579;1601000;Starting lineup;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034580;1601000;Starting lineup;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034581;1601000;Starting lineup;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034595;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034596;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034597;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034598;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034599;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034605;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;85.205;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034609;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;118.189;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034610;200300;Pick'n'Roll;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;134.189;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034611;800202;2-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;134.189;27.05;8.22;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:21:03.588582
+77034612;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;134.189;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034613;800201;2+;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;134.189;26.57;7.74;;;;;;;;Putbacks;;;;;;2017-12-07 11:21:03.588582
+77034618;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;189.294;27.08;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034621;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;200.499;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034622;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;208.817;19.79;6.51;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034624;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;228.536;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034627;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;254.014;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034628;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;267.014;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034629;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;1;267.014;27.02;7.62;;;;;;;;Post;;Dunk;;;;2017-12-07 11:21:03.588582
+77034633;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;294.673;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034634;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;294.673;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77034635;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;294.673;27.08;7.65;;;;;;;;Pick'n'pop;;Floater;Drives Left;;;2017-12-07 11:21:03.588582
+77034637;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;320.004;21.20;3.12;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77034638;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;320.004;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034639;800302;3-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;332.520;19.88;6.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034643;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;356.484;21.41;13.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034647;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;392.460;27.08;7.26;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:21:03.588582
+77034648;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;392.460;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034649;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;392.460;26.99;7.17;;;;;;;;Putbacks;;;;;;2017-12-07 11:21:03.588582
+77034651;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;403.604;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034652;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8395;Omer Faruk Asik;1;416.139;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034653;200300;Pick'n'Roll;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;416.139;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034654;800201;2+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;416.139;26.99;7.02;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:21:03.588582
+77034657;100500;Turnover;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;456.441;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034659;100400;Steal;7719;Eric Gordon;3279;New Orleans Pelicans;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;1;489.533;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034660;800600;2F;7719;Eric Gordon;3279;New Orleans Pelicans;1161;Allen Crabbe;21;Portland Trail Blazers;;;1;494.713;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:21:03.588582
+77034663;800101;1+;7719;Eric Gordon;3279;New Orleans Pelicans;1161;Allen Crabbe;21;Portland Trail Blazers;;;1;519.461;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034664;800101;1+;7719;Eric Gordon;3279;New Orleans Pelicans;1161;Allen Crabbe;21;Portland Trail Blazers;;;1;532.897;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034667;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;547.595;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034668;400101;Accurate pass;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;557.743;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77034669;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8395;Omer Faruk Asik;1;557.743;19.94;5.19;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77034672;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;1;588.683;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034673;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;1;588.683;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034676;100400;Steal;8394;Anthony Davis;3279;New Orleans Pelicans;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;1;588.683;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034677;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;597.685;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034678;800600;2F;8394;Anthony Davis;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;1;597.685;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:21:03.588582
+77034681;800101;1+;8394;Anthony Davis;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;1;617.853;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034682;800101;1+;8394;Anthony Davis;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;1;630.611;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034686;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;1;665.543;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034687;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;665.543;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77034688;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;665.543;24.05;5.79;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:21:03.588582
+77034696;800302;3-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;727.247;26.57;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034699;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;748.662;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034700;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;754.692;27.20;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77034703;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;789.610;20.21;4.05;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77034709;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;1;804.005;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034712;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;823.967;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034713;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;835.814;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034714;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;855.814;23.18;1.26;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034720;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;873.701;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034721;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;8736;Maurice Harkless;21;Portland Trail Blazers;;;1;880.164;27.08;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77034722;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;880.164;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034723;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;880.164;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77034728;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;1;924.860;19.94;8.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034732;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;7070;Norris Cole;1;963.609;26.66;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034733;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;963.609;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034735;100400;Steal;7070;Norris Cole;3279;New Orleans Pelicans;1158;Gerald Henderson;21;Portland Trail Blazers;;;1;972.657;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034736;800600;2F;7070;Norris Cole;3279;New Orleans Pelicans;419014;CJ McCollum;21;Portland Trail Blazers;;;1;977.132;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:21:03.588582
+77034739;800101;1+;7070;Norris Cole;3279;New Orleans Pelicans;419014;CJ McCollum;21;Portland Trail Blazers;;;1;997.194;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034740;800101;1+;7070;Norris Cole;3279;New Orleans Pelicans;419014;CJ McCollum;21;Portland Trail Blazers;;;1;1008.118;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034742;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;1064.632;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034743;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;1158;Gerald Henderson;21;Portland Trail Blazers;;;1;1080.032;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034746;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;1;1097.527;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034747;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;1097.527;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034748;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;1158;Gerald Henderson;21;Portland Trail Blazers;;;1;1097.527;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034754;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034755;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034756;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034757;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034758;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034767;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;15.363;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034768;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7070;Norris Cole;2;20.953;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034769;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;20.953;24.14;3.24;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77034771;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;53.369;27.20;14.85;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77034774;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;2;72.481;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034775;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;81.822;27.05;8.37;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77034776;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;2;81.822;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034779;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;100.229;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034780;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;1159;Meyers Leonard;21;Portland Trail Blazers;;;2;108.229;27.08;8.34;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:21:03.588582
+77034784;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;118.988;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034785;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;132.918;25.73;6.21;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034787;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;8397;Tim Frazier;21;Portland Trail Blazers;;;2;164.886;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034790;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;2;186.885;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034791;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;197.762;22.73;3.93;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034794;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;8397;Tim Frazier;21;Portland Trail Blazers;;;2;204.927;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034795;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;246.481;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034798;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;246.481;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034799;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;251.597;27.05;6.90;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77034805;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1160;Ed Davis;21;Portland Trail Blazers;;;2;260.619;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034806;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;2;281.382;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034809;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;303.929;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034811;100500;Turnover;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;308.929;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034814;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;2;333.224;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034815;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;1160;Ed Davis;21;Portland Trail Blazers;;;2;345.695;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77034818;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;2;354.294;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034820;300300;Technical foul;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;354.294;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034822;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;375.743;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034823;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;385.932;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034824;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;396.932;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77034829;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;444.007;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034830;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;444.007;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034831;200300;Pick'n'Roll;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;444.007;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034832;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;444.007;23.12;9.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034835;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;2;462.853;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034838;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;491.449;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034839;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;502.283;24.50;11.13;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77034842;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;577.681;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034843;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;577.681;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034847;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;577.681;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034848;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;2;587.409;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034849;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;2;587.409;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:21:03.588582
+77034857;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;631.098;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034858;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;643.098;25.19;11.97;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77034863;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;656.200;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034866;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;678.796;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034867;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;701.796;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034868;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;701.796;26.72;5.40;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77034871;300100;Foul;9128;Alonzo Gee;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;709.030;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034874;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;731.665;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034875;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;731.665;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034876;800202;2-;9128;Alonzo Gee;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;738.236;26.99;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77034881;400101;Accurate pass;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;762.785;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034882;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;2;762.785;26.84;7.95;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:21:03.588582
+77034885;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;800.656;20.21;10.68;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034887;100400;Steal;9049;Tyreke Evans;3279;New Orleans Pelicans;419014;CJ McCollum;21;Portland Trail Blazers;;;2;811.913;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034888;800600;2F;9049;Tyreke Evans;3279;New Orleans Pelicans;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;2;817.352;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:21:03.588582
+77034891;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;2;848.003;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034892;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;864.449;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034893;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;2;864.449;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034897;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;885.090;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034899;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;922.831;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034900;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;2;922.831;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034901;800301;3+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;922.831;19.79;10.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034904;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;944.034;26.51;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77034905;100400;Steal;9049;Tyreke Evans;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;961.846;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034908;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;2;966.451;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034909;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;966.451;26.84;6.96;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77034914;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1002.449;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034917;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1029.793;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034918;800202;2-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;2;1040.793;26.72;7.20;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:21:03.588582
+77034923;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;1056.242;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034926;800101;1+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;2;1082.244;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034927;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1096.269;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034932;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1149.462;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034933;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;2;1149.462;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034934;800301;3+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;2;1149.462;20.36;4.41;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77034935;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;1170.346;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034937;800600;2F;6753;Ryan Anderson;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;1170.346;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034940;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;1202.939;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034942;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;1162;Mason Plumlee;21;Portland Trail Blazers;;;2;1225.260;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034945;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1245.337;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034946;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1269.288;22.58;10.38;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:21:03.588582
+77034951;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034952;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034953;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034954;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034955;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034964;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;48.805;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034965;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;3;59.805;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034966;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;59.805;26.99;9.30;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:21:03.588582
+77034968;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;76.805;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034969;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;89.017;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77034970;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;89.017;21.71;10.20;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:21:03.588582
+77034974;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;3;120.139;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034975;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;120.139;20.66;8.13;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77034978;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;137.257;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034979;400101;Accurate pass;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;3;164.922;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034980;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;3;164.922;24.50;12.60;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77034983;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;3;184.360;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034987;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;237.619;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77034988;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;3;256.619;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034989;800301;3+;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;256.619;26.72;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034991;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;267.017;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034992;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;278.237;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77034996;300100;Foul;9128;Alonzo Gee;3279;New Orleans Pelicans;1151;Al-Farouq Aminu;21;Portland Trail Blazers;;;3;284.491;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77034999;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;325.170;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035000;100300;Rebound;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;3;325.170;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035001;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8395;Omer Faruk Asik;3;339.823;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035002;200300;Pick'n'Roll;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;339.823;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035003;800201;2+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;339.823;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:21:03.588582
+77035006;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;354.744;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035007;800600;2F;9049;Tyreke Evans;3279;New Orleans Pelicans;1161;Allen Crabbe;21;Portland Trail Blazers;;;3;362.855;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:21:03.588582
+77035010;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;1161;Allen Crabbe;21;Portland Trail Blazers;;;3;384.773;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035011;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;1161;Allen Crabbe;21;Portland Trail Blazers;;;3;404.812;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035017;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1152;Noah Vonleh;21;Portland Trail Blazers;;;3;428.575;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035020;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;460.787;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035021;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;470.787;23.45;3.24;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035033;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;1160;Ed Davis;21;Portland Trail Blazers;;;3;509.833;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035035;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;562.711;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035037;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;562.711;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035038;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;562.711;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035039;800600;2F;9049;Tyreke Evans;3279;New Orleans Pelicans;419014;CJ McCollum;21;Portland Trail Blazers;;;3;574.532;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:21:03.588582
+77035042;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;419014;CJ McCollum;21;Portland Trail Blazers;;;3;594.014;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035043;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;419014;CJ McCollum;21;Portland Trail Blazers;;;3;608.809;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035047;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;3;631.293;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035048;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;645.338;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035049;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;661.338;22.10;11.22;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77035054;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;735.857;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035056;100500;Turnover;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;751.254;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035059;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;789.655;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035060;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;1160;Ed Davis;21;Portland Trail Blazers;;;3;810.923;27.05;7.62;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:21:03.588582
+77035061;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;811.333;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035068;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;834.208;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035070;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;9128;Alonzo Gee;3279;New Orleans Pelicans;;;3;880.776;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035073;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;888.861;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035074;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;906.861;26.84;13.92;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77035077;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;935.515;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035078;200300;Pick'n'Roll;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;935.515;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77035079;800301;3+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;935.515;20.81;2.10;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:21:03.588582
+77035084;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;3;950.369;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035085;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;976.014;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035086;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;976.014;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035089;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;990.026;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035090;400101;Accurate pass;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;3;1006.026;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035091;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;1006.026;20.18;2.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035094;800302;3-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1034.037;20.48;2.85;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035100;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;1063.551;24.50;12.15;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77035104;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;3;1105.899;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035105;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1105.899;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035106;800202;2-;8393;Dante Cunningham;3279;New Orleans Pelicans;1160;Ed Davis;21;Portland Trail Blazers;7070;Norris Cole;3;1105.899;26.66;6.87;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77035111;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;1159;Meyers Leonard;21;Portland Trail Blazers;;;3;1117.300;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035115;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1157.118;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035117;100500;Turnover;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;1166.118;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035121;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1199.646;25.76;10.26;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 11:21:03.588582
+77035124;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1228.159;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035125;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1237.559;22.97;9.99;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035131;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;1161;Allen Crabbe;21;Portland Trail Blazers;;;3;1305.228;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035135;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1351.810;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035136;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;3;1351.810;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035139;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1378.631;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035140;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1384.131;23.75;5.04;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035141;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;3;1384.131;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035144;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035145;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035146;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035147;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035148;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035154;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035155;800400;2+1;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;4.793;26.84;5.64;;;;;;;;;;Jumper;;;;2017-12-07 11:21:03.588582
+77035158;800102;1-;8394;Anthony Davis;3279;New Orleans Pelicans;1159;Meyers Leonard;21;Portland Trail Blazers;;;4;24.353;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035163;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;53.533;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035164;800301;3+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;53.533;19.73;10.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035167;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;83.767;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035168;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;96.767;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035169;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;96.767;22.88;13.23;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035174;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;128.106;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035175;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;144.679;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035176;800400;2+1;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;144.679;26.99;7.89;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:21:03.588582
+77035179;800101;1+;8394;Anthony Davis;3279;New Orleans Pelicans;1159;Meyers Leonard;21;Portland Trail Blazers;;;4;165.695;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035182;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;204.699;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035183;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;204.699;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035184;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;204.699;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:21:03.588582
+77035186;800600;2F;9049;Tyreke Evans;3279;New Orleans Pelicans;1158;Gerald Henderson;21;Portland Trail Blazers;;;4;226.449;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:21:03.588582
+77035189;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;1158;Gerald Henderson;21;Portland Trail Blazers;;;4;251.573;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035191;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;273.900;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035192;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;1158;Gerald Henderson;21;Portland Trail Blazers;;;4;273.900;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035196;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;419014;CJ McCollum;21;Portland Trail Blazers;;;4;285.762;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035199;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;323.129;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035200;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;337.128;24.95;7.80;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77035203;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;346.554;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035206;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;378.713;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035207;400101;Accurate pass;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;389.713;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035208;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;389.713;24.80;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035213;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;435.168;23.27;14.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035216;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;454.578;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035217;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;467.399;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035218;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;467.399;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035220;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;483.662;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035221;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;492.930;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77035226;800301;3+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;520.675;20.81;3.39;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77035232;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;4;549.339;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035233;1600500;Guard;8394;Anthony Davis;3279;New Orleans Pelicans;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;549.339;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035238;100300;Rebound;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;563.724;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035239;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;588.377;19.94;2.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035243;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;8397;Tim Frazier;21;Portland Trail Blazers;;;4;596.231;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035247;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;636.395;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035248;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;650.395;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035249;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;650.395;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035250;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;4;650.395;24.80;12.06;;;;;;;;Post;;Jumper;;;;2017-12-07 11:21:03.588582
+77035254;200600;Post;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;695.907;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035255;800202;2-;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;695.907;25.52;12.30;;;;;;;;Post;;Jumper;;;;2017-12-07 11:21:03.588582
+77035256;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;4;695.907;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035257;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;4;708.074;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035258;200300;Pick'n'Roll;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;708.074;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035259;800201;2+;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;708.074;26.84;6.87;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:21:03.588582
+77035261;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;723.715;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035264;300100;Foul;8394;Anthony Davis;3279;New Orleans Pelicans;8397;Tim Frazier;21;Portland Trail Blazers;;;4;734.618;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035265;1600500;Guard;8590;Ishmael Smith;3279;New Orleans Pelicans;8394;Anthony Davis;3279;New Orleans Pelicans;;;4;778.867;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035266;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;778.867;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035270;400101;Accurate pass;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;4;794.243;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77035271;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;4;794.243;27.08;14.67;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77035273;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;823.813;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035276;800600;2F;7070;Norris Cole;3279;New Orleans Pelicans;13752;Luis Montero;21;Portland Trail Blazers;;;4;832.340;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:21:03.588582
+77035278;1600500;Guard;8333;Luke Babbitt;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;4;860.329;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035279;1600500;Guard;370683;Toney Douglas;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;860.329;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035280;800102;1-;7070;Norris Cole;3279;New Orleans Pelicans;13752;Luis Montero;21;Portland Trail Blazers;;;4;860.329;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035281;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;4;860.329;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035282;800102;1-;7070;Norris Cole;3279;New Orleans Pelicans;13752;Luis Montero;21;Portland Trail Blazers;;;4;875.271;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035286;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;1152;Noah Vonleh;21;Portland Trail Blazers;;;4;876.813;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035287;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;4;906.260;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035291;300100;Foul;370683;Toney Douglas;3279;New Orleans Pelicans;13752;Luis Montero;21;Portland Trail Blazers;;;4;906.260;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035294;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;939.409;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035295;800201;2+;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;953.409;25.34;5.55;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:21:03.588582
+77035297;100300;Rebound;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;980.586;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035298;800302;3-;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;;;4;988.208;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77035302;300100;Foul;8333;Luke Babbitt;3279;New Orleans Pelicans;1159;Meyers Leonard;21;Portland Trail Blazers;;;4;1003.365;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035306;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1036.595;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+77035307;800202;2-;8590;Ishmael Smith;3279;New Orleans Pelicans;;;;;;;4;1046.595;27.08;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77035315;400101;Accurate pass;370683;Toney Douglas;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;4;1098.786;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77035316;800301;3+;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;370683;Toney Douglas;4;1098.786;26.84;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77035318;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;1110.408;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+103668135;200900;Assisting;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;134.189;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668139;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;208.817;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668143;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;294.673;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668151;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;392.460;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668153;200900;Assisting;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;416.139;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668157;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;494.713;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668159;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8395;Omer Faruk Asik;1;557.743;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668161;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;597.685;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668165;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;665.543;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668171;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;1;880.164;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668177;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;977.132;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668179;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;20.953;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668183;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;132.918;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668187;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;444.007;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668189;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;2;587.409;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668195;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8394;Anthony Davis;2;762.785;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668199;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;817.352;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668201;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;2;922.831;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668205;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;944.034;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668207;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;966.451;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668209;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;2;1149.462;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668211;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;1170.346;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668213;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1269.288;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668215;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;59.805;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668219;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;120.139;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668221;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9128;Alonzo Gee;3;164.922;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668225;200900;Assisting;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;256.619;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668229;200900;Assisting;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;339.823;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668231;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;362.855;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668239;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;574.532;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668243;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;906.861;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668247;200900;Assisting;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;3;935.515;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668251;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;1006.026;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668261;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1199.646;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668263;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1237.559;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668269;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;;;4;4.793;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668273;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;53.533;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668275;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;96.767;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668277;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;144.679;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668281;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;204.699;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668285;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;226.449;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668289;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7070;Norris Cole;4;389.713;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668293;200900;Assisting;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;467.399;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668297;200900;Assisting;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;520.675;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668301;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;4;650.395;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668305;200900;Assisting;8394;Anthony Davis;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;708.074;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668309;200900;Assisting;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;4;794.243;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668311;200900;Assisting;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;832.340;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668315;200900;Assisting;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;8590;Ishmael Smith;4;953.409;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103668321;200900;Assisting;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;370683;Toney Douglas;4;1098.786;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082

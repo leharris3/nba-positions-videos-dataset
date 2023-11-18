@@ -1,0 +1,903 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77133584;1601000;Starting lineup;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133585;1601000;Starting lineup;370977;CJ Wilcox;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133586;1601000;Starting lineup;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133587;1601000;Starting lineup;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133588;1601000;Starting lineup;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133589;1601000;Starting lineup;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133590;1601000;Starting lineup;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133591;1601000;Starting lineup;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133592;1601000;Starting lineup;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133593;1601000;Starting lineup;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133594;1601000;Starting lineup;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133595;1601000;Starting lineup;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133596;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133602;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133603;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133604;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133605;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133606;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133607;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;8.941;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133608;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;1;25.941;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133609;200300;Pick'n'Roll;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;1;25.941;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133610;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;1;25.941;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 12:07:04.271412
+77133611;100200;Game stop;;;;;;;;;;;1;55.670;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133612;300300;Technical foul;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;55.670;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133616;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;118.195;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133617;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;1;118.195;24.74;3.66;;;;;;;;Screen off;;Jumper;;;;2017-12-07 12:07:04.271412
+77133620;800202;2-;177;DeAndre Jordan;13;Los Angeles Clippers;2;Timofey Mozgov;1;Cleveland Cavaliers;179;Chris Paul;1;145.450;25.52;6.63;;;;;;;;Cut;;Jumper;;;;2017-12-07 12:07:04.271412
+77133621;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;145.450;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133622;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;150.823;22.52;12.30;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 12:07:04.271412
+77133624;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;173.689;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133625;100200;Game stop;;;;;;;;;;;1;192.991;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133627;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;214.560;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133628;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;223.560;23.57;12.99;;;;;;;;Screen off;;Jumper;;;;2017-12-07 12:07:04.271412
+77133631;100200;Game stop;;;;;;;;;;;1;248.230;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133636;800600;2F;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;300.237;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 12:07:04.271412
+77133637;100200;Game stop;;;;;;;;;;;1;300.237;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133639;800101;1+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;327.226;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133640;800101;1+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;342.132;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133642;100200;Game stop;;;;;;;;;;;1;360.777;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133644;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;371.376;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133647;100200;Game stop;;;;;;;;;;;1;381.566;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133648;300100;Foul;176;Paul Pierce;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;1;381.566;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133651;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;416.887;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133652;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;416.887;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133653;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;430.306;22.52;14.28;;;;;;;;Screen off;;Jumper;;;;2017-12-07 12:07:04.271412
+77133657;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;453.402;21.20;8.52;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77133659;100400;Steal;176;Paul Pierce;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;465.334;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133660;400101;Accurate pass;176;Paul Pierce;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;468.688;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133661;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;176;Paul Pierce;1;468.688;27.23;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 12:07:04.271412
+77133662;100200;Game stop;;;;;;;;;;;1;493.665;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133663;300100;Foul;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;493.665;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133666;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;524.797;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133667;100200;Game stop;;;;;;;;;;;1;531.470;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133670;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;573.266;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133671;800600;2F;179;Chris Paul;13;Los Angeles Clippers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;573.266;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 12:07:04.271412
+77133672;100200;Game stop;;;;;;;;;;;1;573.266;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133674;800101;1+;179;Chris Paul;13;Los Angeles Clippers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;599.772;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133675;800101;1+;179;Chris Paul;13;Los Angeles Clippers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;614.319;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133679;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;636.942;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133680;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;644.156;20.21;4.35;;;;;;;;Transition;;Jumper;;;;2017-12-07 12:07:04.271412
+77133681;100200;Game stop;;;;;;;;;;;1;644.156;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133687;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;718.821;23.87;0.57;;;;;;;;Screen off;;Jumper;;;;2017-12-07 12:07:04.271412
+77133692;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;746.042;24.50;11.76;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77133694;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;776.961;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133695;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;795.716;27.08;0.57;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 12:07:04.271412
+77133696;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;795.716;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133697;800202;2-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;1;805.519;25.52;6.81;;;;;;;;Cut;;Hook;;;;2017-12-07 12:07:04.271412
+77133699;100200;Game stop;;;;;;;;;;;1;827.205;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133700;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;1;827.205;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133703;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;1;867.974;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133707;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;886.063;22.28;12.15;;;;;;;;Screen off;;Jumper;;;;2017-12-07 12:07:04.271412
+77133709;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;886.063;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133710;800400;2+1;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;892.653;25.19;7.50;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 12:07:04.271412
+77133711;100200;Game stop;;;;;;;;;;;1;892.653;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133713;800101;1+;179;Chris Paul;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;919.722;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133715;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;943.518;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133716;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;952.848;27.53;4.32;;;;;;;;Transition;;Jumper;;;;2017-12-07 12:07:04.271412
+77133718;100200;Game stop;;;;;;;;;;;1;977.003;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133719;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;1;977.003;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133720;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;1;1024.938;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133722;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;1024.938;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133723;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;1;1024.938;20.36;11.34;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133726;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;1050.026;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133729;400101;Accurate pass;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;1;1066.267;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133730;200300;Pick'n'Roll;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;1;1066.267;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133731;800201;2+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;1;1066.267;21.98;10.29;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77133734;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;1088.989;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133735;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;1;1100.100;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133736;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;1;1100.100;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 12:07:04.271412
+77133738;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1130.111;26.99;7.65;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 12:07:04.271412
+77133741;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;1175.617;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133742;800301;3+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;1;1175.617;21.41;2.58;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 12:07:04.271412
+77133743;1800500;Halftime;;;;;;;;;;;1;1175.617;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133744;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133750;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133751;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133752;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133753;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133754;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133756;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;15.331;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133758;100200;Game stop;;;;;;;;;;;2;28.100;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133760;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;45.739;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133761;800301;3+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;58.739;19.88;8.88;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 12:07:04.271412
+77133768;800302;3-;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;125.693;18.98;7.83;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77133770;100400;Steal;8964;Pablo Prigioni;13;Los Angeles Clippers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;159.630;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133771;100200;Game stop;;;;;;;;;;;2;192.494;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133773;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;192.494;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133774;800302;3-;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;192.494;23.03;1.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133776;100200;Game stop;;;;;;;;;;;2;205.519;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133777;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;205.519;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133779;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;225.883;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133783;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;2;254.734;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133784;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;2;254.734;25.97;7.80;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 12:07:04.271412
+77133785;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;254.734;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133786;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;254.734;26.90;9.39;;;;;;;;Putbacks;;Hook;;;;2017-12-07 12:07:04.271412
+77133789;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;287.698;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133790;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;287.698;26.81;8.19;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 12:07:04.271412
+77133793;100200;Game stop;;;;;;;;;;;2;294.313;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133794;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;294.313;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133795;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;294.313;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133798;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;339.381;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133799;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;2;359.199;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133800;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;359.199;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133801;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;359.199;25.82;10.29;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 12:07:04.271412
+77133802;100200;Game stop;;;;;;;;;;;2;373.265;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133803;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;373.265;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133805;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;395.547;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133806;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;2;406.547;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133807;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;406.547;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133808;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;406.547;25.67;7.89;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 12:07:04.271412
+77133812;100200;Game stop;;;;;;;;;;;2;418.889;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133813;300100;Foul;7503;Wesley Johnson;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;418.889;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133817;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;473.199;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133818;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;2;487.199;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133819;200300;Pick'n'Roll;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;487.199;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133820;800201;2+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;487.199;26.72;13.05;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 12:07:04.271412
+77133826;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;551.876;20.33;11.82;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 12:07:04.271412
+77133829;100200;Game stop;;;;;;;;;;;2;557.518;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133830;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;557.518;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133833;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;8964;Pablo Prigioni;13;Los Angeles Clippers;;;2;605.827;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133835;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;613.674;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133836;100200;Game stop;;;;;;;;;;;2;627.674;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133838;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;659.320;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133839;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;659.320;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133840;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;659.320;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133841;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;659.320;26.99;13.98;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133843;100200;Game stop;;;;;;;;;;;2;683.434;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133846;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;714.801;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133847;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;714.801;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133848;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;714.801;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133849;800600;2F;179;Chris Paul;13;Los Angeles Clippers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;714.801;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133850;100200;Game stop;;;;;;;;;;;2;714.801;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133852;800101;1+;179;Chris Paul;13;Los Angeles Clippers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;737.921;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133854;800101;1+;179;Chris Paul;13;Los Angeles Clippers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;750.348;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133858;100200;Game stop;;;;;;;;;;;2;772.539;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133859;300100;Foul;176;Paul Pierce;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;2;772.539;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133862;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;822.670;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133863;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;829.670;23.03;14.28;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 12:07:04.271412
+77133866;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;836.859;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133867;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;846.094;27.38;7.89;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 12:07:04.271412
+77133870;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;869.339;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133871;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;878.526;19.94;9.45;;;;;;;;Transition;;Jumper;;;;2017-12-07 12:07:04.271412
+77133872;100200;Game stop;;;;;;;;;;;2;878.526;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133873;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;878.526;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133875;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;915.075;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133876;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;926.075;19.64;11.58;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 12:07:04.271412
+77133881;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;935.143;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133882;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;944.146;26.42;8.37;;;;;;;;Transition;;Jumper;;;;2017-12-07 12:07:04.271412
+77133883;100200;Game stop;;;;;;;;;;;2;944.146;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133886;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;2;944.146;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133890;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1010.069;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133891;100200;Game stop;;;;;;;;;;;2;1020.069;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133892;100500;Turnover;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1020.069;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133897;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1076.742;22.73;4.65;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 12:07:04.271412
+77133901;800600;2F;9150;JJ Redick;13;Los Angeles Clippers;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1088.208;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 12:07:04.271412
+77133902;100200;Game stop;;;;;;;;;;;2;1088.208;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133904;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;1088.208;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133905;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1119.984;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133906;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1132.422;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133911;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1165.459;24.05;4.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77133918;100200;Game stop;;;;;;;;;;;2;1233.308;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133923;100200;Game stop;;;;;;;;;;;2;1248.881;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133924;100500;Turnover;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1248.881;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133927;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1285.129;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133928;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;1291.092;;;;;;;;;;Hand offs;;;;;;2017-12-07 12:07:04.271412
+77133929;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1291.092;19.73;4.05;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 12:07:04.271412
+77133931;100200;Game stop;;;;;;;;;;;2;1307.223;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133932;300100;Foul;176;Paul Pierce;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;2;1307.223;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133935;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;2;1355.195;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133937;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1360.410;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133938;800600;2F;9150;JJ Redick;13;Los Angeles Clippers;4;Iman Shumpert;1;Cleveland Cavaliers;;;2;1366.410;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133939;100200;Game stop;;;;;;;;;;;2;1366.410;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133941;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;4;Iman Shumpert;1;Cleveland Cavaliers;;;2;1391.315;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133942;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;1420.812;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133944;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;2;1420.812;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133945;800102;1-;9150;JJ Redick;13;Los Angeles Clippers;4;Iman Shumpert;1;Cleveland Cavaliers;;;2;1420.812;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133949;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;1444.881;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133950;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;1449.554;21.56;1.50;;;;;;;;;;Jumper;;;;2017-12-07 12:07:04.271412
+77133951;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;1449.554;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133952;1800500;Halftime;;;;;;;;;;;2;1449.554;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133953;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133959;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133960;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133961;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133962;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133963;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133966;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;56.346;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133967;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;70.648;22.58;5.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77133969;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;101.048;20.90;3.63;;;;;;;;Screen off;;Jumper;;;;2017-12-07 12:07:04.271412
+77133970;100200;Game stop;;;;;;;;;;;3;101.048;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133975;100200;Game stop;;;;;;;;;;;3;127.923;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133976;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;3;127.923;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133980;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;186.627;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133981;800202;2-;176;Paul Pierce;13;Los Angeles Clippers;;;;;179;Chris Paul;3;204.627;26.27;9.12;;;;;;;;Cut;;Jumper;;;;2017-12-07 12:07:04.271412
+77133982;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;204.627;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133983;800202;2-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;204.627;26.93;7.17;;;;;;;;Putbacks;;;;;;2017-12-07 12:07:04.271412
+77133986;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;213.851;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133987;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;220.076;20.21;4.26;;;;;;;;Transition;;Jumper;;;;2017-12-07 12:07:04.271412
+77133992;800302;3-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;264.774;26.84;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133994;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;3;277.923;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133995;100200;Game stop;;;;;;;;;;;3;298.580;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133996;100500;Turnover;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;298.580;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134000;100200;Game stop;;;;;;;;;;;3;319.343;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134001;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;3;319.343;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134002;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;3;369.972;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134003;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;369.972;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134004;800202;2-;176;Paul Pierce;13;Los Angeles Clippers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;3;369.972;25.82;7.68;;;;;;;;Screen off;;Jumper;;;;2017-12-07 12:07:04.271412
+77134006;100200;Game stop;;;;;;;;;;;3;413.017;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134007;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;3;413.017;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134010;100200;Game stop;;;;;;;;;;;3;413.017;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134011;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;413.017;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134012;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;419.436;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134013;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;424.436;25.82;11.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134017;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;447.534;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134018;200300;Pick'n'Roll;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;179;Chris Paul;3;462.998;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 12:07:04.271412
+77134019;800202;2-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;179;Chris Paul;3;462.998;22.37;12.03;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 12:07:04.271412
+77134020;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;462.998;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134021;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;466.502;25.82;11.37;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134024;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;504.261;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134025;800400;2+1;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;504.261;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 12:07:04.271412
+77134026;100200;Game stop;;;;;;;;;;;3;504.261;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134029;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;3;538.036;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134034;100200;Game stop;;;;;;;;;;;3;567.620;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134036;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;584.549;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134037;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;597.549;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134038;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;597.549;27.50;13.68;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134041;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;644.501;27.05;0.54;;;;;;;;Screen off;;Jumper;;;;2017-12-07 12:07:04.271412
+77134042;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;644.501;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134043;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;8;J.R. Smith;1;Cleveland Cavaliers;;;3;644.501;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 12:07:04.271412
+77134044;100200;Game stop;;;;;;;;;;;3;644.501;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134046;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;8;J.R. Smith;1;Cleveland Cavaliers;;;3;675.953;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134047;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;675.953;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134049;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;8;J.R. Smith;1;Cleveland Cavaliers;;;3;696.912;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134054;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;733.630;24.65;12.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134057;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;742.392;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134058;100200;Game stop;;;;;;;;;;;3;749.831;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134059;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;3;749.831;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134060;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;798.785;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134061;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;805.785;24.29;4.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134063;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;833.792;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134064;100200;Game stop;;;;;;;;;;;3;838.973;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134067;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;870.453;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134068;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;3;870.453;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134069;200300;Pick'n'Roll;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;3;870.453;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134070;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;3;870.453;25.22;7.35;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 12:07:04.271412
+77134072;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;932.659;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134073;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;945.776;24.80;11.52;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134075;100200;Game stop;;;;;;;;;;;3;958.071;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134076;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;3;958.071;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134084;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1019.296;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134085;100200;Game stop;;;;;;;;;;;3;1019.296;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134087;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1047.599;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134088;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1047.599;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134089;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;3;1069.016;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134090;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1069.016;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134092;100200;Game stop;;;;;;;;;;;3;1088.766;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134093;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;3;1088.766;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134097;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1132.077;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134098;100200;Game stop;;;;;;;;;;;3;1132.077;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134100;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1159.395;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134101;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1159.395;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134102;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1177.518;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134109;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1196.309;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134110;100200;Game stop;;;;;;;;;;;3;1196.309;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134112;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1227.123;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134113;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1227.123;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134114;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1244.612;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134119;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1267.674;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134120;100200;Game stop;;;;;;;;;;;3;1267.674;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134122;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1301.661;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134123;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;3;1327.663;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134125;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;7;James Jones;1;Cleveland Cavaliers;;;3;1327.663;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134129;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1804;Austin Rivers;3;1373.970;20.33;4.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134132;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1394.274;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134133;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;1411.237;21.11;13.38;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134134;100200;Game stop;;;;;;;;;;;3;1411.237;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134137;1800500;Halftime;;;;;;;;;;;3;1411.437;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134138;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134144;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134145;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134146;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134147;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134148;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134149;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;3.734;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134150;400101;Accurate pass;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;20.734;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134151;800301;3+;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;1804;Austin Rivers;4;20.734;24.05;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134153;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;41.621;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134154;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;69.823;25.49;6.51;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 12:07:04.271412
+77134155;100200;Game stop;;;;;;;;;;;4;69.823;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134158;100400;Steal;180;Jamal Crawford;13;Los Angeles Clippers;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;95.236;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134159;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;100.344;26.99;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 12:07:04.271412
+77134161;100200;Game stop;;;;;;;;;;;4;100.344;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134162;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;100.344;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134163;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;135.890;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134165;100200;Game stop;;;;;;;;;;;4;135.890;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134166;300100;Foul;2410;Lance Stephenson;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;4;135.890;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134169;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;161.102;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134170;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;175.051;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134171;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;175.051;25.10;10.20;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 12:07:04.271412
+77134174;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;185.268;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134175;100200;Game stop;;;;;;;;;;;4;185.268;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134177;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;198.237;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134178;400101;Accurate pass;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;180;Jamal Crawford;4;211.237;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134179;100200;Game stop;;;;;;;;;;;4;211.237;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134181;400101;Accurate pass;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;180;Jamal Crawford;4;211.237;;;;;;;;;;Hand offs;;;;;;2017-12-07 12:07:04.271412
+77134182;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;4;211.237;26.81;7.83;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 12:07:04.271412
+77134184;100200;Game stop;;;;;;;;;;;4;238.041;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134185;300100;Foul;2410;Lance Stephenson;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;4;238.041;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134192;100200;Game stop;;;;;;;;;;;4;283.132;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134193;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;4;283.132;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134198;100200;Game stop;;;;;;;;;;;4;354.372;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134200;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;361.374;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134201;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;376.374;27.35;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134203;100200;Game stop;;;;;;;;;;;4;383.070;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134205;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;8964;Pablo Prigioni;13;Los Angeles Clippers;;;4;422.578;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134206;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;422.578;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134207;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;4;422.578;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134208;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;179;Chris Paul;4;422.578;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134209;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;179;Chris Paul;4;422.578;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 12:07:04.271412
+77134212;400101;Accurate pass;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;4;459.215;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134213;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;179;Chris Paul;4;459.215;26.96;7.95;;;;;;;;Cut;;;;;;2017-12-07 12:07:04.271412
+77134215;100300;Rebound;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;480.838;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134216;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;487.719;27.23;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 12:07:04.271412
+77134218;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;504.503;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134219;800600;2F;180;Jamal Crawford;13;Los Angeles Clippers;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;509.749;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 12:07:04.271412
+77134220;100200;Game stop;;;;;;;;;;;4;509.749;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134222;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;541.493;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134224;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;565.401;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134225;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;565.401;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134227;100400;Steal;1804;Austin Rivers;13;Los Angeles Clippers;1889;Kevin Love;1;Cleveland Cavaliers;;;4;585.376;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134228;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;594.332;19.88;5.94;;;;;;;;Transition;;Jumper;;;;2017-12-07 12:07:04.271412
+77134229;100200;Game stop;;;;;;;;;;;4;594.332;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134230;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;594.332;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134233;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;622.995;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134234;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;622.995;26.72;7.56;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 12:07:04.271412
+77134236;100200;Game stop;;;;;;;;;;;4;646.570;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134237;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;646.570;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134238;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;652.447;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134239;100200;Game stop;;;;;;;;;;;4;662.447;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134241;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;681.482;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134242;100200;Game stop;;;;;;;;;;;4;684.482;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134243;100500;Turnover;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;684.482;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134247;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;786.863;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134248;100200;Game stop;;;;;;;;;;;4;786.863;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134250;1800600;Timeout;;;;;;;;;;;4;786.863;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134251;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;816.302;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134252;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;816.302;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134253;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;816.302;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134254;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;834.229;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134259;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;865.357;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134260;100200;Game stop;;;;;;;;;;;4;865.357;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134262;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;892.833;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134263;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;892.833;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134264;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;2410;Lance Stephenson;13;Los Angeles Clippers;;;4;914.084;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134265;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;914.084;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134269;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;951.602;26.84;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134272;100200;Game stop;;;;;;;;;;;4;954.649;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134273;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;954.649;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134276;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1020.179;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134282;800600;2F;7660;Cole Aldrich;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;4;1037.876;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134283;100200;Game stop;;;;;;;;;;;4;1037.876;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134285;800101;1+;7660;Cole Aldrich;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;4;1057.640;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134287;800101;1+;7660;Cole Aldrich;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;4;1077.271;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134291;100200;Game stop;;;;;;;;;;;4;1101.130;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134292;300100;Foul;7503;Wesley Johnson;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;4;1101.130;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134294;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;1147.800;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134300;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1169.018;24.65;4.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134302;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;1187.319;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134303;800600;2F;179;Chris Paul;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;4;1187.319;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134304;100200;Game stop;;;;;;;;;;;4;1187.319;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134306;800101;1+;179;Chris Paul;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;4;1225.452;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134307;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;1242.789;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134308;800101;1+;179;Chris Paul;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;4;1242.789;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134311;200300;Pick'n'Roll;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;4;1270.455;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134312;800600;2F;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;8;J.R. Smith;1;Cleveland Cavaliers;;;4;1270.455;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 12:07:04.271412
+77134313;100200;Game stop;;;;;;;;;;;4;1270.455;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134315;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;1270.455;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134316;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;4;1310.665;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134317;1600500;Guard;370977;CJ Wilcox;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;4;1310.665;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134318;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;1310.665;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134319;800102;1-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;8;J.R. Smith;1;Cleveland Cavaliers;;;4;1310.665;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134320;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1310.665;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134321;800101;1+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;8;J.R. Smith;1;Cleveland Cavaliers;;;4;1324.083;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134326;100200;Game stop;;;;;;;;;;;4;1338.091;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134327;300100;Foul;2410;Lance Stephenson;13;Los Angeles Clippers;1;LeBron James;1;Cleveland Cavaliers;;;4;1338.091;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134328;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;4;1370.479;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134331;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1380.768;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134332;800202;2-;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;1388.768;27.05;7.62;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 12:07:04.271412
+77134333;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;1388.768;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134334;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;1388.768;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 12:07:04.271412
+77134335;100300;Rebound;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;1388.768;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134336;800202;2-;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;1388.768;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 12:07:04.271412
+77134338;100200;Game stop;;;;;;;;;;;4;1395.711;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134344;100400;Steal;2410;Lance Stephenson;13;Los Angeles Clippers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;4;1426.058;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134345;800201;2+;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;1429.193;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 12:07:04.271412
+77134346;100200;Game stop;;;;;;;;;;;4;1460.596;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134348;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1467.895;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134349;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;1804;Austin Rivers;4;1476.895;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134350;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;1476.895;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 12:07:04.271412
+77134352;100200;Game stop;;;;;;;;;;;4;1501.683;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134353;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1501.683;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134354;800600;2F;7660;Cole Aldrich;13;Los Angeles Clippers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;4;1501.683;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134356;800102;1-;7660;Cole Aldrich;13;Los Angeles Clippers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;4;1534.915;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134357;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1534.915;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134358;800101;1+;7660;Cole Aldrich;13;Los Angeles Clippers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;4;1546.546;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134361;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;4;1576.384;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134362;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;1576.384;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134363;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;1576.384;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 12:07:04.271412
+77134365;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;1597.531;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134366;800202;2-;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;1606.362;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 12:07:04.271412
+77134368;1800700;Match end;;;;;;;;;;;4;1625.262;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+103632116;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;1;25.941;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632120;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;1;118.195;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632124;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;150.823;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632130;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;300.237;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632136;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;176;Paul Pierce;1;468.688;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632138;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;573.266;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632140;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;644.156;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632146;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;746.042;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632150;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;892.653;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632152;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;952.848;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632156;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;1;1066.267;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632158;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;1;1100.100;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632162;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1130.111;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632166;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;1;1175.617;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632168;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;58.739;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632178;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;359.199;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632180;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;406.547;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632184;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;487.199;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632190;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;714.801;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632194;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;846.094;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632202;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;1088.208;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632210;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1291.092;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632214;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;1366.410;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632216;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;70.648;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632222;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;220.076;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632228;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;424.436;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632230;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;466.502;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632234;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;504.261;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632238;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;597.549;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632242;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;644.501;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632246;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;805.785;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632248;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;3;870.453;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632252;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1019.296;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632256;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1132.077;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632260;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1196.309;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632264;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1267.674;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632268;200900;Assisting;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;1804;Austin Rivers;4;20.734;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632270;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;4;211.237;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632276;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;179;Chris Paul;4;422.578;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632280;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;179;Chris Paul;4;459.215;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632282;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;487.719;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632284;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;509.749;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632286;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;622.995;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632290;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;786.863;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632294;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;865.357;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632302;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;1037.876;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632308;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1169.018;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632310;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1187.319;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632314;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;4;1270.455;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632318;200900;Assisting;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;1429.193;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632320;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;1476.895;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632322;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;1501.683;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632326;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;1576.384;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+77133574;1601000;Starting lineup;7101;Jared Cunningham;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133575;1601000;Starting lineup;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133576;1601000;Starting lineup;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133577;1601000;Starting lineup;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77133578;1601000;Starting lineup;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133579;1601000;Starting lineup;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133580;1601000;Starting lineup;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133581;1601000;Starting lineup;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133582;1601000;Starting lineup;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133583;1601000;Starting lineup;7;James Jones;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133597;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133598;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133599;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133600;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133601;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77133613;800101;1+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;71.833;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133614;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;80.327;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133615;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;88.327;26.72;8.04;;;;;;;;;;Lay up;;;;2017-12-07 12:07:04.271412
+77133618;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;132.780;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133619;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;132.780;24.44;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77133623;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;173.689;26.81;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133626;300100;Foul;1890;Kyrie Irving;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;1;192.991;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133629;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;223.560;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133630;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;234.131;19.64;9.75;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2018-04-20 13:44:36.355048
+77133632;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;9150;JJ Redick;13;Los Angeles Clippers;;;1;248.230;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77133633;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;271.581;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133634;400101;Accurate pass;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;1;281.581;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133635;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;1;281.581;27.08;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 12:07:04.271412
+77133638;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;300.237;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133641;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;347.777;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133643;300100;Foul;1889;Kevin Love;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;1;360.777;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133645;100400;Steal;2;Timofey Mozgov;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;1;377.376;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133646;800600;2F;1;LeBron James;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;1;381.566;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 12:07:04.271412
+77133649;800101;1+;1;LeBron James;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;1;401.492;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133650;800102;1-;1;LeBron James;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;1;416.887;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133654;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;430.306;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133655;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;1;442.199;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133656;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;442.199;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 12:07:04.271412
+77133658;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;453.402;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133664;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;513.797;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133665;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;524.797;24.65;12.90;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77133668;300100;Foul;1890;Kyrie Irving;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;1;531.470;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133669;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;1;573.266;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133673;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;1;573.266;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133676;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;617.942;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133677;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;636.942;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133678;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;636.942;25.82;11.49;;;;;;;;Post;;Jumper;;;;2017-12-07 12:07:04.271412
+77133682;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;1;644.156;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133683;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;673.101;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133684;400101;Accurate pass;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1889;Kevin Love;1;695.101;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77133685;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;695.101;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133686;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;695.101;25.91;8.97;;;;;;;;Post;;Hook;;;;2017-12-07 12:07:04.271412
+77133688;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;718.821;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133689;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;1;726.474;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133690;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;726.474;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133691;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;726.474;26.99;7.80;;;;;;;;Post;;Lay up;;;;2017-12-07 12:07:04.271412
+77133693;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;776.961;21.11;12.27;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 12:07:04.271412
+77133698;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;805.519;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133701;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;1;867.974;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133702;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;1;867.974;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133704;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;867.974;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133705;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1889;Kevin Love;1;867.974;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133706;800301;3+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;867.974;26.27;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133708;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;886.063;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133712;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;1;892.653;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133714;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;922.518;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133717;800201;2+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;962.919;26.27;8.88;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 12:07:04.271412
+77133721;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;1024.938;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133724;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;1024.938;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133725;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;1050.026;26.84;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 12:07:04.271412
+77133727;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;1050.026;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133728;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;1050.026;27.08;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 12:07:04.271412
+77133732;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;1088.989;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133733;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;1088.989;25.37;9.21;;;;;;;;Post;;Jumper;;;;2017-12-07 12:07:04.271412
+77133737;800201;2+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;1112.102;25.37;9.06;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 12:07:04.271412
+77133739;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;1;1152.304;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133740;800301;3+;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1;LeBron James;1;1152.304;23.45;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133745;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133746;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133747;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133748;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133749;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133755;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133757;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;15.331;27.08;11.28;;;;;;;;Cut;;Jumper;;;;2017-12-07 12:07:04.271412
+77133759;300100;Foul;4;Iman Shumpert;1;Cleveland Cavaliers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;28.100;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133762;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;84.901;26.99;7.98;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 12:07:04.271412
+77133763;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;84.901;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133764;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;84.901;27.02;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 12:07:04.271412
+77133765;100300;Rebound;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;2;84.901;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133766;400101;Accurate pass;7;James Jones;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;2;90.524;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133767;800301;3+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;7;James Jones;2;90.524;26.99;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133769;100300;Rebound;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;2;125.693;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133772;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;192.494;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77133775;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;192.494;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133778;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;222.883;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133780;100400;Steal;1890;Kyrie Irving;1;Cleveland Cavaliers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;234.454;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133781;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;2;235.606;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133782;800201;2+;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;2;235.606;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 12:07:04.271412
+77133787;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;254.734;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133788;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;261.261;27.05;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 12:07:04.271412
+77133791;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;287.698;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133792;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;294.313;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 12:07:04.271412
+77133796;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;322.215;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133797;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;339.381;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133804;100500;Turnover;7;James Jones;1;Cleveland Cavaliers;;;;;;;2;394.665;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133809;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;418.889;26.57;7.50;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 12:07:04.271412
+77133810;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;418.889;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133811;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;418.889;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 12:07:04.271412
+77133814;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;449.689;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133815;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;7;James Jones;1;Cleveland Cavaliers;;;2;472.603;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133816;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;472.603;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133821;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;529.131;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133822;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;529.131;25.37;8.88;;;;;;;;Post;;Hook;;;;2017-12-07 12:07:04.271412
+77133823;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;529.131;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133824;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;8;J.R. Smith;2;533.989;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133825;800201;2+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;2;533.989;25.37;7.80;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2018-04-20 13:44:36.355048
+77133827;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;551.876;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133828;800600;2F;1890;Kyrie Irving;1;Cleveland Cavaliers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;557.518;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 12:07:04.271412
+77133831;800101;1+;1890;Kyrie Irving;1;Cleveland Cavaliers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;585.875;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133832;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;4;Iman Shumpert;1;Cleveland Cavaliers;;;2;605.827;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133834;800101;1+;1890;Kyrie Irving;1;Cleveland Cavaliers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;605.827;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133837;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;627.674;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133842;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;659.320;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133844;100500;Turnover;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;683.434;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133845;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;2;683.434;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133851;300100;Foul;1890;Kyrie Irving;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;2;714.801;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133853;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;750.348;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133855;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;753.539;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133856;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;772.539;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133857;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;2;772.539;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 12:07:04.271412
+77133860;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;2;798.812;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133861;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;2;817.505;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133864;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;829.670;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133865;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;2;836.859;26.27;14.91;;;;;;;;Transition;;Jumper;;;;2018-04-20 13:44:36.355048
+77133868;200300;Pick'n'Roll;1889;Kevin Love;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;869.339;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 12:07:04.271412
+77133869;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;869.339;26.72;9.42;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 12:07:04.271412
+77133874;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;2;878.526;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133877;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;926.075;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133878;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;935.143;20.36;4.05;;;;;;;;Transition;;Jumper;;;;2017-12-07 12:07:04.271412
+77133879;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;935.143;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133880;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;935.143;26.84;7.44;;;;;;;;Putbacks;;;;;;2017-12-07 12:07:04.271412
+77133884;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;2;944.146;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133885;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;2;944.146;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133887;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;2;984.352;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133888;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;1004.324;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133889;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;2;1004.324;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133893;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1039.897;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133894;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1051.897;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133895;200300;Pick'n'Roll;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;1051.897;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133896;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;1051.897;27.05;8.04;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 12:07:04.271412
+77133898;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;1076.742;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133899;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1078.832;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133900;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;1078.832;26.99;8.10;;;;;;;;Transition;;Lay up;;;;2017-12-07 12:07:04.271412
+77133903;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;9150;JJ Redick;13;Los Angeles Clippers;;;2;1088.208;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77133907;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1132.422;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133908;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;2;1148.231;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133909;200300;Pick'n'Roll;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1148.231;;;;;;;;;;Pick'n'pop;;;;;;2018-04-20 13:44:36.355048
+77133910;800201;2+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1148.231;26.27;13.68;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2018-04-20 13:44:36.355048
+77133912;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;1165.459;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133913;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1177.626;25.82;14.07;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 12:07:04.271412
+77133914;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;1177.626;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133915;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;2;1188.711;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133916;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1188.711;26.81;8.97;;;;;;;;Cut;;Hook;;;;2017-12-07 12:07:04.271412
+77133917;100400;Steal;5;Matthew William Dellavedova;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;2;1208.775;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133919;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1233.308;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133920;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1233.308;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133921;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;1233.308;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133922;800201;2+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1233.308;26.96;7.89;;;;;;;;Cut;;Lay up;;;;2017-12-07 12:07:04.271412
+77133925;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1261.029;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133926;800302;3-;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1285.129;26.57;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133930;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;2;1307.223;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 12:07:04.271412
+77133933;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;2;1331.297;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133934;1600500;Guard;7101;Jared Cunningham;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;2;1355.195;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133936;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;176;Paul Pierce;13;Los Angeles Clippers;;;2;1355.195;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133940;300100;Foul;4;Iman Shumpert;1;Cleveland Cavaliers;9150;JJ Redick;13;Los Angeles Clippers;;;2;1366.410;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133943;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;7101;Jared Cunningham;1;Cleveland Cavaliers;;;2;1420.812;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133946;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1420.812;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133947;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;1420.812;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133948;800202;2-;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1444.881;25.52;11.34;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 12:07:04.271412
+77133954;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133955;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133956;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133957;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133958;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77133964;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;44.346;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133965;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;56.346;19.94;5.43;;;;;;;;Screen off;;Jumper;;;;2017-12-07 12:07:04.271412
+77133968;800301;3+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;82.901;20.63;11.67;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77133971;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;101.048;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133972;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;109.923;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133973;200600;Post;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;127.923;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133974;800600;2F;2;Timofey Mozgov;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;127.923;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 12:07:04.271412
+77133977;800102;1-;2;Timofey Mozgov;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;155.387;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133978;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;155.387;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133979;800101;1+;2;Timofey Mozgov;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;180.560;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133984;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;204.627;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133985;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;213.851;25.37;8.10;;;;;;;;Transition;;Floater;;;;2018-04-20 13:44:36.355048
+77133988;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;239.942;23.72;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77133989;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;239.942;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133990;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;3;243.437;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133991;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;243.437;27.08;10.47;;;;;;;;Cut;;Jumper;;;;2017-12-07 12:07:04.271412
+77133993;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;264.774;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133997;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;310.343;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77133998;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;319.343;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77133999;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1;LeBron James;3;319.343;25.22;7.44;;;;;;;;Screen off;;Floater;;;;2017-12-07 12:07:04.271412
+77134005;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;369.972;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134008;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;413.017;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134009;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;413.017;25.91;1.71;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 12:07:04.271412
+77134014;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;444.278;25.25;11.82;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+77134015;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;444.278;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134016;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;447.534;20.69;3.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134022;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;3;482.104;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134023;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;482.104;25.52;12.03;;;;;;;;Cut;;Jumper;;;;2017-12-07 12:07:04.271412
+77134027;300100;Foul;1889;Kevin Love;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;504.261;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134028;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;3;504.261;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134030;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;539.963;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134031;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;3;552.963;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134032;200300;Pick'n'Roll;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;552.963;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134033;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;552.963;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 12:07:04.271412
+77134035;300100;Foul;1889;Kevin Love;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;567.620;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134039;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;8;J.R. Smith;3;622.247;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134040;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;622.247;27.05;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77134045;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;644.501;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77134048;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;3;696.912;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134050;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;696.912;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134051;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;3;711.809;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134052;200300;Pick'n'Roll;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;711.809;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134053;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;711.809;26.99;8.22;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 12:07:04.271412
+77134055;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;733.630;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134056;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;742.392;27.08;0.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 12:07:04.271412
+77134062;800202;2-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;3;833.792;26.36;5.70;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134065;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;3;838.973;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134066;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;3;870.453;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134071;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;932.659;24.74;7.95;;;;;;;;Isolation;;;Drives Left;;;2018-04-20 13:44:36.355048
+77134074;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;945.776;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77134077;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;3;958.071;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134078;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1004.931;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134079;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;1008.931;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134080;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;1008.931;26.51;7.80;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 12:07:04.271412
+77134081;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;1008.931;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134082;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;8;J.R. Smith;3;1011.058;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134083;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;1011.058;21.65;13.92;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77134086;300100;Foul;7;James Jones;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1019.296;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134091;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1072.766;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134094;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;1119.704;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134095;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1119.704;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134096;800301;3+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1119.704;20.66;4.17;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134099;300100;Foul;7;James Jones;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1132.077;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134103;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1177.518;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134104;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1177.518;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134105;200300;Pick'n'Roll;1;LeBron James;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;1190.388;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134106;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;1190.388;27.08;8.10;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 12:07:04.271412
+77134107;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1190.388;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134108;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1190.388;27.02;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 12:07:04.271412
+77134111;300100;Foul;7;James Jones;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1196.309;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134115;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1244.612;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134116;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1244.612;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134117;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1262.479;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134118;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1262.479;27.23;8.13;;;;;;;;Post;;Lay up;;;;2017-12-07 12:07:04.271412
+77134121;300100;Foul;7;James Jones;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1267.674;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134124;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;7;James Jones;1;Cleveland Cavaliers;;;3;1327.663;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134126;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1333.595;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134127;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1347.095;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134128;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1347.095;26.72;10.53;;;;;;;;Post;;Hook;;;;2017-12-07 12:07:04.271412
+77134130;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1373.970;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134131;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;1394.274;21.35;12.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134135;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;1411.237;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134136;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1411.237;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134139;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134140;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134141;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134142;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134143;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134152;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;41.621;26.21;6.48;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 12:07:04.271412
+77134156;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;69.823;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134157;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;80.236;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134160;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;100.344;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134164;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;135.890;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134167;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;150.102;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134168;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;161.102;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 12:07:04.271412
+77134172;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;175.051;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134173;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;185.268;26.12;8.19;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134176;300100;Foul;4;Iman Shumpert;1;Cleveland Cavaliers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;185.268;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134180;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;4;211.237;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134183;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;226.041;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134186;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;257.831;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134187;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;269.831;25.10;7.26;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 12:07:04.271412
+77134188;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;269.831;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134189;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;269.831;25.97;10.11;;;;;;;;Putbacks;;Floater;;;;2017-12-07 12:07:04.271412
+77134190;100400;Steal;1889;Kevin Love;1;Cleveland Cavaliers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;281.610;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134191;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;283.132;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 12:07:04.271412
+77134194;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;327.188;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134195;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;327.188;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134196;800102;1-;1889;Kevin Love;1;Cleveland Cavaliers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;336.758;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134197;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;350.372;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134199;100500;Turnover;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;354.372;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134202;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;376.374;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134204;100500;Turnover;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;383.070;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134210;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;4;442.336;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134211;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1889;Kevin Love;4;442.336;25.67;7.35;;;;;;;;Catch and Drive;;Floater;;;;2017-12-07 12:07:04.271412
+77134214;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;480.838;21.05;12.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134217;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;4;504.503;21.11;12.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134221;300100;Foul;4;Iman Shumpert;1;Cleveland Cavaliers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;509.749;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134223;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;4;565.401;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134226;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;568.376;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134231;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;594.332;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134232;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;622.995;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77134235;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;646.570;22.88;3.51;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134240;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;4;662.447;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77134244;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;748.269;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134245;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;4;771.269;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134246;800301;3+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;4;771.269;27.23;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134249;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;786.863;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134255;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;834.229;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134256;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;834.229;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134257;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;4;853.136;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134258;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1;LeBron James;4;853.136;27.20;4.56;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 12:07:04.271412
+77134261;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;865.357;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134266;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;914.362;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134267;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;4;933.362;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134268;800301;3+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;4;933.362;21.11;3.33;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134270;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;951.602;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134271;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;4;954.649;27.05;7.62;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134274;800102;1-;3;Tristan Thompson;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;4;987.559;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134275;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;987.559;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134277;800102;1-;3;Tristan Thompson;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;4;1020.179;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134278;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1020.179;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134279;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1020.179;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134280;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;4;1024.885;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134281;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;4;1024.885;20.51;3.78;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77134284;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;1037.876;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134286;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;1077.271;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134288;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1083.130;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134289;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1101.130;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134290;800600;2F;1;LeBron James;1;Cleveland Cavaliers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;1101.130;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 12:07:04.271412
+77134293;800101;1+;1;LeBron James;1;Cleveland Cavaliers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;1122.976;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134295;800102;1-;1;LeBron James;1;Cleveland Cavaliers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;1147.800;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134296;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1147.800;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134297;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;1147.800;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77134298;400101;Accurate pass;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;8;J.R. Smith;4;1155.422;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134299;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;4;1155.422;27.08;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77134301;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;1187.319;20.21;10.68;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 12:07:04.271412
+77134305;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;179;Chris Paul;13;Los Angeles Clippers;;;4;1187.319;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134309;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1243.787;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134310;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;1259.787;25.37;11.67;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134314;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;4;1270.455;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77134322;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1327.091;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134323;400101;Accurate pass;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;4;1338.091;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77134324;200600;Post;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1338.091;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134325;800400;2+1;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;4;1338.091;27.05;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 12:07:04.271412
+77134329;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;1370.479;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134330;800101;1+;1;LeBron James;1;Cleveland Cavaliers;2410;Lance Stephenson;13;Los Angeles Clippers;;;4;1370.479;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134337;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1388.768;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134339;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;4;1395.711;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134340;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;4;1426.058;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134341;1600500;Guard;7101;Jared Cunningham;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;4;1426.058;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134342;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;4;1426.058;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134343;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1426.058;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134347;100500;Turnover;7;James Jones;1;Cleveland Cavaliers;;;;;;;4;1460.596;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134351;800202;2-;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;4;1501.683;27.05;7.62;;;;;;;;Cut;;Hook;;;;2017-12-07 12:07:04.271412
+77134355;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;1501.683;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+77134359;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1552.935;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77134360;800201;2+;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;1565.135;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134364;800302;3-;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;1597.531;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 12:07:04.271412
+77134367;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;1606.362;;;;;;;;;;;;;;;;2017-12-07 12:07:04.271412
+93270255;100500;Turnover;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;360.777;;;;;;;;;;;;;;;;2018-01-11 20:55:00.465591
+103632118;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;88.327;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632122;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;132.780;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103632126;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;234.131;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103632128;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;1;281.581;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632132;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;381.566;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632134;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;442.199;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632142;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;695.101;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632144;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;726.474;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632148;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;867.974;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632154;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;962.919;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632160;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;1112.102;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632164;200900;Assisting;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1;LeBron James;1;1152.304;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632170;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;7;James Jones;2;90.524;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632172;200900;Assisting;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;2;235.606;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632174;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;261.261;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632176;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;294.313;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632182;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;418.889;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632186;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;2;533.989;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103632188;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;557.518;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632192;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;772.539;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632196;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;944.146;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632198;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;2;1051.897;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632200;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;1078.832;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632204;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1148.231;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103632206;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1188.711;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632208;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1233.308;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632212;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;1307.223;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632218;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;82.901;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632220;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;3;127.923;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632224;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;243.437;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632226;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1;LeBron James;3;319.343;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632232;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;482.104;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632236;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1;LeBron James;3;552.963;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632240;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;622.247;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103632244;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;711.809;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632250;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;1011.058;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103632254;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1119.704;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632258;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1190.388;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632262;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1262.479;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632266;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1347.095;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632272;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;269.831;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632274;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;283.132;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632278;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1889;Kevin Love;4;442.336;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632288;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;4;771.269;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632292;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1;LeBron James;4;853.136;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632296;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;4;933.362;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632298;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;954.649;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632300;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;4;1024.885;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103632304;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;4;1101.130;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632306;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;4;1155.422;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103632312;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;1259.787;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632316;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;4;1338.091;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239
+103632324;200900;Assisting;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;1565.135;;;;;;;;;;;;;;;;2018-04-19 10:47:03.544239

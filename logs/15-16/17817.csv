@@ -1,0 +1,808 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77013903;1601000;Starting lineup;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013904;1601000;Starting lineup;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013905;1601000;Starting lineup;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013906;1601000;Starting lineup;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013907;1601000;Starting lineup;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013908;1601000;Starting lineup;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013909;1601000;Starting lineup;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013910;1601000;Starting lineup;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013911;1601000;Starting lineup;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013912;1601000;Starting lineup;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013913;1601000;Starting lineup;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013914;1601000;Starting lineup;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013915;1601000;Starting lineup;7714;Seth Curry;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013916;1601000;Starting lineup;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013917;1601000;Starting lineup;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013918;1601000;Starting lineup;6377;Darren Collison;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013919;1601000;Starting lineup;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013920;1601000;Starting lineup;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77013921;1601000;Starting lineup;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013922;1601000;Starting lineup;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013923;1601000;Starting lineup;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013924;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013925;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013926;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013927;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013928;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013929;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013930;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013931;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013932;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013933;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013934;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77013935;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;74.954;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77013936;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;96.954;21.98;2.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77013937;100300;Rebound;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;1;96.954;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013938;100200;Game stop;;;;;;;;;;;1;116.181;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013939;100500;Turnover;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;1;116.181;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013940;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;120.583;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77013941;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;131.583;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013942;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;131.583;22.88;11.37;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:12:04.301087
+77013943;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;1;138.582;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013944;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;144.363;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013945;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;144.363;27.05;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77013946;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;161.385;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77013947;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;161.385;25.76;7.95;;;;;;;;Post;;Hook;;;;2018-01-02 05:26:08.154738
+77013948;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;161.385;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013949;800302;3-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;171.635;26.81;14.46;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:12:04.301087
+77013950;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;171.635;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013951;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;171.635;26.72;7.35;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:12:04.301087
+77013952;800201;2+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;187.426;27.08;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:12:04.301087
+77013953;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;208.688;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013954;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;208.688;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013955;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;208.688;26.57;5.34;;;;;;;;Post;;Hook;;;;2017-12-07 11:12:04.301087
+77013956;800301;3+;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;221.719;19.49;9.21;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77013957;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;245.997;20.33;9.03;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77013958;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;245.997;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013959;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;245.997;23.75;6.03;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:12:04.301087
+77013960;100200;Game stop;;;;;;;;;;;1;253.277;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013961;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;1;253.277;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013962;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;280.570;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77013963;800302;3-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;285.570;20.81;3.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77013964;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;285.570;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013965;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;294.379;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013966;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;294.379;24.59;8.04;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:12:04.301087
+77013967;100200;Game stop;;;;;;;;;;;1;303.697;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013968;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;1;303.697;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013969;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;317.887;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77013970;800302;3-;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;1;332.887;19.64;7.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77013971;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;332.887;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013972;800202;2-;6384;Omri Casspi;3225;Sacramento Kings;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;335.994;25.52;7.17;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:12:04.301087
+77013973;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;335.994;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013974;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;342.178;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013975;800400;2+1;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;342.178;26.57;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77013976;100200;Game stop;;;;;;;;;;;1;342.178;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013977;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;1;342.178;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013978;300100;Foul;6379;Rudy Gay;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;342.178;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013979;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6379;Rudy Gay;3225;Sacramento Kings;;;1;395.234;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013980;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;395.234;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77013981;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;398.005;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77013982;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6381;Rajon Rondo;1;417.005;26.27;6.72;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2018-01-02 05:26:08.154738
+77013983;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;417.005;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013984;100400;Steal;6385;Ben McLemore;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;422.820;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013985;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6385;Ben McLemore;1;427.573;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77013986;800201;2+;6385;Ben McLemore;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;427.573;27.08;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77013987;200600;Post;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;443.778;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013988;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;443.778;25.34;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 11:12:04.301087
+77013989;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;443.778;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013990;800201;2+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;452.810;27.20;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:12:04.301087
+77013991;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;475.782;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013992;800301;3+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;475.782;19.79;7.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77013993;800302;3-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;496.322;19.79;7.05;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77013994;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;496.322;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013995;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;506.971;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013996;800301;3+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;506.971;21.83;2.40;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77013997;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6379;Rudy Gay;1;524.059;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013998;200300;Pick'n'Roll;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;524.059;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77013999;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;524.059;26.84;7.44;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:12:04.301087
+77014000;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;538.799;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014001;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;538.799;26.78;7.32;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:12:04.301087
+77014002;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;538.799;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014003;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;549.758;25.10;7.32;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2018-01-02 05:26:08.154738
+77014004;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;549.758;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014005;100200;Game stop;;;;;;;;;;;1;557.336;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014006;300100;Foul;6385;Ben McLemore;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;557.336;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014007;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;585.986;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014008;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;585.986;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014009;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;585.986;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:12:04.301087
+77014010;800301;3+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;585.986;21.26;2.70;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:12:04.301087
+77014011;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;614.648;25.22;8.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014012;100200;Game stop;;;;;;;;;;;1;614.648;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014013;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;614.648;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014014;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;1;645.092;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014015;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6385;Ben McLemore;3225;Sacramento Kings;;;1;645.092;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014016;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;645.092;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014017;100400;Steal;6383;DeMarcus Cousins;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;645.092;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014018;100200;Game stop;;;;;;;;;;;1;648.746;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014019;100500;Turnover;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;1;648.746;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014020;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;6384;Omri Casspi;3225;Sacramento Kings;;;1;683.111;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014021;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;683.111;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014022;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;683.111;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014023;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;683.111;26.27;2.10;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:12:04.301087
+77014024;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;700.019;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014025;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;700.019;26.81;7.50;;;;;;;;Post;;Lay up;;;;2018-01-02 05:26:08.154738
+77014026;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;717.525;22.13;6.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014027;100300;Rebound;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;1;717.525;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014028;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;7772;Marco Belinelli;1;725.986;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014029;800201;2+;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;725.986;26.12;4.35;;;;;;;;Transition;;Floater;;;;2017-12-07 11:12:04.301087
+77014030;100200;Game stop;;;;;;;;;;;1;734.414;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014031;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;1;734.414;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014032;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;761.801;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014033;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;771.801;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014034;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;771.801;25.91;7.35;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:12:04.301087
+77014035;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;787.345;26.27;7.56;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:12:04.301087
+77014036;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;787.345;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014037;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;787.345;26.99;7.74;;;;;;;;Putbacks;;;;;;2017-12-07 11:12:04.301087
+77014038;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;805.657;21.95;2.16;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014039;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;805.657;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014040;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;819.594;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014041;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;819.594;23.90;6.87;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:12:04.301087
+77014042;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;819.594;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014043;800202;2-;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;1;835.635;26.57;3.63;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:12:04.301087
+77014044;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;835.635;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014045;100200;Game stop;;;;;;;;;;;1;844.808;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014046;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;844.808;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014047;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;881.529;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014048;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;1;881.529;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014049;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;881.529;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014050;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;881.529;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014051;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;881.529;27.38;7.83;;;;;;;;Cut;;Lay up;;;;2018-01-02 05:26:08.154738
+77014052;100400;Steal;6381;Rajon Rondo;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;905.311;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014053;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6379;Rudy Gay;1;910.190;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014054;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;910.190;27.50;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77014055;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6379;Rudy Gay;3225;Sacramento Kings;;;1;934.521;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:12:04.301087
+77014056;100200;Game stop;;;;;;;;;;;1;934.521;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014057;300100;Foul;6379;Rudy Gay;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;934.521;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014058;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6379;Rudy Gay;3225;Sacramento Kings;;;1;960.292;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014059;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;982.648;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014060;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;6383;DeMarcus Cousins;3225;Sacramento Kings;;;1;982.648;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014061;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;1;982.648;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014062;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6379;Rudy Gay;3225;Sacramento Kings;;;1;982.648;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014063;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;986.390;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014064;100200;Game stop;;;;;;;;;;;1;995.390;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014065;100500;Turnover;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;1;995.390;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014066;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;1007.801;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014067;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;1029.901;21.20;9.21;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:12:04.301087
+77014068;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;1029.901;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014069;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;1029.901;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:12:04.301087
+77014070;800302;3-;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;1;1042.870;20.09;4.50;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:12:04.301087
+77014071;100200;Game stop;;;;;;;;;;;1;1042.870;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014072;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;1042.870;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014073;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;6381;Rajon Rondo;3225;Sacramento Kings;;;1;1097.262;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014074;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;1097.262;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014075;800302;3-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;1097.262;20.66;3.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014076;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;1097.262;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014077;400101;Accurate pass;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6384;Omri Casspi;1;1115.091;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014078;800301;3+;6384;Omri Casspi;3225;Sacramento Kings;;;;;7772;Marco Belinelli;1;1115.091;19.58;7.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014079;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;1143.527;22.28;4.20;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:12:04.301087
+77014080;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;1143.527;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014081;1800500;Halftime;;;;;;;;;;;1;1143.527;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014082;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014083;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014084;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014085;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014086;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014087;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014088;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014089;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014090;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014091;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014092;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014093;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;5.349;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014094;800600;2F;6384;Omri Casspi;3225;Sacramento Kings;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;18.349;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:12:04.301087
+77014095;100200;Game stop;;;;;;;;;;;2;18.349;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014096;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;6384;Omri Casspi;3225;Sacramento Kings;;;2;18.349;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014097;800101;1+;6384;Omri Casspi;3225;Sacramento Kings;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;48.772;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014098;800101;1+;6384;Omri Casspi;3225;Sacramento Kings;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;63.210;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014099;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;64.933;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014100;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;2;80.933;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014101;800301;3+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;2;80.933;26.27;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014102;400101;Accurate pass;6377;Darren Collison;3225;Sacramento Kings;;;;;7772;Marco Belinelli;2;96.911;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014103;800201;2+;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6377;Darren Collison;2;96.911;21.71;10.92;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:12:04.301087
+77014104;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;111.824;22.58;7.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014105;200300;Pick'n'Roll;6384;Omri Casspi;3225;Sacramento Kings;;;;;6377;Darren Collison;2;130.560;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:12:04.301087
+77014106;800202;2-;6384;Omri Casspi;3225;Sacramento Kings;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;6377;Darren Collison;2;130.560;26.72;6.87;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 11:12:04.301087
+77014107;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;130.560;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014108;200600;Post;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;139.781;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014109;800202;2-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;139.781;26.27;6.36;;;;;;;;Post;;Hook;;;;2017-12-07 11:12:04.301087
+77014110;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;2;139.781;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014111;800201;2+;6377;Darren Collison;3225;Sacramento Kings;;;;;;;2;149.112;24.44;10.83;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:12:04.301087
+77014112;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;2;177.519;20.09;5.40;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014113;100200;Game stop;;;;;;;;;;;2;177.519;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014114;100300;Rebound;;;3225;Sacramento Kings;;;;;;;2;177.519;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014115;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;189.254;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014116;800600;2F;6388;Kosta Koufos;3225;Sacramento Kings;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;210.254;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:12:04.301087
+77014117;100200;Game stop;;;;;;;;;;;2;210.254;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014118;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;6388;Kosta Koufos;3225;Sacramento Kings;;;2;210.254;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014119;800101;1+;6388;Kosta Koufos;3225;Sacramento Kings;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;238.160;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014120;1600500;Guard;1173;Andre Miller;3174;Minnesota Timberwolves;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;259.460;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014121;800101;1+;6388;Kosta Koufos;3225;Sacramento Kings;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;259.460;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014122;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;261.871;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014123;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;2;277.871;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014124;800201;2+;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;2;277.871;26.72;8.04;;;;;;;;Cut;;;;;;2017-12-07 11:12:04.301087
+77014125;100200;Game stop;;;;;;;;;;;2;301.606;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014126;100500;Turnover;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;2;301.606;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014127;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;2;301.606;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014128;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;321.155;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014129;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;333.155;26.27;5.70;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014130;100300;Rebound;7714;Seth Curry;3225;Sacramento Kings;;;;;;;2;333.155;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014131;400101;Accurate pass;7714;Seth Curry;3225;Sacramento Kings;;;;;6377;Darren Collison;2;340.239;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014132;800301;3+;6377;Darren Collison;3225;Sacramento Kings;;;;;7714;Seth Curry;2;340.239;22.10;13.35;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:12:04.301087
+77014133;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;362.541;25.52;12.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014134;100200;Game stop;;;;;;;;;;;2;390.515;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014135;100500;Turnover;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;2;390.515;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014136;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;407.390;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014137;100200;Game stop;;;;;;;;;;;2;431.390;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014138;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;7714;Seth Curry;3225;Sacramento Kings;;;2;431.390;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014139;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;6388;Kosta Koufos;3225;Sacramento Kings;;;2;480.477;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014140;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;6384;Omri Casspi;3225;Sacramento Kings;;;2;480.477;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014141;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;480.477;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014142;800302;3-;7714;Seth Curry;3225;Sacramento Kings;;;;;;;2;480.477;24.14;0.87;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:12:04.301087
+77014143;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;480.477;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014144;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;485.682;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:12:04.301087
+77014145;800600;2F;6377;Darren Collison;3225;Sacramento Kings;1173;Andre Miller;3174;Minnesota Timberwolves;;;2;500.596;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:12:04.301087
+77014146;100200;Game stop;;;;;;;;;;;2;500.596;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014147;300100;Foul;1173;Andre Miller;3174;Minnesota Timberwolves;6377;Darren Collison;3225;Sacramento Kings;;;2;500.596;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014148;800102;1-;6377;Darren Collison;3225;Sacramento Kings;1173;Andre Miller;3174;Minnesota Timberwolves;;;2;527.848;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014149;100300;Rebound;;;3225;Sacramento Kings;;;;;;;2;527.848;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014150;800101;1+;6377;Darren Collison;3225;Sacramento Kings;1173;Andre Miller;3174;Minnesota Timberwolves;;;2;540.841;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014151;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;545.097;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014152;100400;Steal;6383;DeMarcus Cousins;3225;Sacramento Kings;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;557.097;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014153;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;2;560.963;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014154;800201;2+;6377;Darren Collison;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;560.963;26.84;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77014155;400101;Accurate pass;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;2;576.918;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014156;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;2;576.918;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:12:04.301087
+77014157;200600;Post;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;592.976;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014158;800600;2F;6379;Rudy Gay;3225;Sacramento Kings;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;592.976;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:12:04.301087
+77014159;100200;Game stop;;;;;;;;;;;2;592.976;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014160;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;6379;Rudy Gay;3225;Sacramento Kings;;;2;592.976;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014161;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;592.976;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014162;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;7772;Marco Belinelli;3225;Sacramento Kings;;;2;620.705;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014163;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;7714;Seth Curry;3225;Sacramento Kings;;;2;620.705;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014164;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;620.705;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014165;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;620.705;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014166;800101;1+;6379;Rudy Gay;3225;Sacramento Kings;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;620.705;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014167;800101;1+;6379;Rudy Gay;3225;Sacramento Kings;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;636.744;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014168;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;643.901;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014169;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;668.901;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014170;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;668.901;24.95;7.65;;;;;;;;Post;;Jumper;;;;2017-12-07 11:12:04.301087
+77014171;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;668.901;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014172;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;668.901;27.35;7.98;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:12:04.301087
+77014173;200300;Pick'n'Roll;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;686.669;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014174;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;686.669;27.08;7.56;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2018-01-02 05:26:08.154738
+77014175;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;686.669;27.05;7.83;;;;;;;;Putbacks;;;;;;2018-01-02 05:26:08.154738
+77014176;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;686.669;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014177;100400;Steal;6383;DeMarcus Cousins;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;705.755;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014178;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6385;Ben McLemore;2;711.046;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014179;800201;2+;6385;Ben McLemore;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;711.046;26.99;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77014180;100200;Game stop;;;;;;;;;;;2;722.408;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014181;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;722.408;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014182;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;1173;Andre Miller;3174;Minnesota Timberwolves;;;2;751.422;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014183;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;751.422;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014184;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;2;751.422;26.51;13.92;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014185;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;751.422;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014186;800202;2-;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;2;759.192;26.99;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77014187;100300;Rebound;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;759.192;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014188;100200;Game stop;;;;;;;;;;;2;768.556;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014189;300100;Foul;6385;Ben McLemore;3225;Sacramento Kings;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;768.556;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014190;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;783.419;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014191;100200;Game stop;;;;;;;;;;;2;794.419;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014192;300100;Foul;6381;Rajon Rondo;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;794.419;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014193;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;806.430;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014194;100400;Steal;6381;Rajon Rondo;3225;Sacramento Kings;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;815.430;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014195;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6377;Darren Collison;2;820.337;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014196;800201;2+;6377;Darren Collison;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;820.337;26.81;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77014197;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;6379;Rudy Gay;3225;Sacramento Kings;;;2;838.012;26.81;8.52;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:12:04.301087
+77014198;100200;Game stop;;;;;;;;;;;2;838.012;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014199;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;838.012;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014200;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;863.894;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014201;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;874.894;20.33;10.14;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014202;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;874.894;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014203;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;874.894;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:12:04.301087
+77014204;800302;3-;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;897.800;26.12;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014205;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;897.800;27.05;7.62;;;;;;;;Putbacks;;;;;;2018-01-02 05:26:08.154738
+77014206;100200;Game stop;;;;;;;;;;;2;897.800;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014207;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;2;897.800;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014208;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;2;897.800;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014209;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;897.800;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014210;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;928.561;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014211;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;928.561;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014212;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;6377;Darren Collison;3225;Sacramento Kings;;;2;928.561;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014213;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;928.561;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014214;800102;1-;6383;DeMarcus Cousins;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;942.133;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014215;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;942.133;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014216;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;942.133;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014217;200300;Pick'n'Roll;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;957.335;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:12:04.301087
+77014218;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;957.335;26.99;7.59;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 11:12:04.301087
+77014219;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;957.335;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014220;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;957.335;27.23;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 11:12:04.301087
+77014221;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;966.001;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014222;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;966.001;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014223;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;966.001;26.84;7.59;;;;;;;;Post;;Lay up;;;;2018-01-02 05:26:08.154738
+77014224;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;983.073;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014225;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;5309;Ricky Rubio;2;983.073;26.66;7.17;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:12:04.301087
+77014226;100200;Game stop;;;;;;;;;;;2;983.073;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014227;100300;Rebound;;;3225;Sacramento Kings;;;;;;;2;983.073;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014228;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;1002.152;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014229;800301;3+;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;1028.152;19.04;8.64;;;;;;;;;;Jumper;;;;2017-12-07 11:12:04.301087
+77014230;800302;3-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;1041.187;22.88;14.07;;;;;;;;;;Jumper;;;;2017-12-07 11:12:04.301087
+77014231;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;1041.187;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014232;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;1050.604;19.88;9.12;;;;;;;;Transition;;Jumper;;;;2018-01-02 05:26:08.154738
+77014233;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;1050.604;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014234;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;1069.437;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014235;800400;2+1;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1069.437;26.96;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:12:04.301087
+77014236;100200;Game stop;;;;;;;;;;;2;1069.437;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014237;300100;Foul;6384;Omri Casspi;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;1069.437;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014238;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6384;Omri Casspi;3225;Sacramento Kings;;;2;1104.494;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014239;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;1114.573;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014240;800201;2+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;1122.073;27.08;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:12:04.301087
+77014241;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;2;1140.688;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014242;800301;3+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1140.688;26.57;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014243;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;1192.898;24.50;1.50;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:12:04.301087
+77014244;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;1192.898;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014245;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;1214.330;27.05;7.20;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:12:04.301087
+77014246;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;1226.488;19.58;9.06;;;;;;;;Hand offs;;Jumper;;;;2018-01-02 05:26:08.154738
+77014247;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;1226.488;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014248;1800500;Halftime;;;;;;;;;;;2;1226.588;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014249;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014250;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014251;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014252;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014253;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014254;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014255;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014256;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014257;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014258;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014259;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014260;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;3.441;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014261;100200;Game stop;;;;;;;;;;;3;19.441;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014262;100500;Turnover;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;19.441;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014263;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;29.408;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014264;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;42.408;22.73;11.91;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:12:04.301087
+77014265;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;42.408;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014266;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;74.123;26.99;7.56;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:12:04.301087
+77014267;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;74.123;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014268;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;87.115;27.35;7.50;;;;;;;;Isolation;;Lay up;Drives Right;;;2018-01-02 05:26:08.154738
+77014269;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;97.587;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:12:04.301087
+77014270;100200;Game stop;;;;;;;;;;;3;97.587;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014271;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;97.587;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014272;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;120.526;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014273;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;136.089;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014274;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;141.510;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014275;100200;Game stop;;;;;;;;;;;3;142.510;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014276;300300;Technical foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;6384;Omri Casspi;3225;Sacramento Kings;;;3;142.510;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014277;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;156.760;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014278;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;171.760;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014279;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;171.760;26.84;7.02;;;;;;;;Post;;Lay up;;;;2018-01-02 05:26:08.154738
+77014280;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;171.760;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014281;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;3;181.149;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014282;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;181.149;22.37;11.88;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:12:04.301087
+77014283;100200;Game stop;;;;;;;;;;;3;192.454;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014284;100500;Turnover;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;192.454;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014285;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;202.504;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014286;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;212.504;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014287;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;212.504;21.41;9.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014288;100200;Game stop;;;;;;;;;;;3;221.309;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014289;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;221.309;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014290;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;235.151;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014291;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;255.151;22.28;10.83;;;;;;;;;;Jumper;;;;2017-12-07 11:12:04.301087
+77014292;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;255.151;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014293;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;267.712;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014294;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;267.712;25.76;7.95;;;;;;;;Cut;;Jumper;;;;2018-01-02 05:26:08.154738
+77014295;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;289.771;21.26;12.69;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014296;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;289.771;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014297;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;302.941;21.56;10.26;;;;;;;;Isolation;;Jumper;;Quick first step;;2018-01-02 05:26:08.154738
+77014298;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;302.941;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014299;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;310.650;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014300;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;310.650;23.18;3.48;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:12:04.301087
+77014301;800400;2+1;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;330.012;26.42;8.19;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:12:04.301087
+77014302;100200;Game stop;;;;;;;;;;;3;330.012;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014303;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6385;Ben McLemore;3225;Sacramento Kings;;;3;330.012;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014304;800102;1-;6385;Ben McLemore;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;370.230;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014305;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;370.230;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014306;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;370.230;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014307;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;392.528;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014308;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;392.528;26.72;7.35;;;;;;;;Post;;Lay up;;;;2017-12-07 11:12:04.301087
+77014309;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;403.401;27.08;7.59;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2018-01-02 05:26:08.154738
+77014310;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;403.401;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014311;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6385;Ben McLemore;3225;Sacramento Kings;;;3;411.032;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:12:04.301087
+77014312;100200;Game stop;;;;;;;;;;;3;411.032;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014313;300100;Foul;6385;Ben McLemore;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;411.032;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014314;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;3;411.032;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014315;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6385;Ben McLemore;3225;Sacramento Kings;;;3;433.315;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014316;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6385;Ben McLemore;3225;Sacramento Kings;;;3;447.542;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014317;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;452.321;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014318;100200;Game stop;;;;;;;;;;;3;460.321;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014319;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;3;460.321;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014320;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;472.986;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014321;400101;Accurate pass;6385;Ben McLemore;3225;Sacramento Kings;;;;;6384;Omri Casspi;3;482.986;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014322;800301;3+;6384;Omri Casspi;3225;Sacramento Kings;;;;;6385;Ben McLemore;3;482.986;25.67;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014323;100400;Steal;6384;Omri Casspi;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;501.146;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014324;800302;3-;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;529.145;24.80;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014325;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;529.145;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014326;100400;Steal;6385;Ben McLemore;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;535.075;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014327;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;555.334;25.19;3.78;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:12:04.301087
+77014328;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;555.334;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014329;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;555.334;26.72;6.96;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:12:04.301087
+77014330;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;555.334;27.23;7.80;;;;;;;;Putbacks;;;;;;2018-01-02 05:26:08.154738
+77014331;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;555.334;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014332;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;555.334;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014333;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;573.567;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014334;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;573.567;26.42;13.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014335;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;596.203;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014336;800201;2+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;596.203;21.35;10.38;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014337;100200;Game stop;;;;;;;;;;;3;618.678;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014338;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;3;618.678;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014339;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;665.677;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014340;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6384;Omri Casspi;3225;Sacramento Kings;;;3;665.677;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014341;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;665.677;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014342;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;665.677;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014343;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;665.677;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014344;200300;Pick'n'Roll;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;665.677;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014345;800400;2+1;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;665.677;26.27;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2018-01-02 05:26:08.154738
+77014346;100200;Game stop;;;;;;;;;;;3;665.677;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014347;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;665.677;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014348;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;3;665.677;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014349;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;711.193;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014350;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;714.852;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014351;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;735.852;22.25;4.05;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:12:04.301087
+77014352;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;735.852;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014353;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;3;739.317;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014354;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;739.317;26.57;10.29;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:12:04.301087
+77014355;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;759.661;24.89;9.06;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:12:04.301087
+77014356;100200;Game stop;;;;;;;;;;;3;782.863;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014357;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;782.863;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014358;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;6385;Ben McLemore;3225;Sacramento Kings;;;3;818.295;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014359;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;3;818.295;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014360;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;818.295;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014361;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;818.295;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014362;400101;Accurate pass;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;834.911;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014363;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5330;Adreian Payne;3;834.911;26.27;12.60;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014364;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6379;Rudy Gay;3;846.619;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014365;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;846.619;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:12:04.301087
+77014366;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;865.685;24.44;12.36;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:12:04.301087
+77014367;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;3;865.685;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014368;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;879.067;25.97;7.17;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2018-01-02 05:26:08.154738
+77014369;100200;Game stop;;;;;;;;;;;3;931.885;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014370;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;931.885;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014371;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;931.885;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014372;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;931.885;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014373;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;931.885;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:12:04.301087
+77014374;800301;3+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;931.885;24.95;0.66;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:12:04.301087
+77014375;100200;Game stop;;;;;;;;;;;3;950.653;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014376;100500;Turnover;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;950.653;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014377;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;963.496;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014378;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;978.496;21.50;6.12;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:12:04.301087
+77014379;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;3;978.496;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014380;200300;Pick'n'Roll;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;3;989.605;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:12:04.301087
+77014381;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;6377;Darren Collison;3;989.605;25.22;7.17;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:12:04.301087
+77014382;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;989.605;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014383;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;995.672;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014384;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;995.672;26.96;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77014385;200300;Pick'n'Roll;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;1016.776;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014386;800202;2-;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;1016.776;25.49;8.58;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:12:04.301087
+77014387;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;3;1016.776;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014388;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;3;1036.777;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:12:04.301087
+77014389;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;1036.777;24.95;7.83;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:12:04.301087
+77014390;100200;Game stop;;;;;;;;;;;3;1036.777;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014391;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;3;1036.777;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014392;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;6381;Rajon Rondo;3225;Sacramento Kings;;;3;1069.466;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014393;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;1069.466;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014394;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1069.466;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014395;400101;Accurate pass;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6384;Omri Casspi;3;1069.466;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014396;800301;3+;6384;Omri Casspi;3225;Sacramento Kings;;;;;7772;Marco Belinelli;3;1069.466;24.05;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014397;200600;Post;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;3;1102.481;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014398;800202;2-;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;3;1102.481;26.51;9.81;;;;;;;;Post;;Jumper;;;;2017-12-07 11:12:04.301087
+77014399;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1102.481;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014400;100200;Game stop;;;;;;;;;;;3;1116.263;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014401;100500;Turnover;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;1116.263;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014402;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1130.859;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014403;800302;3-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1134.359;20.66;2.16;;;;;;;;;;Jumper;;;;2017-12-07 11:12:04.301087
+77014404;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1134.359;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014405;1800500;Halftime;;;;;;;;;;;3;1134.459;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014406;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014407;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014408;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014409;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014410;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014411;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014412;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014413;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014414;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014415;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014416;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014417;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;4.807;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014418;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;22.807;26.51;8.28;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:12:04.301087
+77014419;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;5330;Adreian Payne;3174;Minnesota Timberwolves;;;4;50.788;26.51;5.94;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:12:04.301087
+77014420;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;50.788;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014421;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;60.133;20.63;3.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:12:04.301087
+77014422;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;60.133;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014423;100200;Game stop;;;;;;;;;;;4;60.133;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014424;300100;Foul;6377;Darren Collison;3225;Sacramento Kings;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;60.133;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014425;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;82.727;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014426;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;96.727;26.72;11.07;;;;;;;;Isolation;;Floater;Drives Left;;;2017-12-07 11:12:04.301087
+77014427;100200;Game stop;;;;;;;;;;;4;96.727;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014428;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;96.727;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014429;300100;Foul;5330;Adreian Payne;3174;Minnesota Timberwolves;6384;Omri Casspi;3225;Sacramento Kings;;;4;96.727;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014430;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;113.093;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014431;800202;2-;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6377;Darren Collison;4;127.093;25.67;7.74;;;;;;;;Cut;;Hook;;;;2017-12-07 11:12:04.301087
+77014432;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;127.093;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014433;200600;Post;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;149.496;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014434;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;149.496;26.81;10.05;;;;;;;;Post;;Jumper;;;;2017-12-07 11:12:04.301087
+77014435;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;149.496;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014436;800302;3-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;168.817;19.79;8.52;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014437;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;168.817;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014438;100200;Game stop;;;;;;;;;;;4;174.588;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014439;300100;Foul;6377;Darren Collison;3225;Sacramento Kings;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;174.588;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014440;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;192.718;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014441;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;204.718;24.50;7.65;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:12:04.301087
+77014442;100300;Rebound;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;4;204.718;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014443;800400;2+1;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;210.717;26.84;7.26;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:12:04.301087
+77014444;100200;Game stop;;;;;;;;;;;4;210.717;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014445;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;6377;Darren Collison;3225;Sacramento Kings;;;4;210.717;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014446;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;4;248.866;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014447;800102;1-;6377;Darren Collison;3225;Sacramento Kings;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;248.866;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014448;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;248.866;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014449;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;248.866;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014450;100400;Steal;6383;DeMarcus Cousins;3225;Sacramento Kings;5330;Adreian Payne;3174;Minnesota Timberwolves;;;4;267.148;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014451;800202;2-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;351.625;22.73;3.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:12:04.301087
+77014452;100300;Rebound;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;351.625;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014453;100200;Game stop;;;;;;;;;;;4;371.645;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014454;100500;Turnover;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;371.645;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014455;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;4;371.645;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014456;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;410.045;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014457;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5330;Adreian Payne;3174;Minnesota Timberwolves;;;4;410.045;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014458;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;410.045;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014459;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;410.045;26.72;6.51;;;;;;;;Isolation;;Lay up;Drives Right;;;2018-01-02 05:26:08.154738
+77014460;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;410.045;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014461;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;426.704;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:12:04.301087
+77014462;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;426.704;23.03;8.28;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:12:04.301087
+77014463;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;426.704;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014464;100200;Game stop;;;;;;;;;;;4;431.519;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014465;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;4;431.519;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014466;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;481.448;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014467;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;481.448;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014468;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;481.448;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014469;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;4;481.448;26.72;7.26;;;;;;;;Post;;Lay up;;;;2018-01-02 05:26:08.154738
+77014470;100200;Game stop;;;;;;;;;;;4;481.448;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014471;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;481.448;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014472;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;497.129;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014473;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;7772;Marco Belinelli;3225;Sacramento Kings;;;4;554.843;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014474;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;554.843;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014475;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;554.843;21.20;5.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014476;100200;Game stop;;;;;;;;;;;4;554.843;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014477;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;554.843;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014478;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;594.284;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014479;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;594.284;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014480;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;594.284;26.42;3.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014481;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;4;594.284;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014482;800302;3-;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;4;603.417;21.11;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014483;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;603.417;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014484;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;618.040;19.34;9.84;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014485;100300;Rebound;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;4;618.040;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014486;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;4;635.825;25.37;7.83;;;;;;;;Cut;;Jumper;;;;2018-01-02 05:26:08.154738
+77014487;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;4;635.825;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014488;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;647.327;23.18;12.30;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014489;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;647.327;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014490;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6388;Kosta Koufos;4;659.636;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014491;800201;2+;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;659.636;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:12:04.301087
+77014492;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;677.921;26.66;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014493;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;677.921;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014494;800600;2F;6381;Rajon Rondo;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;701.297;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:12:04.301087
+77014495;100200;Game stop;;;;;;;;;;;4;701.297;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014496;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;701.297;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014497;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;701.297;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014498;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;6388;Kosta Koufos;3225;Sacramento Kings;;;4;722.349;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014499;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;722.349;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014500;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;722.349;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014501;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;737.974;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014502;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;739.655;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014503;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;755.655;25.22;6.96;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:12:04.301087
+77014504;800302;3-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;806.777;22.13;1.71;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014505;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;806.777;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014506;100200;Game stop;;;;;;;;;;;4;822.921;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014507;300100;Foul;6384;Omri Casspi;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;822.921;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014508;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;852.784;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014509;400101;Accurate pass;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;4;859.784;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014510;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;4;859.784;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:12:04.301087
+77014511;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6379;Rudy Gay;4;873.616;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014512;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;873.616;23.27;7.17;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:12:04.301087
+77014513;200600;Post;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;892.728;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014514;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;892.728;26.21;11.37;;;;;;;;Post;;Jumper;;;;2017-12-07 11:12:04.301087
+77014515;100300;Rebound;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;4;892.728;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014516;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6377;Darren Collison;4;905.649;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014517;800301;3+;6377;Darren Collison;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;905.649;26.72;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014518;100200;Game stop;;;;;;;;;;;4;946.474;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014519;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6383;DeMarcus Cousins;3225;Sacramento Kings;;;4;946.474;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014520;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;987.132;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014521;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;987.132;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014522;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;987.132;26.96;7.05;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:12:04.301087
+77014523;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;987.132;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014524;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;987.132;26.96;7.56;;;;;;;;Putbacks;;Lay up;;;;2018-01-02 05:26:08.154738
+77014525;100400;Steal;6381;Rajon Rondo;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;997.837;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014526;800302;3-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;4;1025.021;26.66;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014527;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;1025.021;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014528;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1036.129;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014529;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1036.129;27.35;7.05;;;;;;;;Post;;Lay up;;;;2017-12-07 11:12:04.301087
+77014530;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1036.129;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014531;100200;Game stop;;;;;;;;;;;4;1039.635;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014532;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1039.635;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014533;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;4;1039.635;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014534;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1061.212;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014535;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1068.212;26.51;7.26;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:12:04.301087
+77014536;800302;3-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;1085.446;21.95;13.38;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:12:04.301087
+77014537;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;4;1085.446;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014538;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;1096.713;22.82;7.11;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:12:04.301087
+77014539;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1096.713;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014540;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1112.450;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014541;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1112.450;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:12:04.301087
+77014542;100200;Game stop;;;;;;;;;;;4;1112.450;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014543;300100;Foul;6381;Rajon Rondo;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1112.450;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014544;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1140.646;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014545;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1156.394;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014546;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1165.050;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014547;100200;Game stop;;;;;;;;;;;4;1175.050;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014548;300100;Foul;6381;Rajon Rondo;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1175.050;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014549;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1198.883;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014550;800302;3-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1214.983;24.80;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:12:04.301087
+77014551;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1214.983;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014552;100200;Game stop;;;;;;;;;;;4;1220.379;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014553;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;1220.379;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014554;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1245.127;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014555;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1262.127;24.65;13.23;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:12:04.301087
+77014556;100200;Game stop;;;;;;;;;;;4;1262.127;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014557;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;1262.127;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014558;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1262.127;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014559;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;4;1262.127;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014560;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;1297.734;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014561;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1297.734;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014562;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;1297.734;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014563;200300;Pick'n'Roll;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;1297.734;;;;;;;;;;;;;;;;2018-01-02 05:26:08.154738
+77014564;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;1297.734;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2018-01-02 05:26:08.154738
+77014565;100200;Game stop;;;;;;;;;;;4;1306.997;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014566;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;1306.997;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014567;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;4;1336.392;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014568;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;4;1336.392;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014569;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1336.392;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014570;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1336.392;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014571;100200;Game stop;;;;;;;;;;;4;1336.392;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014572;300100;Foul;6381;Rajon Rondo;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1336.392;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014573;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1358.243;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014574;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1383.800;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014575;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;1383.800;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014576;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1383.800;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014577;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1383.800;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014578;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;4;1383.800;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014579;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;1414.255;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014580;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1414.255;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014581;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;1414.255;26.27;7.59;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2018-01-02 05:26:08.154738
+77014582;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;6377;Darren Collison;3225;Sacramento Kings;;;4;1416.326;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014583;100200;Game stop;;;;;;;;;;;4;1416.326;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014584;300100;Foul;6377;Darren Collison;3225;Sacramento Kings;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1416.326;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014585;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;6377;Darren Collison;3225;Sacramento Kings;;;4;1455.870;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014586;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;6377;Darren Collison;3225;Sacramento Kings;;;4;1468.626;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014587;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1474.048;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014588;800600;2F;6381;Rajon Rondo;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1476.348;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:12:04.301087
+77014589;100200;Game stop;;;;;;;;;;;4;1476.348;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014590;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1476.348;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014591;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1508.473;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014592;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6377;Darren Collison;3225;Sacramento Kings;;;4;1546.917;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014593;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;6384;Omri Casspi;3225;Sacramento Kings;;;4;1546.917;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014594;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1546.917;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014595;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1546.917;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014596;800102;1-;6381;Rajon Rondo;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1546.917;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014597;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1546.917;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014598;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1546.917;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014599;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1547.230;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014600;100200;Game stop;;;;;;;;;;;4;1547.230;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014601;300100;Foul;6381;Rajon Rondo;3225;Sacramento Kings;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1547.230;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014602;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1586.345;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014603;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1613.378;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014604;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;1613.378;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014605;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;6388;Kosta Koufos;3225;Sacramento Kings;;;4;1613.378;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014606;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;6385;Ben McLemore;3225;Sacramento Kings;;;4;1613.378;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014607;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1613.378;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014608;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;1622.075;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77014609;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;1623.575;11.09;2.64;;;;;;;;;;Jumper;;;;2018-01-02 05:26:08.154738
+77014610;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;1623.575;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+77014611;1800700;Match end;;;;;;;;;;;4;1623.575;;;;;;;;;;;;;;;;2017-12-07 11:12:04.301087
+93268217;100500;Turnover;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;431.390;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268218;100500;Turnover;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;221.309;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268219;100500;Turnover;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;618.678;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268220;100500;Turnover;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;431.519;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268221;100500;Turnover;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;497.129;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268222;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;946.474;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268223;100500;Turnover;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;4;1175.050;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+103674829;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;131.583;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674831;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;144.363;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674833;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;171.635;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674835;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;187.426;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674837;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;208.688;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674839;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;221.719;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674841;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;245.997;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674843;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;294.379;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674845;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;342.178;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674847;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;427.573;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674849;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;452.810;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674851;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;475.782;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674853;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;506.971;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674855;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;524.059;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674857;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;585.986;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674859;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;683.111;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674861;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;700.019;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674863;200900;Assisting;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;725.986;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674865;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;771.801;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674867;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;787.345;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674869;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;881.529;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674871;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;910.190;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674873;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;934.521;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674875;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;1029.901;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674877;200900;Assisting;6384;Omri Casspi;3225;Sacramento Kings;;;;;7772;Marco Belinelli;1;1115.091;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674879;200900;Assisting;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;2;18.349;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674881;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;2;80.933;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674883;200900;Assisting;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6377;Darren Collison;2;96.911;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674885;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;111.824;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674887;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;2;149.112;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674889;200900;Assisting;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;2;210.254;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674891;200900;Assisting;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;2;277.871;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674893;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;7714;Seth Curry;2;340.239;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674895;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;362.541;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674897;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;485.682;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674899;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;2;500.596;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674901;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;560.963;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674903;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;2;576.918;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674905;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;592.976;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674907;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;668.901;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674909;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;686.669;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674911;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;711.046;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674913;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;820.337;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674915;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;874.894;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674917;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;897.800;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674919;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;957.335;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674921;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;2;966.001;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674923;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;1028.152;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674925;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1069.437;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674927;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;1122.073;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674929;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1140.688;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674931;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;1214.330;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674933;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;87.115;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674935;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;97.587;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674937;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;181.149;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674939;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;212.504;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674941;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;267.712;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674943;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;310.650;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674945;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;330.012;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674947;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;392.528;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674949;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;411.032;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674951;200900;Assisting;6384;Omri Casspi;3225;Sacramento Kings;;;;;6385;Ben McLemore;3;482.986;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674953;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;573.567;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674955;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;596.203;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674957;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;665.677;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674959;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;739.317;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674961;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;759.661;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674963;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5330;Adreian Payne;3;834.911;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674965;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;846.619;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674967;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;879.067;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674969;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;931.885;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674971;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;995.672;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674973;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;1036.777;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674975;200900;Assisting;6384;Omri Casspi;3225;Sacramento Kings;;;;;7772;Marco Belinelli;3;1069.466;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674977;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;22.807;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674979;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;210.717;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674981;200900;Assisting;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;659.636;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674983;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;4;701.297;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674985;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;755.655;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674987;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;4;859.784;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674989;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;873.616;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674991;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;905.649;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674993;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;987.132;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674995;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1068.212;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674997;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1112.450;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674999;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;1297.734;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103675001;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1336.392;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103675003;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;1414.255;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103675005;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1416.326;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103675007;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;4;1476.348;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103675009;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1547.230;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161

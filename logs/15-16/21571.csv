@@ -1,0 +1,810 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77076762;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076790;100200;Game stop;;;;;;;;;;;1;272.626;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076803;100200;Game stop;;;;;;;;;;;1;355.786;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076816;100200;Game stop;;;;;;;;;;;1;457.819;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076824;100200;Game stop;;;;;;;;;;;1;510.504;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076832;100200;Game stop;;;;;;;;;;;1;592.149;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076842;100200;Game stop;;;;;;;;;;;1;686.438;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076861;100200;Game stop;;;;;;;;;;;1;804.519;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076865;100200;Game stop;;;;;;;;;;;1;844.818;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076874;100200;Game stop;;;;;;;;;;;1;887.701;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076886;100200;Game stop;;;;;;;;;;;1;986.434;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076897;100200;Game stop;;;;;;;;;;;1;1087.453;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076902;100200;Game stop;;;;;;;;;;;1;1116.295;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076911;1800500;Halftime;;;;;;;;;;;1;1182.912;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076912;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076925;100200;Game stop;;;;;;;;;;;2;42.837;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076935;100200;Game stop;;;;;;;;;;;2;132.820;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076949;100200;Game stop;;;;;;;;;;;2;249.736;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076950;1800600;Timeout;;;;;;;;;;;2;249.736;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076957;100200;Game stop;;;;;;;;;;;2;294.240;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076963;100200;Game stop;;;;;;;;;;;2;351.443;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076972;100200;Game stop;;;;;;;;;;;2;409.028;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076977;100200;Game stop;;;;;;;;;;;2;449.038;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076990;100200;Game stop;;;;;;;;;;;2;561.027;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076995;100200;Game stop;;;;;;;;;;;2;650.515;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076998;100200;Game stop;;;;;;;;;;;2;677.989;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077004;100200;Game stop;;;;;;;;;;;2;721.622;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077013;100200;Game stop;;;;;;;;;;;2;774.443;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077033;100200;Game stop;;;;;;;;;;;2;948.952;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077043;100200;Game stop;;;;;;;;;;;2;1031.331;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077057;100200;Game stop;;;;;;;;;;;2;1140.596;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077070;100200;Game stop;;;;;;;;;;;2;1202.112;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077087;1800500;Halftime;;;;;;;;;;;2;1342.363;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077088;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077113;100200;Game stop;;;;;;;;;;;3;159.677;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077119;100200;Game stop;;;;;;;;;;;3;220.912;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077128;100200;Game stop;;;;;;;;;;;3;303.032;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077138;100200;Game stop;;;;;;;;;;;3;367.074;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077147;100200;Game stop;;;;;;;;;;;3;433.551;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077161;100200;Game stop;;;;;;;;;;;3;526.798;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077169;100200;Game stop;;;;;;;;;;;3;587.587;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077173;100200;Game stop;;;;;;;;;;;3;618.559;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077181;100200;Game stop;;;;;;;;;;;3;684.518;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077185;100200;Game stop;;;;;;;;;;;3;714.697;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077192;100200;Game stop;;;;;;;;;;;3;740.547;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077203;100200;Game stop;;;;;;;;;;;3;851.752;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077216;100200;Game stop;;;;;;;;;;;3;960.662;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077220;100200;Game stop;;;;;;;;;;;3;983.415;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077225;100200;Game stop;;;;;;;;;;;3;1021.355;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077240;100200;Game stop;;;;;;;;;;;3;1129.924;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077246;100200;Game stop;;;;;;;;;;;3;1195.937;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077252;100200;Game stop;;;;;;;;;;;3;1245.533;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077258;1800500;Halftime;;;;;;;;;;;3;1299.645;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077259;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077276;100200;Game stop;;;;;;;;;;;4;44.736;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077284;100200;Game stop;;;;;;;;;;;4;108.494;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077291;100200;Game stop;;;;;;;;;;;4;165.468;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077295;100200;Game stop;;;;;;;;;;;4;235.756;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077298;100200;Game stop;;;;;;;;;;;4;235.756;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077308;100200;Game stop;;;;;;;;;;;4;367.463;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077312;100200;Game stop;;;;;;;;;;;4;398.230;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077331;100200;Game stop;;;;;;;;;;;4;552.095;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077339;100200;Game stop;;;;;;;;;;;4;619.791;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077348;100200;Game stop;;;;;;;;;;;4;712.634;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077350;1800600;Timeout;;;;;;;;;;;4;712.634;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077363;100200;Game stop;;;;;;;;;;;4;769.886;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077371;100200;Game stop;;;;;;;;;;;4;825.686;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077378;100200;Game stop;;;;;;;;;;;4;887.605;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077383;100200;Game stop;;;;;;;;;;;4;928.015;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077388;100200;Game stop;;;;;;;;;;;4;985.798;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077392;100200;Game stop;;;;;;;;;;;4;1013.273;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077403;100200;Game stop;;;;;;;;;;;4;1096.516;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077424;100200;Game stop;;;;;;;;;;;4;1232.690;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077437;100200;Game stop;;;;;;;;;;;4;1320.365;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077444;1800700;Match end;;;;;;;;;;;4;1374.153;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076739;1601000;Starting lineup;7101;Jared Cunningham;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076740;1601000;Starting lineup;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77076741;1601000;Starting lineup;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076742;1601000;Starting lineup;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076743;1601000;Starting lineup;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076744;1601000;Starting lineup;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076745;1601000;Starting lineup;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076746;1601000;Starting lineup;7;James Jones;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076747;1601000;Starting lineup;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076748;1601000;Starting lineup;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076749;1601000;Starting lineup;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076750;1601000;Starting lineup;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076751;1601000;Starting lineup;1137;Delon Wright;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076752;1601000;Starting lineup;1134;Norman Powell;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076753;1601000;Starting lineup;1138;Lucas Nogueira;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076754;1601000;Starting lineup;1129;Cory Joseph;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076755;1601000;Starting lineup;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076756;1601000;Starting lineup;85;Terrence Ross;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076757;1601000;Starting lineup;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076758;1601000;Starting lineup;8332;James Johnson;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076759;1601000;Starting lineup;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076760;1601000;Starting lineup;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076761;1601000;Starting lineup;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076763;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076764;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076765;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076766;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076767;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77076768;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076769;1600500;Guard;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076770;1600500;Guard;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076771;1600500;Guard;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076772;1600500;Guard;8332;James Johnson;78;Toronto Raptors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076773;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;90.026;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076774;400101;Accurate pass;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;110.026;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:41:03.954866
+77076775;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1133;Jonas Valanciunas;1;110.026;26.96;8.34;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:41:03.954866
+77076776;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;129.609;25.97;15.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77076777;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;129.609;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076778;800302;3-;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;142.623;19.64;10.38;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77076779;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;142.623;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076780;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;160.700;26.72;11.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77076781;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;7535;Luis Scola;1;174.664;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076782;200300;Pick'n'Roll;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;174.664;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:41:03.954866
+77076783;800201;2+;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;174.664;26.96;6.36;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:41:03.954866
+77076784;400101;Accurate pass;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;220.565;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77076785;200300;Pick'n'Roll;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;220.565;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77076786;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;220.565;22.58;11.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77076787;800302;3-;7535;Luis Scola;78;Toronto Raptors;;;;;;;1;268.761;26.36;14.97;;;;;;;;;;Jumper;;;;2017-12-07 11:41:03.954866
+77076788;100300;Rebound;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;1;268.761;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076789;800600;2F;8332;James Johnson;78;Toronto Raptors;8;J.R. Smith;1;Cleveland Cavaliers;;;1;272.626;27.05;7.62;;;;;;;;Catch and Drive;;;;;;2017-12-07 11:41:03.954866
+77076791;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;8332;James Johnson;78;Toronto Raptors;;;1;272.626;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77076792;800102;1-;8332;James Johnson;78;Toronto Raptors;8;J.R. Smith;1;Cleveland Cavaliers;;;1;298.149;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076793;100300;Rebound;;;78;Toronto Raptors;;;;;;;1;298.149;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076794;800102;1-;8332;James Johnson;78;Toronto Raptors;8;J.R. Smith;1;Cleveland Cavaliers;;;1;313.739;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076795;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;313.739;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076796;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;313.739;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076797;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;1;326.628;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076798;200300;Pick'n'Roll;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;326.628;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076799;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;326.628;25.97;8.10;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:41:03.954866
+77076800;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;7535;Luis Scola;1;340.253;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076801;800301;3+;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;340.253;23.45;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77076802;800202;2-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;355.786;23.75;10.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77076804;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;1;355.786;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076805;300100;Foul;8332;James Johnson;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;355.786;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076806;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;371.558;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076807;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;379.558;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076808;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;379.558;25.67;15.06;;;;;;;;;;Jumper;;;;2018-04-20 13:44:36.355048
+77076809;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;392.618;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076810;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;392.618;27.20;7.98;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:41:03.954866
+77076811;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;405.930;27.08;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:41:03.954866
+77076812;800202;2-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;414.865;27.05;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:41:03.954866
+77076813;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;414.865;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076814;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;421.265;26.99;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:41:03.954866
+77076815;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;438.649;26.96;8.22;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:41:03.954866
+77076817;300100;Foul;1132;DeMar DeRozan;78;Toronto Raptors;8;J.R. Smith;1;Cleveland Cavaliers;;;1;457.819;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076818;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;471.616;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076819;800202;2-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;490.616;26.96;7.50;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:41:03.954866
+77076820;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;1;490.616;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076821;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;1;503.115;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076822;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;503.115;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076823;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;503.115;25.76;8.52;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:41:03.954866
+77076825;1800600;Timeout;;;78;Toronto Raptors;;;;;;;1;510.504;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076826;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;527.183;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076827;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;545.183;26.42;6.51;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:41:03.954866
+77076828;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;1;545.183;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076829;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;551.676;26.99;8.10;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:41:03.954866
+77076830;100400;Steal;1;LeBron James;1;Cleveland Cavaliers;7535;Luis Scola;78;Toronto Raptors;;;1;576.557;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076831;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;1;592.149;21.56;2.97;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77076833;100300;Rebound;;;78;Toronto Raptors;;;;;;;1;592.149;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076834;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;613.205;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076835;100400;Steal;1889;Kevin Love;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;1;629.205;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076836;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1889;Kevin Love;1;642.277;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076837;800301;3+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;642.277;25.52;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77076838;800302;3-;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;658.690;27.77;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77076839;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;658.690;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076840;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;677.901;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076841;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;677.901;24.02;15.00;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77076843;1800600;Timeout;;;78;Toronto Raptors;;;;;;;1;686.438;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076844;1600500;Guard;1136;Patrick Patterson;78;Toronto Raptors;8332;James Johnson;78;Toronto Raptors;;;1;710.198;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076845;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;7535;Luis Scola;78;Toronto Raptors;;;1;710.198;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076846;1600500;Guard;1131;Bismack Biyombo;78;Toronto Raptors;1133;Jonas Valanciunas;78;Toronto Raptors;;;1;710.198;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076847;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;1;710.198;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076848;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;710.198;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076849;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1136;Patrick Patterson;1;710.198;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076850;200300;Pick'n'Roll;1136;Patrick Patterson;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;710.198;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:41:03.954866
+77076851;800201;2+;1136;Patrick Patterson;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;710.198;24.35;7.83;;;;;;;;Pick'n'pop;;Floater;Drives Right;;;2017-12-07 11:41:03.954866
+77076852;200300;Pick'n'Roll;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;727.817;;;;;;;;;;Pick'n'pop;;;;;;2018-04-20 13:44:36.355048
+77076853;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;727.817;19.49;9.57;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2018-04-20 13:44:36.355048
+77076854;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1136;Patrick Patterson;1;744.271;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076855;200300;Pick'n'Roll;1136;Patrick Patterson;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;744.271;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:41:03.954866
+77076856;800301;3+;1136;Patrick Patterson;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;744.271;19.94;10.11;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:41:03.954866
+77076857;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;769.730;20.48;11.43;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2018-04-20 13:44:36.355048
+77076858;100300;Rebound;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;1;769.730;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076859;800201;2+;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;775.536;27.05;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:41:03.954866
+77076860;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;804.519;23.03;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77076862;100300;Rebound;;;78;Toronto Raptors;;;;;;;1;804.519;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076863;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;817.647;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076864;800301;3+;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;830.647;22.43;1.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77076866;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;1;844.818;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076867;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;1130;Kyle Lowry;78;Toronto Raptors;;;1;869.181;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076868;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;1;869.181;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076869;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;869.181;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076870;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;1;869.181;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076871;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;1;869.181;25.76;7.98;;;;;;;;Cut;;Hook;;;;2017-12-07 11:41:03.954866
+77076872;200600;Post;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;887.701;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076873;800400;2+1;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;887.701;25.91;7.80;;;;;;;;Post;;Jumper;;;;2017-12-07 11:41:03.954866
+77076875;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;1;887.701;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076876;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;1;LeBron James;1;Cleveland Cavaliers;;;1;921.318;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076877;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;1;921.318;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076878;800101;1+;1132;DeMar DeRozan;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;921.318;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076879;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;925.585;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076880;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;7;James Jones;1;938.585;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076881;800301;3+;7;James Jones;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;938.585;21.95;13.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77076882;400101;Accurate pass;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1136;Patrick Patterson;1;958.716;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076883;800201;2+;1136;Patrick Patterson;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;958.716;27.02;7.62;;;;;;;;Catch and Drive;;Dunk;Drives Right;;;2017-12-07 11:41:03.954866
+77076884;200300;Pick'n'Roll;7;James Jones;1;Cleveland Cavaliers;;;;;;;1;986.434;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:41:03.954866
+77076885;800600;2F;7;James Jones;1;Cleveland Cavaliers;1136;Patrick Patterson;78;Toronto Raptors;;;1;986.434;27.05;7.62;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:41:03.954866
+77076887;300100;Foul;1136;Patrick Patterson;78;Toronto Raptors;7;James Jones;1;Cleveland Cavaliers;;;1;986.434;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076888;800101;1+;7;James Jones;1;Cleveland Cavaliers;1136;Patrick Patterson;78;Toronto Raptors;;;1;1010.905;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076889;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;1;1028.332;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076890;800101;1+;7;James Jones;1;Cleveland Cavaliers;1136;Patrick Patterson;78;Toronto Raptors;;;1;1028.332;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076891;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;1029.876;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076892;800202;2-;1129;Cory Joseph;78;Toronto Raptors;;;;;;;1;1041.876;23.75;3.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77076893;100300;Rebound;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;1;1041.876;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076894;100400;Steal;85;Terrence Ross;78;Toronto Raptors;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;1062.142;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076895;400101;Accurate pass;1132;DeMar DeRozan;78;Toronto Raptors;;;;;85;Terrence Ross;1;1067.581;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076896;800201;2+;85;Terrence Ross;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;1067.581;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:41:03.954866
+77076898;100500;Turnover;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;1;1087.453;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076899;100100;Ball in play;;;78;Toronto Raptors;;;;;;;1;1098.695;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076900;200300;Pick'n'Roll;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;1116.295;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076901;800600;2F;1131;Bismack Biyombo;78;Toronto Raptors;7;James Jones;1;Cleveland Cavaliers;;;1;1116.295;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:41:03.954866
+77076903;300100;Foul;7;James Jones;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;1;1116.295;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076904;800102;1-;1131;Bismack Biyombo;78;Toronto Raptors;7;James Jones;1;Cleveland Cavaliers;;;1;1147.551;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076905;100300;Rebound;;;78;Toronto Raptors;;;;;;;1;1147.551;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076906;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;1;1166.340;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076907;800101;1+;1131;Bismack Biyombo;78;Toronto Raptors;7;James Jones;1;Cleveland Cavaliers;;;1;1166.340;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076908;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;1;1173.612;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076909;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;1182.912;21.11;3.18;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:41:03.954866
+77076910;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;1;1182.912;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076913;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076914;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076915;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076916;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076917;1600500;Guard;1895;Richard Jefferson;1;Cleveland Cavaliers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076918;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076919;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076920;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076921;1600500;Guard;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076922;1600500;Guard;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076923;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;4.817;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076924;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;25.817;26.99;7.98;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:41:03.954866
+77076926;300100;Foul;1895;Richard Jefferson;1;Cleveland Cavaliers;1129;Cory Joseph;78;Toronto Raptors;;;2;42.837;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076927;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;57.038;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076928;800201;2+;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;2;69.038;26.96;7.83;;;;;;;;;;Lay up;;;;2017-12-07 11:41:03.954866
+77076929;800301;3+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;84.927;20.81;13.92;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77076930;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;104.205;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076931;800202;2-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;104.205;20.54;9.54;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77076932;800202;2-;1895;Richard Jefferson;1;Cleveland Cavaliers;1133;Jonas Valanciunas;78;Toronto Raptors;;;2;116.062;26.99;8.19;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:41:03.954866
+77076933;100300;Rebound;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;2;116.062;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076934;800600;2F;1129;Cory Joseph;78;Toronto Raptors;2;Timofey Mozgov;1;Cleveland Cavaliers;;;2;132.820;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:41:03.954866
+77076936;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;1129;Cory Joseph;78;Toronto Raptors;;;2;132.820;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076937;800101;1+;1129;Cory Joseph;78;Toronto Raptors;2;Timofey Mozgov;1;Cleveland Cavaliers;;;2;156.634;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076938;800101;1+;1129;Cory Joseph;78;Toronto Raptors;2;Timofey Mozgov;1;Cleveland Cavaliers;;;2;167.318;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076939;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;170.171;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076940;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;183.171;19.34;8.82;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77076941;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;183.171;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076942;100400;Steal;85;Terrence Ross;78;Toronto Raptors;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;190.359;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076943;200600;Post;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;2;207.024;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076944;800202;2-;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;2;207.024;26.99;8.67;;;;;;;;Post;;Jumper;;;;2017-12-07 11:41:03.954866
+77076945;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;2;207.024;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076946;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;2;214.459;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076947;800201;2+;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;2;214.459;27.23;8.04;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:41:03.954866
+77076948;800201;2+;85;Terrence Ross;78;Toronto Raptors;;;;;;;2;236.966;22.97;3.78;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:41:03.954866
+77076951;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;2;271.065;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076952;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;7;James Jones;1;Cleveland Cavaliers;;;2;271.065;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076953;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;1895;Richard Jefferson;1;Cleveland Cavaliers;;;2;271.065;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076954;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;271.065;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076955;100400;Steal;85;Terrence Ross;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;;;2;271.065;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076956;800600;2F;1129;Cory Joseph;78;Toronto Raptors;1;LeBron James;1;Cleveland Cavaliers;;;2;294.240;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:41:03.954866
+77076958;300100;Foul;1;LeBron James;1;Cleveland Cavaliers;1129;Cory Joseph;78;Toronto Raptors;;;2;294.240;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076959;800101;1+;1129;Cory Joseph;78;Toronto Raptors;1;LeBron James;1;Cleveland Cavaliers;;;2;325.103;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076960;800102;1-;1129;Cory Joseph;78;Toronto Raptors;1;LeBron James;1;Cleveland Cavaliers;;;2;339.002;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076961;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;339.002;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076962;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;339.002;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076964;300100;Foul;4;Iman Shumpert;1;Cleveland Cavaliers;85;Terrence Ross;78;Toronto Raptors;;;2;351.443;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076965;1600500;Guard;8332;James Johnson;78;Toronto Raptors;1129;Cory Joseph;78;Toronto Raptors;;;2;383.864;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076966;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;383.864;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076967;800202;2-;85;Terrence Ross;78;Toronto Raptors;;;;;;;2;383.864;22.67;12.30;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:41:03.954866
+77076968;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;2;383.864;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076969;800202;2-;1;LeBron James;1;Cleveland Cavaliers;1130;Kyle Lowry;78;Toronto Raptors;;;2;403.200;26.57;8.28;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:41:03.954866
+77076970;100300;Rebound;85;Terrence Ross;78;Toronto Raptors;;;;;;;2;403.200;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076971;800600;2F;1130;Kyle Lowry;78;Toronto Raptors;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;409.028;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:41:03.954866
+77076973;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1130;Kyle Lowry;78;Toronto Raptors;;;2;409.028;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076974;800101;1+;1130;Kyle Lowry;78;Toronto Raptors;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;436.024;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076975;800101;1+;1130;Kyle Lowry;78;Toronto Raptors;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;449.038;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076976;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;449.038;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076978;1600500;Guard;7535;Luis Scola;78;Toronto Raptors;1136;Patrick Patterson;78;Toronto Raptors;;;2;449.038;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076979;1600500;Guard;1131;Bismack Biyombo;78;Toronto Raptors;1133;Jonas Valanciunas;78;Toronto Raptors;;;2;449.038;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076980;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;2;Timofey Mozgov;1;Cleveland Cavaliers;;;2;449.038;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076981;300100;Foul;8332;James Johnson;78;Toronto Raptors;1;LeBron James;1;Cleveland Cavaliers;;;2;467.656;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076982;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;518.300;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076983;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;2;524.300;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076984;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;524.300;25.91;12.90;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:41:03.954866
+77076985;800201;2+;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;543.066;20.96;8.73;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:41:03.954866
+77076986;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;561.027;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076987;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;7535;Luis Scola;78;Toronto Raptors;;;2;561.027;26.84;8.10;;;;;;;;Post;;Lay up;;;;2017-12-07 11:41:03.954866
+77076988;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;561.027;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076989;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;2;561.027;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:41:03.954866
+77076991;300100;Foul;1131;Bismack Biyombo;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;;;2;561.027;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076992;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;2;604.216;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076993;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;2;621.403;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076994;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;626.515;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076996;100500;Turnover;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;650.515;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77076997;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;666.989;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77076999;300300;Technical foul;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;2;677.989;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077000;800101;1+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;696.031;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077001;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;706.989;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077002;100400;Steal;8332;James Johnson;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;716.989;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077003;800600;2F;85;Terrence Ross;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;;;2;721.622;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:41:03.954866
+77077005;300100;Foul;1889;Kevin Love;1;Cleveland Cavaliers;85;Terrence Ross;78;Toronto Raptors;;;2;721.622;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077006;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;2;721.622;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077007;800101;1+;85;Terrence Ross;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;;;2;740.693;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077008;800101;1+;85;Terrence Ross;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;;;2;756.649;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077009;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;764.443;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077010;800302;3-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;2;774.443;22.28;14.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077011;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;774.443;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077012;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;2;774.443;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:41:03.954866
+77077014;300100;Foul;1131;Bismack Biyombo;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;774.443;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077015;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;2;807.016;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077016;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;4;Iman Shumpert;1;Cleveland Cavaliers;;;2;828.896;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77077017;1600500;Guard;1132;DeMar DeRozan;78;Toronto Raptors;85;Terrence Ross;78;Toronto Raptors;;;2;828.896;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077018;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;2;828.896;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077019;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;831.356;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077020;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1131;Bismack Biyombo;2;851.356;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077021;800201;2+;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1130;Kyle Lowry;2;851.356;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:41:03.954866
+77077022;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;878.348;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077023;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;878.348;27.08;7.83;;;;;;;;Post;;Lay up;;;;2017-12-07 11:41:03.954866
+77077024;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;878.348;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077025;400101;Accurate pass;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;2;885.982;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077026;800301;3+;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;2;885.982;19.19;8.10;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:41:03.954866
+77077027;400101;Accurate pass;1889;Kevin Love;1;Cleveland Cavaliers;;;;;8;J.R. Smith;2;909.386;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077028;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;909.386;23.18;14.22;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77077029;400101;Accurate pass;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;2;938.138;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:41:03.954866
+77077030;800201;2+;1130;Kyle Lowry;78;Toronto Raptors;;;;;7535;Luis Scola;2;938.138;23.12;2.40;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:41:03.954866
+77077031;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;948.952;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077032;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;2;948.952;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:41:03.954866
+77077034;300100;Foul;1132;DeMar DeRozan;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;2;948.952;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077035;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;2;978.955;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077036;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;2;999.514;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077037;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;1130;Kyle Lowry;78;Toronto Raptors;;;2;999.514;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077038;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;2;999.514;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077039;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;1002.482;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077040;800202;2-;7535;Luis Scola;78;Toronto Raptors;;;;;;;2;1026.482;26.12;7.95;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:41:03.954866
+77077041;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;1026.482;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077042;800600;2F;1;LeBron James;1;Cleveland Cavaliers;7535;Luis Scola;78;Toronto Raptors;;;2;1031.331;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:41:03.954866
+77077044;300100;Foul;7535;Luis Scola;78;Toronto Raptors;1;LeBron James;1;Cleveland Cavaliers;;;2;1031.331;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077045;800101;1+;1;LeBron James;1;Cleveland Cavaliers;7535;Luis Scola;78;Toronto Raptors;;;2;1066.222;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077046;800101;1+;1;LeBron James;1;Cleveland Cavaliers;7535;Luis Scola;78;Toronto Raptors;;;2;1081.045;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077047;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;1087.710;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077048;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;;;2;1095.710;25.97;6.90;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:41:03.954866
+77077049;100300;Rebound;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;1095.710;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077050;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;1102.922;26.99;6.09;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077051;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;2;1123.614;23.27;1.50;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2018-04-20 13:44:36.355048
+77077052;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;1123.614;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077053;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1131.989;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077054;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1131.989;26.99;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:41:03.954866
+77077055;100300;Rebound;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;1131.989;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077056;800600;2F;1132;DeMar DeRozan;78;Toronto Raptors;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1140.596;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:41:03.954866
+77077058;300100;Foul;8;J.R. Smith;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;2;1140.596;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77077059;1800600;Timeout;;;78;Toronto Raptors;;;;;;;2;1140.596;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077060;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1162.564;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077061;800101;1+;1132;DeMar DeRozan;78;Toronto Raptors;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1162.564;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077062;800102;1-;1132;DeMar DeRozan;78;Toronto Raptors;8;J.R. Smith;1;Cleveland Cavaliers;;;2;1177.531;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077063;1600500;Guard;1136;Patrick Patterson;78;Toronto Raptors;1131;Bismack Biyombo;78;Toronto Raptors;;;2;1177.531;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077064;1600500;Guard;1133;Jonas Valanciunas;78;Toronto Raptors;8332;James Johnson;78;Toronto Raptors;;;2;1177.531;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077065;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;7535;Luis Scola;78;Toronto Raptors;;;2;1177.531;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077066;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;2;1177.531;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077067;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;1177.531;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077068;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;1202.112;24.80;7.74;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:41:03.954866
+77077069;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;1202.112;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077071;100500;Turnover;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;1202.112;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077072;100100;Ball in play;;;78;Toronto Raptors;;;;;;;2;1217.326;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077073;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;1136;Patrick Patterson;2;1233.326;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077074;800201;2+;1136;Patrick Patterson;78;Toronto Raptors;;;;;1129;Cory Joseph;2;1233.326;26.99;7.83;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:41:03.954866
+77077075;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;2;1255.948;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077076;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1255.948;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077077;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1255.948;27.08;8.04;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:41:03.954866
+77077078;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;1132;DeMar DeRozan;2;1280.271;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077079;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1129;Cory Joseph;2;1280.271;26.90;8.22;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:41:03.954866
+77077080;800302;3-;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1296.966;26.99;15.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077081;100300;Rebound;85;Terrence Ross;78;Toronto Raptors;;;;;;;2;1296.966;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077082;800302;3-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;1311.566;22.82;1.65;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:41:03.954866
+77077083;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;1311.566;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077084;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1327.710;27.05;7.98;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:41:03.954866
+77077085;800202;2-;1129;Cory Joseph;78;Toronto Raptors;;;;;;;2;1341.363;24.59;12.45;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 11:41:03.954866
+77077086;100300;Rebound;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;2;1341.363;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077089;1600500;Guard;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077090;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077091;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077092;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077093;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77077094;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077095;1600500;Guard;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077096;1600500;Guard;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077097;1600500;Guard;7535;Luis Scola;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077098;1600500;Guard;8332;James Johnson;78;Toronto Raptors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077099;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;2.882;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077100;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;14.882;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077101;800201;2+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;3;14.882;27.05;9.66;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:41:03.954866
+77077102;800302;3-;8332;James Johnson;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;38.710;27.08;15.00;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077103;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;38.710;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077104;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;1889;Kevin Love;3;61.990;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077105;800301;3+;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;61.990;26.72;15.00;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077106;800201;2+;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;80.990;26.99;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:41:03.954866
+77077107;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;120.065;22.43;5.01;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+77077108;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;120.065;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077109;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;8332;James Johnson;3;132.859;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077110;800201;2+;8332;James Johnson;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;132.859;27.08;7.83;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:41:03.954866
+77077111;100400;Steal;1130;Kyle Lowry;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;147.755;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077112;800600;2F;7535;Luis Scola;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;159.677;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:41:03.954866
+77077114;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;7535;Luis Scola;78;Toronto Raptors;;;3;159.677;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077115;800102;1-;7535;Luis Scola;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;188.561;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077116;100300;Rebound;;;78;Toronto Raptors;;;;;;;3;188.561;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077117;800101;1+;7535;Luis Scola;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;204.263;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077118;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;209.912;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077120;300300;Technical foul;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;3;220.912;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077121;800101;1+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;237.913;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077122;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;248.227;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077123;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;261.227;22.43;14.07;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+77077124;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;261.227;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077125;400101;Accurate pass;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;276.229;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077126;800301;3+;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;276.229;19.88;10.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077127;100400;Steal;1132;DeMar DeRozan;78;Toronto Raptors;1;LeBron James;1;Cleveland Cavaliers;;;3;303.032;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077129;300100;Foul;1889;Kevin Love;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;3;303.032;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077130;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;325.598;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077131;800202;2-;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;3;343.598;26.72;13.11;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:41:03.954866
+77077132;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;343.598;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077133;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;8;J.R. Smith;3;352.007;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077134;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;352.007;20.81;12.36;;;;;;;;Transition;;Jumper;;;;2018-04-20 13:44:36.355048
+77077135;200300;Pick'n'Roll;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;367.074;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077136;800202;2-;1133;Jonas Valanciunas;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;1130;Kyle Lowry;3;367.074;27.17;7.59;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:41:03.954866
+77077137;100300;Rebound;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;3;367.074;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077139;100500;Turnover;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;3;367.074;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077140;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;386.426;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077141;100300;Rebound;7535;Luis Scola;78;Toronto Raptors;;;;;;;3;405.426;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077142;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;405.426;27.08;4.11;;;;;;;;Isolation;;Jumper;Drives Right;;;2018-04-20 13:44:36.355048
+77077143;200600;Post;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;414.924;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077144;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;;;3;414.924;27.05;7.68;;;;;;;;Post;;Lay up;;;;2017-12-07 11:41:03.954866
+77077145;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;414.924;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077146;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;423.395;26.99;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:41:03.954866
+77077148;300100;Foul;1889;Kevin Love;1;Cleveland Cavaliers;1130;Kyle Lowry;78;Toronto Raptors;;;3;433.551;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077149;1800600;Timeout;;;78;Toronto Raptors;;;;;;;3;433.551;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077150;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;3;457.549;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077151;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;457.549;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077152;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;457.549;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077153;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;457.549;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:41:03.954866
+77077154;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;1133;Jonas Valanciunas;78;Toronto Raptors;;;3;474.929;26.99;9.72;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:41:03.954866
+77077155;100300;Rebound;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;3;474.929;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077156;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;8332;James Johnson;3;487.273;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077157;800301;3+;8332;James Johnson;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;487.273;23.03;1.47;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077158;400101;Accurate pass;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;8;J.R. Smith;3;502.950;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077159;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;3;502.950;26.72;14.91;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77077160;100400;Steal;1;LeBron James;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;3;521.668;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077162;300100;Foul;1130;Kyle Lowry;78;Toronto Raptors;1890;Kyrie Irving;1;Cleveland Cavaliers;;;3;526.798;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077163;1600500;Guard;1136;Patrick Patterson;78;Toronto Raptors;1133;Jonas Valanciunas;78;Toronto Raptors;;;3;564.225;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077164;1600500;Guard;1131;Bismack Biyombo;78;Toronto Raptors;7535;Luis Scola;78;Toronto Raptors;;;3;564.225;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077165;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;564.225;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077166;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;564.225;27.08;7.98;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:41:03.954866
+77077167;800302;3-;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;3;587.587;21.35;12.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077168;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;3;587.587;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77077170;300100;Foul;8332;James Johnson;78;Toronto Raptors;8;J.R. Smith;1;Cleveland Cavaliers;;;3;587.587;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077171;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;3;618.559;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077172;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;618.559;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077174;300300;Technical foul;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;618.559;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077175;800102;1-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;639.830;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077176;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;639.830;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077177;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;8332;James Johnson;78;Toronto Raptors;;;3;669.948;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077178;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;669.948;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077179;800302;3-;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;3;669.948;20.09;4.74;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:41:03.954866
+77077180;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;669.948;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077182;100300;Rebound;;;78;Toronto Raptors;;;;;;;3;684.518;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077183;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;684.518;26.75;9.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077184;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;705.697;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077186;100500;Turnover;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;714.697;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077187;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;727.547;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077188;200300;Pick'n'Roll;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;740.547;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077189;800202;2-;3;Tristan Thompson;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;5;Matthew William Dellavedova;3;740.547;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:41:03.954866
+77077190;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;740.547;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077191;800600;2F;3;Tristan Thompson;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;3;740.547;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:41:03.954866
+77077193;300100;Foul;1132;DeMar DeRozan;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;3;740.547;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077194;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;3;771.950;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077195;800101;1+;3;Tristan Thompson;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;3;793.254;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077196;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;794.828;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077197;800201;2+;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;811.828;22.88;8.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077198;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;3;Tristan Thompson;3;826.464;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077199;800201;2+;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;826.464;26.72;7.44;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:41:03.954866
+77077200;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;842.184;23.60;8.91;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077201;100300;Rebound;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;842.184;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077202;800600;2F;1;LeBron James;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;3;851.752;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:41:03.954866
+77077204;300100;Foul;1131;Bismack Biyombo;78;Toronto Raptors;1;LeBron James;1;Cleveland Cavaliers;;;3;851.752;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077205;800102;1-;1;LeBron James;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;3;879.842;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077206;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;879.842;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077207;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;1130;Kyle Lowry;78;Toronto Raptors;;;3;902.249;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077208;800101;1+;1;LeBron James;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;3;902.249;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077209;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;908.886;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077210;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;1136;Patrick Patterson;3;923.886;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077211;800301;3+;1136;Patrick Patterson;78;Toronto Raptors;;;;;1129;Cory Joseph;3;923.886;21.05;12.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077212;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;3;936.338;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077213;200300;Pick'n'Roll;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;936.338;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077214;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;936.338;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:41:03.954866
+77077215;800302;3-;85;Terrence Ross;78;Toronto Raptors;;;;;;;3;960.662;21.80;14.13;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:41:03.954866
+77077217;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;960.662;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077218;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;3;960.662;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077219;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;972.415;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077221;100500;Turnover;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;983.415;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077222;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;991.788;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077223;100400;Steal;1;LeBron James;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;3;1001.788;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077224;800201;2+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1005.788;27.05;8.19;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:41:03.954866
+77077226;300100;Foul;4;Iman Shumpert;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;3;1021.355;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077227;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1042.624;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077228;100300;Rebound;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;1057.624;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077229;800302;3-;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1072.460;20.90;12.66;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 11:41:03.954866
+77077230;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;1072.460;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077231;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;1131;Bismack Biyombo;3;1086.776;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077232;200300;Pick'n'Roll;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1129;Cory Joseph;3;1086.776;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077233;800201;2+;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1129;Cory Joseph;3;1086.776;23.60;7.62;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:41:03.954866
+77077234;400101;Accurate pass;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;1104.407;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077235;200300;Pick'n'Roll;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;3;1104.407;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:41:03.954866
+77077236;800301;3+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;3;1104.407;19.79;7.65;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:41:03.954866
+77077237;800202;2-;1129;Cory Joseph;78;Toronto Raptors;;;;;;;3;1129.924;26.84;7.95;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:41:03.954866
+77077238;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;1129.924;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077239;800600;2F;1131;Bismack Biyombo;78;Toronto Raptors;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;1129.924;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:41:03.954866
+77077241;300100;Foul;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;3;1129.924;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077242;800101;1+;1131;Bismack Biyombo;78;Toronto Raptors;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;1160.234;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077243;800101;1+;1131;Bismack Biyombo;78;Toronto Raptors;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;3;1184.489;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077244;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1189.237;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077245;800600;2F;1;LeBron James;1;Cleveland Cavaliers;85;Terrence Ross;78;Toronto Raptors;;;3;1195.937;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:41:03.954866
+77077247;300100;Foul;85;Terrence Ross;78;Toronto Raptors;1;LeBron James;1;Cleveland Cavaliers;;;3;1195.937;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077248;800102;1-;1;LeBron James;1;Cleveland Cavaliers;85;Terrence Ross;78;Toronto Raptors;;;3;1219.707;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077249;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;3;1219.707;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077250;800101;1+;1;LeBron James;1;Cleveland Cavaliers;85;Terrence Ross;78;Toronto Raptors;;;3;1233.722;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077251;100100;Ball in play;;;78;Toronto Raptors;;;;;;;3;1236.933;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077253;100500;Turnover;85;Terrence Ross;78;Toronto Raptors;;;;;;;3;1245.533;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077254;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;3;1261.965;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077255;800301;3+;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1282.665;21.05;12.96;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077256;800202;2-;1129;Cory Joseph;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;1299.645;26.81;13.53;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:41:03.954866
+77077257;100300;Rebound;;;78;Toronto Raptors;;;;;;;3;1299.645;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077260;1600500;Guard;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077261;1600500;Guard;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077262;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077263;1600500;Guard;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077264;1600500;Guard;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077265;1600500;Guard;85;Terrence Ross;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077266;1600500;Guard;1129;Cory Joseph;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077267;1600500;Guard;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077268;1600500;Guard;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077269;1600500;Guard;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077270;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;6.643;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077271;400101;Accurate pass;1129;Cory Joseph;78;Toronto Raptors;;;;;1133;Jonas Valanciunas;4;24.643;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077272;200300;Pick'n'Roll;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;1129;Cory Joseph;4;24.643;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:41:03.954866
+77077273;800201;2+;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;1129;Cory Joseph;4;24.643;22.58;11.04;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:41:03.954866
+77077274;100400;Steal;1130;Kyle Lowry;78;Toronto Raptors;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;39.870;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077275;800600;2F;1130;Kyle Lowry;78;Toronto Raptors;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;44.736;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:41:03.954866
+77077277;300100;Foul;1890;Kyrie Irving;1;Cleveland Cavaliers;1130;Kyle Lowry;78;Toronto Raptors;;;4;44.736;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077278;800101;1+;1130;Kyle Lowry;78;Toronto Raptors;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;69.131;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077279;800101;1+;1130;Kyle Lowry;78;Toronto Raptors;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;84.504;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077280;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;91.494;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077281;800202;2-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;108.494;24.65;11.67;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077282;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;108.494;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077283;800600;2F;1890;Kyrie Irving;1;Cleveland Cavaliers;1129;Cory Joseph;78;Toronto Raptors;;;4;108.494;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:41:03.954866
+77077285;300100;Foul;1129;Cory Joseph;78;Toronto Raptors;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;108.494;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077286;800101;1+;1890;Kyrie Irving;1;Cleveland Cavaliers;1129;Cory Joseph;78;Toronto Raptors;;;4;131.760;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077287;800101;1+;1890;Kyrie Irving;1;Cleveland Cavaliers;1129;Cory Joseph;78;Toronto Raptors;;;4;143.128;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077288;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;146.468;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077289;200600;Post;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;4;165.468;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077290;800400;2+1;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;4;165.468;25.97;8.34;;;;;;;;Post;;Jumper;;;;2017-12-07 11:41:03.954866
+77077292;300100;Foul;3;Tristan Thompson;1;Cleveland Cavaliers;1133;Jonas Valanciunas;78;Toronto Raptors;;;4;165.468;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077293;800101;1+;1133;Jonas Valanciunas;78;Toronto Raptors;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;188.060;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077294;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;223.756;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077296;1600500;Guard;2;Timofey Mozgov;1;Cleveland Cavaliers;3;Tristan Thompson;1;Cleveland Cavaliers;;;4;235.756;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077297;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;235.756;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077299;300100;Foul;1129;Cory Joseph;78;Toronto Raptors;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;4;235.756;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077300;800101;1+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1129;Cory Joseph;78;Toronto Raptors;;;4;257.246;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077301;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;1391.187;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077302;800302;3-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;1415.187;26.57;15.21;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:41:03.954866
+77077303;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;1415.187;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077304;100400;Steal;1136;Patrick Patterson;78;Toronto Raptors;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;4;299.754;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077305;400101;Accurate pass;85;Terrence Ross;78;Toronto Raptors;;;;;1133;Jonas Valanciunas;4;307.607;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077306;800201;2+;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;85;Terrence Ross;4;307.607;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:41:03.954866
+77077307;800301;3+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;323.235;19.34;6.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077309;100500;Turnover;1129;Cory Joseph;78;Toronto Raptors;;;;;;;4;367.463;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077310;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;383.230;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077311;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;398.230;26.36;9.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077313;1800600;Timeout;;;78;Toronto Raptors;;;;;;;4;398.230;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077314;1600500;Guard;1132;DeMar DeRozan;78;Toronto Raptors;1136;Patrick Patterson;78;Toronto Raptors;;;4;430.159;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077315;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;430.159;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077316;100400;Steal;4;Iman Shumpert;1;Cleveland Cavaliers;85;Terrence Ross;78;Toronto Raptors;;;4;430.159;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077317;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;4;438.081;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077318;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;4;438.081;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:41:03.954866
+77077319;800202;2-;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;4;459.710;22.88;10.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077320;100300;Rebound;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;459.710;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077321;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;4;470.305;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077322;800301;3+;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;4;470.305;21.56;13.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077323;800302;3-;85;Terrence Ross;78;Toronto Raptors;;;;;1132;DeMar DeRozan;4;501.649;22.73;1.77;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077324;100300;Rebound;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;501.649;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077325;800201;2+;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;526.945;25.67;7.68;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:41:03.954866
+77077326;800202;2-;85;Terrence Ross;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;552.095;21.71;6.27;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:41:03.954866
+77077327;100300;Rebound;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;4;552.095;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077328;800202;2-;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;4;552.095;27.08;7.50;;;;;;;;Putbacks;;;;;;2017-12-07 11:41:03.954866
+77077329;100300;Rebound;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;4;552.095;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077330;800600;2F;1133;Jonas Valanciunas;78;Toronto Raptors;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;552.095;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:41:03.954866
+77077332;300100;Foul;4;Iman Shumpert;1;Cleveland Cavaliers;1133;Jonas Valanciunas;78;Toronto Raptors;;;4;552.095;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077333;800102;1-;1133;Jonas Valanciunas;78;Toronto Raptors;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;578.123;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077334;100300;Rebound;;;78;Toronto Raptors;;;;;;;4;578.123;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077335;1600500;Guard;8;J.R. Smith;1;Cleveland Cavaliers;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;4;607.279;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77077336;800102;1-;1133;Jonas Valanciunas;78;Toronto Raptors;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;607.279;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077337;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;607.279;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077338;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;607.279;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77077340;300100;Foul;1132;DeMar DeRozan;78;Toronto Raptors;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;619.791;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077341;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;656.166;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077342;400101;Accurate pass;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;2;Timofey Mozgov;4;661.166;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077343;800201;2+;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;4;661.166;22.43;4.95;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077344;800302;3-;85;Terrence Ross;78;Toronto Raptors;;;;;1129;Cory Joseph;4;689.011;26.84;15.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077345;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;689.011;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077346;800302;3-;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1889;Kevin Love;4;712.634;21.41;2.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077347;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;712.634;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077349;300100;Foul;1129;Cory Joseph;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;;;4;712.634;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077351;1600500;Guard;1131;Bismack Biyombo;78;Toronto Raptors;1133;Jonas Valanciunas;78;Toronto Raptors;;;4;739.878;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077352;1600500;Guard;1136;Patrick Patterson;78;Toronto Raptors;1129;Cory Joseph;78;Toronto Raptors;;;4;739.878;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077353;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;739.878;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077354;800202;2-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;4;739.878;26.21;6.36;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2018-04-20 13:44:36.355048
+77077355;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;739.878;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077356;100400;Steal;1889;Kevin Love;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;4;739.878;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077357;800302;3-;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;744.041;23.45;14.13;;;;;;;;;;Jumper;;;;2017-12-07 11:41:03.954866
+77077358;100300;Rebound;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;744.041;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077359;400101;Accurate pass;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1136;Patrick Patterson;4;754.685;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077360;800301;3+;1136;Patrick Patterson;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;754.685;21.95;2.55;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077361;200600;Post;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;769.886;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077362;800600;2F;1889;Kevin Love;1;Cleveland Cavaliers;1136;Patrick Patterson;78;Toronto Raptors;;;4;769.886;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:41:03.954866
+77077364;300100;Foul;1136;Patrick Patterson;78;Toronto Raptors;1889;Kevin Love;1;Cleveland Cavaliers;;;4;769.886;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077365;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;1136;Patrick Patterson;78;Toronto Raptors;;;4;794.810;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077366;800101;1+;1889;Kevin Love;1;Cleveland Cavaliers;1136;Patrick Patterson;78;Toronto Raptors;;;4;808.044;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077367;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;814.686;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077368;400101;Accurate pass;1130;Kyle Lowry;78;Toronto Raptors;;;;;1131;Bismack Biyombo;4;825.686;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077369;200300;Pick'n'Roll;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;825.686;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077370;800400;2+1;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;825.686;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:41:03.954866
+77077372;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;1131;Bismack Biyombo;78;Toronto Raptors;;;4;825.686;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077373;800101;1+;1131;Bismack Biyombo;78;Toronto Raptors;2;Timofey Mozgov;1;Cleveland Cavaliers;;;4;854.473;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077374;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;859.074;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077375;400101;Accurate pass;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;8;J.R. Smith;4;874.074;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077376;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;4;874.074;17.42;0.00;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+77077377;800202;2-;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;887.605;26.99;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:41:03.954866
+77077379;100300;Rebound;;;78;Toronto Raptors;;;;;;;4;887.605;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077380;1600500;Guard;5;Matthew William Dellavedova;1;Cleveland Cavaliers;1890;Kyrie Irving;1;Cleveland Cavaliers;;;4;928.015;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077381;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;928.015;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077382;800600;2F;1130;Kyle Lowry;78;Toronto Raptors;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;928.015;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:41:03.954866
+77077384;300100;Foul;4;Iman Shumpert;1;Cleveland Cavaliers;1130;Kyle Lowry;78;Toronto Raptors;;;4;928.015;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077385;800101;1+;1130;Kyle Lowry;78;Toronto Raptors;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;958.565;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077386;800101;1+;1130;Kyle Lowry;78;Toronto Raptors;4;Iman Shumpert;1;Cleveland Cavaliers;;;4;973.817;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077387;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;977.798;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077389;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;1130;Kyle Lowry;78;Toronto Raptors;;;4;985.798;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077390;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;998.273;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077391;800600;2F;1132;DeMar DeRozan;78;Toronto Raptors;2;Timofey Mozgov;1;Cleveland Cavaliers;;;4;1013.273;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:41:03.954866
+77077393;300100;Foul;2;Timofey Mozgov;1;Cleveland Cavaliers;1132;DeMar DeRozan;78;Toronto Raptors;;;4;1013.273;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077394;800101;1+;1132;DeMar DeRozan;78;Toronto Raptors;2;Timofey Mozgov;1;Cleveland Cavaliers;;;4;1044.079;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077395;800102;1-;1132;DeMar DeRozan;78;Toronto Raptors;2;Timofey Mozgov;1;Cleveland Cavaliers;;;4;1058.657;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077396;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1058.657;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077397;100300;Rebound;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;1058.657;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077398;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;1078.348;19.43;8.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-04-20 13:44:36.355048
+77077399;100300;Rebound;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;4;1078.348;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077400;200300;Pick'n'Roll;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;1089.438;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077401;800202;2-;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;1089.438;25.82;8.37;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:41:03.954866
+77077402;100300;Rebound;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;1089.438;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077404;300300;Technical foul;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;1096.516;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077405;1800600;Timeout;;;1;Cleveland Cavaliers;;;;;;;4;1096.516;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077406;1600500;Guard;1138;Lucas Nogueira;78;Toronto Raptors;1132;DeMar DeRozan;78;Toronto Raptors;;;4;1119.501;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077407;1600500;Guard;1134;Norman Powell;78;Toronto Raptors;1130;Kyle Lowry;78;Toronto Raptors;;;4;1119.501;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077408;1600500;Guard;1137;Delon Wright;78;Toronto Raptors;1131;Bismack Biyombo;78;Toronto Raptors;;;4;1119.501;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077409;1600500;Guard;8332;James Johnson;78;Toronto Raptors;85;Terrence Ross;78;Toronto Raptors;;;4;1119.501;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077410;800101;1+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;1119.501;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077411;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1131.766;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077412;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;1138.766;26.96;8.34;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077413;100300;Rebound;1138;Lucas Nogueira;78;Toronto Raptors;;;;;;;4;1138.766;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077414;800202;2-;8332;James Johnson;78;Toronto Raptors;;;;;;;4;1154.523;24.74;9.96;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:41:03.954866
+77077415;100300;Rebound;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;1154.523;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+77077416;800302;3-;8;J.R. Smith;1;Cleveland Cavaliers;;;;;;;4;1173.616;22.58;1.95;;;;;;;;Screen off;;Jumper;;;;2018-04-20 13:44:36.355048
+77077417;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;1173.616;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077418;800202;2-;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;1173.616;27.20;7.98;;;;;;;;Putbacks;;;;;;2017-12-07 11:41:03.954866
+77077419;100300;Rebound;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;1173.616;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077420;800202;2-;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;4;1178.464;26.72;7.02;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:41:03.954866
+77077421;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;4;1178.464;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077422;400101;Accurate pass;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;8;J.R. Smith;4;1183.983;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077423;800301;3+;8;J.R. Smith;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;4;1183.983;21.56;13.05;;;;;;;;Catch and shoot;;Jumper;;;;2018-04-20 13:44:36.355048
+77077425;1600500;Guard;7;James Jones;1;Cleveland Cavaliers;1889;Kevin Love;1;Cleveland Cavaliers;;;4;1232.690;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077426;1600500;Guard;7101;Jared Cunningham;1;Cleveland Cavaliers;8;J.R. Smith;1;Cleveland Cavaliers;;;4;1232.690;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077427;100100;Ball in play;;;78;Toronto Raptors;;;;;;;4;1232.690;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077428;800201;2+;1137;Delon Wright;78;Toronto Raptors;;;;;;;4;1232.690;25.22;9.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077429;100400;Steal;1138;Lucas Nogueira;78;Toronto Raptors;2;Timofey Mozgov;1;Cleveland Cavaliers;;;4;1253.938;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077430;400101;Accurate pass;1137;Delon Wright;78;Toronto Raptors;;;;;1138;Lucas Nogueira;4;1276.385;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077431;200300;Pick'n'Roll;1138;Lucas Nogueira;78;Toronto Raptors;;;;;1137;Delon Wright;4;1276.385;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077432;800201;2+;1138;Lucas Nogueira;78;Toronto Raptors;;;;;1137;Delon Wright;4;1276.385;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:41:03.954866
+77077433;800201;2+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;1300.200;26.84;7.89;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:41:03.954866
+77077434;800202;2-;1137;Delon Wright;78;Toronto Raptors;;;;;;;4;1315.654;23.18;12.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:41:03.954866
+77077435;100300;Rebound;1134;Norman Powell;78;Toronto Raptors;;;;;;;4;1315.654;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077436;800302;3-;1136;Patrick Patterson;78;Toronto Raptors;;;;;;;4;1320.365;22.13;13.53;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077438;100300;Rebound;;;1;Cleveland Cavaliers;;;;;;;4;1320.365;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077439;100100;Ball in play;;;1;Cleveland Cavaliers;;;;;;;4;1333.327;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77077440;400101;Accurate pass;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;4;1347.127;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+77077441;800301;3+;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;4;1347.127;22.28;1.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:41:03.954866
+77077442;800202;2-;8332;James Johnson;78;Toronto Raptors;;;;;;;4;1368.653;26.27;7.98;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:41:03.954866
+77077443;100300;Rebound;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;4;1368.653;;;;;;;;;;;;;;;;2017-12-07 11:41:03.954866
+102325943;100500;Turnover;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;;;2;351.443;;;;;;;;;;;;;;;;2018-02-26 10:11:03.554855
+102325944;300100;Foul;85;Terrence Ross;78;Toronto Raptors;8;J.R. Smith;1;Cleveland Cavaliers;;;3;1245.533;;;;;;;;;;;;;;;;2018-02-26 10:11:03.554855
+102325945;100500;Turnover;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;;;4;985.798;;;;;;;;;;;;;;;;2018-02-26 10:11:03.554855
+103933295;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1133;Jonas Valanciunas;1;110.026;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933297;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;160.700;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933299;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;174.664;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933301;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;8;J.R. Smith;1;220.565;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933303;200900;Assisting;8332;James Johnson;78;Toronto Raptors;;;;;;;1;272.626;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933305;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;1;326.628;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933307;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;340.253;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933309;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;379.558;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103933311;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;392.618;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933313;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;405.930;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933315;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;1;421.265;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933317;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;438.649;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933319;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;503.115;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933321;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;1;551.676;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933323;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;642.277;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933325;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;1;677.901;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103933327;200900;Assisting;1136;Patrick Patterson;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;710.198;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933329;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;1;727.817;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103933331;200900;Assisting;1136;Patrick Patterson;78;Toronto Raptors;;;;;1130;Kyle Lowry;1;744.271;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933333;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;775.536;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933335;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;1;830.647;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933337;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;1;869.181;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933339;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;1;887.701;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933341;200900;Assisting;7;James Jones;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;1;938.585;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933343;200900;Assisting;1136;Patrick Patterson;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;958.716;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933345;200900;Assisting;7;James Jones;1;Cleveland Cavaliers;;;;;;;1;986.434;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933347;200900;Assisting;85;Terrence Ross;78;Toronto Raptors;;;;;1132;DeMar DeRozan;1;1067.581;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933349;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;1;1116.295;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933351;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;25.817;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933353;200900;Assisting;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;2;69.038;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933355;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;2;84.927;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933357;200900;Assisting;1129;Cory Joseph;78;Toronto Raptors;;;;;;;2;132.820;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933359;200900;Assisting;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;2;214.459;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933361;200900;Assisting;85;Terrence Ross;78;Toronto Raptors;;;;;;;2;236.966;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933363;200900;Assisting;1129;Cory Joseph;78;Toronto Raptors;;;;;;;2;294.240;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933365;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;409.028;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933367;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;524.300;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933369;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;2;543.066;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933371;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;2;561.027;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933373;200900;Assisting;85;Terrence Ross;78;Toronto Raptors;;;;;;;2;721.622;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933375;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;774.443;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933377;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1130;Kyle Lowry;2;851.356;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933379;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;2;885.982;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933381;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1889;Kevin Love;2;909.386;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103933383;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;7535;Luis Scola;2;938.138;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933385;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;2;948.952;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933387;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1031.331;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933389;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;1102.922;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933391;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;2;1140.596;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933393;200900;Assisting;1136;Patrick Patterson;78;Toronto Raptors;;;;;1129;Cory Joseph;2;1233.326;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933395;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;1;LeBron James;2;1255.948;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933397;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1129;Cory Joseph;2;1280.271;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933399;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;2;1327.710;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933401;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1;LeBron James;3;14.882;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933403;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;3;61.990;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933405;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;3;80.990;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933407;200900;Assisting;8332;James Johnson;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;132.859;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933409;200900;Assisting;7535;Luis Scola;78;Toronto Raptors;;;;;;;3;159.677;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933411;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;1132;DeMar DeRozan;3;276.229;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933413;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;1;LeBron James;3;352.007;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103933415;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;423.395;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933417;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;457.549;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933419;200900;Assisting;8332;James Johnson;78;Toronto Raptors;;;;;1130;Kyle Lowry;3;487.273;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933421;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;3;502.950;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103933423;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;3;564.225;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933425;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;;;3;740.547;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933427;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;3;811.828;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933429;200900;Assisting;3;Tristan Thompson;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;826.464;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933431;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;851.752;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933433;200900;Assisting;1136;Patrick Patterson;78;Toronto Raptors;;;;;1129;Cory Joseph;3;923.886;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933435;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;3;936.338;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933437;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1005.788;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933439;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1129;Cory Joseph;3;1086.776;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933441;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;1;LeBron James;3;1104.407;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933443;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;;;3;1129.924;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933445;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1195.937;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933447;200900;Assisting;1;LeBron James;1;Cleveland Cavaliers;;;;;;;3;1282.665;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933449;200900;Assisting;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;1129;Cory Joseph;4;24.643;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933451;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;44.736;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933453;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;108.494;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933455;200900;Assisting;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;4;165.468;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933457;200900;Assisting;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;85;Terrence Ross;4;307.607;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933459;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;323.235;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933461;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;398.230;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933463;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;4;438.081;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933465;200900;Assisting;4;Iman Shumpert;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;4;470.305;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933467;200900;Assisting;1890;Kyrie Irving;1;Cleveland Cavaliers;;;;;;;4;526.945;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933469;200900;Assisting;1133;Jonas Valanciunas;78;Toronto Raptors;;;;;;;4;552.095;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933471;200900;Assisting;2;Timofey Mozgov;1;Cleveland Cavaliers;;;;;1890;Kyrie Irving;4;661.166;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933473;200900;Assisting;1136;Patrick Patterson;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;754.685;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933475;200900;Assisting;1889;Kevin Love;1;Cleveland Cavaliers;;;;;;;4;769.886;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933477;200900;Assisting;1131;Bismack Biyombo;78;Toronto Raptors;;;;;1130;Kyle Lowry;4;825.686;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933479;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;4;874.074;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103933481;200900;Assisting;1130;Kyle Lowry;78;Toronto Raptors;;;;;;;4;928.015;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933483;200900;Assisting;1132;DeMar DeRozan;78;Toronto Raptors;;;;;;;4;1013.273;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933485;200900;Assisting;8;J.R. Smith;1;Cleveland Cavaliers;;;;;5;Matthew William Dellavedova;4;1183.983;;;;;;;;;;;;;;;;2018-04-20 13:44:36.355048
+103933487;200900;Assisting;1137;Delon Wright;78;Toronto Raptors;;;;;;;4;1232.690;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933489;200900;Assisting;1138;Lucas Nogueira;78;Toronto Raptors;;;;;1137;Delon Wright;4;1276.385;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933491;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;;;4;1300.200;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735
+103933493;200900;Assisting;5;Matthew William Dellavedova;1;Cleveland Cavaliers;;;;;4;Iman Shumpert;4;1347.127;;;;;;;;;;;;;;;;2018-04-19 15:03:04.385735

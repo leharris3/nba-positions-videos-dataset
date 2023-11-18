@@ -1,0 +1,823 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77061212;1601000;Starting lineup;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061213;1601000;Starting lineup;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061214;1601000;Starting lineup;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061215;1601000;Starting lineup;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061216;1601000;Starting lineup;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061217;1601000;Starting lineup;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061218;1601000;Starting lineup;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061219;1601000;Starting lineup;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061220;1601000;Starting lineup;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061221;1601000;Starting lineup;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061222;1601000;Starting lineup;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061233;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061234;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061235;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061236;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061237;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061238;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061244;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;9.990;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061245;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;23.990;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061246;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;23.990;26.51;7.74;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:34:00.666411
+77061249;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;61.629;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061250;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;61.629;26.57;12.57;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:34:00.666411
+77061252;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;80.746;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061253;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;89.503;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061254;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;89.503;20.90;9.72;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:34:00.666411
+77061256;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;114.134;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061257;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;123.511;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061258;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;123.511;21.71;11.13;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061259;100200;Game stop;;;;;;;;;;;1;123.511;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061264;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;164.455;22.25;11.28;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:34:00.666411
+77061266;100400;Steal;5314;Tayshaun Prince;3174;Minnesota Timberwolves;7862;Raul Neto;3281;Utah Jazz;;;1;173.214;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061267;200600;Post;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;190.765;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061268;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;190.765;25.22;9.45;;;;;;;;Post;;Jumper;;;;2017-12-07 11:34:00.666411
+77061271;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;215.876;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061272;100200;Game stop;;;;;;;;;;;1;215.876;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061274;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;231.044;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061275;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;246.044;23.03;3.27;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061278;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;260.439;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061279;100200;Game stop;;;;;;;;;;;1;269.390;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061282;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;300.163;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061283;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;313.163;23.87;12.06;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061288;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;348.456;21.98;13.14;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061291;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;360.317;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061292;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;1;365.390;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:34:00.666411
+77061293;100200;Game stop;;;;;;;;;;;1;365.390;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061295;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;1;388.393;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061296;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;388.393;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061297;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;388.393;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061298;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;1;413.234;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061304;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;450.609;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061305;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;450.609;26.21;3.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061306;100200;Game stop;;;;;;;;;;;1;463.266;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061310;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;488.823;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061311;100200;Game stop;;;;;;;;;;;1;503.679;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061312;100500;Turnover;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;503.679;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061313;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;1;503.679;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061315;100400;Steal;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;1;530.852;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061316;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;537.682;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061317;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;537.682;26.99;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:34:00.666411
+77061322;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;562.270;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061323;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;578.429;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061324;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;578.429;27.02;7.62;;;;;;;;Post;;Dunk;;;;2017-12-07 11:34:00.666411
+77061327;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;588.346;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061328;100200;Game stop;;;;;;;;;;;1;613.946;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061329;100500;Turnover;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;613.946;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061331;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;613.946;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061334;100200;Game stop;;;;;;;;;;;1;650.926;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061341;100300;Rebound;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;1;696.688;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061342;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;702.669;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061343;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;702.669;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:34:00.666411
+77061345;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;721.353;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061346;100200;Game stop;;;;;;;;;;;1;732.112;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061347;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;732.112;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061351;100200;Game stop;;;;;;;;;;;1;749.450;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061352;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;7859;Gordon Hayward;3281;Utah Jazz;;;1;749.450;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061355;100300;Rebound;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;1;785.724;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061356;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;790.364;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061357;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;805.364;26.12;6.81;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:34:00.666411
+77061358;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;805.364;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061359;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;805.364;26.63;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:34:00.666411
+77061360;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;805.364;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061361;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;1;805.364;26.90;7.44;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:34:00.666411
+77061363;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;1;812.095;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061364;100200;Game stop;;;;;;;;;;;1;815.988;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061366;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;1;815.988;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061368;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;853.395;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061369;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;860.395;23.45;11.58;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:34:00.666411
+77061371;100200;Game stop;;;;;;;;;;;1;875.601;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061372;300100;Foul;5330;Adreian Payne;3174;Minnesota Timberwolves;7573;Trevor Booker;3281;Utah Jazz;;;1;875.601;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061374;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;1;904.018;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061375;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;7865;Trey Lyles;3281;Utah Jazz;;;1;907.632;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:34:00.666411
+77061376;100200;Game stop;;;;;;;;;;;1;907.632;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061378;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;7865;Trey Lyles;3281;Utah Jazz;;;1;931.308;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061379;800102;1-;5309;Ricky Rubio;3174;Minnesota Timberwolves;7865;Trey Lyles;3281;Utah Jazz;;;1;946.956;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061382;100400;Steal;5330;Adreian Payne;3174;Minnesota Timberwolves;7573;Trevor Booker;3281;Utah Jazz;;;1;961.612;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061383;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;972.222;25.97;7.89;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:34:00.666411
+77061384;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;972.222;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061385;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5330;Adreian Payne;1;972.222;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061386;800201;2+;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;972.222;25.37;8.19;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:34:00.666411
+77061388;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;1;1002.400;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:34:00.666411
+77061389;100200;Game stop;;;;;;;;;;;1;1002.400;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061391;800102;1-;5309;Ricky Rubio;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;1;1024.134;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061392;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;1024.134;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061394;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;1024.134;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061395;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;1;1041.986;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061399;100200;Game stop;;;;;;;;;;;1;1060.077;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061401;1600500;Guard;7659;Tyus Jones;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;1060.077;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061410;100300;Rebound;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;1;1106.296;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061411;800302;3-;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;1126.094;20.51;11.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061412;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;1126.094;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061413;1800500;Halftime;;;;;;;;;;;1;1126.094;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061414;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061415;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061416;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061417;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061418;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061419;1600500;Guard;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061427;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;15.166;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061428;800202;2-;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;39.798;25.37;13.20;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061430;100200;Game stop;;;;;;;;;;;2;47.817;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061432;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;67.071;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061433;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;77.071;21.41;7.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061436;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;93.118;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061441;100200;Game stop;;;;;;;;;;;2;123.437;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061442;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;123.437;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061443;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;123.437;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061444;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;136.458;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061445;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;153.458;26.96;6.96;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:34:00.666411
+77061448;100300;Rebound;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;;;2;170.799;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061449;800201;2+;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;;;2;181.936;25.49;8.52;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:34:00.666411
+77061451;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;205.368;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061452;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;213.182;27.20;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:34:00.666411
+77061453;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;213.182;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061454;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;213.182;26.93;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:34:00.666411
+77061455;100200;Game stop;;;;;;;;;;;2;213.182;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061457;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;213.182;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061462;100200;Game stop;;;;;;;;;;;2;235.985;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061463;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;2;235.985;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061466;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;274.546;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061467;200600;Post;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;2;290.546;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061468;800202;2-;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;2;290.546;25.97;8.37;;;;;;;;Post;;Jumper;;;;2017-12-07 11:34:00.666411
+77061471;100200;Game stop;;;;;;;;;;;2;296.484;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061472;300100;Foul;7659;Tyus Jones;3174;Minnesota Timberwolves;7859;Gordon Hayward;3281;Utah Jazz;;;2;296.484;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061475;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;336.452;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061476;100200;Game stop;;;;;;;;;;;2;347.452;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061478;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5330;Adreian Payne;3174;Minnesota Timberwolves;;;2;347.452;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061479;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;370.503;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061480;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;384.503;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061481;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;384.503;26.57;4.89;;;;;;;;Post;;Hook;;;;2017-12-07 11:34:00.666411
+77061483;100200;Game stop;;;;;;;;;;;2;399.118;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061484;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;2;399.118;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061488;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;442.085;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061489;400101;Accurate pass;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;2;451.085;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061490;800301;3+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;7659;Tyus Jones;2;451.085;26.51;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061491;100400;Steal;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;2;464.507;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061492;800400;2+1;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;469.449;26.96;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:34:00.666411
+77061493;100200;Game stop;;;;;;;;;;;2;469.449;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061496;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;2;507.798;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061501;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;5327;Karl-Anthony Towns;2;546.623;26.51;7.20;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:34:00.666411
+77061502;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;546.623;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061503;800400;2+1;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;546.623;27.38;7.98;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:34:00.666411
+77061504;100200;Game stop;;;;;;;;;;;2;546.623;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061506;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;546.623;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061507;800102;1-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7573;Trevor Booker;3281;Utah Jazz;;;2;584.628;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061512;100400;Steal;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;7859;Gordon Hayward;3281;Utah Jazz;;;2;616.403;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061516;100200;Game stop;;;;;;;;;;;2;632.794;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061517;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;632.794;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061518;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;632.794;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061519;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;7659;Tyus Jones;3174;Minnesota Timberwolves;;;2;632.794;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061520;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;641.578;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061521;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7859;Gordon Hayward;3281;Utah Jazz;;;2;654.578;25.82;5.16;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:34:00.666411
+77061523;100400;Steal;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;7862;Raul Neto;3281;Utah Jazz;;;2;673.896;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061524;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;685.747;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061525;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;685.747;25.37;7.56;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:34:00.666411
+77061527;100200;Game stop;;;;;;;;;;;2;697.196;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061530;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;715.889;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061531;200300;Pick'n'Roll;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;726.889;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:34:00.666411
+77061532;800202;2-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;726.889;20.51;7.89;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:34:00.666411
+77061535;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;746.190;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061536;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;369189;Joe Ingles;3281;Utah Jazz;;;2;755.328;26.27;6.03;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061538;100200;Game stop;;;;;;;;;;;2;755.328;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061541;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;777.932;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061542;100200;Game stop;;;;;;;;;;;2;786.932;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061544;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;812.090;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061545;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;820.090;26.06;2.49;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061548;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;831.092;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061549;800600;2F;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;7573;Trevor Booker;3281;Utah Jazz;;;2;840.136;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061550;100200;Game stop;;;;;;;;;;;2;840.136;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061552;800101;1+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;7573;Trevor Booker;3281;Utah Jazz;;;2;902.334;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061554;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;902.334;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061555;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;902.334;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061556;800102;1-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;7573;Trevor Booker;3281;Utah Jazz;;;2;926.008;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061562;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;978.059;27.05;4.05;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061563;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;978.059;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061564;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;978.059;26.06;6.09;;;;;;;;Putbacks;;Hook;;;;2017-12-07 11:34:00.666411
+77061567;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1011.023;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:34:00.666411
+77061568;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1011.023;21.95;7.56;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:34:00.666411
+77061570;100400;Steal;5321;Andrew Wiggins;3174;Minnesota Timberwolves;13554;Elijah Millsap;3281;Utah Jazz;;;2;1021.805;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061571;100200;Game stop;;;;;;;;;;;2;1024.215;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061573;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;1024.215;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061574;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1034.327;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061575;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;1048.327;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061576;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7865;Trey Lyles;3281;Utah Jazz;;;2;1048.327;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:34:00.666411
+77061577;100200;Game stop;;;;;;;;;;;2;1048.327;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061579;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7865;Trey Lyles;3281;Utah Jazz;;;2;1069.655;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061580;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7865;Trey Lyles;3281;Utah Jazz;;;2;1083.273;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061583;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;1125.519;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061584;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;1148.274;21.20;5.79;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061586;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;7573;Trevor Booker;3281;Utah Jazz;;;2;1161.832;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061588;100200;Game stop;;;;;;;;;;;2;1175.235;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061590;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1187.970;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061591;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1208.670;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:34:00.666411
+77061592;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1208.670;21.35;8.04;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:34:00.666411
+77061593;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;1208.670;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061597;1800500;Halftime;;;;;;;;;;;2;1217.234;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061598;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061599;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061600;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061601;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061602;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061603;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061613;100200;Game stop;;;;;;;;;;;3;40.645;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061617;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;70.182;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061618;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;95.783;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061619;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;95.783;22.25;3.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061622;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;144.611;23.60;5.25;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:34:00.666411
+77061624;100200;Game stop;;;;;;;;;;;3;160.054;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061625;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7859;Gordon Hayward;3281;Utah Jazz;;;3;160.054;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061627;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;188.227;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061629;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;210.356;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061630;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;226.356;26.12;6.51;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:34:00.666411
+77061631;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;226.356;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061632;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;236.743;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061633;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;236.743;27.23;7.50;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:34:00.666411
+77061635;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;257.970;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061636;400101;Accurate pass;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;272.367;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061637;800301;3+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;272.367;21.65;12.90;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061638;100400;Steal;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;7862;Raul Neto;3281;Utah Jazz;;;3;281.749;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061639;100200;Game stop;;;;;;;;;;;3;285.883;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061642;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;303.746;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061643;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;317.746;21.41;8.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061648;100200;Game stop;;;;;;;;;;;3;326.601;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061649;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;3;326.601;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061652;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;361.202;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061653;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;3;384.202;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061654;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;384.202;26.66;6.42;;;;;;;;Cut;;;;;;2017-12-07 11:34:00.666411
+77061658;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;3;435.334;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:34:00.666411
+77061659;100200;Game stop;;;;;;;;;;;3;435.334;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061661;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;3;462.539;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061663;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;3;486.556;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061666;100200;Game stop;;;;;;;;;;;3;496.674;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061667;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;7865;Trey Lyles;3281;Utah Jazz;;;3;496.674;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061670;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;522.655;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061671;800302;3-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;532.964;19.58;9.81;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:34:00.666411
+77061672;100200;Game stop;;;;;;;;;;;3;532.964;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061677;100200;Game stop;;;;;;;;;;;3;560.752;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061678;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;3;560.752;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061681;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;590.649;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061682;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;593.058;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061683;100200;Game stop;;;;;;;;;;;3;605.058;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061685;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;3;605.058;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061686;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;605.058;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061687;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;614.875;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061688;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;620.875;21.26;6.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061690;100400;Steal;5314;Tayshaun Prince;3174;Minnesota Timberwolves;13554;Elijah Millsap;3281;Utah Jazz;;;3;641.983;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061691;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;652.906;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061692;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;3;652.906;26.72;5.82;;;;;;;;Post;;Jumper;;;;2017-12-07 11:34:00.666411
+77061693;100200;Game stop;;;;;;;;;;;3;652.906;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061696;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;3;652.906;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061698;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;3;683.047;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061700;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;711.713;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061701;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;713.088;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061702;100200;Game stop;;;;;;;;;;;3;727.088;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061704;800102;1-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;749.169;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061705;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;749.169;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061707;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;768.795;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061708;400101;Accurate pass;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;780.795;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061709;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;780.795;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:34:00.666411
+77061710;100200;Game stop;;;;;;;;;;;3;798.695;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061712;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;811.740;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061713;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;826.740;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061714;800301;3+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;826.740;26.51;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061716;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;838.655;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061717;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;3;843.821;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061718;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;843.821;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:34:00.666411
+77061719;100200;Game stop;;;;;;;;;;;3;843.821;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061723;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;864.272;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061724;800302;3-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;889.547;23.90;14.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061728;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;913.332;23.33;11.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061733;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;924.894;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061736;100200;Game stop;;;;;;;;;;;3;947.416;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061737;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;7573;Trevor Booker;3281;Utah Jazz;;;3;947.416;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061741;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;982.558;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061742;1600500;Guard;7659;Tyus Jones;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;982.558;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061744;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1008.482;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061745;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1010.694;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061746;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;3;1030.694;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:34:00.666411
+77061747;100200;Game stop;;;;;;;;;;;3;1030.694;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061749;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;3;1052.859;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061750;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;1052.859;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061751;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;3;1065.587;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061758;100200;Game stop;;;;;;;;;;;3;1108.226;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061760;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1119.742;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061761;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7859;Gordon Hayward;3281;Utah Jazz;;;3;1129.742;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061762;100200;Game stop;;;;;;;;;;;3;1129.742;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061764;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7859;Gordon Hayward;3281;Utah Jazz;;;3;1155.032;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061765;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7859;Gordon Hayward;3281;Utah Jazz;;;3;1170.905;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061768;800202;2-;7659;Tyus Jones;3174;Minnesota Timberwolves;369189;Joe Ingles;3281;Utah Jazz;;;3;1212.096;24.59;9.45;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061769;100200;Game stop;;;;;;;;;;;3;1212.096;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061773;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;3;1232.934;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061774;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1252.502;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:34:00.666411
+77061775;800600;2F;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;369189;Joe Ingles;3281;Utah Jazz;;;3;1252.502;27.05;7.62;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:34:00.666411
+77061776;100200;Game stop;;;;;;;;;;;3;1252.502;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061778;800101;1+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;369189;Joe Ingles;3281;Utah Jazz;;;3;1282.491;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061779;800101;1+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;369189;Joe Ingles;3281;Utah Jazz;;;3;1300.918;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061782;1800500;Halftime;;;;;;;;;;;3;1321.380;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061783;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061784;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061785;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061786;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061787;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061788;1600500;Guard;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061794;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061795;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;20.867;26.27;12.90;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:34:00.666411
+77061797;100200;Game stop;;;;;;;;;;;4;41.631;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061798;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;41.631;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061799;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;50.199;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061800;100200;Game stop;;;;;;;;;;;4;51.199;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061802;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;82.588;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061803;800202;2-;7659;Tyus Jones;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;4;102.588;25.22;13.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061804;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;102.588;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061805;100400;Steal;7659;Tyus Jones;3174;Minnesota Timberwolves;7855;Rodney Hood;3281;Utah Jazz;;;4;127.014;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061806;400101;Accurate pass;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;132.581;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061807;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;7659;Tyus Jones;4;132.581;26.99;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:34:00.666411
+77061810;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;161.527;23.03;6.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061813;100200;Game stop;;;;;;;;;;;4;175.463;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061815;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;7659;Tyus Jones;3174;Minnesota Timberwolves;;;4;175.463;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061818;100200;Game stop;;;;;;;;;;;4;213.460;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061819;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;213.460;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061820;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;226.542;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061821;100200;Game stop;;;;;;;;;;;4;244.542;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061824;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;269.016;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061825;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;283.016;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:34:00.666411
+77061826;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;283.016;26.72;5.73;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061827;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;283.016;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061828;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;283.016;27.38;7.98;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:34:00.666411
+77061829;100200;Game stop;;;;;;;;;;;4;293.855;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061830;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7859;Gordon Hayward;3281;Utah Jazz;;;4;293.855;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061835;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;339.597;21.26;12.30;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061838;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;4;360.144;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061839;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;360.144;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:34:00.666411
+77061840;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;360.144;21.95;4.74;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:34:00.666411
+77061843;100200;Game stop;;;;;;;;;;;4;382.290;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061844;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;382.290;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061845;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;5330;Adreian Payne;3174;Minnesota Timberwolves;;;4;382.290;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061846;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;382.290;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061847;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;390.186;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061848;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;4;406.186;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061849;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;406.186;21.26;5.70;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061852;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;457.493;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061853;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;457.493;26.36;10.80;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 11:34:00.666411
+77061855;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;475.806;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061858;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;4;511.821;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:34:00.666411
+77061859;100200;Game stop;;;;;;;;;;;4;511.821;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061861;800102;1-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;4;541.448;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061862;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;541.448;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061863;800102;1-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;4;560.020;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061864;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;565.808;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061865;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;565.808;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061866;100200;Game stop;;;;;;;;;;;4;565.808;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061867;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;565.808;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061868;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;576.428;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061871;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;665.886;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061872;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;4;674.250;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061873;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;674.250;27.05;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:34:00.666411
+77061874;100200;Game stop;;;;;;;;;;;4;674.250;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061877;100200;Game stop;;;;;;;;;;;4;692.232;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061878;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;7573;Trevor Booker;3281;Utah Jazz;;;4;692.232;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061881;100200;Game stop;;;;;;;;;;;4;722.022;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061882;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;722.022;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061883;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;730.700;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061884;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;4;748.700;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061885;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;748.700;26.57;7.44;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:34:00.666411
+77061888;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;785.596;24.65;7.32;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061889;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;785.596;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061890;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;4;799.059;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061891;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;799.059;22.67;7.50;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:34:00.666411
+77061893;100200;Game stop;;;;;;;;;;;4;821.589;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061894;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;4;821.589;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061897;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;869.542;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061898;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;4;890.542;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:34:00.666411
+77061899;100200;Game stop;;;;;;;;;;;4;890.542;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061901;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;4;916.121;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061903;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7861;Jeff Withey;3281;Utah Jazz;;;4;940.805;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061905;100200;Game stop;;;;;;;;;;;4;953.798;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061906;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;4;953.798;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061910;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;4;995.079;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061911;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;995.079;26.06;12.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061913;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1013.220;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061914;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;4;1017.790;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061915;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;1017.790;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:34:00.666411
+77061916;100200;Game stop;;;;;;;;;;;4;1017.790;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061920;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;4;1040.259;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061921;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1061.704;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061922;800301;3+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;1061.704;19.73;6.09;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061924;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1081.016;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061925;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;4;1093.847;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:34:00.666411
+77061926;100200;Game stop;;;;;;;;;;;4;1093.847;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061928;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;4;1120.436;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061929;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;4;1120.436;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061930;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;4;1120.436;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061931;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1120.436;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061932;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1120.436;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061933;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;4;1147.528;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061936;100200;Game stop;;;;;;;;;;;4;1153.195;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061937;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;9369;Trey Burke;3281;Utah Jazz;;;4;1153.195;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061939;1600500;Guard;7659;Tyus Jones;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1180.083;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061941;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1204.481;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061942;400101;Accurate pass;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;7659;Tyus Jones;4;1223.281;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061943;800301;3+;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;5330;Adreian Payne;4;1223.281;19.73;8.10;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:34:00.666411
+77061947;1800700;Match end;;;;;;;;;;;4;1253.779;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+105048121;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;23.990;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048125;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;61.629;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048127;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;89.503;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048129;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;123.511;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048135;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;365.390;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048139;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;450.609;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048141;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;537.682;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048143;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;702.669;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048147;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;907.632;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048149;200900;Assisting;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;972.222;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048153;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;1002.400;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048155;200900;Assisting;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;;;2;181.936;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048157;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;213.182;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048163;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;384.503;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048167;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;7659;Tyus Jones;2;451.085;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048169;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;469.449;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048173;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;546.623;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048177;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;840.136;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048181;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;978.059;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048185;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;1048.327;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048189;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;95.783;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048193;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;144.611;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048197;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;236.743;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048199;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;272.367;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048203;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;384.202;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048207;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;435.334;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048213;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;780.795;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048215;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;826.740;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048217;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;843.821;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048223;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;1030.694;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048227;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;1129.742;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048231;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1252.502;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048235;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;20.867;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048239;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;7659;Tyus Jones;4;132.581;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048243;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;283.016;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048249;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;360.144;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048253;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;406.186;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048257;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;457.493;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048261;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;511.821;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048263;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;674.250;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048265;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;748.700;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048269;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;799.059;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048273;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;890.542;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048277;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;995.079;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048279;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;1017.790;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048281;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;1061.704;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048283;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1093.847;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048287;200900;Assisting;7659;Tyus Jones;3174;Minnesota Timberwolves;;;;;5330;Adreian Payne;4;1223.281;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+77061223;1601000;Starting lineup;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061224;1601000;Starting lineup;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061225;1601000;Starting lineup;7862;Raul Neto;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061226;1601000;Starting lineup;369189;Joe Ingles;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061227;1601000;Starting lineup;7855;Rodney Hood;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061228;1601000;Starting lineup;7865;Trey Lyles;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061229;1601000;Starting lineup;364973;Chris Johnson;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061230;1601000;Starting lineup;7861;Jeff Withey;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061231;1601000;Starting lineup;9369;Trey Burke;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061232;1601000;Starting lineup;13554;Elijah Millsap;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061239;1600500;Guard;7855;Rodney Hood;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061240;1600500;Guard;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061241;1600500;Guard;7861;Jeff Withey;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061242;1600500;Guard;7862;Raul Neto;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061243;1600500;Guard;7865;Trey Lyles;3281;Utah Jazz;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061247;400101;Accurate pass;7859;Gordon Hayward;3281;Utah Jazz;;;;;7865;Trey Lyles;1;44.722;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061248;800301;3+;7865;Trey Lyles;3281;Utah Jazz;;;;;7859;Gordon Hayward;1;44.722;26.57;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061251;800302;3-;7862;Raul Neto;3281;Utah Jazz;;;;;7855;Rodney Hood;1;80.746;26.72;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061255;800302;3-;7855;Rodney Hood;3281;Utah Jazz;;;;;;;1;114.134;20.51;4.41;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061260;1800600;Timeout;;;3281;Utah Jazz;;;;;;;1;123.511;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061261;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;129.386;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061262;400101;Accurate pass;7861;Jeff Withey;3281;Utah Jazz;;;;;7862;Raul Neto;1;151.386;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061263;800201;2+;7862;Raul Neto;3281;Utah Jazz;;;;;7859;Gordon Hayward;1;151.386;25.91;13.53;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061265;100300;Rebound;7865;Trey Lyles;3281;Utah Jazz;;;;;;;1;164.455;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061269;100300;Rebound;7861;Jeff Withey;3281;Utah Jazz;;;;;;;1;190.765;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061270;800202;2-;7862;Raul Neto;3281;Utah Jazz;;;;;;;1;215.876;21.83;5.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061273;300100;Foul;7862;Raul Neto;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;215.876;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061276;100300;Rebound;7865;Trey Lyles;3281;Utah Jazz;;;;;;;1;246.044;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061277;800302;3-;7862;Raul Neto;3281;Utah Jazz;;;;;;;1;260.439;20.81;3.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061280;300100;Foul;7862;Raul Neto;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;269.390;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061281;1600500;Guard;9369;Trey Burke;3281;Utah Jazz;7862;Raul Neto;3281;Utah Jazz;;;1;269.390;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061284;100300;Rebound;7861;Jeff Withey;3281;Utah Jazz;;;;;;;1;313.163;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061285;400101;Accurate pass;7855;Rodney Hood;3281;Utah Jazz;;;;;7861;Jeff Withey;1;327.273;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061286;200300;Pick'n'Roll;7861;Jeff Withey;3281;Utah Jazz;;;;;7855;Rodney Hood;1;327.273;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061287;800201;2+;7861;Jeff Withey;3281;Utah Jazz;;;;;7855;Rodney Hood;1;327.273;26.57;6.87;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:34:00.666411
+77061289;100300;Rebound;7865;Trey Lyles;3281;Utah Jazz;;;;;;;1;348.456;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061290;800202;2-;7865;Trey Lyles;3281;Utah Jazz;;;;;7855;Rodney Hood;1;360.317;26.72;10.65;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:34:00.666411
+77061294;300100;Foul;7855;Rodney Hood;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;365.390;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061299;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;415.446;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061300;200300;Pick'n'Roll;7865;Trey Lyles;3281;Utah Jazz;;;;;9369;Trey Burke;1;430.446;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061301;800202;2-;7865;Trey Lyles;3281;Utah Jazz;;;;;9369;Trey Burke;1;430.446;24.65;11.37;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 11:34:00.666411
+77061302;100300;Rebound;7861;Jeff Withey;3281;Utah Jazz;;;;;;;1;430.446;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061303;800201;2+;7861;Jeff Withey;3281;Utah Jazz;;;;;;;1;430.446;27.08;7.14;;;;;;;;Putbacks;;;;;;2017-12-07 11:34:00.666411
+77061307;1600500;Guard;7573;Trevor Booker;3281;Utah Jazz;7865;Trey Lyles;3281;Utah Jazz;;;1;463.266;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061308;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;483.823;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061309;800202;2-;9369;Trey Burke;3281;Utah Jazz;;;;;;;1;488.823;22.13;3.81;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061314;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;510.852;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061318;200300;Pick'n'Roll;7861;Jeff Withey;3281;Utah Jazz;;;;;7859;Gordon Hayward;1;562.270;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061319;800202;2-;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;7859;Gordon Hayward;1;562.270;25.52;7.80;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:34:00.666411
+77061320;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;562.270;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061321;800202;2-;7855;Rodney Hood;3281;Utah Jazz;;;;;;;1;562.270;25.34;7.95;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 11:34:00.666411
+77061325;100300;Rebound;7855;Rodney Hood;3281;Utah Jazz;;;;;;;1;578.429;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061326;800202;2-;7855;Rodney Hood;3281;Utah Jazz;;;;;;;1;588.346;22.58;4.71;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061330;1600500;Guard;369189;Joe Ingles;3281;Utah Jazz;7855;Rodney Hood;3281;Utah Jazz;;;1;613.946;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061332;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;633.926;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061333;800202;2-;7573;Trevor Booker;3281;Utah Jazz;5330;Adreian Payne;3174;Minnesota Timberwolves;;;1;650.926;25.37;7.11;;;;;;;;Catch and Drive;;Hook;Drives Right;;;2017-12-07 11:34:00.666411
+77061335;100300;Rebound;;;3281;Utah Jazz;;;;;;;1;650.926;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061336;1600500;Guard;7865;Trey Lyles;3281;Utah Jazz;7861;Jeff Withey;3281;Utah Jazz;;;1;650.926;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061337;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;690.688;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061338;800302;3-;9369;Trey Burke;3281;Utah Jazz;;;;;;;1;696.688;19.94;2.58;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:34:00.666411
+77061339;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;696.688;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061340;800202;2-;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;696.688;25.37;9.03;;;;;;;;Putbacks;;Hook;;;;2017-12-07 11:34:00.666411
+77061344;800202;2-;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;1;721.353;22.43;2.79;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:34:00.666411
+77061348;1800600;Timeout;;;3281;Utah Jazz;;;;;;;1;732.112;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061349;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;736.450;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061350;800600;2F;7859;Gordon Hayward;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;749.450;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:34:00.666411
+77061353;800101;1+;7859;Gordon Hayward;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;770.584;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061354;800102;1-;7859;Gordon Hayward;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;785.724;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061362;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;805.364;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061365;300100;Foul;7859;Gordon Hayward;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;815.988;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061367;1600500;Guard;364973;Chris Johnson;3281;Utah Jazz;7859;Gordon Hayward;3281;Utah Jazz;;;1;815.988;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061370;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;860.395;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061373;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;896.018;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061377;300100;Foul;7865;Trey Lyles;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;907.632;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061380;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;946.956;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061381;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;947.612;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061387;800301;3+;364973;Chris Johnson;3281;Utah Jazz;;;;;;;1;991.181;19.79;5.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061390;300100;Foul;9369;Trey Burke;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;1002.400;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061393;1600500;Guard;7855;Rodney Hood;3281;Utah Jazz;7865;Trey Lyles;3281;Utah Jazz;;;1;1024.134;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061396;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;1047.877;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061397;200300;Pick'n'Roll;7855;Rodney Hood;3281;Utah Jazz;;;;;9369;Trey Burke;1;1060.077;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:34:00.666411
+77061398;800302;3-;7855;Rodney Hood;3281;Utah Jazz;;;;;9369;Trey Burke;1;1060.077;20.81;2.85;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:34:00.666411
+77061400;100300;Rebound;;;3281;Utah Jazz;;;;;;;1;1060.077;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061402;100100;Ball in play;;;3281;Utah Jazz;;;;;;;1;1093.696;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061403;800302;3-;369189;Joe Ingles;3281;Utah Jazz;;;;;9369;Trey Burke;1;1106.296;20.03;5.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061404;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;1106.296;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061405;800202;2-;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;1106.296;26.57;7.32;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:34:00.666411
+77061406;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;1106.296;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061407;800202;2-;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;1106.296;26.57;8.04;;;;;;;;Putbacks;;;;;;2017-12-07 11:34:00.666411
+77061408;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;1;1106.296;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061409;800302;3-;7855;Rodney Hood;3281;Utah Jazz;;;;;;;1;1106.296;19.58;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061420;1600500;Guard;7573;Trevor Booker;3281;Utah Jazz;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061421;1600500;Guard;7855;Rodney Hood;3281;Utah Jazz;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061422;1600500;Guard;9369;Trey Burke;3281;Utah Jazz;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061423;1600500;Guard;364973;Chris Johnson;3281;Utah Jazz;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061424;1600500;Guard;369189;Joe Ingles;3281;Utah Jazz;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061425;100100;Ball in play;;;3281;Utah Jazz;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061426;800302;3-;364973;Chris Johnson;3281;Utah Jazz;;;;;9369;Trey Burke;2;15.166;26.84;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061429;100300;Rebound;364973;Chris Johnson;3281;Utah Jazz;;;;;;;2;39.798;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061431;100500;Turnover;364973;Chris Johnson;3281;Utah Jazz;;;;;;;2;47.817;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061434;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;2;77.071;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061435;800302;3-;9369;Trey Burke;3281;Utah Jazz;;;;;364973;Chris Johnson;2;93.118;20.51;3.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061437;100400;Steal;369189;Joe Ingles;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;100.434;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061438;800302;3-;364973;Chris Johnson;3281;Utah Jazz;;;;;;;2;113.850;26.72;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061439;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;2;113.850;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061440;800202;2-;7855;Rodney Hood;3281;Utah Jazz;;;;;;;2;123.437;22.28;6.36;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061446;100300;Rebound;7855;Rodney Hood;3281;Utah Jazz;;;;;;;2;153.458;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061447;800302;3-;364973;Chris Johnson;3281;Utah Jazz;;;;;9369;Trey Burke;2;170.799;26.27;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061450;800302;3-;364973;Chris Johnson;3281;Utah Jazz;;;;;9369;Trey Burke;2;205.368;26.57;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061456;1800600;Timeout;;;3281;Utah Jazz;;;;;;;2;213.182;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061458;1600500;Guard;7861;Jeff Withey;3281;Utah Jazz;7573;Trevor Booker;3281;Utah Jazz;;;2;213.182;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061459;1600500;Guard;7859;Gordon Hayward;3281;Utah Jazz;364973;Chris Johnson;3281;Utah Jazz;;;2;213.182;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061460;100100;Ball in play;;;3281;Utah Jazz;;;;;;;2;216.985;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061461;800600;2F;7855;Rodney Hood;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;235.985;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:34:00.666411
+77061464;800101;1+;7855;Rodney Hood;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;256.990;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061465;800101;1+;7855;Rodney Hood;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;270.746;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061469;100300;Rebound;9369;Trey Burke;3281;Utah Jazz;;;;;;;2;290.546;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061470;800400;2+1;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;2;296.484;26.84;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:34:00.666411
+77061473;1600500;Guard;7862;Raul Neto;3281;Utah Jazz;9369;Trey Burke;3281;Utah Jazz;;;2;333.548;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061474;800101;1+;7859;Gordon Hayward;3281;Utah Jazz;7659;Tyus Jones;3174;Minnesota Timberwolves;;;2;333.548;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061477;300100;Foul;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;347.452;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061482;800600;2F;7855;Rodney Hood;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;399.118;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:34:00.666411
+77061485;800102;1-;7855;Rodney Hood;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;425.472;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061486;100300;Rebound;;;3281;Utah Jazz;;;;;;;2;425.472;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061487;800101;1+;7855;Rodney Hood;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;438.099;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061494;300100;Foul;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;469.449;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061495;1600500;Guard;7573;Trevor Booker;3281;Utah Jazz;7861;Jeff Withey;3281;Utah Jazz;;;2;469.449;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061497;100100;Ball in play;;;3281;Utah Jazz;;;;;;;2;509.844;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061498;400101;Accurate pass;7855;Rodney Hood;3281;Utah Jazz;;;;;7573;Trevor Booker;2;525.844;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061499;200300;Pick'n'Roll;7573;Trevor Booker;3281;Utah Jazz;;;;;7855;Rodney Hood;2;525.844;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061500;800201;2+;7573;Trevor Booker;3281;Utah Jazz;;;;;7855;Rodney Hood;2;525.844;26.72;7.59;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:34:00.666411
+77061505;300100;Foul;7573;Trevor Booker;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;546.623;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061508;100300;Rebound;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;2;584.628;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061509;100100;Ball in play;;;3281;Utah Jazz;;;;;;;2;587.742;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061510;800302;3-;7855;Rodney Hood;3281;Utah Jazz;;;;;;;2;604.742;26.12;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061511;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;2;604.742;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061513;100400;Steal;7859;Gordon Hayward;3281;Utah Jazz;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;618.225;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061514;400101;Accurate pass;7862;Raul Neto;3281;Utah Jazz;;;;;7859;Gordon Hayward;2;624.756;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061515;800301;3+;7859;Gordon Hayward;3281;Utah Jazz;;;;;7862;Raul Neto;2;624.756;26.42;14.37;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:34:00.666411
+77061522;100300;Rebound;7855;Rodney Hood;3281;Utah Jazz;;;;;;;2;654.578;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061526;100300;Rebound;7855;Rodney Hood;3281;Utah Jazz;;;;;;;2;685.747;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061528;300100;Foul;7859;Gordon Hayward;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;697.196;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061529;1600500;Guard;9369;Trey Burke;3281;Utah Jazz;7862;Raul Neto;3281;Utah Jazz;;;2;697.196;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061533;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;2;726.889;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061534;800202;2-;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;2;746.190;26.81;2.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061537;100300;Rebound;369189;Joe Ingles;3281;Utah Jazz;;;;;;;2;755.328;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061539;1600500;Guard;13554;Elijah Millsap;3281;Utah Jazz;7859;Gordon Hayward;3281;Utah Jazz;;;2;755.328;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061540;100500;Turnover;7573;Trevor Booker;3281;Utah Jazz;;;;;;;2;755.328;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061543;300100;Foul;369189;Joe Ingles;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;786.932;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061546;100300;Rebound;13554;Elijah Millsap;3281;Utah Jazz;;;;;;;2;820.090;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061547;800302;3-;369189;Joe Ingles;3281;Utah Jazz;;;;;;;2;831.092;23.42;14.19;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:34:00.666411
+77061551;300100;Foul;7573;Trevor Booker;3281;Utah Jazz;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;840.136;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061553;1600500;Guard;7865;Trey Lyles;3281;Utah Jazz;369189;Joe Ingles;3281;Utah Jazz;;;2;902.334;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061557;100300;Rebound;7865;Trey Lyles;3281;Utah Jazz;;;;;;;2;926.008;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061558;100100;Ball in play;;;3281;Utah Jazz;;;;;;;2;928.402;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061559;800302;3-;13554;Elijah Millsap;3281;Utah Jazz;;;;;9369;Trey Burke;2;943.402;26.42;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061560;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;2;943.402;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061561;800201;2+;13554;Elijah Millsap;3281;Utah Jazz;;;;;;;2;948.688;26.84;7.83;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:34:00.666411
+77061565;200300;Pick'n'Roll;7865;Trey Lyles;3281;Utah Jazz;;;;;9369;Trey Burke;2;995.566;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:34:00.666411
+77061566;800201;2+;7865;Trey Lyles;3281;Utah Jazz;;;;;9369;Trey Burke;2;995.566;26.57;5.79;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061569;100300;Rebound;13554;Elijah Millsap;3281;Utah Jazz;;;;;;;2;1011.023;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061572;1800600;Timeout;;;3281;Utah Jazz;;;;;;;2;1024.215;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061578;300100;Foul;7865;Trey Lyles;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;1048.327;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061581;100100;Ball in play;;;3281;Utah Jazz;;;;;;;2;1103.519;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061582;800202;2-;9369;Trey Burke;3281;Utah Jazz;;;;;;;2;1125.519;25.67;5.55;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:34:00.666411
+77061585;100300;Rebound;7855;Rodney Hood;3281;Utah Jazz;;;;;;;2;1148.274;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061587;100400;Steal;7573;Trevor Booker;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;1166.893;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061589;100500;Turnover;9369;Trey Burke;3281;Utah Jazz;;;;;;;2;1175.235;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061594;100400;Steal;13554;Elijah Millsap;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;1208.670;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061595;400101;Accurate pass;7573;Trevor Booker;3281;Utah Jazz;;;;;7865;Trey Lyles;2;1217.134;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061596;800301;3+;7865;Trey Lyles;3281;Utah Jazz;;;;;7573;Trevor Booker;2;1217.134;25.37;14.52;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:34:00.666411
+77061604;1600500;Guard;7855;Rodney Hood;3281;Utah Jazz;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061605;1600500;Guard;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061606;1600500;Guard;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061607;1600500;Guard;7862;Raul Neto;3281;Utah Jazz;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061608;1600500;Guard;7865;Trey Lyles;3281;Utah Jazz;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061609;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061610;800302;3-;7862;Raul Neto;3281;Utah Jazz;;;;;7859;Gordon Hayward;3;18.748;26.21;14.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061611;100300;Rebound;7862;Raul Neto;3281;Utah Jazz;;;;;;;3;18.748;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061612;800202;2-;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;40.645;26.66;7.56;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:34:00.666411
+77061614;100300;Rebound;;;3281;Utah Jazz;;;;;;;3;40.645;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061615;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;68.182;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061616;800202;2-;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;70.182;26.12;12.84;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061620;400101;Accurate pass;7862;Raul Neto;3281;Utah Jazz;;;;;7861;Jeff Withey;3;120.151;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061621;800201;2+;7861;Jeff Withey;3281;Utah Jazz;;;;;7862;Raul Neto;3;120.151;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:34:00.666411
+77061623;800600;2F;7859;Gordon Hayward;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;160.054;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:34:00.666411
+77061626;800101;1+;7859;Gordon Hayward;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;188.227;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061628;800101;1+;7859;Gordon Hayward;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;206.682;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061634;800302;3-;7862;Raul Neto;3281;Utah Jazz;;;;;;;3;257.970;26.27;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061640;300100;Foul;7855;Rodney Hood;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;285.883;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061641;1600500;Guard;9369;Trey Burke;3281;Utah Jazz;7862;Raul Neto;3281;Utah Jazz;;;3;285.883;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061644;100300;Rebound;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;317.746;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061645;800202;2-;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;3;326.601;26.51;4.20;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:34:00.666411
+77061646;100300;Rebound;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;326.601;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061647;800600;2F;7861;Jeff Withey;3281;Utah Jazz;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;326.601;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:34:00.666411
+77061650;800101;1+;7861;Jeff Withey;3281;Utah Jazz;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;347.111;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061651;800101;1+;7861;Jeff Withey;3281;Utah Jazz;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;358.650;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061655;800302;3-;7855;Rodney Hood;3281;Utah Jazz;;;;;9369;Trey Burke;3;407.911;20.51;11.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061656;100300;Rebound;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;3;407.911;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061657;800201;2+;9369;Trey Burke;3281;Utah Jazz;;;;;;;3;414.624;24.05;7.32;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:34:00.666411
+77061660;300100;Foul;7855;Rodney Hood;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;435.334;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061662;1600500;Guard;13554;Elijah Millsap;3281;Utah Jazz;7855;Rodney Hood;3281;Utah Jazz;;;3;462.539;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061664;100300;Rebound;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;486.556;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061665;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;488.674;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061668;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;514.655;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061669;800302;3-;9369;Trey Burke;3281;Utah Jazz;;;;;;;3;522.655;20.75;11.61;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061673;100300;Rebound;;;3281;Utah Jazz;;;;;;;3;532.964;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061674;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;544.752;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061675;400101;Accurate pass;9369;Trey Burke;3281;Utah Jazz;;;;;7861;Jeff Withey;3;560.752;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061676;800400;2+1;7861;Jeff Withey;3281;Utah Jazz;;;;;9369;Trey Burke;3;560.752;26.21;7.17;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:34:00.666411
+77061679;1600500;Guard;7573;Trevor Booker;3281;Utah Jazz;7865;Trey Lyles;3281;Utah Jazz;;;3;560.752;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061680;800102;1-;7861;Jeff Withey;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;590.649;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061684;300100;Foul;7861;Jeff Withey;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;605.058;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061689;100300;Rebound;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;3;620.875;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061694;100300;Rebound;;;3281;Utah Jazz;;;;;;;3;652.906;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061695;800600;2F;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;652.906;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061697;800101;1+;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;683.047;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061699;800102;1-;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;711.713;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061703;300300;Technical foul;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;727.088;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061706;1600500;Guard;369189;Joe Ingles;3281;Utah Jazz;13554;Elijah Millsap;3281;Utah Jazz;;;3;749.169;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061711;100500;Turnover;7573;Trevor Booker;3281;Utah Jazz;;;;;;;3;798.695;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061715;800302;3-;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;3;838.655;26.27;0.72;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:34:00.666411
+77061720;1800600;Timeout;;;3281;Utah Jazz;;;;;;;3;843.821;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061721;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;849.272;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061722;800302;3-;9369;Trey Burke;3281;Utah Jazz;;;;;;;3;864.272;26.72;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061725;100300;Rebound;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;3;889.547;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061726;400101;Accurate pass;9369;Trey Burke;3281;Utah Jazz;;;;;369189;Joe Ingles;3;895.431;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061727;800201;2+;369189;Joe Ingles;3281;Utah Jazz;;;;;9369;Trey Burke;3;895.431;27.23;7.74;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:34:00.666411
+77061729;100300;Rebound;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;3;913.332;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061730;800202;2-;9369;Trey Burke;3281;Utah Jazz;;;;;;;3;924.894;24.80;4.74;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:34:00.666411
+77061731;100300;Rebound;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;924.894;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061732;800202;2-;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;924.894;26.78;7.65;;;;;;;;Putbacks;;;;;;2017-12-07 11:34:00.666411
+77061734;100400;Steal;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;942.071;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061735;800600;2F;7573;Trevor Booker;3281;Utah Jazz;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;3;947.416;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:34:00.666411
+77061738;800102;1-;7573;Trevor Booker;3281;Utah Jazz;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;3;982.558;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061739;100300;Rebound;;;3281;Utah Jazz;;;;;;;3;982.558;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061740;1600500;Guard;7855;Rodney Hood;3281;Utah Jazz;7861;Jeff Withey;3281;Utah Jazz;;;3;982.558;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061743;800102;1-;7573;Trevor Booker;3281;Utah Jazz;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;3;1008.482;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061748;300100;Foul;7855;Rodney Hood;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;1030.694;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061752;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;1071.051;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061753;800302;3-;369189;Joe Ingles;3281;Utah Jazz;;;;;9369;Trey Burke;3;1089.051;19.79;7.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061754;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;3;1089.051;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061755;400101;Accurate pass;7573;Trevor Booker;3281;Utah Jazz;;;;;7859;Gordon Hayward;3;1089.051;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061756;800301;3+;7859;Gordon Hayward;3281;Utah Jazz;;;;;7573;Trevor Booker;3;1089.051;19.64;7.98;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061757;100400;Steal;9369;Trey Burke;3281;Utah Jazz;7659;Tyus Jones;3174;Minnesota Timberwolves;;;3;1103.322;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061759;100500;Turnover;7573;Trevor Booker;3281;Utah Jazz;;;;;;;3;1108.226;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061763;300100;Foul;7859;Gordon Hayward;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;1129.742;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061766;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;1178.418;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061767;800201;2+;9369;Trey Burke;3281;Utah Jazz;;;;;;;3;1193.418;21.41;5.55;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061770;100300;Rebound;;;3281;Utah Jazz;;;;;;;3;1212.096;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061771;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;1219.034;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061772;800302;3-;369189;Joe Ingles;3281;Utah Jazz;;;;;9369;Trey Burke;3;1232.934;26.27;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061777;300100;Foul;369189;Joe Ingles;3281;Utah Jazz;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1252.502;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061780;100100;Ball in play;;;3281;Utah Jazz;;;;;;;3;1307.080;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061781;800301;3+;9369;Trey Burke;3281;Utah Jazz;;;;;;;3;1319.880;19.04;7.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061789;1600500;Guard;7573;Trevor Booker;3281;Utah Jazz;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061790;1600500;Guard;7855;Rodney Hood;3281;Utah Jazz;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061791;1600500;Guard;7861;Jeff Withey;3281;Utah Jazz;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061792;1600500;Guard;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061793;1600500;Guard;364973;Chris Johnson;3281;Utah Jazz;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061796;800201;2+;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;35.724;24.35;8.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061801;300100;Foul;7573;Trevor Booker;3281;Utah Jazz;5330;Adreian Payne;3174;Minnesota Timberwolves;;;4;51.199;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061808;400101;Accurate pass;7855;Rodney Hood;3281;Utah Jazz;;;;;9369;Trey Burke;4;146.901;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061809;800301;3+;9369;Trey Burke;3281;Utah Jazz;;;;;7855;Rodney Hood;4;146.901;20.36;11.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061811;100300;Rebound;7861;Jeff Withey;3281;Utah Jazz;;;;;;;4;161.527;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061812;800302;3-;7855;Rodney Hood;3281;Utah Jazz;;;;;9369;Trey Burke;4;175.463;21.05;12.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061814;100300;Rebound;;;3281;Utah Jazz;;;;;;;4;175.463;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061816;100100;Ball in play;;;3281;Utah Jazz;;;;;;;4;197.460;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061817;800302;3-;9369;Trey Burke;3281;Utah Jazz;;;;;7855;Rodney Hood;4;213.460;20.51;12.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061822;300100;Foul;7573;Trevor Booker;3281;Utah Jazz;5330;Adreian Payne;3174;Minnesota Timberwolves;;;4;244.542;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061823;1600500;Guard;7859;Gordon Hayward;3281;Utah Jazz;364973;Chris Johnson;3281;Utah Jazz;;;4;244.542;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061831;1800600;Timeout;;;3281;Utah Jazz;;;;;;;4;293.855;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061832;1600500;Guard;364973;Chris Johnson;3281;Utah Jazz;7855;Rodney Hood;3281;Utah Jazz;;;4;293.855;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061833;100100;Ball in play;;;3281;Utah Jazz;;;;;;;4;302.504;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061834;800201;2+;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;316.504;20.66;6.48;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:34:00.666411
+77061836;100300;Rebound;7861;Jeff Withey;3281;Utah Jazz;;;;;;;4;339.597;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061837;800201;2+;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;4;347.897;27.23;7.83;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:34:00.666411
+77061841;400101;Accurate pass;9369;Trey Burke;3281;Utah Jazz;;;;;7861;Jeff Withey;4;370.980;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061842;800201;2+;7861;Jeff Withey;3281;Utah Jazz;;;;;9369;Trey Burke;4;370.980;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:34:00.666411
+77061850;400101;Accurate pass;7859;Gordon Hayward;3281;Utah Jazz;;;;;7573;Trevor Booker;4;432.602;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061851;800301;3+;7573;Trevor Booker;3281;Utah Jazz;;;;;7859;Gordon Hayward;4;432.602;26.57;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061854;800202;2-;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;475.806;26.21;10.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061856;100400;Steal;364973;Chris Johnson;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;479.848;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061857;800201;2+;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;485.106;26.84;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:34:00.666411
+77061860;300100;Foul;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;511.821;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061869;100400;Steal;7859;Gordon Hayward;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;588.428;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061870;800302;3-;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;4;665.886;20.33;11.58;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:34:00.666411
+77061875;1800600;Timeout;;;3281;Utah Jazz;;;;;;;4;674.250;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061876;100100;Ball in play;;;3281;Utah Jazz;;;;;;;4;684.232;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061879;100100;Ball in play;;;3281;Utah Jazz;;;;;;;4;713.022;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061880;800202;2-;7861;Jeff Withey;3281;Utah Jazz;;;;;;;4;722.022;26.12;8.88;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:34:00.666411
+77061886;400101;Accurate pass;7573;Trevor Booker;3281;Utah Jazz;;;;;9369;Trey Burke;4;763.546;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:34:00.666411
+77061887;800301;3+;9369;Trey Burke;3281;Utah Jazz;;;;;7573;Trevor Booker;4;763.546;19.49;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:34:00.666411
+77061892;800600;2F;9369;Trey Burke;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;821.589;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:34:00.666411
+77061895;800101;1+;9369;Trey Burke;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;850.685;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061896;800101;1+;9369;Trey Burke;3281;Utah Jazz;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;866.679;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061900;300100;Foul;7861;Jeff Withey;3281;Utah Jazz;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;890.542;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061902;1600500;Guard;7855;Rodney Hood;3281;Utah Jazz;7861;Jeff Withey;3281;Utah Jazz;;;4;916.121;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061904;100100;Ball in play;;;3281;Utah Jazz;;;;;;;4;948.798;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061907;100100;Ball in play;;;3281;Utah Jazz;;;;;;;4;972.354;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061908;400101;Accurate pass;9369;Trey Burke;3281;Utah Jazz;;;;;7855;Rodney Hood;4;979.354;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061909;800301;3+;7855;Rodney Hood;3281;Utah Jazz;;;;;9369;Trey Burke;4;979.354;26.06;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061912;800202;2-;7855;Rodney Hood;3281;Utah Jazz;;;;;9369;Trey Burke;4;1013.220;23.90;7.35;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:34:00.666411
+77061917;1800600;Timeout;;;3281;Utah Jazz;;;;;;;4;1017.790;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061918;100100;Ball in play;;;3281;Utah Jazz;;;;;;;4;1034.259;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061919;800302;3-;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;1040.259;18.71;7.59;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:34:00.666411
+77061923;800302;3-;7855;Rodney Hood;3281;Utah Jazz;;;;;;;4;1081.016;19.49;6.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:34:00.666411
+77061927;300100;Foul;9369;Trey Burke;3281;Utah Jazz;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1093.847;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061934;100100;Ball in play;;;3281;Utah Jazz;;;;;;;4;1152.095;;;;;;;;;;;;;;;;2019-10-24 13:31:03.006407
+77061935;800600;2F;9369;Trey Burke;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1153.195;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061938;800101;1+;9369;Trey Burke;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1180.083;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061940;800101;1+;9369;Trey Burke;3281;Utah Jazz;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1198.786;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061944;800302;3-;7855;Rodney Hood;3281;Utah Jazz;;;;;9369;Trey Burke;4;1244.279;20.96;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:34:00.666411
+77061945;100300;Rebound;7573;Trevor Booker;3281;Utah Jazz;;;;;;;4;1244.279;;;;;;;;;;;;;;;;2017-12-07 11:34:00.666411
+77061946;800201;2+;7573;Trevor Booker;3281;Utah Jazz;;;;;;;4;1244.279;26.72;7.35;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:34:00.666411
+93268389;100500;Turnover;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;2;697.196;;;;;;;;;;;;;;;;2018-01-11 20:51:03.413039
+105048123;200900;Assisting;7865;Trey Lyles;3281;Utah Jazz;;;;;7859;Gordon Hayward;1;44.722;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048131;200900;Assisting;7862;Raul Neto;3281;Utah Jazz;;;;;7859;Gordon Hayward;1;151.386;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048133;200900;Assisting;7861;Jeff Withey;3281;Utah Jazz;;;;;7855;Rodney Hood;1;327.273;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048137;200900;Assisting;7861;Jeff Withey;3281;Utah Jazz;;;;;;;1;430.446;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048145;200900;Assisting;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;1;749.450;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048151;200900;Assisting;364973;Chris Johnson;3281;Utah Jazz;;;;;;;1;991.181;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048159;200900;Assisting;7855;Rodney Hood;3281;Utah Jazz;;;;;;;2;235.985;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048161;200900;Assisting;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;2;296.484;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048165;200900;Assisting;7855;Rodney Hood;3281;Utah Jazz;;;;;;;2;399.118;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048171;200900;Assisting;7573;Trevor Booker;3281;Utah Jazz;;;;;7855;Rodney Hood;2;525.844;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048175;200900;Assisting;7859;Gordon Hayward;3281;Utah Jazz;;;;;7862;Raul Neto;2;624.756;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048179;200900;Assisting;13554;Elijah Millsap;3281;Utah Jazz;;;;;;;2;948.688;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048183;200900;Assisting;7865;Trey Lyles;3281;Utah Jazz;;;;;9369;Trey Burke;2;995.566;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048187;200900;Assisting;7865;Trey Lyles;3281;Utah Jazz;;;;;7573;Trevor Booker;2;1217.134;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048191;200900;Assisting;7861;Jeff Withey;3281;Utah Jazz;;;;;7862;Raul Neto;3;120.151;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048195;200900;Assisting;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;3;160.054;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048201;200900;Assisting;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;326.601;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048205;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;;;3;414.624;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048209;200900;Assisting;7861;Jeff Withey;3281;Utah Jazz;;;;;9369;Trey Burke;3;560.752;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048211;200900;Assisting;7861;Jeff Withey;3281;Utah Jazz;;;;;;;3;652.906;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048219;200900;Assisting;369189;Joe Ingles;3281;Utah Jazz;;;;;9369;Trey Burke;3;895.431;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048221;200900;Assisting;7573;Trevor Booker;3281;Utah Jazz;;;;;;;3;947.416;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048225;200900;Assisting;7859;Gordon Hayward;3281;Utah Jazz;;;;;7573;Trevor Booker;3;1089.051;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048229;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;;;3;1193.418;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048233;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;;;3;1319.880;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048237;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;35.724;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048241;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;7855;Rodney Hood;4;146.901;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048245;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;316.504;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048247;200900;Assisting;7859;Gordon Hayward;3281;Utah Jazz;;;;;;;4;347.897;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048251;200900;Assisting;7861;Jeff Withey;3281;Utah Jazz;;;;;9369;Trey Burke;4;370.980;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048255;200900;Assisting;7573;Trevor Booker;3281;Utah Jazz;;;;;7859;Gordon Hayward;4;432.602;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048259;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;485.106;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048267;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;7573;Trevor Booker;4;763.546;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048271;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;821.589;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048275;200900;Assisting;7855;Rodney Hood;3281;Utah Jazz;;;;;9369;Trey Burke;4;979.354;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048285;200900;Assisting;9369;Trey Burke;3281;Utah Jazz;;;;;;;4;1153.195;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326
+105048289;200900;Assisting;7573;Trevor Booker;3281;Utah Jazz;;;;;;;4;1244.279;;;;;;;;;;;;;;;;2018-03-03 03:57:01.705326

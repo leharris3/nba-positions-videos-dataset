@@ -1,0 +1,807 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77085408;1601000;Starting lineup;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085409;1601000;Starting lineup;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085410;1601000;Starting lineup;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085411;1601000;Starting lineup;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085412;1601000;Starting lineup;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085413;1601000;Starting lineup;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085414;1601000;Starting lineup;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085415;1601000;Starting lineup;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085416;1601000;Starting lineup;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085417;1601000;Starting lineup;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085418;1601000;Starting lineup;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085419;1601000;Starting lineup;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085420;1601000;Starting lineup;7534;Randy Foye;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085421;1601000;Starting lineup;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085422;1601000;Starting lineup;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085423;1601000;Starting lineup;6233;Gary Harris;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085424;1601000;Starting lineup;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085425;1601000;Starting lineup;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085426;1601000;Starting lineup;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085427;1601000;Starting lineup;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085428;1601000;Starting lineup;6248;Mike Miller;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085429;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085430;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085431;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085432;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085433;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085434;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085435;1600500;Guard;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085436;1600500;Guard;6233;Gary Harris;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085437;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085438;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085439;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085440;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;37.818;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085441;400101;Accurate pass;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;57.818;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:45:05.102768
+77085442;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;57.818;22.52;11.91;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:45:05.102768
+77085443;400101;Accurate pass;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6237;Kenneth Faried;1;84.195;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085444;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6234;Nikola Jokic;1;84.195;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:45:05.102768
+77085445;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;108.888;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085446;800301;3+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;108.888;20.33;4.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085447;400101;Accurate pass;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;1;122.292;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:45:05.102768
+77085448;800301;3+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6234;Nikola Jokic;1;122.292;22.82;14.04;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:45:05.102768
+77085449;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;144.834;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085450;200600;Post;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;144.834;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085451;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;144.834;24.50;7.68;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085452;100200;Game stop;;;;;;;;;;;1;171.238;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085453;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;6237;Kenneth Faried;3222;Denver Nuggets;;;1;171.238;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085454;800101;1+;6237;Kenneth Faried;3222;Denver Nuggets;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;208.819;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085455;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;210.745;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085456;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;223.745;26.66;7.59;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:45:05.102768
+77085457;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;223.745;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085458;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6233;Gary Harris;1;229.733;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085459;800201;2+;6233;Gary Harris;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;229.733;24.89;14.07;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:45:05.102768
+77085460;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;247.052;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085461;200300;Pick'n'Roll;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;247.052;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77085462;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;247.052;23.18;3.18;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:45:05.102768
+77085463;200300;Pick'n'Roll;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;1;269.775;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77085464;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;1;269.775;24.80;7.68;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:45:05.102768
+77085465;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;269.775;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085466;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;280.930;26.42;2.49;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:45:05.102768
+77085467;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;1;280.930;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085468;100200;Game stop;;;;;;;;;;;1;287.281;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085469;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;7662;Jameer Nelson;3222;Denver Nuggets;;;1;287.281;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085470;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;299.596;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085471;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6233;Gary Harris;1;310.596;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085472;800301;3+;6233;Gary Harris;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;310.596;21.65;12.69;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085473;400101;Accurate pass;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;331.584;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085474;800301;3+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;331.584;26.72;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085475;800302;3-;6233;Gary Harris;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;350.555;25.67;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085476;100200;Game stop;;;;;;;;;;;1;350.555;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085477;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;350.555;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085478;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;356.989;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085479;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;367.989;26.42;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:45:05.102768
+77085480;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;367.989;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085481;800600;2F;6232;Danilo Gallinari;3222;Denver Nuggets;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;395.619;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:45:05.102768
+77085482;100200;Game stop;;;;;;;;;;;1;395.619;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085483;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;6232;Danilo Gallinari;3222;Denver Nuggets;;;1;395.619;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085484;800101;1+;6232;Danilo Gallinari;3222;Denver Nuggets;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;414.691;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085485;800102;1-;6232;Danilo Gallinari;3222;Denver Nuggets;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;431.842;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085486;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;431.842;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085487;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;431.842;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085488;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;446.374;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085489;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;446.374;27.05;7.20;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:45:05.102768
+77085490;100200;Game stop;;;;;;;;;;;1;470.330;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085491;100500;Turnover;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;470.330;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085492;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;484.605;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085493;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;498.605;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085494;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;498.605;26.21;7.68;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:45:05.102768
+77085495;100200;Game stop;;;;;;;;;;;1;498.605;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085496;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;1;498.605;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085497;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;526.094;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085498;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;526.094;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085499;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;526.094;26.81;7.26;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:45:05.102768
+77085500;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;1;526.094;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085501;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;1;526.094;26.72;7.20;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:45:05.102768
+77085502;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;526.094;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085503;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;544.995;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085504;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;544.995;26.84;9.12;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085505;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;544.995;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085506;100200;Game stop;;;;;;;;;;;1;551.973;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085507;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6234;Nikola Jokic;3222;Denver Nuggets;;;1;551.973;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085508;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;568.838;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085509;400101;Accurate pass;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;578.838;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085510;800301;3+;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;1;578.838;20.81;11.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085511;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;595.775;21.20;8.19;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:45:05.102768
+77085512;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;1;595.775;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085513;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6237;Kenneth Faried;1;613.499;26.42;7.68;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:45:05.102768
+77085514;100200;Game stop;;;;;;;;;;;1;613.499;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085515;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;613.499;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085516;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;625.998;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085517;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;649.998;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085518;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;649.998;25.34;7.02;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085519;100200;Game stop;;;;;;;;;;;1;649.998;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085520;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;649.998;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085521;100500;Turnover;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;649.998;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085522;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;665.572;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085523;100200;Game stop;;;;;;;;;;;1;676.572;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085524;300100;Foul;6232;Danilo Gallinari;3222;Denver Nuggets;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;1;676.572;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085525;1600500;Guard;5316;Nikola Pekovic;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;725.228;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085526;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;6237;Kenneth Faried;3222;Denver Nuggets;;;1;725.228;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085527;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;725.228;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085528;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5316;Nikola Pekovic;1;725.228;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085529;800201;2+;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;725.228;26.42;7.11;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:45:05.102768
+77085530;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6234;Nikola Jokic;1;734.819;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085531;800201;2+;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;734.819;26.57;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:45:05.102768
+77085532;200600;Post;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;1;753.492;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085533;800202;2-;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;1;753.492;26.72;5.10;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085534;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;753.492;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085535;800201;2+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;763.323;26.66;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:45:05.102768
+77085536;100200;Game stop;;;;;;;;;;;1;781.408;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085537;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;781.408;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085538;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;816.954;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085539;1600500;Guard;6235;Jusuf Nurkic;3222;Denver Nuggets;6234;Nikola Jokic;3222;Denver Nuggets;;;1;816.954;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085540;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;816.954;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085541;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;816.954;22.73;10.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:45:05.102768
+77085542;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;816.954;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085543;200600;Post;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;1;829.566;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085544;800600;2F;5316;Nikola Pekovic;3174;Minnesota Timberwolves;7662;Jameer Nelson;3222;Denver Nuggets;;;1;829.566;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:45:05.102768
+77085545;100200;Game stop;;;;;;;;;;;1;829.566;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085546;300100;Foul;7662;Jameer Nelson;3222;Denver Nuggets;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;1;829.566;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085547;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;1;829.566;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085548;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;1;846.189;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085549;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;6233;Gary Harris;3222;Denver Nuggets;;;1;846.189;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085550;800101;1+;5316;Nikola Pekovic;3174;Minnesota Timberwolves;7662;Jameer Nelson;3222;Denver Nuggets;;;1;846.189;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085551;800101;1+;5316;Nikola Pekovic;3174;Minnesota Timberwolves;7662;Jameer Nelson;3222;Denver Nuggets;;;1;861.018;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085552;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;871.362;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085553;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;880.362;26.96;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:45:05.102768
+77085554;800202;2-;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;1;880.362;26.90;8.01;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:45:05.102768
+77085555;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;1;880.362;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085556;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;1;880.362;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085557;800202;2-;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;1;880.362;26.90;8.07;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:45:05.102768
+77085558;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;880.362;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085559;800600;2F;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;6231;Will Barton;3222;Denver Nuggets;;;1;889.971;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:45:05.102768
+77085560;100200;Game stop;;;;;;;;;;;1;889.971;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085561;300100;Foul;6231;Will Barton;3222;Denver Nuggets;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;1;889.971;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085562;800102;1-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;6231;Will Barton;3222;Denver Nuggets;;;1;919.172;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085563;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;919.172;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085564;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;939.710;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085565;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;7662;Jameer Nelson;3222;Denver Nuggets;;;1;939.710;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085566;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;6231;Will Barton;3222;Denver Nuggets;;;1;939.710;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085567;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;945.858;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085568;200300;Pick'n'Roll;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;1;958.858;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085569;800600;2F;6235;Jusuf Nurkic;3222;Denver Nuggets;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;1;958.858;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:45:05.102768
+77085570;100200;Game stop;;;;;;;;;;;1;958.858;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085571;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;1;958.858;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085572;800101;1+;6235;Jusuf Nurkic;3222;Denver Nuggets;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;1;980.992;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085573;800101;1+;6235;Jusuf Nurkic;3222;Denver Nuggets;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;1;997.489;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085574;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;1004.363;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085575;800600;2F;90354;Kevin Martina;3174;Minnesota Timberwolves;6245;Darrell Arthur;3222;Denver Nuggets;;;1;1014.363;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:45:05.102768
+77085576;100200;Game stop;;;;;;;;;;;1;1014.363;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085577;300100;Foul;6245;Darrell Arthur;3222;Denver Nuggets;90354;Kevin Martina;3174;Minnesota Timberwolves;;;1;1014.363;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085578;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;6245;Darrell Arthur;3222;Denver Nuggets;;;1;1035.120;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085579;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;6245;Darrell Arthur;3222;Denver Nuggets;;;1;1044.163;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085580;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;1046.607;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085581;200600;Post;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;1062.607;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085582;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;1062.607;25.76;7.95;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085583;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;1062.607;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085584;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;1074.178;19.94;5.25;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:45:05.102768
+77085585;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;1074.178;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085586;200300;Pick'n'Roll;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6231;Will Barton;1;1095.286;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085587;800202;2-;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6231;Will Barton;1;1095.286;26.27;5.28;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:45:05.102768
+77085588;100300;Rebound;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;1;1095.286;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085589;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5316;Nikola Pekovic;1;1105.995;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085590;200300;Pick'n'Roll;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;1105.995;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085591;800201;2+;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;1105.995;26.96;6.66;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:45:05.102768
+77085592;200300;Pick'n'Roll;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;7534;Randy Foye;1;1120.268;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085593;800202;2-;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;7534;Randy Foye;1;1120.268;25.97;7.56;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:45:05.102768
+77085594;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;1120.268;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085595;200600;Post;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;1131.527;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085596;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;1131.527;25.10;6.12;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085597;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;1131.527;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085598;100200;Game stop;;;;;;;;;;;1;1142.708;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085599;300100;Foul;5316;Nikola Pekovic;3174;Minnesota Timberwolves;6231;Will Barton;3222;Denver Nuggets;;;1;1142.708;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085600;1600500;Guard;104434;Kostas Papanikolaou;3222;Denver Nuggets;6232;Danilo Gallinari;3222;Denver Nuggets;;;1;1189.655;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085601;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;1189.655;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085602;800302;3-;6245;Darrell Arthur;3222;Denver Nuggets;;;;;7534;Randy Foye;1;1189.655;20.81;3.33;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085603;100300;Rebound;;;3222;Denver Nuggets;;;;;;;1;1189.655;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085604;1800500;Halftime;;;;;;;;;;;1;1189.655;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085605;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085606;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085607;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085608;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085609;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085610;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085611;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085612;1600500;Guard;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085613;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085614;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085615;1600500;Guard;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085616;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;7.529;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085617;400101;Accurate pass;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6235;Jusuf Nurkic;2;26.529;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085618;200600;Post;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;2;26.529;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085619;800201;2+;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6245;Darrell Arthur;2;26.529;25.76;7.26;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085620;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;48.399;26.51;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085621;100300;Rebound;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;2;48.399;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085622;800302;3-;7534;Randy Foye;3222;Denver Nuggets;;;;;;;2;56.002;20.36;4.32;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:45:05.102768
+77085623;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;56.002;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085624;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;67.813;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77085625;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;67.813;23.03;10.80;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:45:05.102768
+77085626;100300;Rebound;7534;Randy Foye;3222;Denver Nuggets;;;;;;;2;67.813;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085627;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;74.577;26.84;8.28;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:45:05.102768
+77085628;100300;Rebound;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;74.577;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085629;800201;2+;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;74.577;27.50;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 11:45:05.102768
+77085630;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;95.940;26.06;10.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77085631;100200;Game stop;;;;;;;;;;;2;95.940;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085632;100300;Rebound;;;3222;Denver Nuggets;;;;;;;2;95.940;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085633;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;108.501;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085634;200600;Post;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;2;125.501;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085635;800202;2-;6235;Jusuf Nurkic;3222;Denver Nuggets;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;125.501;25.22;7.35;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085636;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;2;125.501;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085637;800600;2F;6235;Jusuf Nurkic;3222;Denver Nuggets;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;125.501;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:45:05.102768
+77085638;100200;Game stop;;;;;;;;;;;2;125.501;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085639;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;2;125.501;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085640;800102;1-;6235;Jusuf Nurkic;3222;Denver Nuggets;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;150.972;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085641;100300;Rebound;;;3222;Denver Nuggets;;;;;;;2;150.972;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085642;800102;1-;6235;Jusuf Nurkic;3222;Denver Nuggets;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;165.339;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085643;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;165.339;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085644;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;165.339;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085645;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;2;187.208;26.51;7.35;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:45:05.102768
+77085646;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;2;187.208;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085647;400101;Accurate pass;7534;Randy Foye;3222;Denver Nuggets;;;;;104434;Kostas Papanikolaou;2;193.460;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085648;800201;2+;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;7534;Randy Foye;2;193.460;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:45:05.102768
+77085649;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;210.771;23.33;4.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:45:05.102768
+77085650;800202;2-;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;2;235.780;26.84;7.83;;;;;;;;;;Lay up;;;;2017-12-07 11:45:05.102768
+77085651;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;235.780;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085652;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;235.780;26.78;7.47;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:45:05.102768
+77085653;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;235.780;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085654;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;2;243.180;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085655;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;243.180;26.72;1.41;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:45:05.102768
+77085656;400101;Accurate pass;6231;Will Barton;3222;Denver Nuggets;;;;;104434;Kostas Papanikolaou;2;261.623;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085657;800201;2+;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;6231;Will Barton;2;261.623;26.66;13.77;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085658;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;275.881;27.02;7.62;;;;;;;;;;Dunk;;;;2017-12-07 11:45:05.102768
+77085659;100200;Game stop;;;;;;;;;;;2;300.261;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085660;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;2;300.261;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085661;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;2;300.261;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085662;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;6235;Jusuf Nurkic;3222;Denver Nuggets;;;2;321.125;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085663;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;321.125;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085664;100200;Game stop;;;;;;;;;;;2;321.125;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085665;100500;Turnover;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;321.125;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085666;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;329.318;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085667;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;352.318;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085668;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;352.318;23.18;9.90;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:45:05.102768
+77085669;800202;2-;7534;Randy Foye;3222;Denver Nuggets;;;;;6231;Will Barton;2;372.077;22.82;2.73;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:45:05.102768
+77085670;100300;Rebound;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;372.077;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085671;800201;2+;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;372.077;27.08;7.74;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:45:05.102768
+77085672;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;396.507;22.52;10.83;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:45:05.102768
+77085673;100300;Rebound;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;396.507;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085674;400101;Accurate pass;7534;Randy Foye;3222;Denver Nuggets;;;;;6231;Will Barton;2;413.368;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085675;800301;3+;6231;Will Barton;3222;Denver Nuggets;;;;;7534;Randy Foye;2;413.368;19.34;10.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085676;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;438.965;26.21;11.88;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:45:05.102768
+77085677;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;438.965;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085678;100200;Game stop;;;;;;;;;;;2;447.909;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085679;100500;Turnover;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;447.909;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085680;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;447.909;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085681;1600500;Guard;6233;Gary Harris;3222;Denver Nuggets;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;2;474.497;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085682;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;474.497;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085683;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;474.497;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085684;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;474.497;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085685;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;474.497;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085686;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;474.497;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085687;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;474.497;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085688;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7534;Randy Foye;3222;Denver Nuggets;;;2;474.497;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:45:05.102768
+77085689;100200;Game stop;;;;;;;;;;;2;474.497;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085690;300100;Foul;7534;Randy Foye;3222;Denver Nuggets;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;474.497;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085691;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7534;Randy Foye;3222;Denver Nuggets;;;2;496.668;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085692;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;7534;Randy Foye;3222;Denver Nuggets;;;2;510.872;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085693;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;513.421;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085694;100400;Steal;5314;Tayshaun Prince;3174;Minnesota Timberwolves;6234;Nikola Jokic;3222;Denver Nuggets;;;2;531.421;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085695;200600;Post;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;2;552.660;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085696;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;2;552.660;24.95;6.33;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085697;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;552.660;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085698;800202;2-;7534;Randy Foye;3222;Denver Nuggets;;;;;;;2;575.478;26.72;2.85;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77085699;100300;Rebound;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;575.478;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085700;400101;Accurate pass;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6233;Gary Harris;2;582.544;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085701;800301;3+;6233;Gary Harris;3222;Denver Nuggets;;;;;6234;Nikola Jokic;2;582.544;20.51;12.06;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085702;400101;Accurate pass;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;599.618;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085703;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;599.618;24.02;3.51;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77085704;100200;Game stop;;;;;;;;;;;2;607.623;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085705;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;2;607.623;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085706;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;6245;Darrell Arthur;3222;Denver Nuggets;;;2;634.903;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085707;1600500;Guard;6232;Danilo Gallinari;3222;Denver Nuggets;6231;Will Barton;3222;Denver Nuggets;;;2;634.903;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085708;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;7534;Randy Foye;3222;Denver Nuggets;;;2;634.903;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085709;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;634.903;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085710;100400;Steal;5319;Kevin Garnett;3174;Minnesota Timberwolves;6234;Nikola Jokic;3222;Denver Nuggets;;;2;634.903;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085711;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;663.937;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085712;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;663.937;23.33;3.42;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77085713;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;2;686.545;20.96;6.09;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:45:05.102768
+77085714;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;686.545;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085715;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;693.707;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085716;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;693.707;26.99;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:45:05.102768
+77085717;100200;Game stop;;;;;;;;;;;2;697.173;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085718;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;2;697.173;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085719;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;712.055;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085720;100200;Game stop;;;;;;;;;;;2;716.055;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085721;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6234;Nikola Jokic;3222;Denver Nuggets;;;2;716.055;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085722;1600500;Guard;5316;Nikola Pekovic;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;759.169;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085723;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;759.169;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085724;200300;Pick'n'Roll;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;2;759.169;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77085725;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;2;759.169;26.27;6.33;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 11:45:05.102768
+77085726;100200;Game stop;;;;;;;;;;;2;759.169;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085727;100300;Rebound;;;3222;Denver Nuggets;;;;;;;2;759.169;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085728;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;6237;Kenneth Faried;3222;Denver Nuggets;;;2;759.169;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085729;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;777.388;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085730;200600;Post;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;2;787.388;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085731;800600;2F;6232;Danilo Gallinari;3222;Denver Nuggets;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;787.388;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:45:05.102768
+77085732;100200;Game stop;;;;;;;;;;;2;787.388;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085733;300100;Foul;5314;Tayshaun Prince;3174;Minnesota Timberwolves;6232;Danilo Gallinari;3222;Denver Nuggets;;;2;787.388;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085734;800101;1+;6232;Danilo Gallinari;3222;Denver Nuggets;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;809.919;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085735;800101;1+;6232;Danilo Gallinari;3222;Denver Nuggets;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;825.305;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085736;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;830.738;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085737;100200;Game stop;;;;;;;;;;;2;848.738;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085738;300100;Foul;6237;Kenneth Faried;3222;Denver Nuggets;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;848.738;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085739;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;866.139;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085740;200300;Pick'n'Roll;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;882.139;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085741;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;882.139;20.75;10.74;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:45:05.102768
+77085742;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;2;882.139;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085743;800302;3-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;2;894.976;20.66;11.49;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085744;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;2;894.976;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085745;100200;Game stop;;;;;;;;;;;2;902.801;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085746;300100;Foul;6234;Nikola Jokic;3222;Denver Nuggets;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;2;902.801;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085747;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;936.269;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085748;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;939.269;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085749;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6233;Gary Harris;3222;Denver Nuggets;;;2;939.269;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:45:05.102768
+77085750;100200;Game stop;;;;;;;;;;;2;939.269;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085751;300100;Foul;6233;Gary Harris;3222;Denver Nuggets;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;939.269;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085752;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6233;Gary Harris;3222;Denver Nuggets;;;2;966.087;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085753;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;966.087;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085754;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6233;Gary Harris;3222;Denver Nuggets;;;2;984.075;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085755;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;992.214;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085756;400101;Accurate pass;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;1010.214;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085757;800301;3+;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;2;1010.214;19.34;8.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085758;100400;Steal;6237;Kenneth Faried;3222;Denver Nuggets;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;2;1029.834;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085759;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;1034.643;26.72;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:45:05.102768
+77085760;100300;Rebound;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;2;1034.643;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085761;100400;Steal;6237;Kenneth Faried;3222;Denver Nuggets;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;1049.626;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085762;100200;Game stop;;;;;;;;;;;2;1049.626;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085763;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;2;1049.626;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085764;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;1058.329;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085765;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;2;1077.629;20.36;7.17;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:45:05.102768
+77085766;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;2;1077.629;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085767;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5316;Nikola Pekovic;2;1097.978;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085768;200600;Post;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;2;1097.978;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085769;800201;2+;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;1097.978;25.49;7.56;;;;;;;;Post;;Hook;;;;2017-12-07 11:45:05.102768
+77085770;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;2;1109.241;25.91;5.82;;;;;;;;;;Jumper;;;;2017-12-07 11:45:05.102768
+77085771;100300;Rebound;;;3222;Denver Nuggets;;;;;;;2;1109.241;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085772;1800500;Halftime;;;;;;;;;;;2;1109.241;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085773;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085774;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085775;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085776;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085777;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085778;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085779;1600500;Guard;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085780;1600500;Guard;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085781;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085782;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085783;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085784;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;4.887;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085785;800302;3-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;3;29.887;20.09;4.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085786;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;29.887;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085787;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;46.907;26.51;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085788;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;46.907;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085789;200600;Post;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;69.643;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085790;800201;2+;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;69.643;26.42;4.65;;;;;;;;Post;;Hook;;;;2017-12-07 11:45:05.102768
+77085791;200300;Pick'n'Roll;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;86.184;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77085792;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;86.184;25.10;8.28;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:45:05.102768
+77085793;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;86.184;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085794;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;86.184;26.84;7.50;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:45:05.102768
+77085795;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6233;Gary Harris;3;101.266;26.96;6.90;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:45:05.102768
+77085796;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;101.266;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085797;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;113.814;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77085798;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;113.814;22.58;8.22;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 11:45:05.102768
+77085799;200300;Pick'n'Roll;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;126.016;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085800;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;126.016;27.05;8.22;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:45:05.102768
+77085801;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;126.016;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085802;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;136.813;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085803;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;136.813;26.93;13.68;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:45:05.102768
+77085804;100200;Game stop;;;;;;;;;;;3;136.813;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085805;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;3;136.813;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085806;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;141.473;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085807;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;152.473;26.51;6.96;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:45:05.102768
+77085808;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;152.473;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085809;100200;Game stop;;;;;;;;;;;3;160.946;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085810;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;160.946;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085811;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;167.701;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085812;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;7662;Jameer Nelson;3222;Denver Nuggets;;;3;182.701;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085813;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;198.139;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085814;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;198.139;24.80;8.34;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085815;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;198.139;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085816;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;214.845;26.81;7.32;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:45:05.102768
+77085817;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;214.845;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085818;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;230.667;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77085819;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;230.667;21.98;8.97;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:45:05.102768
+77085820;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;230.667;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085821;800202;2-;6233;Gary Harris;3222;Denver Nuggets;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;255.103;26.72;5.64;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:45:05.102768
+77085822;100200;Game stop;;;;;;;;;;;3;255.103;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085823;100300;Rebound;;;3222;Denver Nuggets;;;;;;;3;255.103;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085824;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;284.880;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085825;100200;Game stop;;;;;;;;;;;3;301.880;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085826;100500;Turnover;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;301.880;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085827;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;318.469;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085828;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;339.469;24.95;6.24;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:45:05.102768
+77085829;100200;Game stop;;;;;;;;;;;3;339.469;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085830;100300;Rebound;;;3222;Denver Nuggets;;;;;;;3;339.469;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085831;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;354.077;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085832;800302;3-;6233;Gary Harris;3222;Denver Nuggets;;;;;;;3;357.077;20.75;3.27;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77085833;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;357.077;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085834;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;369.062;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085835;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;369.062;24.20;12.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085836;800201;2+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;394.061;21.83;4.05;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:45:05.102768
+77085837;100200;Game stop;;;;;;;;;;;3;409.180;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085838;300100;Foul;6237;Kenneth Faried;3222;Denver Nuggets;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;409.180;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085839;300300;Technical foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;6237;Kenneth Faried;3222;Denver Nuggets;;;3;409.180;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085840;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;465.635;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085841;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;465.635;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085842;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;465.635;23.18;3.09;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:45:05.102768
+77085843;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;465.635;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085844;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;481.990;26.72;7.68;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:45:05.102768
+77085845;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;481.990;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085846;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;481.990;26.66;7.95;;;;;;;;Putbacks;;;;;;2017-12-07 11:45:05.102768
+77085847;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;481.990;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085848;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;481.990;27.20;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:45:05.102768
+77085849;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;481.990;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085850;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;494.454;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085851;800201;2+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;494.454;26.27;1.86;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085852;100400;Steal;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;7662;Jameer Nelson;3222;Denver Nuggets;;;3;503.852;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085853;400101;Accurate pass;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;509.714;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085854;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;509.714;26.81;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:45:05.102768
+77085855;100200;Game stop;;;;;;;;;;;3;509.714;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085856;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;3;509.714;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085857;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;6237;Kenneth Faried;3222;Denver Nuggets;;;3;534.096;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085858;1600500;Guard;6235;Jusuf Nurkic;3222;Denver Nuggets;6234;Nikola Jokic;3222;Denver Nuggets;;;3;534.096;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085859;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;6233;Gary Harris;3222;Denver Nuggets;;;3;534.096;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085860;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;7662;Jameer Nelson;3222;Denver Nuggets;;;3;534.096;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085861;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;534.096;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085862;400101;Accurate pass;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6245;Darrell Arthur;3;534.096;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085863;800301;3+;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;3;534.096;19.58;7.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085864;800302;3-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;555.230;20.21;11.22;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085865;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;3;555.230;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085866;400101;Accurate pass;7534;Randy Foye;3222;Denver Nuggets;;;;;6235;Jusuf Nurkic;3;568.339;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085867;200300;Pick'n'Roll;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;7534;Randy Foye;3;568.339;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77085868;800201;2+;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;7534;Randy Foye;3;568.339;21.35;7.44;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:45:05.102768
+77085869;100200;Game stop;;;;;;;;;;;3;592.637;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085870;1600500;Guard;5316;Nikola Pekovic;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;592.637;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085871;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;618.597;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085872;100200;Game stop;;;;;;;;;;;3;622.597;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085873;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;622.597;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085874;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;634.468;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085875;400101;Accurate pass;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6235;Jusuf Nurkic;3;651.468;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085876;200300;Pick'n'Roll;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;3;651.468;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085877;800201;2+;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;3;651.468;26.99;7.32;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:45:05.102768
+77085878;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;683.501;26.84;6.90;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:45:05.102768
+77085879;100300;Rebound;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;3;683.501;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085880;800201;2+;7534;Randy Foye;3222;Denver Nuggets;;;;;;;3;689.811;26.51;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:45:05.102768
+77085881;100200;Game stop;;;;;;;;;;;3;689.811;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085882;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;3;689.811;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085883;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;719.253;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085884;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;719.253;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085885;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;719.253;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085886;200600;Post;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;719.253;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085887;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;719.253;24.65;12.03;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085888;800400;2+1;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;737.192;26.42;7.80;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:45:05.102768
+77085889;100200;Game stop;;;;;;;;;;;3;737.192;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085890;300100;Foul;5316;Nikola Pekovic;3174;Minnesota Timberwolves;6232;Danilo Gallinari;3222;Denver Nuggets;;;3;737.192;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085891;800101;1+;6232;Danilo Gallinari;3222;Denver Nuggets;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;3;762.961;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085892;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;767.728;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085893;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;779.728;25.10;7.68;;;;;;;;Screen off;;Floater;;;;2017-12-07 11:45:05.102768
+77085894;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;779.728;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085895;200600;Post;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;3;795.871;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085896;800600;2F;5316;Nikola Pekovic;3174;Minnesota Timberwolves;6245;Darrell Arthur;3222;Denver Nuggets;;;3;795.871;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:45:05.102768
+77085897;100200;Game stop;;;;;;;;;;;3;795.871;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085898;300100;Foul;6245;Darrell Arthur;3222;Denver Nuggets;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;3;795.871;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085899;800101;1+;5316;Nikola Pekovic;3174;Minnesota Timberwolves;6245;Darrell Arthur;3222;Denver Nuggets;;;3;819.116;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085900;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;3;836.474;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085901;800101;1+;5316;Nikola Pekovic;3174;Minnesota Timberwolves;6245;Darrell Arthur;3222;Denver Nuggets;;;3;836.474;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085902;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;839.471;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085903;400101;Accurate pass;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;3;855.471;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085904;800301;3+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6235;Jusuf Nurkic;3;855.471;19.13;7.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085905;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;3;877.642;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085906;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;877.642;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:45:05.102768
+77085907;400101;Accurate pass;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6231;Will Barton;3;894.591;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085908;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;6245;Darrell Arthur;3;894.591;26.84;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:45:05.102768
+77085909;200600;Post;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;909.716;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085910;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;3;909.716;25.52;8.04;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085911;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;3;909.716;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085912;400101;Accurate pass;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;3;922.465;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085913;200600;Post;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;922.465;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085914;800201;2+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6235;Jusuf Nurkic;3;922.465;27.38;7.26;;;;;;;;Post;;Lay up;;;;2017-12-07 11:45:05.102768
+77085915;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;3;945.520;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085916;800301;3+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;945.520;20.90;11.49;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77085917;800600;2F;6235;Jusuf Nurkic;3222;Denver Nuggets;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;964.476;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:45:05.102768
+77085918;100200;Game stop;;;;;;;;;;;3;964.476;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085919;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;3;964.476;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085920;800102;1-;6235;Jusuf Nurkic;3222;Denver Nuggets;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;988.693;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085921;100300;Rebound;;;3222;Denver Nuggets;;;;;;;3;988.693;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085922;1600500;Guard;104434;Kostas Papanikolaou;3222;Denver Nuggets;6232;Danilo Gallinari;3222;Denver Nuggets;;;3;1005.780;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085923;800101;1+;6235;Jusuf Nurkic;3222;Denver Nuggets;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1005.780;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085924;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1010.830;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085925;100200;Game stop;;;;;;;;;;;3;1027.030;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085926;300100;Foul;7534;Randy Foye;3222;Denver Nuggets;5307;Zach LaVine;3174;Minnesota Timberwolves;;;3;1027.030;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085927;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1046.267;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085928;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;1055.567;21.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:45:05.102768
+77085929;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;1055.567;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085930;1800500;Halftime;;;;;;;;;;;3;1055.567;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085931;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085932;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085933;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085934;1600500;Guard;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085935;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085936;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085937;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085938;1600500;Guard;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085939;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085940;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085941;1600500;Guard;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085942;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;2.281;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085943;100200;Game stop;;;;;;;;;;;4;13.281;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085944;300100;Foul;6231;Will Barton;3222;Denver Nuggets;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;13.281;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085945;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;25.999;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085946;400101;Accurate pass;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;4;31.999;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085947;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;4;31.999;25.82;13.14;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77085948;800302;3-;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;4;50.431;26.42;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085949;100300;Rebound;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;50.431;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085950;800302;3-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;60.084;23.45;1.32;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:45:05.102768
+77085951;100300;Rebound;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;4;60.084;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085952;100400;Steal;5307;Zach LaVine;3174;Minnesota Timberwolves;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;4;60.084;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085953;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;74.474;26.72;7.59;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:45:05.102768
+77085954;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;74.474;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085955;200300;Pick'n'Roll;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;7534;Randy Foye;4;85.682;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085956;800201;2+;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;7534;Randy Foye;4;85.682;26.99;7.59;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:45:05.102768
+77085957;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;103.701;20.18;4.89;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:45:05.102768
+77085958;100300;Rebound;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;103.701;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085959;800202;2-;6245;Darrell Arthur;3222;Denver Nuggets;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;125.772;25.97;9.12;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:45:05.102768
+77085960;100200;Game stop;;;;;;;;;;;4;125.772;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085961;100300;Rebound;;;3222;Denver Nuggets;;;;;;;4;125.772;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085962;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;140.403;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085963;400101;Accurate pass;6245;Darrell Arthur;3222;Denver Nuggets;;;;;7534;Randy Foye;4;143.403;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085964;800201;2+;7534;Randy Foye;3222;Denver Nuggets;;;;;6245;Darrell Arthur;4;143.403;26.42;1.47;;;;;;;;;;Jumper;;;;2017-12-07 11:45:05.102768
+77085965;100200;Game stop;;;;;;;;;;;4;167.067;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085966;300100;Foul;6235;Jusuf Nurkic;3222;Denver Nuggets;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;167.067;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085967;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;184.193;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085968;200600;Post;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;4;189.193;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085969;800600;2F;5316;Nikola Pekovic;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;189.193;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:45:05.102768
+77085970;100200;Game stop;;;;;;;;;;;4;189.193;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085971;300100;Foul;6235;Jusuf Nurkic;3222;Denver Nuggets;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;4;189.193;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085972;800101;1+;5316;Nikola Pekovic;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;210.859;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085973;800101;1+;5316;Nikola Pekovic;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;227.276;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085974;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;232.183;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085975;100200;Game stop;;;;;;;;;;;4;244.183;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085976;300100;Foul;5316;Nikola Pekovic;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;244.183;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085977;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;260.036;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085978;100200;Game stop;;;;;;;;;;;4;262.036;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085979;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;7534;Randy Foye;3222;Denver Nuggets;;;4;262.036;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085980;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;279.134;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085981;100200;Game stop;;;;;;;;;;;4;284.134;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085982;100500;Turnover;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;284.134;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085983;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;293.417;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085984;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;306.417;25.91;8.37;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77085985;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;306.417;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085986;800302;3-;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;4;315.818;21.11;12.45;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:45:05.102768
+77085987;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;315.818;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085988;800202;2-;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;;;4;321.909;22.73;13.23;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77085989;100300;Rebound;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;321.909;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085990;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;332.629;26.12;7.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:45:05.102768
+77085991;100200;Game stop;;;;;;;;;;;4;332.629;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085992;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;332.629;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085993;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;4;332.629;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085994;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;353.845;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77085995;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;358.845;21.26;10.35;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77085996;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;358.845;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085997;200600;Post;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;384.591;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77085998;800202;2-;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;384.591;25.64;8.22;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77085999;100200;Game stop;;;;;;;;;;;4;384.591;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086000;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;384.591;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086001;300100;Foul;6245;Darrell Arthur;3222;Denver Nuggets;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;384.591;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086002;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;399.154;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086003;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;410.154;26.06;6.96;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:45:05.102768
+77086004;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;410.154;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086005;100200;Game stop;;;;;;;;;;;4;418.687;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086006;300100;Foul;90354;Kevin Martina;3174;Minnesota Timberwolves;6231;Will Barton;3222;Denver Nuggets;;;4;418.687;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086007;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;4;452.709;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086008;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;452.709;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086009;1600500;Guard;6232;Danilo Gallinari;3222;Denver Nuggets;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;4;452.709;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086010;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;452.709;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086011;400101;Accurate pass;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6235;Jusuf Nurkic;4;452.709;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086012;200600;Post;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;452.709;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086013;800201;2+;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6245;Darrell Arthur;4;452.709;26.12;6.09;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77086014;100200;Game stop;;;;;;;;;;;4;471.408;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086015;100500;Turnover;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;471.408;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086016;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;502.504;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086017;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;502.504;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086018;400101;Accurate pass;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6235;Jusuf Nurkic;4;502.504;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086019;200600;Post;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;502.504;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086020;800201;2+;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6245;Darrell Arthur;4;502.504;26.12;6.72;;;;;;;;Post;;Hook;;;;2017-12-07 11:45:05.102768
+77086021;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;526.503;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:45:05.102768
+77086022;100200;Game stop;;;;;;;;;;;4;526.503;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086023;300100;Foul;6235;Jusuf Nurkic;3222;Denver Nuggets;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;526.503;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086024;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;557.477;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086025;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;557.477;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086026;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;578.946;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086027;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;578.946;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086028;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;578.946;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086029;100200;Game stop;;;;;;;;;;;4;578.946;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086030;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;578.946;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086031;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;593.763;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086032;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;599.763;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:45:05.102768
+77086033;100200;Game stop;;;;;;;;;;;4;599.763;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086034;300100;Foul;6235;Jusuf Nurkic;3222;Denver Nuggets;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;599.763;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086035;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;623.038;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086036;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;636.282;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086037;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;639.219;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086038;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;7534;Randy Foye;4;654.219;26.57;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77086039;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;654.219;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086040;100200;Game stop;;;;;;;;;;;4;674.901;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086041;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;674.901;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086042;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;692.702;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086043;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;696.702;19.58;8.91;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:45:05.102768
+77086044;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;696.702;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086045;800202;2-;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;723.916;24.65;8.52;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:45:05.102768
+77086046;100300;Rebound;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;723.916;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086047;800600;2F;6232;Danilo Gallinari;3222;Denver Nuggets;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;4;735.032;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:45:05.102768
+77086048;100200;Game stop;;;;;;;;;;;4;735.032;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086049;300100;Foul;5314;Tayshaun Prince;3174;Minnesota Timberwolves;6232;Danilo Gallinari;3222;Denver Nuggets;;;4;735.032;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086050;800101;1+;6232;Danilo Gallinari;3222;Denver Nuggets;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;4;757.152;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086051;800101;1+;6232;Danilo Gallinari;3222;Denver Nuggets;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;4;772.907;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086052;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;778.130;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086053;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;797.130;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77086054;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;797.130;21.71;7.95;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:45:05.102768
+77086055;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;797.130;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086056;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;839.740;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:45:05.102768
+77086057;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;839.740;23.18;10.38;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 11:45:05.102768
+77086058;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;839.740;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086059;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;4;855.614;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086060;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;855.614;27.35;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:45:05.102768
+77086061;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;887.687;26.12;2.94;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77086062;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;887.687;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086063;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;6231;Will Barton;3222;Denver Nuggets;;;4;887.687;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086064;100200;Game stop;;;;;;;;;;;4;887.687;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086065;300100;Foul;6231;Will Barton;3222;Denver Nuggets;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;887.687;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086066;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;6231;Will Barton;3222;Denver Nuggets;;;4;918.097;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086067;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;939.385;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086068;800102;1-;5309;Ricky Rubio;3174;Minnesota Timberwolves;6231;Will Barton;3222;Denver Nuggets;;;4;939.385;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086069;100300;Rebound;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;939.385;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086070;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;939.981;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086071;200600;Post;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;962.981;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086072;800202;2-;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;962.981;26.72;7.50;;;;;;;;Post;;Lay up;;;;2017-12-07 11:45:05.102768
+77086073;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;962.981;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086074;100200;Game stop;;;;;;;;;;;4;971.562;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086075;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;7534;Randy Foye;3222;Denver Nuggets;;;4;971.562;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086076;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;982.999;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086077;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;4;1006.999;22.97;3.78;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:45:05.102768
+77086078;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1006.999;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086079;800302;3-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;1024.718;26.51;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77086080;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;1024.718;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086081;100200;Game stop;;;;;;;;;;;4;1045.351;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086082;300100;Foul;6235;Jusuf Nurkic;3222;Denver Nuggets;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1045.351;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086083;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;4;1045.351;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086084;1600500;Guard;6233;Gary Harris;3222;Denver Nuggets;6231;Will Barton;3222;Denver Nuggets;;;4;1066.119;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086085;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;6235;Jusuf Nurkic;3222;Denver Nuggets;;;4;1066.119;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086086;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1066.119;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086087;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;6245;Darrell Arthur;3222;Denver Nuggets;;;4;1066.119;26.51;7.65;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:45:05.102768
+77086088;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;4;1066.119;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086089;800202;2-;6245;Darrell Arthur;3222;Denver Nuggets;;;;;7534;Randy Foye;4;1085.722;25.97;3.51;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:45:05.102768
+77086090;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;4;1085.722;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086091;800302;3-;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6233;Gary Harris;4;1103.028;26.66;0.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77086092;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1103.028;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086093;800202;2-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;4;1120.570;26.12;2.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:45:05.102768
+77086094;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;4;1120.570;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086095;200600;Post;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;4;1131.308;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086096;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;4;1131.308;26.72;10.68;;;;;;;;Post;;Jumper;;;;2017-12-07 11:45:05.102768
+77086097;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;4;1131.308;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086098;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;4;1155.593;21.35;4.47;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:45:05.102768
+77086099;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1155.593;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086100;100200;Game stop;;;;;;;;;;;4;1166.760;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086101;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;1166.760;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086102;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1184.017;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086103;100400;Steal;6245;Darrell Arthur;3222;Denver Nuggets;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1191.717;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086104;800302;3-;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;1269.265;20.63;3.87;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:45:05.102768
+77086105;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;4;1269.265;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086106;100200;Game stop;;;;;;;;;;;4;1276.904;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086107;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;1276.904;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086108;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;4;1302.467;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086109;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;6234;Nikola Jokic;3222;Denver Nuggets;;;4;1302.467;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086110;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1302.467;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086111;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1302.467;22.97;9.12;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:45:05.102768
+77086112;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1302.467;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086113;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;1302.467;22.97;8.73;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:45:05.102768
+77086114;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1302.467;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086115;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;6245;Darrell Arthur;3222;Denver Nuggets;;;4;1302.467;27.05;6.63;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:45:05.102768
+77086116;100200;Game stop;;;;;;;;;;;4;1302.467;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086117;100300;Rebound;;;3222;Denver Nuggets;;;;;;;4;1302.467;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086118;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;4;1302.467;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086119;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;6245;Darrell Arthur;3222;Denver Nuggets;;;4;1334.900;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086120;1600500;Guard;6248;Mike Miller;3222;Denver Nuggets;6233;Gary Harris;3222;Denver Nuggets;;;4;1334.900;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086121;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;1334.900;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086122;800600;2F;6231;Will Barton;3222;Denver Nuggets;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;1334.900;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086123;100200;Game stop;;;;;;;;;;;4;1334.900;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086124;300100;Foul;90354;Kevin Martina;3174;Minnesota Timberwolves;6231;Will Barton;3222;Denver Nuggets;;;4;1334.900;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086125;800101;1+;6231;Will Barton;3222;Denver Nuggets;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;1366.663;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086126;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1388.137;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086127;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;6248;Mike Miller;3222;Denver Nuggets;;;4;1388.137;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086128;800101;1+;6231;Will Barton;3222;Denver Nuggets;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;1388.137;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086129;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;1388.137;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086130;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;1410.820;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086131;1600500;Guard;6233;Gary Harris;3222;Denver Nuggets;7662;Jameer Nelson;3222;Denver Nuggets;;;4;1410.820;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086132;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1410.820;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+77086133;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1410.820;21.05;5.16;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:45:05.102768
+77086134;100300;Rebound;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;4;1410.820;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+77086135;1800700;Match end;;;;;;;;;;;4;1411.320;;;;;;;;;;;;;;;;2017-12-07 11:45:05.102768
+102325949;100500;Turnover;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;676.572;;;;;;;;;;;;;;;;2018-02-26 10:11:03.554855
+102325950;100500;Turnover;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;1;1142.708;;;;;;;;;;;;;;;;2018-02-26 10:11:03.554855
+102325951;100500;Turnover;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;4;971.562;;;;;;;;;;;;;;;;2018-02-26 10:11:03.554855
+102325952;100500;Turnover;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;4;1045.351;;;;;;;;;;;;;;;;2018-02-26 10:11:03.554855
+103649354;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;1;57.818;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649356;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6234;Nikola Jokic;1;84.195;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649358;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;108.888;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649360;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6234;Nikola Jokic;1;122.292;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649362;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;144.834;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649364;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;229.733;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649366;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;247.052;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649368;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;310.596;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649370;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;331.584;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649372;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;395.619;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649374;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;446.374;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649376;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;498.605;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649378;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;1;578.838;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649380;200900;Assisting;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;725.228;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649382;200900;Assisting;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;734.819;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649384;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;763.323;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649386;200900;Assisting;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;1;829.566;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649388;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;889.971;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649390;200900;Assisting;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;1;958.858;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649392;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;1014.363;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649394;200900;Assisting;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;1105.995;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649396;200900;Assisting;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6245;Darrell Arthur;2;26.529;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649398;200900;Assisting;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;74.577;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649400;200900;Assisting;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;2;125.501;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649402;200900;Assisting;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;7534;Randy Foye;2;193.460;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649404;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;210.771;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649406;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;243.180;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649408;200900;Assisting;104434;Kostas Papanikolaou;3222;Denver Nuggets;;;;;6231;Will Barton;2;261.623;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649410;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;275.881;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649412;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;352.318;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649414;200900;Assisting;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;372.077;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649416;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;7534;Randy Foye;2;413.368;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649418;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;474.497;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649420;200900;Assisting;6233;Gary Harris;3222;Denver Nuggets;;;;;6234;Nikola Jokic;2;582.544;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649422;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;599.618;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649424;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;663.937;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649426;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;693.707;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649428;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;2;787.388;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649430;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;939.269;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649432;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;2;1010.214;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649434;200900;Assisting;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;1097.978;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649436;200900;Assisting;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;69.643;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649438;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;86.184;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649440;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;113.814;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649442;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;136.813;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649444;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;369.062;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649446;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;394.061;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649448;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;494.454;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649450;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;3;509.714;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649452;200900;Assisting;6245;Darrell Arthur;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;3;534.096;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649454;200900;Assisting;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;7534;Randy Foye;3;568.339;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649456;200900;Assisting;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;3;651.468;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649458;200900;Assisting;7534;Randy Foye;3222;Denver Nuggets;;;;;;;3;689.811;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649460;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;719.253;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649462;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;737.192;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649464;200900;Assisting;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;3;795.871;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649466;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6235;Jusuf Nurkic;3;855.471;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649468;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;877.642;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649470;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;6245;Darrell Arthur;3;894.591;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649472;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6235;Jusuf Nurkic;3;922.465;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649474;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;945.520;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649476;200900;Assisting;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;;;3;964.476;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649478;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;4;31.999;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649480;200900;Assisting;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;7534;Randy Foye;4;85.682;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649482;200900;Assisting;7534;Randy Foye;3222;Denver Nuggets;;;;;6245;Darrell Arthur;4;143.403;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649484;200900;Assisting;5316;Nikola Pekovic;3174;Minnesota Timberwolves;;;;;;;4;189.193;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649486;200900;Assisting;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6245;Darrell Arthur;4;452.709;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649488;200900;Assisting;6235;Jusuf Nurkic;3222;Denver Nuggets;;;;;6245;Darrell Arthur;4;502.504;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649490;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;526.503;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649492;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;599.763;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649494;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;4;735.032;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649496;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;855.614;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649498;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;887.687;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334
+103649500;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;1334.900;;;;;;;;;;;;;;;;2018-04-19 11:01:05.175334

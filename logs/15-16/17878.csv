@@ -1,0 +1,790 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76975671;1601000;Starting lineup;6248;Mike Miller;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975672;1601000;Starting lineup;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975673;1601000;Starting lineup;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975674;1601000;Starting lineup;7534;Randy Foye;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975675;1601000;Starting lineup;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975676;1601000;Starting lineup;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975677;1601000;Starting lineup;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975678;1601000;Starting lineup;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975679;1601000;Starting lineup;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975680;1601000;Starting lineup;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975681;1601000;Starting lineup;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975682;1601000;Starting lineup;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975683;1601000;Starting lineup;9367;Jason Smith;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975684;1601000;Starting lineup;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975685;1601000;Starting lineup;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975686;1601000;Starting lineup;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975687;1601000;Starting lineup;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975688;1601000;Starting lineup;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975689;1601000;Starting lineup;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975690;1601000;Starting lineup;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975691;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975692;1600500;Guard;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975693;1600500;Guard;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975694;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975695;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975696;1600500;Guard;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975697;1600500;Guard;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975698;1600500;Guard;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975699;1600500;Guard;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975700;1600500;Guard;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975701;1600500;Guard;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975702;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;76.794;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975703;400101;Accurate pass;6111;Nikola Vucevic;3226;Orlando Magic;;;;;1886;Tobias Harris;1;93.794;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975704;200600;Post;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;93.794;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975705;800201;2+;1886;Tobias Harris;3226;Orlando Magic;;;;;6111;Nikola Vucevic;1;93.794;26.57;10.50;;;;;;;;Post;;Hook;;;;2017-12-07 10:55:05.030841
+76975706;200300;Pick'n'Roll;85769;JJ Hickson;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;1;108.148;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975707;800202;2-;85769;JJ Hickson;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;1;108.148;21.98;7.56;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 10:55:05.030841
+76975708;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;108.148;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975709;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;117.117;27.02;7.62;;;;;;;;;;Dunk;;;;2017-12-07 10:55:05.030841
+76975710;400101;Accurate pass;7534;Randy Foye;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;1;143.113;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975711;800201;2+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7534;Randy Foye;1;143.113;22.88;12.21;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:55:05.030841
+76975712;800201;2+;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;156.432;25.97;8.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76975713;200600;Post;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;174.083;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975714;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;174.083;26.81;9.45;;;;;;;;Post;;Jumper;;;;2017-12-07 10:55:05.030841
+76975715;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;174.083;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975716;100200;Game stop;;;;;;;;;;;1;178.806;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975717;300100;Foul;6237;Kenneth Faried;3222;Denver Nuggets;1891;Channing Frye;3226;Orlando Magic;;;1;178.806;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975718;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;195.637;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975719;800302;3-;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;203.637;21.95;2.55;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:55:05.030841
+76975720;100300;Rebound;7534;Randy Foye;3222;Denver Nuggets;;;;;;;1;203.637;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975721;400101;Accurate pass;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;1;218.480;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975722;800301;3+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7534;Randy Foye;1;218.480;22.37;2.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975723;200300;Pick'n'Roll;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;236.269;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:55:05.030841
+76975724;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;236.269;20.81;7.02;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:55:05.030841
+76975725;100300;Rebound;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;1;236.269;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975726;800302;3-;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;1;249.953;21.95;13.53;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975727;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;249.953;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975728;100400;Steal;6237;Kenneth Faried;3222;Denver Nuggets;1891;Channing Frye;3226;Orlando Magic;;;1;256.831;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975729;100200;Game stop;;;;;;;;;;;1;259.127;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975730;100500;Turnover;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;259.127;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975731;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;276.456;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975732;800202;2-;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;283.456;26.57;7.05;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76975733;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;1;283.456;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975734;800202;2-;85769;JJ Hickson;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;1;291.401;26.72;8.37;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76975735;100300;Rebound;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;1;293.180;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975736;800600;2F;85769;JJ Hickson;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;1;300.337;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:55:05.030841
+76975737;100200;Game stop;;;;;;;;;;;1;300.337;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975738;300100;Foul;1886;Tobias Harris;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;1;300.337;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975739;800102;1-;85769;JJ Hickson;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;1;321.123;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975740;100300;Rebound;;;3222;Denver Nuggets;;;;;;;1;321.123;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975741;800101;1+;85769;JJ Hickson;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;1;334.829;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975742;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;334.829;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975743;800201;2+;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;350.284;26.99;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76975744;100400;Steal;1891;Channing Frye;3226;Orlando Magic;7534;Randy Foye;3222;Denver Nuggets;;;1;362.055;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975745;400101;Accurate pass;6113;Elfrid Payton;3226;Orlando Magic;;;;;1886;Tobias Harris;1;370.411;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975746;800201;2+;1886;Tobias Harris;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;370.411;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 10:55:05.030841
+76975747;100400;Steal;1891;Channing Frye;3226;Orlando Magic;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;1;408.582;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975748;200300;Pick'n'Roll;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;419.392;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:55:05.030841
+76975749;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;419.392;22.73;10.80;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:55:05.030841
+76975750;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;419.392;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975751;400101;Accurate pass;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;7534;Randy Foye;1;439.270;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975752;800301;3+;7534;Randy Foye;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;1;439.270;26.84;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975753;800202;2-;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;456.410;21.41;6.33;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76975754;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;456.410;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975755;800600;2F;6232;Danilo Gallinari;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;1;463.069;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:55:05.030841
+76975756;100200;Game stop;;;;;;;;;;;1;463.069;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975757;300100;Foul;6121;Evan Fournier;3226;Orlando Magic;6232;Danilo Gallinari;3222;Denver Nuggets;;;1;463.069;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975758;800101;1+;6232;Danilo Gallinari;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;1;484.158;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975759;800101;1+;6232;Danilo Gallinari;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;1;497.224;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975760;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;498.521;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975761;200600;Post;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;514.521;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975762;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;514.521;26.99;5.40;;;;;;;;Post;;Hook;;;;2017-12-07 10:55:05.030841
+76975763;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;514.521;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975764;800600;2F;6229;Emmanuel Mudiay;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;1;520.994;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:55:05.030841
+76975765;100200;Game stop;;;;;;;;;;;1;520.994;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975766;300100;Foul;6121;Evan Fournier;3226;Orlando Magic;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;1;520.994;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975767;800101;1+;6229;Emmanuel Mudiay;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;1;544.488;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975768;1600500;Guard;7465;Victor Oladipo;3226;Orlando Magic;6121;Evan Fournier;3226;Orlando Magic;;;1;544.488;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975769;800101;1+;6229;Emmanuel Mudiay;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;1;560.303;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975770;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;562.577;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975771;400101;Accurate pass;6113;Elfrid Payton;3226;Orlando Magic;;;;;6111;Nikola Vucevic;1;577.577;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975772;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;577.577;26.12;6.87;;;;;;;;Cut;;Hook;;;;2017-12-07 10:55:05.030841
+76975773;800201;2+;85769;JJ Hickson;3222;Denver Nuggets;;;;;7534;Randy Foye;1;592.619;26.66;7.68;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:55:05.030841
+76975774;100200;Game stop;;;;;;;;;;;1;610.772;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975775;300100;Foul;1891;Channing Frye;3226;Orlando Magic;6237;Kenneth Faried;3222;Denver Nuggets;;;1;610.772;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975776;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;626.308;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975777;100400;Steal;6111;Nikola Vucevic;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;1;636.308;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975778;400101;Accurate pass;6113;Elfrid Payton;3226;Orlando Magic;;;;;1886;Tobias Harris;1;643.125;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975779;800400;2+1;1886;Tobias Harris;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;643.125;26.84;8.13;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76975780;100200;Game stop;;;;;;;;;;;1;643.125;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975781;300100;Foul;7534;Randy Foye;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;1;643.125;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975782;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;1;643.125;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975783;800101;1+;1886;Tobias Harris;3226;Orlando Magic;7534;Randy Foye;3222;Denver Nuggets;;;1;682.186;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975784;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;685.835;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975785;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;1;711.835;26.96;3.96;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:55:05.030841
+76975786;100300;Rebound;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;711.835;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975787;800600;2F;7465;Victor Oladipo;3226;Orlando Magic;7534;Randy Foye;3222;Denver Nuggets;;;1;720.438;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:55:05.030841
+76975788;100200;Game stop;;;;;;;;;;;1;720.438;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975789;300100;Foul;7534;Randy Foye;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;1;720.438;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975790;800102;1-;7465;Victor Oladipo;3226;Orlando Magic;7534;Randy Foye;3222;Denver Nuggets;;;1;742.808;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975791;100300;Rebound;;;3226;Orlando Magic;;;;;;;1;742.808;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975792;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;7534;Randy Foye;3222;Denver Nuggets;;;1;761.101;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975793;800101;1+;7465;Victor Oladipo;3226;Orlando Magic;7534;Randy Foye;3222;Denver Nuggets;;;1;761.101;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975794;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;762.324;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975795;400101;Accurate pass;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;6237;Kenneth Faried;1;783.324;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975796;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;1;783.324;24.35;6.36;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 10:55:05.030841
+76975797;800302;3-;1886;Tobias Harris;3226;Orlando Magic;;;;;6111;Nikola Vucevic;1;808.735;19.73;8.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975798;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;808.735;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975799;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;;;1;817.212;22.88;8.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76975800;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;817.212;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975801;800202;2-;6113;Elfrid Payton;3226;Orlando Magic;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;1;826.573;26.51;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76975802;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;1;826.573;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975803;400101;Accurate pass;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6231;Will Barton;1;832.759;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975804;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;6237;Kenneth Faried;1;832.759;26.66;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76975805;800201;2+;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;850.401;20.81;7.65;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:55:05.030841
+76975806;100200;Game stop;;;;;;;;;;;1;862.773;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975807;100500;Turnover;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;1;862.773;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975808;1600500;Guard;6116;Andrew Nicholson;3226;Orlando Magic;1891;Channing Frye;3226;Orlando Magic;;;1;895.280;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975809;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;6237;Kenneth Faried;3222;Denver Nuggets;;;1;895.280;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975810;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;1;895.280;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975811;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;895.280;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975812;200600;Post;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;895.280;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975813;800201;2+;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;895.280;26.99;10.65;;;;;;;;Post;;Jumper;;;;2017-12-07 10:55:05.030841
+76975814;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;1;911.530;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975815;800201;2+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;911.530;23.45;3.93;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:55:05.030841
+76975816;100200;Game stop;;;;;;;;;;;1;927.154;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975817;100500;Turnover;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;927.154;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975818;1600500;Guard;6114;Mario Hezonja;3226;Orlando Magic;1886;Tobias Harris;3226;Orlando Magic;;;1;967.801;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975819;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;967.801;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975820;100200;Game stop;;;;;;;;;;;1;967.801;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975821;1800600;Timeout;;;3226;Orlando Magic;;;;;;;1;967.801;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975822;300100;Foul;6114;Mario Hezonja;3226;Orlando Magic;6232;Danilo Gallinari;3222;Denver Nuggets;;;1;967.801;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975823;1600500;Guard;9367;Jason Smith;3226;Orlando Magic;6111;Nikola Vucevic;3226;Orlando Magic;;;1;1007.603;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975824;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;1007.603;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975825;200600;Post;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;1007.603;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975826;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;1007.603;26.66;8.43;;;;;;;;Post;;Lay up;;;;2017-12-07 10:55:05.030841
+76975827;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;1007.603;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975828;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;1026.469;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975829;200300;Pick'n'Roll;9367;Jason Smith;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;1026.556;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:55:05.030841
+76975830;800202;2-;9367;Jason Smith;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;1026.556;21.56;5.94;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:55:05.030841
+76975831;800302;3-;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;1027.922;21.98;2.31;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975832;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;1027.922;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975833;200300;Pick'n'Roll;85769;JJ Hickson;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;1041.285;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975834;800202;2-;85769;JJ Hickson;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;1041.285;26.99;7.17;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 10:55:05.030841
+76975835;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;1041.285;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975836;100200;Game stop;;;;;;;;;;;1;1061.625;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975837;100500;Turnover;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;1061.625;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975838;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;85769;JJ Hickson;3222;Denver Nuggets;;;1;1100.813;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975839;1600500;Guard;7505;Shabazz Napier;3226;Orlando Magic;6113;Elfrid Payton;3226;Orlando Magic;;;1;1100.813;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975840;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;1100.813;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975841;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;1;1100.813;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975842;200300;Pick'n'Roll;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;1100.813;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975843;800201;2+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;1100.813;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 10:55:05.030841
+76975844;800201;2+;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;1122.417;26.81;8.04;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76975845;800301;3+;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;1137.227;21.71;13.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76975846;200300;Pick'n'Roll;6116;Andrew Nicholson;3226;Orlando Magic;;;;;7505;Shabazz Napier;1;1152.294;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:55:05.030841
+76975847;800201;2+;6116;Andrew Nicholson;3226;Orlando Magic;;;;;7505;Shabazz Napier;1;1152.294;26.57;5.79;;;;;;;;Pick'n'pop;;Hook;Drives Right;;;2017-12-07 10:55:05.030841
+76975848;100400;Steal;7505;Shabazz Napier;3226;Orlando Magic;7662;Jameer Nelson;3222;Denver Nuggets;;;1;1164.976;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975849;100400;Steal;6231;Will Barton;3222;Denver Nuggets;7505;Shabazz Napier;3226;Orlando Magic;;;1;1168.459;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975850;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;1192.128;26.96;8.04;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 10:55:05.030841
+76975851;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;1192.128;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975852;100200;Game stop;;;;;;;;;;;1;1199.863;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975853;300100;Foul;6234;Nikola Jokic;3222;Denver Nuggets;9367;Jason Smith;3226;Orlando Magic;;;1;1199.863;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975854;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;1218.928;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975855;800302;3-;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;1;1223.928;21.83;1.95;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76975856;100200;Game stop;;;;;;;;;;;1;1223.928;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975857;100300;Rebound;;;3226;Orlando Magic;;;;;;;1;1223.928;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975858;800600;2F;9367;Jason Smith;3226;Orlando Magic;7662;Jameer Nelson;3222;Denver Nuggets;;;1;1225.462;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975859;300100;Foul;7662;Jameer Nelson;3222;Denver Nuggets;9367;Jason Smith;3226;Orlando Magic;;;1;1225.462;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975860;800101;1+;9367;Jason Smith;3226;Orlando Magic;7662;Jameer Nelson;3222;Denver Nuggets;;;1;1247.755;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975861;800101;1+;9367;Jason Smith;3226;Orlando Magic;7662;Jameer Nelson;3222;Denver Nuggets;;;1;1258.259;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975862;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;1;1258.259;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975863;1800500;Halftime;;;;;;;;;;;1;1258.959;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975864;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975865;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975866;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975867;1600500;Guard;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975868;1600500;Guard;6248;Mike Miller;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975869;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975870;1600500;Guard;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975871;1600500;Guard;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975872;1600500;Guard;6121;Evan Fournier;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975873;1600500;Guard;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975874;1600500;Guard;9367;Jason Smith;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975875;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;9.215;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975876;100300;Rebound;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;28.215;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975877;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;28.215;24.74;10.98;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:55:05.030841
+76975878;100400;Steal;6245;Darrell Arthur;3222;Denver Nuggets;6114;Mario Hezonja;3226;Orlando Magic;;;2;33.369;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975879;800202;2-;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;34.847;24.20;12.90;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975880;100200;Game stop;;;;;;;;;;;2;34.847;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975881;100300;Rebound;;;3222;Denver Nuggets;;;;;;;2;34.847;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975882;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;48.404;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975883;200600;Post;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;60.404;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975884;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;60.404;26.84;4.86;;;;;;;;Post;;Hook;;;;2017-12-07 10:55:05.030841
+76975885;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;60.404;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975886;200600;Post;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;80.860;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975887;800201;2+;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;80.860;26.84;7.98;;;;;;;;Post;;Lay up;;;;2017-12-07 10:55:05.030841
+76975888;400101;Accurate pass;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6231;Will Barton;2;93.833;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975889;800301;3+;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;93.833;22.88;14.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975890;100200;Game stop;;;;;;;;;;;2;108.344;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975891;300100;Foul;6116;Andrew Nicholson;3226;Orlando Magic;6245;Darrell Arthur;3222;Denver Nuggets;;;2;108.344;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975892;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;121.441;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975893;100200;Game stop;;;;;;;;;;;2;135.441;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975894;300100;Foul;9367;Jason Smith;3226;Orlando Magic;6234;Nikola Jokic;3222;Denver Nuggets;;;2;135.441;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975895;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;153.542;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975896;800600;2F;6231;Will Barton;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;2;157.542;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:55:05.030841
+76975897;100200;Game stop;;;;;;;;;;;2;157.542;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975898;300100;Foul;6121;Evan Fournier;3226;Orlando Magic;6231;Will Barton;3222;Denver Nuggets;;;2;157.542;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975899;800102;1-;6231;Will Barton;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;2;182.596;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975900;100300;Rebound;;;3222;Denver Nuggets;;;;;;;2;182.596;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975901;1600500;Guard;6113;Elfrid Payton;3226;Orlando Magic;6121;Evan Fournier;3226;Orlando Magic;;;2;199.631;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975902;800101;1+;6231;Will Barton;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;2;199.631;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975903;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;205.075;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975904;800302;3-;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;216.075;27.23;14.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:55:05.030841
+76975905;100300;Rebound;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;215.684;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975906;800202;2-;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;215.684;26.63;7.65;;;;;;;;Putbacks;;;;;;2017-12-07 10:55:05.030841
+76975907;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;216.185;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975908;400101;Accurate pass;7465;Victor Oladipo;3226;Orlando Magic;;;;;6116;Andrew Nicholson;2;224.090;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975909;200600;Post;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;224.090;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975910;800201;2+;6116;Andrew Nicholson;3226;Orlando Magic;;;;;7465;Victor Oladipo;2;224.090;24.29;12.42;;;;;;;;Post;;Jumper;;;;2017-12-07 10:55:05.030841
+76975911;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;237.393;26.51;7.17;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 10:55:05.030841
+76975912;800202;2-;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;2;250.062;26.72;6.33;;;;;;;;Hand offs;;Hook;;;;2017-12-07 10:55:05.030841
+76975913;100300;Rebound;6245;Darrell Arthur;3222;Denver Nuggets;;;;;;;2;250.062;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975914;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;261.162;26.84;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975915;100300;Rebound;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;261.162;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975916;800202;2-;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;271.780;26.12;6.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76975917;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;2;271.780;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975918;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;277.902;26.57;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76975919;100300;Rebound;9367;Jason Smith;3226;Orlando Magic;;;;;;;2;277.902;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975920;100400;Steal;6248;Mike Miller;3222;Denver Nuggets;6116;Andrew Nicholson;3226;Orlando Magic;;;2;287.457;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975921;400101;Accurate pass;6248;Mike Miller;3222;Denver Nuggets;;;;;6234;Nikola Jokic;2;302.127;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975922;200300;Pick'n'Roll;6248;Mike Miller;3222;Denver Nuggets;;;;;6234;Nikola Jokic;2;302.127;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975923;800201;2+;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6248;Mike Miller;2;302.127;24.95;3.87;;;;;;;;Pick'n'Roll;;Hook;;Quick first step;;2017-12-07 10:55:05.030841
+76975924;200300;Pick'n'Roll;9367;Jason Smith;3226;Orlando Magic;;;;;7465;Victor Oladipo;2;318.332;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975925;800202;2-;9367;Jason Smith;3226;Orlando Magic;7662;Jameer Nelson;3222;Denver Nuggets;7465;Victor Oladipo;2;318.332;26.96;7.50;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:55:05.030841
+76975926;100200;Game stop;;;;;;;;;;;2;318.332;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975927;100300;Rebound;;;3226;Orlando Magic;;;;;;;2;318.332;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975928;1800600;Timeout;;;;;;;;;;;2;318.332;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975929;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;6245;Darrell Arthur;3222;Denver Nuggets;;;2;351.255;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975930;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;351.255;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975931;800202;2-;9367;Jason Smith;3226;Orlando Magic;;;;;;;2;351.255;21.65;6.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975932;100300;Rebound;6248;Mike Miller;3222;Denver Nuggets;;;;;;;2;351.255;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975933;100200;Game stop;;;;;;;;;;;2;364.484;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975934;300100;Foul;6248;Mike Miller;3222;Denver Nuggets;9367;Jason Smith;3226;Orlando Magic;;;2;364.484;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975935;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;378.325;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975936;800202;2-;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;388.325;23.60;10.65;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:55:05.030841
+76975937;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;388.325;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975938;800302;3-;7662;Jameer Nelson;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;2;410.997;21.26;2.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975939;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;411.392;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975940;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;411.392;26.57;6.42;;;;;;;;Putbacks;;Hook;;;;2017-12-07 10:55:05.030841
+76975941;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;411.392;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975942;800302;3-;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;420.744;21.26;3.09;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:55:05.030841
+76975943;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;2;420.744;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975944;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;427.645;26.66;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76975945;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;427.645;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975946;100200;Game stop;;;;;;;;;;;2;437.512;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975947;300100;Foul;7465;Victor Oladipo;3226;Orlando Magic;7662;Jameer Nelson;3222;Denver Nuggets;;;2;437.512;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975948;1600500;Guard;1886;Tobias Harris;3226;Orlando Magic;9367;Jason Smith;3226;Orlando Magic;;;2;479.638;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975949;1600500;Guard;1891;Channing Frye;3226;Orlando Magic;6116;Andrew Nicholson;3226;Orlando Magic;;;2;479.638;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975950;1600500;Guard;6111;Nikola Vucevic;3226;Orlando Magic;6114;Mario Hezonja;3226;Orlando Magic;;;2;479.638;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975951;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;479.638;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975952;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;479.638;26.66;14.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975953;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;2;479.638;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975954;100400;Steal;7662;Jameer Nelson;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;2;495.217;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975955;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;2;501.624;26.42;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76975956;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;2;501.624;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975957;100200;Game stop;;;;;;;;;;;2;503.833;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975958;300100;Foul;6248;Mike Miller;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;2;503.833;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975959;1600500;Guard;85769;JJ Hickson;3222;Denver Nuggets;6234;Nikola Jokic;3222;Denver Nuggets;;;2;582.247;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975960;1600500;Guard;6229;Emmanuel Mudiay;3222;Denver Nuggets;7662;Jameer Nelson;3222;Denver Nuggets;;;2;582.247;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975961;1600500;Guard;6232;Danilo Gallinari;3222;Denver Nuggets;6248;Mike Miller;3222;Denver Nuggets;;;2;582.247;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975962;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;582.247;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975963;400101;Accurate pass;7465;Victor Oladipo;3226;Orlando Magic;;;;;6111;Nikola Vucevic;2;582.247;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975964;200600;Post;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;2;582.247;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975965;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;7465;Victor Oladipo;2;582.247;27.02;7.62;;;;;;;;Post;;Dunk;;;;2017-12-07 10:55:05.030841
+76975966;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;601.133;25.52;7.95;;;;;;;;Hand offs;;Floater;;;;2017-12-07 10:55:05.030841
+76975967;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;2;600.297;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975968;100400;Steal;1886;Tobias Harris;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;2;600.297;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975969;100200;Game stop;;;;;;;;;;;2;608.340;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975970;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;2;608.340;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975971;100500;Turnover;1886;Tobias Harris;3226;Orlando Magic;;;;;;;2;608.340;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975972;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;627.156;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975973;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;2;645.156;26.72;8.19;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:55:05.030841
+76975974;100300;Rebound;1891;Channing Frye;3226;Orlando Magic;;;;;;;2;645.156;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975975;800302;3-;1891;Channing Frye;3226;Orlando Magic;;;;;7465;Victor Oladipo;2;667.073;27.08;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76975976;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;2;667.073;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975977;400101;Accurate pass;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;6231;Will Barton;2;679.347;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975978;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;2;679.347;26.99;7.95;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:55:05.030841
+76975979;100400;Steal;6231;Will Barton;3222;Denver Nuggets;6113;Elfrid Payton;3226;Orlando Magic;;;2;689.845;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975980;800400;2+1;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;695.926;26.72;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76975981;100200;Game stop;;;;;;;;;;;2;695.926;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975982;300100;Foul;6113;Elfrid Payton;3226;Orlando Magic;6231;Will Barton;3222;Denver Nuggets;;;2;695.926;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975983;800101;1+;6231;Will Barton;3222;Denver Nuggets;6113;Elfrid Payton;3226;Orlando Magic;;;2;725.130;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975984;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;730.173;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975985;800600;2F;1886;Tobias Harris;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;2;738.173;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:55:05.030841
+76975986;100200;Game stop;;;;;;;;;;;2;738.173;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975987;300100;Foul;85769;JJ Hickson;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;2;738.173;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975988;800101;1+;1886;Tobias Harris;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;2;762.168;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975989;800101;1+;1886;Tobias Harris;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;2;778.673;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975990;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;783.163;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975991;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;2;804.163;23.90;13.29;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:55:05.030841
+76975992;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;2;804.069;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975993;800201;2+;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;2;804.069;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 10:55:05.030841
+76975994;800302;3-;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;825.746;19.49;9.57;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:55:05.030841
+76975995;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;825.746;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975996;100200;Game stop;;;;;;;;;;;2;833.255;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975997;100500;Turnover;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;2;833.255;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76975998;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;845.606;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76975999;800202;2-;1886;Tobias Harris;3226;Orlando Magic;;;;;;;2;864.606;25.52;13.65;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:55:05.030841
+76976000;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;2;868.346;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976001;400101;Accurate pass;6111;Nikola Vucevic;3226;Orlando Magic;;;;;1886;Tobias Harris;2;870.229;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976002;800201;2+;1886;Tobias Harris;3226;Orlando Magic;;;;;6111;Nikola Vucevic;2;870.229;26.66;7.20;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:55:05.030841
+76976003;400101;Accurate pass;6231;Will Barton;3222;Denver Nuggets;;;;;6237;Kenneth Faried;2;887.419;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976004;800201;2+;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6231;Will Barton;2;887.419;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 10:55:05.030841
+76976005;400101;Accurate pass;6111;Nikola Vucevic;3226;Orlando Magic;;;;;1886;Tobias Harris;2;903.904;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976006;800201;2+;1886;Tobias Harris;3226;Orlando Magic;;;;;6113;Elfrid Payton;2;903.904;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 10:55:05.030841
+76976007;100200;Game stop;;;;;;;;;;;2;922.249;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976008;1800600;Timeout;;;3226;Orlando Magic;;;;;;;2;922.249;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976009;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;931.573;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976010;800202;2-;1891;Channing Frye;3226;Orlando Magic;;;;;1886;Tobias Harris;2;967.573;25.10;7.17;;;;;;;;Catch and Drive;;Hook;Drives Right;;;2017-12-07 10:55:05.030841
+76976011;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;967.573;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976012;800201;2+;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;2;975.351;26.72;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76976013;100400;Steal;6229;Emmanuel Mudiay;3222;Denver Nuggets;6113;Elfrid Payton;3226;Orlando Magic;;;2;987.806;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976014;100400;Steal;6113;Elfrid Payton;3226;Orlando Magic;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;2;993.531;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976015;800202;2-;6113;Elfrid Payton;3226;Orlando Magic;6237;Kenneth Faried;3222;Denver Nuggets;;;2;990.586;26.99;7.26;;;;;;;;;;Dunk;;;;2017-12-07 10:55:05.030841
+76976016;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;2;990.586;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976017;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;2;1026.662;22.43;7.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976018;100200;Game stop;;;;;;;;;;;2;1026.662;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976019;100300;Rebound;;;3222;Denver Nuggets;;;;;;;2;1026.662;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976020;300100;Foul;6111;Nikola Vucevic;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;2;1026.662;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976021;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;2;1045.928;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976022;400101;Accurate pass;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;2;1053.928;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976023;800201;2+;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;2;1053.928;23.90;9.42;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:55:05.030841
+76976024;800201;2+;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;1070.160;26.96;7.20;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76976025;100200;Game stop;;;;;;;;;;;2;1081.791;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976026;100500;Turnover;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;2;1081.791;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976027;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;1089.877;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976028;800202;2-;1886;Tobias Harris;3226;Orlando Magic;;;;;;;2;1105.477;26.12;5.88;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 10:55:05.030841
+76976029;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;1105.477;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976030;100200;Game stop;;;;;;;;;;;2;1108.591;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976031;100500;Turnover;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;1108.591;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976032;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;1126.246;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976033;800202;2-;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;1146.446;26.42;5.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76976034;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;2;1146.446;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976035;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;1153.390;21.41;12.45;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:55:05.030841
+76976036;100300;Rebound;;;3222;Denver Nuggets;;;;;;;2;1153.390;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976037;1800500;Halftime;;;;;;;;;;;2;1153.390;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976038;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976039;1600500;Guard;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976040;1600500;Guard;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976041;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976042;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976043;1600500;Guard;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976044;1600500;Guard;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976045;1600500;Guard;1891;Channing Frye;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976046;1600500;Guard;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976047;1600500;Guard;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976048;1600500;Guard;6121;Evan Fournier;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976049;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;6.808;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976050;100200;Game stop;;;;;;;;;;;3;30.808;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976051;100500;Turnover;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;30.808;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976052;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;41.018;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976053;800302;3-;6121;Evan Fournier;3226;Orlando Magic;;;;;;;3;51.018;20.63;11.07;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:55:05.030841
+76976054;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;51.018;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976055;800302;3-;7534;Randy Foye;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;3;70.053;22.58;1.95;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976056;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;70.053;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976057;100200;Game stop;;;;;;;;;;;3;88.098;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976058;100500;Turnover;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;88.098;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976059;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;102.247;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976060;200600;Post;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;119.247;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976061;800600;2F;6237;Kenneth Faried;3222;Denver Nuggets;1891;Channing Frye;3226;Orlando Magic;;;3;119.247;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 10:55:05.030841
+76976062;100200;Game stop;;;;;;;;;;;3;119.247;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976063;300100;Foul;1891;Channing Frye;3226;Orlando Magic;6237;Kenneth Faried;3222;Denver Nuggets;;;3;119.247;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976064;800101;1+;6237;Kenneth Faried;3222;Denver Nuggets;1891;Channing Frye;3226;Orlando Magic;;;3;141.591;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976065;800101;1+;6237;Kenneth Faried;3222;Denver Nuggets;1891;Channing Frye;3226;Orlando Magic;;;3;153.086;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976066;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;153.977;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976067;100400;Steal;6232;Danilo Gallinari;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;3;164.977;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976068;800202;2-;85769;JJ Hickson;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;3;171.660;26.36;6.63;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:55:05.030841
+76976069;100300;Rebound;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;3;171.660;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976070;800201;2+;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;3;177.725;26.99;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76976071;100400;Steal;6111;Nikola Vucevic;3226;Orlando Magic;6232;Danilo Gallinari;3222;Denver Nuggets;;;3;194.019;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976072;100200;Game stop;;;;;;;;;;;3;200.979;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976073;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;3;200.979;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976074;800201;2+;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;3;200.979;26.99;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76976075;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;224.100;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976076;400101;Accurate pass;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;85769;JJ Hickson;3;238.100;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976077;200300;Pick'n'Roll;85769;JJ Hickson;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;3;238.100;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976078;800201;2+;85769;JJ Hickson;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;3;238.100;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 10:55:05.030841
+76976079;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;3;252.680;27.35;6.36;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:55:05.030841
+76976080;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;252.439;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976081;800400;2+1;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;252.439;26.81;7.02;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:55:05.030841
+76976082;100200;Game stop;;;;;;;;;;;3;252.439;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976083;300100;Foul;6229;Emmanuel Mudiay;3222;Denver Nuggets;6111;Nikola Vucevic;3226;Orlando Magic;;;3;252.439;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976084;800102;1-;6111;Nikola Vucevic;3226;Orlando Magic;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;3;275.840;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976085;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;275.840;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976086;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;3;275.840;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976087;800202;2-;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;3;287.766;26.72;11.76;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76976088;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;287.766;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976089;400101;Accurate pass;1891;Channing Frye;3226;Orlando Magic;;;;;6113;Elfrid Payton;3;301.511;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976090;800201;2+;6113;Elfrid Payton;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;301.511;26.51;8.13;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 10:55:05.030841
+76976091;200600;Post;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;322.664;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976092;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;322.664;26.27;7.50;;;;;;;;Post;;Lay up;;;;2017-12-07 10:55:05.030841
+76976093;100300;Rebound;1891;Channing Frye;3226;Orlando Magic;;;;;;;3;322.664;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976094;800202;2-;6113;Elfrid Payton;3226;Orlando Magic;6237;Kenneth Faried;3222;Denver Nuggets;;;3;330.329;26.57;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76976095;100200;Game stop;;;;;;;;;;;3;330.329;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976096;100300;Rebound;;;3226;Orlando Magic;;;;;;;3;330.329;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976097;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;7534;Randy Foye;3222;Denver Nuggets;;;3;367.850;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976098;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;367.850;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976099;800202;2-;6113;Elfrid Payton;3226;Orlando Magic;;;;;6121;Evan Fournier;3;367.850;26.84;7.02;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:55:05.030841
+76976100;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;369.629;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976101;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;369.629;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 10:55:05.030841
+76976102;100200;Game stop;;;;;;;;;;;3;369.629;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976103;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;3;369.629;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976104;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;6237;Kenneth Faried;3222;Denver Nuggets;;;3;418.102;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976105;1600500;Guard;6248;Mike Miller;3222;Denver Nuggets;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;3;418.102;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976106;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;418.102;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976107;800600;2F;85769;JJ Hickson;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;3;418.102;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976108;100200;Game stop;;;;;;;;;;;3;418.102;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976109;300100;Foul;6121;Evan Fournier;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;3;418.102;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976110;800102;1-;85769;JJ Hickson;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;3;443.285;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976111;100300;Rebound;;;3222;Denver Nuggets;;;;;;;3;443.285;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976112;800102;1-;85769;JJ Hickson;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;3;454.977;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976113;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;454.977;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976114;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;454.977;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976115;800202;2-;6121;Evan Fournier;3226;Orlando Magic;6231;Will Barton;3222;Denver Nuggets;;;3;470.482;27.05;7.17;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76976116;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;471.087;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976117;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;471.087;26.81;8.13;;;;;;;;Putbacks;;;;;;2017-12-07 10:55:05.030841
+76976118;400101;Accurate pass;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;489.539;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976119;800301;3+;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;3;489.539;24.80;14.58;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:55:05.030841
+76976120;400101;Accurate pass;6121;Evan Fournier;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;505.903;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976121;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6121;Evan Fournier;3;505.903;24.65;12.30;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976122;800302;3-;6248;Mike Miller;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;517.852;20.09;9.90;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976123;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;517.852;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976124;100400;Steal;7662;Jameer Nelson;3222;Denver Nuggets;6111;Nikola Vucevic;3226;Orlando Magic;;;3;531.440;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976125;100200;Game stop;;;;;;;;;;;3;538.981;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976126;300100;Foul;85769;JJ Hickson;3222;Denver Nuggets;1891;Channing Frye;3226;Orlando Magic;;;3;538.981;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976127;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;550.346;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976128;800202;2-;1886;Tobias Harris;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;571.346;27.20;13.05;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:55:05.030841
+76976129;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;3;571.346;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976130;800302;3-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;3;580.044;23.60;14.73;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:55:05.030841
+76976131;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;580.044;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976132;800201;2+;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;3;589.028;26.81;7.68;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76976133;400101;Accurate pass;6248;Mike Miller;3222;Denver Nuggets;;;;;85769;JJ Hickson;3;616.119;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976134;800201;2+;85769;JJ Hickson;3222;Denver Nuggets;;;;;6248;Mike Miller;3;616.119;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 10:55:05.030841
+76976135;400101;Accurate pass;1886;Tobias Harris;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;638.412;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976136;200300;Pick'n'Roll;6111;Nikola Vucevic;3226;Orlando Magic;;;;;1886;Tobias Harris;3;638.412;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:55:05.030841
+76976137;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;1886;Tobias Harris;3;638.412;23.57;12.21;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:55:05.030841
+76976138;200300;Pick'n'Roll;85769;JJ Hickson;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;651.885;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976139;800202;2-;85769;JJ Hickson;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;651.885;26.57;7.02;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:55:05.030841
+76976140;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;651.885;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976141;100200;Game stop;;;;;;;;;;;3;685.460;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976142;1600500;Guard;7465;Victor Oladipo;3226;Orlando Magic;6121;Evan Fournier;3226;Orlando Magic;;;3;685.460;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976143;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;85769;JJ Hickson;3222;Denver Nuggets;;;3;685.460;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976144;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;685.460;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976145;400101;Accurate pass;7465;Victor Oladipo;3226;Orlando Magic;;;;;1886;Tobias Harris;3;685.460;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976146;800201;2+;1886;Tobias Harris;3226;Orlando Magic;;;;;7465;Victor Oladipo;3;685.460;23.42;13.14;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:55:05.030841
+76976147;800302;3-;6248;Mike Miller;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;696.633;21.11;2.31;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976148;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;696.633;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976149;800302;3-;7465;Victor Oladipo;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;718.601;21.80;13.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976150;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;718.601;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976151;100400;Steal;1886;Tobias Harris;3226;Orlando Magic;6231;Will Barton;3222;Denver Nuggets;;;3;727.600;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976152;100200;Game stop;;;;;;;;;;;3;789.433;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976153;1600500;Guard;7505;Shabazz Napier;3226;Orlando Magic;6113;Elfrid Payton;3226;Orlando Magic;;;3;789.433;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976154;1600500;Guard;6116;Andrew Nicholson;3226;Orlando Magic;1891;Channing Frye;3226;Orlando Magic;;;3;789.433;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976155;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;789.433;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976156;800201;2+;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;3;789.433;26.27;10.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76976157;800202;2-;6231;Will Barton;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;3;802.149;25.64;6.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76976158;100300;Rebound;6248;Mike Miller;3222;Denver Nuggets;;;;;;;3;803.224;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976159;100200;Game stop;;;;;;;;;;;3;834.309;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976160;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;6248;Mike Miller;3222;Denver Nuggets;;;3;834.309;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976161;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;834.309;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976162;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6231;Will Barton;3;834.309;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976163;800301;3+;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;834.309;21.71;2.10;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976164;100200;Game stop;;;;;;;;;;;3;834.309;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976165;1800600;Timeout;;;3226;Orlando Magic;;;;;;;3;834.309;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976166;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;855.731;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976167;800202;2-;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;3;874.731;27.23;7.98;;;;;;;;;;Lay up;;;;2017-12-07 10:55:05.030841
+76976168;100200;Game stop;;;;;;;;;;;3;874.731;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976169;100300;Rebound;;;3226;Orlando Magic;;;;;;;3;874.731;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976170;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;891.435;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976171;800302;3-;7505;Shabazz Napier;3226;Orlando Magic;;;;;7465;Victor Oladipo;3;907.435;22.25;13.65;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976172;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;907.435;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976173;100200;Game stop;;;;;;;;;;;3;919.035;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976174;300100;Foul;6116;Andrew Nicholson;3226;Orlando Magic;6237;Kenneth Faried;3222;Denver Nuggets;;;3;919.035;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976175;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;944.843;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976176;800302;3-;6231;Will Barton;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;7662;Jameer Nelson;3;959.843;26.99;14.43;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:55:05.030841
+76976177;100200;Game stop;;;;;;;;;;;3;959.843;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976178;100300;Rebound;;;3222;Denver Nuggets;;;;;;;3;959.843;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976179;1600500;Guard;9367;Jason Smith;3226;Orlando Magic;6111;Nikola Vucevic;3226;Orlando Magic;;;3;990.852;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976180;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;990.852;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976181;800202;2-;9367;Jason Smith;3226;Orlando Magic;;;;;;;3;990.852;24.29;1.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976182;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;990.852;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976183;800302;3-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;3;1010.011;26.42;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976184;100300;Rebound;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;3;1010.011;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976185;800302;3-;1886;Tobias Harris;3226;Orlando Magic;;;;;7505;Shabazz Napier;3;1033.075;21.83;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976186;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;3;1033.075;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976187;800201;2+;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6231;Will Barton;3;1048.560;21.26;9.30;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 10:55:05.030841
+76976188;100200;Game stop;;;;;;;;;;;3;1064.703;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976189;100500;Turnover;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;3;1064.703;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976190;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;1074.624;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976191;200300;Pick'n'Roll;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;1087.224;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976192;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;1087.224;23.75;6.09;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 10:55:05.030841
+76976193;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;3;1087.224;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976194;100200;Game stop;;;;;;;;;;;3;1104.896;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976195;300100;Foul;6231;Will Barton;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;3;1104.896;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976196;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;1119.911;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976197;800202;2-;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;3;1128.411;27.05;8.37;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76976198;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;1128.411;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976199;400101;Accurate pass;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6231;Will Barton;3;1134.701;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976200;800400;2+1;6231;Will Barton;3222;Denver Nuggets;;;;;6237;Kenneth Faried;3;1134.701;26.96;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76976201;100200;Game stop;;;;;;;;;;;3;1134.701;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976202;300100;Foul;1886;Tobias Harris;3226;Orlando Magic;6231;Will Barton;3222;Denver Nuggets;;;3;1134.701;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976203;800102;1-;6231;Will Barton;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;3;1164.396;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976204;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;3;1164.396;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976205;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;1164.396;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976206;1800500;Halftime;;;;;;;;;;;3;1165.296;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976207;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976208;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976209;1600500;Guard;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976210;1600500;Guard;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976211;1600500;Guard;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976212;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976213;1600500;Guard;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976214;1600500;Guard;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976215;1600500;Guard;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976216;1600500;Guard;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976217;1600500;Guard;9367;Jason Smith;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976218;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;0.000;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976219;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;37.210;25.37;2.04;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:55:05.030841
+76976220;100300;Rebound;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;4;38.163;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976221;800201;2+;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;4;38.163;26.84;7.26;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:55:05.030841
+76976222;200300;Pick'n'Roll;9367;Jason Smith;3226;Orlando Magic;;;;;7505;Shabazz Napier;4;53.612;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:55:05.030841
+76976223;800202;2-;9367;Jason Smith;3226;Orlando Magic;;;;;7505;Shabazz Napier;4;53.612;21.71;5.19;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:55:05.030841
+76976224;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;53.612;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976225;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;68.138;21.65;2.40;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976226;100300;Rebound;9367;Jason Smith;3226;Orlando Magic;;;;;;;4;68.138;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976227;800202;2-;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;4;74.581;23.60;2.43;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:55:05.030841
+76976228;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;74.581;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976229;100200;Game stop;;;;;;;;;;;4;120.034;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976230;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;6232;Danilo Gallinari;3222;Denver Nuggets;;;4;120.034;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976231;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;120.034;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976232;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;120.034;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976233;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;120.034;26.57;7.89;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 10:55:05.030841
+76976234;400101;Accurate pass;9367;Jason Smith;3226;Orlando Magic;;;;;7505;Shabazz Napier;4;131.796;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:55:05.030841
+76976235;800201;2+;7505;Shabazz Napier;3226;Orlando Magic;;;;;9367;Jason Smith;4;131.796;21.41;9.57;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:55:05.030841
+76976236;800202;2-;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;145.726;26.57;7.26;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76976237;100300;Rebound;9367;Jason Smith;3226;Orlando Magic;;;;;;;4;145.726;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976238;800201;2+;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;164.324;25.82;7.44;;;;;;;;Catch and Drive;;Floater;Drives Right;;;2017-12-07 10:55:05.030841
+76976239;100200;Game stop;;;;;;;;;;;4;173.051;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976240;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;4;173.051;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976241;1600500;Guard;6229;Emmanuel Mudiay;3222;Denver Nuggets;7662;Jameer Nelson;3222;Denver Nuggets;;;4;209.561;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976242;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;209.561;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976243;200600;Post;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;4;209.561;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976244;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;4;209.561;26.96;10.74;;;;;;;;Post;;Jumper;;;;2017-12-07 10:55:05.030841
+76976245;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;209.561;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976246;800201;2+;7505;Shabazz Napier;3226;Orlando Magic;;;;;7465;Victor Oladipo;4;225.511;26.66;8.49;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 10:55:05.030841
+76976247;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;242.782;26.81;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:55:05.030841
+76976248;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;242.782;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976249;100200;Game stop;;;;;;;;;;;4;249.943;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976250;300100;Foul;6231;Will Barton;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;4;249.943;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976251;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;263.100;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976252;100400;Steal;6231;Will Barton;3222;Denver Nuggets;9367;Jason Smith;3226;Orlando Magic;;;4;270.100;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976253;800201;2+;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;275.544;26.72;7.26;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:55:05.030841
+76976254;200600;Post;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;295.415;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976255;800202;2-;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;295.415;26.99;8.34;;;;;;;;Post;;Lay up;;;;2017-12-07 10:55:05.030841
+76976256;100300;Rebound;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;295.415;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976257;200300;Pick'n'Roll;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7534;Randy Foye;4;311.740;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976258;800202;2-;6234;Nikola Jokic;3222;Denver Nuggets;;;;;7534;Randy Foye;4;311.740;26.12;8.58;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 10:55:05.030841
+76976259;100300;Rebound;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;311.550;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976260;100200;Game stop;;;;;;;;;;;4;327.044;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976261;100500;Turnover;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;327.044;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976262;1600500;Guard;6111;Nikola Vucevic;3226;Orlando Magic;9367;Jason Smith;3226;Orlando Magic;;;4;353.570;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976263;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;353.570;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976264;800201;2+;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;353.570;26.81;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76976265;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;4;375.494;20.36;4.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976266;100300;Rebound;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;375.494;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976267;100200;Game stop;;;;;;;;;;;4;384.608;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976268;100500;Turnover;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;384.608;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976269;1600500;Guard;85769;JJ Hickson;3222;Denver Nuggets;6234;Nikola Jokic;3222;Denver Nuggets;;;4;432.846;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976270;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;432.846;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976271;800202;2-;6229;Emmanuel Mudiay;3222;Denver Nuggets;6111;Nikola Vucevic;3226;Orlando Magic;;;4;432.846;25.52;7.65;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:55:05.030841
+76976272;100300;Rebound;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;4;432.632;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976273;800202;2-;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;4;433.384;26.18;6.66;;;;;;;;Cut;;Hook;;;;2017-12-07 10:55:05.030841
+76976274;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;433.384;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976275;800201;2+;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;446.673;25.37;9.18;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 10:55:05.030841
+76976276;100400;Steal;7465;Victor Oladipo;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;4;451.573;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976277;800302;3-;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;454.854;19.64;7.35;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:55:05.030841
+76976278;100300;Rebound;7534;Randy Foye;3222;Denver Nuggets;;;;;;;4;454.854;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976279;100200;Game stop;;;;;;;;;;;4;499.355;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976280;1600500;Guard;7662;Jameer Nelson;3222;Denver Nuggets;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;4;499.355;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976281;1600500;Guard;6232;Danilo Gallinari;3222;Denver Nuggets;6231;Will Barton;3222;Denver Nuggets;;;4;499.355;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976282;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;499.355;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976283;800202;2-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;499.355;21.98;11.82;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:55:05.030841
+76976284;100200;Game stop;;;;;;;;;;;4;499.355;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976285;100300;Rebound;;;3222;Denver Nuggets;;;;;;;4;499.355;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976286;1800600;Timeout;;;;;;;;;;;4;499.355;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976287;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;527.421;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976288;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;540.421;26.99;8.13;;;;;;;;;;Lay up;;;;2017-12-07 10:55:05.030841
+76976289;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;4;541.567;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976290;800600;2F;85769;JJ Hickson;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;4;541.567;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 10:55:05.030841
+76976291;100200;Game stop;;;;;;;;;;;4;541.567;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976292;300100;Foul;7465;Victor Oladipo;3226;Orlando Magic;85769;JJ Hickson;3222;Denver Nuggets;;;4;541.567;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976293;800101;1+;85769;JJ Hickson;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;4;568.121;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976294;1600500;Guard;6231;Will Barton;3222;Denver Nuggets;7534;Randy Foye;3222;Denver Nuggets;;;4;588.540;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976295;800102;1-;85769;JJ Hickson;3222;Denver Nuggets;7465;Victor Oladipo;3226;Orlando Magic;;;4;588.540;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976296;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;588.540;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976297;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;588.540;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976298;800302;3-;7505;Shabazz Napier;3226;Orlando Magic;;;;;6111;Nikola Vucevic;4;610.292;27.08;14.46;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976299;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;4;610.292;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976300;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6231;Will Barton;4;626.088;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976301;800301;3+;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;4;626.088;21.20;3.09;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976302;800201;2+;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;4;647.529;26.99;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76976303;800302;3-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;4;669.017;27.53;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976304;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;669.017;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976305;800202;2-;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;688.949;24.02;9.90;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 10:55:05.030841
+76976306;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;4;688.949;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976307;800302;3-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;4;711.680;26.21;14.67;;;;;;;;;;Jumper;;;;2017-12-07 10:55:05.030841
+76976308;100200;Game stop;;;;;;;;;;;4;711.680;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976309;100300;Rebound;;;3226;Orlando Magic;;;;;;;4;711.680;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976310;1800600;Timeout;;;3226;Orlando Magic;;;;;;;4;711.680;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976311;1600500;Guard;6113;Elfrid Payton;3226;Orlando Magic;6116;Andrew Nicholson;3226;Orlando Magic;;;4;745.702;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976312;1600500;Guard;1886;Tobias Harris;3226;Orlando Magic;7505;Shabazz Napier;3226;Orlando Magic;;;4;745.702;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976313;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;745.702;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976314;800202;2-;1886;Tobias Harris;3226;Orlando Magic;;;;;;;4;745.702;26.27;7.26;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76976315;100300;Rebound;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;4;745.522;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976316;100200;Game stop;;;;;;;;;;;4;751.560;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976317;300100;Foul;6231;Will Barton;3222;Denver Nuggets;6111;Nikola Vucevic;3226;Orlando Magic;;;4;751.560;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976318;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;766.259;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976319;800202;2-;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;4;774.259;26.21;8.52;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 10:55:05.030841
+76976320;100300;Rebound;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;4;774.259;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976321;800600;2F;6237;Kenneth Faried;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;4;792.895;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:55:05.030841
+76976322;100200;Game stop;;;;;;;;;;;4;792.895;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976323;300100;Foul;1886;Tobias Harris;3226;Orlando Magic;6237;Kenneth Faried;3222;Denver Nuggets;;;4;792.895;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976324;800102;1-;6237;Kenneth Faried;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;4;813.355;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976325;100300;Rebound;;;3222;Denver Nuggets;;;;;;;4;813.355;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976326;800101;1+;6237;Kenneth Faried;3222;Denver Nuggets;1886;Tobias Harris;3226;Orlando Magic;;;4;825.541;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976327;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;827.380;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976328;400101;Accurate pass;6113;Elfrid Payton;3226;Orlando Magic;;;;;6121;Evan Fournier;4;839.380;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976329;800301;3+;6121;Evan Fournier;3226;Orlando Magic;;;;;6113;Elfrid Payton;4;839.380;19.64;6.63;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:55:05.030841
+76976330;800302;3-;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6231;Will Barton;4;863.373;20.09;4.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:55:05.030841
+76976331;100300;Rebound;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;863.373;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976332;100200;Game stop;;;;;;;;;;;4;863.109;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976333;1600500;Guard;7534;Randy Foye;3222;Denver Nuggets;85769;JJ Hickson;3222;Denver Nuggets;;;4;863.109;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976334;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;882.935;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976335;100200;Game stop;;;;;;;;;;;4;892.935;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976336;300100;Foul;6237;Kenneth Faried;3222;Denver Nuggets;6111;Nikola Vucevic;3226;Orlando Magic;;;4;892.935;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976337;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;909.118;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976338;200600;Post;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;918.118;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976339;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;918.118;26.72;10.50;;;;;;;;Post;;Hook;;;;2017-12-07 10:55:05.030841
+76976340;100300;Rebound;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;4;918.118;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976341;800202;2-;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;924.767;26.84;7.59;;;;;;;;Transition;;;;;;2017-12-07 10:55:05.030841
+76976342;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;924.767;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976343;800400;2+1;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;4;934.410;25.37;10.50;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:55:05.030841
+76976344;100200;Game stop;;;;;;;;;;;4;934.410;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976345;300100;Foul;7662;Jameer Nelson;3222;Denver Nuggets;6113;Elfrid Payton;3226;Orlando Magic;;;4;934.410;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976346;800101;1+;6113;Elfrid Payton;3226;Orlando Magic;7662;Jameer Nelson;3222;Denver Nuggets;;;4;964.995;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976347;1800600;Timeout;;;3222;Denver Nuggets;;;;;;;4;964.995;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976348;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;999.221;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976349;400101;Accurate pass;7662;Jameer Nelson;3222;Denver Nuggets;;;;;7534;Randy Foye;4;1004.221;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976350;800201;2+;7534;Randy Foye;3222;Denver Nuggets;;;;;7662;Jameer Nelson;4;1004.221;26.72;7.32;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 10:55:05.030841
+76976351;800202;2-;6113;Elfrid Payton;3226;Orlando Magic;6232;Danilo Gallinari;3222;Denver Nuggets;;;4;1023.311;26.48;8.13;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 10:55:05.030841
+76976352;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;1021.993;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976353;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;1021.993;27.05;7.35;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:55:05.030841
+76976354;200300;Pick'n'Roll;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;1035.312;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976355;800600;2F;6237;Kenneth Faried;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;4;1035.312;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 10:55:05.030841
+76976356;100200;Game stop;;;;;;;;;;;4;1035.312;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976357;300100;Foul;6121;Evan Fournier;3226;Orlando Magic;6237;Kenneth Faried;3222;Denver Nuggets;;;4;1035.312;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976358;800102;1-;6237;Kenneth Faried;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;4;1059.291;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976359;100300;Rebound;;;3222;Denver Nuggets;;;;;;;4;1059.291;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976360;800102;1-;6237;Kenneth Faried;3222;Denver Nuggets;6121;Evan Fournier;3226;Orlando Magic;;;4;1074.873;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976361;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;1074.873;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976362;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;1074.873;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976363;100400;Steal;6231;Will Barton;3222;Denver Nuggets;6111;Nikola Vucevic;3226;Orlando Magic;;;4;1095.102;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976364;800302;3-;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;1101.586;23.60;14.28;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:55:05.030841
+76976365;100300;Rebound;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;4;1101.586;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976366;800400;2+1;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;4;1116.352;26.06;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:55:05.030841
+76976367;100200;Game stop;;;;;;;;;;;4;1116.352;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976368;300100;Foul;6237;Kenneth Faried;3222;Denver Nuggets;6113;Elfrid Payton;3226;Orlando Magic;;;4;1116.352;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976369;800101;1+;6113;Elfrid Payton;3226;Orlando Magic;6237;Kenneth Faried;3222;Denver Nuggets;;;4;1164.271;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976370;100100;Ball in play;;;3222;Denver Nuggets;;;;;;;4;1164.879;;;;;;;;;;;;;;;;2019-10-24 13:06:03.57765
+76976371;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;6111;Nikola Vucevic;3226;Orlando Magic;;;4;1179.879;26.72;7.59;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:55:05.030841
+76976372;100300;Rebound;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;4;1179.865;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976373;800202;2-;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;4;1179.865;26.99;6.96;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:55:05.030841
+76976374;100300;Rebound;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;4;1179.865;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+76976375;1800700;Match end;;;;;;;;;;;4;1194.665;;;;;;;;;;;;;;;;2017-12-07 10:55:05.030841
+93267605;100500;Turnover;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;610.772;;;;;;;;;;;;;;;;2018-01-11 20:48:01.423558
+93267606;300100;Foul;1886;Tobias Harris;3226;Orlando Magic;6232;Danilo Gallinari;3222;Denver Nuggets;;;1;927.154;;;;;;;;;;;;;;;;2018-01-11 20:48:01.423558
+93267607;100500;Turnover;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;108.344;;;;;;;;;;;;;;;;2018-01-11 20:48:01.423558
+93267608;100500;Turnover;6248;Mike Miller;3222;Denver Nuggets;;;;;;;2;364.484;;;;;;;;;;;;;;;;2018-01-11 20:48:01.423558
+93267609;100500;Turnover;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;437.512;;;;;;;;;;;;;;;;2018-01-11 20:48:01.423558
+93267610;100500;Turnover;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;3;538.981;;;;;;;;;;;;;;;;2018-01-11 20:48:01.423558
+103687620;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;6111;Nikola Vucevic;1;93.794;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687622;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;117.117;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687624;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7534;Randy Foye;1;143.113;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687626;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;156.432;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687628;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7534;Randy Foye;1;218.480;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687630;200900;Assisting;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;1;300.337;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687632;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;350.284;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687634;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;370.411;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687636;200900;Assisting;7534;Randy Foye;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;1;439.270;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687638;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;;;1;463.069;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687640;200900;Assisting;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;1;520.994;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687642;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;577.577;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687644;200900;Assisting;85769;JJ Hickson;3222;Denver Nuggets;;;;;7534;Randy Foye;1;592.619;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687646;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;643.125;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687648;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;720.438;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687650;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;1;783.324;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687652;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;6237;Kenneth Faried;1;832.759;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687654;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;850.401;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687656;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;895.280;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687658;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;911.530;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687660;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;7662;Jameer Nelson;1;1100.813;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687662;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;1122.417;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687664;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;;;1;1137.227;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687666;200900;Assisting;6116;Andrew Nicholson;3226;Orlando Magic;;;;;7505;Shabazz Napier;1;1152.294;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687668;200900;Assisting;9367;Jason Smith;3226;Orlando Magic;;;;;;;1;1225.462;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687670;200900;Assisting;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;80.860;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687672;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;93.833;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687674;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;157.542;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687676;200900;Assisting;6116;Andrew Nicholson;3226;Orlando Magic;;;;;7465;Victor Oladipo;2;224.090;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687678;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;2;237.393;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687680;200900;Assisting;6234;Nikola Jokic;3222;Denver Nuggets;;;;;6248;Mike Miller;2;302.127;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687682;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;7465;Victor Oladipo;2;582.247;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687684;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;2;679.347;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687686;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;2;695.926;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687688;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;;;2;738.173;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687690;200900;Assisting;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;2;804.069;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687692;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;6111;Nikola Vucevic;2;870.229;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687694;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;6231;Will Barton;2;887.419;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687696;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;6113;Elfrid Payton;2;903.904;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687698;200900;Assisting;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;;;2;975.351;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687700;200900;Assisting;6229;Emmanuel Mudiay;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;2;1053.928;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687702;200900;Assisting;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;1070.160;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687704;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;3;119.247;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687706;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;3;177.725;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687708;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;3;200.979;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687710;200900;Assisting;85769;JJ Hickson;3222;Denver Nuggets;;;;;6229;Emmanuel Mudiay;3;238.100;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687712;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;252.439;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687714;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;301.511;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687716;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;369.629;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687718;200900;Assisting;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;3;418.102;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687720;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;471.087;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687722;200900;Assisting;7662;Jameer Nelson;3222;Denver Nuggets;;;;;6232;Danilo Gallinari;3;489.539;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687724;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6121;Evan Fournier;3;505.903;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687726;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;3;589.028;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687728;200900;Assisting;85769;JJ Hickson;3222;Denver Nuggets;;;;;6248;Mike Miller;3;616.119;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687730;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;1886;Tobias Harris;3;638.412;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687732;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;7465;Victor Oladipo;3;685.460;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687734;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;3;789.433;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687736;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;3;834.309;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687738;200900;Assisting;6232;Danilo Gallinari;3222;Denver Nuggets;;;;;6231;Will Barton;3;1048.560;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687740;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;6237;Kenneth Faried;3;1134.701;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687742;200900;Assisting;6234;Nikola Jokic;3222;Denver Nuggets;;;;;;;4;38.163;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687744;200900;Assisting;7505;Shabazz Napier;3226;Orlando Magic;;;;;9367;Jason Smith;4;131.796;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687746;200900;Assisting;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;164.324;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687748;200900;Assisting;7505;Shabazz Napier;3226;Orlando Magic;;;;;7465;Victor Oladipo;4;225.511;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687750;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;;;4;275.544;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687752;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;353.570;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687754;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;446.673;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687756;200900;Assisting;85769;JJ Hickson;3222;Denver Nuggets;;;;;;;4;541.567;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687758;200900;Assisting;6231;Will Barton;3222;Denver Nuggets;;;;;7662;Jameer Nelson;4;626.088;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687760;200900;Assisting;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;4;647.529;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687762;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;792.895;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687764;200900;Assisting;6121;Evan Fournier;3226;Orlando Magic;;;;;6113;Elfrid Payton;4;839.380;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687766;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;4;934.410;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687768;200900;Assisting;7534;Randy Foye;3222;Denver Nuggets;;;;;7662;Jameer Nelson;4;1004.221;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687770;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;1021.993;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687772;200900;Assisting;6237;Kenneth Faried;3222;Denver Nuggets;;;;;;;4;1035.312;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145
+103687774;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;4;1116.352;;;;;;;;;;;;;;;;2018-04-19 11:30:04.393145

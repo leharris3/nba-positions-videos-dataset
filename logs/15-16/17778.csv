@@ -1,0 +1,837 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77033154;1601000;Starting lineup;8389;Chris Copeland;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033155;1601000;Starting lineup;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033156;1601000;Starting lineup;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033157;1601000;Starting lineup;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033158;1601000;Starting lineup;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033159;1601000;Starting lineup;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033160;1601000;Starting lineup;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033161;1601000;Starting lineup;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033162;1601000;Starting lineup;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033163;1601000;Starting lineup;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033164;1601000;Starting lineup;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033165;1601000;Starting lineup;13535;Damien Inglis;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033166;1601000;Starting lineup;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033178;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033179;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033180;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033181;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033182;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033183;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033189;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;54.578;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033190;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;1;71.578;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:21:03.588582
+77033191;100200;Game stop;;;;;;;;;;;1;71.578;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033193;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;1;94.864;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033194;800102;1-;9019;Greg Monroe;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;1;109.299;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033198;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;118.653;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033199;400101;Accurate pass;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;125.098;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033200;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;125.098;26.84;8.37;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033201;100400;Steal;370973;Jabari Parker;3280;Milwaukee Bucks;6400;Robert Covington;3224;Philadelphia 76ers;;;1;140.703;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033202;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;144.889;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:21:03.588582
+77033203;100200;Game stop;;;;;;;;;;;1;144.889;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033206;100200;Game stop;;;;;;;;;;;1;160.989;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033208;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;161.578;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033209;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;177.578;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033210;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;177.578;27.35;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033211;100400;Steal;370973;Jabari Parker;3280;Milwaukee Bucks;6400;Robert Covington;3224;Philadelphia 76ers;;;1;190.541;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033212;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;220.444;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033213;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;220.444;26.72;7.74;;;;;;;;Cut;;;;;;2017-12-07 11:21:03.588582
+77033214;100200;Game stop;;;;;;;;;;;1;240.916;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033215;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;240.916;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033221;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;278.222;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033222;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;278.222;26.84;8.82;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77033227;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;302.206;23.75;11.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77033228;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;13747;Kendall Marshall;3224;Philadelphia 76ers;;;1;312.145;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033229;400101;Accurate pass;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;324.638;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033230;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;324.638;27.20;7.59;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:21:03.588582
+77033231;100400;Steal;9020;Khris Middleton;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;1;343.577;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033232;100200;Game stop;;;;;;;;;;;1;343.577;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033234;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;352.942;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033237;100200;Game stop;;;;;;;;;;;1;371.995;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033240;100200;Game stop;;;;;;;;;;;1;404.768;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033241;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;13747;Kendall Marshall;3224;Philadelphia 76ers;;;1;404.768;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033242;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;437.174;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033247;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;456.128;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033248;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;456.128;21.98;8.88;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:21:03.588582
+77033249;100200;Game stop;;;;;;;;;;;1;515.013;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033254;100200;Game stop;;;;;;;;;;;1;515.013;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033256;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;522.458;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033257;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;537.458;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033258;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;537.458;25.52;8.34;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77033261;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;577.190;26.81;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77033263;100200;Game stop;;;;;;;;;;;1;583.636;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033266;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;610.201;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033267;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;610.201;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033268;800600;2F;9020;Khris Middleton;3280;Milwaukee Bucks;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;1;610.201;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:21:03.588582
+77033269;100200;Game stop;;;;;;;;;;;1;610.201;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033271;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;1;635.648;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033273;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;1;650.349;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033276;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;690.416;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033277;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;690.416;27.53;3.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033278;100200;Game stop;;;;;;;;;;;1;706.254;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033279;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;6398;Richaun Holmes;3224;Philadelphia 76ers;;;1;706.254;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033280;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;744.809;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033282;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;744.809;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033287;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;752.007;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033288;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;6398;Richaun Holmes;3224;Philadelphia 76ers;;;1;762.268;26.84;8.19;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033289;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;762.268;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033290;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;762.268;26.72;7.98;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:21:03.588582
+77033294;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;778.974;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033295;800201;2+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;787.415;27.68;13.35;;;;;;;;;;Jumper;;;;2017-12-07 11:21:03.588582
+77033296;100200;Game stop;;;;;;;;;;;1;804.146;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033298;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;814.086;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033299;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;826.086;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033300;200300;Pick'n'Roll;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;826.086;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77033301;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;826.086;26.27;12.81;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:21:03.588582
+77033302;100200;Game stop;;;;;;;;;;;1;845.987;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033304;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;857.898;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033305;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;869.898;27.08;7.83;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77033309;100200;Game stop;;;;;;;;;;;1;884.778;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033310;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;6398;Richaun Holmes;3224;Philadelphia 76ers;;;1;884.778;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033311;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;927.698;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033313;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;927.698;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033314;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;927.698;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033315;100200;Game stop;;;;;;;;;;;1;937.113;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033316;100500;Turnover;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;937.113;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033317;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;1;937.113;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033320;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;963.572;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033323;100200;Game stop;;;;;;;;;;;1;983.905;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033324;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;983.905;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033326;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;1014.126;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033327;400101;Accurate pass;9022;John Henson;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;1014.126;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77033328;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9022;John Henson;1;1014.126;24.05;13.35;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77033330;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;1037.396;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033331;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;6398;Richaun Holmes;3224;Philadelphia 76ers;95270;OJ Mayo;1;1054.961;26.72;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77033335;400101;Accurate pass;9022;John Henson;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;1;1076.881;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033336;800201;2+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9022;John Henson;1;1076.881;27.53;12.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033338;100200;Game stop;;;;;;;;;;;1;1098.302;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033339;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;1;1098.302;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033341;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;1152.946;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033343;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;1155.584;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033344;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;1162.684;23.45;14.97;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77033348;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;1;1196.183;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033349;800301;3+;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;1196.183;23.57;1.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033350;1800500;Halftime;;;;;;;;;;;1;1201.083;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033351;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033352;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033353;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033354;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033355;1600500;Guard;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033356;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033365;100200;Game stop;;;;;;;;;;;2;16.754;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033366;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;6393;Carl Landry;3224;Philadelphia 76ers;;;2;16.754;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033369;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;87.274;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033370;800202;2-;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;;;2;107.274;27.23;11.67;;;;;;;;Isolation;;Floater;Drives Left;;;2017-12-07 11:21:03.588582
+77033372;100200;Game stop;;;;;;;;;;;2;117.901;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033374;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;124.600;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033375;400101;Accurate pass;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;2;138.600;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033376;800201;2+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;12372;Tyler Ennis;2;138.600;24.20;12.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033380;100200;Game stop;;;;;;;;;;;2;166.542;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033382;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;166.542;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033383;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;189.438;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033384;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;207.438;20.09;4.41;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77033385;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;207.438;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033386;400101;Accurate pass;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;212.276;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033387;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9022;John Henson;2;212.276;27.08;7.65;;;;;;;;Cut;;;;;;2017-12-07 11:21:03.588582
+77033390;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;230.733;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033391;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;230.733;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:21:03.588582
+77033392;100200;Game stop;;;;;;;;;;;2;240.315;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033395;100200;Game stop;;;;;;;;;;;2;265.963;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033396;300300;Technical foul;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;265.963;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033403;100400;Steal;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;2;330.263;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033404;800201;2+;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;;;2;337.738;27.20;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033406;100200;Game stop;;;;;;;;;;;2;355.532;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033407;300100;Foul;9012;Rashad Vaughn;3280;Milwaukee Bucks;6393;Carl Landry;3224;Philadelphia 76ers;;;2;355.532;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033410;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;412.847;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033412;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;419.185;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033413;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;12372;Tyler Ennis;2;429.185;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033414;200300;Pick'n'Roll;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;12372;Tyler Ennis;2;429.185;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033415;800301;3+;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;429.185;19.19;7.56;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77033417;100200;Game stop;;;;;;;;;;;2;440.194;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033418;300100;Foul;12372;Tyler Ennis;3280;Milwaukee Bucks;13747;Kendall Marshall;3224;Philadelphia 76ers;;;2;440.194;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033423;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;496.948;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033424;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;496.948;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033425;400101;Accurate pass;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;562.680;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033426;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;2;562.680;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:21:03.588582
+77033428;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;578.416;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033429;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;589.999;26.99;9.45;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 11:21:03.588582
+77033433;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;607.638;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033434;800302;3-;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;;;2;616.778;22.73;14.85;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77033436;100400;Steal;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;626.617;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033437;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;12372;Tyler Ennis;2;633.554;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033438;800201;2+;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;633.554;27.08;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033439;100200;Game stop;;;;;;;;;;;2;643.045;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033441;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;2;666.223;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033446;100200;Game stop;;;;;;;;;;;2;666.223;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033447;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;666.223;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033449;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;695.117;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033450;100200;Game stop;;;;;;;;;;;2;703.117;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033452;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;714.670;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033455;100200;Game stop;;;;;;;;;;;2;722.104;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033456;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;6400;Robert Covington;3224;Philadelphia 76ers;;;2;722.104;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033458;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;12372;Tyler Ennis;3280;Milwaukee Bucks;;;2;769.537;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033461;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;769.537;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033462;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;769.537;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033463;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;795.464;26.99;9.18;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 11:21:03.588582
+77033464;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;795.464;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033465;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;795.464;27.08;7.59;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77033468;100200;Game stop;;;;;;;;;;;2;808.640;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033469;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;2;808.640;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033470;1800600;Timeout;;;;;;;;;;;2;808.640;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033471;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;2;832.803;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033474;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;860.108;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033475;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;2;876.108;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033476;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;876.108;19.94;4.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033481;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;7466;Jerami Grant;3224;Philadelphia 76ers;9191;Michael Carter-Williams;2;909.683;26.42;8.73;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77033482;100200;Game stop;;;;;;;;;;;2;909.683;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033483;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;909.683;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033485;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;931.742;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033486;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;931.742;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033487;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;2;931.742;27.05;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77033488;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;6391;Nerlens Noel;3224;Philadelphia 76ers;;;2;949.348;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033489;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;2;955.459;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033490;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;955.459;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:21:03.588582
+77033493;100200;Game stop;;;;;;;;;;;2;983.085;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033495;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;983.085;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033496;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;992.766;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033497;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1009.766;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033498;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1009.766;26.81;9.57;;;;;;;;Post;;Jumper;;;;2017-12-07 11:21:03.588582
+77033501;100200;Game stop;;;;;;;;;;;2;1028.758;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033503;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1035.450;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033505;100200;Game stop;;;;;;;;;;;2;1062.696;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033506;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;2;1062.696;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033510;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;1077.199;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033511;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;2;1086.354;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033512;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1086.354;26.81;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77033514;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;6400;Robert Covington;3224;Philadelphia 76ers;;;2;1132.128;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77033515;100200;Game stop;;;;;;;;;;;2;1132.128;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033517;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;6400;Robert Covington;3224;Philadelphia 76ers;;;2;1156.689;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033518;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;6400;Robert Covington;3224;Philadelphia 76ers;;;2;1172.921;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033523;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1189.313;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033524;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1205.809;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033525;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1205.809;26.51;8.52;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77033528;100200;Game stop;;;;;;;;;;;2;1215.700;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033529;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;6393;Carl Landry;3224;Philadelphia 76ers;;;2;1215.700;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033531;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1267.748;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033533;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1272.056;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033536;100200;Game stop;;;;;;;;;;;2;1288.056;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033537;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;6393;Carl Landry;3224;Philadelphia 76ers;;;2;1288.056;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033540;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;1354.875;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033542;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1354.875;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033543;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1354.875;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033544;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1391.033;26.72;8.28;;;;;;;;Cut;;Hook;;;;2017-12-07 11:21:03.588582
+77033548;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;6393;Carl Landry;3224;Philadelphia 76ers;;;2;1418.088;27.02;7.62;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 11:21:03.588582
+77033552;1800500;Halftime;;;;;;;;;;;2;1443.121;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033553;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033554;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033555;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033556;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033557;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033558;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033566;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;14.233;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033567;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;31.213;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033568;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;31.213;21.41;7.98;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77033571;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;71.803;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033572;200300;Pick'n'Roll;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;71.803;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033573;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;71.803;22.58;8.64;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77033574;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;3;83.748;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033575;800600;2F;9020;Khris Middleton;3280;Milwaukee Bucks;13747;Kendall Marshall;3224;Philadelphia 76ers;;;3;89.247;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:21:03.588582
+77033576;100200;Game stop;;;;;;;;;;;3;89.247;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033578;800102;1-;9020;Khris Middleton;3280;Milwaukee Bucks;13747;Kendall Marshall;3224;Philadelphia 76ers;;;3;111.239;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033579;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;3;111.239;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033580;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;13747;Kendall Marshall;3224;Philadelphia 76ers;;;3;123.830;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033583;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;153.385;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033584;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;153.385;27.02;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:21:03.588582
+77033588;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;223.934;25.52;12.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033591;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;3;261.036;26.96;7.80;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:21:03.588582
+77033595;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;285.795;26.84;7.89;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77033597;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;301.073;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033598;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;306.180;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033599;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;306.180;27.08;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033600;100200;Game stop;;;;;;;;;;;3;306.180;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033605;100200;Game stop;;;;;;;;;;;3;349.201;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033607;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;364.842;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033608;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;366.842;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033609;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;366.842;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:21:03.588582
+77033612;100200;Game stop;;;;;;;;;;;3;381.658;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033613;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;6391;Nerlens Noel;3224;Philadelphia 76ers;;;3;381.658;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033615;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;413.518;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033616;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;426.518;26.57;7.56;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77033619;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;443.187;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033620;100200;Game stop;;;;;;;;;;;3;452.656;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033621;100500;Turnover;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;452.656;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033622;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;3;486.841;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033626;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;501.790;25.52;8.19;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:21:03.588582
+77033628;100400;Steal;9019;Greg Monroe;3280;Milwaukee Bucks;13747;Kendall Marshall;3224;Philadelphia 76ers;;;3;507.294;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033629;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;514.216;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033630;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;514.216;26.84;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033632;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;528.119;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033633;100200;Game stop;;;;;;;;;;;3;536.117;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033637;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;566.127;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033638;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;566.127;23.75;11.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033639;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;566.127;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033640;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;573.151;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77033641;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;573.151;21.71;8.58;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77033644;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;606.985;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033645;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;606.985;25.82;8.28;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77033649;100200;Game stop;;;;;;;;;;;3;617.331;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033650;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;3;617.331;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033651;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;630.731;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033652;100200;Game stop;;;;;;;;;;;3;640.731;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033653;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;640.731;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033654;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;640.731;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033655;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;640.731;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033656;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;640.731;26.84;7.83;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77033657;100200;Game stop;;;;;;;;;;;3;652.789;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033661;100400;Steal;9019;Greg Monroe;3280;Milwaukee Bucks;6397;T.J. McConnell;3224;Philadelphia 76ers;;;3;652.789;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033663;100200;Game stop;;;;;;;;;;;3;690.232;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033664;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;3;690.232;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033665;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;721.653;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033668;100200;Game stop;;;;;;;;;;;3;737.338;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033669;100500;Turnover;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;737.338;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033672;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;774.218;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033673;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9022;John Henson;3;781.249;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033674;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;781.249;26.99;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033675;100400;Steal;9022;John Henson;3280;Milwaukee Bucks;6397;T.J. McConnell;3224;Philadelphia 76ers;;;3;792.559;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033676;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;798.542;26.72;7.80;;;;;;;;;;Lay up;;;;2017-12-07 11:21:03.588582
+77033677;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;3;826.849;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033678;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;831.204;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:21:03.588582
+77033679;100200;Game stop;;;;;;;;;;;3;831.204;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033681;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;856.016;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033685;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;856.016;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033686;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;874.944;21.71;7.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77033690;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;885.184;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033691;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;3;906.159;26.21;8.37;;;;;;;;;;Hook;;;;2017-12-07 11:21:03.588582
+77033693;100400;Steal;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;6393;Carl Landry;3224;Philadelphia 76ers;;;3;923.360;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033694;800302;3-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;3;935.949;21.98;13.92;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77033696;100200;Game stop;;;;;;;;;;;3;935.949;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033697;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;3;935.949;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033698;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;984.778;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033701;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;984.778;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033702;800202;2-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;1007.373;26.72;3.63;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:21:03.588582
+77033706;1800500;Halftime;;;;;;;;;;;3;1014.309;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033707;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033708;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033709;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033710;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033711;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033712;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033718;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;9.565;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033719;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;30.565;27.05;7.86;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77033720;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;30.565;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033721;800302;3-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;30.565;26.51;0.39;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033727;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;67.432;26.84;7.98;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77033733;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;137.412;24.35;3.78;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:21:03.588582
+77033736;100200;Game stop;;;;;;;;;;;4;149.990;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033738;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;6393;Carl Landry;3224;Philadelphia 76ers;;;4;149.990;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033740;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;4;191.551;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033742;100200;Game stop;;;;;;;;;;;4;191.551;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033744;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;201.954;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033745;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;4;209.954;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033746;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;209.954;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:21:03.588582
+77033748;100200;Game stop;;;;;;;;;;;4;226.736;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033749;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;4;226.736;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033752;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;281.151;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033753;800302;3-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;297.151;19.64;4.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033755;100200;Game stop;;;;;;;;;;;4;307.828;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033757;1800600;Timeout;;;;;;;;;;;4;307.828;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033758;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;316.003;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033759;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9022;John Henson;4;337.003;26.96;7.98;;;;;;;;Cut;;;;;;2017-12-07 11:21:03.588582
+77033763;100200;Game stop;;;;;;;;;;;4;345.550;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033764;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;7466;Jerami Grant;3224;Philadelphia 76ers;;;4;345.550;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033765;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;380.102;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033767;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;380.102;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033768;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;380.102;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033769;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;391.956;24.65;11.34;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77033771;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;412.187;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033772;100200;Game stop;;;;;;;;;;;4;422.305;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033774;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;435.462;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033777;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;457.439;26.96;8.04;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77033781;100400;Steal;9020;Khris Middleton;3280;Milwaukee Bucks;13747;Kendall Marshall;3224;Philadelphia 76ers;;;4;493.683;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033782;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;4;498.696;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033783;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;498.696;27.02;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:21:03.588582
+77033784;100200;Game stop;;;;;;;;;;;4;498.696;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033786;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;519.258;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033790;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;519.258;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033791;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;6391;Nerlens Noel;3224;Philadelphia 76ers;;;4;527.842;26.96;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033792;100200;Game stop;;;;;;;;;;;4;527.842;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033793;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;527.842;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033795;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;557.415;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033796;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;557.415;25.34;6.63;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:21:03.588582
+77033799;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;569.646;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033800;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;4;591.458;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033801;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;591.458;26.57;7.68;;;;;;;;Cut;;;;;;2017-12-07 11:21:03.588582
+77033807;100200;Game stop;;;;;;;;;;;4;656.167;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033808;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;4;656.167;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033810;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;4;729.507;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033814;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;732.532;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033815;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;746.532;26.66;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:21:03.588582
+77033818;100200;Game stop;;;;;;;;;;;4;764.498;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033819;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;764.498;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033820;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;778.587;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033821;100200;Game stop;;;;;;;;;;;4;792.587;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033823;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;806.486;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033824;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;813.486;23.75;12.12;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 11:21:03.588582
+77033827;100200;Game stop;;;;;;;;;;;4;836.166;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033830;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;851.381;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033831;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;871.381;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033832;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;871.381;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033833;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;871.381;26.27;6.42;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77033837;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;911.892;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033838;200300;Pick'n'Roll;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;911.892;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77033839;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;911.892;27.08;11.61;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77033842;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;9191;Michael Carter-Williams;4;944.089;26.72;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77033845;100200;Game stop;;;;;;;;;;;4;944.089;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033846;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;4;944.089;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033847;1600500;Guard;12372;Tyler Ennis;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;995.358;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033848;1600500;Guard;13535;Damien Inglis;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;995.358;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033849;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;995.358;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033850;1600500;Guard;9016;Miles Plumlee;3280;Milwaukee Bucks;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;995.358;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033851;1600500;Guard;8389;Chris Copeland;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;995.358;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033857;100300;Rebound;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;4;1019.523;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033858;100200;Game stop;;;;;;;;;;;4;1030.148;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033861;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1059.744;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033862;400101;Accurate pass;8389;Chris Copeland;3280;Milwaukee Bucks;;;;;12372;Tyler Ennis;4;1059.744;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033863;200300;Pick'n'Roll;8389;Chris Copeland;3280;Milwaukee Bucks;;;;;12372;Tyler Ennis;4;1059.744;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033864;800301;3+;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;8389;Chris Copeland;4;1059.744;20.96;2.70;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77033866;100200;Game stop;;;;;;;;;;;4;1077.746;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033867;300100;Foul;8389;Chris Copeland;3280;Milwaukee Bucks;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;4;1077.746;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033871;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1120.567;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033872;100200;Game stop;;;;;;;;;;;4;1129.567;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033873;100500;Turnover;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;;;4;1129.567;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033881;800302;3-;8389;Chris Copeland;3280;Milwaukee Bucks;;;;;;;4;1218.768;21.11;2.94;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033884;100300;Rebound;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;4;1233.326;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033885;1800700;Match end;;;;;;;;;;;4;1243.026;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+103667371;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;71.578;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667373;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;125.098;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667375;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;144.889;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667377;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;177.578;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667379;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;220.444;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667385;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;302.206;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667387;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;324.638;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667391;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;456.128;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667393;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;537.458;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667397;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;610.201;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667401;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;690.416;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667403;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;787.415;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667405;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;826.086;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667407;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;869.898;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667411;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9022;John Henson;1;1014.126;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667415;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9022;John Henson;1;1076.881;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667421;200900;Assisting;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;1196.183;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667425;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;12372;Tyler Ennis;2;138.600;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667427;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9022;John Henson;2;212.276;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667431;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;230.733;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667435;200900;Assisting;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;;;2;337.738;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667439;200900;Assisting;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;429.185;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667443;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;2;562.680;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667445;200900;Assisting;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;633.554;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667451;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;795.464;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667455;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;876.108;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667459;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;2;931.742;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667461;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;955.459;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667463;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1009.766;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667465;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1086.354;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667469;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1132.128;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667477;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;31.213;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667481;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;71.803;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667483;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;89.247;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667487;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;153.385;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667491;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;223.934;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667497;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;285.795;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667499;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;306.180;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667503;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;366.842;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667509;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;514.216;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667511;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;573.151;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667517;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;640.731;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667521;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;781.249;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667523;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;798.542;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667525;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;831.204;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667529;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;67.432;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667535;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;209.954;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667541;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;391.956;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667545;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;457.439;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667549;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;498.696;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667551;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;591.458;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667557;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;813.486;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667559;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;871.381;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667563;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;911.892;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667569;200900;Assisting;12372;Tyler Ennis;3280;Milwaukee Bucks;;;;;8389;Chris Copeland;4;1059.744;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+77033167;1601000;Starting lineup;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033168;1601000;Starting lineup;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033169;1601000;Starting lineup;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033170;1601000;Starting lineup;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033171;1601000;Starting lineup;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033172;1601000;Starting lineup;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033173;1601000;Starting lineup;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033174;1601000;Starting lineup;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033175;1601000;Starting lineup;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033176;1601000;Starting lineup;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033177;1601000;Starting lineup;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033184;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033185;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033186;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033187;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033188;1600500;Guard;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033192;300100;Foul;6394;Jahlil Okafor;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;71.578;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033195;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;109.299;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033196;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;109.299;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033197;800202;2-;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;1;118.653;27.08;7.98;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:21:03.588582
+77033204;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;1;144.889;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033205;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;149.989;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033207;100500;Turnover;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;1;160.989;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033216;1600500;Guard;6399;Hollis Thompson;3224;Philadelphia 76ers;6400;Robert Covington;3224;Philadelphia 76ers;;;1;265.771;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033217;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;265.771;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033218;400101;Accurate pass;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;1;265.771;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033219;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;1;265.771;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:21:03.588582
+77033220;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;1;265.771;23.18;9.99;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77033223;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;278.222;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033224;400101;Accurate pass;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;286.975;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033225;200300;Pick'n'Roll;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;1;286.975;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033226;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;1;286.975;26.84;8.28;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:21:03.588582
+77033233;300100;Foul;6395;JaKarr Sampson;3224;Philadelphia 76ers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;343.577;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033235;100400;Steal;6391;Nerlens Noel;3224;Philadelphia 76ers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;364.942;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033236;800202;2-;6391;Nerlens Noel;3224;Philadelphia 76ers;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;371.995;26.99;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033238;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;1;371.995;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033239;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;394.768;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033243;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;437.174;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033244;800202;2-;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;1;437.174;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:21:03.588582
+77033245;100300;Rebound;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;437.174;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033246;800201;2+;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;437.174;26.99;8.10;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77033250;1600500;Guard;6398;Richaun Holmes;3224;Philadelphia 76ers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;515.013;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033251;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;515.013;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033252;800202;2-;6395;JaKarr Sampson;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;6394;Jahlil Okafor;1;515.013;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:21:03.588582
+77033253;100300;Rebound;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;515.013;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033255;100500;Turnover;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;515.013;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033259;400101;Accurate pass;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;1;556.848;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033260;800201;2+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;1;556.848;24.89;8.43;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77033262;100300;Rebound;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;577.190;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033264;100500;Turnover;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;583.636;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033265;1600500;Guard;101178;Isaiah Canaan;3224;Philadelphia 76ers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;1;610.201;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033270;300100;Foul;101178;Isaiah Canaan;3224;Philadelphia 76ers;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;610.201;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033272;1600500;Guard;6397;T.J. McConnell;3224;Philadelphia 76ers;13747;Kendall Marshall;3224;Philadelphia 76ers;;;1;650.349;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033274;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;650.694;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033275;800201;2+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;669.694;26.99;6.51;;;;;;;;;;Hook;;;;2017-12-07 11:21:03.588582
+77033281;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;1;744.809;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033283;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;744.809;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033284;800202;2-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;744.809;21.71;7.74;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77033285;100300;Rebound;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;1;744.809;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033286;800302;3-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;752.007;21.98;13.98;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033291;100300;Rebound;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;762.268;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033292;200300;Pick'n'Roll;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;1;778.974;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033293;800202;2-;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;1;778.974;26.42;6.57;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:21:03.588582
+77033297;100500;Turnover;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;804.146;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033303;100500;Turnover;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;845.987;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033306;800202;2-;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;1;884.778;21.71;7.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033307;100300;Rebound;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;1;884.778;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033308;800400;2+1;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;1;884.778;27.02;7.59;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:21:03.588582
+77033312;800102;1-;6398;Richaun Holmes;3224;Philadelphia 76ers;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;1;927.698;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033318;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;946.572;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033319;800302;3-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;1;963.572;26.42;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033321;100400;Steal;6397;T.J. McConnell;3224;Philadelphia 76ers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;974.733;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033322;800302;3-;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;983.905;23.87;0.93;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77033325;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;6399;Hollis Thompson;3224;Philadelphia 76ers;;;1;1014.126;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033329;800302;3-;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;1;1037.396;26.12;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033332;100300;Rebound;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;1054.961;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033333;400101;Accurate pass;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;1;1059.947;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033334;800201;2+;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;1;1059.947;26.96;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033337;800600;2F;101178;Isaiah Canaan;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;1;1098.302;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77033340;800101;1+;101178;Isaiah Canaan;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;1;1130.833;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033342;800101;1+;101178;Isaiah Canaan;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;1;1152.946;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033345;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;1162.684;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033346;400101;Accurate pass;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;1178.449;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033347;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;1;1178.449;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:21:03.588582
+77033357;1600500;Guard;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033358;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033359;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033360;1600500;Guard;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033361;1600500;Guard;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033362;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;4.754;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033363;200600;Post;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;16.754;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033364;800600;2F;6393;Carl Landry;3224;Philadelphia 76ers;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;16.754;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:21:03.588582
+77033367;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;42.143;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033368;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;61.785;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033371;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;107.274;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033373;100500;Turnover;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;2;117.901;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033377;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;2;166.542;26.12;7.98;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77033378;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;166.542;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033379;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;2;166.542;27.08;8.04;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:21:03.588582
+77033381;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;2;166.542;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033388;400101;Accurate pass;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;2;219.525;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033389;800301;3+;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;2;219.525;27.20;0.66;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77033393;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;2;240.315;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033394;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;253.963;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033397;800102;1-;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;2;284.556;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033398;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;2;284.556;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033399;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;294.879;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033400;400101;Accurate pass;6393;Carl Landry;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;2;306.879;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033401;800301;3+;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6393;Carl Landry;2;306.879;25.97;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033402;100400;Steal;7466;Jerami Grant;3224;Philadelphia 76ers;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;321.816;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033405;800600;2F;6393;Carl Landry;3224;Philadelphia 76ers;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;2;355.532;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:21:03.588582
+77033408;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;2;388.181;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033409;1600500;Guard;6399;Hollis Thompson;3224;Philadelphia 76ers;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;2;412.847;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033411;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;2;412.847;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033416;800600;2F;13747;Kendall Marshall;3224;Philadelphia 76ers;12372;Tyler Ennis;3280;Milwaukee Bucks;;;2;440.194;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:21:03.588582
+77033419;800102;1-;13747;Kendall Marshall;3224;Philadelphia 76ers;12372;Tyler Ennis;3280;Milwaukee Bucks;;;2;474.047;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033420;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;2;474.047;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033421;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;6393;Carl Landry;3224;Philadelphia 76ers;;;2;496.948;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033422;800102;1-;13747;Kendall Marshall;3224;Philadelphia 76ers;12372;Tyler Ennis;3280;Milwaukee Bucks;;;2;496.948;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033427;800302;3-;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;578.416;20.21;3.66;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77033430;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;589.999;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033431;200600;Post;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;607.638;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033432;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;2;607.638;27.23;7.50;;;;;;;;Post;;Lay up;;;;2017-12-07 11:21:03.588582
+77033435;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;616.778;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033440;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;2;643.045;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033442;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;666.223;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033443;400101;Accurate pass;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;2;666.223;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033444;200300;Pick'n'Roll;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;2;666.223;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033445;800400;2+1;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;2;666.223;26.72;7.74;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:21:03.588582
+77033448;800101;1+;7466;Jerami Grant;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;688.441;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033451;300100;Foul;7466;Jerami Grant;3224;Philadelphia 76ers;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;703.117;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033453;100400;Steal;6400;Robert Covington;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;715.670;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033454;800600;2F;6400;Robert Covington;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;722.104;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:21:03.588582
+77033457;800101;1+;6400;Robert Covington;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;748.572;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033459;1600500;Guard;6397;T.J. McConnell;3224;Philadelphia 76ers;13747;Kendall Marshall;3224;Philadelphia 76ers;;;2;769.537;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033460;800102;1-;6400;Robert Covington;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;769.537;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033466;200600;Post;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;808.640;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033467;800600;2F;6394;Jahlil Okafor;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;808.640;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:21:03.588582
+77033472;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;832.803;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033473;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;854.336;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033477;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;2;890.236;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033478;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;370973;Jabari Parker;3280;Milwaukee Bucks;6399;Hollis Thompson;2;890.236;26.81;7.83;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:21:03.588582
+77033479;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;890.236;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033480;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;890.236;26.84;7.95;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:21:03.588582
+77033484;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;931.742;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033491;200600;Post;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;983.085;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033492;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;983.085;26.12;6.03;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77033494;300100;Foul;6400;Robert Covington;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;983.085;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033499;800202;2-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;2;1028.758;27.08;10.53;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77033500;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;2;1028.758;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033502;100500;Turnover;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;2;1028.758;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033504;100400;Steal;6400;Robert Covington;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;1053.450;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033507;1600500;Guard;6393;Carl Landry;3224;Philadelphia 76ers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;2;1077.199;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033508;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;1077.199;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033509;800302;3-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;2;1077.199;24.05;0.81;;;;;;;;;;Jumper;;;;2017-12-07 11:21:03.588582
+77033513;800301;3+;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;1104.058;20.21;3.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77033516;300100;Foul;6400;Robert Covington;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1132.128;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033519;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;1177.313;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033520;800202;2-;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;2;1189.313;26.66;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77033521;100300;Rebound;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;1189.313;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033522;800202;2-;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;1189.313;26.84;7.98;;;;;;;;Putbacks;;;;;;2017-12-07 11:21:03.588582
+77033526;100300;Rebound;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;2;1205.809;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033527;800600;2F;6393;Carl Landry;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1215.700;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:21:03.588582
+77033530;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1247.020;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033532;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1267.748;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033534;100400;Steal;6391;Nerlens Noel;3224;Philadelphia 76ers;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;1288.056;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033535;800600;2F;6393;Carl Landry;3224;Philadelphia 76ers;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;1288.056;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033538;800102;1-;6393;Carl Landry;3224;Philadelphia 76ers;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;1319.360;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033539;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;2;1319.360;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033541;800102;1-;6393;Carl Landry;3224;Philadelphia 76ers;370973;Jabari Parker;3280;Milwaukee Bucks;;;2;1354.875;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033545;100300;Rebound;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;1391.033;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033546;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;2;1399.492;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033547;800301;3+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;2;1399.492;21.83;2.10;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77033549;100300;Rebound;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;2;1418.088;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033550;800202;2-;6393;Carl Landry;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;2;1443.121;24.65;3.24;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033551;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;2;1443.121;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033559;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033560;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033561;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033562;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033563;1600500;Guard;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033564;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;3.233;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033565;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;14.233;26.99;7.80;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77033569;400101;Accurate pass;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;3;45.967;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033570;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;3;45.967;26.81;7.68;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77033577;300100;Foul;13747;Kendall Marshall;3224;Philadelphia 76ers;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;89.247;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033581;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;125.219;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033582;800201;2+;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;3;144.219;26.84;5.43;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:21:03.588582
+77033585;800202;2-;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;3;203.070;25.82;8.19;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:21:03.588582
+77033586;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;203.070;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033587;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;203.070;26.81;7.74;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77033589;400101;Accurate pass;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;3;242.152;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033590;800201;2+;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;6400;Robert Covington;3;242.152;27.02;7.62;;;;;;;;Catch and Drive;;Dunk;Drives Left;;;2017-12-07 11:21:03.588582
+77033592;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;3;261.036;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033593;400101;Accurate pass;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6400;Robert Covington;3;269.171;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033594;800301;3+;6400;Robert Covington;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;3;269.171;19.73;5.25;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77033596;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;3;301.073;21.41;7.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033601;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;3;306.180;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033602;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;315.329;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033603;400101;Accurate pass;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;3;337.329;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77033604;800201;2+;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;3;337.329;27.08;7.80;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:21:03.588582
+77033606;300100;Foul;13747;Kendall Marshall;3224;Philadelphia 76ers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;349.201;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033610;400101;Accurate pass;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;3;381.658;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033611;800400;2+1;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;3;381.658;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:21:03.588582
+77033614;800101;1+;6391;Nerlens Noel;3224;Philadelphia 76ers;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;407.794;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033617;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;3;426.518;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033618;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;9019;Greg Monroe;3280;Milwaukee Bucks;13747;Kendall Marshall;3;443.187;26.81;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:21:03.588582
+77033623;1600500;Guard;6398;Richaun Holmes;3224;Philadelphia 76ers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;3;486.841;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033624;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;486.841;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033625;800201;2+;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;3;486.841;26.84;7.83;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:21:03.588582
+77033627;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;501.790;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033631;800202;2-;6400;Robert Covington;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;528.119;26.84;7.98;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:21:03.588582
+77033634;300100;Foul;6400;Robert Covington;3224;Philadelphia 76ers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;536.117;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033635;1600500;Guard;6397;T.J. McConnell;3224;Philadelphia 76ers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;3;566.127;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033636;1600500;Guard;6399;Hollis Thompson;3224;Philadelphia 76ers;13747;Kendall Marshall;3224;Philadelphia 76ers;;;3;566.127;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033642;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;3;589.095;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033643;800201;2+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;3;589.095;25.76;1.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033646;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;3;606.985;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033647;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;3;617.331;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033648;800201;2+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;3;617.331;27.05;1.65;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77033658;1600500;Guard;6393;Carl Landry;3224;Philadelphia 76ers;6400;Robert Covington;3224;Philadelphia 76ers;;;3;652.789;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033659;1600500;Guard;101178;Isaiah Canaan;3224;Philadelphia 76ers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;3;652.789;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033660;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;652.789;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033662;100400;Steal;101178;Isaiah Canaan;3224;Philadelphia 76ers;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;679.623;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033666;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;721.653;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033667;800201;2+;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;3;721.653;27.08;7.68;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:21:03.588582
+77033670;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;757.218;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033671;800302;3-;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;3;774.218;19.49;5.70;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77033680;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;3;831.204;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033682;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;3;856.016;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033683;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;856.016;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033684;800202;2-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;3;856.016;27.62;12.12;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:21:03.588582
+77033687;100300;Rebound;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;874.944;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033688;200300;Pick'n'Roll;6393;Carl Landry;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;3;885.184;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033689;800202;2-;6393;Carl Landry;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;101178;Isaiah Canaan;3;885.184;26.81;7.26;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:21:03.588582
+77033692;100300;Rebound;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;906.159;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033695;100300;Rebound;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;3;935.949;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033699;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;984.778;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033700;800302;3-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;3;984.778;24.02;0.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033703;100300;Rebound;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;3;1007.373;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033704;800302;3-;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;3;1014.309;16.34;12.84;;;;;;;;;;Jumper;;;;2017-12-07 11:21:03.588582
+77033705;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;3;1014.309;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033713;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033714;1600500;Guard;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033715;1600500;Guard;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033716;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033717;1600500;Guard;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033722;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;4;30.565;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033723;200600;Post;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;45.589;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033724;800202;2-;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;45.589;26.12;8.91;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77033725;100300;Rebound;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;45.589;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033726;800201;2+;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;45.589;26.99;7.89;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77033728;400101;Accurate pass;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;4;86.583;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77033729;800201;2+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;4;86.583;24.44;11.22;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:21:03.588582
+77033730;100400;Steal;6393;Carl Landry;3224;Philadelphia 76ers;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;109.977;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033731;400101;Accurate pass;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6393;Carl Landry;4;120.455;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033732;800201;2+;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;4;120.455;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:21:03.588582
+77033734;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;4;137.412;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033735;800302;3-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;149.990;19.58;5.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033737;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;149.990;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033739;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;6393;Carl Landry;3224;Philadelphia 76ers;;;4;191.551;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033741;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;191.551;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033743;100500;Turnover;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;4;191.551;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033747;800600;2F;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;4;226.736;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:21:03.588582
+77033750;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;4;255.053;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033751;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;4;275.821;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033754;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;4;297.151;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033756;100500;Turnover;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;4;307.828;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033760;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;337.003;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033761;400101;Accurate pass;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;4;345.550;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033762;800400;2+1;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;345.550;26.81;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033766;800102;1-;7466;Jerami Grant;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;4;380.102;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033770;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;4;412.187;26.84;7.68;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:21:03.588582
+77033773;300100;Foul;6399;Hollis Thompson;3224;Philadelphia 76ers;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;422.305;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033775;100400;Steal;6394;Jahlil Okafor;3224;Philadelphia 76ers;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;437.462;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033776;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;442.639;27.23;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:21:03.588582
+77033778;400101;Accurate pass;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;4;468.509;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033779;800301;3+;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;4;468.509;25.97;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033780;100400;Steal;6391;Nerlens Noel;3224;Philadelphia 76ers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;482.508;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033785;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;4;498.696;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033787;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;6399;Hollis Thompson;3224;Philadelphia 76ers;;;4;519.258;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033788;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;519.258;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033789;800202;2-;13747;Kendall Marshall;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;4;519.258;26.21;7.17;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:21:03.588582
+77033794;1600500;Guard;101178;Isaiah Canaan;3224;Philadelphia 76ers;13747;Kendall Marshall;3224;Philadelphia 76ers;;;4;557.415;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033797;100300;Rebound;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;4;557.415;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033798;800302;3-;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;569.646;20.21;3.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:21:03.588582
+77033802;800302;3-;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;616.480;21.71;13.98;;;;;;;;;;Jumper;;;;2017-12-07 11:21:03.588582
+77033803;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;616.480;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033804;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;616.480;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77033805;100400;Steal;6400;Robert Covington;3224;Philadelphia 76ers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;642.931;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033806;800600;2F;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;4;656.167;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:21:03.588582
+77033809;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;4;699.351;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033811;1600500;Guard;6398;Richaun Holmes;3224;Philadelphia 76ers;7466;Jerami Grant;3224;Philadelphia 76ers;;;4;729.507;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033812;1600500;Guard;6399;Hollis Thompson;3224;Philadelphia 76ers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;4;729.507;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033813;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;9022;John Henson;3280;Milwaukee Bucks;;;4;729.507;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033816;100300;Rebound;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;4;746.532;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033817;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;764.498;22.37;8.28;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:21:03.588582
+77033822;300100;Foul;6399;Hollis Thompson;3224;Philadelphia 76ers;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;792.587;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033825;200600;Post;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;836.166;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033826;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;836.166;27.08;8.52;;;;;;;;Post;;Hook;;;;2017-12-07 11:21:03.588582
+77033828;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;836.166;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033829;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;4;836.166;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033834;400101;Accurate pass;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;4;895.353;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033835;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;4;895.353;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033836;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;4;895.353;26.84;7.98;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:21:03.588582
+77033840;400101;Accurate pass;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;6398;Richaun Holmes;4;919.645;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033841;800201;2+;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;4;919.645;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:21:03.588582
+77033843;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;944.089;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033844;800600;2F;6394;Jahlil Okafor;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;944.089;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033852;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;995.358;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033853;800102;1-;6394;Jahlil Okafor;3224;Philadelphia 76ers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1019.523;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033854;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;1019.523;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033855;100300;Rebound;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;4;1019.523;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033856;800202;2-;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;4;1019.523;26.78;7.77;;;;;;;;Putbacks;;;;;;2017-12-07 11:21:03.588582
+77033859;300100;Foul;101178;Isaiah Canaan;3224;Philadelphia 76ers;12372;Tyler Ennis;3280;Milwaukee Bucks;;;4;1030.148;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033860;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;4;1059.744;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033865;800600;2F;6395;JaKarr Sampson;3224;Philadelphia 76ers;8389;Chris Copeland;3280;Milwaukee Bucks;;;4;1077.746;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:21:03.588582
+77033868;800102;1-;6395;JaKarr Sampson;3224;Philadelphia 76ers;8389;Chris Copeland;3280;Milwaukee Bucks;;;4;1099.641;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033869;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;1099.641;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033870;800101;1+;6395;JaKarr Sampson;3224;Philadelphia 76ers;8389;Chris Copeland;3280;Milwaukee Bucks;;;4;1113.613;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033874;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;1138.982;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77033875;800202;2-;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;4;1149.982;25.76;10.53;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:21:03.588582
+77033876;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;1149.982;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033877;800201;2+;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;1149.982;26.96;7.83;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:21:03.588582
+77033878;100400;Steal;6398;Richaun Holmes;3224;Philadelphia 76ers;13535;Damien Inglis;3280;Milwaukee Bucks;;;4;1163.386;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033879;400101;Accurate pass;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;4;1169.667;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033880;800301;3+;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;4;1169.667;24.50;15.00;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:21:03.588582
+77033882;100300;Rebound;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;4;1218.768;;;;;;;;;;;;;;;;2017-12-07 11:21:03.588582
+77033883;800302;3-;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;4;1233.326;21.05;13.35;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 11:21:03.588582
+93268279;300100;Foul;6399;Hollis Thompson;3224;Philadelphia 76ers;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;191.551;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+103667381;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;1;265.771;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667383;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;1;286.975;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667389;200900;Assisting;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;437.174;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667395;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;1;556.848;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667399;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;;;1;669.694;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667409;200900;Assisting;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;1;884.778;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667413;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;1;1059.947;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667417;200900;Assisting;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;1098.302;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667419;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;1;1178.449;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667423;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;16.754;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667429;200900;Assisting;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;2;219.525;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667433;200900;Assisting;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6393;Carl Landry;2;306.879;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667437;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;355.532;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667441;200900;Assisting;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;2;440.194;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667447;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;2;666.223;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667449;200900;Assisting;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;722.104;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667453;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;808.640;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667457;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;890.236;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667467;200900;Assisting;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;1104.058;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667471;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;1215.700;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667473;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;2;1288.056;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667475;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;2;1399.492;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667479;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;3;45.967;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667485;200900;Assisting;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;3;144.219;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667489;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;203.070;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667493;200900;Assisting;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;6400;Robert Covington;3;242.152;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667495;200900;Assisting;6400;Robert Covington;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;3;269.171;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667501;200900;Assisting;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;3;337.329;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667505;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;3;381.658;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667507;200900;Assisting;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;3;486.841;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667513;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;3;589.095;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667515;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;3;617.331;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667519;200900;Assisting;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;3;721.653;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667527;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;45.589;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667531;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;4;86.583;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667533;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;4;120.455;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667537;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;226.736;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667539;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;345.550;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667543;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;442.639;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667547;200900;Assisting;6399;Hollis Thompson;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;4;468.509;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667553;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;616.480;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667555;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;656.167;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667561;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6399;Hollis Thompson;4;895.353;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667565;200900;Assisting;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;4;919.645;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667567;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;4;944.089;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667571;200900;Assisting;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;4;1077.746;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667573;200900;Assisting;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;1149.982;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082
+103667575;200900;Assisting;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;4;1169.667;;;;;;;;;;;;;;;;2018-04-19 11:15:02.196082

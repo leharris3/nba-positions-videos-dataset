@@ -1,0 +1,927 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+102373921;1601000;Starting lineup;7714;Seth Curry;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373922;1601000;Starting lineup;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373923;1601000;Starting lineup;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373924;1601000;Starting lineup;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373925;1601000;Starting lineup;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373926;1601000;Starting lineup;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373927;1601000;Starting lineup;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373928;1601000;Starting lineup;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373929;1601000;Starting lineup;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373930;1601000;Starting lineup;6377;Darren Collison;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373931;1601000;Starting lineup;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373932;1601000;Starting lineup;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373933;1601000;Starting lineup;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373934;1601000;Starting lineup;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373935;1601000;Starting lineup;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373936;1601000;Starting lineup;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373937;1601000;Starting lineup;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373938;1601000;Starting lineup;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373939;1601000;Starting lineup;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373940;1601000;Starting lineup;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373941;1601000;Starting lineup;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373942;1601000;Starting lineup;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373943;1601000;Starting lineup;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373944;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373945;1600500;Guard;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373946;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373947;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373948;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373949;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373950;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373951;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373952;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373953;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373954;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373955;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;56.090;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102373956;100200;Game stop;;;;;;;;;;;1;77.090;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373957;100500;Turnover;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;77.090;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373958;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;82.556;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102373959;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;106.556;26.36;5.19;;;;;;;;Isolation;;Jumper;Drives Right;;;2018-02-26 13:50:02.014419
+102373960;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;106.556;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373961;800600;2F;7814;Chandler Parsons;2975;Dallas Mavericks;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;117.943;27.05;7.62;;;;;;;;Hand offs;;;;;;2018-02-26 13:50:02.014419
+102373962;100200;Game stop;;;;;;;;;;;1;117.943;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373963;300100;Foul;6371;Willie Cauley-Stein;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;117.943;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373964;800101;1+;7814;Chandler Parsons;2975;Dallas Mavericks;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;143.207;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373965;800102;1-;7814;Chandler Parsons;2975;Dallas Mavericks;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;164.134;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373966;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;164.134;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102373967;100200;Game stop;;;;;;;;;;;1;164.134;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373968;100300;Rebound;;;3225;Sacramento Kings;;;;;;;1;164.134;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373969;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;172.732;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102373970;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;197.732;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373971;800301;3+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6379;Rudy Gay;1;197.732;26.72;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102373972;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;210.235;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373973;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;210.235;;;;;;;;;;Pick'n'pop;;;;;;2018-02-26 13:50:02.014419
+102373974;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;210.235;23.33;4.26;;;;;;;;Pick'n'pop;;Jumper;;;;2018-02-26 13:50:02.014419
+102373975;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;222.097;24.95;7.35;;;;;;;;Isolation;;Hook;Drives Right;;;2018-02-26 13:50:02.014419
+102373976;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;222.097;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373977;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;236.849;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373978;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;236.849;25.34;5.04;;;;;;;;Cut;;Jumper;;;;2018-02-26 13:50:02.014419
+102373979;800302;3-;6385;Ben McLemore;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;260.962;26.27;0.48;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102373980;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;260.962;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373981;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;274.016;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373982;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;274.016;26.27;12.12;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102373983;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;274.016;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373984;200300;Pick'n'Roll;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;291.374;;;;;;;;;;Pick'n'pop;;;;;;2018-02-26 13:50:02.014419
+102373985;800301;3+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;291.374;19.79;7.56;;;;;;;;Pick'n'pop;;Jumper;;;;2018-02-26 13:50:02.014419
+102373986;100200;Game stop;;;;;;;;;;;1;308.317;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373987;100500;Turnover;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;308.317;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373988;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;318.240;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102373989;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;330.240;25.67;8.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102373990;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;1;330.240;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373991;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;336.086;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373992;800301;3+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;336.086;26.81;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102373993;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;345.006;19.49;7.44;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102373994;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;345.006;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373995;400101;Accurate pass;6379;Rudy Gay;3225;Sacramento Kings;;;;;6385;Ben McLemore;1;351.286;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102373996;800201;2+;6385;Ben McLemore;3225;Sacramento Kings;;;;;6379;Rudy Gay;1;351.286;26.21;2.04;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102373997;800301;3+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;373.796;19.58;6.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102373998;800302;3-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;394.277;25.91;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102373999;100200;Game stop;;;;;;;;;;;1;394.277;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374000;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;394.277;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374001;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;394.277;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374002;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;412.279;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374003;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;426.279;22.88;10.74;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374004;100200;Game stop;;;;;;;;;;;1;435.853;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374005;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;1;435.853;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374006;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;451.064;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374007;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;461.064;26.42;11.37;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374008;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;1;461.064;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374009;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;465.360;23.18;1.41;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374010;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;465.360;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374011;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;478.628;26.72;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374012;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;1;478.628;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374013;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;489.879;19.58;6.96;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374014;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;489.879;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374015;800302;3-;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;493.596;24.02;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374016;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;493.596;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374017;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;501.510;20.03;4.74;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374018;100300;Rebound;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;501.510;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374019;800202;2-;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;1;507.345;26.72;6.90;;;;;;;;Transition;;Lay up;;;;2018-02-26 13:50:02.014419
+102374020;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;507.345;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374021;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;514.483;27.05;7.62;;;;;;;;Transition;;;;;;2018-02-26 13:50:02.014419
+102374022;100200;Game stop;;;;;;;;;;;1;514.483;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374023;300100;Foul;6371;Willie Cauley-Stein;3225;Sacramento Kings;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;514.483;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374024;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;546.236;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374025;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;546.236;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374026;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;546.236;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374027;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;546.236;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374028;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;1;578.670;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374029;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;579.862;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374030;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;590.862;24.35;2.85;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374031;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;590.862;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374032;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;605.820;27.08;11.73;;;;;;;;Cut;;Jumper;;;;2018-02-26 13:50:02.014419
+102374033;100200;Game stop;;;;;;;;;;;1;605.820;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374034;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;605.820;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374035;300100;Foul;6388;Kosta Koufos;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;;;1;605.820;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374036;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;1;630.416;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374037;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;637.797;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374038;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;649.797;26.42;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374039;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;649.797;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374040;200600;Post;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;670.811;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374041;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;670.811;27.05;3.09;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374042;800302;3-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;682.876;20.09;4.95;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374043;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;682.876;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374044;100200;Game stop;;;;;;;;;;;1;707.964;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374045;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;6385;Ben McLemore;3225;Sacramento Kings;;;1;707.964;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374046;100500;Turnover;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;707.964;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374047;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;707.964;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374048;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;707.964;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374049;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;707.964;26.84;3.81;;;;;;;;Cut;;Jumper;;;;2018-02-26 13:50:02.014419
+102374050;100200;Game stop;;;;;;;;;;;1;721.834;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374051;300100;Foul;6388;Kosta Koufos;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;;;1;721.834;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374052;100500;Turnover;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;721.834;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374053;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;6388;Kosta Koufos;3225;Sacramento Kings;;;1;762.210;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374054;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;762.210;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374055;100200;Game stop;;;;;;;;;;;1;762.210;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374056;100500;Turnover;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;762.210;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374057;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;773.218;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374058;400101;Accurate pass;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;785.218;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374059;800201;2+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;7772;Marco Belinelli;1;785.218;22.10;11.13;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374060;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;804.743;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374061;200300;Pick'n'Roll;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;804.743;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374062;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;804.743;19.73;6.81;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2018-02-26 13:50:02.014419
+102374063;100400;Steal;2428;Deron Williams;2975;Dallas Mavericks;6381;Rajon Rondo;3225;Sacramento Kings;;;1;815.205;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374064;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;825.813;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374065;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;825.813;26.81;6.90;;;;;;;;Cut;;Lay up;;;;2018-02-26 13:50:02.014419
+102374066;400101;Accurate pass;6384;Omri Casspi;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;843.936;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374067;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;843.936;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374068;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6384;Omri Casspi;1;843.936;26.81;8.28;;;;;;;;Post;;Lay up;;;;2018-02-26 13:50:02.014419
+102374069;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;854.547;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374070;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;854.547;22.73;1.41;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374071;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;872.117;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374072;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;872.117;26.72;7.02;;;;;;;;Post;;Lay up;;;;2018-02-26 13:50:02.014419
+102374073;100200;Game stop;;;;;;;;;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374074;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374075;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374076;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6383;DeMarcus Cousins;3225;Sacramento Kings;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374077;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374078;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374079;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374080;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374081;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;897.463;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374082;100200;Game stop;;;;;;;;;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374083;300100;Foul;7461;JaVale McGee;2975;Dallas Mavericks;6388;Kosta Koufos;3225;Sacramento Kings;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374084;100500;Turnover;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;897.463;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374085;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;910.174;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374086;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;7772;Marco Belinelli;3225;Sacramento Kings;;;1;924.174;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374087;100200;Game stop;;;;;;;;;;;1;929.254;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374088;100500;Turnover;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;929.254;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374089;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;935.955;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374090;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;7772;Marco Belinelli;1;946.955;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374091;800201;2+;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;946.955;23.90;2.85;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374092;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;962.521;20.33;10.89;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374093;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;962.521;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374094;800600;2F;7814;Chandler Parsons;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;1;966.187;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2018-02-26 13:50:02.014419
+102374095;100200;Game stop;;;;;;;;;;;1;966.187;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374096;300100;Foul;6377;Darren Collison;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;966.187;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374097;800102;1-;7814;Chandler Parsons;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;1;989.474;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374098;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;989.474;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374099;800101;1+;7814;Chandler Parsons;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;1;1007.084;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374100;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;1011.978;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374101;200300;Pick'n'Roll;6384;Omri Casspi;3225;Sacramento Kings;;;;;6377;Darren Collison;1;1031.978;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374102;800400;2+1;6384;Omri Casspi;3225;Sacramento Kings;;;;;6377;Darren Collison;1;1031.978;26.51;6.33;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2018-02-26 13:50:02.014419
+102374103;100200;Game stop;;;;;;;;;;;1;1031.978;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374104;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;1;1031.978;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374105;800102;1-;6384;Omri Casspi;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;1058.519;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374106;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1058.519;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374107;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;1058.519;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374108;800201;2+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;1076.411;25.22;5.97;;;;;;;;Pick'n'Roll;;Floater;;;;2018-02-26 13:50:02.014419
+102374109;200300;Pick'n'Roll;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6377;Darren Collison;1;1096.545;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374110;800202;2-;6388;Kosta Koufos;3225;Sacramento Kings;;;;;6377;Darren Collison;1;1096.545;24.14;6.48;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2018-02-26 13:50:02.014419
+102374111;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;1096.545;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374112;800202;2-;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;1;1096.545;25.19;7.80;;;;;;;;Putbacks;;Jumper;;;;2018-02-26 13:50:02.014419
+102374113;100300;Rebound;6377;Darren Collison;3225;Sacramento Kings;;;;;;;1;1096.545;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374114;800302;3-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;1;1102.505;26.66;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374115;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;1102.505;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374116;800600;2F;2432;Devin L Harris;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;1;1109.753;27.05;7.62;;;;;;;;Transition;;;;;;2018-02-26 13:50:02.014419
+102374117;100200;Game stop;;;;;;;;;;;1;1109.753;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374118;300100;Foul;6384;Omri Casspi;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;1;1109.753;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374119;800101;1+;2432;Devin L Harris;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;1;1132.512;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374120;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;1151.005;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374121;800101;1+;2432;Devin L Harris;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;1;1151.005;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374122;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;1;1158.662;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374123;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;1;1178.462;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374124;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;1184.380;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374125;800301;3+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1184.380;22.88;1.50;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374126;800302;3-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;1;1192.336;12.47;6.03;;;;;;;;;;Jumper;;;;2018-02-26 13:50:02.014419
+102374127;100300;Rebound;;;3225;Sacramento Kings;;;;;;;1;1192.336;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374128;1800500;Halftime;;;;;;;;;;;1;1192.336;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374129;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374130;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374131;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374132;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374133;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374134;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374135;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374136;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374137;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374138;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374139;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374140;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;2.950;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374141;100400;Steal;7499;Raymond Felton;2975;Dallas Mavericks;7772;Marco Belinelli;3225;Sacramento Kings;;;2;14.950;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374142;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;19.844;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374143;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;19.844;26.99;7.05;;;;;;;;Transition;;;;;;2018-02-26 13:50:02.014419
+102374144;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;35.459;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374145;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7461;JaVale McGee;2;51.075;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374146;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;51.075;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2018-02-26 13:50:02.014419
+102374147;800600;2F;6377;Darren Collison;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;66.088;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2018-02-26 13:50:02.014419
+102374148;100200;Game stop;;;;;;;;;;;2;66.088;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374149;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;2;66.088;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374150;800101;1+;6377;Darren Collison;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;94.061;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374151;800101;1+;6377;Darren Collison;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;112.390;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374152;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;114.567;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374153;200300;Pick'n'Roll;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;127.567;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374154;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;127.567;26.84;8.28;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2018-02-26 13:50:02.014419
+102374155;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;2;127.567;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374156;800600;2F;6377;Darren Collison;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;2;143.096;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374157;100200;Game stop;;;;;;;;;;;2;143.096;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374158;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;2;143.096;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374159;800101;1+;6377;Darren Collison;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;2;173.897;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374160;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;7772;Marco Belinelli;3225;Sacramento Kings;;;2;173.897;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374161;800101;1+;6377;Darren Collison;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;2;194.660;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374162;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;194.673;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374163;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;207.673;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374164;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;207.673;24.59;1.89;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374165;800302;3-;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;2;219.275;19.58;7.20;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374166;100200;Game stop;;;;;;;;;;;2;219.275;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374167;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;219.275;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374168;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;221.987;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374169;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;248.987;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374170;800301;3+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;248.987;26.99;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374171;800302;3-;6377;Darren Collison;3225;Sacramento Kings;;;;;6379;Rudy Gay;2;265.241;19.73;8.49;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374172;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;265.241;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374173;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;274.691;26.12;5.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374174;100300;Rebound;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;2;274.691;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374175;800202;2-;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;2;286.389;25.82;6.72;;;;;;;;Transition;;Hook;;;;2018-02-26 13:50:02.014419
+102374176;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;2;286.389;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374177;400101;Accurate pass;6388;Kosta Koufos;3225;Sacramento Kings;;;;;7714;Seth Curry;2;290.636;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374178;800301;3+;7714;Seth Curry;3225;Sacramento Kings;;;;;6388;Kosta Koufos;2;290.636;23.75;0.96;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374179;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;306.398;26.66;5.55;;;;;;;;Cut;;Hook;;;;2018-02-26 13:50:02.014419
+102374180;100300;Rebound;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;2;306.398;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374181;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;321.020;22.82;6.78;;;;;;;;Isolation;;Jumper;Drives Left;;;2018-02-26 13:50:02.014419
+102374182;100200;Game stop;;;;;;;;;;;2;321.020;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374183;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;321.020;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374184;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;6388;Kosta Koufos;3225;Sacramento Kings;;;2;343.247;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374185;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;343.247;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374186;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;343.247;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374187;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;343.247;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374188;100400;Steal;6384;Omri Casspi;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;2;343.247;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374189;400101;Accurate pass;6377;Darren Collison;3225;Sacramento Kings;;;;;6379;Rudy Gay;2;348.200;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374190;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;2;348.200;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2018-02-26 13:50:02.014419
+102374191;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;366.182;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374192;800301;3+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;366.182;26.36;14.61;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374193;100200;Game stop;;;;;;;;;;;2;385.896;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374194;300100;Foul;7461;JaVale McGee;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;2;385.896;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374195;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;2;422.223;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374196;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;422.223;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374197;100200;Game stop;;;;;;;;;;;2;422.223;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374198;100500;Turnover;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;422.223;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374199;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;436.860;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374200;100200;Game stop;;;;;;;;;;;2;448.860;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374201;100500;Turnover;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;448.860;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374202;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;458.069;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374203;100200;Game stop;;;;;;;;;;;2;469.069;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374204;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;469.069;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374205;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;2;501.673;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374206;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;501.673;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374207;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;501.673;25.52;6.78;;;;;;;;Screen off;;Floater;;;;2018-02-26 13:50:02.014419
+102374208;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;511.213;26.06;7.59;;;;;;;;Transition;;Lay up;;;;2018-02-26 13:50:02.014419
+102374209;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;546.600;20.90;3.96;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374210;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;546.600;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374211;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;562.521;19.88;4.74;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374212;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;562.521;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374213;200600;Post;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;573.526;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374214;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;573.526;25.34;2.97;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374215;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;573.526;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374216;200600;Post;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;588.396;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374217;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;588.396;23.90;8.28;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374218;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;606.687;22.88;13.92;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374219;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;606.687;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374220;400101;Accurate pass;6377;Darren Collison;3225;Sacramento Kings;;;;;6379;Rudy Gay;2;618.128;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374221;200600;Post;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;618.128;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374222;800201;2+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;2;618.128;27.02;7.62;;;;;;;;Post;;Dunk;;;;2018-02-26 13:50:02.014419
+102374223;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;634.064;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374224;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;634.064;26.72;4.86;;;;;;;;Screen off;;Floater;;;;2018-02-26 13:50:02.014419
+102374225;400101;Accurate pass;7714;Seth Curry;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;652.809;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374226;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;7714;Seth Curry;2;652.809;26.72;6.72;;;;;;;;Cut;;Lay up;;;;2018-02-26 13:50:02.014419
+102374227;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;671.950;20.21;4.95;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374228;100300;Rebound;7714;Seth Curry;3225;Sacramento Kings;;;;;;;2;671.950;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374229;100400;Steal;2432;Devin L Harris;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;2;684.479;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374230;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;692.421;22.43;13.89;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374231;100200;Game stop;;;;;;;;;;;2;692.421;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374232;100300;Rebound;;;3225;Sacramento Kings;;;;;;;2;692.421;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374233;1800600;Timeout;;;;;;;;;;;2;692.421;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374234;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;2;692.421;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374235;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;2;722.178;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374236;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;722.178;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374237;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;6384;Omri Casspi;3225;Sacramento Kings;;;2;722.178;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374238;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;722.178;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374239;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;7714;Seth Curry;2;722.178;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374240;800301;3+;7714;Seth Curry;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;722.178;22.37;1.71;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374241;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;6379;Rudy Gay;3225;Sacramento Kings;;;2;743.094;27.05;7.62;;;;;;;;Cut;;;;;;2018-02-26 13:50:02.014419
+102374242;100200;Game stop;;;;;;;;;;;2;743.094;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374243;300100;Foul;6379;Rudy Gay;3225;Sacramento Kings;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;743.094;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374244;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;6379;Rudy Gay;3225;Sacramento Kings;;;2;780.381;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374245;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;6379;Rudy Gay;3225;Sacramento Kings;;;2;803.933;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374246;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;807.544;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374247;800302;3-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;2;832.544;19.79;7.56;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374248;100200;Game stop;;;;;;;;;;;2;832.544;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374249;100300;Rebound;;;3225;Sacramento Kings;;;;;;;2;832.544;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374250;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;2;857.726;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374251;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;857.726;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374252;800600;2F;7714;Seth Curry;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;857.726;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2018-02-26 13:50:02.014419
+102374253;100200;Game stop;;;;;;;;;;;2;857.726;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374254;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;7714;Seth Curry;3225;Sacramento Kings;;;2;857.726;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374255;800101;1+;7714;Seth Curry;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;883.614;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374256;800101;1+;7714;Seth Curry;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;898.521;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374257;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;908.844;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374258;100200;Game stop;;;;;;;;;;;2;917.844;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374259;100500;Turnover;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;917.844;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374260;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;927.254;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374261;800600;2F;6381;Rajon Rondo;3225;Sacramento Kings;2428;Deron Williams;2975;Dallas Mavericks;;;2;929.254;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374262;100200;Game stop;;;;;;;;;;;2;929.254;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374263;300100;Foul;2428;Deron Williams;2975;Dallas Mavericks;6381;Rajon Rondo;3225;Sacramento Kings;;;2;929.254;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374264;800102;1-;6381;Rajon Rondo;3225;Sacramento Kings;2428;Deron Williams;2975;Dallas Mavericks;;;2;975.317;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374265;100300;Rebound;;;3225;Sacramento Kings;;;;;;;2;975.317;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374266;800102;1-;6381;Rajon Rondo;3225;Sacramento Kings;2428;Deron Williams;2975;Dallas Mavericks;;;2;993.755;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374267;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;993.755;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374268;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;993.755;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374269;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1011.105;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374270;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1011.105;25.10;4.59;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374271;100400;Steal;2430;Wesley Matthews;2975;Dallas Mavericks;6379;Rudy Gay;3225;Sacramento Kings;;;2;1028.114;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374272;100200;Game stop;;;;;;;;;;;2;1036.607;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374273;300100;Foul;7714;Seth Curry;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;1036.607;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374274;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;2;1082.200;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374275;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6377;Darren Collison;3225;Sacramento Kings;;;2;1082.200;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374276;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1082.200;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374277;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1082.200;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374278;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1082.200;26.12;2.85;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374279;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;1082.200;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374280;800600;2F;6381;Rajon Rondo;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;2;1086.456;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374281;100200;Game stop;;;;;;;;;;;2;1086.456;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374282;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;6381;Rajon Rondo;3225;Sacramento Kings;;;2;1086.456;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374283;800102;1-;6381;Rajon Rondo;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;2;1124.700;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374284;100300;Rebound;;;3225;Sacramento Kings;;;;;;;2;1124.700;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374285;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;2;1143.997;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374286;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1147.431;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374287;100200;Game stop;;;;;;;;;;;2;1159.431;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374288;300100;Foul;6384;Omri Casspi;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;1159.431;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374289;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1181.986;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374290;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;1189.986;26.81;8.67;;;;;;;;Isolation;;Jumper;Drives Right;;;2018-02-26 13:50:02.014419
+102374291;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1189.986;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374292;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1195.326;19.79;9.81;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374293;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;1195.326;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374294;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1200.919;26.42;12.57;;;;;;;;Cut;;Jumper;;;;2018-02-26 13:50:02.014419
+102374295;100300;Rebound;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;2;1200.919;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374296;100400;Steal;2428;Deron Williams;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;2;1209.029;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374297;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;1219.520;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374298;800301;3+;2428;Deron Williams;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;1219.520;19.73;6.36;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374299;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6384;Omri Casspi;2;1236.508;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374300;800301;3+;6384;Omri Casspi;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;1236.508;19.79;10.05;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374301;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;6388;Kosta Koufos;3225;Sacramento Kings;;;2;1256.941;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2018-02-26 13:50:02.014419
+102374302;100200;Game stop;;;;;;;;;;;2;1256.941;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374303;300100;Foul;6388;Kosta Koufos;3225;Sacramento Kings;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;1256.941;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374304;800102;1-;7463;Zaza Pachulia;2975;Dallas Mavericks;6388;Kosta Koufos;3225;Sacramento Kings;;;2;1298.627;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374305;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;1298.627;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374306;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;6388;Kosta Koufos;3225;Sacramento Kings;;;2;1298.627;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374307;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;1298.627;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374308;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;6388;Kosta Koufos;3225;Sacramento Kings;;;2;1330.551;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374309;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;2;1334.752;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374310;800600;2F;6381;Rajon Rondo;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;2;1335.252;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374311;100200;Game stop;;;;;;;;;;;2;1335.252;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374312;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;6381;Rajon Rondo;3225;Sacramento Kings;;;2;1335.252;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374313;800102;1-;6381;Rajon Rondo;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;2;1369.700;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374314;100300;Rebound;;;3225;Sacramento Kings;;;;;;;2;1369.700;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374315;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;1369.700;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374316;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;6384;Omri Casspi;3225;Sacramento Kings;;;2;1369.700;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374317;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;2;1394.351;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374318;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1398.832;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374319;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;1415.332;;;;;;;;;;Pick'n'pop;;;;;;2018-02-26 13:50:02.014419
+102374320;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;1415.332;21.26;8.37;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2018-02-26 13:50:02.014419
+102374321;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1415.332;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374322;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1415.332;26.36;7.35;;;;;;;;Putbacks;;;;;;2018-02-26 13:50:02.014419
+102374323;800302;3-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;1434.264;20.90;2.43;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374324;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1434.264;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374325;1800500;Halftime;;;;;;;;;;;2;1435.264;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374326;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374327;1600500;Guard;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374328;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374329;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374330;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374331;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374332;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374333;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374334;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374335;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374336;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374337;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1.786;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374338;800202;2-;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;25.786;24.95;5.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374339;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;25.786;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374340;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;44.880;22.73;1.47;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374341;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;44.880;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374342;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;48.678;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374343;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;48.678;25.97;2.43;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374344;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;70.846;24.65;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2018-02-26 13:50:02.014419
+102374345;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;70.846;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374346;100200;Game stop;;;;;;;;;;;3;84.563;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374347;100500;Turnover;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;84.563;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374348;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;93.130;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374349;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;103.130;26.81;6.87;;;;;;;;Pick'n'Roll;;Lay up;;;;2018-02-26 13:50:02.014419
+102374350;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;103.130;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374351;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;140.965;23.87;0.93;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374352;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;140.965;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374353;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6379;Rudy Gay;3;161.077;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374354;800301;3+;6379;Rudy Gay;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;161.077;22.13;13.38;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374355;100200;Game stop;;;;;;;;;;;3;176.657;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374356;100500;Turnover;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;176.657;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374357;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;187.183;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374358;100200;Game stop;;;;;;;;;;;3;191.183;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374359;300100;Foul;6371;Willie Cauley-Stein;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;191.183;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374360;100500;Turnover;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;3;191.183;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374361;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;207.061;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374362;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;229.061;19.58;8.76;;;;;;;;Isolation;;Jumper;;Quick first step;;2018-02-26 13:50:02.014419
+102374363;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;229.061;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374364;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;237.154;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2018-02-26 13:50:02.014419
+102374365;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;3;237.154;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374366;800600;2F;6371;Willie Cauley-Stein;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;242.551;27.05;7.62;;;;;;;;Cut;;;;;;2018-02-26 13:50:02.014419
+102374367;100200;Game stop;;;;;;;;;;;3;242.551;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374368;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;3;242.551;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374369;800102;1-;6371;Willie Cauley-Stein;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;268.355;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374370;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;268.355;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374371;800101;1+;6371;Willie Cauley-Stein;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;285.887;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374372;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;290.954;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374373;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;306.954;25.34;7.74;;;;;;;;Cut;;Hook;;;;2018-02-26 13:50:02.014419
+102374374;100300;Rebound;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;3;306.954;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374375;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;319.282;19.79;9.57;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374376;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;319.282;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374377;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;339.579;19.58;8.19;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374378;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;339.579;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374379;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;351.342;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2018-02-26 13:50:02.014419
+102374380;100200;Game stop;;;;;;;;;;;3;351.342;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374381;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;351.342;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374382;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;380.308;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374383;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;380.308;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374384;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;399.548;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374385;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;401.440;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374386;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;419.440;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374387;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;419.440;;;;;;;;;;Pick'n'pop;;;;;;2018-02-26 13:50:02.014419
+102374388;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;419.440;20.66;7.89;;;;;;;;Pick'n'pop;;Jumper;;;;2018-02-26 13:50:02.014419
+102374389;800201;2+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;426.965;23.60;3.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374390;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;440.464;;;;;;;;;;Pick'n'pop;;;;;;2018-02-26 13:50:02.014419
+102374391;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;440.464;22.73;8.91;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2018-02-26 13:50:02.014419
+102374392;100300;Rebound;6385;Ben McLemore;3225;Sacramento Kings;;;;;;;3;440.464;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374393;800600;2F;6379;Rudy Gay;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;3;456.004;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2018-02-26 13:50:02.014419
+102374394;100200;Game stop;;;;;;;;;;;3;456.004;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374395;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;6379;Rudy Gay;3225;Sacramento Kings;;;3;456.004;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374396;800101;1+;6379;Rudy Gay;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;3;484.509;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374397;800101;1+;6379;Rudy Gay;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;3;502.935;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374398;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;508.431;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374399;100200;Game stop;;;;;;;;;;;3;518.431;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374400;100500;Turnover;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;518.431;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374401;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;523.069;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374402;800202;2-;6379;Rudy Gay;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;536.069;26.72;2.85;;;;;;;;Catch and Drive;;Jumper;;;;2018-02-26 13:50:02.014419
+102374403;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;536.069;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374404;800600;2F;6379;Rudy Gay;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;536.069;27.05;7.62;;;;;;;;Putbacks;;;;;;2018-02-26 13:50:02.014419
+102374405;100200;Game stop;;;;;;;;;;;3;536.069;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374406;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;6379;Rudy Gay;3225;Sacramento Kings;;;3;536.069;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374407;800101;1+;6379;Rudy Gay;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;564.722;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374408;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;3;564.722;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374409;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;564.722;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374410;800101;1+;6379;Rudy Gay;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;601.103;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374411;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;604.185;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374412;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7461;JaVale McGee;3;619.185;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374413;200300;Pick'n'Roll;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;619.185;;;;;;;;;;Pick'n'pop;;;;;;2018-02-26 13:50:02.014419
+102374414;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;619.185;21.26;5.73;;;;;;;;Pick'n'pop;;Jumper;;;;2018-02-26 13:50:02.014419
+102374415;800201;2+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;630.987;26.57;6.66;;;;;;;;Pick'n'Roll;;Lay up;;;;2018-02-26 13:50:02.014419
+102374416;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;651.683;21.98;4.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374417;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;655.202;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374418;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;655.202;19.94;9.45;;;;;;;;Putbacks;;Jumper;;;;2018-02-26 13:50:02.014419
+102374419;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;655.202;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374420;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;671.107;22.88;14.04;;;;;;;;Isolation;;Jumper;;Quick first step;;2018-02-26 13:50:02.014419
+102374421;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;671.107;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374422;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;2428;Deron Williams;3;689.640;26.66;9.36;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2018-02-26 13:50:02.014419
+102374423;100200;Game stop;;;;;;;;;;;3;689.640;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374424;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;689.640;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374425;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;3;709.608;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374426;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;709.608;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374427;100200;Game stop;;;;;;;;;;;3;709.608;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374428;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;709.608;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374429;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;709.608;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374430;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;7461;JaVale McGee;2975;Dallas Mavericks;;;3;709.608;27.05;7.62;;;;;;;;Post;;;;;;2018-02-26 13:50:02.014419
+102374431;300100;Foul;7461;JaVale McGee;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;709.608;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374432;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;7461;JaVale McGee;2975;Dallas Mavericks;;;3;740.699;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374433;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;3;740.699;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374434;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;7461;JaVale McGee;2975;Dallas Mavericks;;;3;757.001;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374435;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;757.001;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374436;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;760.965;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374437;100200;Game stop;;;;;;;;;;;3;779.965;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374438;100500;Turnover;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;779.965;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374439;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;787.172;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374440;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6385;Ben McLemore;3;799.172;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374441;800201;2+;6385;Ben McLemore;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;799.172;26.84;7.83;;;;;;;;Cut;;;;;;2018-02-26 13:50:02.014419
+102374442;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;824.411;25.64;7.95;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374443;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;824.411;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374444;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;832.050;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374445;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;839.233;23.57;3.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374446;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;839.233;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374447;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;3;848.049;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374448;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;848.049;26.57;7.32;;;;;;;;Transition;;Lay up;;;;2018-02-26 13:50:02.014419
+102374449;800600;2F;6381;Rajon Rondo;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;3;856.543;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374450;100200;Game stop;;;;;;;;;;;3;856.543;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374451;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;6381;Rajon Rondo;3225;Sacramento Kings;;;3;856.543;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374452;800102;1-;6381;Rajon Rondo;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;3;880.693;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374453;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;880.693;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374454;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;3;880.693;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374455;800102;1-;6381;Rajon Rondo;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;3;906.331;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374456;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;906.331;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374457;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;906.331;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374458;100200;Game stop;;;;;;;;;;;3;906.331;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374459;100500;Turnover;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;906.331;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374460;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;941.267;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374461;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;7714;Seth Curry;3;960.267;25.76;8.76;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2018-02-26 13:50:02.014419
+102374462;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;960.267;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374463;100200;Game stop;;;;;;;;;;;3;966.447;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374464;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;7714;Seth Curry;3225;Sacramento Kings;;;3;966.447;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374465;100500;Turnover;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;966.447;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374466;800600;2F;6381;Rajon Rondo;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;984.157;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374467;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;6381;Rajon Rondo;3225;Sacramento Kings;;;3;984.157;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374468;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;1015.354;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374469;1600500;Guard;6388;Kosta Koufos;3225;Sacramento Kings;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;1015.354;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374470;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;1015.354;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374471;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;1047.671;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374472;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1051.080;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374473;100200;Game stop;;;;;;;;;;;3;1061.080;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374474;100500;Turnover;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;1061.080;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374475;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;6385;Ben McLemore;3225;Sacramento Kings;;;3;1098.639;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374476;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1098.639;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374477;200600;Post;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;3;1098.639;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374478;800202;2-;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;3;1098.639;25.82;4.71;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374479;100300;Rebound;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;3;1098.639;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374480;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;1118.739;25.64;5.34;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2018-02-26 13:50:02.014419
+102374481;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1118.739;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374482;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1118.739;26.36;7.05;;;;;;;;Putbacks;;;;;;2018-02-26 13:50:02.014419
+102374483;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1118.739;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374484;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;1123.389;21.20;2.73;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374485;100300;Rebound;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1123.389;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374486;800302;3-;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1134.719;19.79;8.13;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374487;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1134.719;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374488;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;1149.689;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374489;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;1149.689;26.72;8.13;;;;;;;;Catch and Drive;;;Drives Right;;;2018-02-26 13:50:02.014419
+102374490;800202;2-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;1163.187;25.34;7.32;;;;;;;;Pick'n'Roll;;Hook;;;;2018-02-26 13:50:02.014419
+102374491;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1163.187;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374492;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;1173.608;26.27;6.72;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374493;100300;Rebound;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;3;1173.608;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374494;800302;3-;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;3;1183.667;20.33;4.71;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374495;100200;Game stop;;;;;;;;;;;3;1183.667;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374496;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;1183.667;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374497;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;6381;Rajon Rondo;3225;Sacramento Kings;;;3;1204.201;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374498;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;1204.201;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374499;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;3;1204.201;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374500;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;3;1204.201;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374501;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1204.201;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374502;800302;3-;7714;Seth Curry;3225;Sacramento Kings;;;;;;;3;1204.201;25.37;0.63;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374503;100200;Game stop;;;;;;;;;;;3;1204.201;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374504;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;1204.201;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374505;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1215.443;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374506;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2432;Devin L Harris;3;1232.443;26.42;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374507;100200;Game stop;;;;;;;;;;;3;1232.443;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374508;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;1232.443;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374509;800600;2F;6388;Kosta Koufos;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;1232.499;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374510;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;6388;Kosta Koufos;3225;Sacramento Kings;;;3;1232.499;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374511;800102;1-;6388;Kosta Koufos;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;1268.455;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374512;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;1268.455;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374513;800102;1-;6388;Kosta Koufos;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;1282.289;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374514;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1282.289;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374515;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1282.289;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374516;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;1300.406;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374517;800600;2F;2433;Dirk Nowitzki;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;3;1300.406;27.05;7.62;;;;;;;;Post;;;;;;2018-02-26 13:50:02.014419
+102374518;100200;Game stop;;;;;;;;;;;3;1300.406;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374519;300100;Foul;6384;Omri Casspi;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;1300.406;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374520;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;3;1326.979;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374521;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;3;1343.123;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374522;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1345.964;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374523;800600;2F;6388;Kosta Koufos;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;;;3;1347.564;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374524;100200;Game stop;;;;;;;;;;;3;1347.564;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374525;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;6388;Kosta Koufos;3225;Sacramento Kings;;;3;1347.564;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374526;800102;1-;6388;Kosta Koufos;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;;;3;1375.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374527;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;1375.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374528;800102;1-;6388;Kosta Koufos;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;;;3;1389.893;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374529;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1389.893;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374530;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1389.893;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374531;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1401.402;25.76;14.76;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374532;100200;Game stop;;;;;;;;;;;3;1401.402;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374533;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;1401.402;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374534;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;6388;Kosta Koufos;3225;Sacramento Kings;;;3;1439.323;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374535;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1439.323;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374536;800201;2+;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1439.323;21.11;8.82;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374537;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;1451.199;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2018-02-26 13:50:02.014419
+102374538;100200;Game stop;;;;;;;;;;;3;1451.199;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374539;300100;Foul;6383;DeMarcus Cousins;3225;Sacramento Kings;7499;Raymond Felton;2975;Dallas Mavericks;;;3;1451.199;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374540;800102;1-;7499;Raymond Felton;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;1484.843;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374541;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;1484.843;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374542;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;1484.843;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374543;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;3;1506.583;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374544;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;3;1512.013;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374545;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;1514.913;14.93;2.70;;;;;;;;;;Jumper;;;;2018-02-26 13:50:02.014419
+102374546;100300;Rebound;;;3225;Sacramento Kings;;;;;;;3;1514.913;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374547;1800500;Halftime;;;;;;;;;;;3;1514.913;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374548;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374549;1600500;Guard;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374550;1600500;Guard;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374551;1600500;Guard;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374552;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374553;1600500;Guard;7772;Marco Belinelli;3225;Sacramento Kings;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374554;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374555;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374556;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374557;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374558;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374559;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;2.779;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374560;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;17.779;21.41;5.55;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374561;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;17.779;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374562;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6384;Omri Casspi;4;32.828;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374563;800201;2+;6384;Omri Casspi;3225;Sacramento Kings;;;;;6377;Darren Collison;4;32.828;26.84;8.19;;;;;;;;Cut;;Lay up;;;;2018-02-26 13:50:02.014419
+102374564;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;46.567;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374565;800301;3+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;46.567;21.98;13.20;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374566;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;70.880;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374567;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;;;4;70.880;27.05;7.62;;;;;;;;Post;;;;;;2018-02-26 13:50:02.014419
+102374568;100200;Game stop;;;;;;;;;;;4;70.880;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374569;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;4;70.880;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374570;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;;;4;97.965;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374571;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;4;97.965;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374572;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;;;4;117.438;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374573;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;121.011;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374574;800600;2F;2427;Dwight Powell;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;4;136.011;27.05;7.62;;;;;;;;Cut;;;;;;2018-02-26 13:50:02.014419
+102374575;100200;Game stop;;;;;;;;;;;4;136.011;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374576;300100;Foul;6377;Darren Collison;3225;Sacramento Kings;2427;Dwight Powell;2975;Dallas Mavericks;;;4;136.011;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374577;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;4;160.236;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374578;800101;1+;2427;Dwight Powell;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;4;176.239;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374579;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;178.882;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374580;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;192.882;27.05;7.62;;;;;;;;Cut;;;;;;2018-02-26 13:50:02.014419
+102374581;100200;Game stop;;;;;;;;;;;4;192.882;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374582;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;4;192.882;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374583;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;217.539;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374584;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;229.939;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374585;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;231.384;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374586;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;245.384;20.51;7.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374587;800302;3-;6384;Omri Casspi;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;263.631;19.34;7.59;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374588;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;263.631;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374589;100200;Game stop;;;;;;;;;;;4;278.049;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374590;300100;Foul;6377;Darren Collison;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;278.049;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374591;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;293.706;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374592;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;307.706;26.51;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374593;100300;Rebound;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;307.706;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374594;100200;Game stop;;;;;;;;;;;4;317.709;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374595;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;4;317.709;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374596;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;337.787;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374597;400101;Accurate pass;6384;Omri Casspi;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;348.787;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374598;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;348.787;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374599;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6384;Omri Casspi;4;348.787;25.49;7.56;;;;;;;;Post;;Hook;;;;2018-02-26 13:50:02.014419
+102374600;800600;2F;2433;Dirk Nowitzki;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;4;367.556;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2018-02-26 13:50:02.014419
+102374601;100200;Game stop;;;;;;;;;;;4;367.556;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374602;300100;Foul;6384;Omri Casspi;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;367.556;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374603;1800600;Timeout;;;;;;;;;;;4;381.546;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374604;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;381.546;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374605;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;381.546;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374606;800102;1-;2433;Dirk Nowitzki;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;4;381.546;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374607;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;381.546;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374608;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;6384;Omri Casspi;3225;Sacramento Kings;;;4;394.894;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374609;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;397.973;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374610;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;417.973;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374611;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;417.973;26.99;6.66;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374612;100200;Game stop;;;;;;;;;;;4;417.973;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374613;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;417.973;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374614;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;425.685;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374615;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;441.685;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374616;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;441.685;23.87;4.71;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374617;100300;Rebound;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;441.685;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374618;400101;Accurate pass;6384;Omri Casspi;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;453.407;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374619;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;453.407;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374620;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6384;Omri Casspi;4;453.407;27.02;7.62;;;;;;;;Post;;Dunk;;;;2018-02-26 13:50:02.014419
+102374621;100200;Game stop;;;;;;;;;;;4;481.543;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374622;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;481.543;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374623;1600500;Guard;6379;Rudy Gay;3225;Sacramento Kings;7714;Seth Curry;3225;Sacramento Kings;;;4;481.543;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374624;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;481.543;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374625;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;481.543;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374626;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;481.543;19.64;7.35;;;;;;;;Screen off;;Jumper;;;;2018-02-26 13:50:02.014419
+102374627;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;481.543;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374628;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;501.640;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374629;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;501.640;25.22;11.58;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374630;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;501.640;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374631;200600;Post;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;519.097;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374632;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;519.097;26.84;3.03;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374633;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;519.097;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374634;400101;Accurate pass;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6384;Omri Casspi;4;527.677;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374635;800301;3+;6384;Omri Casspi;3225;Sacramento Kings;;;;;7772;Marco Belinelli;4;527.677;22.73;13.89;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374636;100200;Game stop;;;;;;;;;;;4;548.604;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374637;300100;Foul;2425;Charlie Villanueva;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;4;548.604;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374638;100500;Turnover;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;548.604;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374639;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;568.145;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374640;100400;Steal;2425;Charlie Villanueva;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;4;587.145;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374641;800600;2F;2432;Devin L Harris;2975;Dallas Mavericks;7772;Marco Belinelli;3225;Sacramento Kings;;;4;592.593;27.05;7.62;;;;;;;;Transition;;;;;;2018-02-26 13:50:02.014419
+102374642;100200;Game stop;;;;;;;;;;;4;592.593;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374643;300100;Foul;7772;Marco Belinelli;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;592.593;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374644;800101;1+;2432;Devin L Harris;2975;Dallas Mavericks;7772;Marco Belinelli;3225;Sacramento Kings;;;4;629.940;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374645;800101;1+;2432;Devin L Harris;2975;Dallas Mavericks;7772;Marco Belinelli;3225;Sacramento Kings;;;4;645.852;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374646;100100;Ball in play;;;3225;Sacramento Kings;;;;;;;4;645.852;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374647;800301;3+;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;660.840;19.49;7.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374648;800302;3-;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;4;677.219;26.66;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374649;100300;Rebound;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;4;677.219;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374650;200300;Pick'n'Roll;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;4;697.375;;;;;;;;;;Pick'n'pop;;;;;;2018-02-26 13:50:02.014419
+102374651;800302;3-;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;4;697.375;19.64;7.26;;;;;;;;Pick'n'pop;;Jumper;;;;2018-02-26 13:50:02.014419
+102374652;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;697.375;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374653;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;706.952;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374654;800301;3+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;706.952;21.41;12.27;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374655;400101;Accurate pass;6377;Darren Collison;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;724.854;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374656;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;4;724.854;26.72;7.98;;;;;;;;Catch and Drive;;Lay up;;;;2018-02-26 13:50:02.014419
+102374657;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;744.951;26.84;4.56;;;;;;;;Catch and Drive;;;Drives Right;;;2018-02-26 13:50:02.014419
+102374658;200600;Post;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;765.307;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374659;800400;2+1;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;765.307;25.82;8.22;;;;;;;;Post;;Jumper;;;;2018-02-26 13:50:02.014419
+102374660;100200;Game stop;;;;;;;;;;;4;765.307;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374661;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;6379;Rudy Gay;3225;Sacramento Kings;;;4;765.307;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374662;1600500;Guard;6381;Rajon Rondo;3225;Sacramento Kings;7772;Marco Belinelli;3225;Sacramento Kings;;;4;812.413;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374663;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;4;812.413;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374664;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;4;812.413;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374665;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;4;812.413;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374666;800101;1+;6379;Rudy Gay;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;812.413;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374667;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;814.380;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374668;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;825.380;;;;;;;;;;Pick'n'pop;;;;;;2018-02-26 13:50:02.014419
+102374669;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;825.380;19.58;7.83;;;;;;;;Pick'n'pop;;Jumper;;;;2018-02-26 13:50:02.014419
+102374670;100300;Rebound;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;825.380;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374671;800202;2-;6383;DeMarcus Cousins;3225;Sacramento Kings;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;834.686;26.66;8.43;;;;;;;;Transition;;Lay up;;;;2018-02-26 13:50:02.014419
+102374672;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;834.686;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374673;800302;3-;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;4;843.272;26.72;14.67;;;;;;;;Transition;;Jumper;;;;2018-02-26 13:50:02.014419
+102374674;100300;Rebound;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;843.272;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374675;800600;2F;6377;Darren Collison;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;851.428;27.05;7.62;;;;;;;;Transition;;;;;;2018-02-26 13:50:02.014419
+102374676;100200;Game stop;;;;;;;;;;;4;851.428;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374677;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;6377;Darren Collison;3225;Sacramento Kings;;;4;851.428;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374678;800101;1+;6377;Darren Collison;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;885.338;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374679;800101;1+;6377;Darren Collison;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;907.096;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374680;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;913.402;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374681;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;921.402;26.72;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374682;100200;Game stop;;;;;;;;;;;4;921.402;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374683;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;921.402;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374684;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;947.733;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374685;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;958.733;26.42;12.96;;;;;;;;Hand offs;;Jumper;;;;2018-02-26 13:50:02.014419
+102374686;800600;2F;6381;Rajon Rondo;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;964.521;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374687;100200;Game stop;;;;;;;;;;;4;964.521;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374688;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;6381;Rajon Rondo;3225;Sacramento Kings;;;4;964.521;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374689;800102;1-;6381;Rajon Rondo;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;994.690;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374690;100300;Rebound;;;3225;Sacramento Kings;;;;;;;4;994.690;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374691;1600500;Guard;8429;John Jenkins;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;1025.897;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374692;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;1025.897;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374693;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1028.700;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374694;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;1036.700;;;;;;;;;;Pick'n'pop;;;;;;2018-02-26 13:50:02.014419
+102374695;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;1036.700;20.96;3.63;;;;;;;;Pick'n'pop;;Jumper;;;;2018-02-26 13:50:02.014419
+102374696;100300;Rebound;6384;Omri Casspi;3225;Sacramento Kings;;;;;;;4;1036.700;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374697;800600;2F;6381;Rajon Rondo;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;1040.595;27.05;7.62;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374698;100200;Game stop;;;;;;;;;;;4;1040.595;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374699;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1040.595;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374700;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;1069.404;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374701;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;1069.404;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374702;800101;1+;6381;Rajon Rondo;3225;Sacramento Kings;2432;Devin L Harris;2975;Dallas Mavericks;;;4;1105.296;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374703;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1106.313;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374704;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;8429;John Jenkins;4;1116.313;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374705;800201;2+;8429;John Jenkins;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;1116.313;26.84;7.02;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2018-02-26 13:50:02.014419
+102374706;400101;Accurate pass;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;1133.188;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374707;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;1133.188;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374708;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;1133.188;27.02;7.62;;;;;;;;Post;;Dunk;;;;2018-02-26 13:50:02.014419
+102374709;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;1143.409;20.48;7.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374710;200600;Post;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;1170.944;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374711;800600;2F;6383;DeMarcus Cousins;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;1170.944;27.05;7.62;;;;;;;;Post;;;;;;2018-02-26 13:50:02.014419
+102374712;100200;Game stop;;;;;;;;;;;4;1170.944;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374713;300100;Foul;2430;Wesley Matthews;2975;Dallas Mavericks;6383;DeMarcus Cousins;3225;Sacramento Kings;;;4;1170.944;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374714;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;1200.073;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374715;1800600;Timeout;;;3225;Sacramento Kings;;;;;;;4;1200.073;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374716;800101;1+;6383;DeMarcus Cousins;3225;Sacramento Kings;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;1216.215;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374717;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1219.562;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374718;800201;2+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;4;1228.562;25.97;7.35;;;;;;;;Isolation;;Lay up;Drives Right;;;2018-02-26 13:50:02.014419
+102374719;800302;3-;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;1248.662;26.66;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374720;100300;Rebound;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;1248.662;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374721;800201;2+;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;1248.662;26.27;8.64;;;;;;;;Putbacks;;Hook;;;;2018-02-26 13:50:02.014419
+102374722;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;1259.551;21.05;12.75;;;;;;;;Catch and shoot;;Jumper;;;;2018-02-26 13:50:02.014419
+102374723;100300;Rebound;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;4;1259.551;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374724;400101;Accurate pass;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;1283.275;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374725;800201;2+;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;1283.275;26.42;7.35;;;;;;;;Cut;;;;;;2018-02-26 13:50:02.014419
+102374726;100200;Game stop;;;;;;;;;;;4;1292.541;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374727;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;1292.541;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374728;1600500;Guard;370702;Justin Anderson;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;4;1321.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374729;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;4;1321.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374730;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;4;1321.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374731;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;1321.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374732;1600500;Guard;6371;Willie Cauley-Stein;3225;Sacramento Kings;6379;Rudy Gay;3225;Sacramento Kings;;;4;1321.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374733;1600500;Guard;6385;Ben McLemore;3225;Sacramento Kings;6383;DeMarcus Cousins;3225;Sacramento Kings;;;4;1321.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374734;1600500;Guard;7714;Seth Curry;3225;Sacramento Kings;6381;Rajon Rondo;3225;Sacramento Kings;;;4;1321.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374735;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1321.268;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374736;200600;Post;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;1321.268;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374737;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;1321.268;25.67;7.35;;;;;;;;Post;;Hook;;;;2018-02-26 13:50:02.014419
+102374738;800201;2+;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;1344.769;22.28;9.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-02-26 13:50:02.014419
+102374739;800201;2+;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;1354.917;25.82;8.19;;;;;;;;Pick'n'Roll;;Floater;;;;2018-02-26 13:50:02.014419
+102374740;100200;Game stop;;;;;;;;;;;4;1382.321;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374741;100500;Turnover;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;1382.321;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+102374742;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1382.321;;;;;;;;;;;;;;;;2019-10-24 13:28:01.963612
+102374743;1800700;Match end;;;;;;;;;;;4;1388.521;;;;;;;;;;;;;;;;2018-02-26 13:50:02.014419
+103698916;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;117.943;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698918;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6379;Rudy Gay;1;197.732;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698920;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;210.235;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698922;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;236.849;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698924;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;274.016;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698926;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;291.374;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698928;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;1;336.086;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698930;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;6379;Rudy Gay;1;351.286;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698932;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;373.796;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698934;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;426.279;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698936;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;514.483;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698938;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;1;670.811;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698940;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;707.964;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698942;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;7772;Marco Belinelli;1;785.218;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698944;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;804.743;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698946;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;825.813;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698948;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6384;Omri Casspi;1;843.936;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698950;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;854.547;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698952;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;1;872.117;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698954;200900;Assisting;7772;Marco Belinelli;3225;Sacramento Kings;;;;;6381;Rajon Rondo;1;946.955;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698956;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;966.187;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698958;200900;Assisting;6384;Omri Casspi;3225;Sacramento Kings;;;;;6377;Darren Collison;1;1031.978;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698960;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;1076.411;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698962;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;1109.753;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698964;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1184.380;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698966;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;19.844;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698968;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;51.075;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698970;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;2;66.088;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698972;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;2;143.096;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698974;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;207.673;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698976;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;248.987;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698978;200900;Assisting;7714;Seth Curry;3225;Sacramento Kings;;;;;6388;Kosta Koufos;2;290.636;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698980;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;321.020;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698982;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;2;348.200;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698984;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;366.182;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698986;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;501.673;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698988;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;2;511.213;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698990;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;2;588.396;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698992;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6377;Darren Collison;2;618.128;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698994;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;634.064;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698996;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;7714;Seth Curry;2;652.809;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103698998;200900;Assisting;7714;Seth Curry;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;722.178;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699000;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;743.094;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699002;200900;Assisting;7714;Seth Curry;3225;Sacramento Kings;;;;;;;2;857.726;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699004;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;929.254;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699006;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1011.105;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699008;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;1086.456;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699010;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;1219.520;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699012;200900;Assisting;6384;Omri Casspi;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;2;1236.508;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699014;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1256.941;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699016;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;2;1335.252;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699018;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;1415.332;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699020;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;48.678;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699022;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;3;161.077;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699024;200900;Assisting;6371;Willie Cauley-Stein;3225;Sacramento Kings;;;;;;;3;242.551;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699026;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;351.342;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699028;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;419.440;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699030;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;426.965;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699032;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;456.004;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699034;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;3;536.069;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699036;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;619.185;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699038;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;630.987;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699040;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;3;709.608;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699042;200900;Assisting;6385;Ben McLemore;3225;Sacramento Kings;;;;;6381;Rajon Rondo;3;799.172;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699044;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;848.049;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699046;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;856.543;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699048;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;3;984.157;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699050;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;1149.689;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699052;200900;Assisting;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;3;1232.499;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699054;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;1300.406;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699056;200900;Assisting;6388;Kosta Koufos;3225;Sacramento Kings;;;;;;;3;1347.564;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699058;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;3;1439.323;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699060;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1451.199;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699062;200900;Assisting;6384;Omri Casspi;3225;Sacramento Kings;;;;;6377;Darren Collison;4;32.828;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699064;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;46.567;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699066;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;70.880;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699068;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;136.011;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699070;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;192.882;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699072;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;245.384;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699074;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6384;Omri Casspi;4;348.787;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699076;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;367.556;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699078;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6384;Omri Casspi;4;453.407;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699080;200900;Assisting;6384;Omri Casspi;3225;Sacramento Kings;;;;;7772;Marco Belinelli;4;527.677;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699082;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;4;592.593;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699084;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;660.840;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699086;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;706.952;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699088;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6377;Darren Collison;4;724.854;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699090;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;744.951;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699092;200900;Assisting;6379;Rudy Gay;3225;Sacramento Kings;;;;;;;4;765.307;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699094;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;851.428;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699096;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;4;958.733;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699098;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;4;964.521;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699100;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;;;4;1040.595;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699102;200900;Assisting;8429;John Jenkins;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;1116.313;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699104;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;6381;Rajon Rondo;4;1133.188;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699106;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;1143.409;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699108;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;1170.944;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699110;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;4;1228.562;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699112;200900;Assisting;6383;DeMarcus Cousins;3225;Sacramento Kings;;;;;;;4;1248.662;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699114;200900;Assisting;6381;Rajon Rondo;3225;Sacramento Kings;;;;;6383;DeMarcus Cousins;4;1283.275;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699116;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;1321.268;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699118;200900;Assisting;6377;Darren Collison;3225;Sacramento Kings;;;;;;;4;1344.769;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858
+103699120;200900;Assisting;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;1354.917;;;;;;;;;;;;;;;;2018-04-19 11:40:04.405858

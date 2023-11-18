@@ -1,0 +1,874 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77108767;1601000;Starting lineup;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108768;1601000;Starting lineup;9366;John Wall;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108769;1601000;Starting lineup;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108770;1601000;Starting lineup;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108771;1601000;Starting lineup;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108772;1601000;Starting lineup;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108773;1601000;Starting lineup;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108774;1601000;Starting lineup;9365;Bradley Beal;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108775;1601000;Starting lineup;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108776;1601000;Starting lineup;9661;Gary Neal;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108777;1601000;Starting lineup;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108778;1601000;Starting lineup;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108779;1601000;Starting lineup;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108780;1601000;Starting lineup;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108781;1601000;Starting lineup;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108782;1601000;Starting lineup;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108783;1601000;Starting lineup;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108784;1601000;Starting lineup;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108785;1601000;Starting lineup;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108786;1601000;Starting lineup;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108787;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108788;1600500;Guard;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108789;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108790;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108791;1600500;Guard;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108792;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108793;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108794;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108795;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108796;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108797;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108798;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;17.437;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108799;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;33.437;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108800;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;3629;Nene Hilario;1;39.556;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108801;800201;2+;3629;Nene Hilario;3300;Washington Wizards;;;;;9366;John Wall;1;39.556;27.35;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77108802;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;60.103;27.23;7.50;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:56:04.653265
+77108803;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;60.103;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108804;800202;2-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;1;73.198;26.36;5.43;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:56:04.653265
+77108805;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;73.198;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108806;100400;Steal;3629;Nene Hilario;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;90.235;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108807;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;;;1;110.572;20.81;3.72;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77108808;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;110.572;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108809;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;114.629;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108810;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;114.629;27.05;7.74;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77108811;100400;Steal;9019;Greg Monroe;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;1;131.731;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108812;800600;2F;370973;Jabari Parker;3280;Milwaukee Bucks;9363;Otto Porter Jr.;3300;Washington Wizards;;;1;137.022;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:56:04.653265
+77108813;100200;Game stop;;;;;;;;;;;1;137.022;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108814;300100;Foul;9363;Otto Porter Jr.;3300;Washington Wizards;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;137.022;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108815;800102;1-;370973;Jabari Parker;3280;Milwaukee Bucks;9363;Otto Porter Jr.;3300;Washington Wizards;;;1;160.767;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108816;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;160.767;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108817;800101;1+;370973;Jabari Parker;3280;Milwaukee Bucks;9363;Otto Porter Jr.;3300;Washington Wizards;;;1;170.238;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108818;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;173.105;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108819;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;3629;Nene Hilario;1;188.105;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108820;200600;Post;3629;Nene Hilario;3300;Washington Wizards;;;;;;;1;188.105;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108821;800201;2+;3629;Nene Hilario;3300;Washington Wizards;;;;;7490;Garrett Temple;1;188.105;26.99;5.34;;;;;;;;Post;;Hook;;;;2017-12-07 11:56:04.653265
+77108822;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;209.723;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108823;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;209.723;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108824;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;209.723;26.51;4.26;;;;;;;;Post;;Hook;;;;2017-12-07 11:56:04.653265
+77108825;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;;;1;241.362;21.35;13.05;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:56:04.653265
+77108826;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;241.362;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108827;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;263.706;25.10;2.25;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:56:04.653265
+77108828;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;1;263.706;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108829;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;1;271.967;27.05;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77108830;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;271.967;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108831;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;1;275.520;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108832;800301;3+;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;1;275.520;20.21;10.35;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77108833;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;301.197;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108834;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;301.197;26.42;7.74;;;;;;;;Post;;Lay up;;;;2017-12-07 11:56:04.653265
+77108835;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;1;323.137;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108836;800201;2+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;323.137;25.49;7.68;;;;;;;;Screen off;;Floater;;;;2017-12-07 11:56:04.653265
+77108837;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;339.010;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108838;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;1;346.520;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108839;800301;3+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;346.520;25.91;14.76;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77108840;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;361.063;25.10;14.73;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:56:04.653265
+77108841;100200;Game stop;;;;;;;;;;;1;361.063;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108842;100300;Rebound;;;3300;Washington Wizards;;;;;;;1;361.063;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108843;1600500;Guard;36741;Drew Gooden;3300;Washington Wizards;3629;Nene Hilario;3300;Washington Wizards;;;1;391.240;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108844;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;391.240;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108845;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9363;Otto Porter Jr.;3300;Washington Wizards;;;1;391.240;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108846;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;397.606;26.42;5.82;;;;;;;;Transition;;Hook;;;;2017-12-07 11:56:04.653265
+77108847;800202;2-;36741;Drew Gooden;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;418.474;27.20;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:56:04.653265
+77108848;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;418.474;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108849;800201;2+;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;418.474;26.96;11.97;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:56:04.653265
+77108850;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;434.546;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108851;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;434.546;26.21;7.05;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:56:04.653265
+77108852;100200;Game stop;;;;;;;;;;;1;445.440;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108853;100500;Turnover;9366;John Wall;3300;Washington Wizards;;;;;;;1;445.440;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108854;1800600;Timeout;;;3300;Washington Wizards;;;;;;;1;445.440;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108855;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;477.668;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108856;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;477.668;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108857;800600;2F;9020;Khris Middleton;3280;Milwaukee Bucks;7490;Garrett Temple;3300;Washington Wizards;;;1;477.668;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:56:04.653265
+77108858;100200;Game stop;;;;;;;;;;;1;477.668;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108859;300100;Foul;7490;Garrett Temple;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;477.668;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108860;800102;1-;9020;Khris Middleton;3280;Milwaukee Bucks;7490;Garrett Temple;3300;Washington Wizards;;;1;500.472;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108861;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;500.472;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108862;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;7490;Garrett Temple;3300;Washington Wizards;;;1;511.556;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108863;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;514.379;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108864;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;36741;Drew Gooden;1;527.379;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108865;200300;Pick'n'Roll;36741;Drew Gooden;3300;Washington Wizards;;;;;9366;John Wall;1;527.379;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:56:04.653265
+77108866;800201;2+;36741;Drew Gooden;3300;Washington Wizards;;;;;9366;John Wall;1;527.379;23.03;7.26;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:56:04.653265
+77108867;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;543.635;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108868;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;1;557.061;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108869;800301;3+;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;1;557.061;23.03;14.13;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77108870;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;572.985;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108871;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;1;579.941;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108872;800201;2+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;7490;Garrett Temple;1;579.941;27.23;2.49;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77108873;100200;Game stop;;;;;;;;;;;1;579.941;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108874;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;1;579.941;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108875;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;613.008;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108876;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;613.008;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108877;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;613.008;24.29;7.83;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:56:04.653265
+77108878;100300;Rebound;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;613.008;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108879;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;1;618.370;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:56:04.653265
+77108880;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9022;John Henson;1;644.617;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108881;200300;Pick'n'Roll;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;644.617;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108882;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;644.617;27.02;7.59;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:56:04.653265
+77108883;100200;Game stop;;;;;;;;;;;1;663.571;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108884;100500;Turnover;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;1;663.571;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108885;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;703.298;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108886;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;9363;Otto Porter Jr.;3300;Washington Wizards;;;1;703.298;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108887;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;703.298;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108888;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;703.298;24.80;12.03;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:56:04.653265
+77108889;800202;2-;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;725.845;27.05;7.74;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:56:04.653265
+77108890;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;725.845;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108891;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;729.722;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108892;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;729.722;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:56:04.653265
+77108893;100200;Game stop;;;;;;;;;;;1;748.267;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108894;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;1;748.267;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108895;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;9366;John Wall;3300;Washington Wizards;;;1;794.022;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108896;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;794.022;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108897;100100;Ball in play;;;3300;Washington Wizards;;;;;;;1;794.022;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108898;800302;3-;36741;Drew Gooden;3300;Washington Wizards;;;;;9366;John Wall;1;794.022;25.97;0.48;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77108899;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;794.022;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108900;200600;Post;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;802.879;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108901;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;802.879;25.22;6.87;;;;;;;;Post;;Jumper;;;;2017-12-07 11:56:04.653265
+77108902;100300;Rebound;36741;Drew Gooden;3300;Washington Wizards;;;;;;;1;802.879;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108903;800201;2+;9365;Bradley Beal;3300;Washington Wizards;;;;;;;1;816.558;22.58;4.17;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77108904;800302;3-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;841.611;21.35;12.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77108905;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;841.611;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108906;100400;Steal;8421;Jared Dudley;3300;Washington Wizards;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;1;841.611;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108907;400101;Accurate pass;9365;Bradley Beal;3300;Washington Wizards;;;;;7769;Ramon Sessions;1;845.399;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108908;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;9365;Bradley Beal;1;845.399;27.08;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77108909;100400;Steal;8421;Jared Dudley;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;866.848;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108910;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;9365;Bradley Beal;1;871.027;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108911;800201;2+;9365;Bradley Beal;3300;Washington Wizards;;;;;7769;Ramon Sessions;1;871.027;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:56:04.653265
+77108912;100200;Game stop;;;;;;;;;;;1;871.027;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108913;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;1;871.027;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108914;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;897.585;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108915;800202;2-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;915.985;22.52;11.04;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:56:04.653265
+77108916;100300;Rebound;9365;Bradley Beal;3300;Washington Wizards;;;;;;;1;915.985;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108917;100200;Game stop;;;;;;;;;;;1;924.618;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108918;100500;Turnover;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;924.618;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108919;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;932.790;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108920;100400;Steal;7490;Garrett Temple;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;951.290;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108921;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;1;958.800;27.08;7.41;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77108922;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;958.800;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108923;1800500;Halftime;;;;;;;;;;;1;959.700;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108924;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108925;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108926;1600500;Guard;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108927;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108928;1600500;Guard;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108929;1600500;Guard;36741;Drew Gooden;3300;Washington Wizards;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108930;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108931;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108932;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108933;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108934;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108935;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;8.923;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108936;800202;2-;36741;Drew Gooden;3300;Washington Wizards;;;;;;;2;22.923;22.28;11.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77108937;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;22.923;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108938;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;2;39.039;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108939;800201;2+;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;39.039;26.84;4.47;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:56:04.653265
+77108940;200300;Pick'n'Roll;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9365;Bradley Beal;2;56.094;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:56:04.653265
+77108941;800202;2-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9365;Bradley Beal;2;56.094;27.35;7.62;;;;;;;;Pick'n'pop;;Lay up;;;;2017-12-07 11:56:04.653265
+77108942;100200;Game stop;;;;;;;;;;;2;56.094;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108943;100300;Rebound;;;3300;Washington Wizards;;;;;;;2;56.094;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108944;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;82.188;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108945;800202;2-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;2;89.188;25.97;7.35;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:56:04.653265
+77108946;100300;Rebound;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;2;89.188;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108947;800600;2F;9363;Otto Porter Jr.;3300;Washington Wizards;9022;John Henson;3280;Milwaukee Bucks;;;2;89.188;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:56:04.653265
+77108948;100200;Game stop;;;;;;;;;;;2;89.188;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108949;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;9363;Otto Porter Jr.;3300;Washington Wizards;;;2;89.188;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108950;800101;1+;9363;Otto Porter Jr.;3300;Washington Wizards;9022;John Henson;3280;Milwaukee Bucks;;;2;114.167;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108951;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;2;144.855;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108952;1600500;Guard;3629;Nene Hilario;3300;Washington Wizards;36741;Drew Gooden;3300;Washington Wizards;;;2;144.855;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108953;800102;1-;9363;Otto Porter Jr.;3300;Washington Wizards;9022;John Henson;3280;Milwaukee Bucks;;;2;144.855;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108954;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;144.855;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108955;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;144.855;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108956;100400;Steal;9661;Gary Neal;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;162.997;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108957;400101;Accurate pass;9661;Gary Neal;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;167.563;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108958;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;9661;Gary Neal;2;167.563;27.23;8.22;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77108959;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;176.763;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108960;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;176.763;27.05;7.74;;;;;;;;Post;;Lay up;;;;2017-12-07 11:56:04.653265
+77108961;100300;Rebound;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;2;176.763;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108962;100200;Game stop;;;;;;;;;;;2;189.010;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108963;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;189.010;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108964;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;204.980;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108965;100200;Game stop;;;;;;;;;;;2;215.980;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108966;300100;Foul;9363;Otto Porter Jr.;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;215.980;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108967;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;231.479;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108968;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;2;242.479;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:56:04.653265
+77108969;100200;Game stop;;;;;;;;;;;2;242.479;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108970;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;242.479;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108971;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;2;271.697;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108972;800102;1-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;2;292.623;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108973;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;292.623;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108974;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;292.623;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108975;800301;3+;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;299.873;22.28;1.32;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77108976;100200;Game stop;;;;;;;;;;;2;309.763;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108977;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;2;309.763;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108978;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;323.702;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108979;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;338.702;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108980;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;338.702;27.08;7.68;;;;;;;;Post;;Lay up;;;;2017-12-07 11:56:04.653265
+77108981;400101;Accurate pass;9365;Bradley Beal;3300;Washington Wizards;;;;;3629;Nene Hilario;2;356.645;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108982;800400;2+1;3629;Nene Hilario;3300;Washington Wizards;;;;;9365;Bradley Beal;2;356.645;26.21;9.18;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:56:04.653265
+77108983;100200;Game stop;;;;;;;;;;;2;356.645;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108984;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;2;356.645;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108985;800101;1+;3629;Nene Hilario;3300;Washington Wizards;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;379.273;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108986;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;386.549;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108987;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;404.549;26.57;7.59;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:56:04.653265
+77108988;800302;3-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;420.057;21.50;2.31;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77108989;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;420.057;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108990;800600;2F;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9365;Bradley Beal;3300;Washington Wizards;;;2;423.840;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:56:04.653265
+77108991;100200;Game stop;;;;;;;;;;;2;423.840;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108992;300100;Foul;9365;Bradley Beal;3300;Washington Wizards;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;423.840;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108993;800102;1-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9365;Bradley Beal;3300;Washington Wizards;;;2;447.833;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108994;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;447.833;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108995;800102;1-;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9365;Bradley Beal;3300;Washington Wizards;;;2;469.980;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108996;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;469.980;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77108997;100300;Rebound;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;469.980;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77108998;800302;3-;7769;Ramon Sessions;3300;Washington Wizards;;;;;9365;Bradley Beal;2;491.854;25.82;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77108999;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;491.854;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109000;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;505.407;25.97;6.72;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:56:04.653265
+77109001;100300;Rebound;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;505.407;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109002;100200;Game stop;;;;;;;;;;;2;524.643;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109003;100500;Turnover;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;524.643;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109004;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;560.820;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109005;1600500;Guard;36741;Drew Gooden;3300;Washington Wizards;3629;Nene Hilario;3300;Washington Wizards;;;2;560.820;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109006;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;560.820;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109007;800302;3-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;560.820;22.28;1.35;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109008;100300;Rebound;9365;Bradley Beal;3300;Washington Wizards;;;;;;;2;560.820;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109009;400101;Accurate pass;36741;Drew Gooden;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;574.246;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109010;800400;2+1;7769;Ramon Sessions;3300;Washington Wizards;;;;;9365;Bradley Beal;2;574.246;26.84;7.41;;;;;;;;Cut;;;;;;2017-12-07 11:56:04.653265
+77109011;100200;Game stop;;;;;;;;;;;2;574.246;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109012;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;7769;Ramon Sessions;3300;Washington Wizards;;;2;574.246;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109013;800101;1+;7769;Ramon Sessions;3300;Washington Wizards;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;599.316;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109014;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;605.769;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109015;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;616.769;22.73;6.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109016;100200;Game stop;;;;;;;;;;;2;616.769;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109017;100300;Rebound;;;3300;Washington Wizards;;;;;;;2;616.769;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109018;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;2;616.769;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109019;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;2;660.206;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109020;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;660.206;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109021;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;660.206;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109022;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;9365;Bradley Beal;2;660.206;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109023;800301;3+;9365;Bradley Beal;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;660.206;19.88;8.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109024;100200;Game stop;;;;;;;;;;;2;680.162;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109025;300100;Foul;7769;Ramon Sessions;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;680.162;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109026;1600500;Guard;9366;John Wall;3300;Washington Wizards;9365;Bradley Beal;3300;Washington Wizards;;;2;698.583;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109027;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;698.583;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109028;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;698.583;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109029;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;2;698.583;26.84;7.62;;;;;;;;;;Lay up;;;;2017-12-07 11:56:04.653265
+77109030;800202;2-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;2;725.010;22.97;12.36;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:56:04.653265
+77109031;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;725.010;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109032;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;734.193;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109033;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;2;734.193;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:56:04.653265
+77109034;100200;Game stop;;;;;;;;;;;2;734.193;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109035;300100;Foul;36741;Drew Gooden;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;734.193;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109036;1800600;Timeout;;;;;;;;;;;2;734.193;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109037;800102;1-;9019;Greg Monroe;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;2;766.537;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109038;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;766.537;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109039;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;2;777.476;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109040;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;781.519;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109041;800302;3-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;2;792.519;19.64;5.55;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:56:04.653265
+77109042;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;792.519;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109043;100200;Game stop;;;;;;;;;;;2;804.009;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109044;100500;Turnover;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;804.009;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109045;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;9661;Gary Neal;3300;Washington Wizards;;;2;835.834;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109046;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;835.834;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109047;800202;2-;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;835.834;26.72;1.08;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109048;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;835.834;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109049;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;2;841.156;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109050;100200;Game stop;;;;;;;;;;;2;841.156;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109051;300100;Foul;9363;Otto Porter Jr.;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;841.156;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109052;800400;2+1;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;841.156;26.72;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109053;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;9363;Otto Porter Jr.;3300;Washington Wizards;;;2;870.409;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109054;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;9363;Otto Porter Jr.;3300;Washington Wizards;;;2;870.409;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109055;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;874.096;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109056;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;2;891.096;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109057;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;7490;Garrett Temple;3300;Washington Wizards;;;2;896.988;26.84;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109058;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;2;896.988;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109059;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;8421;Jared Dudley;2;902.450;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109060;800201;2+;8421;Jared Dudley;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;902.450;26.96;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109061;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;8421;Jared Dudley;3300;Washington Wizards;;;2;912.248;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109062;100200;Game stop;;;;;;;;;;;2;912.248;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109063;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;912.248;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109064;800102;1-;9019;Greg Monroe;3280;Milwaukee Bucks;8421;Jared Dudley;3300;Washington Wizards;;;2;938.108;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109065;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;938.108;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109066;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;955.300;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109067;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;8421;Jared Dudley;3300;Washington Wizards;;;2;955.300;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109068;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;960.598;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109069;800600;2F;7769;Ramon Sessions;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;974.598;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:56:04.653265
+77109070;100200;Game stop;;;;;;;;;;;2;974.598;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109071;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;7769;Ramon Sessions;3300;Washington Wizards;;;2;974.598;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109072;800101;1+;7769;Ramon Sessions;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;997.713;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109073;800102;1-;7769;Ramon Sessions;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;1014.250;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109074;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1014.250;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109075;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;1014.250;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109076;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1048.451;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109077;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1048.451;27.05;12.60;;;;;;;;Post;;Jumper;;;;2017-12-07 11:56:04.653265
+77109078;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;2;1076.163;22.52;12.21;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:56:04.653265
+77109079;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1095.329;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109080;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;2;1095.329;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:56:04.653265
+77109081;100200;Game stop;;;;;;;;;;;2;1095.329;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109082;300100;Foul;36741;Drew Gooden;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1095.329;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109083;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;2;1118.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109084;800102;1-;9019;Greg Monroe;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;2;1130.995;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109085;100100;Ball in play;;;3300;Washington Wizards;;;;;;;2;1130.995;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109086;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;2;1130.995;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109087;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;1147.079;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109088;800301;3+;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;2;1147.079;27.05;0.63;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109089;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;2;1158.934;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109090;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1158.934;25.52;7.62;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:56:04.653265
+77109091;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;2;1176.202;26.84;2.70;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:56:04.653265
+77109092;100300;Rebound;36741;Drew Gooden;3300;Washington Wizards;;;;;;;2;1176.202;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109093;800201;2+;36741;Drew Gooden;3300;Washington Wizards;;;;;;;2;1176.202;26.81;8.34;;;;;;;;Putbacks;;;;;;2017-12-07 11:56:04.653265
+77109094;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;2;1189.697;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109095;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;1189.697;27.38;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:56:04.653265
+77109096;800302;3-;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;2;1206.070;20.09;4.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109097;100300;Rebound;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;1206.070;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109098;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;1206.070;26.99;7.95;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:56:04.653265
+77109099;100200;Game stop;;;;;;;;;;;2;1216.384;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109100;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;2;1216.384;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109101;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;36741;Drew Gooden;3300;Washington Wizards;;;2;1248.289;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109102;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1248.289;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109103;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;1248.289;26.99;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:56:04.653265
+77109104;800202;2-;13739;DeJuan Blair;3300;Washington Wizards;;;;;9366;John Wall;2;1268.908;26.12;7.41;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:56:04.653265
+77109105;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1268.908;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109106;200600;Post;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;1282.774;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109107;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;1282.774;26.99;8.04;;;;;;;;Post;;Lay up;;;;2017-12-07 11:56:04.653265
+77109108;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;2;1305.463;26.72;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109109;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1305.463;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109110;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1319.189;26.81;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109111;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1319.189;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109112;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1319.189;26.57;10.50;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:56:04.653265
+77109113;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;2;1319.189;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109114;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;1327.008;27.50;8.19;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109115;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1327.008;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109116;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;1335.771;26.21;4.59;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77109117;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;1335.771;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109118;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1352.155;20.09;9.99;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109119;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;1352.155;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109120;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;1352.155;27.05;8.16;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:56:04.653265
+77109121;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;1352.155;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109122;1800500;Halftime;;;;;;;;;;;2;1352.155;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109123;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109124;1600500;Guard;3629;Nene Hilario;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109125;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109126;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109127;1600500;Guard;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109128;1600500;Guard;9366;John Wall;3300;Washington Wizards;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109129;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109130;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109131;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109132;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109133;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109134;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;12.610;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109135;800302;3-;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;36.610;19.28;7.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109136;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;36.610;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109137;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;51.937;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109138;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;51.937;23.72;6.96;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:56:04.653265
+77109139;800202;2-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;3;67.824;26.66;7.44;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:56:04.653265
+77109140;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;67.824;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109141;100200;Game stop;;;;;;;;;;;3;75.864;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109142;100500;Turnover;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;75.864;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109143;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;86.130;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109144;100200;Game stop;;;;;;;;;;;3;101.130;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109145;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;3;101.130;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109146;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;114.220;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109147;800301;3+;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;119.220;20.36;3.24;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109148;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;135.232;25.64;7.50;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109149;800202;2-;3629;Nene Hilario;3300;Washington Wizards;;;;;;;3;162.819;23.57;3.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109150;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;162.819;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109151;100200;Game stop;;;;;;;;;;;3;162.819;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109152;100500;Turnover;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;162.819;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109153;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;174.381;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109154;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;192.381;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109155;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;192.381;26.84;7.80;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:56:04.653265
+77109156;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;3;207.234;23.33;3.57;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109157;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;207.234;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109158;100200;Game stop;;;;;;;;;;;3;217.484;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109159;100500;Turnover;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;217.484;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109160;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;224.859;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109161;800302;3-;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;3;239.859;21.98;13.38;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109162;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;239.859;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109163;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;246.908;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109164;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;246.908;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:56:04.653265
+77109165;100200;Game stop;;;;;;;;;;;3;246.908;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109166;1800600;Timeout;;;3300;Washington Wizards;;;;;;;3;246.908;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109167;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;268.353;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109168;800202;2-;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;3;280.353;22.25;11.49;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109169;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;280.353;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109170;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;302.868;26.99;7.50;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:56:04.653265
+77109171;400101;Accurate pass;3629;Nene Hilario;3300;Washington Wizards;;;;;8421;Jared Dudley;3;336.910;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109172;800301;3+;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;3;336.910;26.72;0.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109173;100200;Game stop;;;;;;;;;;;3;350.855;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109174;100500;Turnover;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;350.855;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109175;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;358.508;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109176;100400;Steal;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;3;364.508;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109177;100200;Game stop;;;;;;;;;;;3;366.484;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109178;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;366.484;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109179;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;388.635;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109180;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;398.635;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109181;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;398.635;26.99;12.06;;;;;;;;Post;;Jumper;;;;2017-12-07 11:56:04.653265
+77109182;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;398.635;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109183;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;398.635;27.35;7.26;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:56:04.653265
+77109184;100300;Rebound;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;398.635;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109185;400101;Accurate pass;3629;Nene Hilario;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;3;415.426;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109186;800201;2+;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;3629;Nene Hilario;3;415.426;26.57;6.27;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:56:04.653265
+77109187;100400;Steal;9363;Otto Porter Jr.;3300;Washington Wizards;370973;Jabari Parker;3280;Milwaukee Bucks;;;3;424.173;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109188;400101;Accurate pass;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;3;429.805;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109189;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;3;429.805;26.96;7.65;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109190;100200;Game stop;;;;;;;;;;;3;429.805;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109191;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;3;429.805;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109192;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;456.468;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109193;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;3;456.468;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109194;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;9363;Otto Porter Jr.;3300;Washington Wizards;;;3;456.468;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109195;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;456.468;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109196;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;456.468;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109197;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;456.468;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109198;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;456.468;26.72;7.50;;;;;;;;Post;;Lay up;;;;2017-12-07 11:56:04.653265
+77109199;800202;2-;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;3;477.311;22.28;7.50;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:56:04.653265
+77109200;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;477.311;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109201;800202;2-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;497.137;27.23;12.21;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:56:04.653265
+77109202;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;497.137;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109203;800302;3-;8421;Jared Dudley;3300;Washington Wizards;;;;;;;3;507.924;26.27;0.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77109204;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;507.924;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109205;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;3;515.477;27.35;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109206;100200;Game stop;;;;;;;;;;;3;515.477;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109207;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;3;515.477;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109208;1600500;Guard;36741;Drew Gooden;3300;Washington Wizards;3629;Nene Hilario;3300;Washington Wizards;;;3;546.834;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109209;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;546.834;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109210;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;546.834;21.26;7.68;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109211;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;3;546.834;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109212;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;3;561.571;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109213;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;3;566.683;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:56:04.653265
+77109214;100200;Game stop;;;;;;;;;;;3;566.683;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109215;300100;Foul;9366;John Wall;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;566.683;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109216;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;3;602.559;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109217;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;3;623.965;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109218;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;629.464;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109219;800302;3-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;644.464;20.18;2.64;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109220;100300;Rebound;36741;Drew Gooden;3300;Washington Wizards;;;;;;;3;644.464;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109221;800202;2-;36741;Drew Gooden;3300;Washington Wizards;;;;;;;3;644.464;27.20;7.89;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:56:04.653265
+77109222;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;644.464;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109223;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;652.570;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109224;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;652.570;27.23;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109225;800302;3-;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;676.191;26.84;0.93;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77109226;100200;Game stop;;;;;;;;;;;3;676.191;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109227;100300;Rebound;;;3300;Washington Wizards;;;;;;;3;676.191;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109228;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;694.219;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109229;800202;2-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;697.219;26.42;12.15;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:56:04.653265
+77109230;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;697.219;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109231;100400;Steal;9365;Bradley Beal;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;711.480;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109232;800202;2-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;716.450;27.35;7.32;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109233;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;716.450;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109234;800201;2+;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;716.450;27.23;7.83;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:56:04.653265
+77109235;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;731.854;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109236;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;731.854;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:56:04.653265
+77109237;800600;2F;36741;Drew Gooden;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;743.823;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:56:04.653265
+77109238;100200;Game stop;;;;;;;;;;;3;743.823;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109239;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;3;743.823;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109240;800102;1-;36741;Drew Gooden;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;767.875;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109241;100300;Rebound;;;3300;Washington Wizards;;;;;;;3;767.875;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109242;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;788.040;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109243;800101;1+;36741;Drew Gooden;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;788.040;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109244;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;792.778;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109245;200600;Post;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;810.778;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109246;800600;2F;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;3;810.778;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:56:04.653265
+77109247;100200;Game stop;;;;;;;;;;;3;810.778;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109248;300100;Foul;36741;Drew Gooden;3300;Washington Wizards;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;3;810.778;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109249;800101;1+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;3;833.417;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109250;1600500;Guard;13739;DeJuan Blair;3300;Washington Wizards;8421;Jared Dudley;3300;Washington Wizards;;;3;848.957;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109251;800101;1+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;36741;Drew Gooden;3300;Washington Wizards;;;3;848.957;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109252;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;851.241;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109253;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;13739;DeJuan Blair;3;871.241;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109254;800201;2+;13739;DeJuan Blair;3300;Washington Wizards;;;;;7490;Garrett Temple;3;871.241;27.08;4.41;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:56:04.653265
+77109255;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;892.608;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109256;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;13739;DeJuan Blair;3300;Washington Wizards;;;3;892.608;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:56:04.653265
+77109257;100200;Game stop;;;;;;;;;;;3;892.608;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109258;300100;Foul;13739;DeJuan Blair;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;892.608;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109259;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;13739;DeJuan Blair;3300;Washington Wizards;;;3;925.915;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109260;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;13739;DeJuan Blair;3300;Washington Wizards;;;3;945.298;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109261;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;950.006;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109262;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;3;971.006;27.08;2.43;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:56:04.653265
+77109263;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;971.006;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109264;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;993.970;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109265;800400;2+1;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;993.970;24.80;7.95;;;;;;;;Post;;Jumper;;;;2017-12-07 11:56:04.653265
+77109266;100200;Game stop;;;;;;;;;;;3;993.970;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109267;300100;Foul;9365;Bradley Beal;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;993.970;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109268;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9365;Bradley Beal;3300;Washington Wizards;;;3;1023.499;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109269;1800600;Timeout;;;3300;Washington Wizards;;;;;;;3;1023.499;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109270;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;1044.506;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109271;800202;2-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;3;1054.506;26.84;7.17;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:56:04.653265
+77109272;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;1054.506;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109273;800600;2F;9020;Khris Middleton;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;3;1061.434;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:56:04.653265
+77109274;100200;Game stop;;;;;;;;;;;3;1061.434;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109275;300100;Foul;9366;John Wall;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;1061.434;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109276;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;3;1078.271;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109277;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;3;1089.277;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109278;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;1094.663;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109279;100400;Steal;9020;Khris Middleton;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;3;1108.663;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109280;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;1125.838;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109281;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;1125.838;27.08;6.63;;;;;;;;Post;;Jumper;;;;2017-12-07 11:56:04.653265
+77109282;100200;Game stop;;;;;;;;;;;3;1125.838;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109283;100300;Rebound;;;3300;Washington Wizards;;;;;;;3;1125.838;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109284;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;13739;DeJuan Blair;3300;Washington Wizards;;;3;1125.838;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109285;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;9366;John Wall;3300;Washington Wizards;;;3;1158.356;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109286;100100;Ball in play;;;3300;Washington Wizards;;;;;;;3;1158.356;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109287;200600;Post;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;3;1158.356;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109288;800202;2-;13739;DeJuan Blair;3300;Washington Wizards;;;;;;;3;1158.356;25.04;11.43;;;;;;;;Post;;Jumper;;;;2017-12-07 11:56:04.653265
+77109289;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;1158.356;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109290;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;1179.357;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109291;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;1179.357;25.10;10.89;;;;;;;;Post;;Jumper;;;;2017-12-07 11:56:04.653265
+77109292;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;9022;John Henson;3280;Milwaukee Bucks;;;3;1191.798;24.44;8.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109293;100200;Game stop;;;;;;;;;;;3;1191.798;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109294;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;3;1191.798;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109295;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;7490;Garrett Temple;3300;Washington Wizards;;;3;1230.096;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109296;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1230.096;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109297;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;1230.096;27.38;12.57;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:56:04.653265
+77109298;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;3;1230.096;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109299;400101;Accurate pass;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;9022;John Henson;3;1232.057;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109300;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;3;1232.057;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:56:04.653265
+77109301;1800500;Halftime;;;;;;;;;;;3;1234.357;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109302;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109303;1600500;Guard;3629;Nene Hilario;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109304;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109305;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109306;1600500;Guard;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109307;1600500;Guard;36741;Drew Gooden;3300;Washington Wizards;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109308;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109309;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109310;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109311;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109312;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109313;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;13.725;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109314;100400;Steal;9368;Kelly Oubre Jr.;3300;Washington Wizards;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;23.725;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109315;800600;2F;9368;Kelly Oubre Jr.;3300;Washington Wizards;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;26.895;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:56:04.653265
+77109316;100200;Game stop;;;;;;;;;;;4;26.895;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109317;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;4;26.895;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109318;800101;1+;9368;Kelly Oubre Jr.;3300;Washington Wizards;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;54.718;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109319;800101;1+;9368;Kelly Oubre Jr.;3300;Washington Wizards;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;69.308;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109320;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;72.667;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109321;100400;Steal;3629;Nene Hilario;3300;Washington Wizards;9022;John Henson;3280;Milwaukee Bucks;;;4;86.667;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109322;400101;Accurate pass;3629;Nene Hilario;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;91.204;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109323;800201;2+;7769;Ramon Sessions;3300;Washington Wizards;;;;;3629;Nene Hilario;4;91.204;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:56:04.653265
+77109324;100200;Game stop;;;;;;;;;;;4;103.410;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109325;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;103.410;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109326;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;125.411;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109327;100200;Game stop;;;;;;;;;;;4;143.411;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109328;100500;Turnover;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;143.411;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109329;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;149.690;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109330;200600;Post;3629;Nene Hilario;3300;Washington Wizards;;;;;;;4;167.690;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109331;800202;2-;3629;Nene Hilario;3300;Washington Wizards;;;;;;;4;167.690;27.68;7.50;;;;;;;;Post;;Lay up;;;;2017-12-07 11:56:04.653265
+77109332;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;167.690;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109333;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;178.904;25.82;7.35;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77109334;100200;Game stop;;;;;;;;;;;4;178.904;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109335;1800600;Timeout;;;3300;Washington Wizards;;;;;;;4;178.904;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109336;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;178.904;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109337;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;249.482;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109338;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;249.482;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109339;1600500;Guard;9366;John Wall;3300;Washington Wizards;9365;Bradley Beal;3300;Washington Wizards;;;4;249.482;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109340;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;249.482;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109341;100400;Steal;3629;Nene Hilario;3300;Washington Wizards;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;4;178.904;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109342;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;9368;Kelly Oubre Jr.;4;249.482;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109343;800301;3+;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;4;249.482;26.84;0.48;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109344;100200;Game stop;;;;;;;;;;;4;261.656;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109345;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;261.656;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109346;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;274.325;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109347;100400;Steal;36741;Drew Gooden;3300;Washington Wizards;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;279.325;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109348;800600;2F;9366;John Wall;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;285.264;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:56:04.653265
+77109349;100200;Game stop;;;;;;;;;;;4;285.264;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109350;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;285.264;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109351;800102;1-;9366;John Wall;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;308.408;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109352;100300;Rebound;;;3300;Washington Wizards;;;;;;;4;308.408;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109353;800101;1+;9366;John Wall;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;319.858;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109354;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;325.104;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109355;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;335.104;26.72;6.27;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:56:04.653265
+77109356;100300;Rebound;36741;Drew Gooden;3300;Washington Wizards;;;;;;;4;335.104;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109357;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;4;347.219;23.72;3.39;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109358;100400;Steal;9368;Kelly Oubre Jr.;3300;Washington Wizards;9022;John Henson;3280;Milwaukee Bucks;;;4;363.715;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109359;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;4;370.457;26.42;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109360;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;4;370.457;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109361;800202;2-;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;4;378.794;21.41;10.53;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109362;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;378.794;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109363;100200;Game stop;;;;;;;;;;;4;387.035;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109364;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;4;387.035;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109365;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;404.674;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109366;800600;2F;9366;John Wall;3300;Washington Wizards;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;4;426.674;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:56:04.653265
+77109367;100200;Game stop;;;;;;;;;;;4;426.674;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109368;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;426.674;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109369;800101;1+;9366;John Wall;3300;Washington Wizards;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;4;458.658;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109370;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;4;483.003;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109371;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;4;483.003;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109372;800101;1+;9366;John Wall;3300;Washington Wizards;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;4;483.003;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109373;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;490.245;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109374;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;4;500.245;26.84;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:56:04.653265
+77109375;100200;Game stop;;;;;;;;;;;4;500.245;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109376;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;500.245;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109377;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;515.981;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109378;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;518.981;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109379;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;518.981;26.84;11.97;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:56:04.653265
+77109380;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;3629;Nene Hilario;4;537.735;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109381;800201;2+;3629;Nene Hilario;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;537.735;26.57;8.19;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:56:04.653265
+77109382;100200;Game stop;;;;;;;;;;;4;555.966;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109383;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;555.966;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109384;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;586.379;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109385;800302;3-;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;4;610.379;21.11;2.01;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:56:04.653265
+77109386;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;610.379;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109387;400101;Accurate pass;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;618.968;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109388;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;4;618.968;26.99;14.61;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77109389;400101;Accurate pass;7769;Ramon Sessions;3300;Washington Wizards;;;;;3629;Nene Hilario;4;637.438;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109390;200300;Pick'n'Roll;3629;Nene Hilario;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;637.438;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:56:04.653265
+77109391;800201;2+;3629;Nene Hilario;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;637.438;23.87;3.78;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:56:04.653265
+77109392;100400;Steal;9366;John Wall;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;654.696;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109393;800600;2F;3629;Nene Hilario;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;662.726;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:56:04.653265
+77109394;100200;Game stop;;;;;;;;;;;4;662.726;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109395;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;4;662.726;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109396;800101;1+;3629;Nene Hilario;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;690.606;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109397;800102;1-;3629;Nene Hilario;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;707.914;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109398;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;707.914;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109399;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;707.914;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109400;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;718.474;25.22;6.96;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77109401;100300;Rebound;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;4;718.474;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109402;400101;Accurate pass;9366;John Wall;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;726.030;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109403;800301;3+;7769;Ramon Sessions;3300;Washington Wizards;;;;;9366;John Wall;4;726.030;20.96;12.45;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77109404;100200;Game stop;;;;;;;;;;;4;726.030;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109405;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;726.030;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109406;1600500;Guard;8421;Jared Dudley;3300;Washington Wizards;3629;Nene Hilario;3300;Washington Wizards;;;4;759.744;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109407;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;759.744;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109408;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;759.744;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:56:04.653265
+77109409;100200;Game stop;;;;;;;;;;;4;759.744;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109410;300100;Foul;9366;John Wall;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;759.744;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109411;800102;1-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;788.624;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109412;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;788.624;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109413;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;807.776;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109414;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;811.112;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109415;100200;Game stop;;;;;;;;;;;4;825.112;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109416;100500;Turnover;36741;Drew Gooden;3300;Washington Wizards;;;;;;;4;825.112;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109417;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;835.914;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109418;100200;Game stop;;;;;;;;;;;4;845.914;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109419;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;4;845.914;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109420;1600500;Guard;9365;Bradley Beal;3300;Washington Wizards;7769;Ramon Sessions;3300;Washington Wizards;;;4;876.411;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109421;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;876.411;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109422;800201;2+;9366;John Wall;3300;Washington Wizards;;;;;;;4;876.411;27.02;7.62;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 11:56:04.653265
+77109423;100200;Game stop;;;;;;;;;;;4;910.690;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109424;300100;Foul;36741;Drew Gooden;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;910.690;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109425;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;938.390;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109426;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;949.390;23.45;10.53;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:56:04.653265
+77109427;100300;Rebound;9365;Bradley Beal;3300;Washington Wizards;;;;;;;4;949.390;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109428;100400;Steal;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;4;970.010;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109429;800600;2F;9020;Khris Middleton;3280;Milwaukee Bucks;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;4;976.365;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:56:04.653265
+77109430;100200;Game stop;;;;;;;;;;;4;976.365;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109431;300100;Foul;9368;Kelly Oubre Jr.;3300;Washington Wizards;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;976.365;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109432;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;4;997.052;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109433;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;4;1008.774;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109434;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1011.984;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109435;100400;Steal;9019;Greg Monroe;3280;Milwaukee Bucks;9365;Bradley Beal;3300;Washington Wizards;;;4;1022.984;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109436;100200;Game stop;;;;;;;;;;;4;1029.812;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109437;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;8421;Jared Dudley;3300;Washington Wizards;;;4;1029.812;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109438;1600500;Guard;3629;Nene Hilario;3300;Washington Wizards;36741;Drew Gooden;3300;Washington Wizards;;;4;1073.983;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109439;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1073.983;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109440;800202;2-;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;4;1073.983;26.66;7.26;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:56:04.653265
+77109441;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1073.983;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109442;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;1084.849;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109443;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;1084.849;27.53;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109444;800302;3-;9366;John Wall;3300;Washington Wizards;;;;;9365;Bradley Beal;4;1104.133;21.05;2.55;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109445;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;1104.133;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109446;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;4;1117.652;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109447;200600;Post;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;1117.652;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109448;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;1117.652;27.38;8.04;;;;;;;;Post;;Lay up;;;;2017-12-07 11:56:04.653265
+77109449;100400;Steal;9020;Khris Middleton;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;1131.056;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109450;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;4;1138.817;27.50;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109451;100300;Rebound;9366;John Wall;3300;Washington Wizards;;;;;;;4;1138.817;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109452;800600;2F;9366;John Wall;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1144.284;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:56:04.653265
+77109453;100200;Game stop;;;;;;;;;;;4;1144.284;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109454;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;1144.284;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109455;800102;1-;9366;John Wall;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1173.907;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109456;100300;Rebound;;;3300;Washington Wizards;;;;;;;4;1173.907;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109457;1600500;Guard;7490;Garrett Temple;3300;Washington Wizards;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;4;1190.996;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109458;800101;1+;9366;John Wall;3300;Washington Wizards;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1190.996;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109459;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1196.290;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109460;800600;2F;370973;Jabari Parker;3280;Milwaukee Bucks;8421;Jared Dudley;3300;Washington Wizards;;;4;1206.290;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:56:04.653265
+77109461;100200;Game stop;;;;;;;;;;;4;1206.290;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109462;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;1206.290;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109463;800101;1+;370973;Jabari Parker;3280;Milwaukee Bucks;8421;Jared Dudley;3300;Washington Wizards;;;4;1229.573;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109464;800101;1+;370973;Jabari Parker;3280;Milwaukee Bucks;8421;Jared Dudley;3300;Washington Wizards;;;4;1248.418;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109465;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1251.837;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109466;400101;Accurate pass;7490;Garrett Temple;3300;Washington Wizards;;;;;8421;Jared Dudley;4;1269.837;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109467;800301;3+;8421;Jared Dudley;3300;Washington Wizards;;;;;7490;Garrett Temple;4;1269.837;20.09;11.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109468;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;1284.915;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109469;800400;2+1;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;1284.915;26.99;7.50;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:56:04.653265
+77109470;100200;Game stop;;;;;;;;;;;4;1284.915;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109471;300100;Foul;8421;Jared Dudley;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;1284.915;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109472;800102;1-;9019;Greg Monroe;3280;Milwaukee Bucks;8421;Jared Dudley;3300;Washington Wizards;;;4;1318.952;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109473;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1318.952;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109474;100300;Rebound;7490;Garrett Temple;3300;Washington Wizards;;;;;;;4;1318.952;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109475;800202;2-;9365;Bradley Beal;3300;Washington Wizards;;;;;;;4;1330.575;27.08;8.04;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:56:04.653265
+77109476;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1330.575;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109477;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;4;1338.232;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109478;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;1338.232;27.38;8.22;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:56:04.653265
+77109479;400101;Accurate pass;9365;Bradley Beal;3300;Washington Wizards;;;;;8421;Jared Dudley;4;1363.609;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109480;800301;3+;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;1363.609;26.36;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:56:04.653265
+77109481;100200;Game stop;;;;;;;;;;;4;1375.264;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109482;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;1375.264;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109483;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1400.713;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109484;200300;Pick'n'Roll;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1409.713;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109485;800600;2F;9019;Greg Monroe;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;4;1409.713;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:56:04.653265
+77109486;100200;Game stop;;;;;;;;;;;4;1409.713;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109487;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;1409.713;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109488;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;4;1433.620;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109489;800101;1+;9019;Greg Monroe;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;4;1448.022;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109490;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1449.375;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109491;100400;Steal;370973;Jabari Parker;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;1473.375;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109492;100400;Steal;8421;Jared Dudley;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;1475.788;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109493;800202;2-;9366;John Wall;3300;Washington Wizards;;;;;;;4;1497.621;22.52;12.42;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:56:04.653265
+77109494;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;1497.621;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109495;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;1506.011;19.64;7.83;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77109496;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1506.011;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109497;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1506.011;28.07;7.62;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:56:04.653265
+77109498;800600;2F;9365;Bradley Beal;3300;Washington Wizards;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;1513.923;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109499;100200;Game stop;;;;;;;;;;;4;1513.923;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109500;300100;Foul;9012;Rashad Vaughn;3280;Milwaukee Bucks;9365;Bradley Beal;3300;Washington Wizards;;;4;1513.923;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109501;800101;1+;9365;Bradley Beal;3300;Washington Wizards;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;1537.146;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109502;800101;1+;9365;Bradley Beal;3300;Washington Wizards;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;1554.304;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109503;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1557.609;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109504;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;1568.809;27.08;8.19;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:56:04.653265
+77109505;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1568.809;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109506;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1568.809;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:56:04.653265
+77109507;800600;2F;9366;John Wall;3300;Washington Wizards;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;1574.683;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109508;100200;Game stop;;;;;;;;;;;4;1574.683;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109509;300100;Foul;9012;Rashad Vaughn;3280;Milwaukee Bucks;9366;John Wall;3300;Washington Wizards;;;4;1574.683;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109510;800101;1+;9366;John Wall;3300;Washington Wizards;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;1605.793;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109511;800101;1+;9366;John Wall;3300;Washington Wizards;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;1624.507;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109512;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1633.217;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109513;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;1639.117;20.96;2.43;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:56:04.653265
+77109514;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;1639.117;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109515;800400;2+1;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;1639.117;26.99;8.04;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:56:04.653265
+77109516;100200;Game stop;;;;;;;;;;;4;1639.117;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109517;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;1639.117;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109518;800101;1+;370973;Jabari Parker;3280;Milwaukee Bucks;3629;Nene Hilario;3300;Washington Wizards;;;4;1660.861;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109519;1800600;Timeout;;;3300;Washington Wizards;;;;;;;4;1660.861;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109520;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;4;1687.074;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109521;1600500;Guard;7769;Ramon Sessions;3300;Washington Wizards;7490;Garrett Temple;3300;Washington Wizards;;;4;1687.074;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109522;100100;Ball in play;;;3300;Washington Wizards;;;;;;;4;1687.074;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109523;800600;2F;9365;Bradley Beal;3300;Washington Wizards;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;1687.074;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109524;100200;Game stop;;;;;;;;;;;4;1687.074;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109525;300100;Foul;9012;Rashad Vaughn;3280;Milwaukee Bucks;9365;Bradley Beal;3300;Washington Wizards;;;4;1687.074;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109526;800101;1+;9365;Bradley Beal;3300;Washington Wizards;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;1707.185;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109527;800101;1+;9365;Bradley Beal;3300;Washington Wizards;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;1721.152;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109528;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1731.441;;;;;;;;;;;;;;;;2019-10-24 12:21:01.454624
+77109529;800302;3-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1732.541;12.02;7.80;;;;;;;;;;Jumper;;;;2017-12-07 11:56:04.653265
+77109530;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;1732.541;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+77109531;1800700;Match end;;;;;;;;;;;4;1732.541;;;;;;;;;;;;;;;;2017-12-07 11:56:04.653265
+93270142;100500;Turnover;3629;Nene Hilario;3300;Washington Wizards;;;;;;;2;189.010;;;;;;;;;;;;;;;;2018-01-11 20:53:04.421947
+93270143;300100;Foul;3629;Nene Hilario;3300;Washington Wizards;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;524.643;;;;;;;;;;;;;;;;2018-01-11 20:53:04.421947
+93270144;100500;Turnover;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;387.035;;;;;;;;;;;;;;;;2018-01-11 20:53:04.421947
+93270145;100500;Turnover;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;555.966;;;;;;;;;;;;;;;;2018-01-11 20:53:04.421947
+93270146;100500;Turnover;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;845.914;;;;;;;;;;;;;;;;2018-01-11 20:53:04.421947
+93270147;100500;Turnover;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1029.812;;;;;;;;;;;;;;;;2018-01-11 20:53:04.421947
+103640966;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;9366;John Wall;1;39.556;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640968;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;114.629;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640970;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;137.022;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640972;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;7490;Garrett Temple;1;188.105;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640974;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;209.723;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640976;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;1;275.520;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640978;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;301.197;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640980;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;323.137;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640982;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;9366;John Wall;1;346.520;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640984;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;397.606;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640986;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;;;1;418.474;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640988;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;434.546;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640990;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;477.668;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640992;200900;Assisting;36741;Drew Gooden;3300;Washington Wizards;;;;;9366;John Wall;1;527.379;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640994;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;9366;John Wall;1;557.061;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640996;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;7490;Garrett Temple;1;579.941;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103640998;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;1;618.370;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641000;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;644.617;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641002;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;703.298;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641004;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;729.722;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641006;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;;;1;816.558;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641008;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;9365;Bradley Beal;1;845.399;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641010;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;7769;Ramon Sessions;1;871.027;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641012;200900;Assisting;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;39.039;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641014;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;;;2;89.188;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641016;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;9661;Gary Neal;2;167.563;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641018;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;242.479;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641020;200900;Assisting;9661;Gary Neal;3300;Washington Wizards;;;;;;;2;299.873;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641022;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;338.702;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641024;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;9365;Bradley Beal;2;356.645;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641026;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;404.549;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641028;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;423.840;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641030;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;9365;Bradley Beal;2;574.246;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641032;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;660.206;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641034;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;2;698.583;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641036;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;734.193;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641038;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;841.156;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641040;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;7769;Ramon Sessions;2;902.450;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641042;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;912.248;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641044;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;974.598;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641046;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1048.451;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641048;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;2;1076.163;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641050;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1095.329;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641052;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;7490;Garrett Temple;2;1147.079;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641054;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1158.934;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641056;200900;Assisting;36741;Drew Gooden;3300;Washington Wizards;;;;;;;2;1176.202;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641058;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;1189.697;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641060;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;;;2;1206.070;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641062;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;1248.289;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641064;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;2;1282.774;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641066;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;51.937;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641068;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;119.220;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641070;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;135.232;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641072;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;192.381;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641074;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;246.908;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641076;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;302.868;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641078;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;3;336.910;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641080;200900;Assisting;9363;Otto Porter Jr.;3300;Washington Wizards;;;;;3629;Nene Hilario;3;415.426;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641082;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;9363;Otto Porter Jr.;3;429.805;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641084;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;456.468;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641086;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;566.683;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641088;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;652.570;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641090;200900;Assisting;7490;Garrett Temple;3300;Washington Wizards;;;;;;;3;716.450;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641092;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;731.854;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641094;200900;Assisting;36741;Drew Gooden;3300;Washington Wizards;;;;;;;3;743.823;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641096;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;810.778;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641098;200900;Assisting;13739;DeJuan Blair;3300;Washington Wizards;;;;;7490;Garrett Temple;3;871.241;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641100;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;892.608;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641102;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;993.970;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641104;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;1061.434;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641106;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;1179.357;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641108;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;3;1232.057;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641110;200900;Assisting;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;;;4;26.895;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641112;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;3629;Nene Hilario;4;91.204;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641114;200900;Assisting;9368;Kelly Oubre Jr.;3300;Washington Wizards;;;;;9366;John Wall;4;249.482;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641116;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;285.264;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641118;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;347.219;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641120;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;426.674;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641122;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;518.981;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641124;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;537.735;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641126;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;4;618.968;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641128;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;7769;Ramon Sessions;4;637.438;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641130;200900;Assisting;3629;Nene Hilario;3300;Washington Wizards;;;;;;;4;662.726;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641132;200900;Assisting;7769;Ramon Sessions;3300;Washington Wizards;;;;;9366;John Wall;4;726.030;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641134;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;759.744;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641136;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;876.411;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641138;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;976.365;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641140;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;1084.849;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641142;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;1117.652;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641144;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;1144.284;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641146;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;1206.290;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641148;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;7490;Garrett Temple;4;1269.837;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641150;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;1284.915;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641152;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;1338.232;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641154;200900;Assisting;8421;Jared Dudley;3300;Washington Wizards;;;;;9366;John Wall;4;1363.609;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641156;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1409.713;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641158;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1506.011;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641160;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;;;4;1513.923;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641162;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1568.809;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641164;200900;Assisting;9366;John Wall;3300;Washington Wizards;;;;;;;4;1574.683;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641166;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;1639.117;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904
+103641168;200900;Assisting;9365;Bradley Beal;3300;Washington Wizards;;;;;;;4;1687.074;;;;;;;;;;;;;;;;2018-04-19 10:53:02.783904

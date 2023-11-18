@@ -1,0 +1,915 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76991956;1601000;Starting lineup;10862;Ronnie Price;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991957;1601000;Starting lineup;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991958;1601000;Starting lineup;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991959;1601000;Starting lineup;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991960;1601000;Starting lineup;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991961;1601000;Starting lineup;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991962;1601000;Starting lineup;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991963;1601000;Starting lineup;370642;TJ Warren;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991964;1601000;Starting lineup;5280;Tyson Chandler;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991965;1601000;Starting lineup;5278;Devin Booker;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991966;1601000;Starting lineup;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991967;1601000;Starting lineup;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991968;1601000;Starting lineup;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991969;1601000;Starting lineup;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991970;1601000;Starting lineup;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991971;1601000;Starting lineup;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991972;1601000;Starting lineup;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991973;1601000;Starting lineup;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991974;1601000;Starting lineup;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991975;1601000;Starting lineup;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991976;1601000;Starting lineup;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991977;1601000;Starting lineup;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991978;1601000;Starting lineup;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991979;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991980;1600500;Guard;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991981;1600500;Guard;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991982;1600500;Guard;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991983;1600500;Guard;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991984;1600500;Guard;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991985;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991986;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991987;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991988;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991989;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991990;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;50.087;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76991991;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;1;71.087;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991992;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;76.865;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991993;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;76.865;27.05;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:03:00.417021
+76991994;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;87.709;25.82;9.60;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:03:00.417021
+76991995;100300;Rebound;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;87.709;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991996;800202;2-;8428;Alex Len;3175;Phoenix Suns;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;93.149;26.81;6.90;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:03:00.417021
+76991997;100200;Game stop;;;;;;;;;;;1;93.149;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991998;100300;Rebound;;;3175;Phoenix Suns;;;;;;;1;93.149;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76991999;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;114.360;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992000;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;118.360;21.35;2.64;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992001;100300;Rebound;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;118.360;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992002;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;144.028;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992003;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;144.028;26.84;4.80;;;;;;;;Post;;Hook;;;;2017-12-07 11:03:00.417021
+76992004;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;1;144.028;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992005;800302;3-;8591;Jon Leuer;3175;Phoenix Suns;;;;;371088;PJ Tucker;1;160.494;19.88;9.60;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992006;100300;Rebound;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;160.494;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992007;200600;Post;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;172.944;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992008;800600;2F;5319;Kevin Garnett;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;1;172.944;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:03:00.417021
+76992009;100200;Game stop;;;;;;;;;;;1;172.944;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992010;300100;Foul;8591;Jon Leuer;3175;Phoenix Suns;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;172.944;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992011;800101;1+;5319;Kevin Garnett;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;1;198.586;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992012;800101;1+;5319;Kevin Garnett;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;1;212.803;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992013;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;215.139;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992014;200600;Post;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;1;228.139;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992015;800202;2-;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;1;228.139;25.52;7.95;;;;;;;;Post;;Jumper;;;;2017-12-07 11:03:00.417021
+76992016;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;228.139;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992017;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;241.666;22.58;13.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992018;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;241.666;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992019;200600;Post;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;257.178;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992020;800600;2F;8428;Alex Len;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;257.178;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:03:00.417021
+76992021;100200;Game stop;;;;;;;;;;;1;257.178;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992022;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;8428;Alex Len;3175;Phoenix Suns;;;1;257.178;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992023;800101;1+;8428;Alex Len;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;279.845;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992024;800101;1+;8428;Alex Len;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;290.663;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992025;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;292.763;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992026;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;310.763;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992027;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;310.763;27.08;8.37;;;;;;;;Post;;Lay up;;;;2017-12-07 11:03:00.417021
+76992028;200600;Post;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;328.635;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992029;800600;2F;8428;Alex Len;3175;Phoenix Suns;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;328.635;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:03:00.417021
+76992030;100200;Game stop;;;;;;;;;;;1;328.635;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992031;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;8428;Alex Len;3175;Phoenix Suns;;;1;328.635;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992032;800101;1+;8428;Alex Len;3175;Phoenix Suns;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;349.994;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992033;800101;1+;8428;Alex Len;3175;Phoenix Suns;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;363.579;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992034;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;367.579;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992035;100200;Game stop;;;;;;;;;;;1;376.579;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992036;300100;Foul;8428;Alex Len;3175;Phoenix Suns;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;376.579;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992037;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;391.672;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992038;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;397.672;21.26;10.59;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:03:00.417021
+76992039;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;1;397.672;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992040;100200;Game stop;;;;;;;;;;;1;405.710;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992041;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;1;405.710;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992042;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;419.951;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992043;100200;Game stop;;;;;;;;;;;1;424.951;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992044;100500;Turnover;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;424.951;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992045;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;431.254;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992046;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;1;439.254;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:03:00.417021
+76992047;100200;Game stop;;;;;;;;;;;1;439.254;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992048;300100;Foul;8591;Jon Leuer;3175;Phoenix Suns;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;439.254;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992049;800102;1-;5309;Ricky Rubio;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;1;473.837;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992050;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;473.837;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992051;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;8591;Jon Leuer;3175;Phoenix Suns;;;1;473.837;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992052;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;1;493.250;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992053;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;496.754;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992054;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;1;509.754;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992055;100400;Steal;5279;Brandon Knight;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;509.754;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992056;800302;3-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;518.587;22.37;13.77;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992057;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;518.587;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992058;100200;Game stop;;;;;;;;;;;1;524.092;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992059;300100;Foul;5279;Brandon Knight;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;524.092;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992060;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;543.597;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992061;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;1;550.597;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992062;800301;3+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;550.597;20.09;5.94;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992063;400101;Accurate pass;8428;Alex Len;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;569.196;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:03:00.417021
+76992064;800301;3+;5279;Brandon Knight;3175;Phoenix Suns;;;;;8428;Alex Len;1;569.196;27.35;0.78;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:03:00.417021
+76992065;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;587.022;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992066;200300;Pick'n'Roll;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;587.022;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992067;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;587.022;24.35;12.60;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992068;200300;Pick'n'Roll;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;599.487;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992069;800600;2F;8428;Alex Len;3175;Phoenix Suns;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;599.487;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:03:00.417021
+76992070;100200;Game stop;;;;;;;;;;;1;599.487;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992071;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;8428;Alex Len;3175;Phoenix Suns;;;1;599.487;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992072;800101;1+;8428;Alex Len;3175;Phoenix Suns;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;626.665;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992073;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;626.665;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992074;800101;1+;8428;Alex Len;3175;Phoenix Suns;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;650.677;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992075;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;654.397;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992076;200600;Post;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;672.397;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992077;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;672.397;26.12;9.27;;;;;;;;Post;;Hook;;;;2017-12-07 11:03:00.417021
+76992078;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;685.498;26.84;7.35;;;;;;;;;;Lay up;;;;2017-12-07 11:03:00.417021
+76992079;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;1;698.936;20.03;9.30;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992080;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;698.936;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992081;100200;Game stop;;;;;;;;;;;1;715.701;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992082;100500;Turnover;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;715.701;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992083;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;715.701;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992084;100200;Game stop;;;;;;;;;;;1;715.701;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992085;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;1;715.701;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992086;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;715.701;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992087;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;736.159;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992088;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;742.159;22.28;11.28;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992089;100300;Rebound;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;742.159;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992090;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;8428;Alex Len;1;763.005;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992091;200300;Pick'n'Roll;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;763.005;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992092;800201;2+;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;763.005;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:03:00.417021
+76992093;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;1;777.931;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:03:00.417021
+76992094;100200;Game stop;;;;;;;;;;;1;777.931;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992095;300100;Foul;371088;PJ Tucker;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;777.931;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992096;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;1;803.533;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992097;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;1;817.940;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992098;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;821.070;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992099;800600;2F;8428;Alex Len;3175;Phoenix Suns;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;1;837.070;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:03:00.417021
+76992100;100200;Game stop;;;;;;;;;;;1;837.070;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992101;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;8428;Alex Len;3175;Phoenix Suns;;;1;837.070;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992102;800101;1+;8428;Alex Len;3175;Phoenix Suns;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;1;863.685;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992103;1600500;Guard;370642;TJ Warren;3175;Phoenix Suns;371088;PJ Tucker;3175;Phoenix Suns;;;1;863.685;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992104;800101;1+;8428;Alex Len;3175;Phoenix Suns;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;1;880.769;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992105;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;885.164;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992106;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;900.164;22.58;6.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992107;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;900.164;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992108;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;905.442;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992109;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;905.442;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:03:00.417021
+76992110;100200;Game stop;;;;;;;;;;;1;921.957;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992111;300100;Foul;9014;Mirza Teletovic;3175;Phoenix Suns;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;921.957;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992112;1600500;Guard;5280;Tyson Chandler;3175;Phoenix Suns;8428;Alex Len;3175;Phoenix Suns;;;1;921.957;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992113;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;941.704;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992114;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;1;952.704;26.96;8.34;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:03:00.417021
+76992115;100300;Rebound;370642;TJ Warren;3175;Phoenix Suns;;;;;;;1;952.704;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992116;800301;3+;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;964.796;20.51;12.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992117;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;1;980.040;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992118;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;980.040;23.42;7.56;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992119;800202;2-;5279;Brandon Knight;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;989.604;22.97;8.37;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992120;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;989.604;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992121;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;997.288;27.08;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:03:00.417021
+76992122;100300;Rebound;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;1;997.288;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992123;100400;Steal;90354;Kevin Martina;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;1;999.540;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992124;100200;Game stop;;;;;;;;;;;1;1003.987;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992125;100500;Turnover;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;1003.987;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992126;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;1;1003.987;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992127;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;8420;Eric Bledsoe;3175;Phoenix Suns;;;1;1003.987;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992128;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;1003.987;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992129;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;1028.787;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992130;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;1038.787;18.89;7.95;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992131;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;1038.787;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992132;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;1054.064;27.05;14.76;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992133;100200;Game stop;;;;;;;;;;;1;1054.064;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992134;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;1054.064;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992135;800600;2F;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;1;1054.064;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:03:00.417021
+76992136;300100;Foul;5278;Devin Booker;3175;Phoenix Suns;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;1;1054.064;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992137;800101;1+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;1;1083.367;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992138;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;1;1083.367;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992139;800102;1-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;1;1109.236;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992140;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;1109.236;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992141;100300;Rebound;5280;Tyson Chandler;3175;Phoenix Suns;;;;;;;1;1109.236;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992142;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;370642;TJ Warren;1;1121.018;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992143;800201;2+;370642;TJ Warren;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;1121.018;23.75;9.30;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992144;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;1138.283;22.28;1.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992145;100300;Rebound;5280;Tyson Chandler;3175;Phoenix Suns;;;;;;;1;1138.283;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992146;800202;2-;5278;Devin Booker;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;1150.663;27.68;11.49;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:03:00.417021
+76992147;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;1150.663;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992148;100200;Game stop;;;;;;;;;;;1;1160.025;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992149;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;1160.025;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992150;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;1160.025;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992151;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;1176.924;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992152;800302;3-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;1;1187.924;23.87;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992153;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;1187.924;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992154;100400;Steal;5279;Brandon Knight;3175;Phoenix Suns;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;1;1209.561;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992155;800301;3+;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;1219.185;19.79;6.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992156;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;1;1236.307;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992157;200600;Post;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;1236.307;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992158;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;1236.307;27.20;8.22;;;;;;;;Post;;Lay up;;;;2017-12-07 11:03:00.417021
+76992159;800202;2-;370642;TJ Warren;3175;Phoenix Suns;;;;;;;1;1250.650;27.38;10.59;;;;;;;;Isolation;;Floater;Drives Left;;;2017-12-07 11:03:00.417021
+76992160;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;1250.650;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992161;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;1257.022;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:03:00.417021
+76992162;800600;2F;5278;Devin Booker;3175;Phoenix Suns;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;1;1270.640;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:03:00.417021
+76992163;100200;Game stop;;;;;;;;;;;1;1270.640;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992164;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;1;1270.640;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992165;800101;1+;5278;Devin Booker;3175;Phoenix Suns;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;1;1290.995;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992166;800101;1+;5278;Devin Booker;3175;Phoenix Suns;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;1;1303.909;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992167;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;1308.660;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992168;200600;Post;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;1321.960;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992169;800600;2F;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;;;1;1321.960;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:03:00.417021
+76992170;100200;Game stop;;;;;;;;;;;1;1321.960;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992171;300100;Foul;5280;Tyson Chandler;3175;Phoenix Suns;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;1;1321.960;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992172;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;;;1;1356.461;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992173;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;;;1;1374.943;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992174;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;1;1378.948;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992175;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;1402.148;20.36;3.81;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:03:00.417021
+76992176;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;1402.148;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992177;1800500;Halftime;;;;;;;;;;;1;1402.248;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992178;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992179;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992180;1600500;Guard;5280;Tyson Chandler;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992181;1600500;Guard;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992182;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992183;1600500;Guard;370642;TJ Warren;3175;Phoenix Suns;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992184;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992185;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992186;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992187;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992188;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992189;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;7.180;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992190;100200;Game stop;;;;;;;;;;;2;17.180;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992191;300100;Foul;5278;Devin Booker;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;17.180;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992192;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;37.920;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992193;100200;Game stop;;;;;;;;;;;2;45.920;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992194;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;45.920;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992195;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;51.486;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992196;200300;Pick'n'Roll;5280;Tyson Chandler;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;2;70.486;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992197;800202;2-;5280;Tyson Chandler;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;2;70.486;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:03:00.417021
+76992198;100300;Rebound;5278;Devin Booker;3175;Phoenix Suns;;;;;;;2;70.486;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992199;400101;Accurate pass;5278;Devin Booker;3175;Phoenix Suns;;;;;370642;TJ Warren;2;74.834;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992200;800201;2+;370642;TJ Warren;3175;Phoenix Suns;;;;;5278;Devin Booker;2;74.834;25.82;3.66;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:03:00.417021
+76992201;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;5317;Shabazz Muhammad;2;97.405;26.99;7.02;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:03:00.417021
+76992202;100200;Game stop;;;;;;;;;;;2;97.405;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992203;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;97.405;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992204;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;126.591;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992205;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;135.591;18.32;2.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992206;100200;Game stop;;;;;;;;;;;2;135.591;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992207;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;135.591;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992208;100500;Turnover;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;135.591;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992209;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;145.884;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992210;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;5278;Devin Booker;2;153.884;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992211;800201;2+;5278;Devin Booker;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;2;153.884;21.98;4.35;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992212;100400;Steal;5280;Tyson Chandler;3175;Phoenix Suns;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;168.905;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992213;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;182.274;27.08;7.83;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:03:00.417021
+76992214;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;197.601;22.73;11.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992215;100300;Rebound;370642;TJ Warren;3175;Phoenix Suns;;;;;;;2;197.601;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992216;800202;2-;370642;TJ Warren;3175;Phoenix Suns;;;;;;;2;210.269;26.96;5.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992217;100300;Rebound;370642;TJ Warren;3175;Phoenix Suns;;;;;;;2;210.269;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992218;800202;2-;370642;TJ Warren;3175;Phoenix Suns;;;;;;;2;210.269;26.96;7.02;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:03:00.417021
+76992219;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;210.269;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992220;100400;Steal;370642;TJ Warren;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;210.269;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992221;400101;Accurate pass;5280;Tyson Chandler;3175;Phoenix Suns;;;;;370642;TJ Warren;2;213.415;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992222;800201;2+;370642;TJ Warren;3175;Phoenix Suns;;;;;5280;Tyson Chandler;2;213.415;27.23;7.44;;;;;;;;;;Lay up;;;;2017-12-07 11:03:00.417021
+76992223;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;240.028;19.79;9.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992224;100200;Game stop;;;;;;;;;;;2;240.028;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992225;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;240.028;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992226;1600500;Guard;8428;Alex Len;3175;Phoenix Suns;5280;Tyson Chandler;3175;Phoenix Suns;;;2;240.028;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992227;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;258.098;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992228;800400;2+1;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;265.098;25.67;8.22;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:03:00.417021
+76992229;100200;Game stop;;;;;;;;;;;2;265.098;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992230;300100;Foul;8428;Alex Len;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;265.098;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992231;800101;1+;5307;Zach LaVine;3174;Minnesota Timberwolves;8428;Alex Len;3175;Phoenix Suns;;;2;287.813;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992232;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;291.655;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992233;100200;Game stop;;;;;;;;;;;2;299.655;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992234;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;2;299.655;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992235;1800600;Timeout;;;;;;;;;;;2;299.655;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992236;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;313.336;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992237;800302;3-;370642;TJ Warren;3175;Phoenix Suns;;;;;;;2;331.336;21.11;13.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992238;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;331.336;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992239;800301;3+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;341.765;19.64;6.51;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992240;100200;Game stop;;;;;;;;;;;2;359.357;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992241;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;2;359.357;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992242;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;379.664;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992243;100200;Game stop;;;;;;;;;;;2;382.664;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992244;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;2;382.664;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992245;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;414.448;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992246;800302;3-;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;428.448;22.25;13.53;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:03:00.417021
+76992247;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;2;428.448;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992248;100200;Game stop;;;;;;;;;;;2;443.224;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992249;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;443.224;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992250;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;449.166;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992251;800600;2F;370642;TJ Warren;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;464.166;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:03:00.417021
+76992252;100200;Game stop;;;;;;;;;;;2;464.166;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992253;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;370642;TJ Warren;3175;Phoenix Suns;;;2;464.166;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992254;800102;1-;370642;TJ Warren;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;484.476;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992255;100300;Rebound;;;3175;Phoenix Suns;;;;;;;2;484.476;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992256;1600500;Guard;371088;PJ Tucker;3175;Phoenix Suns;5278;Devin Booker;3175;Phoenix Suns;;;2;484.476;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992257;1600500;Guard;8591;Jon Leuer;3175;Phoenix Suns;9014;Mirza Teletovic;3175;Phoenix Suns;;;2;484.476;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992258;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;484.476;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992259;800101;1+;370642;TJ Warren;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;504.894;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992260;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;508.852;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992261;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;523.852;26.81;12.06;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992262;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;2;523.852;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992263;800600;2F;8420;Eric Bledsoe;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;533.294;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:03:00.417021
+76992264;100200;Game stop;;;;;;;;;;;2;533.294;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992265;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;2;533.294;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992266;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;554.361;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992267;1600500;Guard;9116;Damjan Rudez;3174;Minnesota Timberwolves;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;554.361;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992268;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;2;574.216;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992269;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;578.848;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992270;100200;Game stop;;;;;;;;;;;2;585.848;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992271;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;2;585.848;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992272;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;585.848;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992273;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;616.723;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992274;800600;2F;8420;Eric Bledsoe;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;640.723;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:03:00.417021
+76992275;100200;Game stop;;;;;;;;;;;2;640.723;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992276;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;2;640.723;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992277;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;667.483;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992278;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;667.483;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992279;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;667.483;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992280;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;691.039;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992281;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;693.421;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992282;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;370642;TJ Warren;3175;Phoenix Suns;;;2;701.421;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:03:00.417021
+76992283;100200;Game stop;;;;;;;;;;;2;701.421;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992284;300100;Foul;370642;TJ Warren;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;701.421;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992285;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;370642;TJ Warren;3175;Phoenix Suns;;;2;729.160;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992286;1600500;Guard;10862;Ronnie Price;3175;Phoenix Suns;370642;TJ Warren;3175;Phoenix Suns;;;2;729.160;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992287;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;370642;TJ Warren;3175;Phoenix Suns;;;2;754.561;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992288;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;756.774;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992289;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;8428;Alex Len;2;769.774;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992290;800201;2+;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;2;769.774;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:03:00.417021
+76992291;800302;3-;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;;;2;788.559;21.56;2.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992292;100200;Game stop;;;;;;;;;;;2;788.559;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992293;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;788.559;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992294;300100;Foul;8428;Alex Len;3175;Phoenix Suns;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;788.559;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992295;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;2;788.559;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992296;1600500;Guard;5280;Tyson Chandler;3175;Phoenix Suns;8428;Alex Len;3175;Phoenix Suns;;;2;788.559;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992297;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;809.702;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992298;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;814.702;21.95;13.50;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992299;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;814.702;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992300;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;814.702;25.67;9.57;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:03:00.417021
+76992301;100200;Game stop;;;;;;;;;;;2;830.287;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992302;100500;Turnover;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;830.287;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992303;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;841.198;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992304;100400;Steal;8420;Eric Bledsoe;3175;Phoenix Suns;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;852.198;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992305;400101;Accurate pass;8591;Jon Leuer;3175;Phoenix Suns;;;;;10862;Ronnie Price;2;856.203;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992306;800201;2+;10862;Ronnie Price;3175;Phoenix Suns;;;;;8591;Jon Leuer;2;856.203;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:03:00.417021
+76992307;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;2;871.197;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:03:00.417021
+76992308;100200;Game stop;;;;;;;;;;;2;871.197;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992309;300100;Foul;371088;PJ Tucker;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;871.197;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992310;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;2;912.716;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992311;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;912.716;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992312;1600500;Guard;5279;Brandon Knight;3175;Phoenix Suns;8420;Eric Bledsoe;3175;Phoenix Suns;;;2;912.716;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992313;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;2;912.716;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992314;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;912.716;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992315;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;2;912.716;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992316;800302;3-;371088;PJ Tucker;3175;Phoenix Suns;;;;;10862;Ronnie Price;2;936.158;26.72;14.73;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992317;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;936.158;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992318;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;951.778;24.35;10.74;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:03:00.417021
+76992319;800600;2F;90354;Kevin Martina;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;2;951.778;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:03:00.417021
+76992320;100200;Game stop;;;;;;;;;;;2;951.778;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992321;300100;Foul;5279;Brandon Knight;3175;Phoenix Suns;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;951.778;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992322;100300;Rebound;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;951.778;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992323;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;2;978.042;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992324;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;2;996.503;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992325;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;998.680;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992326;800202;2-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;1016.680;25.67;6.42;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:03:00.417021
+76992327;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;1016.680;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992328;800600;2F;90354;Kevin Martina;3174;Minnesota Timberwolves;10862;Ronnie Price;3175;Phoenix Suns;;;2;1021.976;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:03:00.417021
+76992329;100200;Game stop;;;;;;;;;;;2;1021.976;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992330;300100;Foul;10862;Ronnie Price;3175;Phoenix Suns;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;1021.976;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992331;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;10862;Ronnie Price;3175;Phoenix Suns;;;2;1045.900;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992332;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;10862;Ronnie Price;3175;Phoenix Suns;;;2;1058.240;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992333;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;1063.089;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992334;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;5280;Tyson Chandler;2;1078.089;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992335;200300;Pick'n'Roll;5280;Tyson Chandler;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;1078.089;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992336;800400;2+1;5280;Tyson Chandler;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;1078.089;25.04;7.62;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:03:00.417021
+76992337;100200;Game stop;;;;;;;;;;;2;1078.089;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992338;300100;Foul;90354;Kevin Martina;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;;;2;1078.089;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992339;800101;1+;5280;Tyson Chandler;3175;Phoenix Suns;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;1106.125;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992340;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1106.748;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992341;100400;Steal;8591;Jon Leuer;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;1118.748;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992342;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;10862;Ronnie Price;2;1137.780;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992343;800301;3+;10862;Ronnie Price;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;1137.780;21.83;14.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992344;100200;Game stop;;;;;;;;;;;2;1147.296;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992345;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;1147.296;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992346;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1163.085;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992347;100200;Game stop;;;;;;;;;;;2;1171.085;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992348;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;2;1171.085;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992349;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;1191.709;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992350;800301;3+;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;1208.709;21.71;13.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992351;400101;Accurate pass;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;9116;Damjan Rudez;2;1229.795;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992352;800301;3+;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;1229.795;27.62;0.48;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992353;400101;Accurate pass;5280;Tyson Chandler;3175;Phoenix Suns;;;;;8591;Jon Leuer;2;1242.854;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992354;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;1242.854;27.08;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:03:00.417021
+76992355;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1262.714;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992356;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1262.714;26.57;8.52;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:03:00.417021
+76992357;100300;Rebound;10862;Ronnie Price;3175;Phoenix Suns;;;;;;;2;1262.714;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992358;800302;3-;10862;Ronnie Price;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;1300.932;19.79;10.26;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:03:00.417021
+76992359;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;1300.932;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992360;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;2;1307.742;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992361;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1307.742;24.35;6.12;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:03:00.417021
+76992362;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;1321.005;18.56;7.95;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992363;100200;Game stop;;;;;;;;;;;2;1321.005;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992364;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;1321.005;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992365;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1339.758;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992366;100200;Game stop;;;;;;;;;;;2;1351.758;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992367;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;1351.758;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992368;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;2;1351.758;26.84;6.81;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:03:00.417021
+76992369;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1372.706;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992370;800600;2F;90354;Kevin Martina;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;2;1377.906;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:03:00.417021
+76992371;100200;Game stop;;;;;;;;;;;2;1377.906;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992372;300100;Foul;8591;Jon Leuer;3175;Phoenix Suns;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;1377.906;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992373;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;2;1398.237;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992374;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;8591;Jon Leuer;3175;Phoenix Suns;;;2;1398.237;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992375;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;1398.237;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992376;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;1398.237;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992377;1600500;Guard;8420;Eric Bledsoe;3175;Phoenix Suns;371088;PJ Tucker;3175;Phoenix Suns;;;2;1398.237;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992378;800102;1-;90354;Kevin Martina;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;2;1437.920;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992379;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;1437.920;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992380;100300;Rebound;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;1437.920;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992381;400101;Accurate pass;10862;Ronnie Price;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;2;1460.522;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992382;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;10862;Ronnie Price;2;1460.522;24.74;1.86;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992383;800700;3F;90354;Kevin Martina;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;;;2;1486.849;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 11:03:00.417021
+76992384;100200;Game stop;;;;;;;;;;;2;1486.849;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992385;300100;Foul;5280;Tyson Chandler;3175;Phoenix Suns;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;1486.849;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992386;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;;;2;1508.667;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992387;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;;;2;1521.681;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992388;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;5280;Tyson Chandler;3175;Phoenix Suns;;;2;1521.681;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992389;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5330;Adreian Payne;3174;Minnesota Timberwolves;;;2;1521.681;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992390;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;2;1521.681;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992391;800102;1-;90354;Kevin Martina;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;;;2;1544.917;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992392;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;2;1544.917;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992393;100300;Rebound;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;1544.917;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992394;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;2;1547.170;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992395;1800500;Halftime;;;;;;;;;;;2;1547.270;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992396;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992397;1600500;Guard;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992398;1600500;Guard;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992399;1600500;Guard;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992400;1600500;Guard;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992401;1600500;Guard;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992402;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992403;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992404;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992405;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992406;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992407;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992408;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;14.792;26.99;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:03:00.417021
+76992409;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;14.792;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992410;200600;Post;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;23.855;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992411;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;23.855;27.77;13.11;;;;;;;;Post;;Jumper;;;;2017-12-07 11:03:00.417021
+76992412;100300;Rebound;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;3;23.855;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992413;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;8428;Alex Len;3;39.071;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992414;200600;Post;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;39.071;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992415;800201;2+;8428;Alex Len;3175;Phoenix Suns;;;;;5279;Brandon Knight;3;39.071;27.05;7.83;;;;;;;;Post;;Lay up;;;;2017-12-07 11:03:00.417021
+76992416;100400;Steal;371088;PJ Tucker;3175;Phoenix Suns;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;48.993;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992417;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;8591;Jon Leuer;3;54.340;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992418;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;3;54.340;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:03:00.417021
+76992419;400101;Accurate pass;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;76.309;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992420;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;3;76.309;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:03:00.417021
+76992421;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;5279;Brandon Knight;3;87.585;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992422;800201;2+;5279;Brandon Knight;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;87.585;26.99;7.17;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:03:00.417021
+76992423;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;103.524;21.98;10.74;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992424;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;103.524;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992425;100400;Steal;5319;Kevin Garnett;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;3;111.804;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992426;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;3;115.807;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992427;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;115.807;27.08;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:03:00.417021
+76992428;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;3;136.364;21.35;2.97;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:03:00.417021
+76992429;100200;Game stop;;;;;;;;;;;3;136.364;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992430;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;136.364;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992431;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;143.653;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992432;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;156.653;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992433;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;156.653;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992434;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;3;156.653;26.06;7.35;;;;;;;;Post;;Jumper;;;;2017-12-07 11:03:00.417021
+76992435;400101;Accurate pass;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;167.572;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992436;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;8428;Alex Len;3;167.572;27.05;6.66;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:03:00.417021
+76992437;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;202.947;22.58;10.26;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:03:00.417021
+76992438;100200;Game stop;;;;;;;;;;;3;202.947;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992439;100300;Rebound;;;3175;Phoenix Suns;;;;;;;3;202.947;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992440;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;8591;Jon Leuer;3175;Phoenix Suns;;;3;202.947;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992441;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;230.803;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992442;800202;2-;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;254.803;27.08;7.20;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:03:00.417021
+76992443;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;254.803;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992444;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;3;260.282;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992445;800301;3+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;260.282;23.75;14.31;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:03:00.417021
+76992446;100200;Game stop;;;;;;;;;;;3;260.282;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992447;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;3;260.282;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992448;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;271.546;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992449;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;285.546;26.99;7.02;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:03:00.417021
+76992450;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;285.546;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992451;800201;2+;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;285.546;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:03:00.417021
+76992452;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;306.215;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992453;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;306.215;24.65;8.34;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:03:00.417021
+76992454;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;306.215;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992455;800302;3-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;312.268;19.73;5.94;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992456;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;312.268;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992457;200600;Post;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;333.130;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992458;800202;2-;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;333.130;27.50;5.01;;;;;;;;Post;;Jumper;;;;2017-12-07 11:03:00.417021
+76992459;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;333.130;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992460;800202;2-;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;333.130;26.84;7.26;;;;;;;;Putbacks;;;;;;2017-12-07 11:03:00.417021
+76992461;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;333.130;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992462;200300;Pick'n'Roll;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;3;344.294;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:03:00.417021
+76992463;800302;3-;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;3;344.294;21.11;3.33;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:03:00.417021
+76992464;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;344.294;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992465;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;359.273;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992466;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;359.273;26.12;9.60;;;;;;;;Post;;Jumper;;;;2017-12-07 11:03:00.417021
+76992467;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;359.273;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992468;100200;Game stop;;;;;;;;;;;3;367.649;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992469;100500;Turnover;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;367.649;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992470;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;378.652;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992471;100200;Game stop;;;;;;;;;;;3;393.652;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992472;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;3;393.652;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992473;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;393.652;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992474;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;415.304;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992475;400101;Accurate pass;8428;Alex Len;3175;Phoenix Suns;;;;;8591;Jon Leuer;3;427.304;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992476;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;8428;Alex Len;3;427.304;22.58;4.80;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992477;100400;Steal;5279;Brandon Knight;3175;Phoenix Suns;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;439.145;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992478;800201;2+;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;3;442.596;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:03:00.417021
+76992479;100200;Game stop;;;;;;;;;;;3;442.596;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992480;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;3;442.596;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992481;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;455.954;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992482;100400;Steal;8420;Eric Bledsoe;3175;Phoenix Suns;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;470.954;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992483;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;8591;Jon Leuer;3;476.070;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992484;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;476.070;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:03:00.417021
+76992485;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;90354;Kevin Martina;3;494.027;24.80;8.13;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:03:00.417021
+76992486;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;494.027;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992487;400101;Accurate pass;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;497.670;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992488;100200;Game stop;;;;;;;;;;;3;497.670;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992489;300100;Foul;371088;PJ Tucker;3175;Phoenix Suns;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;497.670;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992490;800400;2+1;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;497.670;25.67;6.90;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:03:00.417021
+76992491;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;3;522.791;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992492;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;524.480;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992493;400101;Accurate pass;8591;Jon Leuer;3175;Phoenix Suns;;;;;8428;Alex Len;3;537.480;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992494;800201;2+;8428;Alex Len;3175;Phoenix Suns;;;;;8591;Jon Leuer;3;537.480;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:03:00.417021
+76992495;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;563.326;24.29;14.67;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:03:00.417021
+76992496;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;563.326;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992497;100200;Game stop;;;;;;;;;;;3;572.068;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992498;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;572.068;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992499;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;572.068;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992500;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;572.068;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992501;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;591.822;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992502;100400;Steal;8591;Jon Leuer;3175;Phoenix Suns;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;3;612.822;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992503;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;8591;Jon Leuer;3;619.922;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992504;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;619.922;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:03:00.417021
+76992505;400101;Accurate pass;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;643.787;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992506;800301;3+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;643.787;23.45;14.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992507;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;8591;Jon Leuer;3;658.890;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992508;200300;Pick'n'Roll;8591;Jon Leuer;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;658.890;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992509;800201;2+;8591;Jon Leuer;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;658.890;26.36;4.02;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:03:00.417021
+76992510;200600;Post;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;680.089;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992511;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;3;680.089;24.65;8.91;;;;;;;;Post;;Jumper;;;;2017-12-07 11:03:00.417021
+76992512;100300;Rebound;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;3;680.089;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992513;800202;2-;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;3;692.894;24.65;7.62;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:03:00.417021
+76992514;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;692.894;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992515;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;3;703.302;26.57;8.64;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:03:00.417021
+76992516;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;703.302;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992517;800202;2-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;3;703.302;26.93;7.14;;;;;;;;Putbacks;;;;;;2017-12-07 11:03:00.417021
+76992518;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;703.302;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992519;800202;2-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;3;703.302;26.72;7.80;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:03:00.417021
+76992520;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;703.302;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992521;100200;Game stop;;;;;;;;;;;3;703.804;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992522;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;3;703.804;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992523;1600500;Guard;5280;Tyson Chandler;3175;Phoenix Suns;8591;Jon Leuer;3175;Phoenix Suns;;;3;703.804;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992524;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;8428;Alex Len;3175;Phoenix Suns;;;3;703.804;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992525;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;5279;Brandon Knight;3175;Phoenix Suns;;;3;703.804;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992526;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;3;703.804;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992527;1600500;Guard;9116;Damjan Rudez;3174;Minnesota Timberwolves;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;3;703.804;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992528;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;721.850;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992529;800202;2-;371088;PJ Tucker;3175;Phoenix Suns;;;;;5278;Devin Booker;3;739.850;26.96;8.76;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:03:00.417021
+76992530;100300;Rebound;371088;PJ Tucker;3175;Phoenix Suns;;;;;;;3;739.850;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992531;100200;Game stop;;;;;;;;;;;3;739.850;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992532;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;3;739.850;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992533;1600500;Guard;10862;Ronnie Price;3175;Phoenix Suns;8420;Eric Bledsoe;3175;Phoenix Suns;;;3;739.850;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992534;100300;Rebound;5280;Tyson Chandler;3175;Phoenix Suns;;;;;;;3;739.850;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992535;800202;2-;5280;Tyson Chandler;3175;Phoenix Suns;;;;;;;3;739.850;27.08;7.50;;;;;;;;Putbacks;;;;;;2017-12-07 11:03:00.417021
+76992536;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;770.542;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992537;800201;2+;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;3;788.542;25.82;8.13;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:03:00.417021
+76992538;100400;Steal;10862;Ronnie Price;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;3;800.848;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992539;400101;Accurate pass;10862;Ronnie Price;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;3;803.969;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992540;800201;2+;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;10862;Ronnie Price;3;803.969;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:03:00.417021
+76992541;100200;Game stop;;;;;;;;;;;3;803.969;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992542;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;3;803.969;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992543;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;824.219;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992544;100400;Steal;371088;PJ Tucker;3175;Phoenix Suns;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;3;839.219;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992545;400101;Accurate pass;10862;Ronnie Price;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;3;845.852;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992546;800201;2+;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;10862;Ronnie Price;3;845.852;26.84;6.42;;;;;;;;Transition;;Hook;;;;2017-12-07 11:03:00.417021
+76992547;100200;Game stop;;;;;;;;;;;3;858.309;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992548;300100;Foul;10862;Ronnie Price;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;3;858.309;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992549;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;870.353;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992550;100400;Steal;10862;Ronnie Price;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;3;879.353;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992551;100200;Game stop;;;;;;;;;;;3;888.323;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992552;1600500;Guard;1173;Andre Miller;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;888.323;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992553;100400;Steal;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;3;888.323;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992554;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;933.848;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992555;100200;Game stop;;;;;;;;;;;3;948.548;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992556;100500;Turnover;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;;;3;948.548;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992557;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;958.169;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992558;200300;Pick'n'Roll;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;10862;Ronnie Price;3;974.569;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992559;800400;2+1;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;10862;Ronnie Price;3;974.569;26.96;6.48;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:03:00.417021
+76992560;100200;Game stop;;;;;;;;;;;3;974.569;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992561;300100;Foul;9116;Damjan Rudez;3174;Minnesota Timberwolves;9014;Mirza Teletovic;3175;Phoenix Suns;;;3;974.569;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992562;800102;1-;9014;Mirza Teletovic;3175;Phoenix Suns;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;3;996.067;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992563;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;996.067;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992564;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;996.067;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992565;800600;2F;5307;Zach LaVine;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;3;1012.967;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:03:00.417021
+76992566;100200;Game stop;;;;;;;;;;;3;1012.967;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992567;300100;Foul;5278;Devin Booker;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;3;1012.967;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992568;800101;1+;5307;Zach LaVine;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;3;1039.701;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992569;800101;1+;5307;Zach LaVine;3174;Minnesota Timberwolves;5278;Devin Booker;3175;Phoenix Suns;;;3;1053.603;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992570;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;3;1056.458;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992571;800202;2-;5278;Devin Booker;3175;Phoenix Suns;;;;;;;3;1073.258;24.50;12.03;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:03:00.417021
+76992572;100300;Rebound;;;3175;Phoenix Suns;;;;;;;3;1073.258;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992573;1800500;Halftime;;;;;;;;;;;3;1073.258;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992574;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992575;1600500;Guard;5278;Devin Booker;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992576;1600500;Guard;5280;Tyson Chandler;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992577;1600500;Guard;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992578;1600500;Guard;10862;Ronnie Price;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992579;1600500;Guard;370642;TJ Warren;3175;Phoenix Suns;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992580;1600500;Guard;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992581;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992582;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992583;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992584;1600500;Guard;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992585;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;4.519;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992586;800302;3-;10862;Ronnie Price;3175;Phoenix Suns;;;;;;;4;21.519;21.71;2.40;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:03:00.417021
+76992587;100200;Game stop;;;;;;;;;;;4;21.519;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992588;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;21.519;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992589;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;31.180;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992590;100200;Game stop;;;;;;;;;;;4;44.180;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992591;100300;Rebound;;;3175;Phoenix Suns;;;;;;;4;44.180;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992592;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;53.645;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992593;800202;2-;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;370642;TJ Warren;4;78.645;24.95;13.74;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:03:00.417021
+76992594;100200;Game stop;;;;;;;;;;;4;78.645;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992595;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;78.645;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992596;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;88.243;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992597;100200;Game stop;;;;;;;;;;;4;91.243;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992598;300100;Foul;10862;Ronnie Price;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;91.243;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992599;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;106.043;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992600;400101;Accurate pass;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;9116;Damjan Rudez;4;115.043;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992601;800201;2+;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;115.043;26.99;7.74;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:03:00.417021
+76992602;800302;3-;10862;Ronnie Price;3175;Phoenix Suns;;;;;5278;Devin Booker;4;134.227;23.90;14.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992603;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;134.227;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992604;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;4;142.961;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992605;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;142.961;26.12;7.98;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:03:00.417021
+76992606;800202;2-;5278;Devin Booker;3175;Phoenix Suns;;;;;9014;Mirza Teletovic;4;163.920;25.97;9.96;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 11:03:00.417021
+76992607;100200;Game stop;;;;;;;;;;;4;163.920;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992608;100300;Rebound;;;3175;Phoenix Suns;;;;;;;4;163.920;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992609;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5280;Tyson Chandler;3175;Phoenix Suns;;;4;163.920;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992610;1600500;Guard;8428;Alex Len;3175;Phoenix Suns;5280;Tyson Chandler;3175;Phoenix Suns;;;4;163.920;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992611;1600500;Guard;8420;Eric Bledsoe;3175;Phoenix Suns;10862;Ronnie Price;3175;Phoenix Suns;;;4;163.920;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992612;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;192.022;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992613;800202;2-;8428;Alex Len;3175;Phoenix Suns;;;;;;;4;198.022;25.22;12.30;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992614;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;198.022;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992615;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;216.674;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992616;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;216.674;26.81;7.89;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:03:00.417021
+76992617;100300;Rebound;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;4;216.674;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992618;800302;3-;5278;Devin Booker;3175;Phoenix Suns;;;;;;;4;224.108;22.88;1.56;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:03:00.417021
+76992619;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;224.108;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992620;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;237.111;26.99;7.17;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:03:00.417021
+76992621;100200;Game stop;;;;;;;;;;;4;237.111;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992622;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;4;237.111;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992623;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;252.270;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992624;800202;2-;370642;TJ Warren;3175;Phoenix Suns;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;267.270;25.76;7.11;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992625;100300;Rebound;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;;;4;267.270;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992626;400101;Accurate pass;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;4;275.102;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992627;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;275.102;26.57;7.74;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:03:00.417021
+76992628;200300;Pick'n'Roll;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;4;301.951;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:03:00.417021
+76992629;800202;2-;8428;Alex Len;3175;Phoenix Suns;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;8420;Eric Bledsoe;4;301.951;23.12;10.14;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:03:00.417021
+76992630;100300;Rebound;8428;Alex Len;3175;Phoenix Suns;;;;;;;4;301.951;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992631;800302;3-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;313.782;21.20;12.60;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 11:03:00.417021
+76992632;100300;Rebound;370642;TJ Warren;3175;Phoenix Suns;;;;;;;4;313.782;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992633;800202;2-;370642;TJ Warren;3175;Phoenix Suns;;;;;;;4;313.782;26.48;6.66;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:03:00.417021
+76992634;100300;Rebound;370642;TJ Warren;3175;Phoenix Suns;;;;;;;4;313.782;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992635;800202;2-;370642;TJ Warren;3175;Phoenix Suns;;;;;;;4;313.782;26.21;7.74;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:03:00.417021
+76992636;100200;Game stop;;;;;;;;;;;4;313.782;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992637;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;313.782;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992638;1600500;Guard;8591;Jon Leuer;3175;Phoenix Suns;9014;Mirza Teletovic;3175;Phoenix Suns;;;4;313.782;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992639;1600500;Guard;5279;Brandon Knight;3175;Phoenix Suns;5278;Devin Booker;3175;Phoenix Suns;;;4;313.782;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992640;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;334.652;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992641;800600;2F;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;370642;TJ Warren;3175;Phoenix Suns;;;4;344.652;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:03:00.417021
+76992642;100200;Game stop;;;;;;;;;;;4;344.652;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992643;300100;Foul;370642;TJ Warren;3175;Phoenix Suns;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;344.652;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992644;800102;1-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;370642;TJ Warren;3175;Phoenix Suns;;;4;382.114;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992645;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;382.114;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992646;1600500;Guard;371088;PJ Tucker;3175;Phoenix Suns;370642;TJ Warren;3175;Phoenix Suns;;;4;382.114;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992647;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;370642;TJ Warren;3175;Phoenix Suns;;;4;405.225;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992648;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;408.889;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992649;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;371088;PJ Tucker;4;429.889;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992650;800301;3+;371088;PJ Tucker;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;4;429.889;26.99;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992651;100400;Steal;8420;Eric Bledsoe;3175;Phoenix Suns;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;4;442.090;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992652;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;446.295;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:03:00.417021
+76992653;100200;Game stop;;;;;;;;;;;4;446.295;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992654;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;446.295;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992655;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;463.876;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992656;800400;2+1;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;472.876;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:03:00.417021
+76992657;100200;Game stop;;;;;;;;;;;4;472.876;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992658;300100;Foul;371088;PJ Tucker;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;472.876;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992659;800101;1+;5307;Zach LaVine;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;4;495.528;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992660;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;498.590;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992661;100200;Game stop;;;;;;;;;;;4;507.590;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992662;100500;Turnover;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;4;507.590;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992663;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;517.514;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992664;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;529.514;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992665;100300;Rebound;8591;Jon Leuer;3175;Phoenix Suns;;;;;;;4;529.514;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992666;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;550.558;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:03:00.417021
+76992667;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;550.558;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992668;100400;Steal;5279;Brandon Knight;3175;Phoenix Suns;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;550.558;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992669;100200;Game stop;;;;;;;;;;;4;550.558;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992670;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;4;550.558;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992671;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;572.723;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992672;100200;Game stop;;;;;;;;;;;4;582.723;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992673;100500;Turnover;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;4;582.723;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992674;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;588.258;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992675;400101;Accurate pass;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;9116;Damjan Rudez;4;606.258;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992676;800301;3+;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;606.258;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992677;400101;Accurate pass;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;622.342;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992678;800301;3+;5279;Brandon Knight;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;4;622.342;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992679;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;4;643.815;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992680;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;643.815;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992681;800400;2+1;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;643.815;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:03:00.417021
+76992682;100200;Game stop;;;;;;;;;;;4;643.815;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992683;300100;Foul;8428;Alex Len;3175;Phoenix Suns;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;643.815;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992684;1600500;Guard;5280;Tyson Chandler;3175;Phoenix Suns;8428;Alex Len;3175;Phoenix Suns;;;4;681.829;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992685;800101;1+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;8428;Alex Len;3175;Phoenix Suns;;;4;681.829;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992686;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;686.235;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992687;800202;2-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;697.235;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:03:00.417021
+76992688;100300;Rebound;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;;;4;697.235;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992689;100400;Steal;8420;Eric Bledsoe;3175;Phoenix Suns;1173;Andre Miller;3174;Minnesota Timberwolves;;;4;703.348;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992690;400101;Accurate pass;5279;Brandon Knight;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;4;713.557;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992691;800301;3+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;713.557;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:03:00.417021
+76992692;400101;Accurate pass;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;4;731.499;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992693;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;9116;Damjan Rudez;4;731.499;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992694;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;9116;Damjan Rudez;4;731.499;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:03:00.417021
+76992695;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;4;749.821;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992696;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;749.821;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992697;400101;Accurate pass;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;9116;Damjan Rudez;4;764.594;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992698;800301;3+;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;764.594;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992699;100200;Game stop;;;;;;;;;;;4;764.594;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992700;1800600;Timeout;;;3175;Phoenix Suns;;;;;;;4;764.594;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992701;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;777.977;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992702;100200;Game stop;;;;;;;;;;;4;794.977;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992703;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;4;794.977;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992704;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;813.168;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992705;400101;Accurate pass;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;823.168;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992706;800301;3+;5279;Brandon Knight;3175;Phoenix Suns;;;;;8591;Jon Leuer;4;823.168;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992707;800600;2F;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;4;844.805;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:03:00.417021
+76992708;100200;Game stop;;;;;;;;;;;4;844.805;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992709;300100;Foul;371088;PJ Tucker;3175;Phoenix Suns;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;844.805;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992710;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;4;877.935;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992711;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;371088;PJ Tucker;3175;Phoenix Suns;;;4;894.742;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992712;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;899.520;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992713;400101;Accurate pass;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;916.520;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:03:00.417021
+76992714;800301;3+;5279;Brandon Knight;3175;Phoenix Suns;;;;;8591;Jon Leuer;4;916.520;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:03:00.417021
+76992715;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;935.192;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992716;100300;Rebound;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;;;4;935.192;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992717;800302;3-;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;;;4;941.122;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:03:00.417021
+76992718;100200;Game stop;;;;;;;;;;;4;941.122;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992719;100300;Rebound;;;3175;Phoenix Suns;;;;;;;4;941.122;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992720;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;4;941.122;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992721;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;966.625;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992722;800302;3-;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;981.625;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:03:00.417021
+76992723;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;981.625;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992724;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;996.722;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992725;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;996.722;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:03:00.417021
+76992726;100300;Rebound;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;996.722;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992727;100200;Game stop;;;;;;;;;;;4;1012.705;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992728;300100;Foul;9116;Damjan Rudez;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;4;1012.705;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992729;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;1029.316;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992730;800201;2+;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;1038.316;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:03:00.417021
+76992731;100200;Game stop;;;;;;;;;;;4;1038.316;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992732;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;1038.316;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992733;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1060.546;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992734;800400;2+1;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;1070.546;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992735;100200;Game stop;;;;;;;;;;;4;1070.546;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992736;300100;Foul;5279;Brandon Knight;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1070.546;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992737;800101;1+;5307;Zach LaVine;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;4;1091.969;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992738;100100;Ball in play;;;3175;Phoenix Suns;;;;;;;4;1097.146;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992739;800302;3-;5279;Brandon Knight;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;4;1118.146;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:03:00.417021
+76992740;100300;Rebound;5280;Tyson Chandler;3175;Phoenix Suns;;;;;;;4;1118.146;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992741;100400;Steal;5307;Zach LaVine;3174;Minnesota Timberwolves;5279;Brandon Knight;3175;Phoenix Suns;;;4;1133.631;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992742;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;1138.355;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:03:00.417021
+76992743;800600;2F;8420;Eric Bledsoe;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1154.326;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992744;100200;Game stop;;;;;;;;;;;4;1154.326;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992745;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;4;1154.326;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992746;800102;1-;8420;Eric Bledsoe;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1177.073;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992747;100300;Rebound;;;3175;Phoenix Suns;;;;;;;4;1177.073;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992748;800102;1-;8420;Eric Bledsoe;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1190.866;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992749;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1190.866;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992750;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;1190.866;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992751;400101;Accurate pass;1173;Andre Miller;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;1205.810;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992752;800301;3+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;1205.810;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992753;800600;2F;8420;Eric Bledsoe;3175;Phoenix Suns;1173;Andre Miller;3174;Minnesota Timberwolves;;;4;1219.445;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992754;100200;Game stop;;;;;;;;;;;4;1219.445;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992755;300100;Foul;1173;Andre Miller;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;4;1219.445;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992756;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;1173;Andre Miller;3174;Minnesota Timberwolves;;;4;1248.011;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992757;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;1173;Andre Miller;3174;Minnesota Timberwolves;;;4;1259.543;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992758;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1264.923;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992759;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;1273.823;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:03:00.417021
+76992760;100300;Rebound;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;1273.823;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992761;800600;2F;8420;Eric Bledsoe;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1276.689;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992762;100200;Game stop;;;;;;;;;;;4;1276.689;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992763;300100;Foul;5307;Zach LaVine;3174;Minnesota Timberwolves;8420;Eric Bledsoe;3175;Phoenix Suns;;;4;1276.689;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992764;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1304.614;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992765;800101;1+;8420;Eric Bledsoe;3175;Phoenix Suns;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;1317.976;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+76992766;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1321.432;;;;;;;;;;;;;;;;2019-10-24 10:57:34.057352
+76992767;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;1327.832;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:03:00.417021
+76992768;1800700;Match end;;;;;;;;;;;4;1332.732;;;;;;;;;;;;;;;;2017-12-07 11:03:00.417021
+93267670;100500;Turnover;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;1;921.957;;;;;;;;;;;;;;;;2018-01-11 20:49:02.145159
+93267671;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;585.848;;;;;;;;;;;;;;;;2018-01-11 20:49:02.145159
+93267672;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;1171.085;;;;;;;;;;;;;;;;2018-01-11 20:49:02.145159
+93267673;100500;Turnover;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;393.652;;;;;;;;;;;;;;;;2018-01-11 20:49:02.145159
+103680137;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;76.865;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680139;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;172.944;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680141;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;257.178;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680143;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;310.763;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680145;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;328.635;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680147;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;439.254;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680149;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;550.597;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680151;200900;Assisting;5279;Brandon Knight;3175;Phoenix Suns;;;;;8428;Alex Len;1;569.196;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680153;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;587.022;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680155;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;599.487;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680157;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;672.397;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680159;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;1;685.498;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680161;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;1;763.005;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680163;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;777.931;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680165;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;;;1;837.070;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680167;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;905.442;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680169;200900;Assisting;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;964.796;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680171;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;980.040;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680173;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;1054.064;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680175;200900;Assisting;370642;TJ Warren;3175;Phoenix Suns;;;;;5279;Brandon Knight;1;1121.018;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680177;200900;Assisting;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;1;1219.185;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680179;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;1;1236.307;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680181;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;1257.022;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680183;200900;Assisting;5278;Devin Booker;3175;Phoenix Suns;;;;;;;1;1270.640;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680185;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;1321.960;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680187;200900;Assisting;370642;TJ Warren;3175;Phoenix Suns;;;;;5278;Devin Booker;2;74.834;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680189;200900;Assisting;5278;Devin Booker;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;2;153.884;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680191;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;182.274;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680193;200900;Assisting;370642;TJ Warren;3175;Phoenix Suns;;;;;5280;Tyson Chandler;2;213.415;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680195;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;265.098;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680197;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;341.765;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680199;200900;Assisting;370642;TJ Warren;3175;Phoenix Suns;;;;;;;2;464.166;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680201;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;533.294;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680203;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;2;640.723;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680205;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;701.421;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680207;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;2;769.774;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680209;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;814.702;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680211;200900;Assisting;10862;Ronnie Price;3175;Phoenix Suns;;;;;8591;Jon Leuer;2;856.203;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680213;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;871.197;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680215;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;951.778;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680217;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;1021.976;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680219;200900;Assisting;5280;Tyson Chandler;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;1078.089;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680221;200900;Assisting;10862;Ronnie Price;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;1137.780;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680223;200900;Assisting;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;2;1208.709;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680225;200900;Assisting;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;1229.795;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680227;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;2;1242.854;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680229;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1307.742;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680231;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;1377.906;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680233;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;10862;Ronnie Price;2;1460.522;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680235;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;1486.849;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680237;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;5279;Brandon Knight;3;39.071;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680239;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;5279;Brandon Knight;3;54.340;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680241;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;3;76.309;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680243;200900;Assisting;5279;Brandon Knight;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;87.585;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680245;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;115.807;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680247;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;3;156.653;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680249;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;8428;Alex Len;3;167.572;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680251;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;260.282;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680253;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;;;3;285.546;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680255;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;8428;Alex Len;3;427.304;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680257;200900;Assisting;5279;Brandon Knight;3175;Phoenix Suns;;;;;;;3;442.596;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680259;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;476.070;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680261;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;497.670;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680263;200900;Assisting;8428;Alex Len;3175;Phoenix Suns;;;;;8591;Jon Leuer;3;537.480;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680265;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;619.922;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680267;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;643.787;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680269;200900;Assisting;8591;Jon Leuer;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;3;658.890;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680271;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;;;3;788.542;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680273;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;10862;Ronnie Price;3;803.969;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680275;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;10862;Ronnie Price;3;845.852;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680277;200900;Assisting;9014;Mirza Teletovic;3175;Phoenix Suns;;;;;10862;Ronnie Price;3;974.569;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680279;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;1012.967;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680281;200900;Assisting;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;115.043;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680283;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;142.961;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680285;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;237.111;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680287;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;275.102;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680289;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;344.652;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680291;200900;Assisting;371088;PJ Tucker;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;4;429.889;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680293;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;446.295;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680295;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;472.876;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680297;200900;Assisting;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;606.258;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680299;200900;Assisting;5279;Brandon Knight;3175;Phoenix Suns;;;;;8420;Eric Bledsoe;4;622.342;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680301;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;643.815;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680303;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;5279;Brandon Knight;4;713.557;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680305;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;9116;Damjan Rudez;4;731.499;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680307;200900;Assisting;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;764.594;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680309;200900;Assisting;5279;Brandon Knight;3175;Phoenix Suns;;;;;8591;Jon Leuer;4;823.168;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680311;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;844.805;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680313;200900;Assisting;5279;Brandon Knight;3175;Phoenix Suns;;;;;8591;Jon Leuer;4;916.520;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680315;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;1038.316;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680317;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;1070.546;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680319;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;1138.355;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680321;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;1154.326;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680323;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;1173;Andre Miller;4;1205.810;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680325;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;1219.445;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680327;200900;Assisting;8420;Eric Bledsoe;3175;Phoenix Suns;;;;;;;4;1276.689;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145
+103680329;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;1327.832;;;;;;;;;;;;;;;;2018-04-19 11:25:01.484145

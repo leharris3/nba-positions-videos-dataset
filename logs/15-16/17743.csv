@@ -1,0 +1,916 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77056631;1601000;Starting lineup;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056632;1601000;Starting lineup;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056633;1601000;Starting lineup;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056634;1601000;Starting lineup;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056635;1601000;Starting lineup;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056636;1601000;Starting lineup;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056637;1601000;Starting lineup;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056638;1601000;Starting lineup;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056639;1601000;Starting lineup;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056640;1601000;Starting lineup;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056641;1601000;Starting lineup;9016;Miles Plumlee;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056642;1601000;Starting lineup;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056643;1601000;Starting lineup;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056644;1601000;Starting lineup;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056645;1601000;Starting lineup;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056646;1601000;Starting lineup;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056647;1601000;Starting lineup;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056648;1601000;Starting lineup;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056649;1601000;Starting lineup;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056650;1601000;Starting lineup;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056651;1601000;Starting lineup;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056652;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056653;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056654;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056655;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056656;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056657;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056658;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056659;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056660;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056661;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056662;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056663;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;22.670;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056664;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;44.670;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056665;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;44.670;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:32:04.462867
+77056666;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;44.670;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056667;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;63.784;26.96;7.44;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:32:04.462867
+77056668;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;63.784;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056669;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;63.784;26.36;6.72;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:32:04.462867
+77056670;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;63.784;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056671;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;72.795;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056672;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;72.795;25.82;5.10;;;;;;;;Post;;Jumper;;;;2017-12-07 11:32:04.462867
+77056673;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;81.559;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056674;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;81.559;26.99;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77056675;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;101.937;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056676;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;101.937;25.10;3.18;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:32:04.462867
+77056677;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;101.937;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056678;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;116.701;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056679;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;116.701;25.04;3.33;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:32:04.462867
+77056680;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;137.842;21.83;6.36;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77056681;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;137.842;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056682;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;143.860;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:32:04.462867
+77056683;100400;Steal;9019;Greg Monroe;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;154.454;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056684;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;159.892;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056685;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;159.892;26.99;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77056686;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;171.212;26.99;7.05;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:32:04.462867
+77056687;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;171.212;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056688;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;178.354;19.94;5.28;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77056689;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;178.354;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056690;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;184.197;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056691;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;184.197;24.44;5.19;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77056692;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;199.811;24.95;12.60;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77056693;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;199.811;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056694;100200;Game stop;;;;;;;;;;;1;206.171;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056695;100500;Turnover;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;206.171;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056696;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;206.171;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056697;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;206.171;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056698;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;237.202;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056699;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;237.202;27.20;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77056700;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;251.124;26.06;7.98;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77056701;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;251.124;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056702;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;251.124;26.96;7.05;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:32:04.462867
+77056703;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;251.124;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056704;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;256.535;26.84;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77056705;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;256.535;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056706;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;268.498;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056707;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;268.498;26.96;7.05;;;;;;;;Post;;Lay up;;;;2017-12-07 11:32:04.462867
+77056708;800202;2-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;288.032;27.08;7.32;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:32:04.462867
+77056709;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;288.032;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056710;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;288.032;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:32:04.462867
+77056711;100400;Steal;1858;Steven Adams;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;305.871;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056712;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;316.695;19.94;5.43;;;;;;;;;;Jumper;;;;2017-12-07 11:32:04.462867
+77056713;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;316.695;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056714;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;330.034;21.98;7.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77056715;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;1;349.132;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056716;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;349.132;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056717;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;349.132;21.41;7.17;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:32:04.462867
+77056718;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;361.203;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:32:04.462867
+77056719;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;361.203;25.37;0.78;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:32:04.462867
+77056720;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;372.374;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:32:04.462867
+77056721;100200;Game stop;;;;;;;;;;;1;372.374;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056722;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;372.374;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056723;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;396.581;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056724;800102;1-;1850;Russell Westbrook;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;414.869;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056725;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;414.869;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056726;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;414.869;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056727;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;414.869;26.57;7.35;;;;;;;;Putbacks;;;;;;2017-12-07 11:32:04.462867
+77056728;800600;2F;9020;Khris Middleton;3280;Milwaukee Bucks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;431.959;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 11:32:04.462867
+77056729;100200;Game stop;;;;;;;;;;;1;431.959;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056730;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;9020;Khris Middleton;3280;Milwaukee Bucks;;;1;431.959;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056731;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;451.816;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056732;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;462.956;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056733;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;465.125;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056734;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;479.125;19.94;5.70;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:32:04.462867
+77056735;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;479.125;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056736;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;9112;Serge Ibaka;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;1;490.966;26.57;7.65;;;;;;;;Cut;;Hook;;;;2017-12-07 11:32:04.462867
+77056737;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;1;490.966;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056738;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;503.404;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056739;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;503.404;25.34;11.28;;;;;;;;Post;;Jumper;;;;2017-12-07 11:32:04.462867
+77056740;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;503.404;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056741;800600;2F;370973;Jabari Parker;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;511.225;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:32:04.462867
+77056742;100200;Game stop;;;;;;;;;;;1;511.225;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056743;300100;Foul;7464;Kevin Durant;2935;Oklahoma City Thunder;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;511.225;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056744;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;1;526.713;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056745;800102;1-;370973;Jabari Parker;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;526.713;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056746;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;526.713;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056747;800101;1+;370973;Jabari Parker;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;539.939;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056748;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;540.768;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056749;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1860;Andre Roberson;1;552.768;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056750;800301;3+;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;552.768;26.42;14.31;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056751;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;579.573;26.57;3.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056752;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;579.573;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056753;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;586.543;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:32:04.462867
+77056754;100200;Game stop;;;;;;;;;;;1;586.543;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056755;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;586.543;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056756;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;609.273;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056757;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;1;609.273;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056758;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;609.273;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056759;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;657.707;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056760;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;661.043;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056761;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;669.043;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:32:04.462867
+77056762;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;669.043;23.87;14.37;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:32:04.462867
+77056763;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;688.638;25.67;6.51;;;;;;;;Isolation;;Floater;Drives Right;;;2017-12-07 11:32:04.462867
+77056764;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;707.396;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056765;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;707.396;26.57;6.27;;;;;;;;Post;;Jumper;;;;2017-12-07 11:32:04.462867
+77056766;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;707.396;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056767;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;707.396;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:32:04.462867
+77056768;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;727.556;19.79;5.94;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056769;100200;Game stop;;;;;;;;;;;1;727.556;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056770;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;727.556;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056771;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;732.538;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056772;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;746.538;25.82;8.34;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 11:32:04.462867
+77056773;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;1;746.538;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056774;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;757.069;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056775;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;757.069;25.64;11.34;;;;;;;;Post;;Jumper;;;;2017-12-07 11:32:04.462867
+77056776;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;757.069;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056777;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;769.077;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056778;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;769.077;26.42;9.96;;;;;;;;Post;;Hook;;;;2017-12-07 11:32:04.462867
+77056779;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;783.763;26.96;7.95;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:32:04.462867
+77056780;100200;Game stop;;;;;;;;;;;1;790.781;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056781;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;790.781;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056782;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;1;804.499;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056783;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;1;804.499;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056784;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;804.499;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056785;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;804.499;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056786;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;804.499;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056787;800600;2F;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;1;804.499;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:32:04.462867
+77056788;100200;Game stop;;;;;;;;;;;1;804.499;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056789;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;804.499;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056790;800101;1+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;1;827.813;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056791;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;1;827.813;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056792;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;1;827.813;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056793;800101;1+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;1;847.238;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056794;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;849.771;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056795;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;862.771;21.56;6.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77056796;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;862.771;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056797;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;874.122;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056798;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;874.122;26.96;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:32:04.462867
+77056799;100200;Game stop;;;;;;;;;;;1;888.370;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056800;100500;Turnover;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;888.370;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056801;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;900.195;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056802;800600;2F;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;1;910.195;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:32:04.462867
+77056803;100200;Game stop;;;;;;;;;;;1;910.195;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056804;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;910.195;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056805;800102;1-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;1;933.443;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056806;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;933.443;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056807;800102;1-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;1;948.438;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056808;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;1;948.438;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056809;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;948.438;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056810;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;966.272;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056811;800600;2F;1857;Enes Freedom;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;1;966.272;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:32:04.462867
+77056812;100200;Game stop;;;;;;;;;;;1;966.272;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056813;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;1;966.272;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056814;800102;1-;1857;Enes Freedom;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;1;990.387;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056815;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;1;990.387;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056816;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;990.387;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056817;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;1;1007.884;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056818;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;1011.054;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056819;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;1027.054;27.05;11.67;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:32:04.462867
+77056820;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;1027.054;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056821;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;1027.054;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:32:04.462867
+77056822;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;1;1046.724;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:32:04.462867
+77056823;100200;Game stop;;;;;;;;;;;1;1046.724;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056824;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;1;1046.724;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056825;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;1;1067.760;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056826;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;1;1080.395;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056827;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;1082.733;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056828;200300;Pick'n'Roll;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;1092.833;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:32:04.462867
+77056829;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;1092.833;25.82;12.06;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:32:04.462867
+77056830;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;1;1092.833;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056831;800201;2+;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;1;1105.139;27.05;6.81;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:32:04.462867
+77056832;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;1122.213;24.80;7.74;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:32:04.462867
+77056833;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;1122.213;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056834;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;1;1146.759;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056835;800301;3+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;1146.759;25.97;14.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056836;1800500;Halftime;;;;;;;;;;;1;1146.759;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056837;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056838;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056839;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056840;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056841;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056842;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056843;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056844;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056845;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056846;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056847;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056848;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;5.875;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056849;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;20.875;22.52;9.51;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:32:04.462867
+77056850;100200;Game stop;;;;;;;;;;;2;20.875;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056851;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;20.875;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056852;300100;Foul;1853;Nick Collison;2935;Oklahoma City Thunder;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;20.875;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056853;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;33.624;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056854;400101;Accurate pass;9022;John Henson;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;38.624;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056855;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9022;John Henson;2;38.624;26.96;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:32:04.462867
+77056856;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;2;54.799;26.84;7.95;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:32:04.462867
+77056857;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;54.799;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056858;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;54.799;26.72;7.32;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:32:04.462867
+77056859;100400;Steal;1857;Enes Freedom;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;74.176;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056860;100400;Steal;95270;OJ Mayo;3280;Milwaukee Bucks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;81.888;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056861;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;87.336;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056862;800400;2+1;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;87.336;26.81;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77056863;100200;Game stop;;;;;;;;;;;2;87.336;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056864;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;87.336;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056865;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;2;120.985;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056866;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;122.381;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056867;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;138.381;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056868;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;138.381;27.08;7.02;;;;;;;;Post;;Lay up;;;;2017-12-07 11:32:04.462867
+77056869;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;138.381;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056870;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;155.391;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056871;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;155.391;25.97;8.37;;;;;;;;Post;;Jumper;;;;2017-12-07 11:32:04.462867
+77056872;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;155.391;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056873;200600;Post;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;168.346;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056874;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;168.346;25.82;7.59;;;;;;;;Post;;Hook;;;;2017-12-07 11:32:04.462867
+77056875;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;168.346;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056876;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;176.920;26.84;10.68;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:32:04.462867
+77056877;800202;2-;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;194.205;21.71;10.14;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:32:04.462867
+77056878;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;194.205;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056879;100200;Game stop;;;;;;;;;;;2;202.062;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056880;300100;Foul;14294;Jerryd Bayless;3280;Milwaukee Bucks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;202.062;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056881;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;220.740;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056882;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;2;229.740;26.57;8.10;;;;;;;;;;Lay up;;;;2017-12-07 11:32:04.462867
+77056883;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;229.740;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056884;100200;Game stop;;;;;;;;;;;2;232.524;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056885;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;232.524;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056886;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;245.810;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056887;400101;Accurate pass;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;260.810;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056888;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;260.810;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:32:04.462867
+77056889;800600;2F;1861;Cameron Payne;2935;Oklahoma City Thunder;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;270.530;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:32:04.462867
+77056890;100200;Game stop;;;;;;;;;;;2;270.530;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056891;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;270.530;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056892;800101;1+;1861;Cameron Payne;2935;Oklahoma City Thunder;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;296.100;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056893;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;2;296.100;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056894;800101;1+;1861;Cameron Payne;2935;Oklahoma City Thunder;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;315.045;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056895;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;318.413;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056896;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;332.413;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056897;200300;Pick'n'Roll;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;332.413;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056898;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;332.413;26.66;12.69;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:32:04.462867
+77056899;100200;Game stop;;;;;;;;;;;2;352.279;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056900;300300;Technical foul;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;352.279;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056901;1800600;Timeout;;;;;;;;;;;2;370.698;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056902;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;1861;Cameron Payne;2935;Oklahoma City Thunder;;;2;370.698;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056903;800101;1+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;370.698;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056904;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;384.270;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056905;100200;Game stop;;;;;;;;;;;2;388.270;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056906;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;2;388.270;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056907;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;407.198;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056908;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;422.198;20.18;5.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056909;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;422.198;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056910;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;428.295;23.90;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056911;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;428.295;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056912;400101;Accurate pass;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;2;438.142;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056913;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;438.142;23.45;1.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056914;200600;Post;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;453.329;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056915;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;453.329;25.82;8.13;;;;;;;;Post;;Jumper;;;;2017-12-07 11:32:04.462867
+77056916;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;453.329;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056917;400101;Accurate pass;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;457.837;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056918;800301;3+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;2;457.837;20.81;3.48;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:32:04.462867
+77056919;100200;Game stop;;;;;;;;;;;2;469.238;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056920;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;2;469.238;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056921;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;8331;Dion Waiters;2935;Oklahoma City Thunder;;;2;484.158;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056922;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;484.158;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056923;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;484.158;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056924;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;484.158;25.82;7.56;;;;;;;;Post;;Hook;;;;2017-12-07 11:32:04.462867
+77056925;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;506.539;27.08;7.02;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:32:04.462867
+77056926;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;506.539;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056927;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;513.994;26.57;7.26;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77056928;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;513.994;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056929;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;513.994;26.51;7.56;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:32:04.462867
+77056930;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;2;536.136;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056931;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;563.001;26.72;7.26;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:32:04.462867
+77056932;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;563.001;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056933;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;563.001;26.72;7.35;;;;;;;;Putbacks;;;;;;2017-12-07 11:32:04.462867
+77056934;100200;Game stop;;;;;;;;;;;2;563.001;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056935;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;563.001;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056936;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;2;563.001;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056937;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;2;591.615;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056938;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;2;591.615;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056939;400101;Accurate pass;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;2;591.615;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056940;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;591.615;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:32:04.462867
+77056941;800201;2+;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;620.095;20.66;7.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77056942;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;2;637.387;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056943;800301;3+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;637.387;26.51;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056944;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;654.806;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056945;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;655.211;22.28;5.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056946;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;654.806;25.82;5.94;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:32:04.462867
+77056947;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;654.806;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056948;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;661.713;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:32:04.462867
+77056949;100200;Game stop;;;;;;;;;;;2;661.713;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056950;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;661.713;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056951;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;692.915;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056952;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;2;692.915;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056953;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;709.688;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056954;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;712.005;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056955;800302;3-;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;739.005;19.28;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056956;100300;Rebound;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;739.005;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056957;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;2;755.979;26.57;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77056958;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;2;755.979;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056959;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;760.390;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:32:04.462867
+77056960;100200;Game stop;;;;;;;;;;;2;760.390;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056961;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;2;760.390;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056962;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;784.911;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056963;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;784.911;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056964;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;802.172;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056965;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;2;802.172;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056966;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;802.172;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056967;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;803.983;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056968;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;813.983;22.37;9.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77056969;100200;Game stop;;;;;;;;;;;2;833.093;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056970;100500;Turnover;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;833.093;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056971;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;877.932;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056972;100200;Game stop;;;;;;;;;;;2;886.932;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056973;300100;Foul;1851;Anthony Morrow;2935;Oklahoma City Thunder;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;886.932;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056974;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;2;922.932;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056975;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;922.932;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056976;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;922.932;26.27;2.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77056977;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;922.932;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056978;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;932.764;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:32:04.462867
+77056979;100200;Game stop;;;;;;;;;;;2;932.764;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056980;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;2;932.764;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056981;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;961.432;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056982;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;975.477;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056983;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;979.002;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056984;100200;Game stop;;;;;;;;;;;2;983.002;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056985;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;2;983.002;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056986;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;996.647;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056987;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1005.647;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056988;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1005.647;26.96;5.70;;;;;;;;Post;;Jumper;;;;2017-12-07 11:32:04.462867
+77056989;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1005.647;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056990;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;1022.357;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056991;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;1022.357;27.05;7.98;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:32:04.462867
+77056992;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1034.549;25.76;7.50;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:32:04.462867
+77056993;100200;Game stop;;;;;;;;;;;2;1034.549;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056994;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;1034.549;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056995;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1065.468;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77056996;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1076.468;21.95;8.28;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:32:04.462867
+77056997;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;2;1076.468;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056998;200600;Post;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1088.079;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77056999;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;1088.079;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:32:04.462867
+77057000;100200;Game stop;;;;;;;;;;;2;1088.079;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057001;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1088.079;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057002;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;1111.423;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057003;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;1125.631;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057004;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1125.948;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057005;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;2;1135.948;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057006;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1135.948;19.64;6.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057007;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1154.871;23.90;9.72;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057008;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1171.250;25.52;3.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057009;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1189.986;26.84;7.50;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:32:04.462867
+77057010;200300;Pick'n'Roll;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1205.297;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:32:04.462867
+77057011;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;9112;Serge Ibaka;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;2;1205.297;26.84;8.58;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 11:32:04.462867
+77057012;100200;Game stop;;;;;;;;;;;2;1205.297;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057013;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;1205.297;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057014;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1227.422;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057015;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1237.022;25.97;4.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057016;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;1237.022;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057017;800600;2F;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1237.022;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:32:04.462867
+77057018;100200;Game stop;;;;;;;;;;;2;1237.022;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057019;300100;Foul;9112;Serge Ibaka;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;1237.022;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057020;800102;1-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1265.553;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057021;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;1265.553;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057022;800102;1-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1282.336;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057023;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1282.336;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057024;100200;Game stop;;;;;;;;;;;2;1282.336;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057025;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;1282.336;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057026;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1297.647;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057027;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;2;1300.347;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057028;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;1300.347;25.22;2.64;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:32:04.462867
+77057029;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1311.699;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057030;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1313.747;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057031;800600;2F;1850;Russell Westbrook;2935;Oklahoma City Thunder;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1321.472;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:32:04.462867
+77057032;100200;Game stop;;;;;;;;;;;2;1321.472;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057033;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;2;1321.472;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057034;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1368.341;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057035;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;2;1368.341;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057036;800101;1+;1850;Russell Westbrook;2935;Oklahoma City Thunder;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1389.233;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057037;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1392.236;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057038;100400;Steal;7464;Kevin Durant;2935;Oklahoma City Thunder;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;1411.136;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057039;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1417.542;20.63;3.09;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77057040;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;2;1417.542;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057041;1800500;Halftime;;;;;;;;;;;2;1417.542;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057042;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057043;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057044;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057045;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057046;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057047;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057048;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057049;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057050;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057051;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057052;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057053;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057054;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;12.471;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057055;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;12.471;27.08;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:32:04.462867
+77057056;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;29.105;26.12;7.62;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 11:32:04.462867
+77057057;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;29.105;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057058;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;30.527;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057059;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;38.836;27.08;8.28;;;;;;;;;;Lay up;;;;2017-12-07 11:32:04.462867
+77057060;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;38.836;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057061;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;38.836;26.57;7.95;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:32:04.462867
+77057062;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;60.640;22.58;12.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057063;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;60.640;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057064;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;69.905;25.91;8.04;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:32:04.462867
+77057065;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;69.905;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057066;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;69.905;26.99;7.80;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:32:04.462867
+77057067;100200;Game stop;;;;;;;;;;;3;82.818;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057068;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;82.818;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057069;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;99.852;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057070;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;109.852;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057071;800301;3+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;109.852;20.48;4.71;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057072;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;126.405;26.66;7.32;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:32:04.462867
+77057073;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;126.405;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057074;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;126.405;26.57;7.68;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:32:04.462867
+77057075;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;126.405;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057076;800202;2-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;142.823;25.52;7.74;;;;;;;;;;Floater;;;;2017-12-07 11:32:04.462867
+77057077;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;142.823;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057078;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;154.383;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:32:04.462867
+77057079;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;154.383;27.05;7.89;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:32:04.462867
+77057080;800302;3-;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;173.052;26.84;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057081;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;175.903;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057082;800600;2F;1860;Andre Roberson;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;175.903;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:32:04.462867
+77057083;100200;Game stop;;;;;;;;;;;3;175.903;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057084;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;175.903;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057085;800101;1+;1860;Andre Roberson;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;201.216;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057086;800102;1-;1860;Andre Roberson;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;214.480;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057087;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;214.480;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057088;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;214.480;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057089;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;232.278;25.82;7.20;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:32:04.462867
+77057090;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;232.278;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057091;100400;Steal;1860;Andre Roberson;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;232.278;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057092;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;237.977;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057093;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;237.977;27.08;7.98;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77057094;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;264.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057095;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;264.206;26.99;5.88;;;;;;;;Post;;Jumper;;;;2017-12-07 11:32:04.462867
+77057096;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;264.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057097;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;264.206;26.96;6.96;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:32:04.462867
+77057098;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;264.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057099;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;264.206;26.84;7.83;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:32:04.462867
+77057100;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;264.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057101;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;269.811;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057102;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;269.811;26.96;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77057103;100200;Game stop;;;;;;;;;;;3;296.745;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057104;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;3;296.745;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057105;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;296.745;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057106;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;296.745;23.60;4.20;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:32:04.462867
+77057107;100300;Rebound;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;296.745;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057108;100200;Game stop;;;;;;;;;;;3;339.024;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057109;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;3;339.024;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057110;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;339.024;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057111;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;339.024;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057112;100200;Game stop;;;;;;;;;;;3;339.024;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057113;100500;Turnover;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;339.024;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057114;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;349.206;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057115;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;357.206;24.20;11.82;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:32:04.462867
+77057116;100300;Rebound;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;357.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057117;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;9112;Serge Ibaka;3;365.968;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057118;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;365.968;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057119;800201;2+;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;365.968;24.35;7.80;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 11:32:04.462867
+77057120;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;384.813;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:32:04.462867
+77057121;800301;3+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;384.813;26.81;14.43;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:32:04.462867
+77057122;800202;2-;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;400.412;26.96;6.81;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:32:04.462867
+77057123;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;3;400.412;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057124;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;413.387;25.91;7.89;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77057125;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;413.387;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057126;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;421.149;23.45;12.60;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:32:04.462867
+77057127;200300;Pick'n'Roll;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;441.291;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:32:04.462867
+77057128;800202;2-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;441.291;23.12;7.05;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:32:04.462867
+77057129;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;441.291;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057130;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;3;441.291;26.81;8.49;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 11:32:04.462867
+77057131;100300;Rebound;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;441.291;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057132;100400;Steal;9020;Khris Middleton;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;444.746;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057133;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;451.044;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057134;800301;3+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;451.044;21.65;2.16;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77057135;100200;Game stop;;;;;;;;;;;3;484.436;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057136;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;3;484.436;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057137;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;484.436;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057138;800302;3-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;484.436;20.03;3.93;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057139;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;484.436;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057140;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;503.277;26.99;7.83;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:32:04.462867
+77057141;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;503.277;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057142;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;503.277;26.57;7.44;;;;;;;;Putbacks;;;;;;2017-12-07 11:32:04.462867
+77057143;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;3;523.236;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 11:32:04.462867
+77057144;100200;Game stop;;;;;;;;;;;3;523.236;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057145;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;523.236;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057146;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;3;545.511;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057147;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;3;545.511;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057148;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;3;563.150;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057149;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;568.515;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057150;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;575.515;22.28;5.64;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057151;100200;Game stop;;;;;;;;;;;3;595.601;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057152;300300;Technical foul;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;595.601;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057153;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;613.486;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057154;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;625.117;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057155;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;629.117;27.05;8.13;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:32:04.462867
+77057156;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;638.212;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057157;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;638.212;27.05;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77057158;100200;Game stop;;;;;;;;;;;3;649.953;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057159;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;3;649.953;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057160;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;664.360;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057161;100200;Game stop;;;;;;;;;;;3;675.360;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057162;100500;Turnover;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;675.360;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057163;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;686.464;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057164;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;693.464;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:32:04.462867
+77057165;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;693.464;22.67;13.77;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:32:04.462867
+77057166;800302;3-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;714.872;26.42;0.54;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:32:04.462867
+77057167;800600;2F;9112;Serge Ibaka;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;714.872;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057168;100200;Game stop;;;;;;;;;;;3;714.872;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057169;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;714.872;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057170;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;751.184;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057171;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;751.184;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057172;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;3;751.184;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057173;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;751.184;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057174;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;777.317;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057175;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;781.760;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057176;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;789.760;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057177;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;3;789.760;21.83;9.12;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:32:04.462867
+77057178;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;804.083;19.49;7.80;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:32:04.462867
+77057179;100200;Game stop;;;;;;;;;;;3;804.083;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057180;100300;Rebound;;;2935;Oklahoma City Thunder;;;;;;;3;804.083;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057181;800600;2F;9112;Serge Ibaka;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;804.083;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057182;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;804.083;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057183;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;838.476;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057184;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;838.476;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057185;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;3;838.476;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057186;800101;1+;9112;Serge Ibaka;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;871.728;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057187;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;873.468;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057188;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;882.468;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057189;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;3;882.468;20.96;11.76;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:32:04.462867
+77057190;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;3;908.627;26.75;7.32;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:32:04.462867
+77057191;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;908.627;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057192;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;914.924;26.99;6.90;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77057193;100200;Game stop;;;;;;;;;;;3;914.924;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057194;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;3;914.924;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057195;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;3;931.124;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057196;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;3;931.124;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057197;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;931.124;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057198;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;931.124;26.84;4.89;;;;;;;;Catch and Drive;;Floater;;;;2017-12-07 11:32:04.462867
+77057199;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;3;947.478;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057200;800201;2+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;947.478;26.51;7.32;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:32:04.462867
+77057201;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;3;963.653;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057202;800202;2-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;963.653;26.57;8.97;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 11:32:04.462867
+77057203;100400;Steal;1861;Cameron Payne;2935;Oklahoma City Thunder;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;3;965.630;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057204;800600;2F;1861;Cameron Payne;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;967.286;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057205;100200;Game stop;;;;;;;;;;;3;967.286;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057206;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;3;967.286;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057207;800101;1+;1861;Cameron Payne;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;993.462;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057208;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;993.462;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057209;800101;1+;1861;Cameron Payne;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;3;1025.028;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057210;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1028.042;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057211;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;1043.042;26.66;3.33;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057212;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;1043.042;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057213;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;3;1049.182;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057214;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;1049.182;27.20;7.26;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77057215;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9022;John Henson;3;1074.619;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057216;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;1074.619;26.27;7.80;;;;;;;;Cut;;Hook;;;;2017-12-07 11:32:04.462867
+77057217;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;1094.209;26.51;7.02;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:32:04.462867
+77057218;100300;Rebound;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;3;1094.209;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057219;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;1117.282;19.34;10.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057220;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;3;1117.282;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057221;800302;3-;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;1126.096;19.64;11.34;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77057222;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;3;1126.096;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057223;1800500;Halftime;;;;;;;;;;;3;1127.996;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057224;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057225;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057226;1600500;Guard;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057227;1600500;Guard;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057228;1600500;Guard;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057229;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057230;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057231;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057232;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057233;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057234;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057235;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;0.000;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057236;800201;2+;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;14.133;26.84;7.17;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:32:04.462867
+77057237;800202;2-;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;39.919;21.41;8.22;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057238;100300;Rebound;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;39.919;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057239;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;57.164;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057240;800202;2-;1857;Enes Freedom;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;4;57.164;26.81;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 11:32:04.462867
+77057241;100300;Rebound;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;57.164;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057242;800400;2+1;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;63.393;26.42;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77057243;100200;Game stop;;;;;;;;;;;4;63.393;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057244;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;4;63.393;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057245;800101;1+;14294;Jerryd Bayless;3280;Milwaukee Bucks;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;116.831;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057246;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;131.935;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057247;400101;Accurate pass;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;4;151.935;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057248;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;151.935;20.90;11.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057249;100400;Steal;1857;Enes Freedom;2935;Oklahoma City Thunder;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;167.933;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057250;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1851;Anthony Morrow;4;174.452;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057251;800301;3+;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;174.452;21.20;12.15;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77057252;100200;Game stop;;;;;;;;;;;4;199.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057253;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;199.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057254;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;4;199.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057255;1600500;Guard;9016;Miles Plumlee;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;199.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057256;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;199.206;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057257;100200;Game stop;;;;;;;;;;;4;198.762;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057258;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;198.762;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057259;100400;Steal;1853;Nick Collison;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;199.206;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057260;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;214.791;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057261;800302;3-;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;226.791;21.80;2.34;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057262;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;226.791;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057263;400101;Accurate pass;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;238.532;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057264;800301;3+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;238.532;26.27;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057265;200600;Post;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;266.618;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057266;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;266.618;26.84;7.26;;;;;;;;Post;;Lay up;;;;2017-12-07 11:32:04.462867
+77057267;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;288.754;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:32:04.462867
+77057268;100200;Game stop;;;;;;;;;;;4;288.754;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057269;300100;Foul;8331;Dion Waiters;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;288.754;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057270;800102;1-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;325.026;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057271;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;325.026;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057272;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;4;325.026;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057273;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;351.536;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057274;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;353.655;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057275;800301;3+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;364.655;21.11;12.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057276;100200;Game stop;;;;;;;;;;;4;375.858;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057277;300100;Foul;1861;Cameron Payne;2935;Oklahoma City Thunder;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;4;375.858;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057278;1600500;Guard;1850;Russell Westbrook;2935;Oklahoma City Thunder;8331;Dion Waiters;2935;Oklahoma City Thunder;;;4;411.806;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057279;1600500;Guard;9112;Serge Ibaka;2935;Oklahoma City Thunder;1853;Nick Collison;2935;Oklahoma City Thunder;;;4;411.806;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057280;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;4;411.806;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057281;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;411.806;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057282;100200;Game stop;;;;;;;;;;;4;411.806;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057283;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;411.806;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057284;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;437.126;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057285;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;453.126;26.42;7.62;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:32:04.462867
+77057286;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;485.648;22.13;6.63;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:32:04.462867
+77057287;100300;Rebound;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;485.648;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057288;800201;2+;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;493.637;21.05;5.01;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057289;800600;2F;95270;OJ Mayo;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;509.113;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 11:32:04.462867
+77057290;100200;Game stop;;;;;;;;;;;4;509.113;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057291;300100;Foul;1850;Russell Westbrook;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;509.113;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057292;800101;1+;95270;OJ Mayo;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;531.766;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057293;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9016;Miles Plumlee;3280;Milwaukee Bucks;;;4;531.766;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057294;1600500;Guard;7464;Kevin Durant;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;531.766;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057295;800101;1+;95270;OJ Mayo;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;553.912;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057296;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;555.055;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057297;400101;Accurate pass;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;567.055;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057298;200300;Pick'n'Roll;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;567.055;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057299;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;567.055;26.99;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:32:04.462867
+77057300;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;576.594;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057301;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;576.594;21.41;12.90;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77057302;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;1861;Cameron Payne;4;592.734;26.99;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:32:04.462867
+77057303;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;592.734;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057304;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;596.507;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057305;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;596.507;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:32:04.462867
+77057306;800302;3-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;618.832;19.64;7.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057307;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;618.832;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057308;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;624.749;26.84;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77057309;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;624.749;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057310;800202;2-;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;630.874;22.37;5.40;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:32:04.462867
+77057311;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;630.874;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057312;100200;Game stop;;;;;;;;;;;4;679.455;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057313;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;679.455;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057314;1600500;Guard;8331;Dion Waiters;2935;Oklahoma City Thunder;1861;Cameron Payne;2935;Oklahoma City Thunder;;;4;679.455;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057315;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;679.455;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057316;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9022;John Henson;4;679.455;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057317;200300;Pick'n'Roll;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;679.455;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057318;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;679.455;26.72;7.35;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:32:04.462867
+77057319;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;691.417;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057320;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;691.417;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:32:04.462867
+77057321;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;712.844;26.84;6.90;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:32:04.462867
+77057322;800302;3-;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;;;4;728.767;26.84;14.46;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057323;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;728.767;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057324;100200;Game stop;;;;;;;;;;;4;733.433;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057325;100500;Turnover;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;733.433;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057326;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;743.091;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057327;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;766.091;21.05;6.33;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:32:04.462867
+77057328;100300;Rebound;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;766.091;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057329;800600;2F;1857;Enes Freedom;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;766.091;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:32:04.462867
+77057330;100200;Game stop;;;;;;;;;;;4;766.091;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057331;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;766.091;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057332;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;795.073;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057333;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;818.412;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057334;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;819.247;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057335;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9022;John Henson;4;828.247;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057336;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;828.247;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:32:04.462867
+77057337;400101;Accurate pass;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;844.173;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057338;800201;2+;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;844.173;26.99;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:32:04.462867
+77057339;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;859.949;26.99;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:32:04.462867
+77057340;800600;2F;1857;Enes Freedom;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;4;874.865;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:32:04.462867
+77057341;100200;Game stop;;;;;;;;;;;4;874.865;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057342;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;874.865;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057343;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;4;902.383;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057344;800101;1+;1857;Enes Freedom;2935;Oklahoma City Thunder;9022;John Henson;3280;Milwaukee Bucks;;;4;919.286;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057345;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;920.616;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057346;400101;Accurate pass;9022;John Henson;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;933.616;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057347;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;933.616;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:32:04.462867
+77057348;800201;2+;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;952.486;26.96;4.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:32:04.462867
+77057349;800600;2F;9020;Khris Middleton;3280;Milwaukee Bucks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;966.090;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:32:04.462867
+77057350;100200;Game stop;;;;;;;;;;;4;966.090;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057351;300100;Foul;1857;Enes Freedom;2935;Oklahoma City Thunder;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;966.090;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057352;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;966.090;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057353;1600500;Guard;1858;Steven Adams;2935;Oklahoma City Thunder;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;977.030;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057354;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;4;977.030;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057355;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;977.030;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057356;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;1857;Enes Freedom;2935;Oklahoma City Thunder;;;4;989.002;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057357;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;990.628;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057358;400101;Accurate pass;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;1858;Steven Adams;4;1004.628;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057359;200300;Pick'n'Roll;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1004.628;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057360;800201;2+;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1004.628;25.76;7.62;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 11:32:04.462867
+77057361;200300;Pick'n'Roll;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;1023.162;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057362;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;1023.162;25.97;7.50;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 11:32:04.462867
+77057363;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1023.162;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057364;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1023.162;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:32:04.462867
+77057365;100200;Game stop;;;;;;;;;;;4;1034.480;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057366;1800600;Timeout;;;2935;Oklahoma City Thunder;;;;;;;4;1034.480;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057367;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;1858;Steven Adams;2935;Oklahoma City Thunder;;;4;1053.870;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057368;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1053.870;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057369;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1053.870;26.66;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:32:04.462867
+77057370;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1060.618;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:32:04.462867
+77057371;100200;Game stop;;;;;;;;;;;4;1060.618;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057372;300100;Foul;7464;Kevin Durant;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1060.618;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057373;800102;1-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1094.329;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057374;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;1094.329;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057375;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1119.775;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057376;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1123.121;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057377;800202;2-;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;1141.121;23.12;11.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:32:04.462867
+77057378;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1141.121;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057379;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;1148.323;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:32:04.462867
+77057380;100200;Game stop;;;;;;;;;;;4;1148.323;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057381;300100;Foul;1860;Andre Roberson;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1148.323;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057382;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;1178.335;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057383;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;1201.070;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057384;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1204.397;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057385;800201;2+;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1213.397;27.08;7.65;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:32:04.462867
+77057386;100400;Steal;1850;Russell Westbrook;2935;Oklahoma City Thunder;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;1227.674;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057387;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;1251.884;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057388;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1258.285;27.08;7.71;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:32:04.462867
+77057389;800302;3-;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1284.824;26.57;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:32:04.462867
+77057390;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1284.824;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057391;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;1296.423;21.26;12.30;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:32:04.462867
+77057392;100300;Rebound;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1296.423;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057393;100200;Game stop;;;;;;;;;;;4;1300.616;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057394;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;4;1300.616;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057395;1600500;Guard;1851;Anthony Morrow;2935;Oklahoma City Thunder;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;1341.738;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057396;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;1341.738;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057397;100100;Ball in play;;;2935;Oklahoma City Thunder;;;;;;;4;1341.738;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057398;800600;2F;7464;Kevin Durant;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1341.738;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057399;100200;Game stop;;;;;;;;;;;4;1341.738;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057400;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1341.738;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057401;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1372.732;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057402;1600500;Guard;1860;Andre Roberson;2935;Oklahoma City Thunder;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;4;1372.732;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057403;800101;1+;7464;Kevin Durant;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1386.659;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057404;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;1386.659;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057405;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;4;1399.602;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057406;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1399.602;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057407;200600;Post;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;1399.602;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057408;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;1399.602;26.84;11.13;;;;;;;;Post;;Jumper;;;;2017-12-07 11:32:04.462867
+77057409;100300;Rebound;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;4;1399.602;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057410;800600;2F;1860;Andre Roberson;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1403.960;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057411;100200;Game stop;;;;;;;;;;;4;1403.960;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057412;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1860;Andre Roberson;2935;Oklahoma City Thunder;;;4;1403.960;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057413;1600500;Guard;14294;Jerryd Bayless;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1436.703;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057414;800101;1+;1860;Andre Roberson;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1436.703;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057415;800101;1+;1860;Andre Roberson;2935;Oklahoma City Thunder;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1451.398;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057416;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1453.547;;;;;;;;;;;;;;;;2019-10-24 12:03:19.576634
+77057417;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;1460.147;26.84;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:32:04.462867
+77057418;100400;Steal;95270;OJ Mayo;3280;Milwaukee Bucks;7464;Kevin Durant;2935;Oklahoma City Thunder;;;4;1463.088;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057419;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;1466.313;26.84;10.59;;;;;;;;;;Jumper;;;;2017-12-07 11:32:04.462867
+77057420;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;1466.313;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+77057421;1800700;Match end;;;;;;;;;;;4;1466.313;;;;;;;;;;;;;;;;2017-12-07 11:32:04.462867
+93268381;300100;Foul;1857;Enes Freedom;2935;Oklahoma City Thunder;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;888.370;;;;;;;;;;;;;;;;2018-01-11 20:51:03.413039
+93268382;100500;Turnover;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;2;388.270;;;;;;;;;;;;;;;;2018-01-11 20:51:03.413039
+93268383;100500;Turnover;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;411.806;;;;;;;;;;;;;;;;2018-01-11 20:51:03.413039
+103660715;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;72.795;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660717;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;81.559;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660719;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;116.701;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660721;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;143.860;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660723;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;159.892;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660725;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;184.197;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660727;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;237.202;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660729;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;268.498;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660731;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;288.032;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660733;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;330.034;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660735;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;349.132;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660737;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;361.203;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660739;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;372.374;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660741;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;1;414.869;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660743;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;431.959;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660745;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;511.225;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660747;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;1;552.768;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660749;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;586.543;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660751;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;669.043;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660753;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;688.638;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660755;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;707.396;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660757;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;769.077;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660759;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;1;783.763;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660761;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;804.499;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660763;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;874.122;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660765;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;910.195;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660767;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;1;966.272;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660769;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;1027.054;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660771;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;1;1046.724;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660773;200900;Assisting;1853;Nick Collison;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;1;1105.139;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660775;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;1;1146.759;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660777;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9022;John Henson;2;38.624;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660779;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;54.799;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660781;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;87.336;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660783;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;176.920;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660785;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;260.810;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660787;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;2;270.530;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660789;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;2;332.413;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660791;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;438.142;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660793;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;2;457.837;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660795;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;484.158;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660797;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;2;513.994;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660799;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;591.615;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660801;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;2;620.095;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660803;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;2;637.387;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660805;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;661.713;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660807;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;760.390;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660809;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;813.983;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660811;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;932.764;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660813;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;2;1022.357;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660815;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1088.079;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660817;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1135.948;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660819;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;2;1154.871;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660821;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1171.250;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660823;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1189.986;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660825;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;1237.022;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660827;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;1300.347;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660829;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;2;1321.472;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660831;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;12.471;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660833;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;;;3;38.836;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660835;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;69.905;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660837;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;109.852;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660839;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;154.383;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660841;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;3;175.903;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660843;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;237.977;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660845;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;269.811;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660847;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;3;365.968;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660849;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;384.813;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660851;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;421.149;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660853;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;451.044;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660855;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;503.277;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660857;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;3;523.236;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660859;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;575.515;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660861;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;3;629.117;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660863;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;638.212;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660865;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;693.464;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660867;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;714.872;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660869;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;3;789.760;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660871;200900;Assisting;9112;Serge Ibaka;2935;Oklahoma City Thunder;;;;;;;3;804.083;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660873;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;3;882.468;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660875;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;914.924;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660877;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;3;931.124;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660879;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;947.478;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660881;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;3;967.286;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660883;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;3;1049.182;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660885;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;1074.619;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660887;200900;Assisting;8331;Dion Waiters;2935;Oklahoma City Thunder;;;;;1857;Enes Freedom;4;14.133;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660889;200900;Assisting;14294;Jerryd Bayless;3280;Milwaukee Bucks;;;;;;;4;63.393;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660891;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;8331;Dion Waiters;4;151.935;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660893;200900;Assisting;1851;Anthony Morrow;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;174.452;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660895;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;14294;Jerryd Bayless;4;238.532;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660897;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;266.618;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660899;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;288.754;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660901;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;364.655;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660903;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;453.126;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660905;200900;Assisting;1861;Cameron Payne;2935;Oklahoma City Thunder;;;;;;;4;493.637;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660907;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;509.113;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660909;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;1861;Cameron Payne;4;567.055;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660911;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;576.594;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660913;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;596.507;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660915;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;679.455;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660917;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;691.417;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660919;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;712.844;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660921;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;766.091;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660923;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;828.247;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660925;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;7464;Kevin Durant;4;844.173;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660927;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;859.949;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660929;200900;Assisting;1857;Enes Freedom;2935;Oklahoma City Thunder;;;;;;;4;874.865;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660931;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;933.616;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660933;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;952.486;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660935;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;966.090;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660937;200900;Assisting;1858;Steven Adams;2935;Oklahoma City Thunder;;;;;1850;Russell Westbrook;4;1004.628;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660939;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1023.162;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660941;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1053.870;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660943;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1060.618;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660945;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1148.323;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660947;200900;Assisting;1850;Russell Westbrook;2935;Oklahoma City Thunder;;;;;;;4;1213.397;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660949;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1258.285;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660951;200900;Assisting;7464;Kevin Durant;2935;Oklahoma City Thunder;;;;;;;4;1341.738;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660953;200900;Assisting;1860;Andre Roberson;2935;Oklahoma City Thunder;;;;;;;4;1403.960;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041
+103660955;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;1460.147;;;;;;;;;;;;;;;;2018-04-19 11:09:04.894041

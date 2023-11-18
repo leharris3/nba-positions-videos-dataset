@@ -1,0 +1,722 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77023657;1601000;Starting lineup;7776;Jerian Grant;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023658;1601000;Starting lineup;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023659;1601000;Starting lineup;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023660;1601000;Starting lineup;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023661;1601000;Starting lineup;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023662;1601000;Starting lineup;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023663;1601000;Starting lineup;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023664;1601000;Starting lineup;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023665;1601000;Starting lineup;6036;Lance Thomas;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023666;1601000;Starting lineup;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023667;1601000;Starting lineup;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023668;1601000;Starting lineup;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023669;1601000;Starting lineup;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023670;1601000;Starting lineup;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023671;1601000;Starting lineup;6110;Aaron Gordon;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023672;1601000;Starting lineup;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023673;1601000;Starting lineup;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023674;1601000;Starting lineup;9367;Jason Smith;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023675;1601000;Starting lineup;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023676;1601000;Starting lineup;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023677;1601000;Starting lineup;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023678;1601000;Starting lineup;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023679;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023680;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023681;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023682;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023683;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023684;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023685;1600500;Guard;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023686;1600500;Guard;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023687;1600500;Guard;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023688;1600500;Guard;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023689;1600500;Guard;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023690;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;54.784;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023691;800202;2-;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;77.784;22.88;10.14;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:17:01.341366
+77023692;100200;Game stop;;;;;;;;;;;1;77.784;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023693;100500;Turnover;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;77.784;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023694;100300;Rebound;;;3226;Orlando Magic;;;;;;;1;77.784;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023695;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;100.415;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023696;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;122.415;20.90;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023697;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;122.415;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023698;400101;Accurate pass;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;132.423;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023699;800400;2+1;6113;Elfrid Payton;3226;Orlando Magic;;;;;6121;Evan Fournier;1;132.423;27.23;7.95;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:17:01.341366
+77023700;100200;Game stop;;;;;;;;;;;1;132.423;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023701;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;6113;Elfrid Payton;3226;Orlando Magic;;;1;132.423;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023702;800101;1+;6113;Elfrid Payton;3226;Orlando Magic;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;155.668;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023703;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;157.293;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023704;100200;Game stop;;;;;;;;;;;1;178.293;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023705;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;178.293;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023706;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;185.182;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023707;200300;Pick'n'Roll;1886;Tobias Harris;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;201.182;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:17:01.341366
+77023708;800302;3-;1886;Tobias Harris;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;201.182;20.51;11.07;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:17:01.341366
+77023709;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;201.182;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023710;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;207.906;25.67;4.11;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:17:01.341366
+77023711;800201;2+;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;234.524;27.23;7.65;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 11:17:01.341366
+77023712;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;257.820;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023713;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;257.820;25.82;7.59;;;;;;;;Post;;Hook;;;;2017-12-07 11:17:01.341366
+77023714;800202;2-;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;282.083;22.37;10.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023715;100200;Game stop;;;;;;;;;;;1;282.083;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023716;100300;Rebound;;;3226;Orlando Magic;;;;;;;1;282.083;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023717;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;6121;Evan Fournier;3226;Orlando Magic;;;1;282.083;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023718;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;295.847;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023719;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;308.847;23.45;3.72;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:17:01.341366
+77023720;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;327.252;20.96;10.26;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023721;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;327.252;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023722;800302;3-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;332.583;21.56;12.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023723;100200;Game stop;;;;;;;;;;;1;332.583;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023724;100300;Rebound;;;3173;New York Knicks;;;;;;;1;332.583;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023725;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;347.734;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023726;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;350.734;26.99;1.56;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77023727;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;350.734;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023728;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;1;371.448;25.91;7.62;;;;;;;;Catch and Drive;;Hook;Drives Right;;;2017-12-07 11:17:01.341366
+77023729;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;371.448;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023730;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;371.448;26.12;7.68;;;;;;;;Putbacks;;Hook;;;;2017-12-07 11:17:01.341366
+77023731;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;383.238;20.66;8.13;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023732;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;383.238;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023733;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;395.958;26.99;6.90;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:17:01.341366
+77023734;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;395.958;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023735;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;6030;Robin Lopez;1;409.091;20.90;13.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023736;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;409.091;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023737;800201;2+;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;419.892;24.95;6.24;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:17:01.341366
+77023738;100400;Steal;1886;Tobias Harris;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;1;435.718;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023739;800202;2-;6121;Evan Fournier;3226;Orlando Magic;6028;Kristaps Porzingis;3173;New York Knicks;;;1;440.867;26.81;7.02;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:17:01.341366
+77023740;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;440.867;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023741;100400;Steal;6121;Evan Fournier;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;1;442.443;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023742;800201;2+;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;450.076;26.99;7.80;;;;;;;;;;Lay up;;;;2017-12-07 11:17:01.341366
+77023743;100400;Steal;6121;Evan Fournier;3226;Orlando Magic;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;464.500;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023744;800202;2-;6121;Evan Fournier;3226;Orlando Magic;6028;Kristaps Porzingis;3173;New York Knicks;;;1;470.054;27.20;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:17:01.341366
+77023745;100300;Rebound;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;470.054;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023746;800201;2+;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;470.054;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:17:01.341366
+77023747;100200;Game stop;;;;;;;;;;;1;470.054;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023748;1800600;Timeout;;;3173;New York Knicks;;;;;;;1;470.054;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023749;1600500;Guard;9367;Jason Smith;3226;Orlando Magic;1891;Channing Frye;3226;Orlando Magic;;;1;490.369;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023750;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;490.369;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023751;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;6030;Robin Lopez;1;490.369;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023752;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;7493;Arron Afflalo;1;490.369;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:17:01.341366
+77023753;400101;Accurate pass;6113;Elfrid Payton;3226;Orlando Magic;;;;;6121;Evan Fournier;1;509.960;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023754;800301;3+;6121;Evan Fournier;3226;Orlando Magic;;;;;6111;Nikola Vucevic;1;509.960;26.36;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023755;800201;2+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;522.710;21.65;6.72;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023756;800302;3-;9367;Jason Smith;3226;Orlando Magic;;;;;6121;Evan Fournier;1;549.818;27.38;14.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023757;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;549.818;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023758;800302;3-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;561.250;21.65;2.31;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023759;100300;Rebound;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;561.250;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023760;800202;2-;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;571.738;26.42;7.26;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:17:01.341366
+77023761;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;571.738;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023762;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;592.926;22.82;4.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023763;100200;Game stop;;;;;;;;;;;1;606.177;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023764;100500;Turnover;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;606.177;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023765;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;638.934;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023766;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;638.934;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023767;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;1;638.934;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023768;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;638.934;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023769;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;638.934;26.99;9.45;;;;;;;;Post;;Hook;;;;2017-12-07 11:17:01.341366
+77023770;400101;Accurate pass;6113;Elfrid Payton;3226;Orlando Magic;;;;;6111;Nikola Vucevic;1;655.378;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023771;200300;Pick'n'Roll;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;655.378;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:17:01.341366
+77023772;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;655.378;27.08;7.89;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 11:17:01.341366
+77023773;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;671.601;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023774;800301;3+;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;1;671.601;20.09;5.34;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023775;400101;Accurate pass;6113;Elfrid Payton;3226;Orlando Magic;;;;;6111;Nikola Vucevic;1;689.587;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023776;200300;Pick'n'Roll;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;689.587;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:17:01.341366
+77023777;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;689.587;23.03;10.59;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:17:01.341366
+77023778;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;705.383;26.99;8.28;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:17:01.341366
+77023779;100200;Game stop;;;;;;;;;;;1;713.195;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023780;1800600;Timeout;;;3226;Orlando Magic;;;;;;;1;713.195;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023781;1600500;Guard;6116;Andrew Nicholson;3226;Orlando Magic;1886;Tobias Harris;3226;Orlando Magic;;;1;731.721;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023782;1600500;Guard;7465;Victor Oladipo;3226;Orlando Magic;6111;Nikola Vucevic;3226;Orlando Magic;;;1;731.721;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023783;1600500;Guard;6110;Aaron Gordon;3226;Orlando Magic;6121;Evan Fournier;3226;Orlando Magic;;;1;731.721;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023784;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;1;731.721;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023785;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;1;731.721;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023786;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;731.721;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023787;800202;2-;9367;Jason Smith;3226;Orlando Magic;;;;;;;1;731.721;25.64;9.66;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:17:01.341366
+77023788;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;731.721;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023789;800202;2-;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;1;739.640;26.27;7.44;;;;;;;;Transition;;Hook;;;;2017-12-07 11:17:01.341366
+77023790;100300;Rebound;9367;Jason Smith;3226;Orlando Magic;;;;;;;1;739.640;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023791;200600;Post;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;759.539;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023792;800202;2-;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;759.539;26.99;7.95;;;;;;;;Post;;Lay up;;;;2017-12-07 11:17:01.341366
+77023793;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;759.539;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023794;100400;Steal;6110;Aaron Gordon;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;1;769.079;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023795;100200;Game stop;;;;;;;;;;;1;808.597;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023796;1600500;Guard;6114;Mario Hezonja;3226;Orlando Magic;6113;Elfrid Payton;3226;Orlando Magic;;;1;808.597;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023797;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;808.597;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023798;800201;2+;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;808.597;27.08;7.17;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:17:01.341366
+77023799;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;;;1;830.398;22.28;6.12;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:17:01.341366
+77023800;100400;Steal;6036;Lance Thomas;3173;New York Knicks;7465;Victor Oladipo;3226;Orlando Magic;;;1;848.497;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023801;100200;Game stop;;;;;;;;;;;1;852.848;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023802;100500;Turnover;6036;Lance Thomas;3173;New York Knicks;;;;;;;1;852.848;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023803;100100;Ball in play;;;3226;Orlando Magic;;;;;;;1;861.086;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023804;400101;Accurate pass;7465;Victor Oladipo;3226;Orlando Magic;;;;;6116;Andrew Nicholson;1;874.086;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023805;200300;Pick'n'Roll;6116;Andrew Nicholson;3226;Orlando Magic;;;;;7465;Victor Oladipo;1;874.086;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:17:01.341366
+77023806;800301;3+;6116;Andrew Nicholson;3226;Orlando Magic;;;;;7465;Victor Oladipo;1;874.086;20.51;4.32;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:17:01.341366
+77023807;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;895.915;25.04;2.85;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:17:01.341366
+77023808;100300;Rebound;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;895.915;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023809;800201;2+;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;903.967;26.84;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:17:01.341366
+77023810;100200;Game stop;;;;;;;;;;;1;920.036;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023811;300100;Foul;6114;Mario Hezonja;3226;Orlando Magic;7493;Arron Afflalo;3173;New York Knicks;;;1;920.036;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023812;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;1;953.687;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023813;1600500;Guard;6034;Sasha Vujacic;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;1;953.687;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023814;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;953.687;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023815;100400;Steal;6110;Aaron Gordon;3226;Orlando Magic;6034;Sasha Vujacic;3173;New York Knicks;;;1;953.687;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023816;400101;Accurate pass;7465;Victor Oladipo;3226;Orlando Magic;;;;;6114;Mario Hezonja;1;960.128;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023817;800201;2+;6114;Mario Hezonja;3226;Orlando Magic;;;;;7465;Victor Oladipo;1;960.128;27.05;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:17:01.341366
+77023818;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;972.828;21.11;12.42;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:17:01.341366
+77023819;100300;Rebound;;;3173;New York Knicks;;;;;;;1;972.828;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023820;1800500;Halftime;;;;;;;;;;;1;972.828;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023821;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023822;1600500;Guard;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023823;1600500;Guard;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023824;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023825;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023826;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023827;1600500;Guard;6110;Aaron Gordon;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023828;1600500;Guard;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023829;1600500;Guard;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023830;1600500;Guard;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023831;1600500;Guard;9367;Jason Smith;3226;Orlando Magic;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023832;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023833;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;12.862;22.43;8.97;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:17:01.341366
+77023834;100300;Rebound;6110;Aaron Gordon;3226;Orlando Magic;;;;;;;2;12.862;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023835;200600;Post;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;33.763;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023836;800202;2-;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;33.763;25.67;9.36;;;;;;;;Post;;Hook;;;;2017-12-07 11:17:01.341366
+77023837;100300;Rebound;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;2;33.763;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023838;800201;2+;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;2;45.995;25.10;7.11;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:17:01.341366
+77023839;200600;Post;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;69.275;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023840;800202;2-;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;69.275;26.81;6.57;;;;;;;;Post;;Jumper;;;;2017-12-07 11:17:01.341366
+77023841;100300;Rebound;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;2;69.275;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023842;400101;Accurate pass;6034;Sasha Vujacic;3173;New York Knicks;;;;;369815;Langston Galloway;2;76.363;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023843;800301;3+;369815;Langston Galloway;3173;New York Knicks;;;;;6034;Sasha Vujacic;2;76.363;20.75;11.37;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:17:01.341366
+77023844;100200;Game stop;;;;;;;;;;;2;92.604;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023845;100500;Turnover;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;92.604;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023846;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;106.116;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023847;800302;3-;6034;Sasha Vujacic;3173;New York Knicks;;;;;6024;Kevin Seraphin;2;122.116;19.64;7.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023848;100300;Rebound;9367;Jason Smith;3226;Orlando Magic;;;;;;;2;122.116;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023849;800700;3F;7465;Victor Oladipo;3226;Orlando Magic;369815;Langston Galloway;3173;New York Knicks;;;2;138.193;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:17:01.341366
+77023850;100200;Game stop;;;;;;;;;;;2;138.193;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023851;300100;Foul;369815;Langston Galloway;3173;New York Knicks;7465;Victor Oladipo;3226;Orlando Magic;;;2;138.193;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023852;800102;1-;7465;Victor Oladipo;3226;Orlando Magic;369815;Langston Galloway;3173;New York Knicks;;;2;193.960;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023853;100300;Rebound;;;3226;Orlando Magic;;;;;;;2;193.960;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023854;800101;1+;7465;Victor Oladipo;3226;Orlando Magic;369815;Langston Galloway;3173;New York Knicks;;;2;208.785;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023855;800101;1+;7465;Victor Oladipo;3226;Orlando Magic;369815;Langston Galloway;3173;New York Knicks;;;2;223.642;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023856;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;245.280;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023857;100200;Game stop;;;;;;;;;;;2;265.280;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023858;300100;Foul;6110;Aaron Gordon;3226;Orlando Magic;6036;Lance Thomas;3173;New York Knicks;;;2;265.280;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023859;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;284.788;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023860;800600;2F;8329;Derrick Williams;3173;New York Knicks;6116;Andrew Nicholson;3226;Orlando Magic;;;2;294.788;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:17:01.341366
+77023861;100200;Game stop;;;;;;;;;;;2;294.788;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023862;300100;Foul;6116;Andrew Nicholson;3226;Orlando Magic;8329;Derrick Williams;3173;New York Knicks;;;2;294.788;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023863;800101;1+;8329;Derrick Williams;3173;New York Knicks;6116;Andrew Nicholson;3226;Orlando Magic;;;2;318.546;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023864;800102;1-;8329;Derrick Williams;3173;New York Knicks;6116;Andrew Nicholson;3226;Orlando Magic;;;2;332.215;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023865;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;332.215;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023866;100300;Rebound;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;332.215;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023867;400101;Accurate pass;6114;Mario Hezonja;3226;Orlando Magic;;;;;9367;Jason Smith;2;347.711;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023868;200300;Pick'n'Roll;9367;Jason Smith;3226;Orlando Magic;;;;;6114;Mario Hezonja;2;347.711;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023869;800201;2+;9367;Jason Smith;3226;Orlando Magic;;;;;6114;Mario Hezonja;2;347.711;26.81;8.19;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:17:01.341366
+77023870;800202;2-;6034;Sasha Vujacic;3173;New York Knicks;6114;Mario Hezonja;3226;Orlando Magic;;;2;360.209;27.08;7.20;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:17:01.341366
+77023871;100200;Game stop;;;;;;;;;;;2;360.209;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023872;100300;Rebound;;;3226;Orlando Magic;;;;;;;2;360.209;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023873;300100;Foul;6024;Kevin Seraphin;3173;New York Knicks;9367;Jason Smith;3226;Orlando Magic;;;2;360.209;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023874;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;376.519;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023875;800202;2-;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;395.519;26.66;7.62;;;;;;;;Cut;;Hook;;;;2017-12-07 11:17:01.341366
+77023876;100300;Rebound;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;395.519;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023877;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;419.166;26.84;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023878;100300;Rebound;6110;Aaron Gordon;3226;Orlando Magic;;;;;;;2;419.166;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023879;800202;2-;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;436.172;21.56;10.38;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77023880;100300;Rebound;9367;Jason Smith;3226;Orlando Magic;;;;;;;2;436.172;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023881;100400;Steal;6034;Sasha Vujacic;3173;New York Knicks;9367;Jason Smith;3226;Orlando Magic;;;2;436.172;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023882;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;443.557;27.02;7.62;;;;;;;;;;Dunk;;;;2017-12-07 11:17:01.341366
+77023883;800202;2-;6110;Aaron Gordon;3226;Orlando Magic;;;;;;;2;462.057;21.56;8.04;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023884;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;462.057;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023885;800202;2-;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;470.017;26.72;7.26;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:17:01.341366
+77023886;100300;Rebound;9367;Jason Smith;3226;Orlando Magic;;;;;;;2;470.017;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023887;800302;3-;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;2;481.865;20.33;4.05;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:17:01.341366
+77023888;100300;Rebound;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;481.865;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023889;800201;2+;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;481.865;26.84;7.74;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:17:01.341366
+77023890;100200;Game stop;;;;;;;;;;;2;492.098;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023891;1800600;Timeout;;;3173;New York Knicks;;;;;;;2;492.098;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023892;1600500;Guard;1886;Tobias Harris;3226;Orlando Magic;9367;Jason Smith;3226;Orlando Magic;;;2;518.008;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023893;1600500;Guard;1891;Channing Frye;3226;Orlando Magic;6110;Aaron Gordon;3226;Orlando Magic;;;2;518.008;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023894;1600500;Guard;6111;Nikola Vucevic;3226;Orlando Magic;6116;Andrew Nicholson;3226;Orlando Magic;;;2;518.008;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023895;1600500;Guard;6121;Evan Fournier;3226;Orlando Magic;7465;Victor Oladipo;3226;Orlando Magic;;;2;518.008;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023896;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;6024;Kevin Seraphin;3173;New York Knicks;;;2;518.008;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023897;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;2;518.008;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023898;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;2;518.008;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023899;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;6034;Sasha Vujacic;3173;New York Knicks;;;2;518.008;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023900;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;518.008;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023901;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;518.008;21.26;9.75;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023902;100300;Rebound;6121;Evan Fournier;3226;Orlando Magic;;;;;;;2;518.008;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023903;400101;Accurate pass;6114;Mario Hezonja;3226;Orlando Magic;;;;;6121;Evan Fournier;2;529.919;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023904;800301;3+;6121;Evan Fournier;3226;Orlando Magic;;;;;6114;Mario Hezonja;2;529.919;19.34;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77023905;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;2;546.395;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023906;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;546.395;22.73;4.65;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77023907;800302;3-;1886;Tobias Harris;3226;Orlando Magic;;;;;;;2;569.590;27.92;0.54;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023908;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;569.590;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023909;800600;2F;369815;Langston Galloway;3173;New York Knicks;6121;Evan Fournier;3226;Orlando Magic;;;2;576.823;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:17:01.341366
+77023910;100200;Game stop;;;;;;;;;;;2;576.823;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023911;300100;Foul;6121;Evan Fournier;3226;Orlando Magic;369815;Langston Galloway;3173;New York Knicks;;;2;576.823;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023912;1800600;Timeout;;;;;;;;;;;2;576.823;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023913;800101;1+;369815;Langston Galloway;3173;New York Knicks;6121;Evan Fournier;3226;Orlando Magic;;;2;598.348;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023914;800101;1+;369815;Langston Galloway;3173;New York Knicks;6121;Evan Fournier;3226;Orlando Magic;;;2;614.689;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023915;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;618.263;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023916;200600;Post;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;2;641.263;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023917;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;6030;Robin Lopez;3173;New York Knicks;;;2;641.263;26.51;6.18;;;;;;;;Post;;Jumper;;;;2017-12-07 11:17:01.341366
+77023918;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;2;641.263;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023919;800202;2-;1886;Tobias Harris;3226;Orlando Magic;6028;Kristaps Porzingis;3173;New York Knicks;;;2;641.263;27.05;7.47;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:17:01.341366
+77023920;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;641.263;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023921;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;648.780;28.13;14.52;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:17:01.341366
+77023922;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;2;648.780;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023923;400101;Accurate pass;6114;Mario Hezonja;3226;Orlando Magic;;;;;1891;Channing Frye;2;657.420;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023924;200300;Pick'n'Roll;1891;Channing Frye;3226;Orlando Magic;;;;;6114;Mario Hezonja;2;657.420;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:17:01.341366
+77023925;800301;3+;1891;Channing Frye;3226;Orlando Magic;;;;;6114;Mario Hezonja;2;657.420;20.66;10.89;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:17:01.341366
+77023926;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;6028;Kristaps Porzingis;2;670.410;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023927;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;2;670.410;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:17:01.341366
+77023928;800201;2+;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;687.978;20.96;4.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023929;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;6111;Nikola Vucevic;3226;Orlando Magic;;;2;713.080;26.72;8.10;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:17:01.341366
+77023930;100300;Rebound;6121;Evan Fournier;3226;Orlando Magic;;;;;;;2;713.080;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023931;800302;3-;6121;Evan Fournier;3226;Orlando Magic;;;;;;;2;722.938;20.36;4.56;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:17:01.341366
+77023932;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;722.938;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023933;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;2;743.656;20.36;7.32;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:17:01.341366
+77023934;100300;Rebound;6121;Evan Fournier;3226;Orlando Magic;;;;;;;2;743.656;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023935;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;2;757.904;25.67;7.20;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 11:17:01.341366
+77023936;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;757.904;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023937;800400;2+1;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;782.276;26.27;8.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023938;100200;Game stop;;;;;;;;;;;2;782.276;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023939;300100;Foul;6114;Mario Hezonja;3226;Orlando Magic;369815;Langston Galloway;3173;New York Knicks;;;2;782.276;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023940;1600500;Guard;7505;Shabazz Napier;3226;Orlando Magic;6114;Mario Hezonja;3226;Orlando Magic;;;2;825.514;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023941;800101;1+;369815;Langston Galloway;3173;New York Knicks;6114;Mario Hezonja;3226;Orlando Magic;;;2;825.514;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023942;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;829.114;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023943;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;2;844.114;26.84;12.27;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:17:01.341366
+77023944;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;844.114;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023945;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;852.068;21.35;11.43;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023946;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;2;852.068;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023947;400101;Accurate pass;7505;Shabazz Napier;3226;Orlando Magic;;;;;6111;Nikola Vucevic;2;861.400;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023948;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;7505;Shabazz Napier;2;861.400;26.99;7.62;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:17:01.341366
+77023949;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;878.359;21.71;3.72;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023950;800202;2-;1886;Tobias Harris;3226;Orlando Magic;;;;;;;2;891.079;26.21;12.30;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:17:01.341366
+77023951;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;891.079;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023952;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;899.554;19.88;9.72;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:17:01.341366
+77023953;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;2;899.554;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023954;100200;Game stop;;;;;;;;;;;2;905.556;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023955;1800600;Timeout;;;3226;Orlando Magic;;;;;;;2;905.556;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023956;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;2;922.262;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023957;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;922.262;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023958;400101;Accurate pass;7505;Shabazz Napier;3226;Orlando Magic;;;;;1891;Channing Frye;2;922.262;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023959;200600;Post;1891;Channing Frye;3226;Orlando Magic;;;;;;;2;922.262;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023960;800201;2+;1891;Channing Frye;3226;Orlando Magic;;;;;7505;Shabazz Napier;2;922.262;27.02;7.62;;;;;;;;Post;;Dunk;;;;2017-12-07 11:17:01.341366
+77023961;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;942.032;27.50;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023962;100300;Rebound;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;2;942.032;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023963;800202;2-;1891;Channing Frye;3226;Orlando Magic;;;;;1886;Tobias Harris;2;956.542;19.94;7.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023964;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;956.542;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023965;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;966.098;21.98;5.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77023966;400101;Accurate pass;6121;Evan Fournier;3226;Orlando Magic;;;;;1886;Tobias Harris;2;980.028;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023967;800301;3+;1886;Tobias Harris;3226;Orlando Magic;;;;;6121;Evan Fournier;2;980.028;20.66;11.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77023968;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;998.302;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023969;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;1886;Tobias Harris;3226;Orlando Magic;;;2;998.302;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:17:01.341366
+77023970;100200;Game stop;;;;;;;;;;;2;998.302;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023971;300100;Foul;1886;Tobias Harris;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;2;998.302;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023972;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;1886;Tobias Harris;3226;Orlando Magic;;;2;1043.383;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023973;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;2;1069.104;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023974;800102;1-;6029;Carmelo Anthony;3173;New York Knicks;1886;Tobias Harris;3226;Orlando Magic;;;2;1069.104;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023975;100100;Ball in play;;;3226;Orlando Magic;;;;;;;2;1069.104;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023976;100300;Rebound;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;2;1069.104;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023977;800201;2+;6121;Evan Fournier;3226;Orlando Magic;;;;;;;2;1092.784;26.84;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:17:01.341366
+77023978;800301;3+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1104.096;19.64;9.66;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:17:01.341366
+77023979;800302;3-;1886;Tobias Harris;3226;Orlando Magic;;;;;;;2;1110.957;15.74;3.51;;;;;;;;;;Jumper;;;;2017-12-07 11:17:01.341366
+77023980;100300;Rebound;;;3226;Orlando Magic;;;;;;;2;1110.957;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023981;1800500;Halftime;;;;;;;;;;;2;1110.957;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023982;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023983;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023984;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023985;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023986;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023987;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023988;1600500;Guard;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023989;1600500;Guard;1891;Channing Frye;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023990;1600500;Guard;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023991;1600500;Guard;6121;Evan Fournier;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023992;1600500;Guard;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023993;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;0.063;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023994;100200;Game stop;;;;;;;;;;;3;18.063;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023995;300100;Foul;6121;Evan Fournier;3226;Orlando Magic;7493;Arron Afflalo;3173;New York Knicks;;;3;18.063;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023996;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;35.347;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77023997;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;49.347;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77023998;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;1891;Channing Frye;3226;Orlando Magic;;;3;49.347;24.35;4.59;;;;;;;;Post;;Jumper;;;;2017-12-07 11:17:01.341366
+77023999;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;49.347;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024000;800202;2-;6121;Evan Fournier;3226;Orlando Magic;6030;Robin Lopez;3173;New York Knicks;;;3;67.800;26.99;7.65;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:17:01.341366
+77024001;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;67.800;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024002;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;67.800;26.99;7.68;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:17:01.341366
+77024003;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;82.109;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024004;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;6111;Nikola Vucevic;3226;Orlando Magic;;;3;82.109;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:17:01.341366
+77024005;100200;Game stop;;;;;;;;;;;3;82.109;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024006;300100;Foul;6111;Nikola Vucevic;3226;Orlando Magic;6028;Kristaps Porzingis;3173;New York Knicks;;;3;82.109;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024007;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;6111;Nikola Vucevic;3226;Orlando Magic;;;3;102.499;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024008;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;6111;Nikola Vucevic;3226;Orlando Magic;;;3;116.248;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024009;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;119.652;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024010;800302;3-;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;3;132.652;21.11;12.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77024011;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;132.652;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024012;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;3;156.765;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024013;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;156.765;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:17:01.341366
+77024014;800301;3+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;156.765;19.04;7.83;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:17:01.341366
+77024015;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;182.556;26.36;9.99;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:17:01.341366
+77024016;100400;Steal;6121;Evan Fournier;3226;Orlando Magic;7493;Arron Afflalo;3173;New York Knicks;;;3;200.047;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024017;800302;3-;6121;Evan Fournier;3226;Orlando Magic;;;;;;;3;209.072;20.81;11.22;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:17:01.341366
+77024018;100300;Rebound;6121;Evan Fournier;3226;Orlando Magic;;;;;;;3;209.072;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024019;800201;2+;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;216.841;26.84;7.74;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:17:01.341366
+77024020;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;231.379;20.66;11.13;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77024021;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;231.379;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024022;800202;2-;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;3;246.652;21.50;3.42;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:17:01.341366
+77024023;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;246.652;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024024;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;263.926;24.59;7.68;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77024025;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;263.926;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024026;100200;Game stop;;;;;;;;;;;3;274.876;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024027;300100;Foul;7505;Shabazz Napier;3226;Orlando Magic;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;274.876;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024028;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;3;303.214;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024029;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;303.214;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024030;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;303.214;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024031;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;303.214;23.87;2.97;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77024032;800202;2-;6121;Evan Fournier;3226;Orlando Magic;;;;;;;3;326.845;26.84;7.95;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:17:01.341366
+77024033;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;326.845;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024034;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6036;Lance Thomas;3;334.502;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024035;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;334.502;24.20;10.35;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:17:01.341366
+77024036;800301;3+;7505;Shabazz Napier;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;359.065;19.73;7.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024037;100400;Steal;1886;Tobias Harris;3226;Orlando Magic;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;372.784;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024038;400101;Accurate pass;7505;Shabazz Napier;3226;Orlando Magic;;;;;1886;Tobias Harris;3;377.596;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024039;800400;2+1;1886;Tobias Harris;3226;Orlando Magic;;;;;7505;Shabazz Napier;3;377.596;26.99;7.44;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:17:01.341366
+77024040;100200;Game stop;;;;;;;;;;;3;377.596;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024041;300100;Foul;7478;Jose Manuel Calderon;3173;New York Knicks;1886;Tobias Harris;3226;Orlando Magic;;;3;377.596;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024042;800101;1+;1886;Tobias Harris;3226;Orlando Magic;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;414.216;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024043;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;418.016;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024044;100200;Game stop;;;;;;;;;;;3;427.016;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024045;100500;Turnover;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;427.016;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024046;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;437.357;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024047;800202;2-;7505;Shabazz Napier;3226;Orlando Magic;;;;;;;3;454.357;27.08;7.59;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:17:01.341366
+77024048;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;454.357;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024049;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;6036;Lance Thomas;3;465.011;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024050;800400;2+1;6036;Lance Thomas;3173;New York Knicks;;;;;7493;Arron Afflalo;3;465.011;26.57;7.56;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:17:01.341366
+77024051;100200;Game stop;;;;;;;;;;;3;465.011;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024052;300100;Foul;6111;Nikola Vucevic;3226;Orlando Magic;6036;Lance Thomas;3173;New York Knicks;;;3;465.011;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024053;1800600;Timeout;;;3226;Orlando Magic;;;;;;;3;465.011;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024054;800101;1+;6036;Lance Thomas;3173;New York Knicks;6111;Nikola Vucevic;3226;Orlando Magic;;;3;484.986;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024055;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;486.362;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024056;400101;Accurate pass;7505;Shabazz Napier;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;505.362;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024057;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;7505;Shabazz Napier;3;505.362;21.05;7.74;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024058;400101;Accurate pass;6036;Lance Thomas;3173;New York Knicks;;;;;6030;Robin Lopez;3;534.045;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024059;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;534.045;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024060;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;6036;Lance Thomas;3;534.045;26.96;7.32;;;;;;;;Post;;Lay up;;;;2017-12-07 11:17:01.341366
+77024061;100200;Game stop;;;;;;;;;;;3;554.678;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024062;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;6121;Evan Fournier;3226;Orlando Magic;;;3;554.678;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024063;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;3;582.682;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024064;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;582.682;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024065;400101;Accurate pass;7505;Shabazz Napier;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;582.682;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024066;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6121;Evan Fournier;3;582.682;21.50;7.65;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024067;400101;Accurate pass;6036;Lance Thomas;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;597.726;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024068;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;6036;Lance Thomas;3;597.726;23.12;5.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77024069;800202;2-;6121;Evan Fournier;3226;Orlando Magic;;;;;1886;Tobias Harris;3;620.917;26.72;7.80;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:17:01.341366
+77024070;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;620.917;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024071;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;631.203;21.05;2.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024072;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;631.203;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024073;400101;Accurate pass;7505;Shabazz Napier;3226;Orlando Magic;;;;;1886;Tobias Harris;3;648.445;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024074;800301;3+;1886;Tobias Harris;3226;Orlando Magic;;;;;7505;Shabazz Napier;3;648.445;20.63;4.02;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77024075;800600;2F;7478;Jose Manuel Calderon;3173;New York Knicks;1891;Channing Frye;3226;Orlando Magic;;;3;664.347;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024076;100200;Game stop;;;;;;;;;;;3;664.347;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024077;300100;Foul;1891;Channing Frye;3226;Orlando Magic;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;664.347;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024078;1600500;Guard;7465;Victor Oladipo;3226;Orlando Magic;1891;Channing Frye;3226;Orlando Magic;;;3;697.369;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024079;1600500;Guard;9367;Jason Smith;3226;Orlando Magic;6121;Evan Fournier;3226;Orlando Magic;;;3;697.369;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024080;800101;1+;7478;Jose Manuel Calderon;3173;New York Knicks;1891;Channing Frye;3226;Orlando Magic;;;3;697.369;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024081;800101;1+;7478;Jose Manuel Calderon;3173;New York Knicks;1891;Channing Frye;3226;Orlando Magic;;;3;716.386;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024082;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;719.841;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024083;100400;Steal;7478;Jose Manuel Calderon;3173;New York Knicks;7505;Shabazz Napier;3226;Orlando Magic;;;3;731.841;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024084;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;742.466;21.56;4.74;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:17:01.341366
+77024085;100300;Rebound;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;742.466;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024086;100200;Game stop;;;;;;;;;;;3;777.418;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024087;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;777.418;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024088;1600500;Guard;6114;Mario Hezonja;3226;Orlando Magic;7505;Shabazz Napier;3226;Orlando Magic;;;3;777.418;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024089;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;777.418;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024090;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6036;Lance Thomas;3;777.418;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024091;800301;3+;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;3;777.418;27.35;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024092;800202;2-;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;805.261;25.22;4.32;;;;;;;;;;Jumper;;;;2017-12-07 11:17:01.341366
+77024093;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;805.261;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024094;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6036;Lance Thomas;3;814.667;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024095;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;3;814.667;26.99;7.32;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:17:01.341366
+77024096;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;837.582;26.84;7.68;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:17:01.341366
+77024097;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;864.270;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024098;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;3;864.270;24.65;4.17;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:17:01.341366
+77024099;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;897.935;23.90;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:17:01.341366
+77024100;400101;Accurate pass;7776;Jerian Grant;3173;New York Knicks;;;;;6036;Lance Thomas;3;908.978;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024101;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;7776;Jerian Grant;3;908.978;26.06;13.29;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:17:01.341366
+77024102;400101;Accurate pass;6111;Nikola Vucevic;3226;Orlando Magic;;;;;1886;Tobias Harris;3;927.710;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024103;800301;3+;1886;Tobias Harris;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;927.710;19.49;5.16;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024104;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;957.625;20.36;10.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77024105;100300;Rebound;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;957.625;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024106;100400;Steal;7776;Jerian Grant;3173;New York Knicks;6114;Mario Hezonja;3226;Orlando Magic;;;3;975.952;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024107;100200;Game stop;;;;;;;;;;;3;982.946;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024108;100500;Turnover;6036;Lance Thomas;3173;New York Knicks;;;;;;;3;982.946;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024109;1800600;Timeout;;;3173;New York Knicks;;;;;;;3;982.946;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024110;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;3;1005.965;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024111;100100;Ball in play;;;3226;Orlando Magic;;;;;;;3;1005.965;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024112;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;1005.965;22.37;3.81;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:17:01.341366
+77024113;100300;Rebound;7776;Jerian Grant;3173;New York Knicks;;;;;;;3;1005.965;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024114;1800500;Halftime;;;;;;;;;;;3;1006.665;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024115;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024116;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024117;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024118;1600500;Guard;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024119;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024120;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024121;1600500;Guard;1886;Tobias Harris;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024122;1600500;Guard;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024123;1600500;Guard;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024124;1600500;Guard;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024125;1600500;Guard;9367;Jason Smith;3226;Orlando Magic;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024126;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;1.678;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024127;100400;Steal;7776;Jerian Grant;3173;New York Knicks;6114;Mario Hezonja;3226;Orlando Magic;;;4;8.678;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024128;800201;2+;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;11.748;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:17:01.341366
+77024129;100200;Game stop;;;;;;;;;;;4;30.633;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024130;300100;Foul;9367;Jason Smith;3226;Orlando Magic;6036;Lance Thomas;3173;New York Knicks;;;4;30.633;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024131;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;45.372;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024132;100200;Game stop;;;;;;;;;;;4;59.372;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024133;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;6114;Mario Hezonja;3226;Orlando Magic;;;4;59.372;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024134;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;65.388;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024135;800201;2+;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;4;90.388;21.98;8.91;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:17:01.341366
+77024136;100200;Game stop;;;;;;;;;;;4;109.686;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024137;300100;Foul;1886;Tobias Harris;3226;Orlando Magic;6036;Lance Thomas;3173;New York Knicks;;;4;109.686;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024138;1600500;Guard;6110;Aaron Gordon;3226;Orlando Magic;1886;Tobias Harris;3226;Orlando Magic;;;4;142.699;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024139;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;142.699;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024140;800600;2F;6036;Lance Thomas;3173;New York Knicks;7465;Victor Oladipo;3226;Orlando Magic;;;4;142.699;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:17:01.341366
+77024141;100200;Game stop;;;;;;;;;;;4;142.699;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024142;300100;Foul;7465;Victor Oladipo;3226;Orlando Magic;6036;Lance Thomas;3173;New York Knicks;;;4;142.699;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024143;800101;1+;6036;Lance Thomas;3173;New York Knicks;7465;Victor Oladipo;3226;Orlando Magic;;;4;169.407;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024144;800101;1+;6036;Lance Thomas;3173;New York Knicks;7465;Victor Oladipo;3226;Orlando Magic;;;4;186.985;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024145;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;189.092;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024146;200600;Post;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;202.092;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024147;800202;2-;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;4;202.092;25.37;8.73;;;;;;;;Post;;Jumper;;;;2017-12-07 11:17:01.341366
+77024148;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;202.092;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024149;100200;Game stop;;;;;;;;;;;4;220.596;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024150;100500;Turnover;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;220.596;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024151;300100;Foul;8329;Derrick Williams;3173;New York Knicks;7465;Victor Oladipo;3226;Orlando Magic;;;4;220.596;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024152;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;231.787;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024153;400101;Accurate pass;6110;Aaron Gordon;3226;Orlando Magic;;;;;6114;Mario Hezonja;4;250.787;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024154;800301;3+;6114;Mario Hezonja;3226;Orlando Magic;;;;;7465;Victor Oladipo;4;250.787;20.03;4.56;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024155;400101;Accurate pass;6028;Kristaps Porzingis;3173;New York Knicks;;;;;369815;Langston Galloway;4;264.867;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024156;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;6028;Kristaps Porzingis;4;264.867;26.96;7.35;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:17:01.341366
+77024157;100200;Game stop;;;;;;;;;;;4;283.619;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024158;300100;Foul;7776;Jerian Grant;3173;New York Knicks;6114;Mario Hezonja;3226;Orlando Magic;;;4;283.619;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024159;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;4;327.470;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024160;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;327.470;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024161;800302;3-;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;4;327.470;16.10;12.21;;;;;;;;;;Jumper;;;;2017-12-07 11:17:01.341366
+77024162;100200;Game stop;;;;;;;;;;;4;327.470;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024163;100300;Rebound;;;3226;Orlando Magic;;;;;;;4;327.470;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024164;1800600;Timeout;;;;;;;;;;;4;327.470;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024165;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;336.946;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024166;800302;3-;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;4;344.946;19.64;8.58;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77024167;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;344.946;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024168;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;8329;Derrick Williams;4;353.820;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024169;200300;Pick'n'Roll;8329;Derrick Williams;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;353.820;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024170;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;353.820;26.99;7.68;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:17:01.341366
+77024171;800302;3-;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;4;371.365;20.51;10.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77024172;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;371.365;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024173;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;383.456;27.05;7.11;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 11:17:01.341366
+77024174;100300;Rebound;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;383.456;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024175;800202;2-;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;383.456;27.02;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 11:17:01.341366
+77024176;100300;Rebound;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;383.456;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024177;800201;2+;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;389.045;27.05;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:17:01.341366
+77024178;800201;2+;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;410.763;26.51;6.24;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 11:17:01.341366
+77024179;800202;2-;7465;Victor Oladipo;3226;Orlando Magic;6028;Kristaps Porzingis;3173;New York Knicks;;;4;423.635;27.08;7.02;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:17:01.341366
+77024180;100200;Game stop;;;;;;;;;;;4;423.635;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024181;100300;Rebound;;;3226;Orlando Magic;;;;;;;4;423.635;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024182;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;4;470.202;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024183;1600500;Guard;6121;Evan Fournier;3226;Orlando Magic;6116;Andrew Nicholson;3226;Orlando Magic;;;4;470.202;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024184;1600500;Guard;1886;Tobias Harris;3226;Orlando Magic;6114;Mario Hezonja;3226;Orlando Magic;;;4;470.202;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024185;1600500;Guard;6111;Nikola Vucevic;3226;Orlando Magic;6110;Aaron Gordon;3226;Orlando Magic;;;4;470.202;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024186;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;4;470.202;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024187;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;470.202;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024188;800302;3-;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;470.202;19.94;5.64;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:17:01.341366
+77024189;100300;Rebound;9367;Jason Smith;3226;Orlando Magic;;;;;;;4;470.202;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024190;100200;Game stop;;;;;;;;;;;4;478.749;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024191;300100;Foul;8329;Derrick Williams;3173;New York Knicks;7465;Victor Oladipo;3226;Orlando Magic;;;4;478.749;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024192;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;4;514.885;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024193;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;514.885;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024194;800201;2+;1886;Tobias Harris;3226;Orlando Magic;;;;;;;4;514.885;27.23;11.52;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77024195;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;539.482;26.99;4.02;;;;;;;;;;Jumper;;;;2017-12-07 11:17:01.341366
+77024196;200600;Post;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;558.783;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024197;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;558.783;25.37;7.50;;;;;;;;Post;;Hook;;;;2017-12-07 11:17:01.341366
+77024198;100200;Game stop;;;;;;;;;;;4;577.366;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024199;300100;Foul;1886;Tobias Harris;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;4;577.366;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024200;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;577.366;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024201;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;588.730;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024202;800202;2-;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;601.730;26.99;4.20;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:17:01.341366
+77024203;100300;Rebound;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;601.730;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024204;100200;Game stop;;;;;;;;;;;4;616.523;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024205;100500;Turnover;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;616.523;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024206;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;621.187;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024207;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6036;Lance Thomas;4;640.187;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024208;800301;3+;6036;Lance Thomas;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;640.187;21.83;2.34;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024209;800202;2-;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;664.150;25.82;7.50;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 11:17:01.341366
+77024210;100300;Rebound;9367;Jason Smith;3226;Orlando Magic;;;;;;;4;664.150;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024211;800201;2+;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;676.634;27.05;7.62;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:17:01.341366
+77024212;100200;Game stop;;;;;;;;;;;4;689.036;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024213;300100;Foul;1886;Tobias Harris;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;4;689.036;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024214;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;704.902;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024215;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;715.902;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024216;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;4;715.902;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024217;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;4;715.902;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:17:01.341366
+77024218;800600;2F;7465;Victor Oladipo;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;4;732.775;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:17:01.341366
+77024219;100200;Game stop;;;;;;;;;;;4;732.775;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024220;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;7465;Victor Oladipo;3226;Orlando Magic;;;4;732.775;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024221;800101;1+;7465;Victor Oladipo;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;4;759.332;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024222;800101;1+;7465;Victor Oladipo;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;4;777.775;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024223;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;780.709;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024224;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;800.709;27.05;7.62;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:17:01.341366
+77024225;200600;Post;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;823.703;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024226;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;823.703;27.05;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 11:17:01.341366
+77024227;100200;Game stop;;;;;;;;;;;4;849.260;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024228;100500;Turnover;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;849.260;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024229;1800600;Timeout;;;3226;Orlando Magic;;;;;;;4;849.260;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024230;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;855.607;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024231;800201;2+;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;865.607;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:17:01.341366
+77024232;800600;2F;7776;Jerian Grant;3173;New York Knicks;6121;Evan Fournier;3226;Orlando Magic;;;4;882.301;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:17:01.341366
+77024233;100200;Game stop;;;;;;;;;;;4;882.301;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024234;300100;Foul;6121;Evan Fournier;3226;Orlando Magic;7776;Jerian Grant;3173;New York Knicks;;;4;882.301;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024235;800101;1+;7776;Jerian Grant;3173;New York Knicks;6121;Evan Fournier;3226;Orlando Magic;;;4;904.681;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024236;800101;1+;7776;Jerian Grant;3173;New York Knicks;6121;Evan Fournier;3226;Orlando Magic;;;4;919.230;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024237;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;923.406;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024238;800301;3+;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;935.406;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77024239;100200;Game stop;;;;;;;;;;;4;935.406;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024240;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;935.406;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024241;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;965.039;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024242;800202;2-;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;982.039;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:17:01.341366
+77024243;100300;Rebound;1886;Tobias Harris;3226;Orlando Magic;;;;;;;4;982.039;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024244;800201;2+;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;1003.196;27.05;7.62;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 11:17:01.341366
+77024245;100400;Steal;1886;Tobias Harris;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;4;1017.863;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024246;400101;Accurate pass;1886;Tobias Harris;3226;Orlando Magic;;;;;7465;Victor Oladipo;4;1022.025;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024247;800201;2+;7465;Victor Oladipo;3226;Orlando Magic;;;;;1886;Tobias Harris;4;1022.025;27.05;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:17:01.341366
+77024248;100200;Game stop;;;;;;;;;;;4;1022.025;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024249;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;1022.025;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024250;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;4;1045.064;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024251;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;7776;Jerian Grant;3173;New York Knicks;;;4;1045.064;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024252;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1045.064;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024253;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;1045.064;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:17:01.341366
+77024254;100200;Game stop;;;;;;;;;;;4;1045.064;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024255;100300;Rebound;;;3226;Orlando Magic;;;;;;;4;1045.064;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024256;100100;Ball in play;;;3226;Orlando Magic;;;;;;;4;1058.158;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024257;800202;2-;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;1081.358;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:17:01.341366
+77024258;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;1081.358;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024259;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;7493;Arron Afflalo;4;1087.205;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024260;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;369815;Langston Galloway;4;1087.205;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:17:01.341366
+77024261;800600;2F;6121;Evan Fournier;3226;Orlando Magic;369815;Langston Galloway;3173;New York Knicks;;;4;1098.326;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024262;100200;Game stop;;;;;;;;;;;4;1098.326;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024263;300100;Foul;369815;Langston Galloway;3173;New York Knicks;6121;Evan Fournier;3226;Orlando Magic;;;4;1098.326;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024264;800101;1+;6121;Evan Fournier;3226;Orlando Magic;369815;Langston Galloway;3173;New York Knicks;;;4;1118.686;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024265;800102;1-;6121;Evan Fournier;3226;Orlando Magic;369815;Langston Galloway;3173;New York Knicks;;;4;1131.279;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024266;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1131.279;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024267;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;1131.279;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024268;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6036;Lance Thomas;4;1138.693;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024269;800301;3+;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;4;1138.693;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024270;800600;2F;1886;Tobias Harris;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;4;1144.110;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024271;100200;Game stop;;;;;;;;;;;4;1144.110;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024272;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;1886;Tobias Harris;3226;Orlando Magic;;;4;1144.110;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024273;800101;1+;1886;Tobias Harris;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;4;1171.379;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024274;800101;1+;1886;Tobias Harris;3226;Orlando Magic;6029;Carmelo Anthony;3173;New York Knicks;;;4;1186.450;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024275;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1193.126;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+77024276;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;1198.926;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024277;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;1198.926;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024278;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;1203.375;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:17:01.341366
+77024279;100300;Rebound;;;3173;New York Knicks;;;;;;;4;1203.375;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+77024280;1800700;Match end;;;;;;;;;;;4;1203.375;;;;;;;;;;;;;;;;2017-12-07 11:17:01.341366
+93268254;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;1886;Tobias Harris;3226;Orlando Magic;;;3;427.016;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268255;100500;Turnover;9367;Jason Smith;3226;Orlando Magic;;;;;;;4;30.633;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+93268256;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;59.372;;;;;;;;;;;;;;;;2018-01-11 20:50:03.059995
+103669611;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;6121;Evan Fournier;1;132.423;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669613;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;207.906;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669615;200900;Assisting;6121;Evan Fournier;3226;Orlando Magic;;;;;;;1;234.524;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669617;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;257.820;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669619;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;1;308.847;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669621;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;371.448;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669623;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;;;1;419.892;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669625;200900;Assisting;6113;Elfrid Payton;3226;Orlando Magic;;;;;;;1;450.076;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669627;200900;Assisting;1891;Channing Frye;3226;Orlando Magic;;;;;;;1;470.054;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669629;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;7493;Arron Afflalo;1;490.369;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669631;200900;Assisting;6121;Evan Fournier;3226;Orlando Magic;;;;;6111;Nikola Vucevic;1;509.960;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669633;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;522.710;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669635;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;592.926;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669637;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;638.934;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669639;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;655.378;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669641;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;1;671.601;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669643;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6113;Elfrid Payton;1;689.587;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669645;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;705.383;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669647;200900;Assisting;6116;Andrew Nicholson;3226;Orlando Magic;;;;;;;1;808.597;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669649;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;;;1;830.398;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669651;200900;Assisting;6116;Andrew Nicholson;3226;Orlando Magic;;;;;7465;Victor Oladipo;1;874.086;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669653;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;1;903.967;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669655;200900;Assisting;6114;Mario Hezonja;3226;Orlando Magic;;;;;7465;Victor Oladipo;1;960.128;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669657;200900;Assisting;6024;Kevin Seraphin;3173;New York Knicks;;;;;;;2;45.995;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669659;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;6034;Sasha Vujacic;2;76.363;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669661;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;2;138.193;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669663;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;294.788;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669665;200900;Assisting;9367;Jason Smith;3226;Orlando Magic;;;;;6114;Mario Hezonja;2;347.711;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669667;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;443.557;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669669;200900;Assisting;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;481.865;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669671;200900;Assisting;6121;Evan Fournier;3226;Orlando Magic;;;;;6114;Mario Hezonja;2;529.919;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669673;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;546.395;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669675;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;576.823;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669677;200900;Assisting;1891;Channing Frye;3226;Orlando Magic;;;;;6114;Mario Hezonja;2;657.420;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669679;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7493;Arron Afflalo;2;670.410;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669681;200900;Assisting;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;2;687.978;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669683;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;782.276;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669685;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;7505;Shabazz Napier;2;861.400;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669687;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;878.359;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669689;200900;Assisting;1891;Channing Frye;3226;Orlando Magic;;;;;7505;Shabazz Napier;2;922.262;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669691;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;966.098;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669693;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;6121;Evan Fournier;2;980.028;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669695;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;998.302;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669697;200900;Assisting;6121;Evan Fournier;3226;Orlando Magic;;;;;;;2;1092.784;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669699;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1104.096;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669701;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;67.800;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669703;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;82.109;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669705;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;156.765;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669707;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;182.556;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669709;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;;;3;216.841;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669711;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;303.214;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669713;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;334.502;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669715;200900;Assisting;7505;Shabazz Napier;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;359.065;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669717;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;7505;Shabazz Napier;3;377.596;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669719;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;7493;Arron Afflalo;3;465.011;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669721;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;7505;Shabazz Napier;3;505.362;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669723;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;6036;Lance Thomas;3;534.045;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669725;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;6121;Evan Fournier;3;582.682;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669727;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;6036;Lance Thomas;3;597.726;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669729;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;7505;Shabazz Napier;3;648.445;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669731;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;664.347;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669733;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;3;777.418;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669735;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;3;814.667;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669737;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;837.582;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669739;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;3;864.270;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669741;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;3;897.935;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669743;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;7776;Jerian Grant;3;908.978;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669745;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;6111;Nikola Vucevic;3;927.710;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669747;200900;Assisting;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;11.748;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669749;200900;Assisting;6114;Mario Hezonja;3226;Orlando Magic;;;;;;;4;90.388;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669751;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;142.699;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669753;200900;Assisting;6114;Mario Hezonja;3226;Orlando Magic;;;;;7465;Victor Oladipo;4;250.787;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669755;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;6028;Kristaps Porzingis;4;264.867;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669757;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;353.820;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669759;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;389.045;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669761;200900;Assisting;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;410.763;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669763;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;;;4;514.885;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669765;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;539.482;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669767;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;558.783;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669769;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;640.187;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669771;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;676.634;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669773;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;4;715.902;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669775;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;;;4;732.775;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669777;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;800.709;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669779;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;823.703;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669781;200900;Assisting;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;865.607;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669783;200900;Assisting;7776;Jerian Grant;3173;New York Knicks;;;;;;;4;882.301;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669785;200900;Assisting;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;935.406;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669787;200900;Assisting;6111;Nikola Vucevic;3226;Orlando Magic;;;;;;;4;1003.196;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669789;200900;Assisting;7465;Victor Oladipo;3226;Orlando Magic;;;;;1886;Tobias Harris;4;1022.025;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669791;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;369815;Langston Galloway;4;1087.205;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669793;200900;Assisting;6121;Evan Fournier;3226;Orlando Magic;;;;;;;4;1098.326;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669795;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;4;1138.693;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476
+103669797;200900;Assisting;1886;Tobias Harris;3226;Orlando Magic;;;;;;;4;1144.110;;;;;;;;;;;;;;;;2018-04-19 11:18:02.135476

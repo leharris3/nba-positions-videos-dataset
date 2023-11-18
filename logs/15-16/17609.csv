@@ -1,0 +1,873 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76461417;1601000;Starting lineup;1123;Cristiano Felicio;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461418;1601000;Starting lineup;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461419;1601000;Starting lineup;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461420;1601000;Starting lineup;79;Tony Snell;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461421;1601000;Starting lineup;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461422;1601000;Starting lineup;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461423;1601000;Starting lineup;156;Doug McDermott;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461424;1601000;Starting lineup;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461425;1601000;Starting lineup;161;Bobby Portis;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461426;1601000;Starting lineup;160;Aaron Brooks;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461427;1601000;Starting lineup;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461428;1601000;Starting lineup;159;Cameron Bairstow;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461429;1601000;Starting lineup;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461430;1601000;Starting lineup;191;Ian Clark;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461431;1601000;Starting lineup;1126;Jason Thompson;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461432;1601000;Starting lineup;189;Brandon Rush;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461433;1601000;Starting lineup;190;Marreese Speights;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461434;1601000;Starting lineup;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461435;1601000;Starting lineup;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461436;1601000;Starting lineup;12;Andre Iguodala;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461437;1601000;Starting lineup;9;Harrison Barnes;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461438;1601000;Starting lineup;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461439;1601000;Starting lineup;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461440;1601000;Starting lineup;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461441;1601000;Starting lineup;10;Draymond Green;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461442;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461443;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461444;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461445;1600500;Guard;79;Tony Snell;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461446;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461447;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461448;1600500;Guard;9;Harrison Barnes;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461449;1600500;Guard;10;Draymond Green;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461450;1600500;Guard;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461451;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461452;1600500;Guard;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461453;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;29.007;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461454;400101;Accurate pass;150;Taj Gibson;7;Chicago Bulls;;;;;153;Derrick Rose;1;41.007;;;;;;;;;;Hand offs;;;;;;2017-12-07 05:34:02.238184
+76461455;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;150;Taj Gibson;1;41.007;27.08;7.80;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 05:34:02.238184
+76461456;800302;3-;10;Draymond Green;2;Golden State Warriors;;;;;13;Klay Thompson;1;62.182;27.53;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461457;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;62.182;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461458;800302;3-;79;Tony Snell;7;Chicago Bulls;;;;;;;1;80.763;20.51;3.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461459;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;80.763;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461460;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;94.540;20.75;11.88;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461461;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;1;94.540;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461462;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;101.402;25.67;12.69;;;;;;;;Transition;;Hook;;;;2017-12-07 05:34:02.238184
+76461463;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;11;Stephen Curry;1;116.090;27.53;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461464;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;116.090;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461465;200300;Pick'n'Roll;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;1;137.832;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461466;800202;2-;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;1;137.832;26.12;12.27;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 05:34:02.238184
+76461467;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;137.832;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461468;800302;3-;9;Harrison Barnes;2;Golden State Warriors;;;;;;;1;137.832;27.68;14.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461469;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;1;137.832;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461470;100400;Steal;194;Andrew Bogut;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;1;152.734;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461471;800201;2+;9;Harrison Barnes;2;Golden State Warriors;;;;;;;1;158.363;26.72;5.49;;;;;;;;Transition;;Hook;;;;2017-12-07 05:34:02.238184
+76461472;800302;3-;79;Tony Snell;7;Chicago Bulls;;;;;;;1;186.415;22.43;13.11;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:34:02.238184
+76461473;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;186.415;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461474;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;193.129;22.67;13.74;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461475;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;193.129;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461476;400101;Accurate pass;79;Tony Snell;7;Chicago Bulls;;;;;150;Taj Gibson;1;205.942;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461477;800201;2+;150;Taj Gibson;7;Chicago Bulls;;;;;153;Derrick Rose;1;205.942;23.18;4.65;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:34:02.238184
+76461478;400101;Accurate pass;194;Andrew Bogut;2;Golden State Warriors;;;;;11;Stephen Curry;1;221.659;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461479;800301;3+;11;Stephen Curry;2;Golden State Warriors;;;;;194;Andrew Bogut;1;221.659;19.94;6.33;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 05:34:02.238184
+76461480;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;233.413;23.18;7.95;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 05:34:02.238184
+76461481;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;9;Harrison Barnes;1;241.019;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461482;800201;2+;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;1;241.019;21.83;3.42;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461483;200300;Pick'n'Roll;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;255.998;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76461484;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;255.998;26.51;4.71;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 05:34:02.238184
+76461485;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;255.998;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461486;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;266.803;20.09;4.86;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461487;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;266.803;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461488;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;275.123;23.03;3.24;;;;;;;;Transition;;Hook;;;;2017-12-07 05:34:02.238184
+76461489;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;9;Harrison Barnes;1;284.265;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461490;800201;2+;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;1;284.265;23.90;12.03;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461491;200300;Pick'n'Roll;150;Taj Gibson;7;Chicago Bulls;;;;;71;Jimmy Butler;1;299.850;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76461492;800202;2-;150;Taj Gibson;7;Chicago Bulls;;;;;71;Jimmy Butler;1;299.850;22.58;5.49;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:34:02.238184
+76461493;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;1;299.850;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461494;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;194;Andrew Bogut;1;304.757;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461495;800201;2+;194;Andrew Bogut;2;Golden State Warriors;;;;;10;Draymond Green;1;304.757;26.96;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:34:02.238184
+76461496;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;323.220;25.52;4.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461497;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;1;323.220;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461498;800202;2-;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;338.646;26.99;8.19;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:34:02.238184
+76461499;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;338.646;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461500;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;153;Derrick Rose;1;346.267;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461501;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;71;Jimmy Butler;1;346.267;22.82;6.78;;;;;;;;Transition;;Floater;;;;2017-12-07 05:34:02.238184
+76461502;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;361.895;27.08;1.02;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 05:34:02.238184
+76461503;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;361.895;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461504;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;373.882;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461505;800400;2+1;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;1;373.882;26.99;7.80;;;;;;;;Cut;;;;;;2017-12-07 05:34:02.238184
+76461506;100200;Game stop;;;;;;;;;;;1;373.882;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461507;300100;Foul;153;Derrick Rose;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;1;373.882;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461508;1600500;Guard;8396;E'Twaun Moore;7;Chicago Bulls;153;Derrick Rose;7;Chicago Bulls;;;1;373.882;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461509;800101;1+;11;Stephen Curry;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;1;407.400;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461510;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;410.816;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461511;400101;Accurate pass;8396;E'Twaun Moore;7;Chicago Bulls;;;;;71;Jimmy Butler;1;423.816;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461512;200300;Pick'n'Roll;8396;E'Twaun Moore;7;Chicago Bulls;;;;;71;Jimmy Butler;1;423.816;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461513;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;8396;E'Twaun Moore;1;423.816;22.37;3.48;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461514;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;1;433.490;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461515;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;433.490;26.99;7.98;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:34:02.238184
+76461516;100400;Steal;11;Stephen Curry;2;Golden State Warriors;71;Jimmy Butler;7;Chicago Bulls;;;1;452.352;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461517;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;458.595;22.28;10.59;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461518;100200;Game stop;;;;;;;;;;;1;458.595;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461519;1800600;Timeout;;;7;Chicago Bulls;;;;;;;1;458.595;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461520;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;79;Tony Snell;7;Chicago Bulls;;;1;458.595;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461521;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;9;Harrison Barnes;2;Golden State Warriors;;;1;458.595;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461522;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;477.275;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461523;100200;Game stop;;;;;;;;;;;1;488.275;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461524;100500;Turnover;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;488.275;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461525;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;491.710;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461526;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;194;Andrew Bogut;1;504.710;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461527;800201;2+;194;Andrew Bogut;2;Golden State Warriors;;;;;11;Stephen Curry;1;504.710;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:34:02.238184
+76461528;800202;2-;71;Jimmy Butler;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;1;531.955;21.65;9.03;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:34:02.238184
+76461529;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;531.955;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461530;200300;Pick'n'Roll;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;531.955;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461531;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;1;531.955;26.60;8.07;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 05:34:02.238184
+76461532;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;1;531.955;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461533;800202;2-;150;Taj Gibson;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;1;531.955;27.23;8.13;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:34:02.238184
+76461534;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;531.955;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461535;100400;Steal;8396;E'Twaun Moore;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;1;542.410;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461536;800201;2+;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;551.559;26.12;5.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461537;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;13;Klay Thompson;1;567.758;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461538;800301;3+;13;Klay Thompson;2;Golden State Warriors;;;;;12;Andre Iguodala;1;567.758;20.21;4.20;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461539;800302;3-;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;582.884;27.53;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461540;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;1;582.884;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461541;800600;2F;10;Draymond Green;2;Golden State Warriors;150;Taj Gibson;7;Chicago Bulls;;;1;589.968;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:34:02.238184
+76461542;100200;Game stop;;;;;;;;;;;1;589.968;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461543;300100;Foul;150;Taj Gibson;7;Chicago Bulls;10;Draymond Green;2;Golden State Warriors;;;1;589.968;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461544;800102;1-;10;Draymond Green;2;Golden State Warriors;150;Taj Gibson;7;Chicago Bulls;;;1;613.523;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461545;100300;Rebound;;;2;Golden State Warriors;;;;;;;1;613.523;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461546;1600500;Guard;17;Leandro Mateus Barbosa;2;Golden State Warriors;13;Klay Thompson;2;Golden State Warriors;;;1;613.523;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461547;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;150;Taj Gibson;7;Chicago Bulls;;;1;613.523;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461548;800102;1-;10;Draymond Green;2;Golden State Warriors;150;Taj Gibson;7;Chicago Bulls;;;1;633.124;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461549;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;633.124;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461550;100300;Rebound;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;633.124;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461551;800302;3-;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;651.680;20.21;10.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461552;100300;Rebound;156;Doug McDermott;7;Chicago Bulls;;;;;;;1;651.680;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461553;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;660.582;27.92;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461554;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;660.582;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461555;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;1;682.202;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461556;800201;2+;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;10;Draymond Green;1;682.202;26.96;8.28;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 05:34:02.238184
+76461557;800600;2F;72;Pau Gasol;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;1;693.325;27.05;7.62;;;;;;;;Catch and Drive;;;;;;2017-12-07 05:34:02.238184
+76461558;100200;Game stop;;;;;;;;;;;1;693.325;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461559;300100;Foul;194;Andrew Bogut;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;1;693.325;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461560;1800600;Timeout;;;2;Golden State Warriors;;;;;;;1;693.325;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461561;1600500;Guard;15;Festus Ezeli;2;Golden State Warriors;194;Andrew Bogut;2;Golden State Warriors;;;1;693.325;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461562;800102;1-;72;Pau Gasol;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;1;715.032;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461563;100300;Rebound;;;7;Chicago Bulls;;;;;;;1;715.032;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461564;800101;1+;72;Pau Gasol;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;1;725.767;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461565;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;727.371;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461566;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;1;740.371;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461567;200300;Pick'n'Roll;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;740.371;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461568;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;740.371;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 05:34:02.238184
+76461569;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;758.470;22.73;5.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461570;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;758.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461571;100200;Game stop;;;;;;;;;;;1;778.737;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461572;100500;Turnover;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;778.737;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461573;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;791.451;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461574;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;1;810.451;23.33;3.33;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461575;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;1;810.451;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461576;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;816.961;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461577;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;1;816.961;23.72;13.50;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461578;100200;Game stop;;;;;;;;;;;1;838.701;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461579;300100;Foul;12;Andre Iguodala;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;1;838.701;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461580;100100;Ball in play;;;7;Chicago Bulls;;;;;;;1;854.662;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461581;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;1;858.762;20.51;4.65;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461582;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;858.762;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461583;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;872.748;20.96;12.30;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 05:34:02.238184
+76461584;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;872.748;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461585;100400;Steal;11;Stephen Curry;2;Golden State Warriors;71;Jimmy Butler;7;Chicago Bulls;;;1;876.916;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461586;100200;Game stop;;;;;;;;;;;1;879.467;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461587;300100;Foul;8396;E'Twaun Moore;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;1;879.467;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461588;1600500;Guard;161;Bobby Portis;7;Chicago Bulls;72;Pau Gasol;7;Chicago Bulls;;;1;879.467;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461589;1600500;Guard;9;Harrison Barnes;2;Golden State Warriors;10;Draymond Green;2;Golden State Warriors;;;1;879.467;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461590;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;903.652;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461591;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;1;906.752;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461592;800201;2+;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;11;Stephen Curry;1;906.752;26.93;8.16;;;;;;;;Screen off;;Lay up;;;;2017-12-07 05:34:02.238184
+76461593;200300;Pick'n'Roll;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;929.116;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461594;800600;2F;8396;E'Twaun Moore;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;1;929.116;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 05:34:02.238184
+76461595;100200;Game stop;;;;;;;;;;;1;929.116;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461596;300100;Foul;11;Stephen Curry;2;Golden State Warriors;8396;E'Twaun Moore;7;Chicago Bulls;;;1;929.116;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461597;800101;1+;8396;E'Twaun Moore;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;1;948.348;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461598;800102;1-;8396;E'Twaun Moore;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;1;962.253;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461599;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;962.253;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461600;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;1;962.253;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461601;800500;3+1;12;Andre Iguodala;2;Golden State Warriors;;;;;;;1;978.912;19.94;4.50;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:34:02.238184
+76461602;100200;Game stop;;;;;;;;;;;1;978.912;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461603;300100;Foul;8396;E'Twaun Moore;7;Chicago Bulls;12;Andre Iguodala;2;Golden State Warriors;;;1;978.912;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461604;800102;1-;12;Andre Iguodala;2;Golden State Warriors;8396;E'Twaun Moore;7;Chicago Bulls;;;1;1009.243;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461605;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;1009.243;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461606;100300;Rebound;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;1009.243;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461607;1800500;Halftime;;;;;;;;;;;1;1009.343;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461608;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461609;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461610;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461611;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461612;1600500;Guard;160;Aaron Brooks;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461613;1600500;Guard;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461614;1600500;Guard;9;Harrison Barnes;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461615;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461616;1600500;Guard;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461617;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461618;1600500;Guard;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461619;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461620;100400;Steal;157;Nikola Mirotic;7;Chicago Bulls;12;Andre Iguodala;2;Golden State Warriors;;;2;9.215;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461621;800302;3-;156;Doug McDermott;7;Chicago Bulls;;;;;;;2;15.923;20.75;12.27;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461622;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;15.923;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461623;400101;Accurate pass;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;9;Harrison Barnes;2;25.537;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461624;800301;3+;9;Harrison Barnes;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;2;25.537;20.18;4.71;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461625;400101;Accurate pass;153;Derrick Rose;7;Chicago Bulls;;;;;161;Bobby Portis;2;40.999;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461626;200300;Pick'n'Roll;161;Bobby Portis;7;Chicago Bulls;;;;;153;Derrick Rose;2;40.999;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461627;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;153;Derrick Rose;2;40.999;26.99;8.04;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 05:34:02.238184
+76461628;100200;Game stop;;;;;;;;;;;2;50.536;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461629;300100;Foul;160;Aaron Brooks;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;2;50.536;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461630;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;63.687;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461631;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;2;67.687;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461632;800201;2+;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;16;Shaun Livingston;2;67.687;22.82;12.60;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461633;800202;2-;156;Doug McDermott;7;Chicago Bulls;;;;;160;Aaron Brooks;2;81.185;26.84;7.11;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 05:34:02.238184
+76461634;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;81.185;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461635;200600;Post;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;90.762;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461636;800202;2-;15;Festus Ezeli;2;Golden State Warriors;;;;;;;2;90.762;26.72;5.79;;;;;;;;Post;;Hook;;;;2017-12-07 05:34:02.238184
+76461637;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;90.762;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461638;800302;3-;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;100.054;20.63;11.34;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461639;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;100.054;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461640;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;2;115.697;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461641;800201;2+;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;16;Shaun Livingston;2;115.697;27.05;7.17;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:34:02.238184
+76461642;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;128.166;26.72;11.13;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461643;200600;Post;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;141.638;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461644;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;141.638;26.12;4.59;;;;;;;;Post;;Jumper;;;;2017-12-07 05:34:02.238184
+76461645;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;141.638;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461646;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;150.700;25.52;8.37;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461647;100200;Game stop;;;;;;;;;;;2;160.211;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461648;1800600;Timeout;;;2;Golden State Warriors;;;;;;;2;160.211;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461649;1600500;Guard;190;Marreese Speights;2;Golden State Warriors;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;2;160.211;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461650;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;15;Festus Ezeli;2;Golden State Warriors;;;2;160.211;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461651;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;175.212;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461652;800202;2-;190;Marreese Speights;2;Golden State Warriors;161;Bobby Portis;7;Chicago Bulls;16;Shaun Livingston;2;183.212;25.97;7.65;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:34:02.238184
+76461653;100200;Game stop;;;;;;;;;;;2;183.212;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461654;100300;Rebound;;;2;Golden State Warriors;;;;;;;2;183.212;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461655;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;198.164;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461656;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;9;Harrison Barnes;2;200.164;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461657;800201;2+;9;Harrison Barnes;2;Golden State Warriors;;;;;16;Shaun Livingston;2;200.164;26.99;7.02;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:34:02.238184
+76461658;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;215.789;22.37;5.01;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461659;100300;Rebound;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;215.789;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461660;800302;3-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;231.875;22.13;2.19;;;;;;;;Pick'n'Roll;;Jumper;;Quick first step;;2017-12-07 05:34:02.238184
+76461661;100300;Rebound;160;Aaron Brooks;7;Chicago Bulls;;;;;;;2;231.875;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461662;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;237.900;26.96;7.17;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:34:02.238184
+76461663;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;247.111;27.23;12.21;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461664;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;247.111;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461665;800202;2-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;258.986;26.12;13.74;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:34:02.238184
+76461666;100300;Rebound;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;258.986;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461667;400101;Accurate pass;13;Klay Thompson;2;Golden State Warriors;;;;;16;Shaun Livingston;2;266.626;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461668;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;13;Klay Thompson;2;266.626;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461669;200300;Pick'n'Roll;161;Bobby Portis;7;Chicago Bulls;;;;;153;Derrick Rose;2;285.551;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76461670;800202;2-;161;Bobby Portis;7;Chicago Bulls;;;;;153;Derrick Rose;2;285.551;27.05;7.62;;;;;;;;Pick'n'pop;;Floater;;;;2017-12-07 05:34:02.238184
+76461671;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;285.551;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461672;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;285.551;27.05;7.62;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 05:34:02.238184
+76461673;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;304.251;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 05:34:02.238184
+76461674;100200;Game stop;;;;;;;;;;;2;319.324;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461675;300100;Foul;190;Marreese Speights;2;Golden State Warriors;161;Bobby Portis;7;Chicago Bulls;;;2;319.324;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461676;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;153;Derrick Rose;7;Chicago Bulls;;;2;319.324;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461677;1600500;Guard;10;Draymond Green;2;Golden State Warriors;12;Andre Iguodala;2;Golden State Warriors;;;2;319.324;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461678;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;345.275;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461679;400101;Accurate pass;157;Nikola Mirotic;7;Chicago Bulls;;;;;156;Doug McDermott;2;350.275;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461680;800201;2+;156;Doug McDermott;7;Chicago Bulls;;;;;157;Nikola Mirotic;2;350.275;27.05;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:34:02.238184
+76461681;800202;2-;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;366.358;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461682;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;2;366.358;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461683;400101;Accurate pass;157;Nikola Mirotic;7;Chicago Bulls;;;;;161;Bobby Portis;2;377.598;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461684;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;157;Nikola Mirotic;2;377.598;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:34:02.238184
+76461685;100200;Game stop;;;;;;;;;;;2;393.972;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461686;300100;Foul;160;Aaron Brooks;7;Chicago Bulls;16;Shaun Livingston;2;Golden State Warriors;;;2;393.972;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461687;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;157;Nikola Mirotic;7;Chicago Bulls;;;2;393.972;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461688;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;190;Marreese Speights;2;Golden State Warriors;;;2;393.972;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461689;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;423.231;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461690;800202;2-;9;Harrison Barnes;2;Golden State Warriors;;;;;;;2;432.231;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461691;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;432.231;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461692;800301;3+;160;Aaron Brooks;7;Chicago Bulls;;;;;;;2;439.463;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461693;100200;Game stop;;;;;;;;;;;2;447.502;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461694;100500;Turnover;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;447.502;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461695;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;464.837;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461696;100200;Game stop;;;;;;;;;;;2;474.837;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461697;300100;Foul;10;Draymond Green;2;Golden State Warriors;160;Aaron Brooks;7;Chicago Bulls;;;2;474.837;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461698;1600500;Guard;11;Stephen Curry;2;Golden State Warriors;9;Harrison Barnes;2;Golden State Warriors;;;2;474.837;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461699;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;501.889;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461700;100200;Game stop;;;;;;;;;;;2;507.889;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461701;300100;Foul;10;Draymond Green;2;Golden State Warriors;160;Aaron Brooks;7;Chicago Bulls;;;2;507.889;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461702;300300;Technical foul;160;Aaron Brooks;7;Chicago Bulls;16;Shaun Livingston;2;Golden State Warriors;;;2;507.889;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461703;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;544.223;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461704;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;550.223;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461705;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;2;550.223;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461706;200600;Post;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;565.118;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461707;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;565.118;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 05:34:02.238184
+76461708;200600;Post;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;586.458;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461709;800202;2-;161;Bobby Portis;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;2;586.458;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 05:34:02.238184
+76461710;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;586.155;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461711;100200;Game stop;;;;;;;;;;;2;586.155;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461712;1800600;Timeout;;;7;Chicago Bulls;;;;;;;2;586.155;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461713;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;156;Doug McDermott;7;Chicago Bulls;;;2;586.155;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461714;1600500;Guard;194;Andrew Bogut;2;Golden State Warriors;189;Brandon Rush;2;Golden State Warriors;;;2;586.155;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461715;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;607.419;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461716;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;615.419;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461717;100200;Game stop;;;;;;;;;;;2;615.419;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461718;100300;Rebound;;;7;Chicago Bulls;;;;;;;2;615.419;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461719;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;161;Bobby Portis;7;Chicago Bulls;;;2;615.419;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461720;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;642.815;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461721;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;153;Derrick Rose;2;662.815;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:34:02.238184
+76461722;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;662.815;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461723;800202;2-;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;662.815;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 05:34:02.238184
+76461724;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;662.815;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461725;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;673.059;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461726;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;2;673.059;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461727;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;10;Draymond Green;2;687.289;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461728;800700;3F;11;Stephen Curry;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;2;687.289;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 05:34:02.238184
+76461729;100200;Game stop;;;;;;;;;;;2;687.289;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461730;300100;Foul;153;Derrick Rose;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;2;687.289;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461731;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;2;687.289;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461732;800101;1+;11;Stephen Curry;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;2;727.845;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461733;800101;1+;11;Stephen Curry;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;2;741.068;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461734;800101;1+;11;Stephen Curry;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;2;755.706;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461735;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;759.291;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461736;800400;2+1;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;773.291;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:34:02.238184
+76461737;100200;Game stop;;;;;;;;;;;2;773.291;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461738;300100;Foul;194;Andrew Bogut;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;2;773.291;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461739;800101;1+;153;Derrick Rose;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;2;807.832;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461740;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;811.637;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461741;800600;2F;11;Stephen Curry;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;2;828.637;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 05:34:02.238184
+76461742;100200;Game stop;;;;;;;;;;;2;828.637;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461743;300100;Foul;72;Pau Gasol;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;2;828.637;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461744;800101;1+;11;Stephen Curry;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;2;857.778;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461745;1600500;Guard;79;Tony Snell;7;Chicago Bulls;160;Aaron Brooks;7;Chicago Bulls;;;2;857.778;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461746;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;16;Shaun Livingston;2;Golden State Warriors;;;2;857.778;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461747;800101;1+;11;Stephen Curry;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;2;877.974;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461748;100100;Ball in play;;;7;Chicago Bulls;;;;;;;2;879.541;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461749;400101;Accurate pass;71;Jimmy Butler;7;Chicago Bulls;;;;;153;Derrick Rose;2;897.541;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461750;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;71;Jimmy Butler;2;897.541;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461751;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;12;Andre Iguodala;2;909.443;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461752;800301;3+;12;Andre Iguodala;2;Golden State Warriors;;;;;11;Stephen Curry;2;909.443;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461753;800202;2-;153;Derrick Rose;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;2;930.050;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 05:34:02.238184
+76461754;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;930.050;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461755;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;930.050;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:34:02.238184
+76461756;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;930.050;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461757;800201;2+;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;930.050;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:34:02.238184
+76461758;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;955.391;27.05;7.62;;;;;;;;Screen off;;Lay up;;;;2017-12-07 05:34:02.238184
+76461759;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;2;955.391;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461760;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;194;Andrew Bogut;2;955.391;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461761;800201;2+;194;Andrew Bogut;2;Golden State Warriors;;;;;11;Stephen Curry;2;955.391;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 05:34:02.238184
+76461762;200300;Pick'n'Roll;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;2;968.941;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76461763;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;71;Jimmy Butler;2;968.941;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:34:02.238184
+76461764;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;968.941;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461765;100200;Game stop;;;;;;;;;;;2;976.844;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461766;1800600;Timeout;;;2;Golden State Warriors;;;;;;;2;976.844;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461767;1800600;Timeout;;;2;Golden State Warriors;;;;;;;2;976.844;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461768;1600500;Guard;8396;E'Twaun Moore;7;Chicago Bulls;153;Derrick Rose;7;Chicago Bulls;;;2;976.844;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461769;1600500;Guard;9;Harrison Barnes;2;Golden State Warriors;194;Andrew Bogut;2;Golden State Warriors;;;2;976.844;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461770;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;994.972;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461771;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;2;1003.972;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:34:02.238184
+76461772;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;2;1003.972;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461773;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;;;2;1003.972;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 05:34:02.238184
+76461774;100400;Steal;10;Draymond Green;2;Golden State Warriors;8396;E'Twaun Moore;7;Chicago Bulls;;;2;1024.339;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461775;100400;Steal;8396;E'Twaun Moore;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;2;1033.237;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461776;800302;3-;79;Tony Snell;7;Chicago Bulls;;;;;;;2;1061.765;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461777;100200;Game stop;;;;;;;;;;;2;1061.765;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461778;100300;Rebound;;;7;Chicago Bulls;;;;;;;2;1061.765;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461779;800600;2F;71;Jimmy Butler;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;2;1061.765;27.05;7.62;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461780;300100;Foul;13;Klay Thompson;2;Golden State Warriors;71;Jimmy Butler;7;Chicago Bulls;;;2;1061.765;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461781;800101;1+;71;Jimmy Butler;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;2;1085.590;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461782;1600500;Guard;161;Bobby Portis;7;Chicago Bulls;150;Taj Gibson;7;Chicago Bulls;;;2;1085.590;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461783;800101;1+;71;Jimmy Butler;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;2;1100.810;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461784;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;1117.963;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461785;800202;2-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;1134.963;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 05:34:02.238184
+76461786;100300;Rebound;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;2;1134.963;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461787;800302;3-;79;Tony Snell;7;Chicago Bulls;;;;;72;Pau Gasol;2;1157.796;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461788;100300;Rebound;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;1157.796;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461789;800202;2-;11;Stephen Curry;2;Golden State Warriors;;;;;;;2;1174.416;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461790;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;2;1174.416;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461791;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;1187.448;27.05;7.62;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 05:34:02.238184
+76461792;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;2;1187.448;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461793;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;12;Andre Iguodala;2;1192.899;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461794;800201;2+;12;Andre Iguodala;2;Golden State Warriors;;;;;10;Draymond Green;2;1192.899;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:34:02.238184
+76461795;800302;3-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;1218.173;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461796;100300;Rebound;;;7;Chicago Bulls;;;;;;;2;1218.173;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461797;1800500;Halftime;;;;;;;;;;;2;1218.173;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461798;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461799;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461800;1600500;Guard;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461801;1600500;Guard;79;Tony Snell;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461802;1600500;Guard;150;Taj Gibson;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461803;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461804;1600500;Guard;9;Harrison Barnes;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461805;1600500;Guard;10;Draymond Green;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461806;1600500;Guard;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461807;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461808;1600500;Guard;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461809;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;2.894;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461810;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;18.894;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461811;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;18.894;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461812;200300;Pick'n'Roll;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;3;27.181;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76461813;800302;3-;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;3;27.181;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:34:02.238184
+76461814;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;27.181;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461815;200600;Post;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;45.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461816;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;45.470;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 05:34:02.238184
+76461817;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;45.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461818;800302;3-;10;Draymond Green;2;Golden State Warriors;;;;;;;3;83.856;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:34:02.238184
+76461819;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;3;83.856;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461820;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;93.686;27.05;7.62;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 05:34:02.238184
+76461821;800201;2+;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;121.390;27.05;7.62;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 05:34:02.238184
+76461822;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;144.060;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461823;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;3;165.474;27.05;7.62;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 05:34:02.238184
+76461824;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;165.474;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461825;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;176.313;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:34:02.238184
+76461826;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;176.313;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461827;100200;Game stop;;;;;;;;;;;3;180.868;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461828;1800600;Timeout;;;2;Golden State Warriors;;;;;;;3;180.868;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461829;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;10;Draymond Green;2;Golden State Warriors;;;3;180.868;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461830;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;207.554;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461831;800202;2-;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;216.554;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461832;100300;Rebound;72;Pau Gasol;7;Chicago Bulls;;;;;;;3;216.554;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461833;800600;2F;71;Jimmy Butler;7;Chicago Bulls;189;Brandon Rush;2;Golden State Warriors;;;3;228.187;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461834;100200;Game stop;;;;;;;;;;;3;228.187;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461835;300100;Foul;189;Brandon Rush;2;Golden State Warriors;71;Jimmy Butler;7;Chicago Bulls;;;3;228.187;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461836;800101;1+;71;Jimmy Butler;7;Chicago Bulls;189;Brandon Rush;2;Golden State Warriors;;;3;248.288;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461837;800101;1+;71;Jimmy Butler;7;Chicago Bulls;189;Brandon Rush;2;Golden State Warriors;;;3;259.922;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461838;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;262.842;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461839;800202;2-;13;Klay Thompson;2;Golden State Warriors;150;Taj Gibson;7;Chicago Bulls;;;3;277.842;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461840;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;277.842;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461841;800600;2F;71;Jimmy Butler;7;Chicago Bulls;9;Harrison Barnes;2;Golden State Warriors;;;3;284.580;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:34:02.238184
+76461842;100200;Game stop;;;;;;;;;;;3;284.580;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461843;300100;Foul;9;Harrison Barnes;2;Golden State Warriors;71;Jimmy Butler;7;Chicago Bulls;;;3;284.580;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461844;800101;1+;71;Jimmy Butler;7;Chicago Bulls;9;Harrison Barnes;2;Golden State Warriors;;;3;311.486;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461845;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;79;Tony Snell;7;Chicago Bulls;;;3;311.486;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461846;800101;1+;71;Jimmy Butler;7;Chicago Bulls;9;Harrison Barnes;2;Golden State Warriors;;;3;325.907;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461847;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;333.502;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461848;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;347.502;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461849;100300;Rebound;150;Taj Gibson;7;Chicago Bulls;;;;;;;3;347.502;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461850;800202;2-;72;Pau Gasol;7;Chicago Bulls;;;;;153;Derrick Rose;3;357.143;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461851;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;357.143;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461852;800202;2-;11;Stephen Curry;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;3;366.443;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:34:02.238184
+76461853;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;366.443;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461854;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;366.443;27.05;7.62;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 05:34:02.238184
+76461855;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;379.111;27.05;7.62;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 05:34:02.238184
+76461856;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;379.111;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461857;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;379.111;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:34:02.238184
+76461858;800202;2-;9;Harrison Barnes;2;Golden State Warriors;;;;;;;3;404.048;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:34:02.238184
+76461859;100300;Rebound;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;404.048;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461860;200600;Post;150;Taj Gibson;7;Chicago Bulls;;;;;;;3;418.606;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461861;800202;2-;150;Taj Gibson;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;3;418.606;27.05;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 05:34:02.238184
+76461862;100300;Rebound;9;Harrison Barnes;2;Golden State Warriors;;;;;;;3;418.606;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461863;800302;3-;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;3;456.456;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461864;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;456.456;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461865;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;469.884;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461866;100300;Rebound;9;Harrison Barnes;2;Golden State Warriors;;;;;;;3;469.884;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461867;100200;Game stop;;;;;;;;;;;3;469.884;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461868;100500;Turnover;9;Harrison Barnes;2;Golden State Warriors;;;;;;;3;469.884;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461869;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;478.771;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461870;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;499.771;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 05:34:02.238184
+76461871;800201;2+;9;Harrison Barnes;2;Golden State Warriors;;;;;;;3;524.376;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 05:34:02.238184
+76461872;800202;2-;71;Jimmy Butler;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;3;533.183;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:34:02.238184
+76461873;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;533.183;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461874;400101;Accurate pass;194;Andrew Bogut;2;Golden State Warriors;;;;;13;Klay Thompson;3;546.488;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461875;800301;3+;13;Klay Thompson;2;Golden State Warriors;;;;;194;Andrew Bogut;3;546.488;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461876;100200;Game stop;;;;;;;;;;;3;546.488;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461877;1800600;Timeout;;;7;Chicago Bulls;;;;;;;3;546.488;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461878;1600500;Guard;157;Nikola Mirotic;7;Chicago Bulls;150;Taj Gibson;7;Chicago Bulls;;;3;546.488;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461879;1600500;Guard;160;Aaron Brooks;7;Chicago Bulls;153;Derrick Rose;7;Chicago Bulls;;;3;546.488;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461880;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;189;Brandon Rush;2;Golden State Warriors;;;3;546.488;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461881;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;559.347;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461882;400101;Accurate pass;156;Doug McDermott;7;Chicago Bulls;;;;;71;Jimmy Butler;3;568.347;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461883;200600;Post;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;568.347;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461884;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;156;Doug McDermott;3;568.347;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 05:34:02.238184
+76461885;800600;2F;13;Klay Thompson;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;3;587.819;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 05:34:02.238184
+76461886;100200;Game stop;;;;;;;;;;;3;587.819;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461887;300100;Foul;72;Pau Gasol;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;3;587.819;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461888;800102;1-;13;Klay Thompson;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;3;611.780;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461889;100300;Rebound;;;2;Golden State Warriors;;;;;;;3;611.780;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461890;1600500;Guard;161;Bobby Portis;7;Chicago Bulls;72;Pau Gasol;7;Chicago Bulls;;;3;611.780;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461891;800101;1+;13;Klay Thompson;2;Golden State Warriors;72;Pau Gasol;7;Chicago Bulls;;;3;631.323;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461892;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;633.602;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461893;800202;2-;160;Aaron Brooks;7;Chicago Bulls;;;;;;;3;654.602;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 05:34:02.238184
+76461894;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;3;654.602;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461895;100200;Game stop;;;;;;;;;;;3;666.120;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461896;100500;Turnover;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;666.120;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461897;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;670.905;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461898;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;680.905;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461899;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;3;680.905;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461900;100400;Steal;160;Aaron Brooks;7;Chicago Bulls;12;Andre Iguodala;2;Golden State Warriors;;;3;686.224;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461901;800600;2F;71;Jimmy Butler;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;3;690.814;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:34:02.238184
+76461902;100200;Game stop;;;;;;;;;;;3;690.814;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461903;300100;Foul;194;Andrew Bogut;2;Golden State Warriors;71;Jimmy Butler;7;Chicago Bulls;;;3;690.814;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461904;800102;1-;71;Jimmy Butler;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;3;713.266;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461905;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;713.266;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461906;1600500;Guard;15;Festus Ezeli;2;Golden State Warriors;194;Andrew Bogut;2;Golden State Warriors;;;3;713.266;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461907;1600500;Guard;17;Leandro Mateus Barbosa;2;Golden State Warriors;13;Klay Thompson;2;Golden State Warriors;;;3;713.266;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461908;800101;1+;71;Jimmy Butler;7;Chicago Bulls;194;Andrew Bogut;2;Golden State Warriors;;;3;730.880;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461909;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;732.857;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461910;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;746.857;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461911;100300;Rebound;156;Doug McDermott;7;Chicago Bulls;;;;;;;3;746.857;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461912;800302;3-;160;Aaron Brooks;7;Chicago Bulls;;;;;;;3;755.957;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461913;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;3;755.957;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461914;800202;2-;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;3;774.180;27.05;7.62;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 05:34:02.238184
+76461915;100300;Rebound;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;3;774.180;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461916;800202;2-;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;3;782.790;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:34:02.238184
+76461917;100200;Game stop;;;;;;;;;;;3;782.790;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461918;100300;Rebound;;;7;Chicago Bulls;;;;;;;3;782.790;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461919;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;804.836;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461920;400101;Accurate pass;160;Aaron Brooks;7;Chicago Bulls;;;;;161;Bobby Portis;3;808.836;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461921;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;160;Aaron Brooks;3;808.836;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 05:34:02.238184
+76461922;100200;Game stop;;;;;;;;;;;3;825.787;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461923;300100;Foul;156;Doug McDermott;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;3;825.787;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461924;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;845.523;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461925;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;11;Stephen Curry;3;852.523;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461926;800301;3+;11;Stephen Curry;2;Golden State Warriors;;;;;12;Andre Iguodala;3;852.523;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461927;100200;Game stop;;;;;;;;;;;3;867.815;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461928;100500;Turnover;157;Nikola Mirotic;7;Chicago Bulls;;;;;;;3;867.815;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461929;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;875.625;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461930;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;9;Harrison Barnes;3;885.625;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461931;200300;Pick'n'Roll;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;3;885.625;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76461932;800301;3+;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;3;885.625;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:34:02.238184
+76461933;800302;3-;160;Aaron Brooks;7;Chicago Bulls;;;;;;;3;899.840;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461934;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;3;899.840;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461935;800600;2F;17;Leandro Mateus Barbosa;2;Golden State Warriors;157;Nikola Mirotic;7;Chicago Bulls;;;3;909.619;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 05:34:02.238184
+76461936;100200;Game stop;;;;;;;;;;;3;909.619;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461937;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;3;909.619;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461938;800102;1-;17;Leandro Mateus Barbosa;2;Golden State Warriors;157;Nikola Mirotic;7;Chicago Bulls;;;3;940.227;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461939;100300;Rebound;;;2;Golden State Warriors;;;;;;;3;940.227;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461940;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;160;Aaron Brooks;7;Chicago Bulls;;;3;940.227;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461941;800101;1+;17;Leandro Mateus Barbosa;2;Golden State Warriors;157;Nikola Mirotic;7;Chicago Bulls;;;3;961.326;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461942;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;968.621;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461943;800302;3-;157;Nikola Mirotic;7;Chicago Bulls;;;;;153;Derrick Rose;3;983.621;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461944;100300;Rebound;156;Doug McDermott;7;Chicago Bulls;;;;;;;3;983.621;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461945;800202;2-;156;Doug McDermott;7;Chicago Bulls;;;;;;;3;983.621;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 05:34:02.238184
+76461946;100300;Rebound;9;Harrison Barnes;2;Golden State Warriors;;;;;;;3;983.621;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461947;400101;Accurate pass;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;12;Andre Iguodala;3;990.411;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461948;800201;2+;12;Andre Iguodala;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;3;990.411;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:34:02.238184
+76461949;800202;2-;161;Bobby Portis;7;Chicago Bulls;;;;;153;Derrick Rose;3;1006.860;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 05:34:02.238184
+76461950;100300;Rebound;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;3;1006.860;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461951;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;15;Festus Ezeli;3;1015.668;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461952;200300;Pick'n'Roll;15;Festus Ezeli;2;Golden State Warriors;;;;;11;Stephen Curry;3;1015.668;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461953;800201;2+;15;Festus Ezeli;2;Golden State Warriors;;;;;11;Stephen Curry;3;1015.668;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 05:34:02.238184
+76461954;100200;Game stop;;;;;;;;;;;3;1015.668;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461955;1800600;Timeout;;;7;Chicago Bulls;;;;;;;3;1015.668;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461956;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;9;Harrison Barnes;2;Golden State Warriors;;;3;1015.668;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461957;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;1026.573;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461958;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;1039.573;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:34:02.238184
+76461959;800302;3-;189;Brandon Rush;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;3;1060.834;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76461960;100300;Rebound;15;Festus Ezeli;2;Golden State Warriors;;;;;;;3;1060.834;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461961;800600;2F;15;Festus Ezeli;2;Golden State Warriors;157;Nikola Mirotic;7;Chicago Bulls;;;3;1060.834;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 05:34:02.238184
+76461962;100200;Game stop;;;;;;;;;;;3;1060.834;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461963;300100;Foul;157;Nikola Mirotic;7;Chicago Bulls;15;Festus Ezeli;2;Golden State Warriors;;;3;1060.834;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461964;800102;1-;15;Festus Ezeli;2;Golden State Warriors;157;Nikola Mirotic;7;Chicago Bulls;;;3;1090.151;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461965;100300;Rebound;;;2;Golden State Warriors;;;;;;;3;1090.151;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461966;800101;1+;15;Festus Ezeli;2;Golden State Warriors;157;Nikola Mirotic;7;Chicago Bulls;;;3;1104.139;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461967;100100;Ball in play;;;7;Chicago Bulls;;;;;;;3;1107.946;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461968;800202;2-;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;1121.946;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76461969;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;3;1121.763;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461970;800202;2-;161;Bobby Portis;7;Chicago Bulls;12;Andre Iguodala;2;Golden State Warriors;;;3;1121.763;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 05:34:02.238184
+76461971;100300;Rebound;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;1121.763;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461972;800201;2+;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;1141.953;27.05;7.62;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 05:34:02.238184
+76461973;100400;Steal;17;Leandro Mateus Barbosa;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;3;1150.919;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461974;800302;3-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;3;1155.434;27.05;7.62;;;;;;;;;;Jumper;;;;2017-12-07 05:34:02.238184
+76461975;100300;Rebound;;;2;Golden State Warriors;;;;;;;3;1155.434;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461976;1800500;Halftime;;;;;;;;;;;3;1155.434;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461977;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461978;1600500;Guard;79;Tony Snell;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461979;1600500;Guard;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461980;1600500;Guard;156;Doug McDermott;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461981;1600500;Guard;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461982;1600500;Guard;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461983;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461984;1600500;Guard;15;Festus Ezeli;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461985;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461986;1600500;Guard;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461987;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461988;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;3.698;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461989;200300;Pick'n'Roll;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;13.698;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461990;800600;2F;161;Bobby Portis;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;13.698;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 05:34:02.238184
+76461991;100200;Game stop;;;;;;;;;;;4;13.698;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461992;300100;Foul;17;Leandro Mateus Barbosa;2;Golden State Warriors;161;Bobby Portis;7;Chicago Bulls;;;4;13.698;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461993;800101;1+;161;Bobby Portis;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;40.671;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461994;800101;1+;161;Bobby Portis;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;55.274;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461995;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;57.909;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76461996;800302;3-;189;Brandon Rush;2;Golden State Warriors;;;;;;;4;72.909;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76461997;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;4;72.909;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76461998;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;4;81.341;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76461999;100200;Game stop;;;;;;;;;;;4;81.341;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462000;100300;Rebound;;;7;Chicago Bulls;;;;;;;4;81.341;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462001;1600500;Guard;10;Draymond Green;2;Golden State Warriors;15;Festus Ezeli;2;Golden State Warriors;;;4;81.341;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462002;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;104.530;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462003;800201;2+;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;119.530;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 05:34:02.238184
+76462004;800202;2-;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;139.288;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76462005;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;4;139.288;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462006;100200;Game stop;;;;;;;;;;;4;147.544;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462007;300100;Foul;17;Leandro Mateus Barbosa;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;4;147.544;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462008;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;164.419;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462009;800600;2F;153;Derrick Rose;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;170.419;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:34:02.238184
+76462010;100200;Game stop;;;;;;;;;;;4;170.419;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462011;300100;Foul;17;Leandro Mateus Barbosa;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;4;170.419;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462012;800101;1+;153;Derrick Rose;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;197.644;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462013;800101;1+;153;Derrick Rose;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;215.233;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462014;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;218.361;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462015;100200;Game stop;;;;;;;;;;;4;229.361;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462016;100500;Turnover;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;229.361;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462017;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;239.925;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462018;800201;2+;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;255.925;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 05:34:02.238184
+76462019;100200;Game stop;;;;;;;;;;;4;260.890;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462020;1800600;Timeout;;;2;Golden State Warriors;;;;;;;4;260.890;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462021;1600500;Guard;9;Harrison Barnes;2;Golden State Warriors;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;260.890;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462022;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;189;Brandon Rush;2;Golden State Warriors;;;4;260.890;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462023;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;272.719;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462024;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;;;4;283.719;30.14;6.87;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:34:02.238184
+76462025;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;283.719;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462026;800302;3-;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;297.847;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76462027;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;4;297.847;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462028;800600;2F;13;Klay Thompson;2;Golden State Warriors;161;Bobby Portis;7;Chicago Bulls;;;4;311.246;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 05:34:02.238184
+76462029;100200;Game stop;;;;;;;;;;;4;311.246;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462030;300100;Foul;161;Bobby Portis;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;4;311.246;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462031;800101;1+;13;Klay Thompson;2;Golden State Warriors;161;Bobby Portis;7;Chicago Bulls;;;4;333.334;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462032;800101;1+;13;Klay Thompson;2;Golden State Warriors;161;Bobby Portis;7;Chicago Bulls;;;4;348.114;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462033;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;350.486;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462034;800201;2+;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;359.486;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:34:02.238184
+76462035;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;13;Klay Thompson;4;389.992;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462036;800201;2+;13;Klay Thompson;2;Golden State Warriors;;;;;16;Shaun Livingston;4;389.992;27.05;7.62;;;;;;;;Screen off;;Lay up;;;;2017-12-07 05:34:02.238184
+76462037;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;402.394;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:34:02.238184
+76462038;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;402.394;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462039;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;402.394;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:34:02.238184
+76462040;400101;Accurate pass;9;Harrison Barnes;2;Golden State Warriors;;;;;16;Shaun Livingston;4;423.017;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462041;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;9;Harrison Barnes;4;423.017;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 05:34:02.238184
+76462042;200600;Post;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;437.715;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462043;800202;2-;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;437.715;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 05:34:02.238184
+76462044;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;437.715;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462045;100200;Game stop;;;;;;;;;;;4;445.839;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462046;100500;Turnover;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;445.839;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462047;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;457.085;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462048;800600;2F;153;Derrick Rose;7;Chicago Bulls;10;Draymond Green;2;Golden State Warriors;;;4;464.085;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 05:34:02.238184
+76462049;100200;Game stop;;;;;;;;;;;4;464.085;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462050;300100;Foul;10;Draymond Green;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;4;464.085;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462051;800101;1+;153;Derrick Rose;7;Chicago Bulls;10;Draymond Green;2;Golden State Warriors;;;4;489.032;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462052;800101;1+;153;Derrick Rose;7;Chicago Bulls;10;Draymond Green;2;Golden State Warriors;;;4;511.752;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462053;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;514.299;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462054;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;13;Klay Thompson;4;525.299;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462055;800201;2+;13;Klay Thompson;2;Golden State Warriors;;;;;16;Shaun Livingston;4;525.299;27.05;7.62;;;;;;;;Screen off;;Lay up;;;;2017-12-07 05:34:02.238184
+76462056;100200;Game stop;;;;;;;;;;;4;549.603;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462057;300300;Technical foul;10;Draymond Green;2;Golden State Warriors;;;;;;;4;549.603;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462058;800101;1+;156;Doug McDermott;7;Chicago Bulls;;;;;;;4;549.603;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462059;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;563.081;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462060;100400;Steal;16;Shaun Livingston;2;Golden State Warriors;153;Derrick Rose;7;Chicago Bulls;;;4;569.081;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462061;100200;Game stop;;;;;;;;;;;4;569.767;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462062;300100;Foul;153;Derrick Rose;7;Chicago Bulls;16;Shaun Livingston;2;Golden State Warriors;;;4;569.767;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462063;1600500;Guard;71;Jimmy Butler;7;Chicago Bulls;8396;E'Twaun Moore;7;Chicago Bulls;;;4;569.767;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462064;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;593.035;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462065;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;4;604.035;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76462066;100200;Game stop;;;;;;;;;;;4;604.035;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462067;100300;Rebound;;;7;Chicago Bulls;;;;;;;4;604.035;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462068;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;610.773;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462069;800600;2F;71;Jimmy Butler;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;4;621.773;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 05:34:02.238184
+76462070;100200;Game stop;;;;;;;;;;;4;621.773;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462071;300100;Foul;13;Klay Thompson;2;Golden State Warriors;71;Jimmy Butler;7;Chicago Bulls;;;4;621.773;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462072;800101;1+;71;Jimmy Butler;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;4;641.839;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462073;1600500;Guard;11;Stephen Curry;2;Golden State Warriors;12;Andre Iguodala;2;Golden State Warriors;;;4;641.839;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462074;800102;1-;71;Jimmy Butler;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;4;658.444;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462075;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;658.444;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462076;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;4;658.444;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462077;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;16;Shaun Livingston;4;665.981;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462078;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;10;Draymond Green;4;665.981;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 05:34:02.238184
+76462079;100200;Game stop;;;;;;;;;;;4;665.981;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462080;1800600;Timeout;;;7;Chicago Bulls;;;;;;;4;665.981;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462081;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;678.200;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462082;800202;2-;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;692.200;27.05;7.62;;;;;;;;Cut;;Jumper;;;;2017-12-07 05:34:02.238184
+76462083;100200;Game stop;;;;;;;;;;;4;692.200;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462084;100300;Rebound;;;7;Chicago Bulls;;;;;;;4;692.200;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462085;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;709.365;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462086;800600;2F;71;Jimmy Butler;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;4;712.365;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 05:34:02.238184
+76462087;100200;Game stop;;;;;;;;;;;4;712.365;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462088;300100;Foul;11;Stephen Curry;2;Golden State Warriors;71;Jimmy Butler;7;Chicago Bulls;;;4;712.365;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462089;800102;1-;71;Jimmy Butler;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;4;734.906;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462090;100300;Rebound;;;7;Chicago Bulls;;;;;;;4;734.906;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462091;800101;1+;71;Jimmy Butler;7;Chicago Bulls;11;Stephen Curry;2;Golden State Warriors;;;4;748.814;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462092;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;751.426;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462093;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;16;Shaun Livingston;4;760.426;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462094;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;10;Draymond Green;4;760.426;27.05;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 05:34:02.238184
+76462095;100400;Steal;16;Shaun Livingston;2;Golden State Warriors;156;Doug McDermott;7;Chicago Bulls;;;4;776.260;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462096;100200;Game stop;;;;;;;;;;;4;776.260;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462097;300100;Foul;156;Doug McDermott;7;Chicago Bulls;16;Shaun Livingston;2;Golden State Warriors;;;4;776.260;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462098;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;802.582;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462099;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;13;Klay Thompson;4;818.582;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462100;800201;2+;13;Klay Thompson;2;Golden State Warriors;;;;;11;Stephen Curry;4;818.582;27.05;7.62;;;;;;;;;;Lay up;;;;2017-12-07 05:34:02.238184
+76462101;400101;Accurate pass;153;Derrick Rose;7;Chicago Bulls;;;;;79;Tony Snell;4;835.998;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462102;800201;2+;79;Tony Snell;7;Chicago Bulls;;;;;153;Derrick Rose;4;835.998;27.05;7.62;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 05:34:02.238184
+76462103;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;4;851.064;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462104;200300;Pick'n'Roll;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;4;851.064;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76462105;800301;3+;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;4;851.064;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 05:34:02.238184
+76462106;800302;3-;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;873.330;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76462107;100300;Rebound;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;873.330;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462108;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;873.330;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:34:02.238184
+76462109;800302;3-;11;Stephen Curry;2;Golden State Warriors;;;;;;;4;890.783;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76462110;100300;Rebound;79;Tony Snell;7;Chicago Bulls;;;;;;;4;890.783;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462111;800202;2-;79;Tony Snell;7;Chicago Bulls;13;Klay Thompson;2;Golden State Warriors;;;4;897.776;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76462112;100300;Rebound;13;Klay Thompson;2;Golden State Warriors;;;;;;;4;897.776;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462113;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;;;4;908.632;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 05:34:02.238184
+76462114;100300;Rebound;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;908.632;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462115;800201;2+;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;918.851;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76462116;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;9;Harrison Barnes;4;939.797;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462117;800301;3+;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;4;939.797;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76462118;200300;Pick'n'Roll;161;Bobby Portis;7;Chicago Bulls;;;;;153;Derrick Rose;4;954.376;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76462119;800302;3-;161;Bobby Portis;7;Chicago Bulls;;;;;153;Derrick Rose;4;954.376;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:34:02.238184
+76462120;100300;Rebound;13;Klay Thompson;2;Golden State Warriors;;;;;;;4;954.376;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462121;400101;Accurate pass;11;Stephen Curry;2;Golden State Warriors;;;;;13;Klay Thompson;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462122;800301;3+;13;Klay Thompson;2;Golden State Warriors;;;;;11;Stephen Curry;4;970.470;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76462123;100200;Game stop;;;;;;;;;;;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462124;1800600;Timeout;;;7;Chicago Bulls;;;;;;;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462125;1600500;Guard;1126;Jason Thompson;2;Golden State Warriors;10;Draymond Green;2;Golden State Warriors;;;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462126;1600500;Guard;190;Marreese Speights;2;Golden State Warriors;9;Harrison Barnes;2;Golden State Warriors;;;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462127;1600500;Guard;191;Ian Clark;2;Golden State Warriors;13;Klay Thompson;2;Golden State Warriors;;;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462128;1600500;Guard;17;Leandro Mateus Barbosa;2;Golden State Warriors;11;Stephen Curry;2;Golden State Warriors;;;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462129;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;16;Shaun Livingston;2;Golden State Warriors;;;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462130;1600500;Guard;8396;E'Twaun Moore;7;Chicago Bulls;71;Jimmy Butler;7;Chicago Bulls;;;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462131;1600500;Guard;159;Cameron Bairstow;7;Chicago Bulls;153;Derrick Rose;7;Chicago Bulls;;;4;970.470;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462132;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;980.794;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462133;400101;Accurate pass;8396;E'Twaun Moore;7;Chicago Bulls;;;;;161;Bobby Portis;4;991.794;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462134;200300;Pick'n'Roll;161;Bobby Portis;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;991.794;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76462135;800201;2+;161;Bobby Portis;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;991.794;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:34:02.238184
+76462136;400101;Accurate pass;1126;Jason Thompson;2;Golden State Warriors;;;;;189;Brandon Rush;4;1011.544;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462137;200300;Pick'n'Roll;1126;Jason Thompson;2;Golden State Warriors;;;;;189;Brandon Rush;4;1011.544;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462138;800201;2+;189;Brandon Rush;2;Golden State Warriors;;;;;1126;Jason Thompson;4;1011.544;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 05:34:02.238184
+76462139;800202;2-;156;Doug McDermott;7;Chicago Bulls;;;;;;;4;1024.883;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:34:02.238184
+76462140;100300;Rebound;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1024.883;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462141;800400;2+1;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;1038.292;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 05:34:02.238184
+76462142;100200;Game stop;;;;;;;;;;;4;1038.292;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462143;300100;Foul;159;Cameron Bairstow;7;Chicago Bulls;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;4;1038.292;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462144;800101;1+;17;Leandro Mateus Barbosa;2;Golden State Warriors;159;Cameron Bairstow;7;Chicago Bulls;;;4;1075.319;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462145;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;1076.322;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462146;400101;Accurate pass;79;Tony Snell;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;1088.322;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462147;800201;2+;8396;E'Twaun Moore;7;Chicago Bulls;;;;;79;Tony Snell;4;1088.322;27.05;7.62;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 05:34:02.238184
+76462148;800600;2F;1126;Jason Thompson;2;Golden State Warriors;161;Bobby Portis;7;Chicago Bulls;;;4;1109.253;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 05:34:02.238184
+76462149;100200;Game stop;;;;;;;;;;;4;1109.253;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462150;300100;Foul;161;Bobby Portis;7;Chicago Bulls;1126;Jason Thompson;2;Golden State Warriors;;;4;1109.253;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462151;800101;1+;1126;Jason Thompson;2;Golden State Warriors;161;Bobby Portis;7;Chicago Bulls;;;4;1132.614;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462152;1600500;Guard;1123;Cristiano Felicio;7;Chicago Bulls;161;Bobby Portis;7;Chicago Bulls;;;4;1132.614;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462153;800102;1-;1126;Jason Thompson;2;Golden State Warriors;161;Bobby Portis;7;Chicago Bulls;;;4;1147.637;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462154;100100;Ball in play;;;7;Chicago Bulls;;;;;;;4;1147.637;;;;;;;;;;;;;;;;2019-10-24 12:38:03.350825
+76462155;100300;Rebound;1123;Cristiano Felicio;7;Chicago Bulls;;;;;;;4;1147.637;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462156;800202;2-;79;Tony Snell;7;Chicago Bulls;;;;;;;4;1166.978;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 05:34:02.238184
+76462157;100300;Rebound;156;Doug McDermott;7;Chicago Bulls;;;;;;;4;1166.978;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462158;400101;Accurate pass;156;Doug McDermott;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;1166.978;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462159;800201;2+;8396;E'Twaun Moore;7;Chicago Bulls;;;;;156;Doug McDermott;4;1166.978;27.05;7.62;;;;;;;;Catch and Drive;;Floater;Drives Left;;;2017-12-07 05:34:02.238184
+76462160;400101;Accurate pass;191;Ian Clark;2;Golden State Warriors;;;;;190;Marreese Speights;4;1188.492;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462161;200300;Pick'n'Roll;190;Marreese Speights;2;Golden State Warriors;;;;;191;Ian Clark;4;1188.492;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 05:34:02.238184
+76462162;800201;2+;190;Marreese Speights;2;Golden State Warriors;;;;;191;Ian Clark;4;1188.492;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 05:34:02.238184
+76462163;100400;Steal;17;Leandro Mateus Barbosa;2;Golden State Warriors;159;Cameron Bairstow;7;Chicago Bulls;;;4;1199.164;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462164;800202;2-;189;Brandon Rush;2;Golden State Warriors;;;;;;;4;1217.279;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 05:34:02.238184
+76462165;100300;Rebound;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;1217.279;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462166;800202;2-;190;Marreese Speights;2;Golden State Warriors;159;Cameron Bairstow;7;Chicago Bulls;;;4;1217.279;27.05;7.62;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 05:34:02.238184
+76462167;100300;Rebound;159;Cameron Bairstow;7;Chicago Bulls;;;;;;;4;1217.279;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462168;800202;2-;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;1226.879;27.05;7.62;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 05:34:02.238184
+76462169;100300;Rebound;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1226.879;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462170;800201;2+;191;Ian Clark;2;Golden State Warriors;;;;;;;4;1234.875;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:34:02.238184
+76462171;800202;2-;156;Doug McDermott;7;Chicago Bulls;;;;;;;4;1243.038;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 05:34:02.238184
+76462172;100300;Rebound;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1243.038;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462173;400101;Accurate pass;189;Brandon Rush;2;Golden State Warriors;;;;;191;Ian Clark;4;1249.721;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462174;800201;2+;191;Ian Clark;2;Golden State Warriors;;;;;189;Brandon Rush;4;1249.721;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76462175;800302;3-;1123;Cristiano Felicio;7;Chicago Bulls;;;;;;;4;1268.390;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 05:34:02.238184
+76462176;100300;Rebound;159;Cameron Bairstow;7;Chicago Bulls;;;;;;;4;1268.390;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462177;800202;2-;159;Cameron Bairstow;7;Chicago Bulls;1126;Jason Thompson;2;Golden State Warriors;;;4;1268.390;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 05:34:02.238184
+76462178;100300;Rebound;191;Ian Clark;2;Golden State Warriors;;;;;;;4;1268.390;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462179;400101;Accurate pass;191;Ian Clark;2;Golden State Warriors;;;;;190;Marreese Speights;4;1275.692;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+76462180;800301;3+;190;Marreese Speights;2;Golden State Warriors;;;;;191;Ian Clark;4;1275.692;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 05:34:02.238184
+76462181;800201;2+;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;1288.275;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 05:34:02.238184
+76462182;1800700;Match end;;;;;;;;;;;4;1308.175;;;;;;;;;;;;;;;;2017-12-07 05:34:02.238184
+103634262;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;150;Taj Gibson;1;41.007;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634264;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;101.402;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634266;200900;Assisting;9;Harrison Barnes;2;Golden State Warriors;;;;;;;1;158.363;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634268;200900;Assisting;150;Taj Gibson;7;Chicago Bulls;;;;;153;Derrick Rose;1;205.942;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634270;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;194;Andrew Bogut;1;221.659;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634272;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;233.413;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634274;200900;Assisting;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;1;241.019;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634276;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;1;275.123;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634278;200900;Assisting;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;1;284.265;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634280;200900;Assisting;194;Andrew Bogut;2;Golden State Warriors;;;;;10;Draymond Green;1;304.757;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634282;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;71;Jimmy Butler;1;346.267;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634284;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;1;373.882;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634286;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;8396;E'Twaun Moore;1;423.816;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634288;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;433.490;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634290;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;1;458.595;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634292;200900;Assisting;194;Andrew Bogut;2;Golden State Warriors;;;;;11;Stephen Curry;1;504.710;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634294;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;551.559;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634296;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;12;Andre Iguodala;1;567.758;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634298;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;;;1;589.968;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634300;200900;Assisting;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;10;Draymond Green;1;682.202;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634302;200900;Assisting;72;Pau Gasol;7;Chicago Bulls;;;;;;;1;693.325;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634304;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;11;Stephen Curry;1;740.371;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634306;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;1;816.961;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634308;200900;Assisting;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;11;Stephen Curry;1;906.752;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634310;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;1;929.116;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634312;200900;Assisting;12;Andre Iguodala;2;Golden State Warriors;;;;;;;1;978.912;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634314;200900;Assisting;9;Harrison Barnes;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;2;25.537;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634316;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;153;Derrick Rose;2;40.999;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634318;200900;Assisting;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;16;Shaun Livingston;2;67.687;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634320;200900;Assisting;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;16;Shaun Livingston;2;115.697;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634322;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;128.166;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634324;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;150.700;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634326;200900;Assisting;9;Harrison Barnes;2;Golden State Warriors;;;;;16;Shaun Livingston;2;200.164;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634328;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;237.900;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634330;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;13;Klay Thompson;2;266.626;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634332;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;;;2;285.551;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634334;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;304.251;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634336;200900;Assisting;156;Doug McDermott;7;Chicago Bulls;;;;;157;Nikola Mirotic;2;350.275;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634338;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;157;Nikola Mirotic;2;377.598;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634340;200900;Assisting;160;Aaron Brooks;7;Chicago Bulls;;;;;;;2;439.463;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634342;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;565.118;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634344;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;2;687.289;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634346;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;2;773.291;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634348;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;2;828.637;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634350;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;71;Jimmy Butler;2;897.541;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634352;200900;Assisting;12;Andre Iguodala;2;Golden State Warriors;;;;;11;Stephen Curry;2;909.443;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634354;200900;Assisting;150;Taj Gibson;7;Chicago Bulls;;;;;;;2;930.050;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634356;200900;Assisting;194;Andrew Bogut;2;Golden State Warriors;;;;;11;Stephen Curry;2;955.391;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634358;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;;;2;1003.972;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634360;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;2;1061.765;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634362;200900;Assisting;12;Andre Iguodala;2;Golden State Warriors;;;;;10;Draymond Green;2;1192.899;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634364;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;3;93.686;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634366;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;121.390;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634368;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;144.060;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634370;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;228.187;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634372;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;284.580;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634374;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;366.443;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634376;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;379.111;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634378;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;499.771;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634380;200900;Assisting;9;Harrison Barnes;2;Golden State Warriors;;;;;;;3;524.376;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634382;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;194;Andrew Bogut;3;546.488;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634384;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;156;Doug McDermott;3;568.347;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634386;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;587.819;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634388;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;690.814;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634390;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;160;Aaron Brooks;3;808.836;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634392;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;12;Andre Iguodala;3;852.523;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634394;200900;Assisting;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;3;885.625;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634396;200900;Assisting;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;3;909.619;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634398;200900;Assisting;12;Andre Iguodala;2;Golden State Warriors;;;;;17;Leandro Mateus Barbosa;3;990.411;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634400;200900;Assisting;15;Festus Ezeli;2;Golden State Warriors;;;;;11;Stephen Curry;3;1015.668;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634402;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;3;1039.573;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634404;200900;Assisting;15;Festus Ezeli;2;Golden State Warriors;;;;;;;3;1060.834;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634406;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;;;3;1141.953;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634408;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;13.698;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634410;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;119.530;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634412;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;170.419;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634414;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;255.925;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634416;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;;;4;311.246;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634418;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;359.486;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634420;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;16;Shaun Livingston;4;389.992;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634422;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;402.394;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634424;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;9;Harrison Barnes;4;423.017;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634426;200900;Assisting;153;Derrick Rose;7;Chicago Bulls;;;;;;;4;464.085;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634428;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;16;Shaun Livingston;4;525.299;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634430;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;621.773;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634432;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;10;Draymond Green;4;665.981;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634434;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;712.365;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634436;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;10;Draymond Green;4;760.426;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634438;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;11;Stephen Curry;4;818.582;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634440;200900;Assisting;79;Tony Snell;7;Chicago Bulls;;;;;153;Derrick Rose;4;835.998;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634442;200900;Assisting;11;Stephen Curry;2;Golden State Warriors;;;;;10;Draymond Green;4;851.064;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634444;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;;;4;873.330;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634446;200900;Assisting;71;Jimmy Butler;7;Chicago Bulls;;;;;;;4;918.851;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634448;200900;Assisting;9;Harrison Barnes;2;Golden State Warriors;;;;;11;Stephen Curry;4;939.797;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634450;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;11;Stephen Curry;4;970.470;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634452;200900;Assisting;161;Bobby Portis;7;Chicago Bulls;;;;;8396;E'Twaun Moore;4;991.794;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634454;200900;Assisting;189;Brandon Rush;2;Golden State Warriors;;;;;1126;Jason Thompson;4;1011.544;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634456;200900;Assisting;17;Leandro Mateus Barbosa;2;Golden State Warriors;;;;;;;4;1038.292;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634458;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;79;Tony Snell;4;1088.322;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634460;200900;Assisting;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1109.253;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634462;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;156;Doug McDermott;4;1166.978;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634464;200900;Assisting;190;Marreese Speights;2;Golden State Warriors;;;;;191;Ian Clark;4;1188.492;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634466;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;;;4;1234.875;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634468;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;189;Brandon Rush;4;1249.721;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634470;200900;Assisting;190;Marreese Speights;2;Golden State Warriors;;;;;191;Ian Clark;4;1275.692;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382
+103634472;200900;Assisting;8396;E'Twaun Moore;7;Chicago Bulls;;;;;;;4;1288.275;;;;;;;;;;;;;;;;2018-04-19 10:48:05.151382

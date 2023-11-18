@@ -1,0 +1,850 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+19482772;1601000;Starting lineup;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482773;1601000;Starting lineup;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482774;1601000;Starting lineup;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482775;1601000;Starting lineup;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19482776;1601000;Starting lineup;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482777;1601000;Starting lineup;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482778;1601000;Starting lineup;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482779;1601000;Starting lineup;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482780;1601000;Starting lineup;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482781;1601000;Starting lineup;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482793;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482794;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482795;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482796;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482797;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19482798;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482804;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482805;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;17.000;;;;;;;;;;;;Jumper;;;;2019-03-11 06:18:34.850187
+19482811;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;97.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482812;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;1;108.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482815;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;133.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19482816;800600;2F;9150;JJ Redick;13;Los Angeles Clippers;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;142.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19482817;100200;Game stop;;;;;;;;;;;1;142.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482819;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;166.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19482820;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;7719;Eric Gordon;3279;New Orleans Pelicans;;;1;176.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19482824;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;210.000;;;;;;;;;;;;Jumper;;;;2019-03-11 06:18:34.850187
+19482827;400101;Accurate pass;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;1;238.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482828;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;238.000;;;;;;;;;;Cut;;Lay up;;;;2017-08-02 18:04:02.81402
+19482830;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;252.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482831;100200;Game stop;;;;;;;;;;;1;260.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482832;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;260.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482833;100500;Turnover;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;261.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482837;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;304.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482840;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;176;Paul Pierce;1;332.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482841;800301;3+;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;332.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482843;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;364.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482844;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;369.000;;;;;;;;;;;;Jumper;;;;2019-03-11 06:18:34.850187
+19482848;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;397.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482851;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;408.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19482852;100200;Game stop;;;;;;;;;;;1;410.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482854;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;429.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482855;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;454.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482858;800600;2F;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;482.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482859;100200;Game stop;;;;;;;;;;;1;482.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482861;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;1;492.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482862;800102;1-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;649.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482863;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;1;649.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482864;800102;1-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;655.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482868;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;681.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482869;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;702.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482870;100200;Game stop;;;;;;;;;;;1;720.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482871;300100;Foul;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;720.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482872;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;1;732.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482874;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;748.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482875;100200;Game stop;;;;;;;;;;;1;756.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482877;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;769.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482879;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;798.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482880;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;813.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482881;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;813.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482882;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;1;825.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482883;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;831.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482884;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;833.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482885;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;840.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482886;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;840.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482887;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;849.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482888;800600;2F;7503;Wesley Johnson;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;854.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482889;100200;Game stop;;;;;;;;;;;1;854.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482891;800102;1-;7503;Wesley Johnson;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;862.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482892;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;1;862.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482893;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;1;890.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482895;800101;1+;7503;Wesley Johnson;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;900.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482903;100300;Rebound;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;956.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482904;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;966.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482906;100200;Game stop;;;;;;;;;;;1;983.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482907;300100;Foul;7503;Wesley Johnson;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;1;983.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482910;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;1;1142.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482911;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;1142.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482913;100500;Turnover;;;13;Los Angeles Clippers;;;;;;;1;1154.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482917;100500;Turnover;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1200.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482919;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;1245.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482920;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;1;1247.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482921;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1251.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482924;100200;Game stop;;;;;;;;;;;1;1264.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482925;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;1;1264.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482930;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;1309.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482933;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;1320.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482934;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1331.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482937;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;1;1348.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482940;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;1;1365.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482943;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1402.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482945;1800500;Halftime;;;;;;;;;;;1;1420.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482946;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482947;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482948;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482949;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482950;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482951;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482959;100200;Game stop;;;;;;;;;;;2;14.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482960;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;2;14.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482963;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;50.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482964;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;66.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482965;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;69.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482966;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;75.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482967;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;77.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482968;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;77.000;;;;;;;;;;;;Tip in;;;;2017-08-02 18:04:02.81402
+19482969;100200;Game stop;;;;;;;;;;;2;80.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482971;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;2;82.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482974;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;118.000;;;;;;;;;;;;Hook;;;;2017-08-02 18:04:02.81402
+19482977;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;144.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482978;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;144.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19482980;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;159.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482981;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;175.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19482983;100200;Game stop;;;;;;;;;;;2;188.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482984;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;188.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482985;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;205.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482987;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;222.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482988;100200;Game stop;;;;;;;;;;;2;228.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482990;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;251.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482991;800400;2+1;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;264.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482992;100200;Game stop;;;;;;;;;;;2;264.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482994;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;8333;Luke Babbitt;3279;New Orleans Pelicans;;;2;280.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482997;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;307.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482998;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;2;314.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482999;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;314.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483000;100200;Game stop;;;;;;;;;;;2;323.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483001;300100;Foul;8964;Pablo Prigioni;13;Los Angeles Clippers;10309;Brandan Wright;3279;New Orleans Pelicans;;;2;323.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483006;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;356.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483007;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;364.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483009;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;381.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483010;800301;3+;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;396.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483011;100200;Game stop;;;;;;;;;;;2;405.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483019;100300;Rebound;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;565.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483020;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;576.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483021;100200;Game stop;;;;;;;;;;;2;579.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483022;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;579.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483024;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;609.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483025;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;2;621.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483026;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;621.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483028;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;656.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483030;100200;Game stop;;;;;;;;;;;2;677.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483031;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;8964;Pablo Prigioni;13;Los Angeles Clippers;;;2;677.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483034;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;698.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483035;400101;Accurate pass;180;Jamal Crawford;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;2;711.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483036;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;711.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483037;100200;Game stop;;;;;;;;;;;2;733.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483038;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;733.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483040;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;763.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483041;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;778.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483043;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;800.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483044;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;2;801.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483045;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;819.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483046;800301;3+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;819.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483048;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;2;847.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483049;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;855.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483053;100200;Game stop;;;;;;;;;;;2;884.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483054;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;884.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483055;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1042.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483056;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;1053.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483057;100200;Game stop;;;;;;;;;;;2;1053.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483059;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;1076.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483060;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;1091.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483061;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;2;1091.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483065;100200;Game stop;;;;;;;;;;;2;1114.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483069;100300;Rebound;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;1135.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483070;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;2;1141.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483071;800400;2+1;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;2;1141.000;;;;;;;;;;Cut;;Lay up;;;;2017-08-02 18:04:02.81402
+19483072;100200;Game stop;;;;;;;;;;;2;1141.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483075;800102;1-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;7719;Eric Gordon;3279;New Orleans Pelicans;;;2;1171.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483080;100200;Game stop;;;;;;;;;;;2;1198.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483081;300100;Foul;180;Jamal Crawford;13;Los Angeles Clippers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;1198.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483083;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;1234.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483085;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1255.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483086;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;1270.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483090;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1290.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483092;100200;Game stop;;;;;;;;;;;2;1311.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483093;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;1311.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483094;1800600;Timeout;;;;;;;;;;;2;1317.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483098;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1485.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483099;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;1505.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483102;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1515.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483103;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;1522.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483104;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;1522.000;;;;;;;;;;;;Jumper;;;;2019-03-11 06:18:34.850187
+19483110;100200;Game stop;;;;;;;;;;;2;1546.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483111;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;1546.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483115;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1611.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483116;100200;Game stop;;;;;;;;;;;2;1623.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483118;300300;Technical foul;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1646.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483120;800102;1-;179;Chris Paul;13;Los Angeles Clippers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;1685.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483121;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;1685.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483122;800101;1+;179;Chris Paul;13;Los Angeles Clippers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;1691.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483125;800600;2F;179;Chris Paul;13;Los Angeles Clippers;7070;Norris Cole;3279;New Orleans Pelicans;;;2;1735.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483126;100200;Game stop;;;;;;;;;;;2;1735.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483128;800101;1+;179;Chris Paul;13;Los Angeles Clippers;7070;Norris Cole;3279;New Orleans Pelicans;;;2;1742.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483129;800102;1-;179;Chris Paul;13;Los Angeles Clippers;7070;Norris Cole;3279;New Orleans Pelicans;;;2;1762.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483133;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;1789.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483134;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;1796.000;;;;;;;;;;;;Jumper;;;;2019-03-11 06:18:34.850187
+19483136;100200;Game stop;;;;;;;;;;;2;1809.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483137;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;2;1809.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483140;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1846.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483141;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;2;1847.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483144;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1880.900;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483145;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;1892.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483148;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;1906.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483149;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1926.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483150;1800500;Halftime;;;;;;;;;;;2;1931.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483151;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483152;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483153;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483154;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483155;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483156;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483165;800202;2-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;30.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483168;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;57.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483169;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;70.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483172;100200;Game stop;;;;;;;;;;;3;94.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483177;400101;Accurate pass;9150;JJ Redick;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;3;131.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483178;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;131.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483181;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;157.000;;;;;;;;;;;;Jumper;;;;2019-03-11 06:18:34.850187
+19483182;100200;Game stop;;;;;;;;;;;3;159.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483183;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;159.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483184;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;186.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483185;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;195.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483188;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;230.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483191;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;241.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483192;800700;3F;9150;JJ Redick;13;Los Angeles Clippers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;251.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483193;100200;Game stop;;;;;;;;;;;3;251.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483195;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;275.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483196;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;286.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483197;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;305.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483200;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;341.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483201;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;356.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483204;800202;2-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;404.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483206;100200;Game stop;;;;;;;;;;;3;420.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483207;300100;Foul;9150;JJ Redick;13;Los Angeles Clippers;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;420.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483212;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;463.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483213;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;465.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483214;400101;Accurate pass;176;Paul Pierce;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;3;468.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483215;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;468.000;;;;;;;;;;Cut;;Lay up;;;;2017-08-02 18:04:02.81402
+19483217;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;3;482.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483218;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;3;498.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483219;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;498.000;;;;;;;;;;Cut;;Lay up;;;;2017-08-02 18:04:02.81402
+19483220;100200;Game stop;;;;;;;;;;;3;509.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483222;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;3;650.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483226;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;675.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483227;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;681.000;;;;;;;;;;;;Jumper;;;;2019-03-11 06:18:34.850187
+19483230;100200;Game stop;;;;;;;;;;;3;694.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483231;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;694.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483234;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;739.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483235;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;741.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483236;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;3;755.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483237;800201;2+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;755.000;;;;;;;;;;Cut;;Lay up;;;;2017-08-02 18:04:02.81402
+19483239;400101;Accurate pass;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;3;784.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483240;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;784.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483242;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;821.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483243;100200;Game stop;;;;;;;;;;;3;839.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483244;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;839.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483246;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;3;867.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483248;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;882.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483249;400101;Accurate pass;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;886.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483250;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;886.000;;;;;;;;;;;;Lay up;;;;2019-03-11 06:18:34.850187
+19483253;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;919.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483254;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;919.000;;;;;;;;;;;;Dunk;;;;2017-08-02 18:04:02.81402
+19483255;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;3;940.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483256;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;3;948.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483257;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;3;948.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483263;100200;Game stop;;;;;;;;;;;3;978.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483265;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;3;981.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483266;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;3;1119.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483270;100200;Game stop;;;;;;;;;;;3;1155.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483274;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1234.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483275;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;1256.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483279;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;3;1294.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483280;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;3;1306.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483281;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1804;Austin Rivers;3;1311.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483282;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;3;1311.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483284;400101;Accurate pass;180;Jamal Crawford;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;1342.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483285;800400;2+1;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;1342.000;;;;;;;;;;Cut;;Lay up;;;;2017-08-02 18:04:02.81402
+19483286;100200;Game stop;;;;;;;;;;;3;1342.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483289;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;3;1360.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483290;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;7070;Norris Cole;3279;New Orleans Pelicans;;;3;1361.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483295;1800500;Halftime;;;;;;;;;;;3;1429.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483296;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483297;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483298;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483299;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483300;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483301;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483307;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483308;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;14.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483311;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;27.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483312;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;36.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483313;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;37.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483314;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;50.000;;;;;;;;;;;;Floater;;;;2017-08-02 18:04:02.81402
+19483317;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;58.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483318;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;180;Jamal Crawford;4;64.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483319;800500;3+1;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;64.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483320;100200;Game stop;;;;;;;;;;;4;64.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483322;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;80.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483325;100500;Turnover;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;136.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483326;100200;Game stop;;;;;;;;;;;4;158.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483331;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;1804;Austin Rivers;4;187.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483332;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;187.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483333;100200;Game stop;;;;;;;;;;;4;207.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483334;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;207.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483337;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;231.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483338;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;246.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483341;100200;Game stop;;;;;;;;;;;4;283.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483348;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;349.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483350;100200;Game stop;;;;;;;;;;;4;359.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483351;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;359.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483352;1800600;Timeout;;;;;;;;;;;4;376.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483356;100200;Game stop;;;;;;;;;;;4;519.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483357;300100;Foul;180;Jamal Crawford;13;Los Angeles Clippers;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;4;519.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483359;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;539.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483360;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;560.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483365;100200;Game stop;;;;;;;;;;;4;602.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483366;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;602.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483367;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;8964;Pablo Prigioni;13;Los Angeles Clippers;;;4;603.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483368;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;614.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483369;800301;3+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;627.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483375;100200;Game stop;;;;;;;;;;;4;664.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483376;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;664.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483377;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;793.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483378;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;805.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483379;400101;Accurate pass;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;4;828.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483380;800201;2+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;828.000;;;;;;;;;;Cut;;Dunk;;;;2017-08-02 18:04:02.81402
+19483382;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;857.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483383;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;868.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483386;100200;Game stop;;;;;;;;;;;4;908.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483389;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;924.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483390;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;949.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483393;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;4;964.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483394;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;979.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483398;100500;Turnover;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1010.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483400;100200;Game stop;;;;;;;;;;;4;1039.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483404;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;4;1101.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483405;100200;Game stop;;;;;;;;;;;4;1101.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483407;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;4;1106.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483408;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1106.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483409;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;4;1129.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483413;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;1180.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483414;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;1182.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483415;800202;2-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;1182.000;;;;;;;;;;;;Tip in;;;;2017-08-02 18:04:02.81402
+19483416;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;1184.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483417;100200;Game stop;;;;;;;;;;;4;1190.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483419;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1198.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483420;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;1242.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483421;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1245.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483424;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;4;1305.000;;;;;;;;;;;;Jumper;;;;2019-03-11 06:18:34.850187
+19483427;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;1321.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483428;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;1332.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483431;100200;Game stop;;;;;;;;;;;4;1352.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483432;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1352.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483434;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;1501.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483435;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1508.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483436;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1526.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483437;100200;Game stop;;;;;;;;;;;4;1526.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483439;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1533.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483440;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1533.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483441;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;1553.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483442;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;1559.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483443;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;4;1572.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483447;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;1595.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483448;100200;Game stop;;;;;;;;;;;4;1604.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483449;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;1604.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483450;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;1675.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483451;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;4;1675.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483452;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1686.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483453;100500;Turnover;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1693.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483454;100200;Game stop;;;;;;;;;;;4;1809.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483455;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;1809.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483456;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;1809.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483459;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;4;1825.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483460;100200;Game stop;;;;;;;;;;;4;1833.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483461;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;1833.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483462;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;1940.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483463;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;4;1940.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483464;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1950.600;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483465;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1967.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483467;100200;Game stop;;;;;;;;;;;4;1978.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483469;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;2046.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483470;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;2046.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483473;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;4;2071.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483474;100200;Game stop;;;;;;;;;;;4;2074.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483476;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;2098.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483477;800102;1-;9150;JJ Redick;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;2114.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483480;100200;Game stop;;;;;;;;;;;4;2134.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483481;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;2134.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483485;100200;Game stop;;;;;;;;;;;4;2177.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483486;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;4;2177.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483490;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;2233.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483491;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;2289.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483492;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;4;2289.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483495;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;2309.500;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483496;800202;2-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;2311.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483497;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;2315.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483498;1800500;Halftime;;;;;;;;;;;4;2318.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483499;1801100;Start of 1 overtime;;;;;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483500;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483501;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483502;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483503;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483504;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483510;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;5;0.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483511;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;5;24.000;;;;;;;;;;;;Lay up;;;;2019-03-11 06:18:34.850187
+19483512;100200;Game stop;;;;;;;;;;;5;27.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483513;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;5;27.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483514;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;5;47.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483515;400101;Accurate pass;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;5;63.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483516;800400;2+1;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;5;63.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483517;100200;Game stop;;;;;;;;;;;5;63.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483519;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;5;72.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483524;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;5;137.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483525;100200;Game stop;;;;;;;;;;;5;163.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483526;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;5;163.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483529;100500;Turnover;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;5;231.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483530;100200;Game stop;;;;;;;;;;;5;240.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483534;400101;Accurate pass;9150;JJ Redick;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;5;424.000;;;;;;;;;;;;;;;;2019-03-11 06:18:34.850187
+19483535;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;5;424.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483537;100200;Game stop;;;;;;;;;;;5;445.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483545;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;5;484.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483546;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;5;507.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483547;100200;Game stop;;;;;;;;;;;5;511.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483549;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;5;653.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483550;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;5;653.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483553;100200;Game stop;;;;;;;;;;;5;677.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483554;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;8399;Jrue Holiday;3279;New Orleans Pelicans;;;5;677.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483557;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;5;712.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483558;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;5;714.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483561;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;5;803.900;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483562;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;5;825.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483564;100200;Game stop;;;;;;;;;;;5;835.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483565;300100;Foul;180;Jamal Crawford;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;5;835.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483567;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;5;870.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483571;800102;1-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;5;938.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483572;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;5;938.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483573;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;5;950.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483574;800101;1+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;8393;Dante Cunningham;3279;New Orleans Pelicans;;;5;961.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483579;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;5;985.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483580;100200;Game stop;;;;;;;;;;;5;991.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483582;800102;1-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;5;1008.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483583;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;5;1021.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483584;800101;1+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;5;1021.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483587;100200;Game stop;;;;;;;;;;;5;1135.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483588;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;9049;Tyreke Evans;3279;New Orleans Pelicans;;;5;1135.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483590;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;5;1177.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483591;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;5;1182.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483594;800102;1-;7503;Wesley Johnson;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;5;1221.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483595;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;5;1221.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483598;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;5;1253.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483599;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;5;1262.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483600;800101;1+;7503;Wesley Johnson;13;Los Angeles Clippers;6753;Ryan Anderson;3279;New Orleans Pelicans;;;5;1264.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483604;1800700;Match end;;;;;;;;;;;5;1304.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+20598893;100200;Game stop;;;;;;;;;;;1;1200.000;;;;;;;;;;;;;;;;2017-08-23 11:03:54.404213
+20598895;100200;Game stop;;;;;;;;;;;1;1220.000;;;;;;;;;;;;;;;;2017-08-23 11:03:54.404213
+20598896;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;1223.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+20598897;100200;Game stop;;;;;;;;;;;3;204.000;;;;;;;;;;;;;;;;2017-08-23 11:03:54.404213
+20598898;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;213.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+20598899;100200;Game stop;;;;;;;;;;;3;365.000;;;;;;;;;;;;;;;;2017-08-23 11:03:54.404213
+20598900;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;379.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+20598901;100200;Game stop;;;;;;;;;;;4;117.000;;;;;;;;;;;;;;;;2017-08-23 11:03:54.404213
+20598902;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;125.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+20598903;100200;Game stop;;;;;;;;;;;4;1010.000;;;;;;;;;;;;;;;;2017-08-23 11:03:54.404213
+20598905;100200;Game stop;;;;;;;;;;;4;1693.000;;;;;;;;;;;;;;;;2017-08-23 11:03:54.404213
+20598907;100200;Game stop;;;;;;;;;;;5;199.000;;;;;;;;;;;;;;;;2017-08-23 11:03:54.404213
+20598908;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;5;211.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482782;1601000;Starting lineup;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482783;1601000;Starting lineup;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482784;1601000;Starting lineup;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482785;1601000;Starting lineup;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482786;1601000;Starting lineup;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482787;1601000;Starting lineup;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482788;1601000;Starting lineup;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482789;1601000;Starting lineup;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482790;1601000;Starting lineup;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482791;1601000;Starting lineup;9128;Alonzo Gee;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482792;1601000;Starting lineup;10309;Brandan Wright;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482799;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482800;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482801;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482802;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482803;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482806;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;18.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482807;800202;2-;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;38.000;;;;;;;;;;;;Jumper;;Spin move;;2017-08-02 18:04:02.81402
+19482808;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;40.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482809;400101;Accurate pass;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;77.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482810;800201;2+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;77.000;;;;;;;;;;;;Dunk;;;;2017-08-02 18:04:02.81402
+19482813;100400;Steal;8393;Dante Cunningham;3279;New Orleans Pelicans;176;Paul Pierce;13;Los Angeles Clippers;;;1;126.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482814;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;131.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19482818;300100;Foul;7719;Eric Gordon;3279;New Orleans Pelicans;9150;JJ Redick;13;Los Angeles Clippers;;;1;142.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482821;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;184.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482822;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;1;198.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482823;800301;3+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;198.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482825;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;211.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482826;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;225.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482829;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;251.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482834;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;273.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482835;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;1;286.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482836;800201;2+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;286.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482838;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;305.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482839;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;321.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482842;800202;2-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;359.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19482845;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;370.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482846;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;1;379.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482847;800301;3+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;379.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482849;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;399.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482850;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;1;407.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482853;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;9150;JJ Redick;13;Los Angeles Clippers;;;1;410.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482856;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;1;465.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482857;800301;3+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;465.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482860;300100;Foul;6753;Ryan Anderson;3279;New Orleans Pelicans;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;482.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482865;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;668.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482866;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;1;670.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482867;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;1;679.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482873;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;743.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482876;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;1;756.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482878;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;1;790.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482890;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;854.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482894;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;1;893.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482896;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;905.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482897;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;919.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482898;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;920.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482899;400101;Accurate pass;7070;Norris Cole;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;1;927.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482900;800201;2+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;927.000;;;;;;;;;;;;Dunk;;;;2017-08-02 18:04:02.81402
+19482901;100400;Steal;7719;Eric Gordon;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;947.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482902;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;955.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482905;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;1;968.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482908;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;1;992.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482909;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;1;1136.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482912;100500;Turnover;;;3279;New Orleans Pelicans;;;;;;;1;1144.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482914;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;1174.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482915;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;1;1187.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482916;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;1;1187.000;;;;;;;;;;;;Hook;;;;2017-08-02 18:04:02.81402
+19482918;100500;Turnover;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1220.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482922;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;1;1252.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482923;800600;2F;8399;Jrue Holiday;3279;New Orleans Pelicans;7660;Cole Aldrich;13;Los Angeles Clippers;;;1;1264.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482926;800102;1-;8399;Jrue Holiday;3279;New Orleans Pelicans;7660;Cole Aldrich;13;Los Angeles Clippers;;;1;1282.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482927;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;1;1282.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482928;1600500;Guard;10309;Brandan Wright;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;1;1291.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482929;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;7660;Cole Aldrich;13;Los Angeles Clippers;;;1;1293.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482931;100400;Steal;8399;Jrue Holiday;3279;New Orleans Pelicans;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;1311.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482932;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1318.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482935;100300;Rebound;10309;Brandan Wright;3279;New Orleans Pelicans;;;;;;;1;1332.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482936;800302;3-;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;1;1346.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482938;100400;Steal;8399;Jrue Holiday;3279;New Orleans Pelicans;8964;Pablo Prigioni;13;Los Angeles Clippers;;;1;1358.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482939;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;1;1362.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19482941;100400;Steal;10309;Brandan Wright;3279;New Orleans Pelicans;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;1377.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482942;800201;2+;10309;Brandan Wright;3279;New Orleans Pelicans;;;;;;;1;1380.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19482944;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;1;1405.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482952;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482953;1600500;Guard;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482954;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482955;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482956;1600500;Guard;10309;Brandan Wright;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482957;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482958;800600;2F;8403;Alexis Ajinca;3279;New Orleans Pelicans;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;14.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482961;800101;1+;8403;Alexis Ajinca;3279;New Orleans Pelicans;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;27.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482962;800101;1+;8403;Alexis Ajinca;3279;New Orleans Pelicans;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;40.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482970;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;80.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482972;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;94.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482973;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;105.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482975;100300;Rebound;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;121.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482976;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;130.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482979;800302;3-;8333;Luke Babbitt;3279;New Orleans Pelicans;;;;;;;2;157.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19482982;800400;2+1;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;187.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19482986;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;217.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482989;300100;Foul;10309;Brandan Wright;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;2;228.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482993;300100;Foul;8333;Luke Babbitt;3279;New Orleans Pelicans;180;Jamal Crawford;13;Los Angeles Clippers;;;2;264.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19482995;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;292.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19482996;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;306.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483002;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;336.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483003;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;344.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483004;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;2;345.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483005;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;353.000;;;;;;;;;;;;Floater;;;;2017-08-02 18:04:02.81402
+19483008;800302;3-;10309;Brandan Wright;3279;New Orleans Pelicans;;;;;;;2;380.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483012;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;2;405.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483013;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;8333;Luke Babbitt;3279;New Orleans Pelicans;;;2;550.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483014;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;10309;Brandan Wright;3279;New Orleans Pelicans;;;2;550.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483015;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;2;550.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483016;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;2;550.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483017;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;553.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483018;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;2;564.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483023;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;580.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483027;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;640.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483029;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;657.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483032;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;687.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483033;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;695.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483039;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;2;756.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483042;800102;1-;9049;Tyreke Evans;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;2;781.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483047;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;2;846.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483050;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;869.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483051;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;871.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483052;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;872.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483058;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1053.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483062;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1098.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483063;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1099.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483064;800202;2-;7719;Eric Gordon;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1111.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483066;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;1114.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483067;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1125.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483068;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1131.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483073;300100;Foul;7719;Eric Gordon;3279;New Orleans Pelicans;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;2;1141.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483074;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;2;1168.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483076;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1174.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483077;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1175.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483078;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1183.000;;;;;;;;;;;;Floater;;;;2017-08-02 18:04:02.81402
+19483079;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1186.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483082;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;180;Jamal Crawford;13;Los Angeles Clippers;;;2;1220.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483084;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;180;Jamal Crawford;13;Los Angeles Clippers;;;2;1240.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483087;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;1271.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483088;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;2;1281.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483089;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1281.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483091;800600;2F;9049;Tyreke Evans;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;2;1311.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483095;800102;1-;9049;Tyreke Evans;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;2;1462.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483096;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;1462.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483097;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;2;1471.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483100;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1507.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483101;800302;3-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;2;1513.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483105;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1535.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483106;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1537.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483107;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;2;1541.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483108;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;2;1543.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483109;800600;2F;8395;Omer Faruk Asik;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1546.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483112;800102;1-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1557.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483113;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;2;1557.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483114;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1590.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483117;300100;Foul;8395;Omer Faruk Asik;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;2;1623.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483119;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;1657.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483123;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1708.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483124;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1717.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483127;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;2;1735.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483130;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;2;1773.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483131;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;2;1774.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483132;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1788.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483135;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;2;1797.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483138;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;2;1835.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483139;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;2;1843.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483142;1600500;Guard;10309;Brandan Wright;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;2;1854.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483143;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;2;1857.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483146;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;2;1893.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483147;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;2;1903.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483157;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483158;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483159;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483160;1600500;Guard;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483161;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483162;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;0.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483163;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;6753;Ryan Anderson;3;9.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483164;800301;3+;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;9.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483166;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;33.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483167;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;51.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483170;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;72.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483171;800202;2-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;3;90.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483173;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;3;94.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483174;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;96.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483175;400101;Accurate pass;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;7719;Eric Gordon;3;104.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483176;800201;2+;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;104.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483179;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;8395;Omer Faruk Asik;3;146.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483180;800201;2+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;146.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483186;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;196.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483187;100500;Turnover;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;204.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483189;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;231.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483190;800302;3-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;240.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483194;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;9150;JJ Redick;13;Los Angeles Clippers;;;3;251.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483198;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;324.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483199;800202;2-;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;3;340.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483202;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;357.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483203;100500;Turnover;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;365.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483205;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;411.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483208;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;425.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483209;800202;2-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;440.000;;;;;;;;;;;;Hook;;;;2017-08-02 18:04:02.81402
+19483210;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;441.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483211;800201;2+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;442.000;;;;;;;;;;;;Dunk;;;;2017-08-02 18:04:02.81402
+19483216;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;480.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483221;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;3;509.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483223;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;3;662.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483224;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;653.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483225;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;670.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483228;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;682.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483229;800600;2F;8395;Omer Faruk Asik;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;3;694.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483232;800101;1+;8395;Omer Faruk Asik;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;3;701.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483233;800102;1-;8395;Omer Faruk Asik;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;3;724.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483238;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;769.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483241;800301;3+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;797.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483245;800101;1+;6753;Ryan Anderson;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;859.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483247;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;877.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483251;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;3;904.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483252;800301;3+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;3;904.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483258;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;968.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483259;100300;Rebound;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;969.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483260;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;3;970.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483261;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;971.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483262;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;3;972.000;;;;;;;;;;;;Tip in;;;;2017-08-02 18:04:02.81402
+19483264;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;3;978.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483267;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;9049;Tyreke Evans;3279;New Orleans Pelicans;;;3;1133.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483268;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;3;1133.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483269;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1142.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483271;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;3;1155.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483272;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1226.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483273;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1233.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483276;100300;Rebound;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;;;;;3;1257.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483277;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;7070;Norris Cole;3;1272.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483278;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;1272.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483283;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1322.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483287;300100;Foul;7070;Norris Cole;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1342.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483288;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;8395;Omer Faruk Asik;3279;New Orleans Pelicans;;;3;1354.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483291;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;3;1377.900;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483292;800201;2+;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;3;1402.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483293;100400;Steal;8399;Jrue Holiday;3279;New Orleans Pelicans;180;Jamal Crawford;13;Los Angeles Clippers;;;3;1416.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483294;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;3;1420.000;;;;;;;;;;;;Dunk;;;;2017-08-02 18:04:02.81402
+19483302;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483303;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483304;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483305;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483306;1600500;Guard;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483309;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;16.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483310;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;25.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483315;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;53.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483316;800202;2-;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;56.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483321;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;180;Jamal Crawford;13;Los Angeles Clippers;;;4;64.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483323;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;108.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483324;100500;Turnover;7070;Norris Cole;3279;New Orleans Pelicans;;;;;;;4;117.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483327;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;4;158.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483328;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;159.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483329;400101;Accurate pass;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;174.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483330;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;174.000;;;;;;;;;;Cut;;Lay up;;;;2017-08-02 18:04:02.81402
+19483335;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;219.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483336;800202;2-;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;230.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483339;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;247.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483340;800302;3-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;254.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483342;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;4;283.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483343;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;283.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483344;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;320.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483345;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;329.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483346;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;330.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483347;800201;2+;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;331.000;;;;;;;;;;;;Dunk;;;;2017-08-02 18:04:02.81402
+19483349;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;350.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483353;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;509.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483354;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;8403;Alexis Ajinca;4;518.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483355;800400;2+1;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;518.000;;;;;;;;;;;;Jumper;;Spin move;;2017-08-02 18:04:02.81402
+19483358;800101;1+;8403;Alexis Ajinca;3279;New Orleans Pelicans;180;Jamal Crawford;13;Los Angeles Clippers;;;4;534.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483361;100300;Rebound;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;;;4;561.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483362;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;574.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483363;100400;Steal;9049;Tyreke Evans;3279;New Orleans Pelicans;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;590.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483364;100500;Turnover;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;596.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483370;400101;Accurate pass;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;642.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483371;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;642.000;;;;;;;;;;;;Dunk;;;;2017-08-02 18:04:02.81402
+19483372;100400;Steal;7719;Eric Gordon;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;4;654.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483373;400101;Accurate pass;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;9049;Tyreke Evans;4;659.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483374;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;659.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483381;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;856.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483384;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;884.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483385;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;886.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483387;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;8403;Alexis Ajinca;3279;New Orleans Pelicans;;;4;908.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483388;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;920.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483391;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;950.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483392;800302;3-;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;961.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483395;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;981.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483396;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;988.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483397;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;988.000;;;;;;;;;;;;Dunk;;;;2017-08-02 18:04:02.81402
+19483399;800202;2-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1037.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483401;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;4;1039.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483402;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1073.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483403;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;1084.000;;;;;;;;;;;;Floater;;;;2017-08-02 18:04:02.81402
+19483406;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1101.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483410;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1151.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483411;400101;Accurate pass;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;8399;Jrue Holiday;4;1168.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483412;800301;3+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;1168.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483418;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1190.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483422;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1266.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483423;800201;2+;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1287.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483425;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;1306.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483426;800302;3-;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;4;1320.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483429;100300;Rebound;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;4;1333.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483430;800302;3-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;1349.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483433;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;1355.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483438;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1526.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483444;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;4;1578.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483445;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1578.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483446;800302;3-;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;1594.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483457;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1806.900;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483458;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;1823.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483466;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;1968.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483468;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;4;1978.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483471;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;2057.400;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483472;800302;3-;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;4;2069.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483475;300100;Foul;8399;Jrue Holiday;3279;New Orleans Pelicans;9150;JJ Redick;13;Los Angeles Clippers;;;4;2074.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483478;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;2126.900;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483479;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;4;2128.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483482;1600500;Guard;8333;Luke Babbitt;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;4;2158.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483483;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;2174.600;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483484;800700;3F;8399;Jrue Holiday;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;4;2177.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483487;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;4;2195.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483488;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;4;2205.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483489;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;1804;Austin Rivers;13;Los Angeles Clippers;;;4;2217.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483493;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;8333;Luke Babbitt;3279;New Orleans Pelicans;;;4;2303.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483494;1600500;Guard;9128;Alonzo Gee;3279;New Orleans Pelicans;6753;Ryan Anderson;3279;New Orleans Pelicans;;;4;2303.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483505;1600500;Guard;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483506;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483507;1600500;Guard;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483508;1600500;Guard;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483509;1600500;Guard;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;;;5;0.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483518;300100;Foul;9049;Tyreke Evans;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;5;63.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483520;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;88.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483521;100300;Rebound;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;5;89.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483522;400101;Accurate pass;9049;Tyreke Evans;3279;New Orleans Pelicans;;;;;8393;Dante Cunningham;5;111.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483523;800301;3+;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;5;111.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483527;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;187.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483528;100500;Turnover;7719;Eric Gordon;3279;New Orleans Pelicans;;;;;;;5;199.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483531;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;5;240.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483532;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;391.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483533;800201;2+;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;5;403.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483536;800302;3-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;5;439.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483538;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;5;445.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483539;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;455.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483540;800202;2-;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;5;466.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483541;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;5;468.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483542;800302;3-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;5;478.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483543;100300;Rebound;8393;Dante Cunningham;3279;New Orleans Pelicans;;;;;;;5;479.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483544;800202;2-;8393;Dante Cunningham;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;5;481.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483548;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;5;511.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483551;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;670.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483552;800600;2F;8399;Jrue Holiday;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;5;677.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483555;800102;1-;8399;Jrue Holiday;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;5;684.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483556;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;5;684.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483559;800101;1+;8399;Jrue Holiday;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;5;717.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483560;300100;Foul;6753;Ryan Anderson;3279;New Orleans Pelicans;177;DeAndre Jordan;13;Los Angeles Clippers;;;5;734.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483563;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;5;826.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483566;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;180;Jamal Crawford;13;Los Angeles Clippers;;;5;847.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483568;1600500;Guard;7070;Norris Cole;3279;New Orleans Pelicans;7719;Eric Gordon;3279;New Orleans Pelicans;;;5;876.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483569;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;180;Jamal Crawford;13;Los Angeles Clippers;;;5;879.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483570;300100;Foul;8393;Dante Cunningham;3279;New Orleans Pelicans;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;5;929.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483575;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;967.500;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483576;800202;2-;8399;Jrue Holiday;3279;New Orleans Pelicans;;;;;;;5;981.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483577;100300;Rebound;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;5;982.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483578;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;5;983.000;;;;;;;;;;;;Lay up;;;;2017-08-02 18:04:02.81402
+19483581;300100;Foul;6753;Ryan Anderson;3279;New Orleans Pelicans;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;5;991.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483585;1800600;Timeout;;;3279;New Orleans Pelicans;;;;;;;5;1035.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483586;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;1125.100;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483589;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;5;1162.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483592;800101;1+;9049;Tyreke Evans;3279;New Orleans Pelicans;179;Chris Paul;13;Los Angeles Clippers;;;5;1185.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483593;300100;Foul;6753;Ryan Anderson;3279;New Orleans Pelicans;7503;Wesley Johnson;13;Los Angeles Clippers;;;5;1203.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483596;1600500;Guard;8333;Luke Babbitt;3279;New Orleans Pelicans;8393;Dante Cunningham;3279;New Orleans Pelicans;;;5;1245.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483597;1600500;Guard;7719;Eric Gordon;3279;New Orleans Pelicans;7070;Norris Cole;3279;New Orleans Pelicans;;;5;1247.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+19483601;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;5;1284.900;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+19483602;800202;2-;6753;Ryan Anderson;3279;New Orleans Pelicans;;;;;;;5;1294.000;;;;;;;;;;;;Jumper;;;;2017-08-02 18:04:02.81402
+19483603;100300;Rebound;;;3279;New Orleans Pelicans;;;;;;;5;1302.000;;;;;;;;;;;;;;;;2017-08-02 18:04:02.81402
+20598894;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;1;1210.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+20598904;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1020.000;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206
+20598906;100100;Ball in play;;;3279;New Orleans Pelicans;;;;;;;4;1805.900;;;;;;;;;;;;;;;;2019-10-24 13:51:00.212206

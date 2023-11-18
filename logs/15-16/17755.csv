@@ -1,0 +1,861 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76408995;1601000;Starting lineup;171;Jonas Jerebko;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76408996;1601000;Starting lineup;165;Avery Bradley;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76408997;1601000;Starting lineup;162;Jae Crowder;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76408998;1601000;Starting lineup;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76408999;1601000;Starting lineup;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409000;1601000;Starting lineup;163;Amir Johnson;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409001;1601000;Starting lineup;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409002;1601000;Starting lineup;7504;Evan Turner;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409003;1601000;Starting lineup;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409004;1601000;Starting lineup;174;Tyler Zeller;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409005;1601000;Starting lineup;97676;RJ Hunter;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409006;1601000;Starting lineup;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409007;1601000;Starting lineup;13708;Early Cleanthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409008;1601000;Starting lineup;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409009;1601000;Starting lineup;6036;Lance Thomas;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409010;1601000;Starting lineup;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409011;1601000;Starting lineup;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409012;1601000;Starting lineup;369815;Langston Galloway;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409013;1601000;Starting lineup;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409014;1601000;Starting lineup;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409015;1601000;Starting lineup;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409016;1601000;Starting lineup;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409017;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409018;1600500;Guard;162;Jae Crowder;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409019;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409020;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409021;1600500;Guard;165;Avery Bradley;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409022;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409023;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409024;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409025;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409026;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409027;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409028;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;41.494;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409029;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;59.494;21.98;10.68;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:36:00.518884
+76409030;100300;Rebound;165;Avery Bradley;8;Boston Celtics;;;;;;;1;59.494;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409031;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;1;72.749;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409032;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;1;72.749;19.94;5.94;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409033;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;93.182;26.12;12.42;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409034;100200;Game stop;;;;;;;;;;;1;93.182;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409035;100300;Rebound;;;8;Boston Celtics;;;;;;;1;93.182;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409036;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;104.868;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409037;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;116.868;19.73;6.48;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409038;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;116.868;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409039;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;132.778;25.82;4.11;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 04:36:00.518884
+76409040;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;132.778;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409041;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;132.778;26.99;7.35;;;;;;;;Putbacks;;;;;;2017-12-07 04:36:00.518884
+76409042;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;150.523;22.88;11.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409043;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;150.523;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409044;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;166.258;23.03;2.94;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409045;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;166.258;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409046;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;;;1;176.985;22.52;3.12;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409047;800302;3-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;191.546;19.28;5.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409048;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;191.546;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409049;100400;Steal;6028;Kristaps Porzingis;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;1;201.030;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409050;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;206.458;26.96;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:36:00.518884
+76409051;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;1;206.458;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409052;800202;2-;162;Jae Crowder;8;Boston Celtics;;;;;;;1;214.852;24.74;14.07;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409053;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;214.852;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409054;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;222.448;26.99;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:36:00.518884
+76409055;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;165;Avery Bradley;1;235.684;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409056;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;235.684;21.83;10.29;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409057;400101;Accurate pass;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;6028;Kristaps Porzingis;1;250.090;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409058;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;250.090;26.96;7.17;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:36:00.518884
+76409059;200300;Pick'n'Roll;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;1;263.624;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:36:00.518884
+76409060;800302;3-;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;1;263.624;23.33;14.22;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:36:00.518884
+76409061;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;263.624;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409062;200300;Pick'n'Roll;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;276.139;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:36:00.518884
+76409063;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;1;276.139;22.43;7.50;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:36:00.518884
+76409064;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;276.139;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409065;200300;Pick'n'Roll;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;283.701;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409066;800600;2F;6030;Robin Lopez;3173;New York Knicks;164;Jared Sullinger;8;Boston Celtics;;;1;283.701;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 04:36:00.518884
+76409067;100200;Game stop;;;;;;;;;;;1;283.701;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409068;300100;Foul;164;Jared Sullinger;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;;;1;283.701;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409069;800101;1+;6030;Robin Lopez;3173;New York Knicks;164;Jared Sullinger;8;Boston Celtics;;;1;305.653;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409070;800101;1+;6030;Robin Lopez;3173;New York Knicks;164;Jared Sullinger;8;Boston Celtics;;;1;318.317;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409071;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;321.942;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409072;800202;2-;164;Jared Sullinger;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;1;341.942;26.84;6.96;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 04:36:00.518884
+76409073;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;341.942;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409074;100200;Game stop;;;;;;;;;;;1;355.146;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409075;300100;Foul;166;Isaiah Thomas;8;Boston Celtics;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;355.146;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409076;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;1;355.146;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409077;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;355.146;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409078;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;390.756;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409079;200600;Post;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;403.756;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409080;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;403.756;25.04;9.18;;;;;;;;Post;;Jumper;;;;2017-12-07 04:36:00.518884
+76409081;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;413.193;26.96;2.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409082;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;435.394;24.20;3.72;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409083;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;1;435.394;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409084;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;1;445.809;25.37;13.20;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409085;100200;Game stop;;;;;;;;;;;1;445.809;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409086;100300;Rebound;;;3173;New York Knicks;;;;;;;1;445.809;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409087;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;463.058;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409088;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;480.058;26.99;11.34;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409089;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;480.058;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409090;100200;Game stop;;;;;;;;;;;1;492.010;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409091;1800600;Timeout;;;3173;New York Knicks;;;;;;;1;492.010;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409092;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;1;492.010;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409093;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;510.048;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409094;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;527.048;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409095;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;527.048;26.81;6.87;;;;;;;;Post;;Lay up;;;;2017-12-07 04:36:00.518884
+76409096;100200;Game stop;;;;;;;;;;;1;527.048;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409097;100300;Rebound;;;8;Boston Celtics;;;;;;;1;527.048;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409098;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;537.979;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409099;800202;2-;164;Jared Sullinger;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;1;551.979;26.84;7.26;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:36:00.518884
+76409100;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;551.979;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409101;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;557.436;26.84;6.81;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 04:36:00.518884
+76409102;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;572.111;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409103;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;572.111;25.64;7.68;;;;;;;;Post;;Hook;;;;2017-12-07 04:36:00.518884
+76409104;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;1;572.111;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409105;800600;2F;166;Isaiah Thomas;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;1;581.036;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 04:36:00.518884
+76409106;100200;Game stop;;;;;;;;;;;1;581.036;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409107;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;1;581.036;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409108;800102;1-;166;Isaiah Thomas;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;1;607.259;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409109;100300;Rebound;;;8;Boston Celtics;;;;;;;1;607.259;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409110;800101;1+;166;Isaiah Thomas;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;1;622.853;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409111;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;627.312;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409112;800202;2-;7493;Arron Afflalo;3173;New York Knicks;165;Avery Bradley;8;Boston Celtics;;;1;641.312;25.52;6.63;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409113;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;641.312;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409114;400101;Accurate pass;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;165;Avery Bradley;1;653.504;;;;;;;;;;Hand offs;;;;;;2017-12-07 04:36:00.518884
+76409115;800201;2+;165;Avery Bradley;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;1;653.504;26.81;7.35;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 04:36:00.518884
+76409116;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;1;673.543;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 04:36:00.518884
+76409117;100200;Game stop;;;;;;;;;;;1;673.543;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409118;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;1;673.543;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409119;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;1;693.765;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409120;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;1;706.804;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409121;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;715.367;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409122;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;1;724.367;22.73;8.82;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409123;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;1;724.367;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409124;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;733.173;26.99;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:36:00.518884
+76409125;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;733.173;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409126;800400;2+1;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;733.173;27.05;7.68;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:36:00.518884
+76409127;100200;Game stop;;;;;;;;;;;1;733.173;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409128;300100;Foul;162;Jae Crowder;8;Boston Celtics;6029;Carmelo Anthony;3173;New York Knicks;;;1;733.173;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409129;1600500;Guard;6031;Kyle O'Quinn;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;1;733.173;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409130;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;1;733.173;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409131;1600500;Guard;7504;Evan Turner;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;1;733.173;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409132;800102;1-;6029;Carmelo Anthony;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;1;774.330;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409133;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;1;774.330;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409134;100100;Ball in play;;;8;Boston Celtics;;;;;;;1;774.453;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409135;800202;2-;162;Jae Crowder;8;Boston Celtics;;;;;;;1;789.453;25.52;8.73;;;;;;;;Hand offs;;;;;;2017-12-07 04:36:00.518884
+76409136;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;789.453;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409137;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;804.355;24.35;11.91;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409138;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;806.254;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409139;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;806.254;27.08;7.62;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 04:36:00.518884
+76409140;100200;Game stop;;;;;;;;;;;1;822.105;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409141;300100;Foul;164;Jared Sullinger;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;1;822.105;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409142;100500;Turnover;164;Jared Sullinger;8;Boston Celtics;;;;;;;1;822.105;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409143;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;1;822.105;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409144;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;862.893;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409145;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;887.893;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409146;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;887.893;26.21;11.58;;;;;;;;Post;;Jumper;;;;2017-12-07 04:36:00.518884
+76409147;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;887.893;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409148;800600;2F;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;1;899.219;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 04:36:00.518884
+76409149;100200;Game stop;;;;;;;;;;;1;899.219;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409150;300100;Foul;8329;Derrick Williams;3173;New York Knicks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;1;899.219;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409151;1800600;Timeout;;;8;Boston Celtics;;;;;;;1;899.219;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409152;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;1;899.219;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409153;1600500;Guard;174;Tyler Zeller;8;Boston Celtics;165;Avery Bradley;8;Boston Celtics;;;1;899.219;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409154;800101;1+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;1;928.629;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409155;800101;1+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;1;940.137;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409156;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;944.251;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409157;800302;3-;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;965.251;19.64;7.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409158;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;965.251;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409159;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;1;978.911;21.98;9.27;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409160;100200;Game stop;;;;;;;;;;;1;978.911;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409161;100300;Rebound;;;3173;New York Knicks;;;;;;;1;978.911;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409162;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;1;978.911;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409163;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;997.686;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409164;400101;Accurate pass;6031;Kyle O'Quinn;3173;New York Knicks;;;;;369815;Langston Galloway;1;1013.686;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409165;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;6031;Kyle O'Quinn;1;1013.686;26.99;7.44;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:36:00.518884
+76409166;800400;2+1;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;1022.803;25.67;9.06;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 04:36:00.518884
+76409167;100200;Game stop;;;;;;;;;;;1;1022.803;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409168;300100;Foul;369815;Langston Galloway;3173;New York Knicks;1866;Marcus Smart;8;Boston Celtics;;;1;1022.803;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409169;1600500;Guard;6034;Sasha Vujacic;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;1;1022.803;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409170;1600500;Guard;97676;RJ Hunter;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;1;1022.803;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409171;800101;1+;1866;Marcus Smart;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;1;1049.255;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409172;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;1050.410;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409173;200600;Post;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;1070.410;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409174;800202;2-;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;1;1070.410;25.52;5.88;;;;;;;;Post;;Hook;;;;2017-12-07 04:36:00.518884
+76409175;100300;Rebound;97676;RJ Hunter;8;Boston Celtics;;;;;;;1;1070.410;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409176;800202;2-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;1077.921;26.84;7.05;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:36:00.518884
+76409177;100300;Rebound;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;1;1077.921;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409178;100400;Steal;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6031;Kyle O'Quinn;3173;New York Knicks;;;1;1085.519;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409179;800302;3-;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;1093.985;26.36;0.66;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409180;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;1093.985;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409181;800302;3-;97676;RJ Hunter;8;Boston Celtics;;;;;;;1;1098.522;19.49;8.22;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409182;100200;Game stop;;;;;;;;;;;1;1098.522;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409183;100300;Rebound;;;3173;New York Knicks;;;;;;;1;1098.522;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409184;100100;Ball in play;;;3173;New York Knicks;;;;;;;1;1116.504;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409185;100400;Steal;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6034;Sasha Vujacic;3173;New York Knicks;;;1;1132.604;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409186;800202;2-;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;1144.013;23.42;10.44;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409187;100300;Rebound;174;Tyler Zeller;8;Boston Celtics;;;;;;;1;1144.013;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409188;800202;2-;174;Tyler Zeller;8;Boston Celtics;;;;;;;1;1144.013;25.97;9.42;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 04:36:00.518884
+76409189;800202;2-;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;1144.013;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:36:00.518884
+76409190;100300;Rebound;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;1144.013;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409191;100300;Rebound;97676;RJ Hunter;8;Boston Celtics;;;;;;;1;1147.301;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409192;800202;2-;97676;RJ Hunter;8;Boston Celtics;;;;;;;1;1147.301;27.38;7.05;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 04:36:00.518884
+76409193;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;1;1147.301;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409194;200300;Pick'n'Roll;8329;Derrick Williams;3173;New York Knicks;;;;;369815;Langston Galloway;1;1162.563;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409195;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;369815;Langston Galloway;1;1162.563;19.88;7.35;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 04:36:00.518884
+76409196;100300;Rebound;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;1162.563;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409197;400101;Accurate pass;1866;Marcus Smart;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;1;1167.551;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409198;800301;3+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;1866;Marcus Smart;1;1167.551;20.90;12.30;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409199;200300;Pick'n'Roll;6031;Kyle O'Quinn;3173;New York Knicks;;;;;369815;Langston Galloway;1;1188.217;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:36:00.518884
+76409200;800302;3-;6031;Kyle O'Quinn;3173;New York Knicks;;;;;369815;Langston Galloway;1;1188.217;20.18;10.89;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:36:00.518884
+76409201;100300;Rebound;;;3173;New York Knicks;;;;;;;1;1188.217;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409202;1800500;Halftime;;;;;;;;;;;1;1188.217;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409203;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409204;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409205;1600500;Guard;174;Tyler Zeller;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409206;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409207;1600500;Guard;7504;Evan Turner;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409208;1600500;Guard;97676;RJ Hunter;8;Boston Celtics;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409209;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409210;1600500;Guard;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409211;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409212;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409213;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409214;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;2.662;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409215;200600;Post;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;20.662;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409216;800202;2-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;2;20.662;26.57;7.89;;;;;;;;Post;;Lay up;;;;2017-12-07 04:36:00.518884
+76409217;100300;Rebound;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;2;20.662;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409218;100200;Game stop;;;;;;;;;;;2;29.886;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409219;300100;Foul;1866;Marcus Smart;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;2;29.886;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409220;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;53.767;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409221;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;66.767;27.05;6.81;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 04:36:00.518884
+76409222;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;66.767;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409223;100400;Steal;8329;Derrick Williams;3173;New York Knicks;7504;Evan Turner;8;Boston Celtics;;;2;79.074;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409224;100200;Game stop;;;;;;;;;;;2;79.074;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409225;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;2;79.074;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409226;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;92.307;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409227;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;111.307;26.99;7.32;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 04:36:00.518884
+76409228;800202;2-;174;Tyler Zeller;8;Boston Celtics;;;;;;;2;125.919;26.99;13.05;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:36:00.518884
+76409229;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;125.919;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409230;800302;3-;6036;Lance Thomas;3173;New York Knicks;;;;;6034;Sasha Vujacic;2;146.248;21.83;2.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409231;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;146.248;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409232;100200;Game stop;;;;;;;;;;;2;154.041;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409233;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;174;Tyler Zeller;8;Boston Celtics;;;2;154.041;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409234;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;174;Tyler Zeller;8;Boston Celtics;;;2;154.041;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409235;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;2;154.041;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409236;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;182.674;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409237;800202;2-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;198.674;25.37;1.80;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 04:36:00.518884
+76409238;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;2;198.674;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409239;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6036;Lance Thomas;2;211.913;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409240;800201;2+;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;2;211.913;26.84;7.20;;;;;;;;Screen off;;Lay up;;;;2017-12-07 04:36:00.518884
+76409241;800600;2F;97676;RJ Hunter;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;2;231.680;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 04:36:00.518884
+76409242;100200;Game stop;;;;;;;;;;;2;231.680;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409243;300100;Foul;8329;Derrick Williams;3173;New York Knicks;97676;RJ Hunter;8;Boston Celtics;;;2;231.680;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409244;800102;1-;97676;RJ Hunter;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;2;256.582;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409245;100300;Rebound;;;8;Boston Celtics;;;;;;;2;256.582;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409246;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;1866;Marcus Smart;8;Boston Celtics;;;2;256.582;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409247;800101;1+;97676;RJ Hunter;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;2;274.476;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409248;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;276.572;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409249;800202;2-;6036;Lance Thomas;3173;New York Knicks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;284.572;26.57;8.82;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 04:36:00.518884
+76409250;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;2;284.572;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409251;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;;;2;292.520;23.03;9.18;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:36:00.518884
+76409252;800202;2-;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;311.137;22.73;3.78;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409253;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;311.137;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409254;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;311.137;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:36:00.518884
+76409255;400101;Accurate pass;171;Jonas Jerebko;8;Boston Celtics;;;;;7504;Evan Turner;2;332.159;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409256;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;166;Isaiah Thomas;2;332.159;26.96;7.26;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:36:00.518884
+76409257;100200;Game stop;;;;;;;;;;;2;353.944;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409258;100500;Turnover;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;353.944;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409259;1800600;Timeout;;;;;;;;;;;2;353.944;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409260;1600500;Guard;163;Amir Johnson;8;Boston Celtics;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;2;353.944;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409261;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;2;353.944;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409262;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;2;353.944;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409263;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;6034;Sasha Vujacic;3173;New York Knicks;;;2;353.944;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409264;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;368.650;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409265;800202;2-;163;Amir Johnson;8;Boston Celtics;;;;;;;2;382.650;25.91;7.83;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 04:36:00.518884
+76409266;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;382.650;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409267;100200;Game stop;;;;;;;;;;;2;395.280;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409268;300100;Foul;163;Amir Johnson;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;;;2;395.280;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409269;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;410.310;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409270;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;424.310;20.81;9.42;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 04:36:00.518884
+76409271;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;424.310;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409272;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;;;2;438.606;27.08;7.68;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 04:36:00.518884
+76409273;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;454.715;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409274;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;454.715;26.99;7.98;;;;;;;;Post;;Lay up;;;;2017-12-07 04:36:00.518884
+76409275;800202;2-;163;Amir Johnson;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;166;Isaiah Thomas;2;467.208;26.72;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:36:00.518884
+76409276;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;467.208;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409277;800600;2F;8329;Derrick Williams;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;2;473.396;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:36:00.518884
+76409278;100200;Game stop;;;;;;;;;;;2;473.396;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409279;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;2;473.396;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409280;800101;1+;8329;Derrick Williams;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;2;497.926;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409281;1600500;Guard;162;Jae Crowder;8;Boston Celtics;97676;RJ Hunter;8;Boston Celtics;;;2;497.926;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409282;800102;1-;8329;Derrick Williams;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;2;517.356;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409283;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;2;517.356;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409284;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;518.651;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409285;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;534.651;25.82;7.95;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409286;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;2;534.651;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409287;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;;;2;534.651;26.99;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:36:00.518884
+76409288;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;552.105;23.42;7.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409289;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;552.105;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409290;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;2;560.812;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409291;800301;3+;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;2;560.812;24.20;14.43;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409292;100200;Game stop;;;;;;;;;;;2;575.872;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409293;1800600;Timeout;;;3173;New York Knicks;;;;;;;2;575.872;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409294;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;8329;Derrick Williams;3173;New York Knicks;;;2;575.872;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409295;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;589.559;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409296;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;163;Amir Johnson;8;Boston Celtics;;;2;602.559;27.02;7.62;;;;;;;;Isolation;;Dunk;Drives Left;;;2017-12-07 04:36:00.518884
+76409297;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;2;602.559;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409298;100400;Steal;6028;Kristaps Porzingis;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;2;616.187;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409299;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;624.234;27.05;2.31;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409300;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;2;624.234;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409301;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;639.727;22.58;13.29;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409302;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;2;639.727;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409303;400101;Accurate pass;162;Jae Crowder;8;Boston Celtics;;;;;171;Jonas Jerebko;2;642.982;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409304;800400;2+1;171;Jonas Jerebko;8;Boston Celtics;;;;;162;Jae Crowder;2;642.982;26.99;7.74;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:36:00.518884
+76409305;100200;Game stop;;;;;;;;;;;2;642.982;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409306;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;2;642.982;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409307;800102;1-;171;Jonas Jerebko;8;Boston Celtics;6029;Carmelo Anthony;3173;New York Knicks;;;2;665.967;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409308;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;665.967;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409309;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;666.781;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409310;200600;Post;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;681.781;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409311;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;681.781;26.42;3.33;;;;;;;;Post;;Jumper;;;;2017-12-07 04:36:00.518884
+76409312;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;681.781;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409313;100400;Steal;163;Amir Johnson;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;2;681.781;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409314;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;;;2;719.886;23.60;3.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409315;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;2;738.487;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 04:36:00.518884
+76409316;100200;Game stop;;;;;;;;;;;2;738.487;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409317;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;2;738.487;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409318;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;2;765.489;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409319;1600500;Guard;165;Avery Bradley;8;Boston Celtics;7504;Evan Turner;8;Boston Celtics;;;2;765.489;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409320;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;2;783.700;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409321;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;787.841;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409322;400101;Accurate pass;171;Jonas Jerebko;8;Boston Celtics;;;;;166;Isaiah Thomas;2;801.841;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409323;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;171;Jonas Jerebko;2;801.841;26.12;9.75;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 04:36:00.518884
+76409324;800202;2-;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;2;818.856;21.26;9.81;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409325;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;818.856;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409326;200300;Pick'n'Roll;171;Jonas Jerebko;8;Boston Celtics;;;;;165;Avery Bradley;2;830.856;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:36:00.518884
+76409327;800202;2-;171;Jonas Jerebko;8;Boston Celtics;;;;;165;Avery Bradley;2;830.856;22.82;13.05;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:36:00.518884
+76409328;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;830.856;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409329;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;2;841.534;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409330;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;841.534;26.99;7.59;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:36:00.518884
+76409331;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;854.891;26.99;7.98;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 04:36:00.518884
+76409332;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;877.342;22.73;3.72;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:36:00.518884
+76409333;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;2;877.342;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409334;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;163;Amir Johnson;2;882.062;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409335;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;2;882.062;26.99;7.56;;;;;;;;Transition;;Dunk;;;;2017-12-07 04:36:00.518884
+76409336;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;909.082;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409337;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;909.082;25.37;2.10;;;;;;;;Post;;Jumper;;;;2017-12-07 04:36:00.518884
+76409338;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;909.082;26.57;7.32;;;;;;;;Putbacks;;;;;;2017-12-07 04:36:00.518884
+76409339;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;909.082;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409340;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;909.082;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409341;800201;2+;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;909.082;27.08;7.26;;;;;;;;Putbacks;;;;;;2017-12-07 04:36:00.518884
+76409342;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;171;Jonas Jerebko;2;923.687;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409343;800301;3+;171;Jonas Jerebko;8;Boston Celtics;;;;;166;Isaiah Thomas;2;923.687;20.09;4.65;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409344;100200;Game stop;;;;;;;;;;;2;923.687;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409345;1800600;Timeout;;;3173;New York Knicks;;;;;;;2;923.687;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409346;1800600;Timeout;;;8;Boston Celtics;;;;;;;2;923.687;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409347;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;2;923.687;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409348;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;934.189;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409349;800201;2+;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;959.189;24.95;13.50;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409350;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;976.105;26.51;9.51;;;;;;;;Hand offs;;Hook;;;;2017-12-07 04:36:00.518884
+76409351;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;976.105;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409352;800400;2+1;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;983.372;27.23;7.11;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:36:00.518884
+76409353;100200;Game stop;;;;;;;;;;;2;983.372;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409354;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;6029;Carmelo Anthony;3173;New York Knicks;;;2;983.372;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409355;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;171;Jonas Jerebko;8;Boston Celtics;;;2;983.372;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409356;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;2;983.372;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409357;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;2;1019.064;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409358;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;1023.843;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409359;800600;2F;162;Jae Crowder;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;;;2;1036.643;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:36:00.518884
+76409360;100200;Game stop;;;;;;;;;;;2;1036.643;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409361;300100;Foul;6030;Robin Lopez;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;2;1036.643;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409362;800101;1+;162;Jae Crowder;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;;;2;1067.248;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409363;800101;1+;162;Jae Crowder;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;;;2;1086.396;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409364;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;1087.917;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409365;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;2;1107.217;26.51;14.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409366;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;2;1107.217;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409367;800600;2F;166;Isaiah Thomas;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;;;2;1114.970;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:36:00.518884
+76409368;100200;Game stop;;;;;;;;;;;2;1114.970;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409369;300100;Foul;6030;Robin Lopez;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;2;1114.970;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409370;800101;1+;166;Isaiah Thomas;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;;;2;1147.424;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409371;800101;1+;166;Isaiah Thomas;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;;;2;1160.895;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409372;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;1165.850;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409373;100200;Game stop;;;;;;;;;;;2;1173.850;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409374;300300;Technical foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;2;1173.850;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409375;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;1200.733;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409376;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;2;1200.733;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409377;100100;Ball in play;;;3173;New York Knicks;;;;;;;2;1220.248;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409378;400101;Accurate pass;6036;Lance Thomas;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;1236.848;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409379;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;6036;Lance Thomas;2;1236.848;27.08;3.48;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:36:00.518884
+76409380;100200;Game stop;;;;;;;;;;;2;1245.867;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409381;1800600;Timeout;;;8;Boston Celtics;;;;;;;2;1245.867;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409382;1600500;Guard;13708;Early Cleanthony;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;2;1245.867;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409383;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;2;1245.867;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409384;1600500;Guard;7504;Evan Turner;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;2;1245.867;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409385;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;1866;Marcus Smart;8;Boston Celtics;;;2;1245.867;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409386;100100;Ball in play;;;8;Boston Celtics;;;;;;;2;1258.328;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409387;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;1262.928;26.72;9.12;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409388;100300;Rebound;6036;Lance Thomas;3173;New York Knicks;;;;;;;2;1262.928;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409389;1800500;Halftime;;;;;;;;;;;2;1263.128;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409390;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409391;1600500;Guard;162;Jae Crowder;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409392;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409393;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409394;1600500;Guard;165;Avery Bradley;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409395;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409396;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409397;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409398;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409399;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409400;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409401;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;5.536;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409402;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;22.536;23.03;7.26;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 04:36:00.518884
+76409403;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;22.536;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409404;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;;;3;31.786;20.96;2.97;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409405;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;31.786;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409406;800201;2+;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;40.595;23.75;10.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409407;400101;Accurate pass;163;Amir Johnson;8;Boston Celtics;;;;;162;Jae Crowder;3;59.642;;;;;;;;;;Hand offs;;;;;;2017-12-07 04:36:00.518884
+76409408;800400;2+1;162;Jae Crowder;8;Boston Celtics;;;;;163;Amir Johnson;3;59.642;22.28;9.99;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409409;100200;Game stop;;;;;;;;;;;3;59.642;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409410;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;3;59.642;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409411;800101;1+;162;Jae Crowder;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;3;91.858;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409412;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;95.222;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409413;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;3;111.222;26.84;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409414;100200;Game stop;;;;;;;;;;;3;111.222;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409415;100300;Rebound;;;8;Boston Celtics;;;;;;;3;111.222;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409416;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;3;111.222;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409417;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;125.083;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409418;800302;3-;165;Avery Bradley;8;Boston Celtics;;;;;;;3;135.083;20.33;10.53;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409419;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;135.083;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409420;100200;Game stop;;;;;;;;;;;3;148.468;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409421;100500;Turnover;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;148.468;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409422;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;152.908;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409423;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;165.908;25.97;3.72;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:36:00.518884
+76409424;100300;Rebound;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;165.908;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409425;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;3;181.911;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 04:36:00.518884
+76409426;100200;Game stop;;;;;;;;;;;3;181.911;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409427;300100;Foul;162;Jae Crowder;8;Boston Celtics;6029;Carmelo Anthony;3173;New York Knicks;;;3;181.911;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409428;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;3;215.544;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409429;800102;1-;6029;Carmelo Anthony;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;3;236.716;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409430;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;236.716;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409431;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;236.716;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409432;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;163;Amir Johnson;8;Boston Celtics;;;3;236.716;27.08;7.74;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 04:36:00.518884
+76409433;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;236.716;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409434;800600;2F;162;Jae Crowder;8;Boston Celtics;7493;Arron Afflalo;3173;New York Knicks;;;3;249.526;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 04:36:00.518884
+76409435;100200;Game stop;;;;;;;;;;;3;249.526;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409436;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;3;249.526;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409437;800102;1-;162;Jae Crowder;8;Boston Celtics;7493;Arron Afflalo;3173;New York Knicks;;;3;276.345;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409438;100300;Rebound;;;8;Boston Celtics;;;;;;;3;276.345;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409439;800102;1-;162;Jae Crowder;8;Boston Celtics;7493;Arron Afflalo;3173;New York Knicks;;;3;290.367;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409440;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;290.367;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409441;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;292.800;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409442;100200;Game stop;;;;;;;;;;;3;304.800;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409443;100500;Turnover;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;304.800;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409444;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;319.332;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409445;100200;Game stop;;;;;;;;;;;3;324.332;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409446;300100;Foul;164;Jared Sullinger;8;Boston Celtics;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;324.332;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409447;100500;Turnover;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;324.332;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409448;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;333.499;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409449;200600;Post;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;349.499;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409450;800202;2-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;349.499;26.57;3.42;;;;;;;;Post;;Jumper;;;;2017-12-07 04:36:00.518884
+76409451;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;349.499;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409452;800202;2-;165;Avery Bradley;8;Boston Celtics;;;;;;;3;355.867;25.67;11.61;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409453;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;355.867;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409454;100200;Game stop;;;;;;;;;;;3;369.748;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409455;100500;Turnover;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;369.748;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409456;300100;Foul;6029;Carmelo Anthony;3173;New York Knicks;162;Jae Crowder;8;Boston Celtics;;;3;369.748;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409457;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;388.577;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409458;100400;Steal;7478;Jose Manuel Calderon;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;3;393.577;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409459;100400;Steal;165;Avery Bradley;8;Boston Celtics;6030;Robin Lopez;3173;New York Knicks;;;3;409.077;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409460;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;3;414.251;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409461;800201;2+;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;3;414.251;26.84;6.78;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:36:00.518884
+76409462;100200;Game stop;;;;;;;;;;;3;414.251;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409463;1800600;Timeout;;;3173;New York Knicks;;;;;;;3;414.251;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409464;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;432.689;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409465;100200;Game stop;;;;;;;;;;;3;454.689;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409466;100500;Turnover;6030;Robin Lopez;3173;New York Knicks;;;;;;;3;454.689;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409467;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;472.895;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409468;400101;Accurate pass;165;Avery Bradley;8;Boston Celtics;;;;;162;Jae Crowder;3;490.895;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409469;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;3;490.895;19.88;9.60;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409470;800302;3-;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;522.744;19.58;6.90;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409471;100300;Rebound;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;522.744;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409472;400101;Accurate pass;6029;Carmelo Anthony;3173;New York Knicks;;;;;6028;Kristaps Porzingis;3;534.630;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409473;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;534.630;27.08;3.39;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:36:00.518884
+76409474;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;3;554.359;21.56;2.49;;;;;;;;;;Jumper;;;;2017-12-07 04:36:00.518884
+76409475;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;554.359;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409476;800301;3+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;562.123;19.94;4.59;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409477;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;166;Isaiah Thomas;3;574.879;21.98;10.26;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409478;100200;Game stop;;;;;;;;;;;3;574.879;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409479;100300;Rebound;;;3173;New York Knicks;;;;;;;3;574.879;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409480;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;7478;Jose Manuel Calderon;3173;New York Knicks;;;3;574.879;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409481;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;3;574.879;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409482;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;594.414;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409483;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;609.414;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 04:36:00.518884
+76409484;100200;Game stop;;;;;;;;;;;3;609.414;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409485;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;3;609.414;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409486;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;631.678;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409487;1600500;Guard;7504;Evan Turner;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;3;631.678;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409488;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;650.578;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409489;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;656.043;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409490;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;669.043;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409491;200300;Pick'n'Roll;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;3;669.043;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409492;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;3;669.043;26.84;8.37;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 04:36:00.518884
+76409493;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;686.689;;;;;;;;;;Hand offs;;;;;;2017-12-07 04:36:00.518884
+76409494;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;3;686.689;26.27;13.65;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409495;400101;Accurate pass;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;162;Jae Crowder;3;704.790;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409496;800301;3+;162;Jae Crowder;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;704.790;26.42;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409497;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;3;724.144;25.82;14.58;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409498;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;3;724.144;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409499;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;;;3;733.022;26.99;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:36:00.518884
+76409500;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;753.116;22.13;4.86;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409501;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;3;753.116;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409502;100200;Game stop;;;;;;;;;;;3;756.754;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409503;100500;Turnover;7504;Evan Turner;8;Boston Celtics;;;;;;;3;756.754;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409504;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;772.442;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409505;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6028;Kristaps Porzingis;3;794.442;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409506;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;369815;Langston Galloway;3;794.442;23.75;3.66;;;;;;;;Catch and shoot;;Hook;;;;2017-12-07 04:36:00.518884
+76409507;800600;2F;164;Jared Sullinger;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;3;816.731;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:36:00.518884
+76409508;100200;Game stop;;;;;;;;;;;3;816.731;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409509;300100;Foul;369815;Langston Galloway;3173;New York Knicks;164;Jared Sullinger;8;Boston Celtics;;;3;816.731;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409510;800102;1-;164;Jared Sullinger;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;3;844.578;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409511;100300;Rebound;;;8;Boston Celtics;;;;;;;3;844.578;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409512;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;6028;Kristaps Porzingis;3173;New York Knicks;;;3;844.578;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409513;800101;1+;164;Jared Sullinger;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;3;872.555;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409514;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;875.478;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409515;400101;Accurate pass;7493;Arron Afflalo;3173;New York Knicks;;;;;6036;Lance Thomas;3;888.478;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409516;800301;3+;6036;Lance Thomas;3173;New York Knicks;;;;;7493;Arron Afflalo;3;888.478;27.50;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409517;200300;Pick'n'Roll;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;3;906.280;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409518;800202;2-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;3;906.280;25.82;8.64;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 04:36:00.518884
+76409519;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;906.280;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409520;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;906.280;26.81;7.56;;;;;;;;Putbacks;;;;;;2017-12-07 04:36:00.518884
+76409521;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;906.280;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409522;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;912.681;26.96;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:36:00.518884
+76409523;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;912.681;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409524;400101;Accurate pass;7504;Evan Turner;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;926.829;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409525;800201;2+;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;3;926.829;23.90;3.57;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:36:00.518884
+76409526;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;944.728;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409527;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;3;944.728;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 04:36:00.518884
+76409528;100200;Game stop;;;;;;;;;;;3;944.728;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409529;1800600;Timeout;;;8;Boston Celtics;;;;;;;3;944.728;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409530;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;3;944.728;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409531;1600500;Guard;6031;Kyle O'Quinn;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;3;944.728;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409532;1600500;Guard;6034;Sasha Vujacic;3173;New York Knicks;7493;Arron Afflalo;3173;New York Knicks;;;3;944.728;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409533;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;959.313;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409534;100200;Game stop;;;;;;;;;;;3;969.313;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409535;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6036;Lance Thomas;3173;New York Knicks;;;3;969.313;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409536;100500;Turnover;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;3;969.313;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409537;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;981.223;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409538;100400;Steal;162;Jae Crowder;8;Boston Celtics;6031;Kyle O'Quinn;3173;New York Knicks;;;3;998.223;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409539;800201;2+;162;Jae Crowder;8;Boston Celtics;;;;;;;3;1002.083;26.96;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:36:00.518884
+76409540;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;;;3;1037.421;22.10;13.44;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409541;100200;Game stop;;;;;;;;;;;3;1037.421;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409542;100300;Rebound;;;3173;New York Knicks;;;;;;;3;1037.421;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409543;300100;Foul;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;6031;Kyle O'Quinn;3173;New York Knicks;;;3;1037.421;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409544;1600500;Guard;163;Amir Johnson;8;Boston Celtics;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;3;1037.421;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409545;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1072.374;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409546;200600;Post;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;3;1094.374;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409547;800202;2-;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;3;1094.374;25.22;8.58;;;;;;;;Post;;Jumper;;;;2017-12-07 04:36:00.518884
+76409548;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;1094.374;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409549;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;3;1105.070;27.20;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:36:00.518884
+76409550;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;3;1105.070;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409551;100200;Game stop;;;;;;;;;;;3;1110.167;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409552;100500;Turnover;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;3;1110.167;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409553;800600;2F;171;Jonas Jerebko;8;Boston Celtics;6034;Sasha Vujacic;3173;New York Knicks;;;3;1111.844;27.05;7.62;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409554;300100;Foul;6034;Sasha Vujacic;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;3;1111.844;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409555;800101;1+;171;Jonas Jerebko;8;Boston Celtics;6034;Sasha Vujacic;3173;New York Knicks;;;3;1148.698;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409556;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;6029;Carmelo Anthony;3173;New York Knicks;;;3;1148.698;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409557;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;162;Jae Crowder;8;Boston Celtics;;;3;1148.698;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409558;800101;1+;171;Jonas Jerebko;8;Boston Celtics;6034;Sasha Vujacic;3173;New York Knicks;;;3;1167.545;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409559;100100;Ball in play;;;3173;New York Knicks;;;;;;;3;1170.912;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409560;800302;3-;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;3;1189.912;19.94;11.88;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409561;100300;Rebound;171;Jonas Jerebko;8;Boston Celtics;;;;;;;3;1189.912;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409562;800202;2-;7504;Evan Turner;8;Boston Celtics;;;;;;;3;1198.176;25.22;3.33;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409563;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;3;1198.176;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409564;400101;Accurate pass;8329;Derrick Williams;3173;New York Knicks;;;;;6036;Lance Thomas;3;1205.650;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409565;800301;3+;6036;Lance Thomas;3173;New York Knicks;;;;;8329;Derrick Williams;3;1205.650;22.73;13.98;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409566;200600;Post;7504;Evan Turner;8;Boston Celtics;;;;;;;3;1224.327;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409567;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;;;3;1224.327;25.82;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 04:36:00.518884
+76409568;800600;2F;6034;Sasha Vujacic;3173;New York Knicks;165;Avery Bradley;8;Boston Celtics;;;3;1238.756;27.05;7.62;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409569;100200;Game stop;;;;;;;;;;;3;1238.756;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409570;300100;Foul;165;Avery Bradley;8;Boston Celtics;6034;Sasha Vujacic;3173;New York Knicks;;;3;1238.756;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409571;800101;1+;6034;Sasha Vujacic;3173;New York Knicks;165;Avery Bradley;8;Boston Celtics;;;3;1264.665;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409572;800101;1+;6034;Sasha Vujacic;3173;New York Knicks;165;Avery Bradley;8;Boston Celtics;;;3;1278.743;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409573;100100;Ball in play;;;8;Boston Celtics;;;;;;;3;1283.819;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409574;800202;2-;1866;Marcus Smart;8;Boston Celtics;;;;;7504;Evan Turner;3;1306.419;26.99;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:36:00.518884
+76409575;100300;Rebound;163;Amir Johnson;8;Boston Celtics;;;;;;;3;1306.419;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409576;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;;;3;1306.419;27.08;7.35;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:36:00.518884
+76409577;1800500;Halftime;;;;;;;;;;;3;1306.619;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409578;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409579;1600500;Guard;163;Amir Johnson;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409580;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409581;1600500;Guard;171;Jonas Jerebko;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409582;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409583;1600500;Guard;7504;Evan Turner;8;Boston Celtics;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409584;1600500;Guard;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409585;1600500;Guard;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409586;1600500;Guard;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409587;1600500;Guard;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409588;1600500;Guard;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409589;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;6.721;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409590;800202;2-;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;4;22.721;25.76;12.81;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409591;100200;Game stop;;;;;;;;;;;4;22.721;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409592;100300;Rebound;;;3173;New York Knicks;;;;;;;4;22.721;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409593;300100;Foul;7504;Evan Turner;8;Boston Celtics;6036;Lance Thomas;3173;New York Knicks;;;4;22.721;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409594;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;41.012;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409595;800202;2-;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;46.012;23.75;11.67;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409596;100300;Rebound;7504;Evan Turner;8;Boston Celtics;;;;;;;4;46.012;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409597;800302;3-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;60.446;20.09;4.56;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409598;100300;Rebound;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;60.446;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409599;400101;Accurate pass;6031;Kyle O'Quinn;3173;New York Knicks;;;;;6034;Sasha Vujacic;4;74.363;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409600;800201;2+;6034;Sasha Vujacic;3173;New York Knicks;;;;;6031;Kyle O'Quinn;4;74.363;26.81;7.68;;;;;;;;Cut;;;;;;2017-12-07 04:36:00.518884
+76409601;100400;Steal;6036;Lance Thomas;3173;New York Knicks;163;Amir Johnson;8;Boston Celtics;;;4;79.170;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409602;100200;Game stop;;;;;;;;;;;4;87.874;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409603;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;6031;Kyle O'Quinn;3173;New York Knicks;;;4;87.874;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409604;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;107.906;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409605;100200;Game stop;;;;;;;;;;;4;109.906;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409606;300100;Foul;6031;Kyle O'Quinn;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;4;109.906;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409607;100500;Turnover;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;4;109.906;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409608;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;121.657;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409609;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;1866;Marcus Smart;4;140.657;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409610;800301;3+;1866;Marcus Smart;8;Boston Celtics;;;;;166;Isaiah Thomas;4;140.657;23.60;14.22;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409611;800600;2F;6036;Lance Thomas;3173;New York Knicks;163;Amir Johnson;8;Boston Celtics;;;4;163.373;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 04:36:00.518884
+76409612;100200;Game stop;;;;;;;;;;;4;163.373;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409613;300100;Foul;163;Amir Johnson;8;Boston Celtics;6036;Lance Thomas;3173;New York Knicks;;;4;163.373;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409614;800101;1+;6036;Lance Thomas;3173;New York Knicks;163;Amir Johnson;8;Boston Celtics;;;4;195.413;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409615;800101;1+;6036;Lance Thomas;3173;New York Knicks;163;Amir Johnson;8;Boston Celtics;;;4;216.937;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409616;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;218.192;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409617;400101;Accurate pass;166;Isaiah Thomas;8;Boston Celtics;;;;;7504;Evan Turner;4;231.192;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409618;800301;3+;7504;Evan Turner;8;Boston Celtics;;;;;166;Isaiah Thomas;4;231.192;25.97;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409619;800202;2-;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;254.213;25.67;7.02;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:36:00.518884
+76409620;100300;Rebound;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;4;254.213;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409621;800201;2+;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;4;254.213;26.99;7.83;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:36:00.518884
+76409622;100200;Game stop;;;;;;;;;;;4;272.928;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409623;300100;Foul;369815;Langston Galloway;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;4;272.928;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409624;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;290.749;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409625;100400;Steal;6036;Lance Thomas;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;4;300.749;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409626;200600;Post;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;4;320.515;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409627;800201;2+;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;4;320.515;25.91;6.12;;;;;;;;Post;;Hook;;;;2017-12-07 04:36:00.518884
+76409628;200600;Post;163;Amir Johnson;8;Boston Celtics;;;;;;;4;342.331;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409629;800201;2+;163;Amir Johnson;8;Boston Celtics;;;;;;;4;342.331;26.84;6.72;;;;;;;;Post;;Jumper;;;;2017-12-07 04:36:00.518884
+76409630;100200;Game stop;;;;;;;;;;;4;352.061;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409631;300100;Foul;1866;Marcus Smart;8;Boston Celtics;6034;Sasha Vujacic;3173;New York Knicks;;;4;352.061;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409632;1800600;Timeout;;;;;;;;;;;4;352.061;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409633;1600500;Guard;164;Jared Sullinger;8;Boston Celtics;163;Amir Johnson;8;Boston Celtics;;;4;352.061;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409634;1600500;Guard;6030;Robin Lopez;3173;New York Knicks;6031;Kyle O'Quinn;3173;New York Knicks;;;4;352.061;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409635;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;373.285;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409636;400101;Accurate pass;6030;Robin Lopez;3173;New York Knicks;;;;;8329;Derrick Williams;4;384.285;;;;;;;;;;Hand offs;;;;;;2017-12-07 04:36:00.518884
+76409637;800400;2+1;8329;Derrick Williams;3173;New York Knicks;;;;;6030;Robin Lopez;4;384.285;26.84;7.68;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 04:36:00.518884
+76409638;100200;Game stop;;;;;;;;;;;4;384.285;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409639;300100;Foul;164;Jared Sullinger;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;4;384.285;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409640;800101;1+;8329;Derrick Williams;3173;New York Knicks;164;Jared Sullinger;8;Boston Celtics;;;4;411.003;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409641;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;415.498;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409642;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;430.498;26.84;3.24;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 04:36:00.518884
+76409643;100300;Rebound;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;430.498;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409644;800302;3-;8329;Derrick Williams;3173;New York Knicks;;;;;6034;Sasha Vujacic;4;444.780;27.38;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409645;100300;Rebound;1866;Marcus Smart;8;Boston Celtics;;;;;;;4;444.780;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409646;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;450.997;25.76;7.17;;;;;;;;Transition;;Floater;;;;2017-12-07 04:36:00.518884
+76409647;100300;Rebound;6030;Robin Lopez;3173;New York Knicks;;;;;;;4;450.997;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409648;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;8329;Derrick Williams;4;470.629;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409649;200300;Pick'n'Roll;8329;Derrick Williams;3173;New York Knicks;;;;;369815;Langston Galloway;4;470.629;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409650;800201;2+;8329;Derrick Williams;3173;New York Knicks;;;;;369815;Langston Galloway;4;470.629;26.99;7.26;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 04:36:00.518884
+76409651;800600;2F;166;Isaiah Thomas;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;4;494.226;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:36:00.518884
+76409652;100200;Game stop;;;;;;;;;;;4;494.226;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409653;300100;Foul;369815;Langston Galloway;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;4;494.226;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409654;800102;1-;166;Isaiah Thomas;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;4;520.576;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409655;100300;Rebound;;;8;Boston Celtics;;;;;;;4;520.576;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409656;1600500;Guard;6029;Carmelo Anthony;3173;New York Knicks;6036;Lance Thomas;3173;New York Knicks;;;4;520.576;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409657;1600500;Guard;162;Jae Crowder;8;Boston Celtics;1866;Marcus Smart;8;Boston Celtics;;;4;520.576;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409658;800101;1+;166;Isaiah Thomas;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;4;540.198;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409659;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;545.299;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409660;200600;Post;6030;Robin Lopez;3173;New York Knicks;;;;;;;4;565.299;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409661;800202;2-;6030;Robin Lopez;3173;New York Knicks;;;;;;;4;565.299;25.91;8.88;;;;;;;;Post;;Hook;;;;2017-12-07 04:36:00.518884
+76409662;100300;Rebound;164;Jared Sullinger;8;Boston Celtics;;;;;;;4;565.299;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409663;100200;Game stop;;;;;;;;;;;4;567.838;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409664;300100;Foul;6034;Sasha Vujacic;3173;New York Knicks;164;Jared Sullinger;8;Boston Celtics;;;4;567.838;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409665;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;578.984;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409666;800201;2+;7504;Evan Turner;8;Boston Celtics;;;;;;;4;599.984;27.08;7.80;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:36:00.518884
+76409667;800600;2F;6029;Carmelo Anthony;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;4;621.502;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 04:36:00.518884
+76409668;100200;Game stop;;;;;;;;;;;4;621.502;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409669;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;6029;Carmelo Anthony;3173;New York Knicks;;;4;621.502;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409670;1800600;Timeout;;;8;Boston Celtics;;;;;;;4;621.502;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409671;1600500;Guard;6028;Kristaps Porzingis;3173;New York Knicks;6030;Robin Lopez;3173;New York Knicks;;;4;621.502;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409672;1600500;Guard;7493;Arron Afflalo;3173;New York Knicks;6034;Sasha Vujacic;3173;New York Knicks;;;4;621.502;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409673;1600500;Guard;165;Avery Bradley;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;4;621.502;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409674;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;4;652.431;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409675;800101;1+;6029;Carmelo Anthony;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;4;667.524;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409676;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;670.910;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409677;800302;3-;162;Jae Crowder;8;Boston Celtics;;;;;;;4;683.910;19.49;6.24;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:36:00.518884
+76409678;100300;Rebound;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;683.910;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409679;400101;Accurate pass;369815;Langston Galloway;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;691.571;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409680;800301;3+;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;4;691.571;20.90;12.42;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409681;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;7504;Evan Turner;4;713.765;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:36:00.518884
+76409682;800201;2+;164;Jared Sullinger;8;Boston Celtics;;;;;7504;Evan Turner;4;713.765;26.84;7.26;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 04:36:00.518884
+76409683;800202;2-;8329;Derrick Williams;3173;New York Knicks;;;;;;;4;733.552;20.90;5.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409684;100200;Game stop;;;;;;;;;;;4;733.552;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409685;100300;Rebound;;;3173;New York Knicks;;;;;;;4;733.552;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409686;800600;2F;6028;Kristaps Porzingis;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;4;736.700;27.05;7.62;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409687;300100;Foul;171;Jonas Jerebko;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;4;736.700;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409688;1600500;Guard;166;Isaiah Thomas;8;Boston Celtics;171;Jonas Jerebko;8;Boston Celtics;;;4;736.700;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409689;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;4;766.248;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409690;800101;1+;6028;Kristaps Porzingis;3173;New York Knicks;171;Jonas Jerebko;8;Boston Celtics;;;4;781.683;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409691;100100;Ball in play;;;8;Boston Celtics;;;;;;;4;782.938;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409692;200300;Pick'n'Roll;164;Jared Sullinger;8;Boston Celtics;;;;;7504;Evan Turner;4;794.938;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:36:00.518884
+76409693;800202;2-;164;Jared Sullinger;8;Boston Celtics;;;;;7504;Evan Turner;4;794.938;20.96;6.33;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:36:00.518884
+76409694;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;794.938;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409695;200300;Pick'n'Roll;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;813.825;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:36:00.518884
+76409696;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;4;813.825;21.98;6.18;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:36:00.518884
+76409697;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;4;813.825;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409698;100200;Game stop;;;;;;;;;;;4;827.771;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409699;300100;Foul;369815;Langston Galloway;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;4;827.771;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409700;1600500;Guard;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;164;Jared Sullinger;8;Boston Celtics;;;4;827.771;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409701;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;864.130;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409702;800202;2-;6028;Kristaps Porzingis;3173;New York Knicks;;;;;369815;Langston Galloway;4;891.130;26.48;9.03;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 04:36:00.518884
+76409703;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;891.130;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409704;200300;Pick'n'Roll;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;4;906.924;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:36:00.518884
+76409705;800202;2-;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;4;906.924;26.42;6.66;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 04:36:00.518884
+76409706;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;906.924;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409707;800302;3-;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;915.919;23.45;14.22;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:36:00.518884
+76409708;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;915.919;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409709;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;927.279;26.99;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:36:00.518884
+76409710;800302;3-;7493;Arron Afflalo;3173;New York Knicks;;;;;;;4;945.550;27.08;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409711;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;945.550;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409712;800201;2+;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;948.987;27.05;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:36:00.518884
+76409713;100200;Game stop;;;;;;;;;;;4;948.987;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409714;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;948.987;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409715;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;958.692;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409716;200600;Post;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;977.692;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409717;800201;2+;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;977.692;26.57;11.67;;;;;;;;Post;;Jumper;;;;2017-12-07 04:36:00.518884
+76409718;800600;2F;166;Isaiah Thomas;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;4;993.933;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 04:36:00.518884
+76409719;100200;Game stop;;;;;;;;;;;4;993.933;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409720;300100;Foul;6028;Kristaps Porzingis;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;4;993.933;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409721;800101;1+;166;Isaiah Thomas;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;4;1028.967;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409722;800101;1+;166;Isaiah Thomas;8;Boston Celtics;6028;Kristaps Porzingis;3173;New York Knicks;;;4;1044.996;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409723;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1050.164;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409724;800201;2+;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;1061.164;25.76;9.18;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 04:36:00.518884
+76409725;200300;Pick'n'Roll;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;1082.916;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409726;800600;2F;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;4;1082.916;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 04:36:00.518884
+76409727;100200;Game stop;;;;;;;;;;;4;1082.916;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409728;300100;Foul;369815;Langston Galloway;3173;New York Knicks;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;4;1082.916;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409729;1600500;Guard;7478;Jose Manuel Calderon;3173;New York Knicks;369815;Langston Galloway;3173;New York Knicks;;;4;1082.916;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409730;800102;1-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;4;1137.993;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409731;100300;Rebound;;;8;Boston Celtics;;;;;;;4;1137.993;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409732;800102;1-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;369815;Langston Galloway;3173;New York Knicks;;;4;1153.501;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409733;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1153.501;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409734;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1155.530;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409735;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1167.530;20.21;4.26;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:36:00.518884
+76409736;100300;Rebound;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;1167.530;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409737;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1177.562;20.18;5.01;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:36:00.518884
+76409738;100300;Rebound;162;Jae Crowder;8;Boston Celtics;;;;;;;4;1177.562;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409739;800202;2-;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;1192.637;26.81;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:36:00.518884
+76409740;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;1192.637;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409741;800302;3-;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;1204.692;18.11;7.62;;;;;;;;;;Jumper;;;;2017-12-07 04:36:00.518884
+76409742;100300;Rebound;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;1204.692;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409743;800600;2F;166;Isaiah Thomas;8;Boston Celtics;7493;Arron Afflalo;3173;New York Knicks;;;4;1207.913;27.05;7.62;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409744;100200;Game stop;;;;;;;;;;;4;1207.913;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409745;300100;Foul;7493;Arron Afflalo;3173;New York Knicks;166;Isaiah Thomas;8;Boston Celtics;;;4;1207.913;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409746;800101;1+;166;Isaiah Thomas;8;Boston Celtics;7493;Arron Afflalo;3173;New York Knicks;;;4;1232.384;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409747;800101;1+;166;Isaiah Thomas;8;Boston Celtics;7493;Arron Afflalo;3173;New York Knicks;;;4;1245.986;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409748;1800600;Timeout;;;3173;New York Knicks;;;;;;;4;1245.986;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409749;1600500;Guard;1866;Marcus Smart;8;Boston Celtics;166;Isaiah Thomas;8;Boston Celtics;;;4;1245.986;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409750;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1265.502;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409751;800202;2-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1274.702;26.42;7.32;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:36:00.518884
+76409752;100300;Rebound;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1274.702;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409753;800201;2+;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1274.702;27.08;7.35;;;;;;;;Putbacks;;;;;;2017-12-07 04:36:00.518884
+76409754;800600;2F;7504;Evan Turner;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;4;1289.370;27.05;7.62;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409755;100200;Game stop;;;;;;;;;;;4;1289.370;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409756;300100;Foul;8329;Derrick Williams;3173;New York Knicks;7504;Evan Turner;8;Boston Celtics;;;4;1289.370;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409757;800101;1+;7504;Evan Turner;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;4;1308.272;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409758;800101;1+;7504;Evan Turner;8;Boston Celtics;8329;Derrick Williams;3173;New York Knicks;;;4;1322.657;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409759;100100;Ball in play;;;3173;New York Knicks;;;;;;;4;1327.468;;;;;;;;;;;;;;;;2019-10-24 13:26:01.145637
+76409760;800302;3-;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1340.068;23.42;14.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:36:00.518884
+76409761;100300;Rebound;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;1340.068;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+76409762;1800700;Match end;;;;;;;;;;;4;1358.968;;;;;;;;;;;;;;;;2017-12-07 04:36:00.518884
+103663071;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;1;72.749;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663073;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;132.778;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663075;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;;;1;176.985;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663077;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;222.448;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663079;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;166;Isaiah Thomas;1;235.684;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663081;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;7478;Jose Manuel Calderon;1;250.090;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663083;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;1;283.701;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663085;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;1;403.756;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663087;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;413.193;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663089;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;557.436;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663091;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;1;581.036;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663093;200900;Assisting;165;Avery Bradley;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;1;653.504;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663095;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;1;673.543;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663097;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;733.173;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663099;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;1;806.254;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663101;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;1;899.219;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663103;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;6031;Kyle O'Quinn;1;1013.686;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663105;200900;Assisting;1866;Marcus Smart;8;Boston Celtics;;;;;;;1;1022.803;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663107;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;1866;Marcus Smart;1;1167.551;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663109;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;111.307;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663111;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;369815;Langston Galloway;2;211.913;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663113;200900;Assisting;97676;RJ Hunter;8;Boston Celtics;;;;;;;2;231.680;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663115;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;2;292.520;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663117;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;311.137;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663119;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;166;Isaiah Thomas;2;332.159;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663121;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;2;438.606;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663123;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;454.715;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663125;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;;;2;473.396;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663127;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;2;534.651;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663129;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;162;Jae Crowder;2;560.812;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663131;200900;Assisting;171;Jonas Jerebko;8;Boston Celtics;;;;;162;Jae Crowder;2;642.982;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663133;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;2;719.886;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663135;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;2;738.487;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663137;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;171;Jonas Jerebko;2;801.841;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663139;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;6029;Carmelo Anthony;2;841.534;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663141;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;854.891;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663143;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;166;Isaiah Thomas;2;882.062;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663145;200900;Assisting;6030;Robin Lopez;3173;New York Knicks;;;;;;;2;909.082;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663147;200900;Assisting;171;Jonas Jerebko;8;Boston Celtics;;;;;166;Isaiah Thomas;2;923.687;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663149;200900;Assisting;7493;Arron Afflalo;3173;New York Knicks;;;;;;;2;959.189;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663151;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;2;983.372;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663153;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;2;1036.643;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663155;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;2;1114.970;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663157;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;6036;Lance Thomas;2;1236.848;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663159;200900;Assisting;7478;Jose Manuel Calderon;3173;New York Knicks;;;;;;;3;40.595;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663161;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;163;Amir Johnson;3;59.642;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663163;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;181.911;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663165;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;3;249.526;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663167;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;166;Isaiah Thomas;3;414.251;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663169;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;165;Avery Bradley;3;490.895;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663171;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;6029;Carmelo Anthony;3;534.630;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663173;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;3;562.123;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663175;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;3;609.414;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663177;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;3;669.043;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663179;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;6030;Robin Lopez;3;686.689;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663181;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;168;Kelly Tyler Corness Olynyk;3;704.790;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663183;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;3;733.022;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663185;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;369815;Langston Galloway;3;794.442;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663187;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;;;3;816.731;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663189;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;7493;Arron Afflalo;3;888.478;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663191;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;7504;Evan Turner;3;926.829;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663193;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;3;944.728;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663195;200900;Assisting;162;Jae Crowder;8;Boston Celtics;;;;;;;3;1002.083;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663197;200900;Assisting;171;Jonas Jerebko;8;Boston Celtics;;;;;;;3;1111.844;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663199;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;8329;Derrick Williams;3;1205.650;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663201;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;3;1224.327;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663203;200900;Assisting;6034;Sasha Vujacic;3173;New York Knicks;;;;;;;3;1238.756;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663205;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;3;1306.419;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663207;200900;Assisting;6034;Sasha Vujacic;3173;New York Knicks;;;;;6031;Kyle O'Quinn;4;74.363;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663209;200900;Assisting;1866;Marcus Smart;8;Boston Celtics;;;;;166;Isaiah Thomas;4;140.657;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663211;200900;Assisting;6036;Lance Thomas;3173;New York Knicks;;;;;;;4;163.373;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663213;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;166;Isaiah Thomas;4;231.192;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663215;200900;Assisting;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;4;254.213;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663217;200900;Assisting;6031;Kyle O'Quinn;3173;New York Knicks;;;;;;;4;320.515;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663219;200900;Assisting;163;Amir Johnson;8;Boston Celtics;;;;;;;4;342.331;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663221;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;6030;Robin Lopez;4;384.285;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663223;200900;Assisting;8329;Derrick Williams;3173;New York Knicks;;;;;369815;Langston Galloway;4;470.629;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663225;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;494.226;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663227;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;4;599.984;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663229;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;621.502;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663231;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;369815;Langston Galloway;4;691.571;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663233;200900;Assisting;164;Jared Sullinger;8;Boston Celtics;;;;;7504;Evan Turner;4;713.765;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663235;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;736.700;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663237;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;927.279;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663239;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;948.987;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663241;200900;Assisting;6028;Kristaps Porzingis;3173;New York Knicks;;;;;;;4;977.692;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663243;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;993.933;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663245;200900;Assisting;369815;Langston Galloway;3173;New York Knicks;;;;;;;4;1061.164;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663247;200900;Assisting;168;Kelly Tyler Corness Olynyk;8;Boston Celtics;;;;;;;4;1082.916;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663249;200900;Assisting;166;Isaiah Thomas;8;Boston Celtics;;;;;;;4;1207.913;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663251;200900;Assisting;6029;Carmelo Anthony;3173;New York Knicks;;;;;;;4;1274.702;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076
+103663253;200900;Assisting;7504;Evan Turner;8;Boston Celtics;;;;;;;4;1289.370;;;;;;;;;;;;;;;;2018-04-19 11:12:03.42076

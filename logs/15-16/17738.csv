@@ -1,0 +1,799 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76415757;1601000;Starting lineup;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415758;1601000;Starting lineup;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415759;1601000;Starting lineup;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415760;1601000;Starting lineup;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76415761;1601000;Starting lineup;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415762;1601000;Starting lineup;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415763;1601000;Starting lineup;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415764;1601000;Starting lineup;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415765;1601000;Starting lineup;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415766;1601000;Starting lineup;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415767;1601000;Starting lineup;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415768;1601000;Starting lineup;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415769;1601000;Starting lineup;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415770;1601000;Starting lineup;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415771;1601000;Starting lineup;1126;Jason Thompson;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415772;1601000;Starting lineup;1924;James Michael McAdoo;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415773;1601000;Starting lineup;190;Marreese Speights;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415774;1601000;Starting lineup;191;Ian Clark;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415775;1601000;Starting lineup;12;Andre Iguodala;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415776;1601000;Starting lineup;189;Brandon Rush;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415777;1601000;Starting lineup;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415778;1601000;Starting lineup;10;Draymond Green;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415779;1601000;Starting lineup;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415780;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415781;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415782;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415783;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415784;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415785;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76415786;1600500;Guard;10;Draymond Green;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415787;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415788;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415789;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415790;1600500;Guard;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415791;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;51.334;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415792;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;194;Andrew Bogut;1;75.334;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415793;800201;2+;194;Andrew Bogut;2;Golden State Warriors;;;;;16;Shaun Livingston;1;75.334;27.08;7.02;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:45:03.538521
+76415794;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;100.737;19.79;7.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76415795;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;100.737;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415796;800302;3-;10;Draymond Green;2;Golden State Warriors;;;;;;;1;110.626;22.73;1.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:45:03.538521
+76415797;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;110.626;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415798;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;116.698;26.21;5.88;;;;;;;;Transition;;Hook;;;;2018-10-20 17:58:37.550992
+76415799;400101;Accurate pass;13;Klay Thompson;2;Golden State Warriors;;;;;16;Shaun Livingston;1;141.574;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415800;200300;Pick'n'Roll;16;Shaun Livingston;2;Golden State Warriors;;;;;13;Klay Thompson;1;141.574;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:45:03.538521
+76415801;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;13;Klay Thompson;1;141.574;26.96;11.52;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:45:03.538521
+76415802;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;158.940;23.42;14.07;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76415803;100300;Rebound;189;Brandon Rush;2;Golden State Warriors;;;;;;;1;158.940;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415804;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;168.341;25.34;6.48;;;;;;;;Screen off;;Floater;;;;2017-12-07 04:45:03.538521
+76415805;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;168.341;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76415806;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;181.792;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76415807;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;181.792;26.84;8.58;;;;;;;;Cut;;Hook;;;;2017-12-07 04:45:03.538521
+76415808;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;197.348;26.99;7.02;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:45:03.538521
+76415809;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;197.348;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415810;800201;2+;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;197.348;27.05;6.90;;;;;;;;Putbacks;;;;;;2017-12-07 04:45:03.538521
+76415811;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;214.855;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415812;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;214.855;24.74;11.37;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76415813;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;214.855;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415814;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;227.725;23.33;5.19;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:45:03.538521
+76415815;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;227.725;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415816;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;241.205;24.20;7.95;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76415817;200600;Post;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;260.085;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415818;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;260.085;25.97;2.94;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76415819;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;285.804;26.72;4.86;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 04:45:03.538521
+76415820;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;285.804;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415821;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;291.092;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415822;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;291.092;19.88;5.79;;;;;;;;Catch and Drive;;Jumper;;;;2018-10-20 17:58:37.550992
+76415823;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;314.046;23.87;5.28;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76415824;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;314.046;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415825;200600;Post;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;326.454;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415826;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;326.454;26.42;7.80;;;;;;;;Post;;Lay up;;;;2017-12-07 04:45:03.538521
+76415827;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;326.454;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415828;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;1;340.638;26.57;6.81;;;;;;;;Screen off;;Lay up;;;;2017-12-07 04:45:03.538521
+76415829;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;340.638;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415830;100400;Steal;10;Draymond Green;2;Golden State Warriors;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;346.179;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415831;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;13;Klay Thompson;1;353.226;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415832;800201;2+;13;Klay Thompson;2;Golden State Warriors;;;;;10;Draymond Green;1;353.226;26.57;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76415833;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;376.259;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415834;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;376.259;27.05;8.22;;;;;;;;Post;;Lay up;;;;2017-12-07 04:45:03.538521
+76415835;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;395.029;26.27;9.90;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:45:03.538521
+76415836;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;395.029;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415837;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;401.634;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415838;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;401.634;27.05;14.43;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76415839;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;;;1;428.557;20.96;11.52;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76415840;100300;Rebound;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;428.557;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415841;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;428.557;26.57;4.89;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 04:45:03.538521
+76415842;100200;Game stop;;;;;;;;;;;1;428.557;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415843;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;428.557;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415844;300100;Foul;10;Draymond Green;2;Golden State Warriors;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;428.557;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415845;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;1;428.557;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415846;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;463.057;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415847;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;463.057;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415848;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;189;Brandon Rush;2;Golden State Warriors;;;1;463.057;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415849;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;463.057;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415850;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;463.057;24.65;2.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76415851;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;463.057;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415852;800600;2F;16;Shaun Livingston;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;1;481.867;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 04:45:03.538521
+76415853;100200;Game stop;;;;;;;;;;;1;481.867;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415854;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;16;Shaun Livingston;2;Golden State Warriors;;;1;481.867;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415855;800101;1+;16;Shaun Livingston;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;1;499.237;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415856;800101;1+;16;Shaun Livingston;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;1;512.539;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415857;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;515.640;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415858;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;530.640;28.37;6.33;;;;;;;;;;Hook;;;;2017-12-07 04:45:03.538521
+76415859;100400;Steal;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;10;Draymond Green;2;Golden State Warriors;;;1;550.453;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76415860;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;558.592;23.60;9.45;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76415861;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;1;579.447;21.35;7.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76415862;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;579.447;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415863;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;588.792;26.12;5.40;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76415864;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;588.792;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415865;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;13;Klay Thompson;1;598.719;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415866;800301;3+;13;Klay Thompson;2;Golden State Warriors;;;;;10;Draymond Green;1;598.719;22.43;13.53;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76415867;100200;Game stop;;;;;;;;;;;1;614.882;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415868;100500;Turnover;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;614.882;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415869;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;12;Andre Iguodala;2;Golden State Warriors;;;1;614.882;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415870;1600500;Guard;191;Ian Clark;2;Golden State Warriors;194;Andrew Bogut;2;Golden State Warriors;;;1;650.307;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415871;1600500;Guard;190;Marreese Speights;2;Golden State Warriors;16;Shaun Livingston;2;Golden State Warriors;;;1;650.307;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415872;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;650.307;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415873;400101;Accurate pass;13;Klay Thompson;2;Golden State Warriors;;;;;190;Marreese Speights;1;650.307;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415874;800201;2+;190;Marreese Speights;2;Golden State Warriors;;;;;13;Klay Thompson;1;650.307;26.36;11.37;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:45:03.538521
+76415875;800201;2+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;669.751;23.72;7.50;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 04:45:03.538521
+76415876;100400;Steal;2430;Wesley Matthews;2975;Dallas Mavericks;10;Draymond Green;2;Golden State Warriors;;;1;678.765;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415877;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;690.631;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:45:03.538521
+76415878;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;690.631;26.72;7.26;;;;;;;;Pick'n'pop;;Lay up;Drives Right;;;2017-12-07 04:45:03.538521
+76415879;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;690.631;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415880;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;690.631;26.99;7.83;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:45:03.538521
+76415881;100200;Game stop;;;;;;;;;;;1;707.987;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415882;1800600;Timeout;;;2;Golden State Warriors;;;;;;;1;707.987;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415883;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;741.671;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415884;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;741.671;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415885;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;1;741.671;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415886;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;741.671;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415887;800201;2+;12;Andre Iguodala;2;Golden State Warriors;;;;;;;1;741.671;26.72;2.19;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:45:03.538521
+76415888;800201;2+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;763.394;26.72;2.58;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76415889;800302;3-;10;Draymond Green;2;Golden State Warriors;;;;;13;Klay Thompson;1;788.264;20.48;10.98;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76415890;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;788.264;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415891;800600;2F;7499;Raymond Felton;2975;Dallas Mavericks;191;Ian Clark;2;Golden State Warriors;;;1;798.772;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 04:45:03.538521
+76415892;100200;Game stop;;;;;;;;;;;1;798.772;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415893;300100;Foul;191;Ian Clark;2;Golden State Warriors;7499;Raymond Felton;2975;Dallas Mavericks;;;1;798.772;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415894;800101;1+;7499;Raymond Felton;2975;Dallas Mavericks;191;Ian Clark;2;Golden State Warriors;;;1;822.748;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415895;800102;1-;7499;Raymond Felton;2975;Dallas Mavericks;191;Ian Clark;2;Golden State Warriors;;;1;838.536;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415896;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;838.536;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415897;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;838.536;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415898;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;862.570;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415899;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;862.570;25.10;12.12;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76415900;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;1;862.570;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415901;100400;Steal;2433;Dirk Nowitzki;2975;Dallas Mavericks;190;Marreese Speights;2;Golden State Warriors;;;1;874.371;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415902;800600;2F;2433;Dirk Nowitzki;2975;Dallas Mavericks;191;Ian Clark;2;Golden State Warriors;;;1;897.966;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:45:03.538521
+76415903;100200;Game stop;;;;;;;;;;;1;897.966;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415904;300100;Foul;191;Ian Clark;2;Golden State Warriors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;897.966;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415905;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;191;Ian Clark;2;Golden State Warriors;;;1;931.024;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415906;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;191;Ian Clark;2;Golden State Warriors;;;1;951.551;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415907;100100;Ball in play;;;2;Golden State Warriors;;;;;;;1;955.103;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415908;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;190;Marreese Speights;1;966.003;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415909;800201;2+;190;Marreese Speights;2;Golden State Warriors;;;;;12;Andre Iguodala;1;966.003;21.50;5.04;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76415910;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;985.985;20.51;4.50;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76415911;100300;Rebound;190;Marreese Speights;2;Golden State Warriors;;;;;;;1;985.985;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415912;1800500;Halftime;;;;;;;;;;;1;986.185;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415913;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415914;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415915;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415916;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415917;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415918;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415919;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415920;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415921;1600500;Guard;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415922;1600500;Guard;191;Ian Clark;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415923;1600500;Guard;1924;James Michael McAdoo;2;Golden State Warriors;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415924;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;5.156;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415925;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;27.156;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:45:03.538521
+76415926;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;27.156;23.33;9.06;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 04:45:03.538521
+76415927;800202;2-;191;Ian Clark;2;Golden State Warriors;;;;;;;2;51.458;23.18;7.56;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:45:03.538521
+76415928;100300;Rebound;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;51.458;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415929;800201;2+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;57.971;27.35;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76415930;100200;Game stop;;;;;;;;;;;2;64.078;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415931;100500;Turnover;191;Ian Clark;2;Golden State Warriors;;;;;;;2;64.078;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415932;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;73.595;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415933;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;79.595;26.81;6.24;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:45:03.538521
+76415934;100300;Rebound;189;Brandon Rush;2;Golden State Warriors;;;;;;;2;79.595;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415935;200600;Post;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;94.820;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415936;800202;2-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;94.820;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76415937;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;94.820;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415938;400101;Accurate pass;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2427;Dwight Powell;2;108.910;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415939;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;108.910;27.08;7.35;;;;;;;;Cut;;;;;;2017-12-07 04:45:03.538521
+76415940;100200;Game stop;;;;;;;;;;;2;121.328;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415941;100500;Turnover;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;121.328;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415942;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;137.142;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415943;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;148.142;25.52;9.90;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76415944;100200;Game stop;;;;;;;;;;;2;156.081;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415945;1800600;Timeout;;;2;Golden State Warriors;;;;;;;2;156.081;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415946;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;2;197.439;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76415947;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;190;Marreese Speights;2;Golden State Warriors;;;2;197.439;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415948;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;197.439;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415949;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;191;Ian Clark;2;197.439;27.35;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76415950;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;197.439;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415951;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;215.840;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415952;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;215.840;27.08;7.17;;;;;;;;Post;;Lay up;;;;2017-12-07 04:45:03.538521
+76415953;400101;Accurate pass;1924;James Michael McAdoo;2;Golden State Warriors;;;;;191;Ian Clark;2;232.904;;;;;;;;;;Hand offs;;;;;;2017-12-07 04:45:03.538521
+76415954;800301;3+;191;Ian Clark;2;Golden State Warriors;;;;;1924;James Michael McAdoo;2;232.904;20.96;11.88;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:45:03.538521
+76415955;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;253.628;19.94;5.97;;;;;;;;Catch and shoot;;Jumper;;;;2018-10-20 17:58:37.550992
+76415956;100300;Rebound;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;253.628;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415957;800202;2-;191;Ian Clark;2;Golden State Warriors;;;;;;;2;262.304;24.20;9.12;;;;;;;;Transition;;Floater;;;;2017-12-07 04:45:03.538521
+76415958;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;262.304;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415959;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2427;Dwight Powell;2;270.511;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76415960;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;270.511;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415961;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;270.511;26.96;7.62;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 04:45:03.538521
+76415962;800302;3-;189;Brandon Rush;2;Golden State Warriors;;;;;;;2;280.804;27.50;0.78;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76415963;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;280.804;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415964;100400;Steal;1924;James Michael McAdoo;2;Golden State Warriors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;288.363;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415965;800600;2F;12;Andre Iguodala;2;Golden State Warriors;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;294.504;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:45:03.538521
+76415966;100200;Game stop;;;;;;;;;;;2;294.504;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415967;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;12;Andre Iguodala;2;Golden State Warriors;;;2;294.504;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415968;800101;1+;12;Andre Iguodala;2;Golden State Warriors;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;322.958;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415969;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;356.668;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415970;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;356.668;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415971;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;2;356.668;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415972;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;2;356.668;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415973;1600500;Guard;194;Andrew Bogut;2;Golden State Warriors;191;Ian Clark;2;Golden State Warriors;;;2;356.668;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415974;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;1924;James Michael McAdoo;2;Golden State Warriors;;;2;356.668;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415975;800101;1+;12;Andre Iguodala;2;Golden State Warriors;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;356.668;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415976;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;361.508;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415977;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;382.508;24.14;2.85;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 04:45:03.538521
+76415978;800202;2-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;405.440;24.05;2.70;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76415979;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;405.440;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415980;800202;2-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;414.474;26.51;9.66;;;;;;;;Transition;;;;;;2017-12-07 04:45:03.538521
+76415981;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;414.474;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415982;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;414.474;26.84;7.35;;;;;;;;Putbacks;;;;;;2017-12-07 04:45:03.538521
+76415983;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;194;Andrew Bogut;2;429.294;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415984;100200;Game stop;;;;;;;;;;;2;429.294;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415985;300100;Foul;2425;Charlie Villanueva;2975;Dallas Mavericks;194;Andrew Bogut;2;Golden State Warriors;;;2;429.294;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415986;800400;2+1;194;Andrew Bogut;2;Golden State Warriors;;;;;12;Andre Iguodala;2;429.294;26.57;7.05;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:45:03.538521
+76415987;1600500;Guard;10;Draymond Green;2;Golden State Warriors;12;Andre Iguodala;2;Golden State Warriors;;;2;462.426;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415988;800101;1+;194;Andrew Bogut;2;Golden State Warriors;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;462.426;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415989;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;467.601;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415990;800202;2-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;482.601;26.12;8.22;;;;;;;;Screen off;;Hook;;;;2017-12-07 04:45:03.538521
+76415991;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;2;482.601;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415992;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;189;Brandon Rush;2;488.553;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415993;800301;3+;189;Brandon Rush;2;Golden State Warriors;;;;;10;Draymond Green;2;488.553;21.71;12.84;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76415994;100200;Game stop;;;;;;;;;;;2;488.553;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415995;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;488.553;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415996;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;509.328;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76415997;100400;Steal;194;Andrew Bogut;2;Golden State Warriors;2432;Devin L Harris;2975;Dallas Mavericks;;;2;520.328;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76415998;800302;3-;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;530.670;19.88;9.21;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76415999;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;2;530.670;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416000;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;537.138;25.22;7.83;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 04:45:03.538521
+76416001;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;537.138;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416002;800202;2-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;543.823;27.08;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416003;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;543.823;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416004;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;16;Shaun Livingston;2;Golden State Warriors;;;2;543.823;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 04:45:03.538521
+76416005;100200;Game stop;;;;;;;;;;;2;543.823;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416006;300100;Foul;16;Shaun Livingston;2;Golden State Warriors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;543.823;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416007;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;16;Shaun Livingston;2;Golden State Warriors;;;2;578.188;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416008;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;16;Shaun Livingston;2;Golden State Warriors;;;2;599.013;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416009;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;603.213;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416010;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;2;618.213;26.57;11.52;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76416011;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;618.213;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416012;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;629.852;26.84;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416013;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;2;629.852;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416014;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;10;Draymond Green;2;640.166;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416015;200600;Post;10;Draymond Green;2;Golden State Warriors;;;;;;;2;640.166;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416016;800201;2+;10;Draymond Green;2;Golden State Warriors;;;;;16;Shaun Livingston;2;640.166;25.19;3.09;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76416017;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;667.479;26.27;10.26;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 04:45:03.538521
+76416018;100300;Rebound;189;Brandon Rush;2;Golden State Warriors;;;;;;;2;667.479;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416019;200600;Post;10;Draymond Green;2;Golden State Warriors;;;;;;;2;684.046;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416020;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;2;684.046;26.51;3.81;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76416021;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;684.046;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416022;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;696.205;20.48;10.65;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76416023;100400;Steal;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;13;Klay Thompson;2;Golden State Warriors;;;2;727.758;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416024;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;736.340;20.96;12.03;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76416025;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;2;736.340;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416026;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;2;743.743;26.72;8.10;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416027;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;2;743.743;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416028;800600;2F;2432;Devin L Harris;2975;Dallas Mavericks;16;Shaun Livingston;2;Golden State Warriors;;;2;746.601;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:45:03.538521
+76416029;100200;Game stop;;;;;;;;;;;2;746.601;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416030;300100;Foul;16;Shaun Livingston;2;Golden State Warriors;2432;Devin L Harris;2975;Dallas Mavericks;;;2;746.601;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416031;800101;1+;2432;Devin L Harris;2975;Dallas Mavericks;16;Shaun Livingston;2;Golden State Warriors;;;2;772.981;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416032;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;2;786.550;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416033;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;2;786.550;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416034;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;189;Brandon Rush;2;Golden State Warriors;;;2;786.550;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416035;800101;1+;2432;Devin L Harris;2975;Dallas Mavericks;16;Shaun Livingston;2;Golden State Warriors;;;2;786.550;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416036;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;800.851;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416037;800202;2-;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;813.851;25.97;4.41;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:45:03.538521
+76416038;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;813.851;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416039;100200;Game stop;;;;;;;;;;;2;813.851;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416040;300100;Foul;13;Klay Thompson;2;Golden State Warriors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;813.851;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416041;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;833.643;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416042;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;848.643;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416043;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;194;Andrew Bogut;2;Golden State Warriors;;;2;848.643;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 04:45:03.538521
+76416044;100200;Game stop;;;;;;;;;;;2;848.643;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416045;300100;Foul;194;Andrew Bogut;2;Golden State Warriors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;848.643;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416046;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;194;Andrew Bogut;2;Golden State Warriors;;;2;873.829;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416047;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;194;Andrew Bogut;2;Golden State Warriors;;;2;891.736;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416048;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;893.379;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416049;200600;Post;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;909.379;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416050;800201;2+;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;909.379;26.12;10.11;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76416051;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;932.245;26.99;6.90;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:45:03.538521
+76416052;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;932.245;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416053;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;939.744;19.79;6.42;;;;;;;;Pick'n'Roll;;Jumper;;;;2018-10-20 17:58:37.550992
+76416054;100200;Game stop;;;;;;;;;;;2;939.744;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416055;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;194;Andrew Bogut;2;Golden State Warriors;;;2;939.744;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416056;1800600;Timeout;;;;;;;;;;;2;939.744;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416057;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;971.743;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416058;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;2432;Devin L Harris;2975;Dallas Mavericks;;;2;971.743;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416059;1600500;Guard;190;Marreese Speights;2;Golden State Warriors;194;Andrew Bogut;2;Golden State Warriors;;;2;971.743;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416060;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;16;Shaun Livingston;2;Golden State Warriors;;;2;971.743;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416061;100100;Ball in play;;;2;Golden State Warriors;;;;;;;2;971.743;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416062;400101;Accurate pass;10;Draymond Green;2;Golden State Warriors;;;;;190;Marreese Speights;2;971.743;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416063;800201;2+;190;Marreese Speights;2;Golden State Warriors;;;;;10;Draymond Green;2;971.743;21.65;6.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416064;100400;Steal;10;Draymond Green;2;Golden State Warriors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;988.723;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416065;800302;3-;189;Brandon Rush;2;Golden State Warriors;;;;;12;Andre Iguodala;2;1001.684;21.20;12.27;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416066;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;1001.684;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416067;100400;Steal;189;Brandon Rush;2;Golden State Warriors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;1010.045;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416068;400101;Accurate pass;189;Brandon Rush;2;Golden State Warriors;;;;;13;Klay Thompson;2;1013.853;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416069;800201;2+;13;Klay Thompson;2;Golden State Warriors;;;;;189;Brandon Rush;2;1013.853;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 04:45:03.538521
+76416070;100200;Game stop;;;;;;;;;;;2;1013.853;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416071;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;1013.853;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416072;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1033.659;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416073;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1055.659;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416074;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1055.659;27.02;7.62;;;;;;;;Post;;Dunk;;;;2017-12-07 04:45:03.538521
+76416075;800600;2F;190;Marreese Speights;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1073.388;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 04:45:03.538521
+76416076;100200;Game stop;;;;;;;;;;;2;1073.388;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416077;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;190;Marreese Speights;2;Golden State Warriors;;;2;1073.388;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416078;800101;1+;190;Marreese Speights;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1104.121;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416079;800101;1+;190;Marreese Speights;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;2;1116.913;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416080;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1121.086;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416081;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;1134.886;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416082;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;1134.886;26.81;14.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416083;200300;Pick'n'Roll;190;Marreese Speights;2;Golden State Warriors;;;;;13;Klay Thompson;2;1161.457;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416084;800202;2-;190;Marreese Speights;2;Golden State Warriors;;;;;13;Klay Thompson;2;1161.457;24.35;2.16;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 04:45:03.538521
+76416085;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1161.457;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416086;100400;Steal;190;Marreese Speights;2;Golden State Warriors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;1163.491;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416087;800302;3-;189;Brandon Rush;2;Golden State Warriors;;;;;;;2;1168.302;19.64;7.05;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76416088;100200;Game stop;;;;;;;;;;;2;1168.302;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416089;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;1168.302;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416090;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1168.302;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416091;1800500;Halftime;;;;;;;;;;;2;1171.502;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416092;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416093;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416094;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416095;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416096;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416097;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416098;1600500;Guard;10;Draymond Green;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416099;1600500;Guard;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416100;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416101;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416102;1600500;Guard;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416103;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;8.625;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416104;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;3;25.625;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416105;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;25.625;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416106;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;25.625;26.84;7.32;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 04:45:03.538521
+76416107;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;3;45.793;21.65;8.52;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76416108;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;45.793;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416109;400101;Accurate pass;189;Brandon Rush;2;Golden State Warriors;;;;;10;Draymond Green;3;54.214;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416110;800301;3+;10;Draymond Green;2;Golden State Warriors;;;;;189;Brandon Rush;3;54.214;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416111;100200;Game stop;;;;;;;;;;;3;66.817;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416112;300100;Foul;10;Draymond Green;2;Golden State Warriors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;66.817;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416113;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;91.876;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416114;800301;3+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;109.876;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:45:03.538521
+76416115;100200;Game stop;;;;;;;;;;;3;124.638;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416116;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;13;Klay Thompson;2;Golden State Warriors;;;3;124.638;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416117;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;145.127;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416118;100200;Game stop;;;;;;;;;;;3;157.127;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416119;100500;Turnover;189;Brandon Rush;2;Golden State Warriors;;;;;;;3;157.127;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416120;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;167.554;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416121;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;182.554;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76416122;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;182.554;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416123;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;200.609;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416124;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;200.609;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2018-10-20 17:58:37.550992
+76416125;200600;Post;10;Draymond Green;2;Golden State Warriors;;;;;;;3;209.471;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416126;800600;2F;10;Draymond Green;2;Golden State Warriors;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;209.471;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 04:45:03.538521
+76416127;100200;Game stop;;;;;;;;;;;3;209.471;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416128;300100;Foul;7814;Chandler Parsons;2975;Dallas Mavericks;10;Draymond Green;2;Golden State Warriors;;;3;209.471;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416129;800102;1-;10;Draymond Green;2;Golden State Warriors;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;234.196;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416130;100300;Rebound;;;2;Golden State Warriors;;;;;;;3;234.196;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416131;800101;1+;10;Draymond Green;2;Golden State Warriors;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;246.552;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416132;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;249.166;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416133;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;260.166;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416134;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;260.166;27.05;7.62;;;;;;;;Screen off;;Lay up;;;;2017-12-07 04:45:03.538521
+76416135;200600;Post;16;Shaun Livingston;2;Golden State Warriors;;;;;;;3;271.842;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416136;800202;2-;16;Shaun Livingston;2;Golden State Warriors;;;;;;;3;271.842;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76416137;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;271.842;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416138;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;285.003;27.05;7.62;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:45:03.538521
+76416139;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;285.003;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416140;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;10;Draymond Green;3;290.655;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416141;800400;2+1;10;Draymond Green;2;Golden State Warriors;;;;;16;Shaun Livingston;3;290.655;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:45:03.538521
+76416142;100200;Game stop;;;;;;;;;;;3;290.655;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416143;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;10;Draymond Green;2;Golden State Warriors;;;3;290.655;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416144;800101;1+;10;Draymond Green;2;Golden State Warriors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;319.600;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416145;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;324.070;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416146;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;343.070;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416147;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;343.070;27.05;7.62;;;;;;;;Post;;Floater;;;;2017-12-07 04:45:03.538521
+76416148;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;343.070;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416149;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;351.574;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416150;800201;2+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;351.574;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:45:03.538521
+76416151;800302;3-;10;Draymond Green;2;Golden State Warriors;;;;;;;3;365.299;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416152;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;3;365.299;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416153;100200;Game stop;;;;;;;;;;;3;368.679;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416154;300100;Foul;194;Andrew Bogut;2;Golden State Warriors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;3;368.679;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416155;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;393.968;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416156;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;402.968;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416157;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;402.968;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76416158;100200;Game stop;;;;;;;;;;;3;402.968;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416159;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;402.968;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416160;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;417.025;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416161;200300;Pick'n'Roll;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;432.025;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:45:03.538521
+76416162;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;432.025;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:45:03.538521
+76416163;100300;Rebound;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;432.025;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416164;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;10;Draymond Green;3;444.605;27.05;7.62;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:45:03.538521
+76416165;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;444.605;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416166;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;459.004;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416167;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;459.004;27.05;7.62;;;;;;;;Post;;Jumper;;;;2017-12-07 04:45:03.538521
+76416168;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;459.004;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416169;800202;2-;189;Brandon Rush;2;Golden State Warriors;;;;;;;3;467.225;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416170;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;467.225;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416171;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;475.399;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76416172;100300;Rebound;189;Brandon Rush;2;Golden State Warriors;;;;;;;3;475.399;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416173;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;486.185;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76416174;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;486.185;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416175;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;493.775;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416176;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;493.775;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76416177;100200;Game stop;;;;;;;;;;;3;493.775;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416178;1800600;Timeout;;;2;Golden State Warriors;;;;;;;3;493.775;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416179;1600500;Guard;2432;Devin L Harris;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;524.420;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416180;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;524.420;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416181;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;3;524.420;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416182;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;16;Shaun Livingston;2;Golden State Warriors;;;3;524.420;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416183;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;524.420;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416184;400101;Accurate pass;12;Andre Iguodala;2;Golden State Warriors;;;;;194;Andrew Bogut;3;524.420;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416185;200600;Post;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;524.420;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416186;800201;2+;194;Andrew Bogut;2;Golden State Warriors;;;;;12;Andre Iguodala;3;524.420;27.05;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 04:45:03.538521
+76416187;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2427;Dwight Powell;3;545.141;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416188;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;545.141;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:45:03.538521
+76416189;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;545.141;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:45:03.538521
+76416190;100200;Game stop;;;;;;;;;;;3;555.299;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416191;100500;Turnover;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;555.299;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416192;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;562.993;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416193;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2432;Devin L Harris;3;578.993;;;;;;;;;;Hand offs;;;;;;2017-12-07 04:45:03.538521
+76416194;800301;3+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;3;578.993;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:45:03.538521
+76416195;400101;Accurate pass;194;Andrew Bogut;2;Golden State Warriors;;;;;12;Andre Iguodala;3;595.703;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416196;800201;2+;12;Andre Iguodala;2;Golden State Warriors;;;;;194;Andrew Bogut;3;595.703;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:45:03.538521
+76416197;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;624.078;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416198;800301;3+;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;624.078;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416199;400101;Accurate pass;189;Brandon Rush;2;Golden State Warriors;;;;;12;Andre Iguodala;3;644.433;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416200;800301;3+;12;Andre Iguodala;2;Golden State Warriors;;;;;189;Brandon Rush;3;644.433;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416201;100400;Steal;12;Andre Iguodala;2;Golden State Warriors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;665.371;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416202;800400;2+1;12;Andre Iguodala;2;Golden State Warriors;;;;;;;3;671.942;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416203;100200;Game stop;;;;;;;;;;;3;671.942;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416204;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;12;Andre Iguodala;2;Golden State Warriors;;;3;671.942;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416205;1600500;Guard;191;Ian Clark;2;Golden State Warriors;189;Brandon Rush;2;Golden State Warriors;;;3;719.048;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416206;800101;1+;12;Andre Iguodala;2;Golden State Warriors;2432;Devin L Harris;2975;Dallas Mavericks;;;3;719.048;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416207;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;3;719.048;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416208;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;740.785;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416209;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;758.785;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76416210;100300;Rebound;194;Andrew Bogut;2;Golden State Warriors;;;;;;;3;758.785;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416211;800201;2+;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;778.683;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76416212;100200;Game stop;;;;;;;;;;;3;797.936;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416213;300100;Foul;10;Draymond Green;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;3;797.936;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416214;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;813.549;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416215;100200;Game stop;;;;;;;;;;;3;819.549;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416216;100500;Turnover;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;819.549;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416217;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;827.424;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416218;100400;Steal;2430;Wesley Matthews;2975;Dallas Mavericks;13;Klay Thompson;2;Golden State Warriors;;;3;839.424;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416219;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2427;Dwight Powell;3;844.149;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416220;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;844.149;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416221;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;3;857.535;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:45:03.538521
+76416222;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;857.535;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416223;100400;Steal;191;Ian Clark;2;Golden State Warriors;7499;Raymond Felton;2975;Dallas Mavericks;;;3;862.055;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416224;800600;2F;191;Ian Clark;2;Golden State Warriors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;864.068;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:45:03.538521
+76416225;100200;Game stop;;;;;;;;;;;3;864.068;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416226;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;191;Ian Clark;2;Golden State Warriors;;;3;864.068;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416227;800101;1+;191;Ian Clark;2;Golden State Warriors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;895.476;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416228;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;925.883;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416229;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;925.883;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416230;1600500;Guard;190;Marreese Speights;2;Golden State Warriors;194;Andrew Bogut;2;Golden State Warriors;;;3;925.883;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416231;800101;1+;191;Ian Clark;2;Golden State Warriors;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;925.883;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416232;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;928.738;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416233;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;948.738;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:45:03.538521
+76416234;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;948.738;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416235;800201;2+;191;Ian Clark;2;Golden State Warriors;;;;;;;3;956.199;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416236;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;977.815;27.05;7.62;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:45:03.538521
+76416237;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;977.815;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416238;800202;2-;190;Marreese Speights;2;Golden State Warriors;;;;;;;3;986.724;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416239;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;986.724;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416240;100200;Game stop;;;;;;;;;;;3;986.724;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416241;100500;Turnover;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;986.724;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416242;100100;Ball in play;;;2;Golden State Warriors;;;;;;;3;1003.279;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416243;800600;2F;13;Klay Thompson;2;Golden State Warriors;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1012.279;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 04:45:03.538521
+76416244;100200;Game stop;;;;;;;;;;;3;1012.279;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416245;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;13;Klay Thompson;2;Golden State Warriors;;;3;1012.279;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416246;800102;1-;13;Klay Thompson;2;Golden State Warriors;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1033.394;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416247;100300;Rebound;;;2;Golden State Warriors;;;;;;;3;1033.394;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416248;800101;1+;13;Klay Thompson;2;Golden State Warriors;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1043.886;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416249;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1045.513;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416250;100400;Steal;12;Andre Iguodala;2;Golden State Warriors;7814;Chandler Parsons;2975;Dallas Mavericks;;;3;1068.513;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416251;800202;2-;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;1099.376;27.05;7.62;;;;;;;;;;Jumper;;;;2017-12-07 04:45:03.538521
+76416252;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1099.376;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416253;800201;2+;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;3;1107.238;27.05;7.62;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:45:03.538521
+76416254;200600;Post;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1127.942;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416255;800400;2+1;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1127.942;27.05;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 04:45:03.538521
+76416256;100200;Game stop;;;;;;;;;;;3;1127.942;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416257;300100;Foul;2432;Devin L Harris;2975;Dallas Mavericks;10;Draymond Green;2;Golden State Warriors;;;3;1127.942;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416258;800102;1-;10;Draymond Green;2;Golden State Warriors;2432;Devin L Harris;2975;Dallas Mavericks;;;3;1151.899;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416259;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1151.899;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416260;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;3;1151.899;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416261;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;1177.361;27.05;7.62;;;;;;;;;;Jumper;;;;2017-12-07 04:45:03.538521
+76416262;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1177.361;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416263;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1186.527;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416264;100300;Rebound;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1186.527;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416265;800202;2-;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1186.527;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:45:03.538521
+76416266;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;1186.527;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416267;1800500;Halftime;;;;;;;;;;;3;1187.127;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416268;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416269;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416270;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416271;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416272;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416273;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416274;1600500;Guard;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416275;1600500;Guard;189;Brandon Rush;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416276;1600500;Guard;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416277;1600500;Guard;191;Ian Clark;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416278;1600500;Guard;1924;James Michael McAdoo;2;Golden State Warriors;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416279;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;7.043;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416280;800202;2-;12;Andre Iguodala;2;Golden State Warriors;;;;;;;4;26.043;27.05;7.62;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 04:45:03.538521
+76416281;100300;Rebound;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;26.043;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416282;800201;2+;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;26.043;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 04:45:03.538521
+76416283;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;41.057;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76416284;100300;Rebound;189;Brandon Rush;2;Golden State Warriors;;;;;;;4;41.057;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416285;200300;Pick'n'Roll;190;Marreese Speights;2;Golden State Warriors;;;;;191;Ian Clark;4;54.889;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:45:03.538521
+76416286;800202;2-;190;Marreese Speights;2;Golden State Warriors;;;;;191;Ian Clark;4;54.889;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:45:03.538521
+76416287;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;54.889;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416288;200300;Pick'n'Roll;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;66.812;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:45:03.538521
+76416289;800600;2F;2433;Dirk Nowitzki;2975;Dallas Mavericks;189;Brandon Rush;2;Golden State Warriors;;;4;66.812;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 04:45:03.538521
+76416290;100200;Game stop;;;;;;;;;;;4;66.812;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416291;300100;Foul;189;Brandon Rush;2;Golden State Warriors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;66.812;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416292;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;189;Brandon Rush;2;Golden State Warriors;;;4;87.463;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416293;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;189;Brandon Rush;2;Golden State Warriors;;;4;103.727;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416294;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;107.062;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416295;800202;2-;190;Marreese Speights;2;Golden State Warriors;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;119.062;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 04:45:03.538521
+76416296;100300;Rebound;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;119.062;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416297;800201;2+;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;119.062;27.05;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:45:03.538521
+76416298;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;147.679;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2018-10-20 17:58:37.550992
+76416299;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;4;147.679;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416300;100200;Game stop;;;;;;;;;;;4;185.145;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416301;1600500;Guard;1126;Jason Thompson;2;Golden State Warriors;190;Marreese Speights;2;Golden State Warriors;;;4;185.145;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416302;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;185.145;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416303;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;185.145;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416304;800301;3+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;185.145;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416305;100200;Game stop;;;;;;;;;;;4;201.418;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416306;300100;Foul;1924;James Michael McAdoo;2;Golden State Warriors;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;201.418;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416307;100500;Turnover;1924;James Michael McAdoo;2;Golden State Warriors;;;;;;;4;201.418;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416308;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;212.746;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416309;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;221.746;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416310;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;221.746;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2018-10-20 17:58:37.550992
+76416311;200600;Post;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;240.676;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416312;800600;2F;1126;Jason Thompson;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;4;240.676;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 04:45:03.538521
+76416313;100200;Game stop;;;;;;;;;;;4;240.676;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416314;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;1126;Jason Thompson;2;Golden State Warriors;;;4;240.676;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416315;800102;1-;1126;Jason Thompson;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;4;265.886;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416316;100300;Rebound;;;2;Golden State Warriors;;;;;;;4;265.886;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416317;800101;1+;1126;Jason Thompson;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;4;278.893;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416318;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;281.772;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416319;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;295.772;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416320;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;295.772;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416321;100200;Game stop;;;;;;;;;;;4;321.946;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416322;1800600;Timeout;;;;;;;;;;;4;321.946;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416323;1600500;Guard;190;Marreese Speights;2;Golden State Warriors;12;Andre Iguodala;2;Golden State Warriors;;;4;348.543;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416324;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;348.543;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416325;400101;Accurate pass;1924;James Michael McAdoo;2;Golden State Warriors;;;;;191;Ian Clark;4;348.543;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416326;800301;3+;191;Ian Clark;2;Golden State Warriors;;;;;1924;James Michael McAdoo;4;348.543;27.05;7.62;;;;;;;;Screen off;;Floater;;;;2017-12-07 04:45:03.538521
+76416327;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;375.200;27.05;7.62;;;;;;;;Isolation;;Jumper;Drives Left;;;2018-10-20 17:58:37.550992
+76416328;100200;Game stop;;;;;;;;;;;4;390.929;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416329;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;190;Marreese Speights;2;Golden State Warriors;;;4;390.929;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416330;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;417.055;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416331;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;431.940;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416332;100200;Game stop;;;;;;;;;;;4;442.940;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416333;100500;Turnover;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;442.940;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416334;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;448.044;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416335;100200;Game stop;;;;;;;;;;;4;470.044;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416336;100500;Turnover;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;470.044;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416337;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;487.066;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416338;800201;2+;191;Ian Clark;2;Golden State Warriors;;;;;189;Brandon Rush;4;509.066;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 04:45:03.538521
+76416339;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2427;Dwight Powell;4;529.510;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416340;200300;Pick'n'Roll;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;529.510;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416341;800201;2+;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;529.510;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 04:45:03.538521
+76416342;800600;2F;1126;Jason Thompson;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;4;539.328;27.05;7.62;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416343;100200;Game stop;;;;;;;;;;;4;539.328;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416344;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;1126;Jason Thompson;2;Golden State Warriors;;;4;539.328;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416345;800101;1+;1126;Jason Thompson;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;4;567.159;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416346;800101;1+;1126;Jason Thompson;2;Golden State Warriors;2427;Dwight Powell;2975;Dallas Mavericks;;;4;578.822;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416347;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;582.684;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416348;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;597.684;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416349;100300;Rebound;189;Brandon Rush;2;Golden State Warriors;;;;;;;4;597.684;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416350;200600;Post;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;606.937;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416351;800202;2-;1126;Jason Thompson;2;Golden State Warriors;2425;Charlie Villanueva;2975;Dallas Mavericks;;;4;606.937;27.05;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 04:45:03.538521
+76416352;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;606.937;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76416353;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;615.071;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76416354;100300;Rebound;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;615.071;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416355;200300;Pick'n'Roll;190;Marreese Speights;2;Golden State Warriors;;;;;191;Ian Clark;4;627.323;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:45:03.538521
+76416356;800202;2-;190;Marreese Speights;2;Golden State Warriors;;;;;191;Ian Clark;4;627.323;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:45:03.538521
+76416357;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;627.323;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416358;400101;Accurate pass;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;650.259;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416359;800301;3+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2427;Dwight Powell;4;650.259;27.05;7.62;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 04:45:03.538521
+76416360;100200;Game stop;;;;;;;;;;;4;650.259;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416361;1800600;Timeout;;;2;Golden State Warriors;;;;;;;4;650.259;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416362;1600500;Guard;8429;John Jenkins;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;683.702;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416363;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;4;683.702;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416364;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;683.702;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416365;800600;2F;1924;James Michael McAdoo;2;Golden State Warriors;8429;John Jenkins;2975;Dallas Mavericks;;;4;683.702;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 04:45:03.538521
+76416366;100200;Game stop;;;;;;;;;;;4;683.702;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416367;300100;Foul;8429;John Jenkins;2975;Dallas Mavericks;1924;James Michael McAdoo;2;Golden State Warriors;;;4;683.702;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416368;800101;1+;1924;James Michael McAdoo;2;Golden State Warriors;8429;John Jenkins;2975;Dallas Mavericks;;;4;702.802;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416369;1600500;Guard;370702;Justin Anderson;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;4;722.484;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416370;800102;1-;1924;James Michael McAdoo;2;Golden State Warriors;8429;John Jenkins;2975;Dallas Mavericks;;;4;722.484;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416371;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;722.484;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416372;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;722.484;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416373;200300;Pick'n'Roll;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;744.224;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:45:03.538521
+76416374;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;744.224;27.05;7.62;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 04:45:03.538521
+76416375;800302;3-;189;Brandon Rush;2;Golden State Warriors;;;;;;;4;757.643;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76416376;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;757.643;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416377;100200;Game stop;;;;;;;;;;;4;769.133;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416378;300100;Foul;370702;Justin Anderson;2975;Dallas Mavericks;190;Marreese Speights;2;Golden State Warriors;;;4;769.133;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416379;100500;Turnover;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;4;769.133;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416380;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;784.923;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416381;800202;2-;191;Ian Clark;2;Golden State Warriors;;;;;;;4;801.923;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76416382;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;801.923;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416383;200300;Pick'n'Roll;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;4;818.145;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416384;800600;2F;7437;Jeremy Evans;2975;Dallas Mavericks;1126;Jason Thompson;2;Golden State Warriors;;;4;818.145;27.05;7.62;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 04:45:03.538521
+76416385;100200;Game stop;;;;;;;;;;;4;818.145;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416386;300100;Foul;1126;Jason Thompson;2;Golden State Warriors;7437;Jeremy Evans;2975;Dallas Mavericks;;;4;818.145;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416387;800102;1-;7437;Jeremy Evans;2975;Dallas Mavericks;1126;Jason Thompson;2;Golden State Warriors;;;4;842.274;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416388;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;842.274;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416389;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;864.248;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416390;800101;1+;7437;Jeremy Evans;2975;Dallas Mavericks;1126;Jason Thompson;2;Golden State Warriors;;;4;864.248;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416391;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;866.558;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416392;200600;Post;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;882.558;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416393;800202;2-;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;882.558;27.05;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 04:45:03.538521
+76416394;100300;Rebound;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;882.558;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416395;100200;Game stop;;;;;;;;;;;4;890.394;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416396;300100;Foul;191;Ian Clark;2;Golden State Warriors;8429;John Jenkins;2975;Dallas Mavericks;;;4;890.394;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416397;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;906.760;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416398;800202;2-;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;916.760;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76416399;100300;Rebound;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;916.760;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416400;800302;3-;189;Brandon Rush;2;Golden State Warriors;;;;;;;4;926.964;27.05;7.62;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:45:03.538521
+76416401;100200;Game stop;;;;;;;;;;;4;926.964;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416402;100300;Rebound;;;2;Golden State Warriors;;;;;;;4;926.964;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416403;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;941.876;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416404;800201;2+;191;Ian Clark;2;Golden State Warriors;;;;;;;4;947.876;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 04:45:03.538521
+76416405;800302;3-;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;964.201;27.05;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:45:03.538521
+76416406;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;964.201;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416407;800600;2F;7461;JaVale McGee;2975;Dallas Mavericks;1924;James Michael McAdoo;2;Golden State Warriors;;;4;964.201;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 04:45:03.538521
+76416408;100200;Game stop;;;;;;;;;;;4;964.201;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416409;300100;Foul;1924;James Michael McAdoo;2;Golden State Warriors;7461;JaVale McGee;2975;Dallas Mavericks;;;4;964.201;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416410;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;964.201;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416411;800101;1+;7461;JaVale McGee;2975;Dallas Mavericks;1924;James Michael McAdoo;2;Golden State Warriors;;;4;993.140;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416412;800102;1-;7461;JaVale McGee;2975;Dallas Mavericks;1924;James Michael McAdoo;2;Golden State Warriors;;;4;1004.451;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416413;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;1004.451;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416414;100300;Rebound;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1004.451;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416415;200600;Post;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1018.657;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416416;800202;2-;1126;Jason Thompson;2;Golden State Warriors;2425;Charlie Villanueva;2975;Dallas Mavericks;;;4;1018.657;27.05;7.62;;;;;;;;Post;;Lay up;;;;2017-12-07 04:45:03.538521
+76416417;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;1018.657;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416418;800202;2-;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;4;1025.513;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416419;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;1025.513;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416420;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;1025.513;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 04:45:03.538521
+76416421;100300;Rebound;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1025.513;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416422;800202;2-;190;Marreese Speights;2;Golden State Warriors;370702;Justin Anderson;2975;Dallas Mavericks;;;4;1031.355;27.05;7.62;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:45:03.538521
+76416423;100300;Rebound;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;4;1031.355;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416424;800600;2F;370702;Justin Anderson;2975;Dallas Mavericks;1126;Jason Thompson;2;Golden State Warriors;;;4;1036.536;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:45:03.538521
+76416425;100200;Game stop;;;;;;;;;;;4;1036.536;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416426;300100;Foul;1126;Jason Thompson;2;Golden State Warriors;370702;Justin Anderson;2975;Dallas Mavericks;;;4;1036.536;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416427;800102;1-;370702;Justin Anderson;2975;Dallas Mavericks;1126;Jason Thompson;2;Golden State Warriors;;;4;1061.260;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416428;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;1061.260;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416429;800101;1+;370702;Justin Anderson;2975;Dallas Mavericks;1126;Jason Thompson;2;Golden State Warriors;;;4;1074.035;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416430;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;1076.531;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416431;400101;Accurate pass;1126;Jason Thompson;2;Golden State Warriors;;;;;191;Ian Clark;4;1094.531;;;;;;;;;;Hand offs;;;;;;2017-12-07 04:45:03.538521
+76416432;800201;2+;191;Ian Clark;2;Golden State Warriors;;;;;1126;Jason Thompson;4;1094.531;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:45:03.538521
+76416433;800302;3-;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;4;1115.098;27.05;7.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:45:03.538521
+76416434;100300;Rebound;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1115.098;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416435;100400;Steal;2425;Charlie Villanueva;2975;Dallas Mavericks;191;Ian Clark;2;Golden State Warriors;;;4;1121.719;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416436;800600;2F;7437;Jeremy Evans;2975;Dallas Mavericks;190;Marreese Speights;2;Golden State Warriors;;;4;1127.971;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:45:03.538521
+76416437;100200;Game stop;;;;;;;;;;;4;1127.971;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416438;300100;Foul;190;Marreese Speights;2;Golden State Warriors;7437;Jeremy Evans;2975;Dallas Mavericks;;;4;1127.971;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416439;800101;1+;7437;Jeremy Evans;2975;Dallas Mavericks;190;Marreese Speights;2;Golden State Warriors;;;4;1154.579;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416440;800101;1+;7437;Jeremy Evans;2975;Dallas Mavericks;190;Marreese Speights;2;Golden State Warriors;;;4;1165.993;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416441;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;1169.191;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416442;800600;2F;1126;Jason Thompson;2;Golden State Warriors;2425;Charlie Villanueva;2975;Dallas Mavericks;;;4;1185.191;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416443;100200;Game stop;;;;;;;;;;;4;1185.191;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416444;300100;Foul;2425;Charlie Villanueva;2975;Dallas Mavericks;1126;Jason Thompson;2;Golden State Warriors;;;4;1185.191;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416445;800101;1+;1126;Jason Thompson;2;Golden State Warriors;2425;Charlie Villanueva;2975;Dallas Mavericks;;;4;1206.782;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416446;1600500;Guard;16;Shaun Livingston;2;Golden State Warriors;189;Brandon Rush;2;Golden State Warriors;;;4;1206.782;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416447;800102;1-;1126;Jason Thompson;2;Golden State Warriors;2425;Charlie Villanueva;2975;Dallas Mavericks;;;4;1223.461;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416448;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;1223.461;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416449;100300;Rebound;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1223.461;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416450;400101;Accurate pass;16;Shaun Livingston;2;Golden State Warriors;;;;;191;Ian Clark;4;1227.270;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416451;800301;3+;191;Ian Clark;2;Golden State Warriors;;;;;16;Shaun Livingston;4;1227.270;27.05;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:45:03.538521
+76416452;100200;Game stop;;;;;;;;;;;4;1270.332;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416453;100500;Turnover;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;1270.332;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416454;100100;Ball in play;;;2;Golden State Warriors;;;;;;;4;1282.809;;;;;;;;;;;;;;;;2019-10-24 13:24:00.497453
+76416455;800201;2+;191;Ian Clark;2;Golden State Warriors;;;;;;;4;1292.209;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:45:03.538521
+76416456;800201;2+;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;1308.298;27.05;7.62;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:45:03.538521
+76416457;800302;3-;191;Ian Clark;2;Golden State Warriors;;;;;;;4;1333.047;27.05;7.62;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:45:03.538521
+76416458;100300;Rebound;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;4;1333.047;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+76416459;1800700;Match end;;;;;;;;;;;4;1340.847;;;;;;;;;;;;;;;;2017-12-07 04:45:03.538521
+103659763;200900;Assisting;194;Andrew Bogut;2;Golden State Warriors;;;;;16;Shaun Livingston;1;75.334;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659765;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;116.698;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103659767;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;13;Klay Thompson;1;141.574;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659769;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;181.792;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659771;200900;Assisting;194;Andrew Bogut;2;Golden State Warriors;;;;;;;1;197.348;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659773;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;241.205;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103659775;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;260.085;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659777;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;291.092;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103659779;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;10;Draymond Green;1;353.226;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659781;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;376.259;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659783;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;401.634;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659785;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;;;1;481.867;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659787;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;530.640;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659789;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;558.592;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103659791;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;10;Draymond Green;1;598.719;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659793;200900;Assisting;190;Marreese Speights;2;Golden State Warriors;;;;;13;Klay Thompson;1;650.307;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659795;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;669.751;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659797;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;690.631;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659799;200900;Assisting;12;Andre Iguodala;2;Golden State Warriors;;;;;;;1;741.671;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659801;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;1;763.394;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659803;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;798.772;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659805;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;897.966;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659807;200900;Assisting;190;Marreese Speights;2;Golden State Warriors;;;;;12;Andre Iguodala;1;966.003;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659809;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;27.156;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659811;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;57.971;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659813;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2432;Devin L Harris;2;108.910;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659815;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;148.142;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659817;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;215.840;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659819;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;1924;James Michael McAdoo;2;232.904;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659821;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;270.511;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659823;200900;Assisting;12;Andre Iguodala;2;Golden State Warriors;;;;;;;2;294.504;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659825;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;382.508;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659827;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;414.474;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659829;200900;Assisting;194;Andrew Bogut;2;Golden State Warriors;;;;;12;Andre Iguodala;2;429.294;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659831;200900;Assisting;189;Brandon Rush;2;Golden State Warriors;;;;;10;Draymond Green;2;488.553;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659833;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;543.823;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659835;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;16;Shaun Livingston;2;640.166;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659837;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;696.205;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103659839;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;2;746.601;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659841;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;848.643;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659843;200900;Assisting;16;Shaun Livingston;2;Golden State Warriors;;;;;;;2;909.379;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659845;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;939.744;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103659847;200900;Assisting;190;Marreese Speights;2;Golden State Warriors;;;;;10;Draymond Green;2;971.743;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659849;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;189;Brandon Rush;2;1013.853;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659851;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1055.659;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659853;200900;Assisting;190;Marreese Speights;2;Golden State Warriors;;;;;;;2;1073.388;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659855;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;1134.886;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659857;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;25.625;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659859;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;189;Brandon Rush;3;54.214;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659861;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;109.876;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659863;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;200.609;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103659865;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;;;3;209.471;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659867;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;260.166;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659869;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;16;Shaun Livingston;3;290.655;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659871;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;351.574;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659873;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;3;493.775;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659875;200900;Assisting;194;Andrew Bogut;2;Golden State Warriors;;;;;12;Andre Iguodala;3;524.420;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659877;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;545.141;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659879;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;3;578.993;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659881;200900;Assisting;12;Andre Iguodala;2;Golden State Warriors;;;;;194;Andrew Bogut;3;595.703;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659883;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;624.078;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659885;200900;Assisting;12;Andre Iguodala;2;Golden State Warriors;;;;;189;Brandon Rush;3;644.433;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659887;200900;Assisting;12;Andre Iguodala;2;Golden State Warriors;;;;;;;3;671.942;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659889;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;778.683;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659891;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;844.149;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659893;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;;;3;864.068;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659895;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;;;3;956.199;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659897;200900;Assisting;13;Klay Thompson;2;Golden State Warriors;;;;;;;3;1012.279;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659899;200900;Assisting;2432;Devin L Harris;2975;Dallas Mavericks;;;;;;;3;1107.238;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659901;200900;Assisting;10;Draymond Green;2;Golden State Warriors;;;;;;;3;1127.942;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659903;200900;Assisting;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;26.043;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659905;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;66.812;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659907;200900;Assisting;190;Marreese Speights;2;Golden State Warriors;;;;;;;4;119.062;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659909;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;185.145;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659911;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;221.746;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103659913;200900;Assisting;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;240.676;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659915;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;295.772;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659917;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;1924;James Michael McAdoo;4;348.543;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659919;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;375.200;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103659921;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;189;Brandon Rush;4;509.066;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659923;200900;Assisting;2427;Dwight Powell;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;529.510;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659925;200900;Assisting;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;539.328;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659927;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2427;Dwight Powell;4;650.259;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659929;200900;Assisting;1924;James Michael McAdoo;2;Golden State Warriors;;;;;;;4;683.702;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659931;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;744.224;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659933;200900;Assisting;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;4;818.145;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659935;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;;;4;947.876;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659937;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;964.201;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659939;200900;Assisting;370702;Justin Anderson;2975;Dallas Mavericks;;;;;;;4;1036.536;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659941;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;1126;Jason Thompson;4;1094.531;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659943;200900;Assisting;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;4;1127.971;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659945;200900;Assisting;1126;Jason Thompson;2;Golden State Warriors;;;;;;;4;1185.191;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659947;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;16;Shaun Livingston;4;1227.270;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659949;200900;Assisting;191;Ian Clark;2;Golden State Warriors;;;;;;;4;1292.209;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114
+103659951;200900;Assisting;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;4;1308.298;;;;;;;;;;;;;;;;2018-04-19 11:08:03.921114

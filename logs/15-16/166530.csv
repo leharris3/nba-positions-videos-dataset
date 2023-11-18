@@ -1,0 +1,862 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76979274;1601000;Starting lineup;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979275;1601000;Starting lineup;9022;John Henson;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979276;1601000;Starting lineup;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979277;1601000;Starting lineup;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979278;1601000;Starting lineup;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979279;1601000;Starting lineup;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979280;1601000;Starting lineup;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979281;1601000;Starting lineup;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979282;1601000;Starting lineup;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979283;1601000;Starting lineup;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979284;1601000;Starting lineup;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979285;1601000;Starting lineup;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979286;1601000;Starting lineup;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979287;1601000;Starting lineup;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979288;1601000;Starting lineup;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979289;1601000;Starting lineup;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979290;1601000;Starting lineup;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979291;1601000;Starting lineup;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979292;1601000;Starting lineup;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979293;1601000;Starting lineup;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979294;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979295;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979296;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979297;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979298;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979299;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979300;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979301;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979302;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979303;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979304;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979305;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;62.947;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979306;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;78.947;22.73;6.96;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979307;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;78.947;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979308;100400;Steal;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;100.986;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979309;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;109.882;24.35;13.38;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979310;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;109.882;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979311;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;124.770;24.35;13.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979312;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;124.770;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979313;100400;Steal;9019;Greg Monroe;3280;Milwaukee Bucks;9150;JJ Redick;13;Los Angeles Clippers;;;1;142.213;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979314;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;152.298;26.72;9.06;;;;;;;;Transition;;Hook;;;;2017-12-07 10:57:01.276296
+76979315;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;152.298;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979316;100200;Game stop;;;;;;;;;;;1;162.313;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979317;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;179;Chris Paul;13;Los Angeles Clippers;;;1;162.313;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979318;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;175.733;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979319;100400;Steal;95270;OJ Mayo;3280;Milwaukee Bucks;1805;Blake Griffin;13;Los Angeles Clippers;;;1;179.733;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979320;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;184.135;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979321;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;184.135;27.02;7.62;;;;;;;;;;Dunk;;;;2017-12-07 10:57:01.276296
+76979322;400101;Accurate pass;1805;Blake Griffin;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;193.567;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:57:01.276296
+76979323;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;1805;Blake Griffin;1;193.567;24.20;1.02;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979324;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;211.513;22.58;9.84;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979325;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;211.513;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979326;200300;Pick'n'Roll;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;223.301;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:57:01.276296
+76979327;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;223.301;22.37;5.70;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:57:01.276296
+76979328;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;227.247;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979329;800202;2-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;227.247;27.08;7.74;;;;;;;;Putbacks;;;;;;2017-12-07 10:57:01.276296
+76979330;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;227.247;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979331;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;1;232.573;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979332;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;232.573;26.81;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:57:01.276296
+76979333;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;245.460;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979334;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;1;245.460;23.75;14.76;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979335;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;289.767;21.35;8.49;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:57:01.276296
+76979336;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;289.767;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979337;100200;Game stop;;;;;;;;;;;1;305.747;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979338;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;1;305.747;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979339;800202;2-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;179;Chris Paul;1;305.747;27.02;7.62;;;;;;;;Catch and Drive;;Dunk;Drives Left;;;2017-12-07 10:57:01.276296
+76979340;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;329.994;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979341;200600;Post;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;335.994;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979342;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;335.994;26.84;7.11;;;;;;;;Post;;Lay up;;;;2017-12-07 10:57:01.276296
+76979343;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;1;346.013;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979344;200300;Pick'n'Roll;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;346.013;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:57:01.276296
+76979345;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;346.013;26.99;8.49;;;;;;;;Pick'n'pop;;Lay up;Drives Left;;;2017-12-07 10:57:01.276296
+76979346;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;360.022;24.95;10.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979347;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;360.022;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979348;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;372.939;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979349;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;372.939;26.99;8.67;;;;;;;;Post;;Hook;;;;2017-12-07 10:57:01.276296
+76979350;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;412.391;20.06;10.62;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979351;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;412.391;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979352;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;421.100;27.68;3.63;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979353;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;1;445.342;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979354;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;1;445.342;27.05;7.95;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 10:57:01.276296
+76979355;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;1;471.187;26.99;7.44;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 10:57:01.276296
+76979356;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;471.068;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979357;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;474.292;27.68;4.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979358;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;474.292;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979359;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;1;484.787;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979360;800400;2+1;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;1;484.787;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:57:01.276296
+76979361;100200;Game stop;;;;;;;;;;;1;484.787;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979362;300100;Foul;9019;Greg Monroe;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;484.787;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979363;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;9019;Greg Monroe;3280;Milwaukee Bucks;;;1;537.341;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979364;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;538.012;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979365;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;539.012;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979366;800302;3-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;1;571.399;27.23;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979367;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;571.923;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979368;800600;2F;1805;Blake Griffin;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;576.238;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:57:01.276296
+76979369;100200;Game stop;;;;;;;;;;;1;576.238;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979370;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1805;Blake Griffin;13;Los Angeles Clippers;;;1;576.238;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979371;800102;1-;1805;Blake Griffin;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;608.231;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979372;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;1;608.231;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979373;800101;1+;1805;Blake Griffin;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;623.613;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979374;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;626.914;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979375;800302;3-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;636.914;26.72;15.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979376;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;638.390;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979377;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;645.131;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979378;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;645.131;25.82;7.89;;;;;;;;Post;;Hook;;;;2017-12-07 10:57:01.276296
+76979379;100200;Game stop;;;;;;;;;;;1;669.998;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979380;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;1;669.998;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979381;100500;Turnover;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;669.998;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979382;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;699.984;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979383;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;1;699.984;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979384;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;699.984;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979385;100200;Game stop;;;;;;;;;;;1;699.984;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979386;300100;Foul;1805;Blake Griffin;13;Los Angeles Clippers;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;699.984;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979387;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;710.168;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979388;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;722.168;22.43;6.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979389;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;722.168;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979390;800600;2F;7503;Wesley Johnson;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;745.337;27.05;7.62;;;;;;;;Hand offs;;;;;;2017-12-07 10:57:01.276296
+76979391;100200;Game stop;;;;;;;;;;;1;745.337;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979392;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;745.337;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979393;800102;1-;7503;Wesley Johnson;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;768.949;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979394;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;1;768.949;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979395;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;787.436;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979396;800101;1+;7503;Wesley Johnson;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;1;787.436;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979397;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;790.448;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979398;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;799.448;25.22;12.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979399;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;799.448;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979400;400101;Accurate pass;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;810.388;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:57:01.276296
+76979401;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;1;810.388;26.21;10.29;;;;;;;;Hand offs;;;;;;2017-12-07 10:57:01.276296
+76979402;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;824.731;27.08;7.80;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:57:01.276296
+76979403;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;824.731;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979404;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;831.661;22.58;14.61;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:57:01.276296
+76979405;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;833.130;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979406;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;833.130;26.84;7.68;;;;;;;;Putbacks;;;;;;2017-12-07 10:57:01.276296
+76979407;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;1;833.130;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979408;800301;3+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;852.893;21.83;13.89;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:57:01.276296
+76979409;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;871.289;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979410;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;1;871.289;23.75;13.53;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979411;800302;3-;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;890.976;27.38;0.72;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979412;100200;Game stop;;;;;;;;;;;1;890.976;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979413;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;1;890.976;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979414;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;1;925.473;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979415;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;925.473;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979416;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;1;925.473;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979417;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;925.473;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979418;200300;Pick'n'Roll;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;925.473;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:57:01.276296
+76979419;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;925.473;25.52;0.87;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:57:01.276296
+76979420;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;925.473;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979421;200300;Pick'n'Roll;99345;Josh Smith;13;Los Angeles Clippers;;;;;179;Chris Paul;1;936.482;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979422;800202;2-;99345;Josh Smith;13;Los Angeles Clippers;;;;;179;Chris Paul;1;936.482;27.23;8.37;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2021-04-01 08:47:05.392245
+76979423;100300;Rebound;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;1;938.357;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979424;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;941.559;20.36;12.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979425;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;941.559;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979426;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;1;954.354;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979427;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;954.354;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979428;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;954.354;27.08;9.72;;;;;;;;Post;;Hook;;;;2017-12-07 10:57:01.276296
+76979429;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;1;968.955;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979430;200300;Pick'n'Roll;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;968.955;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:57:01.276296
+76979431;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;968.955;21.83;9.18;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:57:01.276296
+76979432;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;987.176;26.99;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:57:01.276296
+76979433;100200;Game stop;;;;;;;;;;;1;987.176;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979434;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;1;987.176;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979435;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;1;1022.893;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979436;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;1022.893;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979437;100400;Steal;9012;Rashad Vaughn;3280;Milwaukee Bucks;180;Jamal Crawford;13;Los Angeles Clippers;;;1;1022.893;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979438;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;1025.658;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979439;800600;2F;99345;Josh Smith;13;Los Angeles Clippers;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;1;1030.134;27.05;7.62;;;;;;;;Transition;;;;;;2021-04-01 08:47:05.392245
+76979440;100200;Game stop;;;;;;;;;;;1;1030.134;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979441;300100;Foul;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;99345;Josh Smith;13;Los Angeles Clippers;;;1;1030.134;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979442;800101;1+;99345;Josh Smith;13;Los Angeles Clippers;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;1;1057.098;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979443;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;1805;Blake Griffin;13;Los Angeles Clippers;;;1;1087.267;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979444;800101;1+;99345;Josh Smith;13;Los Angeles Clippers;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;1;1087.267;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979445;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;1;1091.411;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979446;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;99345;Josh Smith;13;Los Angeles Clippers;;;1;1102.411;26.99;7.89;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:57:01.276296
+76979447;100300;Rebound;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;1;1102.411;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979448;100400;Steal;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1804;Austin Rivers;13;Los Angeles Clippers;;;1;1109.406;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979449;800400;2+1;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;1116.270;26.96;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:57:01.276296
+76979450;100200;Game stop;;;;;;;;;;;1;1116.270;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979451;300100;Foul;176;Paul Pierce;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;1;1116.270;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979452;800101;1+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;176;Paul Pierce;13;Los Angeles Clippers;;;1;1141.452;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979453;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;1146.383;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979454;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1157.483;23.60;4.35;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979455;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;1157.483;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979456;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;1164.234;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979457;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;1164.234;25.67;7.02;;;;;;;;Transition;;;;;;2017-12-07 10:57:01.276296
+76979458;800202;2-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1804;Austin Rivers;1;1181.880;26.72;8.13;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 10:57:01.276296
+76979459;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;1;1181.880;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979460;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;1203.704;27.02;7.62;;;;;;;;Pick'n'Roll;;Dunk;;;;2017-12-07 10:57:01.276296
+76979461;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;99345;Josh Smith;1;1216.509;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979462;800301;3+;99345;Josh Smith;13;Los Angeles Clippers;;;;;1804;Austin Rivers;1;1216.509;26.99;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2021-04-01 08:47:05.392245
+76979463;1800500;Halftime;;;;;;;;;;;1;1216.509;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979464;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979465;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979466;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979467;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979468;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979469;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979470;1600500;Guard;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979471;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979472;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979473;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979474;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979475;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;26.275;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979476;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9022;John Henson;2;44.275;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979477;200600;Post;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;44.275;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979478;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;44.275;26.99;9.45;;;;;;;;Post;;Hook;;;;2017-12-07 10:57:01.276296
+76979479;100200;Game stop;;;;;;;;;;;2;68.521;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979480;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;68.521;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979481;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;88.457;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979482;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;104.457;21.41;13.65;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979483;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;104.457;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979484;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;10310;Johnny O'Bryant III;2;128.482;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979485;800301;3+;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;128.482;27.08;14.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979486;800302;3-;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;155.846;19.58;9.84;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:57:01.276296
+76979487;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;155.846;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979488;800600;2F;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1804;Austin Rivers;13;Los Angeles Clippers;;;2;168.072;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 10:57:01.276296
+76979489;100200;Game stop;;;;;;;;;;;2;168.072;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979490;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;168.072;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979491;800101;1+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1804;Austin Rivers;13;Los Angeles Clippers;;;2;196.914;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979492;800102;1-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1804;Austin Rivers;13;Los Angeles Clippers;;;2;214.317;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979493;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;214.317;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979494;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;214.317;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979495;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;226.504;25.76;5.73;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979496;100300;Rebound;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;228.978;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979497;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;228.978;26.63;7.77;;;;;;;;Putbacks;;;;;;2017-12-07 10:57:01.276296
+76979498;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;2;228.978;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979499;100200;Game stop;;;;;;;;;;;2;236.346;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979500;300100;Foul;2410;Lance Stephenson;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;236.346;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979501;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;274.184;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979502;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;274.184;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979503;400101;Accurate pass;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;9022;John Henson;2;274.184;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979504;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;2;274.184;26.84;7.65;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:57:01.276296
+76979505;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;282.880;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979506;800301;3+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;2;282.880;27.68;15.06;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:57:01.276296
+76979507;800202;2-;9012;Rashad Vaughn;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;297.898;26.84;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:57:01.276296
+76979508;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;297.898;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979509;800600;2F;176;Paul Pierce;13;Los Angeles Clippers;9022;John Henson;3280;Milwaukee Bucks;;;2;311.750;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 10:57:01.276296
+76979510;100200;Game stop;;;;;;;;;;;2;311.750;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979511;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;176;Paul Pierce;13;Los Angeles Clippers;;;2;311.750;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979512;1800600;Timeout;;;;;;;;;;;2;311.750;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979513;800102;1-;176;Paul Pierce;13;Los Angeles Clippers;9022;John Henson;3280;Milwaukee Bucks;;;2;338.964;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979514;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;338.964;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979515;800101;1+;176;Paul Pierce;13;Los Angeles Clippers;9022;John Henson;3280;Milwaukee Bucks;;;2;352.913;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979516;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;354.731;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979517;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;364.731;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979518;200300;Pick'n'Roll;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;364.731;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979519;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;364.731;24.74;3.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979520;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;384.371;25.10;10.98;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:57:01.276296
+76979521;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;384.371;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979522;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;2;399.487;26.72;8.13;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:57:01.276296
+76979523;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;399.487;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979524;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;411.659;21.41;13.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979525;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;411.659;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979526;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;421.979;23.03;10.68;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979527;100200;Game stop;;;;;;;;;;;2;437.172;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979528;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;179;Chris Paul;13;Los Angeles Clippers;;;2;437.172;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979529;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;176;Paul Pierce;13;Los Angeles Clippers;;;2;480.276;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979530;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;480.276;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979531;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;480.276;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979532;100200;Game stop;;;;;;;;;;;2;480.276;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979533;300100;Foul;1805;Blake Griffin;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;480.276;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979534;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;2;509.051;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979535;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;509.051;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979536;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9022;John Henson;2;509.051;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979537;200300;Pick'n'Roll;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;509.051;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979538;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;509.051;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 10:57:01.276296
+76979539;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;2;520.662;21.56;8.10;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979540;100200;Game stop;;;;;;;;;;;2;520.662;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979541;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;520.662;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979542;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;520.662;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979543;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;2;572.816;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979544;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;2410;Lance Stephenson;13;Los Angeles Clippers;;;2;572.816;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979545;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;572.816;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979546;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;2;572.816;27.08;1.80;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:57:01.276296
+76979547;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;573.488;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979548;100400;Steal;95270;OJ Mayo;3280;Milwaukee Bucks;179;Chris Paul;13;Los Angeles Clippers;;;2;585.429;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979549;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;591.791;27.08;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:57:01.276296
+76979550;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;591.791;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979551;800600;2F;1805;Blake Griffin;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;599.822;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:57:01.276296
+76979552;100200;Game stop;;;;;;;;;;;2;599.822;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979553;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;1805;Blake Griffin;13;Los Angeles Clippers;;;2;599.822;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979554;800101;1+;1805;Blake Griffin;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;638.102;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979555;800101;1+;1805;Blake Griffin;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;657.118;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979556;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;662.324;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979557;100200;Game stop;;;;;;;;;;;2;679.324;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979558;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;679.324;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979559;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;2;679.324;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979560;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;2;732.620;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979561;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;2;732.620;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979562;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;732.620;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979563;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;732.620;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979564;100400;Steal;370973;Jabari Parker;3280;Milwaukee Bucks;9150;JJ Redick;13;Los Angeles Clippers;;;2;741.907;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979565;100200;Game stop;;;;;;;;;;;2;774.001;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979566;100500;Turnover;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;774.001;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979567;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;785.367;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979568;400101;Accurate pass;9150;JJ Redick;13;Los Angeles Clippers;;;;;1805;Blake Griffin;2;796.367;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979569;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;796.367;26.99;8.04;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:57:01.276296
+76979570;200600;Post;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;812.808;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979571;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;812.808;22.97;4.80;;;;;;;;Post;;Jumper;;;;2017-12-07 10:57:01.276296
+76979572;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;833.035;21.20;13.35;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979573;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;834.913;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979574;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;839.574;27.05;7.56;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:57:01.276296
+76979575;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;859.598;26.57;13.65;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:57:01.276296
+76979576;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;859.598;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979577;100200;Game stop;;;;;;;;;;;2;873.529;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979578;100500;Turnover;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;873.529;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979579;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;887.674;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979580;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;897.674;23.03;5.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979581;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;897.674;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979582;800201;2+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;900.961;26.99;7.65;;;;;;;;Transition;;Dunk;;;;2017-12-07 10:57:01.276296
+76979583;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;2;921.210;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979584;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;921.210;26.84;7.26;;;;;;;;Screen off;;Lay up;;;;2017-12-07 10:57:01.276296
+76979585;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;2;926.973;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979586;800201;2+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;179;Chris Paul;2;926.973;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 10:57:01.276296
+76979587;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;947.894;25.64;7.95;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:57:01.276296
+76979588;100200;Game stop;;;;;;;;;;;2;947.894;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979589;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;2;947.894;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979590;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;965.070;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979591;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;968.070;27.08;3.51;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979592;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;968.070;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979593;400101;Accurate pass;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;2;973.328;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979594;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;973.328;27.23;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:57:01.276296
+76979595;100200;Game stop;;;;;;;;;;;2;982.055;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979596;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;2;982.055;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979597;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;982.055;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979598;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;2;1034.927;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979599;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1034.927;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979600;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1034.927;22.88;8.28;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:57:01.276296
+76979601;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1034.927;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979602;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1048.191;21.71;13.50;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979603;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1048.191;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979604;100200;Game stop;;;;;;;;;;;2;1054.536;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979605;100500;Turnover;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1054.536;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979606;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1071.408;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979607;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1084.408;22.43;11.04;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979608;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1084.408;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979609;100200;Game stop;;;;;;;;;;;2;1093.840;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979610;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;1093.840;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979611;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1115.764;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979612;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;2;1125.764;26.12;12.66;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979613;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1126.930;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979614;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1126.930;26.99;7.89;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 10:57:01.276296
+76979615;800600;2F;9150;JJ Redick;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;1142.142;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979616;100200;Game stop;;;;;;;;;;;2;1142.142;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979617;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;9150;JJ Redick;13;Los Angeles Clippers;;;2;1142.142;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979618;800102;1-;9150;JJ Redick;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;1172.357;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979619;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;1172.357;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979620;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;1190.435;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979621;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;2;1190.435;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979622;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1192.206;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979623;100400;Steal;1805;Blake Griffin;13;Los Angeles Clippers;9019;Greg Monroe;3280;Milwaukee Bucks;;;2;1211.206;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979624;800600;2F;1805;Blake Griffin;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;1215.717;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 10:57:01.276296
+76979625;100200;Game stop;;;;;;;;;;;2;1215.717;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979626;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;1805;Blake Griffin;13;Los Angeles Clippers;;;2;1215.717;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979627;800101;1+;1805;Blake Griffin;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;1249.896;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979628;800102;1-;1805;Blake Griffin;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;1268.445;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979629;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1268.904;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979630;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1269.904;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979631;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1274.167;23.33;4.35;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:57:01.276296
+76979632;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;2;1292.935;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979633;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1292.935;23.45;10.92;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 10:57:01.276296
+76979634;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;2;1300.083;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979635;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1300.083;27.05;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:57:01.276296
+76979636;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;1323.428;23.57;4.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979637;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1323.428;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979638;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;2;1330.738;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979639;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1330.738;18.89;7.83;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:57:01.276296
+76979640;100200;Game stop;;;;;;;;;;;2;1402.233;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979641;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;2;1402.233;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979642;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;1805;Blake Griffin;13;Los Angeles Clippers;;;2;1402.233;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979643;1600500;Guard;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;2;1402.233;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979644;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;2;1402.233;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979645;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;2;1402.233;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979646;100200;Game stop;;;;;;;;;;;2;1402.233;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979647;100500;Turnover;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1402.233;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979648;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;1402.233;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979649;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;2;1437.987;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979650;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1437.987;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979651;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;99345;Josh Smith;13;Los Angeles Clippers;;;2;1437.987;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979652;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;1437.987;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979653;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1437.987;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979654;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1437.987;26.96;8.04;;;;;;;;;;Lay up;;;;2017-12-07 10:57:01.276296
+76979655;100300;Rebound;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;;;2;1437.987;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979656;1800500;Halftime;;;;;;;;;;;2;1438.187;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979657;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979658;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979659;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979660;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979661;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979662;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979663;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979664;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979665;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979666;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979667;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979668;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;31.721;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979669;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;44.721;23.03;10.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979670;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;44.721;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979671;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;63.170;21.71;8.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979672;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;63.170;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979673;400101;Accurate pass;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;74.163;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979674;200600;Post;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;74.163;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979675;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;74.163;26.72;7.44;;;;;;;;Post;;Lay up;;;;2017-12-07 10:57:01.276296
+76979676;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;91.910;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979677;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;91.910;24.65;0.93;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979678;200300;Pick'n'Roll;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;108.982;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:57:01.276296
+76979679;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;108.982;24.59;12.45;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:57:01.276296
+76979680;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;108.982;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979681;100400;Steal;9020;Khris Middleton;3280;Milwaukee Bucks;1805;Blake Griffin;13;Los Angeles Clippers;;;3;119.242;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979682;100200;Game stop;;;;;;;;;;;3;124.749;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979683;100500;Turnover;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;124.749;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979684;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;134.282;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979685;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;145.282;21.80;11.22;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979686;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;145.282;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979687;400101;Accurate pass;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;370973;Jabari Parker;3;157.544;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979688;800201;2+;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;157.544;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:57:01.276296
+76979689;100200;Game stop;;;;;;;;;;;3;176.471;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979690;100500;Turnover;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;176.471;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979691;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;184.650;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979692;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;197.650;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979693;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;197.650;26.99;7.65;;;;;;;;Cut;;;;;;2017-12-07 10:57:01.276296
+76979694;200600;Post;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;226.349;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979695;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;226.349;26.57;10.80;;;;;;;;Post;;Jumper;;;;2017-12-07 10:57:01.276296
+76979696;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;244.357;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979697;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;244.357;27.02;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 10:57:01.276296
+76979698;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;259.182;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979699;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;259.182;26.42;15.12;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979700;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;282.540;20.90;12.69;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979701;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;282.540;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979702;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;323.359;25.64;8.64;;;;;;;;Screen off;;;;;;2017-12-07 10:57:01.276296
+76979703;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;345.786;26.72;8.22;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:57:01.276296
+76979704;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;347.273;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979705;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;347.273;26.72;8.13;;;;;;;;Putbacks;;;;;;2017-12-07 10:57:01.276296
+76979706;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;347.273;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979707;400101;Accurate pass;1805;Blake Griffin;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;359.245;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979708;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;1805;Blake Griffin;3;359.245;24.14;0.81;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979709;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;3;404.299;26.27;6.48;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:57:01.276296
+76979710;100200;Game stop;;;;;;;;;;;3;404.299;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979711;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;404.299;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979712;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;408.775;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979713;200300;Pick'n'Roll;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;424.775;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979714;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;3;424.775;26.42;11.58;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 10:57:01.276296
+76979715;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;424.775;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979716;800302;3-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;442.615;20.81;3.18;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979717;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;442.615;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979718;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;466.791;19.73;4.47;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:57:01.276296
+76979719;100200;Game stop;;;;;;;;;;;3;466.791;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979720;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;3;466.791;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979721;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;3;509.628;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979722;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;509.628;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979723;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;509.628;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:57:01.276296
+76979724;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;509.628;26.96;8.10;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 10:57:01.276296
+76979725;400101;Accurate pass;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;526.361;;;;;;;;;;Hand offs;;;;;;2017-12-07 10:57:01.276296
+76979726;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;526.361;26.99;1.95;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979727;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;551.203;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979728;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;551.203;26.81;8.43;;;;;;;;Post;;Lay up;;;;2017-12-07 10:57:01.276296
+76979729;100200;Game stop;;;;;;;;;;;3;562.286;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979730;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;3;562.286;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979731;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;572.601;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979732;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;584.601;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979733;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;584.601;24.50;13.11;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979734;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;600.215;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979735;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;600.215;26.27;7.35;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 10:57:01.276296
+76979736;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;622.587;27.38;2.55;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:57:01.276296
+76979737;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;622.587;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979738;100200;Game stop;;;;;;;;;;;3;631.106;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979739;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;631.106;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979740;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;3;661.512;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979741;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;661.512;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979742;400101;Accurate pass;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;661.512;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979743;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;661.512;26.84;7.68;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:57:01.276296
+76979744;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;688.732;21.98;7.89;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 10:57:01.276296
+76979745;100300;Rebound;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;688.732;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979746;800202;2-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;3;699.453;25.82;2.94;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:57:01.276296
+76979747;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;699.453;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979748;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;708.120;21.26;14.43;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:57:01.276296
+76979749;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;711.215;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979750;100200;Game stop;;;;;;;;;;;3;711.215;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979751;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1805;Blake Griffin;13;Los Angeles Clippers;;;3;711.215;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979752;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;3;711.215;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979753;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;1805;Blake Griffin;13;Los Angeles Clippers;;;3;758.443;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979754;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;758.443;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979755;100200;Game stop;;;;;;;;;;;3;758.443;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979756;100500;Turnover;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;758.443;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979757;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;770.861;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979758;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;3;779.861;25.97;7.80;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 10:57:01.276296
+76979759;100300;Rebound;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;3;779.861;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979760;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;786.202;27.08;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:57:01.276296
+76979761;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;803.064;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:57:01.276296
+76979762;100200;Game stop;;;;;;;;;;;3;803.064;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979763;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;803.064;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979764;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;834.305;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979765;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;3;854.864;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979766;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;854.864;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979767;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;859.031;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979768;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;3;870.031;26.99;14.91;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979769;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;870.031;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979770;800202;2-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;879.228;23.33;11.34;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 10:57:01.276296
+76979771;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;879.228;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979772;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;99345;Josh Smith;3;898.637;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979773;800301;3+;99345;Josh Smith;13;Los Angeles Clippers;;;;;179;Chris Paul;3;898.637;26.81;15.12;;;;;;;;Catch and shoot;;Jumper;;;;2021-04-01 08:47:05.392245
+76979774;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;3;911.369;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979775;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;916.701;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979776;800400;2+1;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;916.701;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 10:57:01.276296
+76979777;100200;Game stop;;;;;;;;;;;3;916.701;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979778;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;916.701;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979779;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;966.853;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979780;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;9019;Greg Monroe;3280;Milwaukee Bucks;;;3;966.853;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979781;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;3;966.853;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979782;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;3;966.853;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979783;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;966.853;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979784;100300;Rebound;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;966.853;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979785;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;979.810;22.88;10.92;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979786;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;3;979.810;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979787;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;993.102;23.75;14.76;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979788;100200;Game stop;;;;;;;;;;;3;993.102;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979789;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;3;993.102;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979790;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1037.041;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979791;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1037.041;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979792;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;3;1037.041;25.82;9.96;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979793;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;1037.041;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979794;200300;Pick'n'Roll;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;3;1059.448;;;;;;;;;;Pick'n'pop;;;;;;2021-04-01 08:47:05.392245
+76979795;800600;2F;99345;Josh Smith;13;Los Angeles Clippers;9022;John Henson;3280;Milwaukee Bucks;;;3;1059.448;27.05;7.62;;;;;;;;Pick'n'pop;;;Drives Left;;;2021-04-01 08:47:05.392245
+76979796;100200;Game stop;;;;;;;;;;;3;1059.448;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979797;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;99345;Josh Smith;13;Los Angeles Clippers;;;3;1059.448;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979798;800102;1-;99345;Josh Smith;13;Los Angeles Clippers;9022;John Henson;3280;Milwaukee Bucks;;;3;1085.432;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979799;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;1085.432;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979800;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;1805;Blake Griffin;13;Los Angeles Clippers;;;3;1112.374;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979801;800101;1+;99345;Josh Smith;13;Los Angeles Clippers;9022;John Henson;3280;Milwaukee Bucks;;;3;1112.374;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979802;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1116.016;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979803;100200;Game stop;;;;;;;;;;;3;1118.316;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979804;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;3;1118.316;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979805;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;3;1143.064;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979806;400101;Accurate pass;9022;John Henson;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;1147.464;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979807;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9022;John Henson;3;1147.464;26.84;7.83;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:57:01.276296
+76979808;1800500;Halftime;;;;;;;;;;;3;1147.564;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979809;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979810;1600500;Guard;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979811;1600500;Guard;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979812;1600500;Guard;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979813;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979814;1600500;Guard;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979815;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979816;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979817;1600500;Guard;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979818;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979819;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979820;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;33.280;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979821;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;180;Jamal Crawford;4;51.280;24.20;12.69;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979822;100300;Rebound;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;51.280;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979823;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;59.712;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979824;400101;Accurate pass;1805;Blake Griffin;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;4;66.624;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979825;800400;2+1;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1805;Blake Griffin;4;66.624;26.84;7.80;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:57:01.276296
+76979826;100200;Game stop;;;;;;;;;;;4;66.624;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979827;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;66.624;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979828;800102;1-;7503;Wesley Johnson;13;Los Angeles Clippers;9022;John Henson;3280;Milwaukee Bucks;;;4;95.410;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979829;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;95.410;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979830;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;95.410;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979831;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;118.954;25.97;8.88;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 10:57:01.276296
+76979832;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;4;147.316;23.03;12.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979833;100300;Rebound;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;148.199;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979834;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;150.789;19.64;6.33;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 10:57:01.276296
+76979835;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;150.789;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979836;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;160.541;20.09;11.88;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:57:01.276296
+76979837;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;4;160.541;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979838;800302;3-;99345;Josh Smith;13;Los Angeles Clippers;;;;;1804;Austin Rivers;4;173.795;19.28;6.24;;;;;;;;Catch and shoot;;Jumper;;;;2021-04-01 08:47:05.392245
+76979839;100300;Rebound;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;;;;;4;173.795;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979840;100400;Steal;1805;Blake Griffin;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;194.325;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979841;100200;Game stop;;;;;;;;;;;4;206.434;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979842;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;180;Jamal Crawford;13;Los Angeles Clippers;;;4;206.434;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979843;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;4;240.108;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979844;1600500;Guard;9020;Khris Middleton;3280;Milwaukee Bucks;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;240.108;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979845;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;240.108;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979846;800400;2+1;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;240.108;26.81;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 10:57:01.276296
+76979847;100200;Game stop;;;;;;;;;;;4;240.108;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979848;300100;Foul;9012;Rashad Vaughn;3280;Milwaukee Bucks;1804;Austin Rivers;13;Los Angeles Clippers;;;4;240.108;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979849;800101;1+;1804;Austin Rivers;13;Los Angeles Clippers;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;265.795;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979850;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;270.505;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979851;100200;Game stop;;;;;;;;;;;4;276.505;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979852;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;276.505;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979853;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;293.498;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979854;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9022;John Henson;4;300.498;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979855;800201;2+;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;300.498;26.72;6.18;;;;;;;;Cut;;Hook;;;;2017-12-07 10:57:01.276296
+76979856;200300;Pick'n'Roll;1805;Blake Griffin;13;Los Angeles Clippers;;;;;180;Jamal Crawford;4;321.291;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:57:01.276296
+76979857;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;180;Jamal Crawford;4;321.291;23.75;12.84;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:57:01.276296
+76979858;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;321.291;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979859;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;99345;Josh Smith;13;Los Angeles Clippers;;;4;332.025;27.08;7.68;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:57:01.276296
+76979860;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;332.025;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979861;800202;2-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;341.563;21.26;8.10;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979862;100300;Rebound;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;341.563;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979863;100200;Game stop;;;;;;;;;;;4;347.396;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979864;300300;Technical foul;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;347.396;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979865;1800600;Timeout;;;;;;;;;;;4;347.396;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979866;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;377.204;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979867;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;390.023;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979868;200300;Pick'n'Roll;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;402.023;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979869;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;402.023;26.36;9.27;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 10:57:01.276296
+76979870;100300;Rebound;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;404.258;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979871;800202;2-;9022;John Henson;3280;Milwaukee Bucks;;;;;;;4;404.258;26.51;7.62;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 10:57:01.276296
+76979872;100300;Rebound;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;404.258;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+76979873;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;4;448.115;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979874;200600;Post;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;448.115;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979875;800201;2+;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;448.115;27.83;12.12;;;;;;;;Post;;Jumper;;;;2017-12-07 10:57:01.276296
+76979876;100200;Game stop;;;;;;;;;;;4;468.553;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979877;300100;Foul;9022;John Henson;3280;Milwaukee Bucks;180;Jamal Crawford;13;Los Angeles Clippers;;;4;468.553;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979878;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;4;507.506;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979879;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;2410;Lance Stephenson;13;Los Angeles Clippers;;;4;507.506;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979880;1600500;Guard;9019;Greg Monroe;3280;Milwaukee Bucks;9022;John Henson;3280;Milwaukee Bucks;;;4;507.506;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979881;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;507.506;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979882;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;507.506;25.91;8.22;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76979883;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;524.969;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979884;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;524.969;26.99;7.89;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:57:01.276296
+76979885;200600;Post;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;545.275;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979886;800600;2F;1805;Blake Griffin;13;Los Angeles Clippers;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;545.275;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 10:57:01.276296
+76979887;100200;Game stop;;;;;;;;;;;4;545.275;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979888;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;1805;Blake Griffin;13;Los Angeles Clippers;;;4;545.275;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979889;800102;1-;1805;Blake Griffin;13;Los Angeles Clippers;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;581.997;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979890;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;581.997;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979891;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;99345;Josh Smith;13;Los Angeles Clippers;;;4;602.220;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979892;800101;1+;1805;Blake Griffin;13;Los Angeles Clippers;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;602.220;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979893;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;605.733;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979894;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;623.733;23.18;6.12;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 10:57:01.276296
+76979895;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;623.733;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979896;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;4;628.524;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979897;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;628.524;26.99;7.89;;;;;;;;Transition;;Lay up;;;;2017-12-07 10:57:01.276296
+76979898;200600;Post;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;645.841;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979899;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;645.841;25.82;8.10;;;;;;;;Post;;Jumper;;;;2017-12-07 10:57:01.276296
+76979900;100300;Rebound;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;;;4;647.417;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979901;100200;Game stop;;;;;;;;;;;4;647.417;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979902;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;647.417;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979903;1600500;Guard;95270;OJ Mayo;3280;Milwaukee Bucks;9012;Rashad Vaughn;3280;Milwaukee Bucks;;;4;695.014;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979904;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;695.014;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979905;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;695.014;24.02;4.20;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 10:57:01.276296
+76979906;100200;Game stop;;;;;;;;;;;4;695.014;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979907;100300;Rebound;;;3280;Milwaukee Bucks;;;;;;;4;695.014;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979908;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;695.014;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979909;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;695.014;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979910;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;723.958;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979911;800202;2-;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;730.958;26.99;8.28;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 10:57:01.276296
+76979912;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;730.958;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979913;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;180;Jamal Crawford;4;739.756;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979914;800301;3+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;4;739.756;26.57;14.76;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:57:01.276296
+76979915;800202;2-;370973;Jabari Parker;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;782.448;26.96;7.98;;;;;;;;Cut;;Lay up;;;;2017-12-07 10:57:01.276296
+76979916;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;782.448;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979917;100200;Game stop;;;;;;;;;;;4;782.448;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979918;100500;Turnover;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;782.448;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979919;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;802.940;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979920;800202;2-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;812.940;25.10;6.78;;;;;;;;Screen off;;Jumper;;;;2017-12-07 10:57:01.276296
+76979921;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;812.940;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979922;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;817.776;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979923;100200;Game stop;;;;;;;;;;;4;817.776;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979924;300100;Foul;370973;Jabari Parker;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;817.776;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979925;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;854.086;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979926;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;854.086;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979927;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;870.146;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979928;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;870.146;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979929;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;870.930;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979930;400101;Accurate pass;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;9150;JJ Redick;4;873.184;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979931;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;4;873.184;19.79;4.86;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979932;800600;2F;9020;Khris Middleton;3280;Milwaukee Bucks;9150;JJ Redick;13;Los Angeles Clippers;;;4;882.986;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979933;100200;Game stop;;;;;;;;;;;4;882.986;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979934;300100;Foul;9150;JJ Redick;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;882.986;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979935;800101;1+;9020;Khris Middleton;3280;Milwaukee Bucks;9150;JJ Redick;13;Los Angeles Clippers;;;4;916.923;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979936;800102;1-;9020;Khris Middleton;3280;Milwaukee Bucks;9150;JJ Redick;13;Los Angeles Clippers;;;4;932.064;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979937;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;932.064;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979938;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;932.064;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979939;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;934.482;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979940;100200;Game stop;;;;;;;;;;;4;934.482;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979941;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;934.482;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979942;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;968.190;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979943;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;968.190;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979944;1600500;Guard;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;370973;Jabari Parker;3280;Milwaukee Bucks;;;4;996.654;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979945;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;996.654;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979946;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;998.500;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979947;800202;2-;9191;Michael Carter-Williams;3280;Milwaukee Bucks;1805;Blake Griffin;13;Los Angeles Clippers;9019;Greg Monroe;4;1012.500;26.12;8.28;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:57:01.276296
+76979948;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1013.612;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979949;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;1018.470;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979950;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;1018.470;27.62;11.22;;;;;;;;Cut;;Jumper;;;;2017-12-07 10:57:01.276296
+76979951;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1026.970;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979952;100200;Game stop;;;;;;;;;;;4;1026.970;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979953;300100;Foul;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1026.970;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979954;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1073.137;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979955;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1091.961;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979956;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1097.237;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979957;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;1108.237;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979958;200300;Pick'n'Roll;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;1108.237;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979959;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;1108.237;25.64;11.97;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 10:57:01.276296
+76979960;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;1116.876;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979961;100200;Game stop;;;;;;;;;;;4;1116.876;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979962;300100;Foul;9191;Michael Carter-Williams;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1116.876;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979963;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;1153.463;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979964;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1153.463;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979965;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;4;1171.211;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979966;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1172.867;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979967;800302;3-;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;1185.867;20.90;13.05;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 10:57:01.276296
+76979968;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;1185.867;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979969;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;1194.389;21.20;2.88;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:57:01.276296
+76979970;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1194.389;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979971;800201;2+;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;1201.899;25.19;8.10;;;;;;;;Transition;;Jumper;;;;2017-12-07 10:57:01.276296
+76979972;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;4;1218.767;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979973;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1218.767;25.82;7.74;;;;;;;;Screen off;;;;;;2017-12-07 10:57:01.276296
+76979974;100200;Game stop;;;;;;;;;;;4;1218.767;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979975;1800600;Timeout;;;3280;Milwaukee Bucks;;;;;;;4;1218.767;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979976;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1252.126;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979977;400101;Accurate pass;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;4;1266.126;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979978;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;1266.126;27.23;8.19;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 10:57:01.276296
+76979979;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;4;1286.578;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979980;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1286.578;21.71;9.51;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76979981;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1298.910;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:57:01.276296
+76979982;100200;Game stop;;;;;;;;;;;4;1298.910;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979983;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1298.910;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979984;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1327.090;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979985;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1350.447;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979986;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1353.018;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979987;800600;2F;9150;JJ Redick;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;1362.018;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979988;100200;Game stop;;;;;;;;;;;4;1362.018;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979989;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;9150;JJ Redick;13;Los Angeles Clippers;;;4;1362.018;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979990;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;1391.776;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979991;800101;1+;9150;JJ Redick;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;1405.903;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979992;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1409.034;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76979993;400101;Accurate pass;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;4;1417.034;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979994;200300;Pick'n'Roll;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;1417.034;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979995;800201;2+;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;1417.034;26.96;7.80;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 10:57:01.276296
+76979996;800600;2F;179;Chris Paul;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;1430.047;27.05;7.62;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979997;100200;Game stop;;;;;;;;;;;4;1430.047;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979998;300100;Foul;95270;OJ Mayo;3280;Milwaukee Bucks;179;Chris Paul;13;Los Angeles Clippers;;;4;1430.047;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76979999;800101;1+;179;Chris Paul;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;1449.920;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980000;800101;1+;179;Chris Paul;13;Los Angeles Clippers;95270;OJ Mayo;3280;Milwaukee Bucks;;;4;1462.363;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980001;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1465.184;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76980002;800201;2+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1474.184;21.98;9.51;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 10:57:01.276296
+76980003;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;1516.460;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 10:57:01.276296
+76980004;100200;Game stop;;;;;;;;;;;4;1516.460;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980005;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1516.460;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980006;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;1544.983;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980007;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1544.983;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980008;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;9020;Khris Middleton;3280;Milwaukee Bucks;;;4;1568.402;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980009;100100;Ball in play;;;3280;Milwaukee Bucks;;;;;;;4;1573.304;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76980010;800600;2F;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1584.304;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 10:57:01.276296
+76980011;100200;Game stop;;;;;;;;;;;4;1584.304;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980012;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;4;1584.304;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980013;800101;1+;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1624.843;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980014;800102;1-;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;177;DeAndre Jordan;13;Los Angeles Clippers;;;4;1647.751;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980015;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1647.751;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76980016;100300;Rebound;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;1647.751;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980017;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;4;1663.241;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980018;800201;2+;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1663.241;21.26;8.13;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 10:57:01.276296
+76980019;100200;Game stop;;;;;;;;;;;4;1674.325;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980020;100500;Turnover;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1674.325;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980021;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1681.863;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76980022;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1699.963;18.89;7.32;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 10:57:01.276296
+76980023;800201;2+;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1715.194;25.97;10.20;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 10:57:01.276296
+76980024;200300;Pick'n'Roll;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1741.727;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 10:57:01.276296
+76980025;800202;2-;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1741.727;22.88;13.20;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 10:57:01.276296
+76980026;100300;Rebound;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;4;1741.727;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980027;800302;3-;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;1752.971;27.53;15.00;;;;;;;;;;Jumper;;;;2017-12-07 10:57:01.276296
+76980028;100200;Game stop;;;;;;;;;;;4;1752.971;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980029;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;1752.971;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+76980030;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;1752.971;;;;;;;;;;;;;;;;2019-10-24 13:33:03.865205
+76980031;1800700;Match end;;;;;;;;;;;4;1753.471;;;;;;;;;;;;;;;;2017-12-07 10:57:01.276296
+93267624;100500;Turnover;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;2;480.276;;;;;;;;;;;;;;;;2018-01-11 20:48:01.423558
+93267625;300100;Foul;9020;Khris Middleton;3280;Milwaukee Bucks;9150;JJ Redick;13;Los Angeles Clippers;;;2;1054.536;;;;;;;;;;;;;;;;2018-01-11 20:48:01.423558
+104905809;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;184.135;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905811;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;1805;Blake Griffin;1;193.567;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905813;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;232.573;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905815;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;1;245.460;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905817;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;335.994;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905819;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;1;346.013;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905821;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;372.939;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905823;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;1;421.100;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905825;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;1;445.342;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905827;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;1;484.787;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905829;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;1;576.238;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905831;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;1;645.131;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905833;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;745.337;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905835;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;1805;Blake Griffin;1;810.388;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905837;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;1;852.893;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905839;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;1;871.289;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905841;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;1;954.354;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905843;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;1;968.955;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905845;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;987.176;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905847;200900;Assisting;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;1;1030.134;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+104905849;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;1116.270;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905851;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;1;1164.234;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905853;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;1;1203.704;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905855;200900;Assisting;99345;Josh Smith;13;Los Angeles Clippers;;;;;1804;Austin Rivers;1;1216.509;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+104905857;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;44.275;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905859;200900;Assisting;10310;Johnny O'Bryant III;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;128.482;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905861;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;2;168.072;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905863;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9012;Rashad Vaughn;2;274.184;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905865;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;2;282.880;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905867;200900;Assisting;176;Paul Pierce;13;Los Angeles Clippers;;;;;;;2;311.750;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905869;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;364.731;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905871;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;421.979;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905873;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;509.051;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905875;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;2;599.822;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905877;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;796.367;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905879;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;2;812.808;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905881;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;839.574;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905883;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;900.961;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905885;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;2;921.210;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905887;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;179;Chris Paul;2;926.973;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905889;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;973.328;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905891;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;2;1126.930;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905893;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;1142.142;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905895;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;2;1215.717;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905897;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1274.167;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905899;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;2;1292.935;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905901;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1300.083;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905903;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9026;Giannis Antetokounmpo;3;74.163;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905905;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;91.910;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905907;200900;Assisting;370973;Jabari Parker;3280;Milwaukee Bucks;;;;;9020;Khris Middleton;3;157.544;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905909;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;197.650;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905911;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;3;226.349;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905913;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;244.357;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905915;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;259.182;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905917;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;323.359;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905919;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;1805;Blake Griffin;3;359.245;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905921;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;466.791;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905923;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;509.628;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905925;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;526.361;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905927;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;;;3;551.203;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905929;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;584.601;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905931;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;3;600.215;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905933;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;9019;Greg Monroe;3;661.512;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905935;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;786.202;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905937;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;3;803.064;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905939;200900;Assisting;99345;Josh Smith;13;Los Angeles Clippers;;;;;179;Chris Paul;3;898.637;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+104905941;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;916.701;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905943;200900;Assisting;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;3;1059.448;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+104905945;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9022;John Henson;3;1147.464;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905947;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;1805;Blake Griffin;4;66.624;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905949;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;118.954;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905951;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;240.108;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905953;200900;Assisting;9022;John Henson;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;300.498;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905955;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;448.115;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905957;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;507.506;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905959;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;524.969;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905961;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;;;4;545.275;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905963;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;628.524;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905965;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;179;Chris Paul;4;739.756;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905967;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;817.776;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905969;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;4;873.184;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905971;200900;Assisting;9020;Khris Middleton;3280;Milwaukee Bucks;;;;;;;4;882.986;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905973;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;934.482;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905975;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;1018.470;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905977;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;1026.970;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905979;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;1108.237;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905981;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;1116.876;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905983;200900;Assisting;95270;OJ Mayo;3280;Milwaukee Bucks;;;;;;;4;1201.899;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905985;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1218.767;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905987;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;9191;Michael Carter-Williams;4;1266.126;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905989;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1286.578;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905991;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1298.910;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905993;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;4;1362.018;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905995;200900;Assisting;9019;Greg Monroe;3280;Milwaukee Bucks;;;;;95270;OJ Mayo;4;1417.034;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905997;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1430.047;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104905999;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1474.184;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104906001;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;4;1516.460;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104906003;200900;Assisting;9026;Giannis Antetokounmpo;3280;Milwaukee Bucks;;;;;;;4;1584.304;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104906005;200900;Assisting;1805;Blake Griffin;13;Los Angeles Clippers;;;;;179;Chris Paul;4;1663.241;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104906007;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;4;1699.963;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768
+104906009;200900;Assisting;9191;Michael Carter-Williams;3280;Milwaukee Bucks;;;;;;;4;1715.194;;;;;;;;;;;;;;;;2018-03-03 03:04:00.956768

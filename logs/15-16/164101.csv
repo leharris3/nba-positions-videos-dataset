@@ -1,0 +1,827 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+77073756;1601000;Starting lineup;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77073757;1601000;Starting lineup;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073758;1601000;Starting lineup;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073759;1601000;Starting lineup;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073760;1601000;Starting lineup;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073761;1601000;Starting lineup;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073762;1601000;Starting lineup;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073763;1601000;Starting lineup;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073764;1601000;Starting lineup;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073765;1601000;Starting lineup;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073766;1601000;Starting lineup;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073767;1601000;Starting lineup;13676;Branden Dawson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073780;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073781;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073782;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073783;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073784;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073785;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073794;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;141.215;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073795;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;1;141.215;23.60;10.59;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:40:03.426989
+77073797;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;158.667;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073798;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;168.797;23.75;7.89;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:40:03.426989
+77073800;100200;Game stop;;;;;;;;;;;1;178.523;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073801;300100;Foul;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;7466;Jerami Grant;3224;Philadelphia 76ers;;;1;178.523;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073804;100300;Rebound;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;210.725;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073805;800202;2-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;243.003;26.12;8.43;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:40:03.426989
+77073806;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;243.959;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073807;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;248.012;20.81;12.36;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:40:03.426989
+77073813;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;283.060;21.83;4.71;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77073816;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;1;312.091;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073817;800600;2F;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;325.438;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:40:03.426989
+77073818;100200;Game stop;;;;;;;;;;;1;325.438;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073820;800102;1-;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;344.242;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073821;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;1;344.242;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073822;800101;1+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;356.309;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073824;100200;Game stop;;;;;;;;;;;1;370.791;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073826;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;372.012;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073827;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;1;381.012;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073828;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;179;Chris Paul;1;381.012;27.08;14.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77073830;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;406.101;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073831;800301;3+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;412.600;19.43;9.03;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77073832;100200;Game stop;;;;;;;;;;;1;412.600;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073835;100200;Game stop;;;;;;;;;;;1;431.583;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073836;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;431.583;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073840;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;458.675;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073844;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;492.182;26.42;7.62;;;;;;;;Screen off;;Floater;;;;2017-12-07 11:40:03.426989
+77073847;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;500.016;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073848;100200;Game stop;;;;;;;;;;;1;534.254;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073850;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;546.756;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073851;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;1;553.756;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073852;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;1;553.756;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:40:03.426989
+77073855;100200;Game stop;;;;;;;;;;;1;580.913;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073857;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;596.959;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073858;100200;Game stop;;;;;;;;;;;1;604.959;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073860;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;618.973;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073861;200600;Post;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;626.973;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073862;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;626.973;23.75;11.13;;;;;;;;Post;;Jumper;;;;2017-12-07 11:40:03.426989
+77073867;400101;Accurate pass;9150;JJ Redick;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;1;657.895;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073868;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;657.895;27.05;15.30;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77073871;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;677.328;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073872;200600;Post;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;691.078;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073873;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;1;691.078;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:40:03.426989
+77073874;100200;Game stop;;;;;;;;;;;1;691.078;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073876;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;1;719.638;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073880;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;1;747.585;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073884;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;1;770.061;23.18;7.74;;;;;;;;Screen off;;Floater;;;;2017-12-07 11:40:03.426989
+77073889;100200;Game stop;;;;;;;;;;;1;789.329;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073890;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;1;789.329;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073891;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;816.084;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073893;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;1;816.084;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073894;800600;2F;179;Chris Paul;13;Los Angeles Clippers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;1;816.084;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:40:03.426989
+77073895;100200;Game stop;;;;;;;;;;;1;816.084;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073897;800101;1+;179;Chris Paul;13;Los Angeles Clippers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;1;836.216;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073898;800101;1+;179;Chris Paul;13;Los Angeles Clippers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;1;849.207;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073902;800600;2F;179;Chris Paul;13;Los Angeles Clippers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;1;876.446;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:40:03.426989
+77073903;100200;Game stop;;;;;;;;;;;1;876.446;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073905;800101;1+;179;Chris Paul;13;Los Angeles Clippers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;1;896.996;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073906;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;1;908.836;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073907;800101;1+;179;Chris Paul;13;Los Angeles Clippers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;1;908.836;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073912;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;936.038;21.56;7.44;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77073914;100200;Game stop;;;;;;;;;;;1;947.810;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073915;300100;Foul;1804;Austin Rivers;13;Los Angeles Clippers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;1;947.810;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073916;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;1;980.687;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073921;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;1;1023.911;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073922;200300;Pick'n'Roll;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;1;1023.911;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:40:03.426989
+77073923;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;1;1023.911;20.36;4.17;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:40:03.426989
+77073925;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;1046.569;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073926;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1108.422;21.41;4.74;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:40:03.426989
+77073929;800600;2F;180;Jamal Crawford;13;Los Angeles Clippers;7466;Jerami Grant;3224;Philadelphia 76ers;;;1;1146.487;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:40:03.426989
+77073930;100200;Game stop;;;;;;;;;;;1;1146.487;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073932;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;7466;Jerami Grant;3224;Philadelphia 76ers;;;1;1171.906;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073933;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;1199.260;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073934;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;1199.260;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073936;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;7466;Jerami Grant;3224;Philadelphia 76ers;;;1;1199.260;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073940;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;1;1223.574;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073941;100200;Game stop;;;;;;;;;;;1;1241.240;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073942;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;1;1241.240;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073945;800600;2F;180;Jamal Crawford;13;Los Angeles Clippers;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;1;1278.545;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073946;100200;Game stop;;;;;;;;;;;1;1278.545;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073948;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;1;1307.626;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073949;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;1;1323.507;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073951;100200;Game stop;;;;;;;;;;;1;1329.082;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073952;300100;Foul;8964;Pablo Prigioni;13;Los Angeles Clippers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;1;1329.082;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073955;100300;Rebound;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;1;1356.235;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073956;400101;Accurate pass;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;1;1376.246;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073957;800301;3+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;1376.246;20.18;4.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77073958;1800500;Halftime;;;;;;;;;;;1;1376.346;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073959;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073960;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073961;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073962;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073963;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073964;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073970;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;11.805;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073971;100200;Game stop;;;;;;;;;;;2;31.805;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073973;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;48.346;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073974;400101;Accurate pass;1804;Austin Rivers;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;2;57.346;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073975;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;57.346;24.14;7.35;;;;;;;;Cut;;Hook;;;;2017-12-07 11:40:03.426989
+77073978;800400;2+1;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;94.545;26.57;7.65;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 11:40:03.426989
+77073979;100200;Game stop;;;;;;;;;;;2;94.545;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073981;800101;1+;1804;Austin Rivers;13;Los Angeles Clippers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;2;114.799;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073985;100200;Game stop;;;;;;;;;;;2;150.414;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073989;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;2;175.434;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073990;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;2;186.380;21.83;2.01;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77073994;400101;Accurate pass;180;Jamal Crawford;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;2;214.468;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073995;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;214.468;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073996;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;214.468;26.51;8.10;;;;;;;;Pick-n-roll without a ball;;;;;;2017-12-07 11:40:03.426989
+77073998;100200;Game stop;;;;;;;;;;;2;235.237;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073999;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;2;235.237;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074002;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;287.945;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074003;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;2;287.945;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074004;400101;Accurate pass;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;2;302.360;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074005;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;2410;Lance Stephenson;2;302.360;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074006;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;2410;Lance Stephenson;2;302.360;26.72;8.64;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 11:40:03.426989
+77074008;100300;Rebound;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;2;323.640;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074009;800600;2F;2410;Lance Stephenson;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;2;330.379;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:40:03.426989
+77074010;100200;Game stop;;;;;;;;;;;2;330.379;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074012;1800600;Timeout;;;;;;;;;;;2;330.379;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074014;800101;1+;2410;Lance Stephenson;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;2;351.186;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074015;800102;1-;2410;Lance Stephenson;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;2;365.458;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074019;100200;Game stop;;;;;;;;;;;2;384.292;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074020;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;2;384.292;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074023;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;441.954;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074025;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;442.388;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074026;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;455.388;26.57;5.58;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:40:03.426989
+77074029;200600;Post;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;486.694;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074030;800202;2-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;486.694;26.72;9.45;;;;;;;;Post;;Hook;;;;2017-12-07 11:40:03.426989
+77074034;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;512.998;23.75;6.09;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074035;100200;Game stop;;;;;;;;;;;2;526.020;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074037;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;8964;Pablo Prigioni;13;Los Angeles Clippers;;;2;554.979;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074041;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;554.979;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074042;100200;Game stop;;;;;;;;;;;2;560.877;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074045;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;588.259;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074046;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;588.259;21.11;10.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074050;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;615.879;21.41;9.42;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074052;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;627.352;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074053;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;640.368;26.12;7.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074055;100200;Game stop;;;;;;;;;;;2;672.123;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074056;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;2410;Lance Stephenson;13;Los Angeles Clippers;;;2;672.123;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074060;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;2;688.967;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074061;200300;Pick'n'Roll;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;2;688.967;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074062;800400;2+1;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;2;688.967;26.27;7.26;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:40:03.426989
+77074063;100200;Game stop;;;;;;;;;;;2;688.967;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074066;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;724.300;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074067;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;2;724.300;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074068;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;2;724.300;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074072;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;747.501;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074073;800600;2F;177;DeAndre Jordan;13;Los Angeles Clippers;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;749.796;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074074;100200;Game stop;;;;;;;;;;;2;749.796;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074076;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;780.665;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074077;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;7466;Jerami Grant;3224;Philadelphia 76ers;;;2;797.168;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074082;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;2;819.910;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074083;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;828.338;26.57;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:40:03.426989
+77074086;100200;Game stop;;;;;;;;;;;2;837.044;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074087;300100;Foul;7503;Wesley Johnson;13;Los Angeles Clippers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;2;837.044;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074089;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;892.155;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074090;800102;1-;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;893.155;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074091;100200;Game stop;;;;;;;;;;;2;893.155;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074092;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;893.155;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074093;800101;1+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;908.940;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074096;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;935.398;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074097;800600;2F;179;Chris Paul;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;2;942.693;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 11:40:03.426989
+77074098;100200;Game stop;;;;;;;;;;;2;942.693;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074100;800101;1+;179;Chris Paul;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;2;962.186;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074102;800101;1+;179;Chris Paul;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;2;981.295;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074104;100200;Game stop;;;;;;;;;;;2;993.527;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074106;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;995.561;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074107;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;2;1007.561;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074108;200300;Pick'n'Roll;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1007.561;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074109;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1007.561;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:40:03.426989
+77074111;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1045.141;22.10;9.66;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:40:03.426989
+77074112;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1045.870;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074113;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1045.870;27.02;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 11:40:03.426989
+77074115;800202;2-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;1079.959;22.28;4.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074118;100300;Rebound;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;2;1085.535;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074119;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;2;1093.607;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074120;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1093.607;26.36;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:40:03.426989
+77074122;100300;Rebound;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;2;1111.916;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074123;100200;Game stop;;;;;;;;;;;2;1116.689;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074124;100500;Turnover;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;2;1116.689;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074125;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;2;1116.689;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074128;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;6400;Robert Covington;3224;Philadelphia 76ers;;;2;1139.993;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074129;400101;Accurate pass;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;9150;JJ Redick;2;1161.726;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074130;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1161.726;21.98;13.53;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074132;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1179.991;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074133;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1195.826;19.43;10.68;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:40:03.426989
+77074136;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1208.923;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074137;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;2;1220.377;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074138;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1220.377;26.81;7.89;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:40:03.426989
+77074140;100200;Game stop;;;;;;;;;;;2;1234.445;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074141;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;1234.445;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074142;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;2;1290.624;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074144;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1290.624;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074145;100200;Game stop;;;;;;;;;;;2;1290.624;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074146;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;1290.624;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074147;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;2;1313.154;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074148;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;1316.154;18.44;7.95;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77074149;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;2;1316.154;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074150;1800500;Halftime;;;;;;;;;;;2;1316.154;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074151;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074152;1600500;Guard;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074153;1600500;Guard;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074154;1600500;Guard;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074155;1600500;Guard;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074156;1600500;Guard;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074162;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;11.105;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074163;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;27.105;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074164;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;27.105;19.34;7.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:40:03.426989
+77074167;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;66.396;26.66;8.58;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:40:03.426989
+77074169;100200;Game stop;;;;;;;;;;;3;81.292;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074170;300100;Foul;7503;Wesley Johnson;13;Los Angeles Clippers;7466;Jerami Grant;3224;Philadelphia 76ers;;;3;81.292;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074173;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;126.878;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074174;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;126.878;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074175;100200;Game stop;;;;;;;;;;;3;137.368;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074176;100500;Turnover;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;137.368;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074178;100200;Game stop;;;;;;;;;;;3;157.408;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074180;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;165.245;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074181;400101;Accurate pass;9150;JJ Redick;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;177.245;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074182;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;177.245;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:40:03.426989
+77074183;100200;Game stop;;;;;;;;;;;3;177.245;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074189;800302;3-;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;219.009;20.03;4.74;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:40:03.426989
+77074194;400101;Accurate pass;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;240.341;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074195;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;3;240.341;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:40:03.426989
+77074198;800202;2-;9150;JJ Redick;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;3;275.742;25.64;7.50;;;;;;;;Screen off;;Jumper;;;;2017-12-07 11:40:03.426989
+77074200;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;3;282.410;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074201;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;3;291.388;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074202;800301;3+;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;179;Chris Paul;3;291.388;22.25;14.07;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77074204;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;309.460;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074205;100200;Game stop;;;;;;;;;;;3;325.687;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074206;300100;Foul;177;DeAndre Jordan;13;Los Angeles Clippers;7466;Jerami Grant;3224;Philadelphia 76ers;;;3;325.687;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074208;100200;Game stop;;;;;;;;;;;3;354.179;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074209;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;3;354.179;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074213;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;405.938;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074214;200300;Pick'n'Roll;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;405.938;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074215;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;405.938;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 11:40:03.426989
+77074216;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;3;419.328;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074217;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;175;Luc Richard Mbah a Moute;3;428.024;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074218;800201;2+;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;3;428.024;26.36;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:40:03.426989
+77074219;100200;Game stop;;;;;;;;;;;3;428.024;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074223;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;453.958;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074224;800202;2-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;472.441;22.43;10.83;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074229;800201;2+;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;506.933;22.25;6.18;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:40:03.426989
+77074230;100400;Steal;179;Chris Paul;13;Los Angeles Clippers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;3;516.946;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074231;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;522.165;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074232;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;522.165;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:40:03.426989
+77074234;100200;Game stop;;;;;;;;;;;3;546.242;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074235;300100;Foul;9150;JJ Redick;13;Los Angeles Clippers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;3;546.242;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074240;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;612.926;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074241;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;623.926;26.36;15.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074243;100400;Steal;7503;Wesley Johnson;13;Los Angeles Clippers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;3;642.103;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074244;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;649.347;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074245;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;649.347;27.38;0.33;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77074248;100300;Rebound;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;664.663;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074249;800302;3-;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;;;3;682.745;18.98;7.02;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074250;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;687.071;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074251;100200;Game stop;;;;;;;;;;;3;713.190;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074255;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;713.190;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074256;800302;3-;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;713.190;19.49;11.34;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074259;100200;Game stop;;;;;;;;;;;3;724.553;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074260;300100;Foul;179;Chris Paul;13;Los Angeles Clippers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;3;724.553;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074261;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;3;724.553;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074262;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;7503;Wesley Johnson;13;Los Angeles Clippers;;;3;752.494;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074266;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;3;766.153;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074269;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;802.325;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074273;400101;Accurate pass;180;Jamal Crawford;13;Los Angeles Clippers;;;;;177;DeAndre Jordan;3;817.125;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074274;800201;2+;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;180;Jamal Crawford;3;817.125;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:40:03.426989
+77074276;100300;Rebound;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;837.778;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074277;400101;Accurate pass;179;Chris Paul;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;855.708;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074278;800301;3+;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;855.708;19.28;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074281;800201;2+;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;895.492;26.66;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:40:03.426989
+77074282;100200;Game stop;;;;;;;;;;;3;919.760;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074284;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;9150;JJ Redick;13;Los Angeles Clippers;;;3;965.167;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074285;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;179;Chris Paul;13;Los Angeles Clippers;;;3;965.167;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074287;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;3;965.167;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074288;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;965.167;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074289;800201;2+;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;3;965.167;22.37;7.98;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:40:03.426989
+77074291;100300;Rebound;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;3;979.603;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074292;100200;Game stop;;;;;;;;;;;3;983.051;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074294;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;1016.984;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074295;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;1016.984;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074296;800201;2+;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;3;1016.984;22.10;9.60;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:40:03.426989
+77074298;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;3;1028.547;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074301;100200;Game stop;;;;;;;;;;;3;1032.556;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074302;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;6393;Carl Landry;3224;Philadelphia 76ers;;;3;1032.556;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074305;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;3;1082.568;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074306;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;3;1098.668;26.36;7.17;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:40:03.426989
+77074309;100300;Rebound;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;3;1107.947;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074310;100200;Game stop;;;;;;;;;;;3;1133.511;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074311;100500;Turnover;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;3;1133.511;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074314;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;3;1152.810;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074315;1800500;Halftime;;;;;;;;;;;3;1153.010;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074316;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074317;1600500;Guard;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074318;1600500;Guard;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074319;1600500;Guard;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074320;1600500;Guard;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074321;1600500;Guard;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074330;100200;Game stop;;;;;;;;;;;4;13.768;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074331;300100;Foul;7660;Cole Aldrich;13;Los Angeles Clippers;6393;Carl Landry;3224;Philadelphia 76ers;;;4;13.768;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074335;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;61.220;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074336;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;61.220;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074337;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;77.364;22.37;6.18;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074341;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;89.984;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074342;100200;Game stop;;;;;;;;;;;4;104.229;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074343;100500;Turnover;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;104.229;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074345;100200;Game stop;;;;;;;;;;;4;121.056;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074348;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;146.721;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074349;800302;3-;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;146.721;20.36;4.17;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:40:03.426989
+77074353;100300;Rebound;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;156.835;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074354;400101;Accurate pass;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;1804;Austin Rivers;4;165.534;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074355;800301;3+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;2410;Lance Stephenson;4;165.534;20.51;12.81;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77074357;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;179.412;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074361;800400;2+1;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;214.803;22.13;6.36;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:40:03.426989
+77074362;100200;Game stop;;;;;;;;;;;4;214.803;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074364;800101;1+;180;Jamal Crawford;13;Los Angeles Clippers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;4;242.033;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074366;100400;Steal;8964;Pablo Prigioni;13;Los Angeles Clippers;13747;Kendall Marshall;3224;Philadelphia 76ers;;;4;250.587;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074367;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;180;Jamal Crawford;4;255.409;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074368;800201;2+;180;Jamal Crawford;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;255.409;26.66;6.66;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:40:03.426989
+77074369;100200;Game stop;;;;;;;;;;;4;255.409;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074371;1600500;Guard;13676;Branden Dawson;13;Los Angeles Clippers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;276.949;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074374;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;276.949;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074375;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;287.082;22.73;3.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074376;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;287.971;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074377;400101;Accurate pass;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;7660;Cole Aldrich;4;299.988;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074378;800201;2+;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;299.988;24.80;8.13;;;;;;;;Cut;;Hook;;;;2017-12-07 11:40:03.426989
+77074381;200300;Pick'n'Roll;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;332.195;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074382;800202;2-;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;332.195;25.22;6.63;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:40:03.426989
+77074385;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;341.312;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074389;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;386.708;26.27;8.49;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:40:03.426989
+77074394;100300;Rebound;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;4;402.591;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074395;800201;2+;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;422.092;22.52;5.34;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:40:03.426989
+77074396;100200;Game stop;;;;;;;;;;;4;434.094;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074397;300100;Foul;8964;Pablo Prigioni;13;Los Angeles Clippers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;4;434.094;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074398;1600500;Guard;99345;Josh Smith;13;Los Angeles Clippers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;462.545;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77074401;100300;Rebound;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;462.545;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074402;400101;Accurate pass;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;13676;Branden Dawson;4;475.416;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074403;200600;Post;13676;Branden Dawson;13;Los Angeles Clippers;;;;;;;4;475.416;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074404;800201;2+;13676;Branden Dawson;13;Los Angeles Clippers;;;;;2410;Lance Stephenson;4;475.416;25.97;7.59;;;;;;;;Post;;Floater;;;;2017-12-07 11:40:03.426989
+77074407;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;510.677;21.98;11.76;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:40:03.426989
+77074408;100200;Game stop;;;;;;;;;;;4;526.956;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074409;1800600;Timeout;;;;;;;;;;;4;526.956;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074410;1800600;Timeout;;;13;Los Angeles Clippers;;;;;;;4;526.956;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074413;300100;Foul;99345;Josh Smith;13;Los Angeles Clippers;6393;Carl Landry;3224;Philadelphia 76ers;;;4;526.956;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77074418;100100;Ball in play;;;13;Los Angeles Clippers;;;;;;;4;576.050;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074419;800202;2-;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;600.050;25.82;8.04;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2021-04-01 08:47:05.392245
+77074420;100200;Game stop;;;;;;;;;;;4;600.050;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074421;100300;Rebound;;;13;Los Angeles Clippers;;;;;;;4;600.050;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074422;100500;Turnover;99345;Josh Smith;13;Los Angeles Clippers;;;;;;;4;600.050;;;;;;;;;;;;;;;;2021-04-01 08:47:05.392245
+77074425;100300;Rebound;13676;Branden Dawson;13;Los Angeles Clippers;;;;;;;4;624.250;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074426;800202;2-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;658.418;21.98;3.96;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:40:03.426989
+77074427;100300;Rebound;13676;Branden Dawson;13;Los Angeles Clippers;;;;;;;4;658.528;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074428;800600;2F;2410;Lance Stephenson;13;Los Angeles Clippers;6393;Carl Landry;3224;Philadelphia 76ers;;;4;665.262;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 11:40:03.426989
+77074429;100200;Game stop;;;;;;;;;;;4;665.262;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074431;800101;1+;2410;Lance Stephenson;13;Los Angeles Clippers;6393;Carl Landry;3224;Philadelphia 76ers;;;4;687.622;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074432;800101;1+;2410;Lance Stephenson;13;Los Angeles Clippers;6393;Carl Landry;3224;Philadelphia 76ers;;;4;703.780;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074436;200300;Pick'n'Roll;99345;Josh Smith;13;Los Angeles Clippers;;;;;1804;Austin Rivers;4;748.660;;;;;;;;;;Pick'n'pop;;;;;;2021-04-01 08:47:05.392245
+77074437;800202;2-;99345;Josh Smith;13;Los Angeles Clippers;;;;;1804;Austin Rivers;4;748.660;21.65;8.88;;;;;;;;Pick'n'pop;;Jumper;;;;2021-04-01 08:47:05.392245
+77074438;100300;Rebound;13676;Branden Dawson;13;Los Angeles Clippers;;;;;;;4;751.182;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074439;800202;2-;13676;Branden Dawson;13;Los Angeles Clippers;6400;Robert Covington;3224;Philadelphia 76ers;;;4;751.182;26.36;8.04;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:40:03.426989
+77074446;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;837.918;24.89;10.11;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 11:40:03.426989
+77074447;100400;Steal;2410;Lance Stephenson;13;Los Angeles Clippers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;4;848.853;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074451;800201;2+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;887.672;22.37;11.37;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074455;800301;3+;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;913.426;20.03;12.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074459;800302;3-;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;945.193;20.09;4.86;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:40:03.426989
+77074460;100200;Game stop;;;;;;;;;;;4;945.193;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074464;100300;Rebound;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;968.019;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074465;800302;3-;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;991.927;18.32;9.45;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074466;100200;Game stop;;;;;;;;;;;4;991.927;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074471;1800700;Match end;;;;;;;;;;;4;1028.107;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+102325941;100500;Turnover;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;;;1;1241.240;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+102325942;100500;Turnover;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;3;325.687;;;;;;;;;;;;;;;;2018-02-26 10:10:01.919142
+104733060;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;1;141.215;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733064;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;;;1;325.438;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733066;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;179;Chris Paul;1;381.012;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733068;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;412.600;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733072;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;1;553.756;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733078;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;9150;JJ Redick;1;657.895;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733080;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;1;691.078;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733086;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;816.084;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733090;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;1;876.446;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733098;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;1;1023.911;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733100;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1108.422;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733104;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1146.487;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733108;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;1;1278.545;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733110;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;180;Jamal Crawford;1;1376.246;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733112;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;1804;Austin Rivers;2;57.346;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733116;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;94.545;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733120;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;180;Jamal Crawford;2;214.468;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733124;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;2410;Lance Stephenson;2;302.360;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733126;200900;Assisting;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;2;330.379;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733130;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;455.388;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733136;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;2;512.998;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733138;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;588.259;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733142;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;2;615.879;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733146;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;2;688.967;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733148;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;749.796;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733150;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;828.338;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733154;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;2;942.693;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733156;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1007.561;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733160;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;;;2;1045.870;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733164;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1093.607;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733166;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1161.726;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733168;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;2;1220.377;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733170;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;27.105;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733174;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;66.396;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733178;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;9150;JJ Redick;3;177.245;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733184;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;7503;Wesley Johnson;3;240.341;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733188;200900;Assisting;7503;Wesley Johnson;13;Los Angeles Clippers;;;;;179;Chris Paul;3;291.388;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733192;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;405.938;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733194;200900;Assisting;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;;;179;Chris Paul;3;428.024;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733198;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;;;3;506.933;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733200;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;179;Chris Paul;3;522.165;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733204;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;649.347;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733210;200900;Assisting;177;DeAndre Jordan;13;Los Angeles Clippers;;;;;180;Jamal Crawford;3;817.125;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733212;200900;Assisting;9150;JJ Redick;13;Los Angeles Clippers;;;;;179;Chris Paul;3;855.708;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733216;200900;Assisting;179;Chris Paul;13;Los Angeles Clippers;;;;;;;3;895.492;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733218;200900;Assisting;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;3;965.167;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733220;200900;Assisting;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;3;1016.984;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733226;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;77.364;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733228;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;2410;Lance Stephenson;4;165.534;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733232;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;;;4;214.803;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733234;200900;Assisting;180;Jamal Crawford;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;255.409;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733236;200900;Assisting;7660;Cole Aldrich;13;Los Angeles Clippers;;;;;8964;Pablo Prigioni;4;299.988;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733242;200900;Assisting;8964;Pablo Prigioni;13;Los Angeles Clippers;;;;;;;4;422.092;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733244;200900;Assisting;13676;Branden Dawson;13;Los Angeles Clippers;;;;;2410;Lance Stephenson;4;475.416;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733248;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;510.677;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733252;200900;Assisting;2410;Lance Stephenson;13;Los Angeles Clippers;;;;;;;4;665.262;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733260;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;837.918;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733264;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;887.672;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733268;200900;Assisting;1804;Austin Rivers;13;Los Angeles Clippers;;;;;;;4;913.426;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+77073768;1601000;Starting lineup;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073769;1601000;Starting lineup;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073770;1601000;Starting lineup;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073771;1601000;Starting lineup;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073772;1601000;Starting lineup;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073773;1601000;Starting lineup;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073774;1601000;Starting lineup;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073775;1601000;Starting lineup;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073776;1601000;Starting lineup;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073777;1601000;Starting lineup;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073778;1601000;Starting lineup;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073779;1601000;Starting lineup;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073786;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073787;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073788;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073789;1600500;Guard;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073790;1600500;Guard;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073791;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;88.672;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073792;400101;Accurate pass;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;115.672;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073793;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;1;115.672;22.58;11.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77073796;800202;2-;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;158.667;21.71;10.59;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77073799;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;168.797;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073802;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;196.725;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073803;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;210.725;23.45;5.10;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:40:03.426989
+77073808;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;248.012;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073809;800202;2-;6395;JaKarr Sampson;3224;Philadelphia 76ers;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;256.051;26.96;7.35;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:40:03.426989
+77073810;100300;Rebound;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;257.174;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073811;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;1;266.274;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073812;800201;2+;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;266.274;26.57;7.83;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:40:03.426989
+77073814;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;283.060;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073815;800302;3-;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;312.091;26.84;0.54;;;;;;;;;;Jumper;;;;2017-12-07 11:40:03.426989
+77073819;300100;Foul;6391;Nerlens Noel;3224;Philadelphia 76ers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;;;1;325.438;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073823;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;361.791;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073825;100500;Turnover;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;1;370.791;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073829;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;406.101;23.60;12.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77073833;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;1;412.600;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073834;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;420.583;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073837;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;446.675;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073838;200300;Pick'n'Roll;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;458.675;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:40:03.426989
+77073839;800202;2-;7466;Jerami Grant;3224;Philadelphia 76ers;175;Luc Richard Mbah a Moute;13;Los Angeles Clippers;8590;Ishmael Smith;1;458.675;25.37;7.35;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:40:03.426989
+77073841;100400;Steal;8590;Ishmael Smith;3224;Philadelphia 76ers;7503;Wesley Johnson;13;Los Angeles Clippers;;;1;467.261;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073842;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;471.433;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073843;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;471.433;26.21;7.56;;;;;;;;Transition;;;;;;2017-12-07 11:40:03.426989
+77073845;100300;Rebound;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;492.182;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073846;800302;3-;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;500.016;20.90;11.76;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77073849;300100;Foul;8590;Ishmael Smith;3224;Philadelphia 76ers;9150;JJ Redick;13;Los Angeles Clippers;;;1;534.254;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073853;400101;Accurate pass;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;1;568.223;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:40:03.426989
+77073854;800201;2+;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;568.223;27.02;7.62;;;;;;;;Hand offs;;Hook;;;;2017-12-07 11:40:03.426989
+77073856;300100;Foul;101178;Isaiah Canaan;3224;Philadelphia 76ers;9150;JJ Redick;13;Los Angeles Clippers;;;1;580.913;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073859;300100;Foul;6391;Nerlens Noel;3224;Philadelphia 76ers;9150;JJ Redick;13;Los Angeles Clippers;;;1;604.959;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073863;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;626.973;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073864;800202;2-;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;1;638.755;26.42;9.03;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 11:40:03.426989
+77073865;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;640.732;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073866;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;640.732;26.66;7.44;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:40:03.426989
+77073869;200300;Pick'n'Roll;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;1;677.328;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:40:03.426989
+77073870;800202;2-;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;1;677.328;22.73;11.97;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:40:03.426989
+77073875;300100;Foul;8590;Ishmael Smith;3224;Philadelphia 76ers;177;DeAndre Jordan;13;Los Angeles Clippers;;;1;691.078;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073877;1600500;Guard;6396;Nikolas Stauskas;3224;Philadelphia 76ers;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;1;747.585;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073878;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;1;747.585;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073879;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;1;747.585;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073881;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;747.585;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073882;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;1;747.585;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073883;800201;2+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;758.488;23.18;3.96;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77073885;100300;Rebound;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;1;770.061;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073886;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;1;780.169;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073887;200600;Post;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;780.169;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073888;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;780.169;23.75;6.18;;;;;;;;Post;;Jumper;;;;2017-12-07 11:40:03.426989
+77073892;1600500;Guard;6397;T.J. McConnell;3224;Philadelphia 76ers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;1;816.084;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073896;300100;Foul;6397;T.J. McConnell;3224;Philadelphia 76ers;179;Chris Paul;13;Los Angeles Clippers;;;1;816.084;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073899;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;850.251;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073900;400101;Accurate pass;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;1;862.251;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073901;800301;3+;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;1;862.251;26.99;0.66;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77073904;300100;Foul;6397;T.J. McConnell;3224;Philadelphia 76ers;179;Chris Paul;13;Los Angeles Clippers;;;1;876.446;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073908;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;909.085;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073909;800202;2-;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;1;919.085;27.38;9.90;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77073910;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;920.508;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073911;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;920.508;26.51;7.59;;;;;;;;Putbacks;;;;;;2017-12-07 11:40:03.426989
+77073913;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;1;936.038;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073917;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;980.687;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073918;800301;3+;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;1;980.687;19.79;5.73;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:40:03.426989
+77073919;100400;Steal;6397;T.J. McConnell;3224;Philadelphia 76ers;180;Jamal Crawford;13;Los Angeles Clippers;;;1;997.942;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073920;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;1010.637;25.82;7.35;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:40:03.426989
+77073924;800202;2-;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;1;1046.569;22.97;5.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77073927;400101;Accurate pass;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;1;1133.065;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073928;800301;3+;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;1;1133.065;19.64;5.49;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77073931;300100;Foul;7466;Jerami Grant;3224;Philadelphia 76ers;180;Jamal Crawford;13;Los Angeles Clippers;;;1;1146.487;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073935;1600500;Guard;101178;Isaiah Canaan;3224;Philadelphia 76ers;7466;Jerami Grant;3224;Philadelphia 76ers;;;1;1199.260;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073937;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;1208.574;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073938;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;1;1223.574;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073939;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;1;1223.574;24.80;7.95;;;;;;;;Pick-n-roll without a ball;;Floater;;;;2017-12-07 11:40:03.426989
+77073943;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;1254.823;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073944;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;1268.123;26.42;6.51;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:40:03.426989
+77073947;300100;Foul;101178;Isaiah Canaan;3224;Philadelphia 76ers;180;Jamal Crawford;13;Los Angeles Clippers;;;1;1278.545;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073950;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;1327.982;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073953;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;1;1342.035;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073954;800202;2-;6400;Robert Covington;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;6397;T.J. McConnell;1;1356.235;26.12;7.59;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:40:03.426989
+77073965;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073966;1600500;Guard;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073967;1600500;Guard;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073968;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073969;1600500;Guard;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073972;300100;Foul;6400;Robert Covington;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;31.805;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073976;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;2;80.089;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073977;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;2;80.089;23.27;8.19;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:40:03.426989
+77073980;300100;Foul;6396;Nikolas Stauskas;3224;Philadelphia 76ers;1804;Austin Rivers;13;Los Angeles Clippers;;;2;94.545;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073982;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;116.175;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073983;800302;3-;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;2;131.175;20.63;2.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77073984;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;135.406;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073986;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;2;150.414;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073987;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;167.434;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77073988;800202;2-;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;2;175.434;26.27;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:40:03.426989
+77073991;100300;Rebound;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;2;186.380;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073992;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;2;193.604;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77073993;800301;3+;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;2;193.604;26.21;0.87;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77073997;800600;2F;6394;Jahlil Okafor;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;235.237;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:40:03.426989
+77074000;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;263.432;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074001;800102;1-;6394;Jahlil Okafor;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;287.945;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074007;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;323.640;26.51;7.02;;;;;;;;;;Lay up;;;;2017-12-07 11:40:03.426989
+77074011;300100;Foul;6395;JaKarr Sampson;3224;Philadelphia 76ers;2410;Lance Stephenson;13;Los Angeles Clippers;;;2;330.379;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074013;1600500;Guard;8590;Ishmael Smith;3224;Philadelphia 76ers;6397;T.J. McConnell;3224;Philadelphia 76ers;;;2;351.186;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074016;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;365.458;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074017;100300;Rebound;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;2;365.458;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074018;800600;2F;6394;Jahlil Okafor;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;384.292;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:40:03.426989
+77074021;800102;1-;6394;Jahlil Okafor;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;418.030;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074022;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;2;418.030;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074024;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;2;441.954;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074027;400101;Accurate pass;6400;Robert Covington;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;2;468.587;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074028;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6400;Robert Covington;2;468.587;27.02;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:40:03.426989
+77074031;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;486.694;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074032;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;2;495.891;;;;;;;;;;Hand offs;;;;;;2017-12-07 11:40:03.426989
+77074033;800201;2+;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;495.891;24.44;8.58;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 11:40:03.426989
+77074036;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;2;526.020;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074038;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;2;554.979;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074039;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;554.979;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074040;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;554.979;25.97;7.35;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074043;300100;Foul;6400;Robert Covington;3224;Philadelphia 76ers;2410;Lance Stephenson;13;Los Angeles Clippers;;;2;560.877;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074044;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;6400;Robert Covington;3224;Philadelphia 76ers;;;2;588.259;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074047;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;598.650;26.42;7.44;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 11:40:03.426989
+77074048;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;2;600.117;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074049;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;2;600.117;26.57;7.44;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:40:03.426989
+77074051;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;627.352;26.42;7.35;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:40:03.426989
+77074054;100300;Rebound;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;2;640.368;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074057;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;672.123;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074058;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;2;672.123;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074059;800301;3+;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;672.123;27.08;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074064;1600500;Guard;101178;Isaiah Canaan;3224;Philadelphia 76ers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;2;688.967;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074065;300100;Foul;6395;JaKarr Sampson;3224;Philadelphia 76ers;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;688.967;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074069;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;2;724.300;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074070;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;737.501;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074071;800302;3-;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;747.501;26.72;0.39;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074075;300100;Foul;7466;Jerami Grant;3224;Philadelphia 76ers;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;749.796;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074078;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;799.297;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074079;800202;2-;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;2;813.297;25.82;7.35;;;;;;;;;;Jumper;;;;2017-12-07 11:40:03.426989
+77074080;100300;Rebound;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;;;2;814.245;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074081;800202;2-;6395;JaKarr Sampson;3224;Philadelphia 76ers;177;DeAndre Jordan;13;Los Angeles Clippers;;;2;819.910;26.81;8.34;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:40:03.426989
+77074084;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;2;837.044;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074085;800400;2+1;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;837.044;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 11:40:03.426989
+77074088;800101;1+;6391;Nerlens Noel;3224;Philadelphia 76ers;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;862.705;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074094;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;910.398;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074095;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;935.398;23.03;7.50;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:40:03.426989
+77074099;300100;Foul;6395;JaKarr Sampson;3224;Philadelphia 76ers;179;Chris Paul;13;Los Angeles Clippers;;;2;942.693;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074101;1600500;Guard;6396;Nikolas Stauskas;3224;Philadelphia 76ers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;2;981.295;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074103;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;986.527;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074105;100500;Turnover;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;993.527;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074110;800201;2+;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;1028.882;26.27;8.37;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:40:03.426989
+77074114;800201;2+;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;1059.152;26.72;8.49;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 11:40:03.426989
+77074116;100300;Rebound;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;2;1079.959;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074117;800202;2-;101178;Isaiah Canaan;3224;Philadelphia 76ers;7503;Wesley Johnson;13;Los Angeles Clippers;;;2;1085.535;26.51;8.52;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77074121;800202;2-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;1111.916;26.42;7.20;;;;;;;;;;Lay up;;;;2017-12-07 11:40:03.426989
+77074126;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;2;1139.993;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074127;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;2;1139.993;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074131;800202;2-;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;2;1179.991;23.90;7.50;;;;;;;;Cut;;Floater;;;;2017-12-07 11:40:03.426989
+77074134;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;2;1195.826;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074135;800202;2-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;1208.923;26.27;7.95;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 11:40:03.426989
+77074139;800302;3-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;1234.445;19.49;9.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074143;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;6400;Robert Covington;3224;Philadelphia 76ers;;;2;1290.624;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074157;1600500;Guard;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074158;1600500;Guard;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074159;1600500;Guard;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074160;1600500;Guard;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074161;1600500;Guard;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074165;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;7466;Jerami Grant;3;46.375;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074166;800201;2+;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;46.375;26.66;7.35;;;;;;;;Screen off;;Lay up;;;;2017-12-07 11:40:03.426989
+77074168;800600;2F;7466;Jerami Grant;3224;Philadelphia 76ers;7503;Wesley Johnson;13;Los Angeles Clippers;;;3;81.292;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 11:40:03.426989
+77074171;800101;1+;7466;Jerami Grant;3224;Philadelphia 76ers;7503;Wesley Johnson;13;Los Angeles Clippers;;;3;107.959;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074172;800102;1-;7466;Jerami Grant;3224;Philadelphia 76ers;7503;Wesley Johnson;13;Los Angeles Clippers;;;3;126.878;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074177;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;145.408;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074179;100500;Turnover;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;3;157.408;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074184;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;3;177.245;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074185;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;3;200.704;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074186;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;200.704;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074187;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;3;200.704;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074188;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;200.704;22.73;7.32;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 11:40:03.426989
+77074190;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;219.009;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074191;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;3;230.617;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074192;200300;Pick'n'Roll;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;230.617;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074193;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;230.617;25.76;6.72;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 11:40:03.426989
+77074196;400101;Accurate pass;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;3;256.575;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074197;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;256.575;23.45;5.82;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 11:40:03.426989
+77074199;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;275.742;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074203;800302;3-;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;309.460;20.48;3.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074207;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;343.179;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074210;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;371.770;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074211;400101;Accurate pass;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;3;384.770;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074212;800201;2+;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;3;384.770;24.80;6.57;;;;;;;;Cut;;Jumper;;;;2017-12-07 11:40:03.426989
+77074220;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;3;428.024;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074221;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;437.958;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074222;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;453.958;23.42;5.19;;;;;;;;Catch and Drive;;Jumper;;;;2017-12-07 11:40:03.426989
+77074225;100300;Rebound;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;3;472.441;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074226;800202;2-;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;3;479.082;26.42;7.74;;;;;;;;Transition;;Lay up;;;;2017-12-07 11:40:03.426989
+77074227;100300;Rebound;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;479.824;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074228;800201;2+;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;479.824;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 11:40:03.426989
+77074233;800600;2F;6394;Jahlil Okafor;3224;Philadelphia 76ers;9150;JJ Redick;13;Los Angeles Clippers;;;3;546.242;27.05;7.62;;;;;;;;Isolation;;;Drives Left;;;2017-12-07 11:40:03.426989
+77074236;800102;1-;6394;Jahlil Okafor;3224;Philadelphia 76ers;9150;JJ Redick;13;Los Angeles Clippers;;;3;580.670;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074237;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;3;580.670;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074238;1600500;Guard;13747;Kendall Marshall;3224;Philadelphia 76ers;8590;Ishmael Smith;3224;Philadelphia 76ers;;;3;610.111;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074239;800101;1+;6394;Jahlil Okafor;3224;Philadelphia 76ers;9150;JJ Redick;13;Los Angeles Clippers;;;3;610.111;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074242;100300;Rebound;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;623.926;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074246;200600;Post;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;664.663;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074247;800202;2-;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;664.663;25.82;10.05;;;;;;;;Post;;Hook;;;;2017-12-07 11:40:03.426989
+77074252;1600500;Guard;6396;Nikolas Stauskas;3224;Philadelphia 76ers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;3;713.190;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074253;1600500;Guard;101178;Isaiah Canaan;3224;Philadelphia 76ers;7466;Jerami Grant;3224;Philadelphia 76ers;;;3;713.190;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074254;1600500;Guard;6393;Carl Landry;3224;Philadelphia 76ers;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;3;713.190;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074257;100300;Rebound;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;713.190;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074258;800600;2F;6391;Nerlens Noel;3224;Philadelphia 76ers;179;Chris Paul;13;Los Angeles Clippers;;;3;724.553;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 11:40:03.426989
+77074263;800102;1-;6391;Nerlens Noel;3224;Philadelphia 76ers;179;Chris Paul;13;Los Angeles Clippers;;;3;752.494;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074264;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;3;752.494;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074265;800102;1-;6391;Nerlens Noel;3224;Philadelphia 76ers;179;Chris Paul;13;Los Angeles Clippers;;;3;766.153;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074267;300100;Foul;6393;Carl Landry;3224;Philadelphia 76ers;177;DeAndre Jordan;13;Los Angeles Clippers;;;3;766.153;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074268;1600500;Guard;6398;Richaun Holmes;3224;Philadelphia 76ers;6391;Nerlens Noel;3224;Philadelphia 76ers;;;3;802.325;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074270;100400;Steal;101178;Isaiah Canaan;3224;Philadelphia 76ers;179;Chris Paul;13;Los Angeles Clippers;;;3;802.325;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074271;400101;Accurate pass;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;3;807.788;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074272;800301;3+;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;3;807.788;20.90;12.36;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77074275;800202;2-;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;837.778;24.65;8.58;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 11:40:03.426989
+77074279;400101;Accurate pass;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;3;875.253;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074280;800301;3+;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6393;Carl Landry;3;875.253;20.63;12.45;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074283;100500;Turnover;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;919.760;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074286;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;101178;Isaiah Canaan;3224;Philadelphia 76ers;;;3;965.167;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074290;800302;3-;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;3;979.603;19.79;5.28;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074293;300100;Foul;6396;Nikolas Stauskas;3224;Philadelphia 76ers;2410;Lance Stephenson;13;Los Angeles Clippers;;;3;983.051;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074297;800302;3-;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;3;1028.547;19.79;4.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074299;100400;Steal;6393;Carl Landry;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;3;1029.435;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074300;800600;2F;6393;Carl Landry;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;3;1032.556;27.05;7.62;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074303;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;3;1058.072;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074304;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;3;1081.756;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074307;100300;Rebound;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;1098.668;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074308;800202;2-;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;3;1107.947;22.52;4.71;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074312;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;3;1150.310;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074313;800302;3-;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;3;1152.810;19.13;12.69;;;;;;;;;;Jumper;;;;2017-12-07 11:40:03.426989
+77074322;1600500;Guard;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074323;1600500;Guard;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074324;1600500;Guard;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074325;1600500;Guard;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074326;1600500;Guard;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074327;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074328;200600;Post;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;13.768;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074329;800600;2F;6393;Carl Landry;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;13.768;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:40:03.426989
+77074332;800102;1-;6393;Carl Landry;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;40.354;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074333;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;40.354;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074334;800102;1-;6393;Carl Landry;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;61.220;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074338;800202;2-;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;4;88.138;27.08;11.61;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074339;100300;Rebound;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;4;89.984;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074340;800202;2-;6398;Richaun Holmes;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;89.984;26.51;8.04;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:40:03.426989
+77074344;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;111.056;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074346;100500;Turnover;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;4;121.056;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074347;1600500;Guard;6397;T.J. McConnell;3224;Philadelphia 76ers;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;4;146.721;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074350;100300;Rebound;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;;;4;146.721;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074351;200600;Post;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;156.835;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074352;800202;2-;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;156.835;26.42;7.62;;;;;;;;Post;;Hook;;;;2017-12-07 11:40:03.426989
+77074356;800302;3-;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;179.412;20.03;4.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074358;100400;Steal;6393;Carl Landry;3224;Philadelphia 76ers;2410;Lance Stephenson;13;Los Angeles Clippers;;;4;187.628;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074359;400101;Accurate pass;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6398;Richaun Holmes;4;192.200;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074360;800201;2+;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;4;192.200;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:40:03.426989
+77074363;300100;Foul;6396;Nikolas Stauskas;3224;Philadelphia 76ers;180;Jamal Crawford;13;Los Angeles Clippers;;;4;214.803;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074365;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;243.587;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074370;1800600;Timeout;;;3224;Philadelphia 76ers;;;;;;;4;255.409;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074372;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;276.949;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074373;800202;2-;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;;;4;276.949;24.29;12.84;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 11:40:03.426989
+77074379;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6393;Carl Landry;4;311.676;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074380;800201;2+;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;311.676;26.42;8.19;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:40:03.426989
+77074383;100300;Rebound;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;332.195;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074384;800302;3-;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;4;341.312;19.58;9.36;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77074386;100400;Steal;6397;T.J. McConnell;3224;Philadelphia 76ers;7660;Cole Aldrich;13;Los Angeles Clippers;;;4;358.551;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074387;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;4;365.212;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074388;800301;3+;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;365.212;21.50;2.55;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77074390;100300;Rebound;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;4;386.708;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074391;800302;3-;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;4;398.440;20.09;3.72;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 11:40:03.426989
+77074392;100300;Rebound;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;402.591;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074393;800202;2-;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;402.591;26.42;7.05;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 11:40:03.426989
+77074399;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;462.545;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074400;800202;2-;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;;;4;462.545;26.57;7.44;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 11:40:03.426989
+77074405;400101;Accurate pass;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6393;Carl Landry;4;489.513;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074406;800201;2+;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;4;489.513;26.36;7.11;;;;;;;;Cut;;Lay up;;;;2017-12-07 11:40:03.426989
+77074411;200600;Post;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;526.956;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074412;800600;2F;6393;Carl Landry;3224;Philadelphia 76ers;99345;Josh Smith;13;Los Angeles Clippers;;;4;526.956;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 11:40:03.426989
+77074414;1600500;Guard;6400;Robert Covington;3224;Philadelphia 76ers;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;4;553.957;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074415;800102;1-;6393;Carl Landry;3224;Philadelphia 76ers;99345;Josh Smith;13;Los Angeles Clippers;;;4;553.957;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074416;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;553.957;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074417;800101;1+;6393;Carl Landry;3224;Philadelphia 76ers;99345;Josh Smith;13;Los Angeles Clippers;;;4;570.190;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074423;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;610.250;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074424;800302;3-;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;624.250;27.53;14.82;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074430;300100;Foul;6393;Carl Landry;3224;Philadelphia 76ers;2410;Lance Stephenson;13;Los Angeles Clippers;;;4;665.262;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074433;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;704.716;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074434;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;729.716;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074435;800301;3+;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;729.716;19.04;3.57;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074440;100300;Rebound;6400;Robert Covington;3224;Philadelphia 76ers;;;;;;;4;751.182;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074441;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6398;Richaun Holmes;4;759.880;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074442;800201;2+;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;759.880;25.82;7.56;;;;;;;;Transition;;;;;;2017-12-07 11:40:03.426989
+77074443;100400;Steal;6397;T.J. McConnell;3224;Philadelphia 76ers;8964;Pablo Prigioni;13;Los Angeles Clippers;;;4;782.537;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074444;400101;Accurate pass;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6398;Richaun Holmes;4;819.922;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074445;800201;2+;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;819.922;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 11:40:03.426989
+77074448;100400;Steal;6398;Richaun Holmes;3224;Philadelphia 76ers;2410;Lance Stephenson;13;Los Angeles Clippers;;;4;861.215;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074449;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6398;Richaun Holmes;4;870.450;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074450;800201;2+;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;870.450;26.57;10.74;;;;;;;;Transition;;Jumper;;;;2017-12-07 11:40:03.426989
+77074452;400101;Accurate pass;6397;T.J. McConnell;3224;Philadelphia 76ers;;;;;6393;Carl Landry;4;902.818;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074453;200300;Pick'n'Roll;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;902.818;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 11:40:03.426989
+77074454;800201;2+;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;902.818;22.10;4.41;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 11:40:03.426989
+77074456;400101;Accurate pass;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6393;Carl Landry;4;925.658;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074457;200600;Post;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;925.658;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074458;800201;2+;6393;Carl Landry;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;925.658;26.42;7.68;;;;;;;;Post;;Lay up;;;;2017-12-07 11:40:03.426989
+77074461;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;945.193;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074462;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;951.919;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074463;800302;3-;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;968.019;23.18;1.17;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 11:40:03.426989
+77074467;100300;Rebound;;;3224;Philadelphia 76ers;;;;;;;4;991.927;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074468;100100;Ball in play;;;3224;Philadelphia 76ers;;;;;;;4;999.707;;;;;;;;;;;;;;;;2019-10-24 12:44:00.454492
+77074469;400101;Accurate pass;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6400;Robert Covington;4;1004.307;;;;;;;;;;;;;;;;2017-12-07 11:40:03.426989
+77074470;800201;2+;6400;Robert Covington;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;1004.307;27.02;7.62;;;;;;;;;;Dunk;;;;2017-12-07 11:40:03.426989
+104733058;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;1;115.672;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733062;200900;Assisting;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;266.274;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733070;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;471.433;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733074;200900;Assisting;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;6391;Nerlens Noel;1;568.223;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733076;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;1;640.732;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733082;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;1;758.488;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733084;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;1;780.169;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733088;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;1;862.251;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733092;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;920.508;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733094;200900;Assisting;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;;;1;980.687;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733096;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;1010.637;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733102;200900;Assisting;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6394;Jahlil Okafor;1;1133.065;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733106;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;1;1268.123;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733114;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;2;80.089;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733118;200900;Assisting;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;2;193.604;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733122;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;235.237;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733128;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;2;384.292;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733132;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6400;Robert Covington;2;468.587;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733134;200900;Assisting;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;495.891;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733140;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;2;600.117;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733144;200900;Assisting;6395;JaKarr Sampson;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;672.123;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733152;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;2;837.044;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733158;200900;Assisting;8590;Ishmael Smith;3224;Philadelphia 76ers;;;;;;;2;1028.882;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733162;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;2;1059.152;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733172;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;46.375;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733176;200900;Assisting;7466;Jerami Grant;3224;Philadelphia 76ers;;;;;;;3;81.292;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733180;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;200.704;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733182;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;230.617;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733186;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;8590;Ishmael Smith;3;256.575;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733190;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;6395;JaKarr Sampson;3;384.770;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733196;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;479.824;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733202;200900;Assisting;6394;Jahlil Okafor;3224;Philadelphia 76ers;;;;;;;3;546.242;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733206;200900;Assisting;6391;Nerlens Noel;3224;Philadelphia 76ers;;;;;;;3;724.553;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733208;200900;Assisting;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;101178;Isaiah Canaan;3;807.788;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733214;200900;Assisting;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6393;Carl Landry;3;875.253;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733222;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;3;1032.556;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733224;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;13.768;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733230;200900;Assisting;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;4;192.200;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733238;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;311.676;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733240;200900;Assisting;6396;Nikolas Stauskas;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;365.212;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733246;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6396;Nikolas Stauskas;4;489.513;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733250;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;;;4;526.956;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733254;200900;Assisting;13747;Kendall Marshall;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;729.716;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733256;200900;Assisting;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;759.880;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733258;200900;Assisting;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;819.922;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733262;200900;Assisting;6398;Richaun Holmes;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;870.450;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733266;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;6397;T.J. McConnell;4;902.818;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733270;200900;Assisting;6393;Carl Landry;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;925.658;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281
+104733272;200900;Assisting;6400;Robert Covington;3224;Philadelphia 76ers;;;;;13747;Kendall Marshall;4;1004.307;;;;;;;;;;;;;;;;2018-03-03 02:01:00.476281

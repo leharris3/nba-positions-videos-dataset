@@ -1,0 +1,812 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76396065;1601000;Starting lineup;8429;John Jenkins;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396066;1601000;Starting lineup;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396067;1601000;Starting lineup;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396068;1601000;Starting lineup;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396069;1601000;Starting lineup;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396070;1601000;Starting lineup;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396071;1601000;Starting lineup;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396072;1601000;Starting lineup;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396073;1601000;Starting lineup;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396074;1601000;Starting lineup;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396075;1601000;Starting lineup;7437;Jeremy Evans;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396076;1601000;Starting lineup;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396077;1601000;Starting lineup;7811;James Ennis;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396078;1601000;Starting lineup;6091;Russ Smith;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396079;1601000;Starting lineup;7809;Jarell Martin;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396080;1601000;Starting lineup;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396081;1601000;Starting lineup;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396082;1601000;Starting lineup;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396083;1601000;Starting lineup;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396084;1601000;Starting lineup;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396085;1601000;Starting lineup;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396086;1601000;Starting lineup;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396087;1601000;Starting lineup;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396088;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396089;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396090;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396091;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396092;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396093;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396094;1600500;Guard;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396095;1600500;Guard;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396096;1600500;Guard;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396097;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396098;1600500;Guard;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396099;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;84.737;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396100;800201;2+;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;110.737;23.18;5.88;;;;;;;;Isolation;;Floater;Drives Right;;;2017-12-07 04:16:04.009666
+76396101;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;131.175;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396102;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;131.175;25.67;11.34;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396103;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;131.175;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396104;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;2415;Mike Conley;1;142.450;24.59;2.73;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 04:16:04.009666
+76396105;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;142.450;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396106;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;155.710;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396107;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;155.710;26.42;4.71;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396108;100300;Rebound;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;155.710;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396109;800202;2-;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;177.185;26.21;3.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396110;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;177.185;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396111;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;1;210.812;21.35;8.76;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 04:16:04.009666
+76396112;100300;Rebound;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;210.812;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396113;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;228.264;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396114;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;228.264;26.51;8.52;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396115;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;228.041;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396116;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;228.041;26.96;8.10;;;;;;;;Putbacks;;;;;;2017-12-07 04:16:04.009666
+76396117;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;228.041;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396118;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;233.491;27.20;8.43;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:16:04.009666
+76396119;100300;Rebound;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;1;233.491;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396120;400101;Accurate pass;9110;Jeff Green;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;1;250.637;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396121;800201;2+;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;250.637;21.83;3.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396122;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;267.043;21.35;7.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396123;100300;Rebound;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;1;267.043;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396124;800302;3-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;2415;Mike Conley;1;278.454;26.57;0.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396125;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;278.454;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396126;100400;Steal;7492;Matt Barnes;2976;Memphis Grizzlies;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;293.695;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396127;100200;Game stop;;;;;;;;;;;1;295.530;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396128;300100;Foul;2433;Dirk Nowitzki;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;1;295.530;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396129;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;316.877;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396130;400101;Accurate pass;2415;Mike Conley;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;1;328.877;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396131;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;328.877;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396132;800201;2+;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;2415;Mike Conley;1;328.877;23.75;11.88;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396133;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;351.608;23.60;1.35;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 04:16:04.009666
+76396134;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;352.987;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396135;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;352.987;26.93;7.32;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:16:04.009666
+76396136;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;353.590;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396137;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;353.590;26.78;7.98;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:16:04.009666
+76396138;100200;Game stop;;;;;;;;;;;1;399.485;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396139;300300;Technical foul;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;399.485;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396140;800101;1+;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;399.485;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396141;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;410.819;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396142;800201;2+;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;433.819;25.10;1.86;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 04:16:04.009666
+76396143;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;453.755;23.75;1.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396144;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;456.757;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396145;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;456.757;26.84;8.43;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:16:04.009666
+76396146;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;456.757;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396147;400101;Accurate pass;9110;Jeff Green;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;1;462.730;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396148;800301;3+;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;462.730;23.18;13.68;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:16:04.009666
+76396149;100200;Game stop;;;;;;;;;;;1;462.730;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396150;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;1;462.730;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396151;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;507.170;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396152;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;531.170;27.05;7.26;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 04:16:04.009666
+76396153;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;532.634;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396154;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;532.634;27.08;7.26;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:16:04.009666
+76396155;200300;Pick'n'Roll;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;552.852;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396156;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;552.852;26.84;6.09;;;;;;;;Pick-n-roll without a ball;;Hook;;;;2017-12-07 04:16:04.009666
+76396157;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;552.852;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396158;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;566.170;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396159;800600;2F;2433;Dirk Nowitzki;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;1;566.170;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 04:16:04.009666
+76396160;100200;Game stop;;;;;;;;;;;1;566.170;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396161;300100;Foul;2415;Mike Conley;2976;Memphis Grizzlies;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;566.170;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396162;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;1;590.611;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396163;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;1;606.721;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396164;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;1;606.721;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396165;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;651.971;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396166;100200;Game stop;;;;;;;;;;;1;663.971;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396167;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;1;663.971;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396168;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;663.971;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396169;800202;2-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;663.971;25.82;1.80;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 04:16:04.009666
+76396170;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;663.971;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396171;100400;Steal;6045;Marc Gasol;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;1;673.714;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396172;800600;2F;7492;Matt Barnes;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;1;678.358;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:16:04.009666
+76396173;100200;Game stop;;;;;;;;;;;1;678.358;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396174;300100;Foul;2428;Deron Williams;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;1;678.358;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396175;800101;1+;7492;Matt Barnes;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;1;703.233;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396176;800101;1+;7492;Matt Barnes;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;1;720.669;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396177;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;725.098;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396178;100200;Game stop;;;;;;;;;;;1;738.098;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396179;300300;Technical foul;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;738.098;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396180;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;1;764.725;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396181;1600500;Guard;2421;Zach Randolph;2976;Memphis Grizzlies;7492;Matt Barnes;2976;Memphis Grizzlies;;;1;786.989;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396182;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;786.989;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396183;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;786.989;26.12;2.16;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396184;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;1;786.989;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396185;800201;2+;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;810.377;25.52;5.04;;;;;;;;Catch and Drive;;;Drives Left;;;2017-12-07 04:16:04.009666
+76396186;400101;Accurate pass;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;824.815;;;;;;;;;;Hand offs;;;;;;2017-12-07 04:16:04.009666
+76396187;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;824.815;21.26;5.82;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:16:04.009666
+76396188;800600;2F;2415;Mike Conley;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;1;840.306;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 04:16:04.009666
+76396189;100200;Game stop;;;;;;;;;;;1;840.306;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396190;300100;Foul;2428;Deron Williams;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;1;840.306;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396191;800101;1+;2415;Mike Conley;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;1;871.847;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396192;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;1;892.228;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396193;1600500;Guard;2409;JaMychal Green;2976;Memphis Grizzlies;6045;Marc Gasol;2976;Memphis Grizzlies;;;1;892.228;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396194;800101;1+;2415;Mike Conley;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;1;892.228;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396195;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;894.176;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396196;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;912.176;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396197;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;912.176;26.51;4.20;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:16:04.009666
+76396198;100400;Steal;2427;Dwight Powell;2975;Dallas Mavericks;2409;JaMychal Green;2976;Memphis Grizzlies;;;1;924.289;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396199;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;930.622;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396200;800301;3+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;930.622;23.27;14.04;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:16:04.009666
+76396201;100200;Game stop;;;;;;;;;;;1;940.116;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396202;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;1;940.116;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396203;1600500;Guard;6041;Mario Chalmers;2976;Memphis Grizzlies;2415;Mike Conley;2976;Memphis Grizzlies;;;1;990.335;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396204;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;990.335;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396205;100200;Game stop;;;;;;;;;;;1;990.335;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396206;300300;Technical foul;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;1;990.335;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396207;800101;1+;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;1013.881;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396208;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;1027.661;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396209;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1037.661;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396210;800201;2+;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1037.661;24.89;7.44;;;;;;;;Post;;Hook;;;;2017-12-07 04:16:04.009666
+76396211;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;1;1056.229;26.57;14.58;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396212;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1056.229;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396213;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;1074.057;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396214;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1074.057;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396215;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1074.057;25.97;10.44;;;;;;;;Post;;Hook;;;;2017-12-07 04:16:04.009666
+76396216;100200;Game stop;;;;;;;;;;;1;1074.057;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396217;300100;Foul;2409;JaMychal Green;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;1074.057;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396218;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1093.533;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396219;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;1101.533;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396220;200300;Pick'n'Roll;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1101.533;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396221;800400;2+1;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1101.533;27.08;7.50;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 04:16:04.009666
+76396222;100200;Game stop;;;;;;;;;;;1;1101.533;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396223;300100;Foul;2409;JaMychal Green;2976;Memphis Grizzlies;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;1101.533;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396224;800101;1+;7814;Chandler Parsons;2975;Dallas Mavericks;2409;JaMychal Green;2976;Memphis Grizzlies;;;1;1125.366;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396225;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;1126.809;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396226;200600;Post;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;1149.809;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396227;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;1149.809;26.21;9.51;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396228;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1151.430;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396229;800600;2F;2421;Zach Randolph;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;1151.430;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 04:16:04.009666
+76396230;100200;Game stop;;;;;;;;;;;1;1151.430;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396231;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;2421;Zach Randolph;2976;Memphis Grizzlies;;;1;1151.430;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396232;800101;1+;2421;Zach Randolph;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;1176.555;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396233;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;1197.149;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396234;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;2430;Wesley Matthews;2975;Dallas Mavericks;;;1;1197.149;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396235;1600500;Guard;7811;James Ennis;2976;Memphis Grizzlies;6211;Courtney Lee;2976;Memphis Grizzlies;;;1;1197.149;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396236;800102;1-;2421;Zach Randolph;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;1;1197.149;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396237;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1197.149;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396238;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;1197.149;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396239;800201;2+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;1208.538;27.08;7.80;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:16:04.009666
+76396240;800600;2F;9110;Jeff Green;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;1;1233.162;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:16:04.009666
+76396241;100200;Game stop;;;;;;;;;;;1;1233.162;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396242;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;9110;Jeff Green;2976;Memphis Grizzlies;;;1;1233.162;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396243;800101;1+;9110;Jeff Green;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;1;1260.814;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396244;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;2409;JaMychal Green;2976;Memphis Grizzlies;;;1;1284.293;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396245;1600500;Guard;2415;Mike Conley;2976;Memphis Grizzlies;7811;James Ennis;2976;Memphis Grizzlies;;;1;1284.293;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396246;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;1;1284.293;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396247;800101;1+;9110;Jeff Green;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;1;1284.293;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396248;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;1;1289.132;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396249;800600;2F;7814;Chandler Parsons;2975;Dallas Mavericks;9110;Jeff Green;2976;Memphis Grizzlies;;;1;1304.132;27.05;7.62;;;;;;;;Catch and Drive;;;Drives Right;;;2017-12-07 04:16:04.009666
+76396250;100200;Game stop;;;;;;;;;;;1;1304.132;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396251;300100;Foul;9110;Jeff Green;2976;Memphis Grizzlies;7814;Chandler Parsons;2975;Dallas Mavericks;;;1;1304.132;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396252;800101;1+;7814;Chandler Parsons;2975;Dallas Mavericks;9110;Jeff Green;2976;Memphis Grizzlies;;;1;1328.251;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396253;800101;1+;7814;Chandler Parsons;2975;Dallas Mavericks;9110;Jeff Green;2976;Memphis Grizzlies;;;1;1344.822;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396254;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;1;1348.880;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396255;200300;Pick'n'Roll;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;1;1360.880;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396256;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;7461;JaVale McGee;2975;Dallas Mavericks;6041;Mario Chalmers;1;1360.880;26.36;7.80;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 04:16:04.009666
+76396257;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1362.684;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396258;800201;2+;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1362.684;25.97;7.65;;;;;;;;Putbacks;;Hook;;;;2017-12-07 04:16:04.009666
+76396259;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7461;JaVale McGee;1;1388.897;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396260;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1388.897;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 04:16:04.009666
+76396261;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;2415;Mike Conley;1;1407.062;19.88;8.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396262;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;1;1407.062;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396263;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;1;1421.148;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396264;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;1421.148;24.95;8.67;;;;;;;;Catch and Drive;;Jumper;;;;2018-10-20 17:58:37.550992
+76396265;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;1;1448.710;26.84;10.89;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396266;100300;Rebound;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;1450.982;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396267;800202;2-;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;1450.982;22.43;6.03;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 04:16:04.009666
+76396268;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;1;1450.982;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396269;1800500;Halftime;;;;;;;;;;;1;1450.982;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396270;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396271;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396272;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396273;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396274;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396275;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396276;1600500;Guard;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396277;1600500;Guard;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396278;1600500;Guard;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396279;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396280;1600500;Guard;7811;James Ennis;2976;Memphis Grizzlies;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396281;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;0.000;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396282;100400;Steal;7492;Matt Barnes;2976;Memphis Grizzlies;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;18.275;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396283;800600;2F;7811;James Ennis;2976;Memphis Grizzlies;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;23.926;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:16:04.009666
+76396284;100200;Game stop;;;;;;;;;;;2;23.926;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396285;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;7811;James Ennis;2976;Memphis Grizzlies;;;2;23.926;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396286;800102;1-;7811;James Ennis;2976;Memphis Grizzlies;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;45.494;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396287;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;2;45.494;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396288;800101;1+;7811;James Ennis;2976;Memphis Grizzlies;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;58.998;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396289;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;61.509;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396290;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;75.509;23.27;13.68;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396291;100300;Rebound;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;2;75.509;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396292;800202;2-;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;2;95.509;21.56;6.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396293;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;95.509;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396294;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;109.832;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396295;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;109.832;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396296;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;109.832;26.84;2.70;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396297;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;7461;JaVale McGee;2975;Dallas Mavericks;;;2;134.521;25.76;8.64;;;;;;;;Isolation;;Hook;Drives Left;;;2017-12-07 04:16:04.009666
+76396298;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;134.521;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396299;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;143.503;26.57;14.37;;;;;;;;Transition;;Jumper;;;;2018-10-20 17:58:37.550992
+76396300;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;143.503;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396301;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;2;154.016;26.72;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396302;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;154.579;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396303;100400;Steal;7814;Chandler Parsons;2975;Dallas Mavericks;7811;James Ennis;2976;Memphis Grizzlies;;;2;159.466;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396304;100200;Game stop;;;;;;;;;;;2;162.282;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396305;300100;Foul;2421;Zach Randolph;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;2;162.282;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396306;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;180.623;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396307;100400;Steal;2415;Mike Conley;2976;Memphis Grizzlies;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;190.623;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396308;800700;3F;2415;Mike Conley;2976;Memphis Grizzlies;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;195.661;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:16:04.009666
+76396309;100200;Game stop;;;;;;;;;;;2;195.661;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396310;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;2;195.661;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396311;300300;Technical foul;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;195.661;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396312;800101;1+;2415;Mike Conley;2976;Memphis Grizzlies;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;227.054;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396313;800101;1+;2415;Mike Conley;2976;Memphis Grizzlies;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;253.439;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396314;1600500;Guard;6045;Marc Gasol;2976;Memphis Grizzlies;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;274.613;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396315;800101;1+;2415;Mike Conley;2976;Memphis Grizzlies;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;274.613;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396316;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;278.877;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396317;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;2;297.877;22.28;2.10;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:16:04.009666
+76396318;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;297.877;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396319;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;7811;James Ennis;2;309.323;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396320;800301;3+;7811;James Ennis;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;309.323;26.21;0.96;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396321;100200;Game stop;;;;;;;;;;;2;314.599;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396322;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;2;314.599;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396323;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;344.270;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396324;100200;Game stop;;;;;;;;;;;2;361.270;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396325;300100;Foul;7811;James Ennis;2976;Memphis Grizzlies;7461;JaVale McGee;2975;Dallas Mavericks;;;2;361.270;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396326;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;386.560;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396327;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7461;JaVale McGee;2;392.560;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396328;200300;Pick'n'Roll;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;392.560;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396329;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;392.560;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 04:16:04.009666
+76396330;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;412.017;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396331;800201;2+;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;412.017;26.84;7.44;;;;;;;;Post;;Lay up;;;;2017-12-07 04:16:04.009666
+76396332;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;432.859;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396333;800301;3+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;432.859;23.45;1.23;;;;;;;;Catch and shoot;;Jumper;;;;2018-10-20 17:58:37.550992
+76396334;100200;Game stop;;;;;;;;;;;2;448.359;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396335;300100;Foul;2421;Zach Randolph;2976;Memphis Grizzlies;7461;JaVale McGee;2975;Dallas Mavericks;;;2;448.359;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396336;100500;Turnover;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;448.359;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396337;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;466.303;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396338;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;481.303;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396339;800301;3+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;481.303;26.57;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396340;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;496.220;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396341;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;496.220;25.22;7.59;;;;;;;;Post;;Hook;;;;2017-12-07 04:16:04.009666
+76396342;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;496.220;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396343;100200;Game stop;;;;;;;;;;;2;505.290;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396344;100500;Turnover;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;2;505.290;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396345;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;551.644;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396346;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;2;551.644;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396347;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;551.644;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396348;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;551.644;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396349;800202;2-;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;2;551.644;26.81;8.13;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:16:04.009666
+76396350;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;2;551.644;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396351;100200;Game stop;;;;;;;;;;;2;590.263;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396352;1600500;Guard;6211;Courtney Lee;2976;Memphis Grizzlies;6041;Mario Chalmers;2976;Memphis Grizzlies;;;2;590.263;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396353;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;590.263;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396354;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;590.263;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396355;800301;3+;2428;Deron Williams;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;590.263;20.33;3.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396356;800202;2-;7811;James Ennis;2976;Memphis Grizzlies;;;;;;;2;608.352;21.80;5.70;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396357;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;2;608.352;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396358;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;616.282;;;;;;;;;;Hand offs;;;;;;2017-12-07 04:16:04.009666
+76396359;800201;2+;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;616.282;26.57;7.59;;;;;;;;Hand offs;;Lay up;;;;2018-10-20 17:58:37.550992
+76396360;100200;Game stop;;;;;;;;;;;2;626.036;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396361;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;2;626.036;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396362;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;2;672.135;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396363;1600500;Guard;9110;Jeff Green;2976;Memphis Grizzlies;7811;James Ennis;2976;Memphis Grizzlies;;;2;672.135;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396364;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;672.135;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396365;100200;Game stop;;;;;;;;;;;2;672.135;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396366;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;6045;Marc Gasol;2976;Memphis Grizzlies;;;2;672.135;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396367;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;691.099;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396368;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;697.099;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396369;800600;2F;6045;Marc Gasol;2976;Memphis Grizzlies;2427;Dwight Powell;2975;Dallas Mavericks;;;2;697.099;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 04:16:04.009666
+76396370;100200;Game stop;;;;;;;;;;;2;697.099;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396371;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;6045;Marc Gasol;2976;Memphis Grizzlies;;;2;697.099;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396372;800101;1+;6045;Marc Gasol;2976;Memphis Grizzlies;2427;Dwight Powell;2975;Dallas Mavericks;;;2;724.690;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396373;800101;1+;6045;Marc Gasol;2976;Memphis Grizzlies;2427;Dwight Powell;2975;Dallas Mavericks;;;2;739.497;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396374;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;742.479;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396375;100200;Game stop;;;;;;;;;;;2;756.479;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396376;100500;Turnover;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;756.479;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396377;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;763.250;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396378;200300;Pick'n'Roll;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;2415;Mike Conley;2;779.250;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396379;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;2415;Mike Conley;2;779.250;26.36;11.91;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 04:16:04.009666
+76396380;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;2;779.250;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396381;100200;Game stop;;;;;;;;;;;2;789.198;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396382;100500;Turnover;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;789.198;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396383;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;796.744;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396384;800201;2+;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;2;806.744;23.75;2.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396385;100200;Game stop;;;;;;;;;;;2;818.721;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396386;300300;Technical foul;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;818.721;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396387;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;841.660;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396388;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;853.810;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396389;800202;2-;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;864.810;24.65;2.34;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396390;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;2;864.810;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396391;100200;Game stop;;;;;;;;;;;2;878.092;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396392;100500;Turnover;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;878.092;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396393;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;893.387;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396394;100200;Game stop;;;;;;;;;;;2;907.387;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396395;300100;Foul;6211;Courtney Lee;2976;Memphis Grizzlies;2427;Dwight Powell;2975;Dallas Mavericks;;;2;907.387;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396396;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;930.596;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396397;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;942.596;24.20;1.08;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:16:04.009666
+76396398;100300;Rebound;2427;Dwight Powell;2975;Dallas Mavericks;;;;;;;2;942.596;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396399;100200;Game stop;;;;;;;;;;;2;942.596;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396400;300100;Foul;2421;Zach Randolph;2976;Memphis Grizzlies;2427;Dwight Powell;2975;Dallas Mavericks;;;2;942.596;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396401;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;2421;Zach Randolph;2976;Memphis Grizzlies;;;2;993.843;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396402;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;2;993.843;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396403;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;2;993.843;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396404;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;993.843;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396405;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;993.843;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396406;800600;2F;2433;Dirk Nowitzki;2975;Dallas Mavericks;9110;Jeff Green;2976;Memphis Grizzlies;;;2;993.843;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 04:16:04.009666
+76396407;100200;Game stop;;;;;;;;;;;2;993.843;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396408;300100;Foul;9110;Jeff Green;2976;Memphis Grizzlies;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;993.843;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396409;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;9110;Jeff Green;2976;Memphis Grizzlies;;;2;1019.259;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396410;800101;1+;2433;Dirk Nowitzki;2975;Dallas Mavericks;9110;Jeff Green;2976;Memphis Grizzlies;;;2;1034.326;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396411;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;1040.369;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396412;800201;2+;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;2;1055.369;27.20;7.20;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:16:04.009666
+76396413;100200;Game stop;;;;;;;;;;;2;1061.266;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396414;100500;Turnover;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;1061.266;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396415;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;1071.080;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396416;400101;Accurate pass;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;2415;Mike Conley;2;1092.080;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396417;800201;2+;2415;Mike Conley;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;2;1092.080;26.66;10.83;;;;;;;;Cut;;Jumper;;;;2017-12-07 04:16:04.009666
+76396418;800302;3-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;2;1112.347;21.41;12.45;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396419;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1115.113;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396420;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;1115.113;26.84;7.32;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:16:04.009666
+76396421;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;1115.113;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396422;100400;Steal;2430;Wesley Matthews;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;2;1126.484;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396423;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;1132.178;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396424;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;1132.178;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 04:16:04.009666
+76396425;400101;Accurate pass;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;2;1146.196;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396426;800201;2+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;2;1146.196;26.99;2.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396427;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;2;1169.442;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396428;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;1169.442;21.56;12.36;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396429;800600;2F;6045;Marc Gasol;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;1193.289;27.05;7.62;;;;;;;;Cut;;;;;;2017-12-07 04:16:04.009666
+76396430;100200;Game stop;;;;;;;;;;;2;1193.289;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396431;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;6045;Marc Gasol;2976;Memphis Grizzlies;;;2;1193.289;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396432;1800600;Timeout;;;;;;;;;;;2;1193.289;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396433;1600500;Guard;6041;Mario Chalmers;2976;Memphis Grizzlies;2415;Mike Conley;2976;Memphis Grizzlies;;;2;1224.078;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396434;800101;1+;6045;Marc Gasol;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;1224.078;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396435;800101;1+;6045;Marc Gasol;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;1239.795;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396436;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1243.606;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396437;200600;Post;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;1253.606;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396438;800600;2F;2428;Deron Williams;2975;Dallas Mavericks;6041;Mario Chalmers;2976;Memphis Grizzlies;;;2;1253.606;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 04:16:04.009666
+76396439;100200;Game stop;;;;;;;;;;;2;1253.606;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396440;300100;Foul;6041;Mario Chalmers;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;2;1253.606;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396441;800102;1-;2428;Deron Williams;2975;Dallas Mavericks;6041;Mario Chalmers;2976;Memphis Grizzlies;;;2;1278.550;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396442;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;1278.550;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396443;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;2;1309.243;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396444;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;6041;Mario Chalmers;2976;Memphis Grizzlies;;;2;1309.243;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396445;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;1311.744;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396446;100200;Game stop;;;;;;;;;;;2;1329.144;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396447;100500;Turnover;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;2;1329.144;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396448;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;2;1337.439;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396449;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;1351.939;26.12;5.43;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396450;800302;3-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;1361.877;22.13;13.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396451;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;1361.877;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396452;800600;2F;7814;Chandler Parsons;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1381.848;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 04:16:04.009666
+76396453;100200;Game stop;;;;;;;;;;;2;1381.848;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396454;300100;Foul;7492;Matt Barnes;2976;Memphis Grizzlies;7814;Chandler Parsons;2975;Dallas Mavericks;;;2;1381.848;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396455;800102;1-;7814;Chandler Parsons;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1405.963;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396456;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;2;1405.963;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396457;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;2;1432.854;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396458;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;2;1432.854;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396459;800101;1+;7814;Chandler Parsons;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1432.854;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396460;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;1438.058;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396461;800201;2+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;1445.358;26.84;7.50;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:16:04.009666
+76396462;800700;3F;2428;Deron Williams;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1450.748;27.05;7.62;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396463;100200;Game stop;;;;;;;;;;;2;1450.748;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396464;300100;Foul;7492;Matt Barnes;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;2;1450.748;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396465;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1511.279;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396466;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1525.725;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396467;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;2;1541.967;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396468;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;2;1541.967;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396469;1800500;Halftime;;;;;;;;;;;2;1542.167;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396470;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396471;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396472;1600500;Guard;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396473;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396474;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396475;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396476;1600500;Guard;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396477;1600500;Guard;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396478;1600500;Guard;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396479;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396480;1600500;Guard;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396481;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;9.843;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396482;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;30.843;21.98;2.34;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 04:16:04.009666
+76396483;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;30.843;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396484;100400;Steal;7463;Zaza Pachulia;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;3;45.094;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396485;800600;2F;7463;Zaza Pachulia;2975;Dallas Mavericks;6045;Marc Gasol;2976;Memphis Grizzlies;;;3;48.982;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:16:04.009666
+76396486;100200;Game stop;;;;;;;;;;;3;48.982;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396487;300100;Foul;6045;Marc Gasol;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;48.982;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396488;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;6045;Marc Gasol;2976;Memphis Grizzlies;;;3;81.294;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396489;800101;1+;7463;Zaza Pachulia;2975;Dallas Mavericks;6045;Marc Gasol;2976;Memphis Grizzlies;;;3;102.864;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396490;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;105.730;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396491;800202;2-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;3;123.730;23.33;5.49;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 04:16:04.009666
+76396492;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;123.730;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396493;200600;Post;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;144.531;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396494;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;144.531;24.95;12.03;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396495;800202;2-;6211;Courtney Lee;2976;Memphis Grizzlies;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;172.443;26.84;8.22;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:16:04.009666
+76396496;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;172.443;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396497;800302;3-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;179.836;19.79;8.49;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:16:04.009666
+76396498;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;179.836;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396499;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;193.298;26.72;6.51;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 04:16:04.009666
+76396500;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;193.298;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396501;800202;2-;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;203.202;26.81;10.98;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:16:04.009666
+76396502;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;205.317;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396503;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;3;205.317;26.84;7.20;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:16:04.009666
+76396504;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;3;205.317;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396505;100200;Game stop;;;;;;;;;;;3;209.365;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396506;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;3;209.365;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396507;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;236.429;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396508;200300;Pick'n'Roll;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;3;259.429;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:16:04.009666
+76396509;800201;2+;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;3;259.429;22.58;8.49;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 04:16:04.009666
+76396510;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;281.209;27.35;12.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396511;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;281.285;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396512;800202;2-;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;281.285;26.72;7.32;;;;;;;;Putbacks;;;;;;2017-12-07 04:16:04.009666
+76396513;100300;Rebound;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;3;281.285;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396514;100200;Game stop;;;;;;;;;;;3;287.155;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396515;100500;Turnover;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;287.155;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396516;300100;Foul;6045;Marc Gasol;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;287.155;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396517;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;329.623;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396518;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;352.623;27.08;2.85;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396519;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;354.157;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396520;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;3;354.157;26.96;7.11;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:16:04.009666
+76396521;100200;Game stop;;;;;;;;;;;3;354.157;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396522;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;354.157;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396523;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;380.793;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396524;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;396.793;24.65;2.70;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 04:16:04.009666
+76396525;100300;Rebound;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;3;396.793;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396526;200300;Pick'n'Roll;2415;Mike Conley;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;3;407.551;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:16:04.009666
+76396527;800202;2-;2415;Mike Conley;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;3;407.551;25.22;5.40;;;;;;;;Pick'n'pop;;Floater;Drives Right;;;2017-12-07 04:16:04.009666
+76396528;100300;Rebound;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;407.551;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396529;100400;Steal;7492;Matt Barnes;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;3;414.481;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396530;800201;2+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;3;418.122;27.02;7.62;;;;;;;;Transition;;Dunk;;;;2017-12-07 04:16:04.009666
+76396531;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;7492;Matt Barnes;2976;Memphis Grizzlies;;;3;444.211;24.65;10.29;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396532;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;444.211;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396533;100400;Steal;2430;Wesley Matthews;2975;Dallas Mavericks;6211;Courtney Lee;2976;Memphis Grizzlies;;;3;452.556;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396534;800600;2F;2430;Wesley Matthews;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;3;459.031;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 04:16:04.009666
+76396535;100200;Game stop;;;;;;;;;;;3;459.031;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396536;300100;Foul;2415;Mike Conley;2976;Memphis Grizzlies;2430;Wesley Matthews;2975;Dallas Mavericks;;;3;459.031;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396537;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;3;483.331;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396538;800101;1+;2430;Wesley Matthews;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;3;496.798;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396539;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;499.206;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396540;400101;Accurate pass;2415;Mike Conley;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;3;516.206;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396541;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;516.206;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396542;800201;2+;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;2415;Mike Conley;3;516.206;26.81;7.83;;;;;;;;Post;;Lay up;;;;2017-12-07 04:16:04.009666
+76396543;400101;Accurate pass;2428;Deron Williams;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;533.788;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396544;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;533.788;23.33;3.09;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396545;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;3;558.858;20.21;5.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396546;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;558.858;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396547;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;3;570.709;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396548;800201;2+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;570.709;25.37;2.58;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:16:04.009666
+76396549;100200;Game stop;;;;;;;;;;;3;570.709;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396550;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;3;570.709;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396551;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;3;624.486;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396552;1600500;Guard;2421;Zach Randolph;2976;Memphis Grizzlies;9110;Jeff Green;2976;Memphis Grizzlies;;;3;624.486;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396553;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;624.486;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396554;100200;Game stop;;;;;;;;;;;3;624.486;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396555;300100;Foul;2427;Dwight Powell;2975;Dallas Mavericks;6045;Marc Gasol;2976;Memphis Grizzlies;;;3;624.486;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396556;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;2427;Dwight Powell;2975;Dallas Mavericks;;;3;667.779;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396557;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;3;667.779;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396558;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;667.779;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396559;800301;3+;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;3;667.779;20.36;4.74;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396560;100200;Game stop;;;;;;;;;;;3;684.883;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396561;300300;Technical foul;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;3;684.883;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396562;800101;1+;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;709.856;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396563;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;3;746.174;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396564;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;746.174;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396565;800201;2+;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;746.174;25.64;3.03;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 04:16:04.009666
+76396566;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;2415;Mike Conley;3;764.609;25.22;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396567;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;764.609;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396568;800202;2-;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;3;778.601;26.51;10.20;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 04:16:04.009666
+76396569;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;780.817;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396570;800202;2-;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;780.817;25.67;8.10;;;;;;;;Putbacks;;Jumper;;;;2017-12-07 04:16:04.009666
+76396571;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;780.817;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396572;200300;Pick'n'Roll;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;3;798.822;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:16:04.009666
+76396573;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;3;798.822;21.41;7.65;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 04:16:04.009666
+76396574;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;798.822;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396575;400101;Accurate pass;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;3;805.422;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396576;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;805.422;26.99;7.59;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:16:04.009666
+76396577;100200;Game stop;;;;;;;;;;;3;805.422;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396578;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;3;805.422;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396579;1600500;Guard;6041;Mario Chalmers;2976;Memphis Grizzlies;7492;Matt Barnes;2976;Memphis Grizzlies;;;3;846.722;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396580;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;846.722;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396581;800302;3-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;2415;Mike Conley;3;846.722;26.60;14.28;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396582;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;846.722;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396583;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;868.076;26.81;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396584;100200;Game stop;;;;;;;;;;;3;868.076;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396585;100300;Rebound;;;2976;Memphis Grizzlies;;;;;;;3;868.076;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396586;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;874.638;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396587;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;893.638;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396588;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;893.638;24.35;8.64;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396589;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;893.638;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396590;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;3;902.415;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396591;800301;3+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;902.415;26.84;0.63;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:16:04.009666
+76396592;800600;2F;2415;Mike Conley;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;3;921.456;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 04:16:04.009666
+76396593;100200;Game stop;;;;;;;;;;;3;921.456;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396594;300100;Foul;2428;Deron Williams;2975;Dallas Mavericks;2415;Mike Conley;2976;Memphis Grizzlies;;;3;921.456;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396595;800101;1+;2415;Mike Conley;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;3;948.779;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396596;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;3;967.547;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396597;800101;1+;2415;Mike Conley;2976;Memphis Grizzlies;2428;Deron Williams;2975;Dallas Mavericks;;;3;967.547;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396598;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;971.390;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396599;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;984.390;21.50;2.88;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396600;100300;Rebound;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;3;984.390;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396601;100200;Game stop;;;;;;;;;;;3;991.644;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396602;100500;Turnover;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;991.644;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396603;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;994.938;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396604;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;3;1008.938;20.66;11.19;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396605;100300;Rebound;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;3;1008.938;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396606;100200;Game stop;;;;;;;;;;;3;1018.458;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396607;300300;Technical foul;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;1018.458;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396608;800101;1+;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;3;1040.664;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396609;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;1056.508;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396610;400101;Accurate pass;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;3;1069.508;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396611;800301;3+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;3;1069.508;22.37;13.38;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396612;100200;Game stop;;;;;;;;;;;3;1069.508;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396613;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;3;1069.508;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396614;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;3;1114.185;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396615;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;2425;Charlie Villanueva;2975;Dallas Mavericks;;;3;1114.185;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396616;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1114.185;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396617;100200;Game stop;;;;;;;;;;;3;1114.185;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396618;100500;Turnover;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;1114.185;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396619;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;3;1128.001;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396620;800302;3-;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;3;1141.001;20.21;5.55;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396621;100300;Rebound;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;1141.001;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396622;800202;2-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1152.351;27.08;8.19;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 04:16:04.009666
+76396623;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;1153.295;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396624;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;1153.295;27.02;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 04:16:04.009666
+76396625;800202;2-;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;3;1171.856;21.95;4.47;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396626;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1171.856;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396627;100400;Steal;6211;Courtney Lee;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;3;1175.900;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396628;100400;Steal;6045;Marc Gasol;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;3;1188.966;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396629;800302;3-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;1196.353;26.84;14.67;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:16:04.009666
+76396630;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;1196.353;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396631;800302;3-;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;3;1220.385;20.09;4.65;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396632;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;3;1220.385;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396633;800600;2F;6041;Mario Chalmers;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;3;1232.180;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 04:16:04.009666
+76396634;100200;Game stop;;;;;;;;;;;3;1232.180;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396635;300100;Foul;7499;Raymond Felton;2975;Dallas Mavericks;6041;Mario Chalmers;2976;Memphis Grizzlies;;;3;1232.180;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396636;800101;1+;6041;Mario Chalmers;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;3;1262.515;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396637;800101;1+;6041;Mario Chalmers;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;3;1280.852;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396638;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;3;1286.300;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396639;800302;3-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;3;1288.100;12.32;9.84;;;;;;;;;;Jumper;;;;2017-12-07 04:16:04.009666
+76396640;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;3;1288.100;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396641;1800500;Halftime;;;;;;;;;;;3;1288.100;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396642;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396643;1600500;Guard;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396644;1600500;Guard;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396645;1600500;Guard;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396646;1600500;Guard;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396647;1600500;Guard;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;0.000;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396648;1600500;Guard;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396649;1600500;Guard;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396650;1600500;Guard;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396651;1600500;Guard;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396652;1600500;Guard;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396653;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;6.959;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396654;400101;Accurate pass;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;4;21.959;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396655;800201;2+;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;2421;Zach Randolph;4;21.959;23.27;7.74;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396656;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7461;JaVale McGee;4;38.060;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396657;200300;Pick'n'Roll;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;38.060;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396658;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;38.060;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 04:16:04.009666
+76396659;200600;Post;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;4;59.114;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396660;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;4;59.114;26.57;10.65;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396661;100200;Game stop;;;;;;;;;;;4;59.114;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396662;300100;Foul;2421;Zach Randolph;2976;Memphis Grizzlies;7461;JaVale McGee;2975;Dallas Mavericks;;;4;59.114;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396663;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;59.114;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396664;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;78.595;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396665;100400;Steal;6045;Marc Gasol;2976;Memphis Grizzlies;7499;Raymond Felton;2975;Dallas Mavericks;;;4;94.595;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396666;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;111.012;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396667;800201;2+;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;111.012;25.76;8.19;;;;;;;;Post;;Hook;;;;2017-12-07 04:16:04.009666
+76396668;400101;Accurate pass;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;127.931;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396669;800301;3+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;127.931;26.72;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396670;800202;2-;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;4;171.372;25.82;8.97;;;;;;;;Catch and Drive;;Hook;Drives Left;;;2017-12-07 04:16:04.009666
+76396671;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;171.372;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396672;400101;Accurate pass;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;4;182.015;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396673;800301;3+;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;182.015;27.20;14.52;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396674;100200;Game stop;;;;;;;;;;;4;182.015;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396675;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;4;182.015;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396676;1600500;Guard;7492;Matt Barnes;2976;Memphis Grizzlies;6045;Marc Gasol;2976;Memphis Grizzlies;;;4;229.289;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396677;1600500;Guard;2409;JaMychal Green;2976;Memphis Grizzlies;2415;Mike Conley;2976;Memphis Grizzlies;;;4;229.289;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396678;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;229.289;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396679;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;4;229.289;26.66;8.97;;;;;;;;;;Jumper;;;;2017-12-07 04:16:04.009666
+76396680;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;229.289;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396681;800202;2-;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;244.492;26.72;8.28;;;;;;;;Cut;;Lay up;;;;2017-12-07 04:16:04.009666
+76396682;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;4;244.492;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396683;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;251.699;27.23;7.65;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:16:04.009666
+76396684;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;251.899;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396685;800202;2-;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;251.899;27.08;7.86;;;;;;;;Putbacks;;;;;;2017-12-07 04:16:04.009666
+76396686;100300;Rebound;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;4;251.899;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396687;400101;Accurate pass;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;260.607;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396688;800301;3+;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;260.607;20.09;5.40;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:16:04.009666
+76396689;100200;Game stop;;;;;;;;;;;4;269.617;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396690;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;269.617;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396691;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;283.321;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396692;200600;Post;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;296.321;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396693;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;7461;JaVale McGee;2975;Dallas Mavericks;;;4;296.321;25.97;7.80;;;;;;;;Post;;Jumper;;;;2017-12-07 04:16:04.009666
+76396694;100300;Rebound;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;4;296.321;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396695;100200;Game stop;;;;;;;;;;;4;313.096;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396696;100500;Turnover;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;313.096;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396697;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;313.096;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396698;1600500;Guard;2428;Deron Williams;2975;Dallas Mavericks;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;4;365.776;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396699;1600500;Guard;2425;Charlie Villanueva;2975;Dallas Mavericks;7499;Raymond Felton;2975;Dallas Mavericks;;;4;365.776;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396700;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;365.776;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396701;800201;2+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;365.776;27.08;7.74;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 04:16:04.009666
+76396702;100400;Steal;6041;Mario Chalmers;2976;Memphis Grizzlies;7461;JaVale McGee;2975;Dallas Mavericks;;;4;380.973;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396703;100400;Steal;2428;Deron Williams;2975;Dallas Mavericks;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;383.440;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396704;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;4;412.130;25.64;12.84;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 04:16:04.009666
+76396705;100300;Rebound;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;;;4;412.130;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396706;800302;3-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;433.832;19.94;6.57;;;;;;;;Catch and shoot;;Jumper;;;;2018-10-20 17:58:37.550992
+76396707;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;433.832;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396708;100200;Game stop;;;;;;;;;;;4;443.304;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396709;300100;Foul;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;443.304;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396710;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;463.283;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396711;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;470.283;26.06;2.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396712;100300;Rebound;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;470.283;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396713;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;476.339;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396714;800201;2+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;476.339;26.84;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:16:04.009666
+76396715;400101;Accurate pass;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;4;488.004;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396716;800301;3+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;488.004;24.05;14.19;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396717;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;507.139;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396718;800301;3+;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;507.139;22.82;1.11;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396719;200300;Pick'n'Roll;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;4;536.892;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396720;800202;2-;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;4;536.892;26.66;6.18;;;;;;;;Pick-n-roll without a ball;;Jumper;;;;2017-12-07 04:16:04.009666
+76396721;100300;Rebound;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;4;536.892;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396722;400101;Accurate pass;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7461;JaVale McGee;4;547.429;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+76396723;800201;2+;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;547.429;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 04:16:04.009666
+76396724;100200;Game stop;;;;;;;;;;;4;547.429;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396725;1800600;Timeout;;;2976;Memphis Grizzlies;;;;;;;4;547.429;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396726;1600500;Guard;7463;Zaza Pachulia;2975;Dallas Mavericks;7461;JaVale McGee;2975;Dallas Mavericks;;;4;611.057;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396727;1600500;Guard;7809;Jarell Martin;2976;Memphis Grizzlies;2421;Zach Randolph;2976;Memphis Grizzlies;;;4;611.057;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396728;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;611.057;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396729;800202;2-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;4;611.057;25.67;8.49;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396730;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;611.317;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396731;800202;2-;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;611.317;26.63;7.98;;;;;;;;Putbacks;;;;;;2017-12-07 04:16:04.009666
+76396732;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;611.317;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396733;800202;2-;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;616.540;26.78;7.53;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:16:04.009666
+76396734;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;4;616.540;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396735;400101;Accurate pass;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;2409;JaMychal Green;4;622.794;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396736;800201;2+;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;4;622.794;26.96;7.68;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:16:04.009666
+76396737;100200;Game stop;;;;;;;;;;;4;640.949;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396738;300100;Foul;7463;Zaza Pachulia;2975;Dallas Mavericks;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;640.949;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396739;100500;Turnover;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;4;640.949;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396740;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;651.325;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396741;200300;Pick'n'Roll;7809;Jarell Martin;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;665.325;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 04:16:04.009666
+76396742;800202;2-;7809;Jarell Martin;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;665.325;26.42;5.70;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 04:16:04.009666
+76396743;800201;2+;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;665.758;27.05;7.65;;;;;;;;Putbacks;;;;;;2017-12-07 04:16:04.009666
+76396744;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;665.758;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396745;100200;Game stop;;;;;;;;;;;4;690.426;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396746;300100;Foul;9110;Jeff Green;2976;Memphis Grizzlies;7463;Zaza Pachulia;2975;Dallas Mavericks;;;4;690.426;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396747;800302;3-;2428;Deron Williams;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;690.426;26.99;0.78;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396748;100300;Rebound;;;2975;Dallas Mavericks;;;;;;;4;690.426;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396749;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;716.666;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396750;400101;Accurate pass;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;719.666;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396751;800201;2+;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;719.666;26.99;7.02;;;;;;;;Cut;;;;;;2017-12-07 04:16:04.009666
+76396752;800202;2-;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;731.415;26.81;6.09;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 04:16:04.009666
+76396753;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;4;731.415;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396754;100200;Game stop;;;;;;;;;;;4;752.822;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396755;100500;Turnover;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;4;752.822;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396756;100100;Ball in play;;;2976;Memphis Grizzlies;;;;;;;4;765.995;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396757;800202;2-;7809;Jarell Martin;2976;Memphis Grizzlies;;;;;;;4;783.995;21.56;7.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396758;100300;Rebound;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;4;783.995;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396759;100200;Game stop;;;;;;;;;;;4;783.995;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396760;1800600;Timeout;;;2975;Dallas Mavericks;;;;;;;4;783.995;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396761;1600500;Guard;6045;Marc Gasol;2976;Memphis Grizzlies;7809;Jarell Martin;2976;Memphis Grizzlies;;;4;845.213;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396762;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;845.213;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396763;800202;2-;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;;;4;862.975;25.49;10.20;;;;;;;;Isolation;;Floater;Drives Left;;;2018-10-20 17:58:37.550992
+76396764;100300;Rebound;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;4;862.975;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396765;800302;3-;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;4;879.832;20.21;5.04;;;;;;;;Screen off;;Jumper;;;;2017-12-07 04:16:04.009666
+76396766;100300;Rebound;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;4;879.832;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396767;400101;Accurate pass;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;895.302;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396768;800201;2+;2428;Deron Williams;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;895.302;26.99;7.95;;;;;;;;Cut;;;;;;2017-12-07 04:16:04.009666
+76396769;400101;Accurate pass;9110;Jeff Green;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;913.669;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396770;800301;3+;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;9110;Jeff Green;4;913.669;26.81;14.43;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396771;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2428;Deron Williams;4;941.468;22.28;13.11;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396772;100300;Rebound;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;4;941.468;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396773;800302;3-;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;4;949.135;26.63;14.37;;;;;;;;Transition;;Jumper;;;;2017-12-07 04:16:04.009666
+76396774;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;951.506;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396775;800201;2+;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;951.506;26.78;7.71;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 04:16:04.009666
+76396776;100200;Game stop;;;;;;;;;;;4;961.637;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396777;300100;Foul;6041;Mario Chalmers;2976;Memphis Grizzlies;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;961.637;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396778;1600500;Guard;2427;Dwight Powell;2975;Dallas Mavericks;7463;Zaza Pachulia;2975;Dallas Mavericks;;;4;1015.087;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396779;1600500;Guard;7437;Jeremy Evans;2975;Dallas Mavericks;2428;Deron Williams;2975;Dallas Mavericks;;;4;1015.087;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396780;1600500;Guard;8429;John Jenkins;2975;Dallas Mavericks;7814;Chandler Parsons;2975;Dallas Mavericks;;;4;1015.087;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396781;1600500;Guard;6091;Russ Smith;2976;Memphis Grizzlies;9110;Jeff Green;2976;Memphis Grizzlies;;;4;1015.087;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396782;1600500;Guard;7811;James Ennis;2976;Memphis Grizzlies;6045;Marc Gasol;2976;Memphis Grizzlies;;;4;1015.087;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396783;1600500;Guard;7809;Jarell Martin;2976;Memphis Grizzlies;6041;Mario Chalmers;2976;Memphis Grizzlies;;;4;1015.087;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396784;100100;Ball in play;;;2975;Dallas Mavericks;;;;;;;4;1015.087;;;;;;;;;;;;;;;;2019-10-24 12:40:04.049017
+76396785;800302;3-;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;1015.087;20.75;4.20;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 04:16:04.009666
+76396786;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1015.087;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396787;800202;2-;6091;Russ Smith;2976;Memphis Grizzlies;;;;;;;4;1025.338;26.06;4.80;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 04:16:04.009666
+76396788;100300;Rebound;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1026.291;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396789;800201;2+;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1026.291;27.23;7.98;;;;;;;;Putbacks;;;;;;2017-12-07 04:16:04.009666
+76396790;100400;Steal;7811;James Ennis;2976;Memphis Grizzlies;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;4;1048.534;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396791;400101;Accurate pass;6091;Russ Smith;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;4;1053.525;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+76396792;800201;2+;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6091;Russ Smith;4;1053.525;27.05;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 04:16:04.009666
+76396793;1800700;Match end;;;;;;;;;;;4;1075.725;;;;;;;;;;;;;;;;2017-12-07 04:16:04.009666
+103674493;200900;Assisting;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;110.737;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674495;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;250.637;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674497;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;2415;Mike Conley;1;328.877;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674499;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;353.590;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674501;200900;Assisting;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;;;1;433.819;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674503;200900;Assisting;6211;Courtney Lee;2976;Memphis Grizzlies;;;;;9110;Jeff Green;1;462.730;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674505;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;1;532.634;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674507;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;1;566.170;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674509;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;1;678.358;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674511;200900;Assisting;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;810.377;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674513;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7463;Zaza Pachulia;1;824.815;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674515;200900;Assisting;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;1;840.306;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674517;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;1;912.176;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674519;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;1;930.622;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674521;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1037.661;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674523;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1101.533;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674525;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1151.430;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674527;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;;;1;1208.538;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674529;200900;Assisting;9110;Jeff Green;2976;Memphis Grizzlies;;;;;;;1;1233.162;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674531;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;1;1304.132;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674533;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;1;1362.684;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674535;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7499;Raymond Felton;1;1388.897;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674537;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;1;1421.148;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103674539;200900;Assisting;7811;James Ennis;2976;Memphis Grizzlies;;;;;;;2;23.926;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674541;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;2;109.832;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674543;200900;Assisting;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;2;195.661;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674545;200900;Assisting;7811;James Ennis;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;2;309.323;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674547;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;392.560;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674549;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;412.017;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674551;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;432.859;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103674553;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;2;481.303;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674555;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;2;590.263;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674557;200900;Assisting;2426;Jose Juan Barea Mora;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;616.282;;;;;;;;;;;;;;;;2018-10-20 17:58:37.550992
+103674559;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;697.099;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674561;200900;Assisting;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;2;806.744;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674563;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;2;993.843;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674565;200900;Assisting;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;2;1055.369;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674567;200900;Assisting;2415;Mike Conley;2976;Memphis Grizzlies;;;;;6045;Marc Gasol;2;1092.080;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674569;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;2;1132.178;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674571;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;2;1146.196;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674573;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;2;1169.442;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674575;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;;;2;1193.289;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674577;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;1253.606;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674579;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;1351.939;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674581;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;;;2;1381.848;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674583;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;2;1445.358;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674585;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;;;2;1450.748;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674587;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;48.982;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674589;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;;;3;144.531;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674591;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;3;259.429;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674593;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;;;3;418.122;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674595;200900;Assisting;2430;Wesley Matthews;2975;Dallas Mavericks;;;;;;;3;459.031;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674597;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;2415;Mike Conley;3;516.206;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674599;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;2428;Deron Williams;3;533.788;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674601;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7499;Raymond Felton;3;570.709;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674603;200900;Assisting;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;3;667.779;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674605;200900;Assisting;7463;Zaza Pachulia;2975;Dallas Mavericks;;;;;;;3;746.174;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674607;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2430;Wesley Matthews;3;805.422;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674609;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;3;902.415;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674611;200900;Assisting;2415;Mike Conley;2976;Memphis Grizzlies;;;;;;;3;921.456;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674613;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;6211;Courtney Lee;3;1069.508;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674615;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;;;3;1153.295;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674617;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;3;1232.180;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674619;200900;Assisting;6045;Marc Gasol;2976;Memphis Grizzlies;;;;;2421;Zach Randolph;4;21.959;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674621;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;38.060;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674623;200900;Assisting;2421;Zach Randolph;2976;Memphis Grizzlies;;;;;;;4;111.012;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674625;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;127.931;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674627;200900;Assisting;7499;Raymond Felton;2975;Dallas Mavericks;;;;;2433;Dirk Nowitzki;4;182.015;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674629;200900;Assisting;2433;Dirk Nowitzki;2975;Dallas Mavericks;;;;;7814;Chandler Parsons;4;260.607;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674631;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;;;4;365.776;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674633;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;476.339;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674635;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6041;Mario Chalmers;4;488.004;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674637;200900;Assisting;2425;Charlie Villanueva;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;507.139;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674639;200900;Assisting;7461;JaVale McGee;2975;Dallas Mavericks;;;;;2426;Jose Juan Barea Mora;4;547.429;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674641;200900;Assisting;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;7492;Matt Barnes;4;622.794;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674643;200900;Assisting;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;665.758;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674645;200900;Assisting;7814;Chandler Parsons;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;719.666;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674647;200900;Assisting;2428;Deron Williams;2975;Dallas Mavericks;;;;;2425;Charlie Villanueva;4;895.302;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674649;200900;Assisting;6041;Mario Chalmers;2976;Memphis Grizzlies;;;;;9110;Jeff Green;4;913.669;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674651;200900;Assisting;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;951.506;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674653;200900;Assisting;2409;JaMychal Green;2976;Memphis Grizzlies;;;;;;;4;1026.291;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161
+103674655;200900;Assisting;7492;Matt Barnes;2976;Memphis Grizzlies;;;;;6091;Russ Smith;4;1053.525;;;;;;;;;;;;;;;;2018-04-19 11:21:00.953161

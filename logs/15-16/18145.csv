@@ -1,0 +1,937 @@
+id;action_id;action_name;player_id;player_name;team_id;team_name;opponent_id;opponent_name;opponent_team_id;opponent_team_name;teammate_id;teammate_name;half;second;pos_x;pos_y;possession_id;possession_name;possession_team_id;possession_team_name;possession_number;possession_start_clear;possession_end_clear;playtype;hand;shot_type;drive;dribble_move;contesting;ts
+76838905;1601000;Starting lineup;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838906;1601000;Starting lineup;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838907;1601000;Starting lineup;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838908;1601000;Starting lineup;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838909;1601000;Starting lineup;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838910;1601000;Starting lineup;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838911;1601000;Starting lineup;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838912;1601000;Starting lineup;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838913;1601000;Starting lineup;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838914;1601000;Starting lineup;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838915;1601000;Starting lineup;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838916;1601000;Starting lineup;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838917;1800100;1st quarter;;;;;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838923;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838924;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838925;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838926;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838927;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838928;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;55.209;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76838929;400101;Accurate pass;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;78.209;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838930;800301;3+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;78.209;25.64;15.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76838932;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;101.043;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838933;100200;Game stop;;;;;;;;;;;1;109.702;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838935;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;1;109.702;23.45;10.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76838939;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;149.354;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838940;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;149.354;26.12;7.74;;;;;;;;Cut;;;;;;2017-12-07 09:57:01.583708
+76838943;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;167.989;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838945;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;183.796;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838946;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;183.796;26.21;6.78;;;;;;;;Post;;Hook;;;;2017-12-07 09:57:01.583708
+76838948;100200;Game stop;;;;;;;;;;;1;193.324;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838952;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;220.149;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838953;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;1;224.787;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76838954;100200;Game stop;;;;;;;;;;;1;224.787;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838956;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;1;245.385;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838957;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;1;258.646;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838960;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;288.129;26.21;7.56;;;;;;;;Transition;;Lay up;;;;2017-12-07 09:57:01.583708
+76838961;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;288.129;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838962;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;288.129;27.02;7.62;;;;;;;;Putbacks;;Dunk;;;;2017-12-07 09:57:01.583708
+76838965;100200;Game stop;;;;;;;;;;;1;320.478;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838966;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;320.478;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838969;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;1;350.207;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838970;200300;Pick'n'Roll;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;365.141;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 09:57:01.583708
+76838971;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5314;Tayshaun Prince;1;365.141;26.12;2.19;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 09:57:01.583708
+76838976;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;377.888;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838977;400101;Accurate pass;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;384.298;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838978;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;384.298;26.72;7.95;;;;;;;;Transition;;Lay up;;;;2017-12-07 09:57:01.583708
+76838980;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;1;401.461;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838981;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;415.878;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838982;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;415.878;26.27;6.24;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76838985;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;426.611;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838986;100200;Game stop;;;;;;;;;;;1;433.896;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838987;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;1;433.896;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838988;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;1;465.188;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838989;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;465.188;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76838990;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;465.188;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 09:57:01.583708
+76838991;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;465.188;22.97;4.26;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 09:57:01.583708
+76838995;100200;Game stop;;;;;;;;;;;1;477.875;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838996;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;1;477.875;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838999;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;512.106;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839000;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;527.106;23.87;4.32;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839004;100200;Game stop;;;;;;;;;;;1;546.104;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839006;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;1;574.970;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839007;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;574.970;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839008;100200;Game stop;;;;;;;;;;;1;574.970;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839011;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;607.960;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839012;800301;3+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;607.960;21.41;2.40;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839016;100200;Game stop;;;;;;;;;;;1;638.764;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839017;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;1;638.764;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839018;800302;3-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;1;638.764;21.26;2.49;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839020;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;668.143;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839021;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;1;668.143;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839022;200300;Pick'n'Roll;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;668.143;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 09:57:01.583708
+76839023;800301;3+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;668.143;20.63;3.39;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 09:57:01.583708
+76839024;100200;Game stop;;;;;;;;;;;1;679.577;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839025;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;1;679.577;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839026;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;1;714.007;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839027;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;714.007;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839032;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;727.314;21.26;12.90;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 09:57:01.583708
+76839035;100200;Game stop;;;;;;;;;;;1;734.509;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839036;300100;Foul;90354;Kevin Martina;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;1;734.509;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839038;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;1;775.449;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839040;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;779.991;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839042;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;792.991;22.43;6.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839044;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;802.353;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839045;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;1;818.622;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 09:57:01.583708
+76839046;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;1;818.622;21.71;10.05;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 09:57:01.583708
+76839050;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;1;848.456;21.65;13.38;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76839053;200600;Post;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;878.133;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839054;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;1;878.133;26.12;6.72;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76839056;100200;Game stop;;;;;;;;;;;1;893.875;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839063;100200;Game stop;;;;;;;;;;;1;921.785;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839065;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;8339;Ryan Kelly;3171;Los Angeles Lakers;;;1;921.785;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839070;800202;2-;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;1;976.559;23.33;9.75;;;;;;;;Cut;;Jumper;;;;2017-12-07 09:57:01.583708
+76839073;100200;Game stop;;;;;;;;;;;1;984.953;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839074;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;1;984.953;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839077;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;1041.730;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839079;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;1;1060.098;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839080;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;1;1083.098;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839081;800301;3+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;1083.098;21.26;2.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839083;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;1127.766;21.56;2.94;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839086;100200;Game stop;;;;;;;;;;;1;1151.219;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839087;100500;Turnover;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;1;1151.219;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839092;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;1192.350;26.66;7.11;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 09:57:01.583708
+76839093;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;1192.350;26.66;7.11;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 09:57:01.583708
+76839094;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;1192.350;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839097;1800500;Halftime;;;;;;;;;;;1;1201.756;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839098;1800200;2nd quarter;;;;;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839104;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839105;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839106;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839107;1600500;Guard;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839108;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839110;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;2;29.844;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839112;100200;Game stop;;;;;;;;;;;2;49.439;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839114;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;70.892;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839115;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;2;81.892;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839116;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;81.892;25.52;7.44;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839118;100300;Rebound;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;102.789;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839119;800600;2F;90354;Kevin Martina;3174;Minnesota Timberwolves;5329;Nick Young;3171;Los Angeles Lakers;;;2;108.914;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76839120;100200;Game stop;;;;;;;;;;;2;108.914;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839122;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5329;Nick Young;3171;Los Angeles Lakers;;;2;131.655;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839123;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5329;Nick Young;3171;Los Angeles Lakers;;;2;143.637;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839126;800202;2-;5330;Adreian Payne;3174;Minnesota Timberwolves;;;;;;;2;171.383;26.72;7.26;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 09:57:01.583708
+76839128;100200;Game stop;;;;;;;;;;;2;177.812;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839130;1600500;Guard;9116;Damjan Rudez;3174;Minnesota Timberwolves;5330;Adreian Payne;3174;Minnesota Timberwolves;;;2;211.716;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839131;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;211.716;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839132;200600;Post;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;211.716;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839133;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;211.716;27.08;10.98;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76839139;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;293.214;26.84;7.02;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 09:57:01.583708
+76839141;100200;Game stop;;;;;;;;;;;2;308.251;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839142;300100;Foul;9116;Damjan Rudez;3174;Minnesota Timberwolves;8339;Ryan Kelly;3171;Los Angeles Lakers;;;2;308.251;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839143;1800600;Timeout;;;;;;;;;;;2;308.251;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839146;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;2;333.263;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839147;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;333.263;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839149;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;336.557;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839150;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;352.557;24.44;9.42;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 09:57:01.583708
+76839152;100200;Game stop;;;;;;;;;;;2;361.393;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839154;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;385.961;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839155;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;385.961;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839156;100200;Game stop;;;;;;;;;;;2;385.961;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839157;100500;Turnover;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;385.961;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839160;100200;Game stop;;;;;;;;;;;2;410.093;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839161;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;2;410.093;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839164;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;441.522;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839165;100200;Game stop;;;;;;;;;;;2;456.522;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839167;800102;1-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;476.913;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839168;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;476.913;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839171;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;502.334;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839172;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;502.334;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839173;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;502.334;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 09:57:01.583708
+76839175;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;2;539.243;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839176;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;539.243;23.18;7.59;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839181;100400;Steal;5309;Ricky Rubio;3174;Minnesota Timberwolves;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;2;572.174;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839182;100200;Game stop;;;;;;;;;;;2;582.413;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839183;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;582.413;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839185;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;582.413;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839186;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;582.413;19.94;5.34;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839188;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;613.378;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839189;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;613.378;20.36;4.41;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839190;100300;Rebound;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;;;2;613.378;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839191;800201;2+;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;;;2;613.378;26.51;8.28;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 09:57:01.583708
+76839194;100200;Game stop;;;;;;;;;;;2;653.733;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839195;100500;Turnover;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;2;653.733;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839197;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;2;681.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839198;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;681.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839200;100200;Game stop;;;;;;;;;;;2;681.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839201;300100;Foul;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;681.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839205;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;741.862;22.25;9.06;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839206;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;2;771.049;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839208;800302;3-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;790.471;19.58;11.37;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839209;100300;Rebound;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;2;790.471;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839210;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;800.446;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839211;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;800.446;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839212;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;800.446;25.10;7.59;;;;;;;;Post;;Hook;;;;2017-12-07 09:57:01.583708
+76839214;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;825.487;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839215;800600;2F;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;831.622;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76839216;100200;Game stop;;;;;;;;;;;2;831.622;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839218;800102;1-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;860.400;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839219;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;860.400;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839220;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;883.563;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839222;800101;1+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5305;Kobe Bryant;3171;Los Angeles Lakers;;;2;883.563;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839224;100200;Game stop;;;;;;;;;;;2;906.933;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839225;300300;Technical foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;2;906.933;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839229;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;2;906.933;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839233;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;993.984;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839234;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;1009.489;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839235;200300;Pick'n'Roll;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1009.489;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 09:57:01.583708
+76839236;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1009.489;21.56;9.36;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 09:57:01.583708
+76839237;100200;Game stop;;;;;;;;;;;2;1030.739;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839240;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;2;1062.426;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839242;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;2;1076.758;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839243;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1076.758;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 09:57:01.583708
+76839244;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1076.758;26.27;5.97;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 09:57:01.583708
+76839248;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;2;1105.309;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839249;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1105.309;26.81;9.12;;;;;;;;Screen off;;;;;;2017-12-07 09:57:01.583708
+76839251;100200;Game stop;;;;;;;;;;;2;1113.731;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839252;300100;Foul;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;2;1113.731;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839255;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1159.055;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839256;100200;Game stop;;;;;;;;;;;2;1174.055;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839257;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;2;1174.055;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839258;800302;3-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1174.055;23.03;0.87;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839259;800600;2F;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;2;1174.055;27.05;7.62;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839261;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;2;1200.116;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839262;800101;1+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;2;1213.200;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839265;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;2;1243.173;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 09:57:01.583708
+76839266;100200;Game stop;;;;;;;;;;;2;1243.173;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839268;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;2;1264.821;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839269;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;2;1278.194;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839272;100200;Game stop;;;;;;;;;;;2;1296.995;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839275;100200;Game stop;;;;;;;;;;;2;1311.490;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839277;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1323.744;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839278;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;2;1340.844;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839279;800201;2+;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1340.844;26.57;6.90;;;;;;;;Cut;;Lay up;;;;2017-12-07 09:57:01.583708
+76839280;100200;Game stop;;;;;;;;;;;2;1348.540;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839282;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;2;1348.540;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839283;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;1391.187;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839284;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;2;1391.187;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839285;800302;3-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;1391.187;21.41;13.89;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839289;1800500;Halftime;;;;;;;;;;;2;1395.855;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839290;1800300;3rd quarter;;;;;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839296;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839297;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839298;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839299;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839300;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839303;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;26.307;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839304;800600;2F;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;3;31.033;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76839305;100200;Game stop;;;;;;;;;;;3;31.033;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839307;800101;1+;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;3;57.667;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839308;800102;1-;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;3;73.109;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839313;100200;Game stop;;;;;;;;;;;3;93.922;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839314;300100;Foul;5319;Kevin Garnett;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;3;93.922;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839317;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;123.523;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839318;100200;Game stop;;;;;;;;;;;3;129.523;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839320;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;153.951;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839321;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;164.951;26.42;2.31;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76839324;100300;Rebound;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;176.045;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839325;200600;Post;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;189.400;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839326;800202;2-;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;;;3;189.400;27.05;12.57;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76839328;100200;Game stop;;;;;;;;;;;3;194.758;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839330;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;196.986;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839331;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;3;214.986;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839332;200300;Pick'n'Roll;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;214.986;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 09:57:01.583708
+76839333;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;214.986;21.71;7.65;;;;;;;;Pick'n'pop;;Jumper;Drives Left;;;2017-12-07 09:57:01.583708
+76839336;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;236.163;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839337;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;250.218;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839338;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;250.218;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 09:57:01.583708
+76839339;100200;Game stop;;;;;;;;;;;3;250.218;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839341;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;277.013;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839342;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;295.281;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839343;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;295.281;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839346;100200;Game stop;;;;;;;;;;;3;312.603;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839347;300100;Foul;5314;Tayshaun Prince;3174;Minnesota Timberwolves;5305;Kobe Bryant;3171;Los Angeles Lakers;;;3;312.603;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839351;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;343.840;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839352;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;359.840;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839353;200300;Pick'n'Roll;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;359.840;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839354;800201;2+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;359.840;27.02;7.62;;;;;;;;Pick-n-roll without a ball;;Dunk;;;;2017-12-07 09:57:01.583708
+76839355;100200;Game stop;;;;;;;;;;;3;378.711;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839356;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;3;378.711;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839360;100200;Game stop;;;;;;;;;;;3;401.640;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839361;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;401.640;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839365;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;447.087;22.58;10.11;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839368;100200;Game stop;;;;;;;;;;;3;455.635;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839369;300100;Foul;5309;Ricky Rubio;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;455.635;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839371;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;3;506.664;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839373;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;511.706;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839374;800302;3-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;530.706;19.34;6.42;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839378;100200;Game stop;;;;;;;;;;;3;543.150;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839382;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;543.150;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839385;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;610.001;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839386;100200;Game stop;;;;;;;;;;;3;630.001;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839388;800400;2+1;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;630.001;25.64;11.37;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839389;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;3;668.160;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839391;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;684.439;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839393;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;3;694.812;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839394;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;694.812;25.52;11.43;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 09:57:01.583708
+76839395;100200;Game stop;;;;;;;;;;;3;702.956;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839397;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;719.856;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839399;800202;2-;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;3;733.856;21.56;5.73;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839401;100200;Game stop;;;;;;;;;;;3;750.391;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839402;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;3;750.391;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839403;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;776.044;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839404;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;787.044;26.27;13.59;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76839406;100200;Game stop;;;;;;;;;;;3;804.816;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839407;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;3;804.816;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839410;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;834.808;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839411;100200;Game stop;;;;;;;;;;;3;854.808;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839412;100500;Turnover;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;854.808;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839414;100200;Game stop;;;;;;;;;;;3;889.867;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839415;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;889.867;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839417;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;918.859;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839418;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;918.859;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839419;100200;Game stop;;;;;;;;;;;3;918.859;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839421;800400;2+1;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;918.859;24.20;8.52;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 09:57:01.583708
+76839423;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;3;952.471;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839425;100200;Game stop;;;;;;;;;;;3;971.107;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839429;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;971.107;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839433;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1024.986;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839434;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;1035.197;26.72;8.19;;;;;;;;Isolation;;Lay up;Drives Left;;;2017-12-07 09:57:01.583708
+76839436;100200;Game stop;;;;;;;;;;;3;1046.177;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839437;300100;Foul;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;1046.177;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839441;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1124.004;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839442;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;1134.004;18.86;8.10;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839443;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1134.004;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839444;800600;2F;90354;Kevin Martina;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;3;1141.712;27.05;7.62;;;;;;;;Isolation;;;Drives Right;;;2017-12-07 09:57:01.583708
+76839445;100200;Game stop;;;;;;;;;;;3;1141.712;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839447;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;3;1165.497;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839448;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;1179.511;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839449;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;3;1179.511;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839452;400101;Accurate pass;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;3;1209.728;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839453;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;1209.728;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839454;800201;2+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;1209.728;23.45;11.49;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76839456;100200;Game stop;;;;;;;;;;;3;1218.628;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839457;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;3;1218.628;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839459;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;1264.607;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839461;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1268.679;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839462;800600;2F;90354;Kevin Martina;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;3;1280.679;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 09:57:01.583708
+76839463;100200;Game stop;;;;;;;;;;;3;1280.679;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839465;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;3;1312.781;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839468;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;3;1392.686;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839470;100400;Steal;5307;Zach LaVine;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;3;1412.091;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839471;800600;2F;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5329;Nick Young;3171;Los Angeles Lakers;;;3;1416.867;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76839472;100200;Game stop;;;;;;;;;;;3;1416.867;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839474;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5329;Nick Young;3171;Los Angeles Lakers;;;3;1439.057;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839475;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5329;Nick Young;3171;Los Angeles Lakers;;;3;1453.113;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839478;100300;Rebound;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;3;1473.971;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839479;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5317;Shabazz Muhammad;3;1487.708;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839480;800201;2+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;3;1487.708;26.72;8.52;;;;;;;;Catch and Drive;;Lay up;;;;2017-12-07 09:57:01.583708
+76839481;100200;Game stop;;;;;;;;;;;3;1494.979;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839486;100200;Game stop;;;;;;;;;;;3;1526.771;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839488;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;3;1540.534;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839489;800600;2F;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5329;Nick Young;3171;Los Angeles Lakers;;;3;1549.534;27.05;7.62;;;;;;;;Screen off;;;;;;2017-12-07 09:57:01.583708
+76839490;100200;Game stop;;;;;;;;;;;3;1549.534;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839492;800102;1-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5329;Nick Young;3171;Los Angeles Lakers;;;3;1572.953;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839493;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;1572.953;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839494;800101;1+;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;5329;Nick Young;3171;Los Angeles Lakers;;;3;1588.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839498;100200;Game stop;;;;;;;;;;;3;1610.591;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839499;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;3;1610.591;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839500;800202;2-;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;3;1610.591;27.68;11.61;;;;;;;;Transition;;Jumper;;;;2017-12-07 09:57:01.583708
+76839501;800600;2F;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;7502;Brandon Bass;3171;Los Angeles Lakers;;;3;1610.591;27.05;7.62;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839503;800101;1+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;7502;Brandon Bass;3171;Los Angeles Lakers;;;3;1638.447;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839504;800101;1+;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;7502;Brandon Bass;3171;Los Angeles Lakers;;;3;1653.680;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839508;400101;Accurate pass;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;3;1690.918;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839509;100200;Game stop;;;;;;;;;;;3;1690.918;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839511;800400;2+1;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;1690.918;21.56;7.50;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839512;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;3;1715.949;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839514;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;1734.238;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839516;800201;2+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;1739.925;25.91;7.44;;;;;;;;Transition;;Floater;;;;2017-12-07 09:57:01.583708
+76839518;800302;3-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;1769.763;21.20;13.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839520;100400;Steal;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;3;1790.194;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839521;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;1805.602;26.57;8.91;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839524;1800500;Halftime;;;;;;;;;;;3;1814.597;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839525;1800400;4th quarter;;;;;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839531;1600500;Guard;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839532;1600500;Guard;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839533;1600500;Guard;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839534;1600500;Guard;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839535;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839536;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;4.966;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839537;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;32.966;19.94;6.12;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 09:57:01.583708
+76839540;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;52.164;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839541;800700;3F;90354;Kevin Martina;3174;Minnesota Timberwolves;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;4;57.578;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76839542;100200;Game stop;;;;;;;;;;;4;57.578;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839544;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;4;87.334;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839545;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;4;101.224;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839546;800101;1+;90354;Kevin Martina;3174;Minnesota Timberwolves;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;4;114.850;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839548;100300;Rebound;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;135.551;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839550;100200;Game stop;;;;;;;;;;;4;142.382;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839552;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;156.584;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839553;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;163.584;26.06;7.80;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 09:57:01.583708
+76839556;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;180.916;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839557;800302;3-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;196.453;20.51;3.48;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839559;100200;Game stop;;;;;;;;;;;4;200.977;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839561;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;216.242;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839562;800302;3-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;232.242;19.43;8.37;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839564;100300;Rebound;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;4;244.971;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839566;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;4;257.526;23.42;10.53;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 09:57:01.583708
+76839570;100200;Game stop;;;;;;;;;;;4;275.492;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839571;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;275.492;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839572;1600500;Guard;5309;Ricky Rubio;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;308.622;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839573;1600500;Guard;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;4;308.622;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839574;1600500;Guard;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;4;308.622;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839575;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;308.622;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839576;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;308.622;25.97;7.65;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839579;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;319.069;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839580;100200;Game stop;;;;;;;;;;;4;337.294;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839581;100500;Turnover;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;337.294;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839584;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;369.231;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839585;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;4;374.661;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839586;800201;2+;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;374.661;26.36;7.59;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76839588;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;394.550;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839589;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;401.591;22.13;10.83;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839590;100200;Game stop;;;;;;;;;;;4;414.772;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839595;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;451.588;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839596;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;4;451.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839597;200600;Post;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;451.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839598;800201;2+;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;451.588;27.53;11.58;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76839599;100300;Rebound;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;470.318;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839601;400101;Accurate pass;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;504.239;;;;;;;;;;Hand offs;;;;;;2017-12-07 09:57:01.583708
+76839602;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;4;504.239;26.84;8.97;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 09:57:01.583708
+76839604;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;531.587;22.82;10.83;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839605;100200;Game stop;;;;;;;;;;;4;551.046;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839607;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;4;551.046;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839608;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;551.046;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839616;100300;Rebound;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;593.502;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839618;200600;Post;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;602.569;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839619;800600;2F;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;4;602.569;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 09:57:01.583708
+76839620;100200;Game stop;;;;;;;;;;;4;602.569;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839622;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;4;626.431;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839623;800102;1-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;4;643.417;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839627;800202;2-;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;671.717;26.99;7.20;;;;;;;;Cut;;Lay up;;;;2017-12-07 09:57:01.583708
+76839629;100200;Game stop;;;;;;;;;;;4;689.257;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839630;100300;Rebound;;;3174;Minnesota Timberwolves;;;;;;;4;689.257;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839632;1600500;Guard;90354;Kevin Martina;3174;Minnesota Timberwolves;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;720.897;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839633;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;720.897;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839634;800202;2-;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;720.897;20.96;5.64;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76839635;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;720.897;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839636;100200;Game stop;;;;;;;;;;;4;720.897;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839637;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;720.897;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839638;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;740.544;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839639;400101;Accurate pass;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;90354;Kevin Martina;4;749.544;;;;;;;;;;Hand offs;;;;;;2017-12-07 09:57:01.583708
+76839640;800201;2+;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;4;749.544;22.97;4.26;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 09:57:01.583708
+76839641;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;776.417;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839643;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;793.814;23.12;11.61;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76839645;100200;Game stop;;;;;;;;;;;4;793.814;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839646;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5311;Roy Hibbert;3171;Los Angeles Lakers;;;4;793.814;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839648;100200;Game stop;;;;;;;;;;;4;831.359;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839649;300100;Foul;90354;Kevin Martina;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;4;831.359;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839655;100200;Game stop;;;;;;;;;;;4;865.019;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839656;300100;Foul;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5315;Julius Randle;3171;Los Angeles Lakers;;;4;865.019;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839659;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;904.527;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839660;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;904.527;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839661;800201;2+;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;915.898;22.28;10.53;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839663;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;930.418;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839664;100200;Game stop;;;;;;;;;;;4;943.834;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839668;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;968.943;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839669;800101;1+;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;982.688;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839671;100200;Game stop;;;;;;;;;;;4;997.477;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839673;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1000.877;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839674;400101;Accurate pass;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;4;1020.877;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839675;800301;3+;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1020.877;20.33;3.78;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839677;100200;Game stop;;;;;;;;;;;4;1034.247;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839678;300100;Foul;5321;Andrew Wiggins;3174;Minnesota Timberwolves;5305;Kobe Bryant;3171;Los Angeles Lakers;;;4;1034.247;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839682;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1102.720;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839687;100300;Rebound;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;4;1117.269;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839688;800600;2F;5309;Ricky Rubio;3174;Minnesota Timberwolves;8339;Ryan Kelly;3171;Los Angeles Lakers;;;4;1125.541;27.05;7.62;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839689;100200;Game stop;;;;;;;;;;;4;1125.541;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839691;800101;1+;5309;Ricky Rubio;3174;Minnesota Timberwolves;8339;Ryan Kelly;3171;Los Angeles Lakers;;;4;1150.840;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839692;800102;1-;5309;Ricky Rubio;3174;Minnesota Timberwolves;8339;Ryan Kelly;3171;Los Angeles Lakers;;;4;1166.094;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839696;100200;Game stop;;;;;;;;;;;4;1203.443;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839698;800202;2-;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;5323;Louis Williams;3171;Los Angeles Lakers;;;4;1203.443;23.90;7.59;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 09:57:01.583708
+76839701;100200;Game stop;;;;;;;;;;;4;1229.784;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839702;300100;Foul;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;4;1229.784;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839706;100300;Rebound;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;4;1293.647;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839707;100200;Game stop;;;;;;;;;;;4;1293.647;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839708;1800600;Timeout;;;3174;Minnesota Timberwolves;;;;;;;4;1293.647;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839709;100100;Ball in play;;;3174;Minnesota Timberwolves;;;;;;;4;1317.892;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839710;800202;2-;5309;Ricky Rubio;3174;Minnesota Timberwolves;8339;Ryan Kelly;3171;Los Angeles Lakers;;;4;1334.892;26.42;7.80;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 09:57:01.583708
+76839714;800202;2-;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;1372.142;22.25;11.61;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839716;100200;Game stop;;;;;;;;;;;4;1379.200;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839718;1600500;Guard;5319;Kevin Garnett;3174;Minnesota Timberwolves;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;1409.874;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839719;1600500;Guard;5314;Tayshaun Prince;3174;Minnesota Timberwolves;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;1409.874;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839723;1800700;Match end;;;;;;;;;;;4;1409.874;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+103739125;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5321;Andrew Wiggins;1;78.209;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739129;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;149.354;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739131;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;224.787;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739135;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;1;288.129;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739139;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5319;Kevin Garnett;1;384.298;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739143;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;1;607.960;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739147;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;1;668.143;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739161;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;1;1083.098;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739169;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;1;1192.350;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739173;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;2;81.892;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739175;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;2;108.914;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739181;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;2;293.214;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739187;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;502.334;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739191;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;539.243;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739195;200900;Assisting;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;;;;;2;613.378;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739201;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;741.862;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739203;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;800.446;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739205;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;2;831.622;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739209;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1009.489;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739211;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1076.758;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739215;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1105.309;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739219;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;;;2;1174.055;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739223;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;2;1243.173;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739225;200900;Assisting;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;2;1340.844;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739227;200900;Assisting;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;;;;;3;31.033;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739231;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;214.986;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739233;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;3;250.218;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739237;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;359.840;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739245;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;630.001;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739247;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;3;694.812;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739253;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;918.859;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739257;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;3;1035.197;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739261;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;1141.712;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739265;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;5303;Gorgui Su Dieng;3;1209.728;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739269;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;3;1280.679;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739271;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;3;1416.867;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739273;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;3;1487.708;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739275;200900;Assisting;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;;;;;3;1549.534;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739279;200900;Assisting;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;;;;;3;1610.591;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739283;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5307;Zach LaVine;3;1690.918;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739285;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;;;3;1739.925;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739289;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;;;3;1805.602;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739291;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;;;4;57.578;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739295;200900;Assisting;5307;Zach LaVine;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;374.661;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739297;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;401.591;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739299;200900;Assisting;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;451.588;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739301;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;5331;Nemanja Bjelica;4;504.239;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739305;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;531.587;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739307;200900;Assisting;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;;;;;4;602.569;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739311;200900;Assisting;90354;Kevin Martina;3174;Minnesota Timberwolves;;;;;5327;Karl-Anthony Towns;4;749.544;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739315;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;915.898;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739317;200900;Assisting;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;;;5309;Ricky Rubio;4;1020.877;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739321;200900;Assisting;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;;;;;4;1125.541;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+76838895;1601000;Starting lineup;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838896;1601000;Starting lineup;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838897;1601000;Starting lineup;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838898;1601000;Starting lineup;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838899;1601000;Starting lineup;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838900;1601000;Starting lineup;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838901;1601000;Starting lineup;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838902;1601000;Starting lineup;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838903;1601000;Starting lineup;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838904;1601000;Starting lineup;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838918;1600500;Guard;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838919;1600500;Guard;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838920;1600500;Guard;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838921;1600500;Guard;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838922;1600500;Guard;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;1;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838931;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;101.043;19.34;7.95;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76838934;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;1;109.702;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838936;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;117.926;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76838937;400101;Accurate pass;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;1;133.926;;;;;;;;;;Hand offs;;;;;;2017-12-07 09:57:01.583708
+76838938;800201;2+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5315;Julius Randle;1;133.926;26.42;7.02;;;;;;;;Hand offs;;Lay up;;;;2017-12-07 09:57:01.583708
+76838941;200600;Post;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;167.989;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838942;800202;2-;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;167.989;27.53;3.48;;;;;;;;Post;;Hook;;;;2017-12-07 09:57:01.583708
+76838944;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;183.796;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838947;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;193.324;22.43;4.86;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76838949;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;1;193.324;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838950;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;208.149;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76838951;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;220.149;26.57;7.68;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 09:57:01.583708
+76838955;300100;Foul;5318;D'Angelo Russell;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;224.787;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838958;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;258.941;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76838959;800201;2+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;275.941;24.35;7.95;;;;;;;;Pick'n'Roll;;Floater;;;;2017-12-07 09:57:01.583708
+76838963;400101;Accurate pass;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;1;306.449;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838964;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;1;306.449;25.49;3.18;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76838967;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;337.207;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76838968;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;350.207;23.33;3.51;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76838972;100300;Rebound;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;365.141;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838973;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;377.888;22.13;4.56;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 09:57:01.583708
+76838974;100300;Rebound;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;1;377.888;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838975;800202;2-;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;1;377.888;26.42;7.98;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 09:57:01.583708
+76838979;800202;2-;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;401.461;25.91;6.78;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 09:57:01.583708
+76838983;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;415.878;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838984;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;426.611;23.33;4.71;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 09:57:01.583708
+76838992;100300;Rebound;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;465.188;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838993;200600;Post;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;477.875;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838994;800600;2F;5315;Julius Randle;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;477.875;27.05;7.62;;;;;;;;Post;;;;;;2017-12-07 09:57:01.583708
+76838997;800101;1+;5315;Julius Randle;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;498.574;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76838998;800101;1+;5315;Julius Randle;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;509.381;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839001;100300;Rebound;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;527.106;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839002;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;540.400;27.68;0.93;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76839003;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;540.400;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839005;100500;Turnover;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;546.104;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839009;300100;Foul;5318;D'Angelo Russell;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;1;574.970;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839010;1600500;Guard;5323;Louis Williams;3171;Los Angeles Lakers;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;1;607.960;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839013;400101;Accurate pass;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;1;618.816;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839014;200600;Post;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;1;618.816;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839015;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;1;618.816;26.99;9.57;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76839019;1600500;Guard;5329;Nick Young;3171;Los Angeles Lakers;5305;Kobe Bryant;3171;Los Angeles Lakers;;;1;668.143;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839028;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;714.007;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839029;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;714.007;26.57;7.26;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 09:57:01.583708
+76839030;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;714.007;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839031;800201;2+;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;714.007;27.20;7.17;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 09:57:01.583708
+76839033;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;727.314;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839034;800600;2F;5323;Louis Williams;3171;Los Angeles Lakers;90354;Kevin Martina;3174;Minnesota Timberwolves;;;1;734.509;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76839037;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;90354;Kevin Martina;3174;Minnesota Timberwolves;;;1;757.815;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839039;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;90354;Kevin Martina;3174;Minnesota Timberwolves;;;1;775.449;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839041;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;792.991;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839043;800302;3-;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;1;802.353;25.97;15.51;;;;;;;;Transition;;Jumper;;;;2017-12-07 09:57:01.583708
+76839047;100300;Rebound;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;1;818.622;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839048;400101;Accurate pass;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5315;Julius Randle;1;830.960;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839049;800201;2+;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;1;830.960;27.02;7.62;;;;;;;;Cut;;Dunk;;;;2017-12-07 09:57:01.583708
+76839051;100300;Rebound;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;1;848.456;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839052;800201;2+;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;1;854.479;23.42;7.74;;;;;;;;Transition;;Jumper;;;;2017-12-07 09:57:01.583708
+76839055;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;878.133;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839057;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;1;893.875;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839058;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;1;893.875;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839059;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;1;893.875;26.27;7.59;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 09:57:01.583708
+76839060;1600500;Guard;8339;Ryan Kelly;3171;Los Angeles Lakers;5315;Julius Randle;3171;Los Angeles Lakers;;;1;921.785;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839061;1600500;Guard;7502;Brandon Bass;3171;Los Angeles Lakers;5311;Roy Hibbert;3171;Los Angeles Lakers;;;1;921.785;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839062;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;921.785;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839064;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;1;921.785;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839066;800202;2-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;921.785;27.53;1.56;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839067;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;944.605;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839068;400101;Accurate pass;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5323;Louis Williams;1;952.605;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839069;800301;3+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;1;952.605;27.20;15.36;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839071;100300;Rebound;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;976.559;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839072;800600;2F;5308;Jordan Clarkson;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;984.953;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 09:57:01.583708
+76839075;800102;1-;5308;Jordan Clarkson;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;1017.315;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839076;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;1;1017.315;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839078;800101;1+;5308;Jordan Clarkson;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;1;1041.730;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839082;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;1099.288;26.42;7.74;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 09:57:01.583708
+76839084;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;1;1127.766;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839085;800201;2+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;1133.431;26.27;8.04;;;;;;;;Transition;;Lay up;;;;2017-12-07 09:57:01.583708
+76839088;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;1;1160.434;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839089;400101;Accurate pass;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5323;Louis Williams;1;1169.134;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839090;200300;Pick'n'Roll;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5323;Louis Williams;1;1169.134;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839091;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;1;1169.134;22.97;10.05;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839095;400101;Accurate pass;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;5329;Nick Young;1;1201.356;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839096;800301;3+;5329;Nick Young;3171;Los Angeles Lakers;;;;;8339;Ryan Kelly;1;1201.356;16.10;2.10;;;;;;;;;;Jumper;;;;2017-12-07 09:57:01.583708
+76839099;1600500;Guard;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839100;1600500;Guard;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839101;1600500;Guard;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839102;1600500;Guard;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839103;1600500;Guard;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;2;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839109;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;5.844;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839111;800202;2-;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;2;29.844;27.08;4.86;;;;;;;;Cut;;Jumper;;;;2017-12-07 09:57:01.583708
+76839113;300100;Foul;5323;Louis Williams;3171;Los Angeles Lakers;5330;Adreian Payne;3174;Minnesota Timberwolves;;;2;49.439;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839117;800302;3-;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;2;102.789;19.28;7.59;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839121;300100;Foul;5329;Nick Young;3171;Los Angeles Lakers;90354;Kevin Martina;3174;Minnesota Timberwolves;;;2;108.914;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839124;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;144.099;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839125;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;155.099;26.57;7.05;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 09:57:01.583708
+76839127;100300;Rebound;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;2;171.383;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839129;300100;Foul;8339;Ryan Kelly;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;2;177.812;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839134;100300;Rebound;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;2;211.716;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839135;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;256.116;19.64;6.78;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839136;100300;Rebound;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;2;256.116;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839137;400101;Accurate pass;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;5329;Nick Young;2;274.117;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839138;800301;3+;5329;Nick Young;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;2;274.117;20.63;4.20;;;;;;;;Catch and Drive;;Jumper;Drives Left;;;2017-12-07 09:57:01.583708
+76839140;400101;Accurate pass;5323;Louis Williams;3171;Los Angeles Lakers;;;;;8339;Ryan Kelly;2;308.251;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839144;200300;Pick'n'Roll;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;5323;Louis Williams;2;308.251;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 09:57:01.583708
+76839145;800400;2+1;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;5323;Louis Williams;2;308.251;26.57;6.51;;;;;;;;Pick'n'pop;;Jumper;Drives Right;;;2017-12-07 09:57:01.583708
+76839148;800101;1+;8339;Ryan Kelly;3171;Los Angeles Lakers;9116;Damjan Rudez;3174;Minnesota Timberwolves;;;2;333.263;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839151;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;2;352.557;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839153;300100;Foul;370739;Marcelinho Huertas;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;361.393;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839158;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;403.093;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839159;800600;2F;5323;Louis Williams;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;410.093;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 09:57:01.583708
+76839162;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;427.473;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839163;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;2;438.363;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839166;300300;Technical foul;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;2;456.522;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839169;1600500;Guard;5305;Kobe Bryant;3171;Los Angeles Lakers;5329;Nick Young;3171;Los Angeles Lakers;;;2;502.334;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839170;1600500;Guard;5318;D'Angelo Russell;3171;Los Angeles Lakers;5323;Louis Williams;3171;Los Angeles Lakers;;;2;502.334;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839174;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;523.921;21.20;7.44;;;;;;;;Isolation;;Jumper;Drives Left;;;2017-12-07 09:57:01.583708
+76839177;400101;Accurate pass;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;7502;Brandon Bass;2;551.405;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839178;200300;Pick'n'Roll;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;2;551.405;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839179;800201;2+;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;2;551.405;26.57;7.32;;;;;;;;Pick-n-roll without a ball;;Lay up;;;;2017-12-07 09:57:01.583708
+76839180;100400;Steal;5305;Kobe Bryant;3171;Los Angeles Lakers;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;566.382;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839184;300100;Foul;8339;Ryan Kelly;3171;Los Angeles Lakers;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;582.413;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839187;1600500;Guard;5315;Julius Randle;3171;Los Angeles Lakers;8339;Ryan Kelly;3171;Los Angeles Lakers;;;2;613.378;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839192;400101;Accurate pass;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;2;637.637;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839193;800301;3+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;2;637.637;18.59;8.67;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839196;1600500;Guard;5311;Roy Hibbert;3171;Los Angeles Lakers;7502;Brandon Bass;3171;Los Angeles Lakers;;;2;681.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839199;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;681.588;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839202;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;711.873;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839203;200600;Post;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;724.873;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839204;800201;2+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;724.873;23.45;8.52;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76839207;800302;3-;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;2;771.049;19.19;3.78;;;;;;;;Pick'n'Roll;;Hook;;;;2017-12-07 09:57:01.583708
+76839213;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;825.487;19.58;5.79;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76839217;300100;Foul;5305;Kobe Bryant;3171;Los Angeles Lakers;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;831.622;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839221;1600500;Guard;5308;Jordan Clarkson;3171;Los Angeles Lakers;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;2;883.563;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839223;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;886.933;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839226;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;2;906.933;26.36;8.04;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 09:57:01.583708
+76839227;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;2;906.933;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839228;800600;2F;5311;Roy Hibbert;3171;Los Angeles Lakers;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;2;906.933;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 09:57:01.583708
+76839230;800101;1+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;951.089;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839231;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;2;977.770;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839232;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;2;993.984;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839238;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;2;1030.739;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839239;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;1052.426;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839241;800302;3-;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;2;1062.426;19.94;8.28;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 09:57:01.583708
+76839245;400101;Accurate pass;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;2;1090.597;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839246;200300;Pick'n'Roll;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;2;1090.597;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839247;800201;2+;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;5315;Julius Randle;2;1090.597;21.83;11.67;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839250;800600;2F;5308;Jordan Clarkson;3171;Los Angeles Lakers;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;1113.731;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 09:57:01.583708
+76839253;800101;1+;5308;Jordan Clarkson;3171;Los Angeles Lakers;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;1137.906;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839254;800101;1+;5308;Jordan Clarkson;3171;Los Angeles Lakers;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;2;1155.636;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839260;300100;Foul;5311;Roy Hibbert;3171;Los Angeles Lakers;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;2;1174.055;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839263;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;1215.870;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839264;800301;3+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;1227.870;19.49;10.92;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839267;300100;Foul;5308;Jordan Clarkson;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;1243.173;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839270;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;1283.595;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839271;800202;2-;5308;Jordan Clarkson;3171;Los Angeles Lakers;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;2;1296.995;26.66;7.50;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 09:57:01.583708
+76839273;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;2;1296.995;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839274;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;2;1311.190;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839276;300100;Foul;5311;Roy Hibbert;3171;Los Angeles Lakers;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;2;1311.490;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839281;300100;Foul;5308;Jordan Clarkson;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;2;1348.540;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839286;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;2;1391.187;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839287;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;1395.855;10.64;2.79;;;;;;;;;;Jumper;;;;2017-12-07 09:57:01.583708
+76839288;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;2;1395.855;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839291;1600500;Guard;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839292;1600500;Guard;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839293;1600500;Guard;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839294;1600500;Guard;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839295;1600500;Guard;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;3;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839301;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;6.307;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839302;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;26.307;27.62;15.00;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839306;300100;Foul;5308;Jordan Clarkson;3171;Los Angeles Lakers;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;3;31.033;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839309;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;73.109;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839310;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;75.922;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839311;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;93.922;25.97;8.22;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839312;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;93.922;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839315;800400;2+1;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;93.922;26.57;8.13;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 09:57:01.583708
+76839316;800101;1+;5315;Julius Randle;3171;Los Angeles Lakers;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;119.838;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839319;300100;Foul;5315;Julius Randle;3171;Los Angeles Lakers;5319;Kevin Garnett;3174;Minnesota Timberwolves;;;3;129.523;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839322;100300;Rebound;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;164.951;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839323;800302;3-;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;176.045;23.72;15.00;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839327;100300;Rebound;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;3;189.400;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839329;100500;Turnover;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;3;194.758;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839334;200600;Post;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;236.163;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839335;800202;2-;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;236.163;27.05;6.78;;;;;;;;Post;;Hook;;;;2017-12-07 09:57:01.583708
+76839340;300100;Foul;5311;Roy Hibbert;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;250.218;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839344;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;299.603;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839345;400101;Accurate pass;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;312.603;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839348;400101;Accurate pass;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;312.603;;;;;;;;;;Hand offs;;;;;;2017-12-07 09:57:01.583708
+76839349;800400;2+1;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;3;312.603;21.50;6.03;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 09:57:01.583708
+76839350;800101;1+;5305;Kobe Bryant;3171;Los Angeles Lakers;5314;Tayshaun Prince;3174;Minnesota Timberwolves;;;3;339.199;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839357;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;396.640;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839358;800202;2-;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;3;401.640;26.42;8.10;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 09:57:01.583708
+76839359;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;401.640;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839362;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;420.107;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839363;400101;Accurate pass;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;3;426.107;;;;;;;;;;Hand offs;;;;;;2017-12-07 09:57:01.583708
+76839364;800301;3+;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;3;426.107;20.09;4.47;;;;;;;;Hand offs;;Jumper;;;;2017-12-07 09:57:01.583708
+76839366;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;447.087;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839367;800600;2F;5311;Roy Hibbert;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;455.635;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76839370;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;484.718;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839372;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;506.664;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839375;100300;Rebound;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;530.706;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839376;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;538.442;20.51;3.39;;;;;;;;Transition;;Jumper;;;;2017-12-07 09:57:01.583708
+76839377;100300;Rebound;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;3;538.442;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839379;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;3;543.150;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839380;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;543.150;26.57;0.24;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839381;800600;2F;5311;Roy Hibbert;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;543.150;27.05;7.62;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839383;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;586.391;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839384;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;605.101;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839387;300100;Foul;5318;D'Angelo Russell;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;3;630.001;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839390;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;670.439;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839392;800302;3-;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;684.439;27.98;0.93;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839396;100500;Turnover;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;702.956;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839398;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;733.856;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839400;800201;2+;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;740.575;26.66;7.20;;;;;;;;Transition;;Lay up;;;;2017-12-07 09:57:01.583708
+76839405;100300;Rebound;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;3;787.044;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839408;800400;2+1;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;804.816;25.91;7.98;;;;;;;;Isolation;;Hook;Drives Right;;;2017-12-07 09:57:01.583708
+76839409;800101;1+;5315;Julius Randle;3171;Los Angeles Lakers;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;3;831.197;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839413;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;873.867;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839416;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;3;889.867;20.63;3.93;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839420;300100;Foul;5308;Jordan Clarkson;3171;Los Angeles Lakers;90354;Kevin Martina;3174;Minnesota Timberwolves;;;3;918.859;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839422;1600500;Guard;5323;Louis Williams;3171;Los Angeles Lakers;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;3;952.471;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839424;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;956.107;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839426;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;3;971.107;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839427;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;3;971.107;26.27;7.83;;;;;;;;Catch and Drive;;Lay up;Drives Right;;;2017-12-07 09:57:01.583708
+76839428;800600;2F;5311;Roy Hibbert;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;3;971.107;27.05;7.62;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839430;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;3;1003.210;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839431;1600500;Guard;5329;Nick Young;3171;Los Angeles Lakers;5305;Kobe Bryant;3171;Los Angeles Lakers;;;3;1024.986;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839432;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;3;1024.986;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839435;800600;2F;5311;Roy Hibbert;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1046.177;27.05;7.62;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839438;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;1074.172;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839439;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1098.096;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839440;800101;1+;5311;Roy Hibbert;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1117.818;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839446;300100;Foul;5315;Julius Randle;3171;Los Angeles Lakers;90354;Kevin Martina;3174;Minnesota Timberwolves;;;3;1141.712;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839450;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;1180.764;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839451;800201;2+;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;3;1189.764;22.52;10.14;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839455;800600;2F;5323;Louis Williams;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;1218.628;27.05;7.62;;;;;;;;Transition;;;;;;2017-12-07 09:57:01.583708
+76839458;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;1247.116;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839460;800101;1+;5323;Louis Williams;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;3;1264.607;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839464;300100;Foul;5315;Julius Randle;3171;Los Angeles Lakers;90354;Kevin Martina;3174;Minnesota Timberwolves;;;3;1280.679;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839466;1600500;Guard;7502;Brandon Bass;3171;Los Angeles Lakers;5315;Julius Randle;3171;Los Angeles Lakers;;;3;1392.686;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839467;1600500;Guard;8339;Ryan Kelly;3171;Los Angeles Lakers;5311;Roy Hibbert;3171;Los Angeles Lakers;;;3;1392.686;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839469;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;1395.091;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839473;300100;Foul;5329;Nick Young;3171;Los Angeles Lakers;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;3;1416.867;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839476;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;1457.971;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839477;800202;2-;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;3;1473.971;23.57;6.33;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 09:57:01.583708
+76839482;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;3;1494.979;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839483;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;1511.648;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839484;800202;2-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;1521.648;26.51;6.96;;;;;;;;;;Lay up;;;;2017-12-07 09:57:01.583708
+76839485;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;3;1521.648;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839487;100500;Turnover;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;3;1526.771;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839491;300100;Foul;5329;Nick Young;3171;Los Angeles Lakers;5317;Shabazz Muhammad;3174;Minnesota Timberwolves;;;3;1549.534;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839495;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;1588.000;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839496;400101;Accurate pass;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;5329;Nick Young;3;1600.556;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839497;800301;3+;5329;Nick Young;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;3;1600.556;21.83;14.13;;;;;;;;Screen off;;Jumper;;;;2017-12-07 09:57:01.583708
+76839502;300100;Foul;7502;Brandon Bass;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;;;3;1610.591;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839505;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;1654.991;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839506;400101;Accurate pass;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;5329;Nick Young;3;1679.991;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839507;800301;3+;5329;Nick Young;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;3;1679.991;20.96;2.97;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839510;300100;Foul;5323;Louis Williams;3171;Los Angeles Lakers;90354;Kevin Martina;3174;Minnesota Timberwolves;;;3;1690.918;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839513;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;3;1717.238;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839515;800302;3-;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;3;1734.238;20.36;3.48;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76839517;800201;2+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;1757.929;25.82;9.27;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839519;100300;Rebound;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;3;1769.763;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839522;800302;3-;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;3;1814.597;10.70;4.26;;;;;;;;;;Jumper;;;;2017-12-07 09:57:01.583708
+76839523;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;3;1814.597;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839526;1600500;Guard;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839527;1600500;Guard;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839528;1600500;Guard;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839529;1600500;Guard;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839530;1600500;Guard;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;4;0.000;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839538;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;32.966;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839539;800202;2-;7502;Brandon Bass;3171;Los Angeles Lakers;5303;Gorgui Su Dieng;3174;Minnesota Timberwolves;5323;Louis Williams;4;52.164;26.99;7.56;;;;;;;;Cut;;Lay up;;;;2017-12-07 09:57:01.583708
+76839543;300100;Foul;370739;Marcelinho Huertas;3171;Los Angeles Lakers;90354;Kevin Martina;3174;Minnesota Timberwolves;;;4;57.578;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839547;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;116.551;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839549;800302;3-;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;4;135.551;19.34;7.62;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839551;300100;Foul;8339;Ryan Kelly;3171;Los Angeles Lakers;5307;Zach LaVine;3174;Minnesota Timberwolves;;;4;142.382;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839554;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;163.584;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839555;800202;2-;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;4;180.916;24.14;6.66;;;;;;;;Cut;;Jumper;;;;2017-12-07 09:57:01.583708
+76839558;100300;Rebound;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;196.453;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839560;100500;Turnover;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;200.977;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839563;100300;Rebound;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;4;232.242;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839565;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;244.971;19.04;7.98;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839567;100300;Rebound;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;4;257.526;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839568;400101;Accurate pass;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;4;266.496;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839569;800201;2+;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;8339;Ryan Kelly;4;266.496;25.97;7.65;;;;;;;;Catch and Drive;;Lay up;Drives Left;;;2017-12-07 09:57:01.583708
+76839577;100300;Rebound;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;4;308.622;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839578;800302;3-;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;4;319.069;27.20;15.00;;;;;;;;Transition;;Jumper;;;;2017-12-07 09:57:01.583708
+76839582;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;350.231;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839583;800202;2-;8339;Ryan Kelly;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;369.231;25.76;6.63;;;;;;;;Isolation;;Jumper;Drives Right;;;2017-12-07 09:57:01.583708
+76839587;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;394.550;26.84;15.00;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839591;300100;Foul;7502;Brandon Bass;3171;Los Angeles Lakers;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;414.772;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839592;1600500;Guard;5305;Kobe Bryant;3171;Los Angeles Lakers;5329;Nick Young;3171;Los Angeles Lakers;;;4;451.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839593;1600500;Guard;5311;Roy Hibbert;3171;Los Angeles Lakers;7502;Brandon Bass;3171;Los Angeles Lakers;;;4;451.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839594;1600500;Guard;5308;Jordan Clarkson;3171;Los Angeles Lakers;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;4;451.588;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839600;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;470.318;20.33;4.95;;;;;;;;Isolation;;Jumper;;Quick first step;;2017-12-07 09:57:01.583708
+76839603;800201;2+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;4;518.500;22.52;8.49;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839606;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;4;551.046;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839609;200300;Pick'n'Roll;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;4;551.046;;;;;;;;;;Pick'n'pop;;;;;;2017-12-07 09:57:01.583708
+76839610;800302;3-;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;4;551.046;20.51;4.17;;;;;;;;Pick'n'pop;;Jumper;;;;2017-12-07 09:57:01.583708
+76839611;1600500;Guard;5315;Julius Randle;3171;Los Angeles Lakers;8339;Ryan Kelly;3171;Los Angeles Lakers;;;4;593.502;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839612;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;593.502;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839613;200600;Post;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;593.502;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839614;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;593.502;27.50;3.81;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76839615;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;4;593.502;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839617;800202;2-;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;4;593.502;26.66;7.98;;;;;;;;Putbacks;;Lay up;;;;2017-12-07 09:57:01.583708
+76839621;300100;Foul;5323;Louis Williams;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;602.569;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839624;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;643.417;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839625;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;643.417;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839626;800201;2+;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;4;654.587;26.36;3.03;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839628;100300;Rebound;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;671.717;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839631;800202;2-;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;4;689.257;25.10;10.80;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839642;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;776.417;26.84;6.96;;;;;;;;Isolation;;Lay up;Drives Right;;;2017-12-07 09:57:01.583708
+76839644;100300;Rebound;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;4;793.814;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839647;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;825.359;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839650;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;857.019;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839651;200600;Post;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;865.019;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839652;800202;2-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;865.019;24.59;6.36;;;;;;;;Post;;Jumper;;;;2017-12-07 09:57:01.583708
+76839653;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;865.019;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839654;800600;2F;5315;Julius Randle;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;865.019;27.05;7.62;;;;;;;;Putbacks;;;;;;2017-12-07 09:57:01.583708
+76839657;800101;1+;5315;Julius Randle;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;890.380;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839658;800102;1-;5315;Julius Randle;3171;Los Angeles Lakers;5331;Nemanja Bjelica;3174;Minnesota Timberwolves;;;4;904.527;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839662;800202;2-;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;4;930.418;26.21;8.19;;;;;;;;Catch and Drive;;Jumper;Drives Right;;;2017-12-07 09:57:01.583708
+76839665;300100;Foul;5311;Roy Hibbert;3171;Los Angeles Lakers;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;943.834;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839666;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;4;943.834;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839667;1600500;Guard;8339;Ryan Kelly;3171;Los Angeles Lakers;5311;Roy Hibbert;3171;Los Angeles Lakers;;;4;968.943;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839670;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;988.477;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839672;100500;Turnover;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;997.477;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839676;800700;3F;5305;Kobe Bryant;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1034.247;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 09:57:01.583708
+76839679;800101;1+;5305;Kobe Bryant;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1061.547;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839680;800101;1+;5305;Kobe Bryant;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1073.793;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839681;800101;1+;5305;Kobe Bryant;3171;Los Angeles Lakers;5321;Andrew Wiggins;3174;Minnesota Timberwolves;;;4;1097.313;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839683;100400;Steal;5305;Kobe Bryant;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1106.720;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839684;800302;3-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;1111.197;27.23;0.96;;;;;;;;Transition;;Jumper;;;;2017-12-07 09:57:01.583708
+76839685;100300;Rebound;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;4;1111.197;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839686;800302;3-;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;1117.269;19.49;7.62;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839690;300100;Foul;8339;Ryan Kelly;3171;Los Angeles Lakers;5309;Ricky Rubio;3174;Minnesota Timberwolves;;;4;1125.541;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839693;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1166.094;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839694;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;1166.094;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839695;800201;2+;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;1175.548;26.27;7.89;;;;;;;;Pick'n'Roll;;Lay up;;;;2017-12-07 09:57:01.583708
+76839697;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;4;1203.443;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839699;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1220.784;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839700;800600;2F;5308;Jordan Clarkson;3171;Los Angeles Lakers;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1229.784;27.05;7.62;;;;;;;;Pick'n'Roll;;;;;;2017-12-07 09:57:01.583708
+76839703;800101;1+;5308;Jordan Clarkson;3171;Los Angeles Lakers;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1266.479;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839704;800102;1-;5308;Jordan Clarkson;3171;Los Angeles Lakers;5327;Karl-Anthony Towns;3174;Minnesota Timberwolves;;;4;1293.647;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839705;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1293.647;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839711;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;1334.892;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839712;400101;Accurate pass;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5323;Louis Williams;4;1347.868;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839713;800301;3+;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;4;1347.868;26.99;15.15;;;;;;;;Catch and shoot;;Jumper;;;;2017-12-07 09:57:01.583708
+76839715;100300;Rebound;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;1372.142;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839717;1800600;Timeout;;;3171;Los Angeles Lakers;;;;;;;4;1379.200;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+76839720;100100;Ball in play;;;3171;Los Angeles Lakers;;;;;;;4;1409.874;;;;;;;;;;;;;;;;2019-10-24 13:07:03.966627
+76839721;800202;2-;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;4;1409.874;26.27;6.87;;;;;;;;Pick'n'Roll;;Jumper;;;;2017-12-07 09:57:01.583708
+76839722;100300;Rebound;;;3171;Los Angeles Lakers;;;;;;;4;1409.874;;;;;;;;;;;;;;;;2017-12-07 09:57:01.583708
+102325699;100500;Turnover;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;;;2;177.812;;;;;;;;;;;;;;;;2018-02-26 10:08:04.860672
+102325700;100500;Turnover;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;;;2;361.393;;;;;;;;;;;;;;;;2018-02-26 10:08:04.860672
+102325701;100500;Turnover;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;2;1311.490;;;;;;;;;;;;;;;;2018-02-26 10:08:04.860672
+102325702;100500;Turnover;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;2;1348.540;;;;;;;;;;;;;;;;2018-02-26 10:08:04.860672
+102325703;100500;Turnover;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;;;4;414.772;;;;;;;;;;;;;;;;2018-02-26 10:08:04.860672
+103739127;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;5315;Julius Randle;1;133.926;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739133;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;275.941;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739137;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;1;306.449;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739141;200900;Assisting;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;1;477.875;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739145;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;1;618.816;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739149;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;1;714.007;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739151;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;734.509;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739153;200900;Assisting;5315;Julius Randle;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;1;830.960;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739155;200900;Assisting;5329;Nick Young;3171;Los Angeles Lakers;;;;;;;1;854.479;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739157;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;1;952.605;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739159;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;984.953;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739163;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;1;1099.288;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739165;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;1;1133.431;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739167;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5308;Jordan Clarkson;1;1169.134;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739171;200900;Assisting;5329;Nick Young;3171;Los Angeles Lakers;;;;;8339;Ryan Kelly;1;1201.356;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739177;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;155.099;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739179;200900;Assisting;5329;Nick Young;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;2;274.117;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739183;200900;Assisting;8339;Ryan Kelly;3171;Los Angeles Lakers;;;;;5323;Louis Williams;2;308.251;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739185;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;2;410.093;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739189;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;523.921;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739193;200900;Assisting;7502;Brandon Bass;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;2;551.405;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739197;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;370739;Marcelinho Huertas;2;637.637;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739199;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;724.873;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739207;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;2;906.933;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739213;200900;Assisting;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;5315;Julius Randle;2;1090.597;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739217;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;2;1113.731;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739221;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;2;1227.870;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739229;200900;Assisting;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;93.922;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739235;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;3;312.603;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739239;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;5311;Roy Hibbert;3;426.107;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739241;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;455.635;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739243;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;543.150;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739249;200900;Assisting;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;740.575;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739251;200900;Assisting;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;3;804.816;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739255;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;971.107;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739259;200900;Assisting;5311;Roy Hibbert;3171;Los Angeles Lakers;;;;;;;3;1046.177;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739263;200900;Assisting;5318;D'Angelo Russell;3171;Los Angeles Lakers;;;;;;;3;1189.764;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739267;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;1218.628;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739277;200900;Assisting;5329;Nick Young;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;3;1600.556;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739281;200900;Assisting;5329;Nick Young;3171;Los Angeles Lakers;;;;;5318;D'Angelo Russell;3;1679.991;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739287;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;;;3;1757.929;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739293;200900;Assisting;370739;Marcelinho Huertas;3171;Los Angeles Lakers;;;;;8339;Ryan Kelly;4;266.496;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739303;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;4;518.500;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739309;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;4;654.587;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739313;200900;Assisting;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;865.019;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739319;200900;Assisting;5305;Kobe Bryant;3171;Los Angeles Lakers;;;;;;;4;1034.247;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739323;200900;Assisting;5315;Julius Randle;3171;Los Angeles Lakers;;;;;;;4;1175.548;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739325;200900;Assisting;5308;Jordan Clarkson;3171;Los Angeles Lakers;;;;;;;4;1229.784;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
+103739327;200900;Assisting;5323;Louis Williams;3171;Los Angeles Lakers;;;;;5305;Kobe Bryant;4;1347.868;;;;;;;;;;;;;;;;2018-04-19 12:12:05.400471
