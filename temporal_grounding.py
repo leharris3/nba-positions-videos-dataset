@@ -5,6 +5,8 @@ import os
 import re
 import time
 import numpy as np
+from joblib import Parallel, delayed
+import logging
 
 from tqdm import tqdm
 from PIL import Image
@@ -14,6 +16,8 @@ from viz import visualize_timestamps
 from utilities.models import Models
 from utilities.constants import *
 
+logging.basicConfig(filename='process.log', filemode='w', level=logging.INFO, format='%(message)s')
+logger = logging.getLogger()
 
 def process_dir(dir_path: str, data_out_path: str, viz_out_path=None) -> None:
     """
@@ -50,36 +54,22 @@ def process_dir(dir_path: str, data_out_path: str, viz_out_path=None) -> None:
         elapsed_time = end_time - start_time
         print(f"{vid} processed in {elapsed_time:.2f} seconds")
 
-
-def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
+def process_chunk(video_path, start_frame, end_frame, time_remaining_roi, quarter, step):
     """
-    Given a path to a basketball broadcast video,
-    saves a json with extracted timestamp info to save path.
+    Process a chunk of the video from start_frame to end_frame.
     """
-
-    assert os.path.exists(video_path)
-
-    print(f"Extracting timestamps for video at {video_path}")
-    tr_x1, tr_y1, tr_x2, tr_y2 = None, None, None, None
-    time_remaining_roi = extract_roi_from_video(video_path)
-    if time_remaining_roi is not None:
-        tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
     cap = cv2.VideoCapture(video_path)
-    frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-    timestamps = {}
-    quarter = video_path[-5]  # period_x.mp4
-    step = 5
+    cap.set(cv2.CAP_PROP_POS_FRAMES, start_frame)
 
-    for frame_index in tqdm(range(frames_cnt)):
+    timestamps = {}
+    for frame_index in range(start_frame, end_frame):
         ret, frame = cap.read()
         if not ret:
             break
-        time_remaining_img = None
         time_remaining = None
-        if frame_index % step == 0:
-            if time_remaining_roi is not None:
-                time_remaining_img = frame[tr_y1 -
-                                           PAD: tr_y2 + 2 * PAD, tr_x1 - PAD: tr_x2 + 2 * PAD]
+        if frame_index % step == 0 and time_remaining_roi is not None:
+            tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
+            time_remaining_img = frame[tr_y1 - PAD: tr_y2 + 2 * PAD, tr_x1 - PAD: tr_x2 + 2 * PAD]
             if time_remaining_img is not None:
                 time_remaining = extract_time_remaining_from_image(
                     Image.fromarray(time_remaining_img))
@@ -88,13 +78,38 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
             "quarter": quarter,
             "time_remaining": time_remaining
         }
-        if frame_index == BREAK:
-            break
+    cap.release()
+    return timestamps
 
+def extract_timestamps_from_video(video_path: str, save_path: str, num_workers=8) -> None:
+    """
+    Given a path to a basketball broadcast video, saves a json with extracted timestamp info to save path.
+    This function uses parallel processing with joblib.
+    """
+    assert os.path.exists(video_path)
+    
+    print(f"Extracting timestamps for video at {video_path}")
+    time_remaining_roi = extract_roi_from_video(video_path)
+    quarter = video_path[-5]  # period_x.mp4
+    step = 5
+
+    cap = cv2.VideoCapture(video_path)
+    frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+    cap.release()
+
+    chunk_size = frames_cnt // num_workers
+    results = Parallel(n_jobs=num_workers, verbose=50, backend="multiprocessing")(
+        delayed(process_chunk)(video_path, i, min(i + chunk_size, frames_cnt), time_remaining_roi, quarter, step) 
+        for i in range(0, frames_cnt, chunk_size)
+    )
+
+    timestamps = {}
+    for chunk_result in results:
+        timestamps.update(chunk_result)
+    
     post_process_timestamps(timestamps)
     with open(save_path, "w") as json_file:
         json.dump(timestamps, json_file, indent=4)
-
 
 def extract_roi_from_video(video_path: str):
     """
@@ -112,10 +127,10 @@ def extract_roi_from_video(video_path: str):
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     time_remaining_roi = None
 
-    # TODO: skip through vid at one second intervals
+    # TODO: skip through vid at 15 second intervals
     highest_conf = 0.0
     best_roi = None
-    step = 30
+    step = 30 * 15
 
     for i in tqdm(range(frames_cnt)):
         ret, frame = cap.read()
