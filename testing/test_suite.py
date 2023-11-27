@@ -113,14 +113,14 @@ class TextExtractionTests(TestCase):
     def test_extract_text_with_paddle_valid(self):
 
         image = Image.open(
-            r"testing\assets\example_cropped_rois\time_remaining\time_remaining_1.PNG")
+            "testing/assets/example_cropped_rois/time_remaining/time_remaining_1.PNG")
         results = extract_text_with_paddle(image)
         assert results == ["2:41"]
 
     def test_extract_text_with_paddle_blank(self):
 
         image = Image.open(
-            r"testing\assets\blank_images\black.png")
+            "testing/assets/blank_images/black.png")
         results = extract_text_with_paddle(image)
         assert results == []
 
@@ -133,14 +133,14 @@ class TextExtractionTests(TestCase):
     def test_extract_time_remaining_from_image_valid(self):
 
         image = Image.open(
-            r"testing\assets\example_cropped_rois\time_remaining\time_remaining_1.PNG")
+            r"testing/assets/example_cropped_rois/time_remaining/time_remaining_1.PNG")
         result = extract_time_remaining_from_image(image)
         assert result == "2:41"
 
     def test_extract_time_remaining_from_image_empty(self):
 
         image = Image.open(
-            r"testing\assets\blank_images\black.png")
+            r"testing/assets/blank_images/black.png")
         result = extract_time_remaining_from_image(image)
         assert result is None
 
@@ -150,7 +150,7 @@ class TimeExtractionBenchmarkTests(TestCase):
     def whole_time_remaining_roi_benchmark(self):
 
         found, total = 0, 0
-        dir = r"testing\assets\example_rois"
+        dir = "testing/assets/example_rois"
         rois = os.listdir(dir)
         roi_paths = [os.path.join(dir, roi) for roi in rois]
         for fp in roi_paths:
@@ -164,7 +164,7 @@ class TimeExtractionBenchmarkTests(TestCase):
     def cropped_time_remaining_roi_benchmark(self):
 
         found, total = 0, 0
-        dir = r"testing\assets\example_cropped_rois\time_remaining"
+        dir = "testing/assets/example_cropped_rois/time_remaining"
         rois = os.listdir(dir)
         roi_paths = [os.path.join(dir, roi) for roi in rois]
         for fp in roi_paths:

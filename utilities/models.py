@@ -9,8 +9,8 @@ class Models:
     yolo = yolo = YOLO(MODEL_PATH)
     paddle_ocr = PaddleOCR(use_angle_cls=True,
                            lang='en',
-                           show_log=False,
-                           det_db_score_mode='slow',
+                           show_log=True,
+                           det_db_score_mode='fast',
                            ocr_version='PP-OCRv4',
                            rec_algorithm='SVTR_LCNet',
                            drop_score=0.8,

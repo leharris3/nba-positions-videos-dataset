@@ -191,8 +191,6 @@ def extract_text_with_paddle(image: Image.Image) -> List[str]:
                 int(image.height * scale_factor))
     image = image.resize(new_size)
     img_arr = np.array(image)
-
-    # cv2.imwrite("preprocessed_img.png", img_arr)
     results = []
     raw_result = Models.paddle_ocr(img_arr)
     text_arr = raw_result[1]
