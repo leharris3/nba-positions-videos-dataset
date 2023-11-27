@@ -128,7 +128,7 @@ class TextExtractionTests(TestCase):
 
         image = None
         result = extract_time_remaining_from_image(image)
-        assert result is None
+        assert result == None
 
     def test_extract_time_remaining_from_image_valid(self):
 
@@ -174,3 +174,15 @@ class TimeExtractionBenchmarkTests(TestCase):
                 found += 1
             total += 1
         assert (found / total) >= .95
+
+import unittest
+
+def run_all_tests():
+    loader = unittest.TestLoader()
+    suite = unittest.TestSuite()
+    suite.addTests(loader.loadTestsFromTestCase(RegexTests))
+    suite.addTests(loader.loadTestsFromTestCase(TimeConversionTests))
+    suite.addTests(loader.loadTestsFromTestCase(TextExtractionTests))
+    suite.addTests(loader.loadTestsFromTestCase(TimeExtractionBenchmarkTests))
+    runner = unittest.TextTestRunner(verbosity=2)
+    runner.run(suite)
