@@ -1,21 +1,16 @@
 import os
-
-from shot_clip_extraction import *
+import time
+from temporal_grounding import *
 from viz import *
 
+vids_dir = r"/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/My Mac/720"
+timestamps_dir = r"/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/timestamps"
+viz_dir = r"/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/timestamp-visualizations"
+preprocessed_videos = r"processed_vids.txt"
 
-def main():
-    choose_ten_games_with_logs()
-
-
-if __name__ == "__main__":
-    main()
-
-# Video -> Process -> Shot Clips
-
-# 1. find 100 videos with matching logs, move to a "to_upload" dir
-# 2. upload 100 videos to folder A in gdrive
-# 3. extract timestamps from 100 videos on gdrive to folder B
-# 4. extract video clips from 100 videos to folder C?
-# 5. remove 100 videos from folder A
-# 6. move 100 videos from "to_upload" to a "processed dir"
+process_dir(
+    dir_path=vids_dir,
+    data_out_path=timestamps_dir,
+    viz_out_path=viz_dir,
+    preprocessed_videos=preprocessed_videos
+)
