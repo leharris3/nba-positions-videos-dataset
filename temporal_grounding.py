@@ -15,7 +15,7 @@ from utilities.constants import *
 from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-MAX_WORKERS = 32
+MAX_WORKERS = 16
 
 def process_video(video, dir_path, data_out_path, viz_out_path):
     """
