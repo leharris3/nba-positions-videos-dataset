@@ -26,10 +26,10 @@ def visualize_timestamps(input_path, timestamps_path, output_path, tr_roi=None, 
     fps = reader.get(cv2.CAP_PROP_FPS)
     fourcc = cv2.VideoWriter_fourcc(*'mp4v')
     writer = cv2.VideoWriter(output_path, fourcc, fps, (new_width, new_height))
+    frame_cnt = reader.get(cv2.CAP_PROP_FRAME_COUNT)
     font = FONT
-    frame_index = 0
 
-    while True:
+    for frame_index in tqdm(range(frame_cnt)):
         ret, frame = reader.read()
         if not ret:
             break
@@ -49,7 +49,7 @@ def visualize_timestamps(input_path, timestamps_path, output_path, tr_roi=None, 
         img = Image.fromarray(frame)
         draw = ImageDraw.Draw(img)
         draw.text(
-            (10, 10), text=f"Q: {quarter} T: {minutes:02d}:{seconds:02d}.{decimal_seconds}", font=font, fill=(255, 255, 255))
+            (10, 10), text=f"Q: {quarter} T: {minutes}:{seconds}.{decimal_seconds}", font=font, fill=(255, 255, 255))
         frame = np.array(img)
         writer.write(frame)
         frame_index += 1

@@ -15,8 +15,32 @@ from utilities.constants import *
 from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+MAX_WORKERS = 24
+
+
+def process_video(video, dir_path, data_out_path, viz_out_path):
+    """
+    Process a single video file.
+    """
+    try:
+        video_path = os.path.join(dir_path, video)
+        data_path = os.path.join(data_out_path, video.replace(".mp4", ".json").replace(".avi", ".json"))
+        start_time = time.time()  # for benchmarking purposes
+        extract_timestamps_from_video(video_path, data_path)
+        if viz_out_path is not None:
+            viz_path = os.path.join(viz_out_path, video.replace(".mp4", "_viz.avi"))
+            visualize_timestamps(video_path, data_path, viz_path)
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        print(f"{video} processed in {elapsed_time:.2f} seconds")
+    except Exception as e:
+        print(f"Error processing {video}: {e}")
+
 
 def process_dir(dir_path: str, data_out_path: str, viz_out_path=None, preprocessed_videos=None) -> None:
+    """
+    Process a directory of videos concurrently.
+    """
     assert os.path.isdir(dir_path), f"Error: bad path to video directory: {dir_path}"
     os.makedirs(data_out_path, exist_ok=True)
     if viz_out_path is not None:
@@ -34,17 +58,10 @@ def process_dir(dir_path: str, data_out_path: str, viz_out_path=None, preprocess
 
     vids = [vid for vid in vids if vid not in preprocessed_set]
 
-    for vid in vids:
-        video_path = os.path.join(dir_path, vid)
-        data_path = os.path.join(data_out_path, vid.replace(".mp4", ".json").replace(".avi", ".json"))
-        start_time = time.time()  # for benchmarking purposes
-        extract_timestamps_from_video(video_path, data_path)
-        if viz_out_path is not None:
-            viz_path = os.path.join(viz_out_path, vid.replace(".mp4", "_viz.avi"))
-            visualize_timestamps(video_path, data_path, viz_path)
-        end_time = time.time()
-        elapsed_time = end_time - start_time
-        print(f"{vid} processed in {elapsed_time:.2f} seconds")
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = [executor.submit(process_video, vid, dir_path, data_out_path, viz_out_path) for vid in vids]
+        for future in as_completed(futures):
+            pass
 
 
 def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
@@ -54,16 +71,15 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
     """
 
     assert os.path.exists(video_path)
-
-    print(f"Extracting timestamps for video at {video_path}")
     time_remaining_roi = extract_roi_from_video(video_path)
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
         raise Exception(f"Could not open video at: {video_path}")
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     quarter = video_path[-5]  # period_x.mp4
-    step = 15
+    step = 5
 
+    print(f"Extracting timestamps for video at {video_path}")
     timestamps = {}
     for frame_index in tqdm(range(frames_cnt)):
         ret, frame = cap.read()

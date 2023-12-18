@@ -14,5 +14,5 @@ class Models:
         det_db_score_mode='fast',
         ocr_version='PP-OCRv4',
         rec_algorithm='SVTR_LCNet',
-        drop_score=0.8,
+        drop_score=0.9,
     )
