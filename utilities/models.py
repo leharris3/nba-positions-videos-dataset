@@ -16,3 +16,4 @@ class Models:
         rec_algorithm='SVTR_LCNet',
         drop_score=0.9,
     )
+    paddle_ocr.ocr()
