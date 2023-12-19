@@ -15,25 +15,29 @@ from utilities.constants import *
 from concurrent.futures import ThreadPoolExecutor
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-MAX_WORKERS = 16
+MAX_WORKERS = 8
 
-def process_video(video, dir_path, data_out_path, viz_out_path):
+def process_video(video_title, video_dir, data_dir, viz_dir=None):
     """
     Process a single video file.
     """
     try:
-        video_path = os.path.join(dir_path, video)
-        data_path = os.path.join(data_out_path, video.replace(".mp4", ".json").replace(".avi", ".json"))
-        start_time = time.time()  # for benchmarking purposes
+        video_path = os.path.join(video_dir, video_title)
+        data_path = os.path.join(data_dir, video_title.replace(".mp4", ".json").replace(".avi", ".json"))
+        
+        # for benchmarking purposes
+        start_time = time.time()
+
         extract_timestamps_from_video(video_path, data_path)
-        if viz_out_path is not None:
-            viz_path = os.path.join(viz_out_path, video.replace(".mp4", "_viz.avi"))
+        if viz_dir is not None:
+            viz_path = os.path.join(viz_dir, video_title.replace(".mp4", "_viz.avi"))
             visualize_timestamps(video_path, data_path, viz_path)
+
         end_time = time.time()
         elapsed_time = end_time - start_time
-        print(f"{video} processed in {elapsed_time:.2f} seconds")
+        print(f"{video_title} processed in {elapsed_time:.2f} seconds")
     except Exception as e:
-        print(f"Error processing {video}: {e}")
+        print(f"Error processing {video_path}: {e}")
 
 
 def process_dir(dir_path: str, data_out_path: str, viz_out_path=None, preprocessed_videos=None) -> None:
@@ -76,7 +80,7 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
         raise Exception(f"Could not open video at: {video_path}")
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     quarter = video_path[-5]  # period_x.mp4
-    step = 5
+    step = 10
 
     print(f"Extracting timestamps for video at {video_path}")
     timestamps = {}
@@ -104,7 +108,7 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
         }
     cap.release()
 
-    post_process_timestamps(timestamps)
+    timestamps = post_process_timestamps(timestamps)
     with open(save_path, "w") as json_file:
         json.dump(timestamps, json_file, indent=4)
 

@@ -1,6 +1,7 @@
 import json
 import tqdm
 import math
+import numpy as np
 
 def get_unique_moments_from_statvu(statvu_log_path):
     """
@@ -39,63 +40,114 @@ def get_unique_moments_from_statvu(statvu_log_path):
 
     return processed_moments
 
-def interpolate_timestamps(file_path, output_path):
-    """
-    Interpolates time remaining values in a JSON file containing timestamp data.
 
-    Args:
-    file_path (str): The file path of the input JSON file with timestamp data.
-    output_path (str): The file path for the output JSON file with interpolated timestamps.
+def update_timestamps(timestamps, time_remaining):
+    for k, v in enumerate(time_remaining):
+        timestamps[str(k)]['time_remaining'] = v
+        return timestamps
 
-    The function reads the timestamp data, interpolates the 'time_remaining' values, and writes
-    the updated data to a new JSON file.
-    """
 
-    # Load data from the file
-    try:
-        with open(file_path, 'r') as file:
-            data = json.load(file)
-    except Exception as e:
-        print(f"Error reading file {file_path}: {e}")
-        return
+def post_process_timestmaps(timestamps):
 
-    # Initialize list to store original time_remaining values
-    original_time_values = []
+    def interpolate(time_remaining):
 
-    # Extract time_remaining values and handle None values
-    for key in data:
-        time_remaining = data[key].get('time_remaining', -1)
-        original_time_values.append(time_remaining if time_remaining is not None else -1)
+        time_remaining = time_remaining.copy()
+        fps = 30
+        multiplier = 0
+        decreasing = False
 
-    # Initialize variables for interpolation
-    last_seen_valid_time = -1
-    consecutive_frame_count = 0
-    interpolated_values = []
+        for i in range(len(time_remaining) - 1):
+            current, next_value = time_remaining[i], time_remaining[i + 1]
+            peak_value = time_remaining[min(i + fps, len(time_remaining) - 1)]
 
-    # Perform interpolation of time_remaining values
-    for value in original_time_values:
-        if value > 0:
-            if consecutive_frame_count == 0 or consecutive_frame_count > 30:
-                last_seen_valid_time = value
-                consecutive_frame_count = 0
-            else:
-                multiplier = math.floor((consecutive_frame_count / 30) * 25)
-                interpolated_value = round(value - (multiplier / 25), 2)
-                interpolated_values.append(interpolated_value)
-            consecutive_frame_count += 1
-        else:
-            interpolated_values.append(None)
+            if current == 0:
+                continue
 
-    # Update the data dictionary with interpolated values
-    for key, interpolated_value in zip(data, interpolated_values):
-        data[key]['time_remaining'] = interpolated_value
+            decreasing = peak_value < current
+            if decreasing:
+                if multiplier > 30:
+                    multiplier, decreasing = 0, False
+                    continue
 
-    # Write the updated data to a new JSON file
-    try:
-        with open(output_path, "w") as outfile:
-            json.dump(data, outfile, indent=4)
-    except Exception as e:
-        print(f"Error writing file {output_path}: {e}")
+                time_remaining[i] -= round((1/30) * multiplier, 2)
+                multiplier = 0 if next_value < current else multiplier + 1
+            # else:
+            #     time_remaining[i] = 0
+
+        return time_remaining
+
+    def update_time_remaining(remove_indices, time_remaining):
+        for idx, remove in enumerate(remove_indices):
+            if remove:
+                # Find nearest neighbor with remove == 0
+                left_idx = idx - 1
+                right_idx = idx + 1
+                while left_idx >= 0 and remove_indices[left_idx]:
+                    left_idx -= 1
+                while right_idx < len(remove_indices) and remove_indices[right_idx]:
+                    right_idx += 1
+                # Choose the closest valid neighbor
+                if left_idx >= 0 and (right_idx >= len(remove_indices) or (idx - left_idx) <= (right_idx - idx)):
+                    time_remaining[idx] = time_remaining[left_idx]
+                elif right_idx < len(remove_indices):
+                    time_remaining[idx] = time_remaining[right_idx]
+
+    def get_time_remaining_from_timestamps(timestamps):
+        return np.array([v['time_remaining'] if v['time_remaining'] is not None else 0 for v in timestamps.values()])
+
+    def moving_average(x, window):
+        return np.convolve(x, np.ones(window), 'valid') / window
+
+    def normalize(arr):
+        _min, _max = arr.min(), arr.max()
+        return (arr - _min) / (_max - _min)
+
+    def denoise_time_remaining(time_remaining):
+        def update_time_remaining(remove_indices, time_remaining):
+            valid_indices = np.where(remove_indices == 0)[0]
+            for idx in np.where(remove_indices)[0]:
+                nearest_valid_index = valid_indices[np.argmin(np.abs(valid_indices - idx))]
+                time_remaining[idx] = time_remaining[nearest_valid_index]
+
+        time_remaining = np.array(time_remaining)
+        time_remaining_og = time_remaining.copy()
+        expected = np.linspace(0, 720, len(time_remaining), endpoint=False)[::-1]
+        norm_expected_diff = normalize(np.abs(expected - time_remaining_og))
+        remove_indices = (norm_expected_diff > 0.5).astype(int)
+        update_time_remaining(remove_indices, time_remaining)
+
+        for window in [1000, 500]:
+            if len(time_remaining) > window:
+                mvg_avg = moving_average(time_remaining, window)
+                padded_avg = np.pad(mvg_avg, (window // 2, window - window // 2 - 1), mode='edge')
+                norm_diff = normalize(np.abs(time_remaining - padded_avg))
+                remove_indices = (norm_diff > 0.5).astype(int)
+                update_time_remaining(remove_indices, time_remaining)
+
+        for window in [50, 10, 5]:
+            if len(time_remaining) > window:
+                mvg_avg = moving_average(time_remaining, window)
+                padded_avg = np.pad(mvg_avg, (window // 2, window - window // 2 - 1), mode='edge')
+                norm_diff = normalize(np.abs(time_remaining - padded_avg))
+                remove_indices = (norm_diff > 0.01).astype(int)
+                update_time_remaining(remove_indices, time_remaining)
+
+        temp_interpolated = interpolate(time_remaining)
+        delta = np.gradient(temp_interpolated)
+        delta_inter = normalize(moving_average(abs(delta), 7))
+        remove_indices = (delta_inter > 0.1).astype(int)
+        update_time_remaining(remove_indices, time_remaining)
+
+        return time_remaining
+    
+    time_remaining = get_time_remaining_from_timestamps(timestamps)
+    denoised_time_remaining = denoise_time_remaining(time_remaining)
+    interpolated_time_remaining = interpolate(denoised_time_remaining)
+    timestamps = update_timestamps(
+        time_remaining=interpolated_time_remaining
+    )
+    return timestamps
+
 
 def map_frames_to_moments(data, moments_data):
     """

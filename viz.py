@@ -13,7 +13,7 @@ import threading
 CHUNK_SIZE = 100
 FONT = ImageFont.truetype('utilities/os-eb.ttf', 30)
 
-def visualize_timestamps(input_path, timestamps_path, output_path, tr_roi=None, new_width=480, new_height=360):
+def visualize_timestamps(input_path, timestamps_path, output_path, tr_roi=None):
     print(f"Generating visualization for video at: {input_path}")
     with open(timestamps_path, 'r') as f:
         timestamps = json.load(f)
@@ -23,18 +23,23 @@ def visualize_timestamps(input_path, timestamps_path, output_path, tr_roi=None, 
         print("Error: Could not open input video.")
         return
 
+    frame_width = int(reader.get(cv2.CAP_PROP_FRAME_WIDTH))
+    frame_height = int(reader.get(cv2.CAP_PROP_FRAME_HEIGHT))
     fps = reader.get(cv2.CAP_PROP_FPS)
-    fourcc = cv2.VideoWriter_fourcc(*'mp4v')
-    writer = cv2.VideoWriter(output_path, fourcc, fps, (new_width, new_height))
-    frame_cnt = reader.get(cv2.CAP_PROP_FRAME_COUNT)
-    font = FONT
+    fourcc = cv2.VideoWriter_fourcc(*'mp4v') # You can change the codec if needed
+    total_frames = int(reader.get(cv2.CAP_PROP_FRAME_COUNT))
 
-    for frame_index in tqdm(range(frame_cnt)):
+    new_width, new_height = 480, 360
+    writer = cv2.VideoWriter(output_path, fourcc, fps, (new_width, new_height))
+    font = ImageFont.truetype('utilities/os-eb.ttf', 30)
+
+    for frame_index in tqdm(range(total_frames)):
         ret, frame = reader.read()
         if not ret:
             break
 
-        frame = cv2.resize(frame, (new_width, new_height))  # Resize frame
+        # resize frame
+        frame = cv2.resize(frame, (new_width, new_height))
         quarter, time_remaining = None, None
         minutes, seconds, decimal_seconds = -1, -1, -1
         index = str(frame_index)
@@ -49,13 +54,13 @@ def visualize_timestamps(input_path, timestamps_path, output_path, tr_roi=None, 
         img = Image.fromarray(frame)
         draw = ImageDraw.Draw(img)
         draw.text(
-            (10, 10), text=f"Q: {quarter} T: {minutes}:{seconds}.{decimal_seconds}", font=font, fill=(255, 255, 255))
+            (10, 10), text=f"Q: {quarter} T: {minutes:02d}:{seconds:02d}.{decimal_seconds}", font=font, fill=(255, 255, 255))
         frame = np.array(img)
         writer.write(frame)
-        frame_index += 1
 
     reader.release()
     writer.release()
+
 
 def visualize_roi(video_path, viz_path, roi):
 
