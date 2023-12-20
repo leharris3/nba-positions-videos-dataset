@@ -215,7 +215,7 @@ def extract_text_with_paddle(image: Image.Image) -> List[str]:
     if image is None:
         return []
     image = image.convert("RGB")
-    ideal_height = 85
+    ideal_height = 100
     scale_factor = ideal_height / image.height
     new_size = (int(image.width * scale_factor),
                 int(image.height * scale_factor))

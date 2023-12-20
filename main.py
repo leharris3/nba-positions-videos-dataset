@@ -12,6 +12,6 @@ preprocessed_videos = r"processed_vids.txt"
 process_dir(
     dir_path=vids_dir,
     data_out_path=timestamps_dir,
-    viz_out_path=viz_dir,
-    preprocessed_videos=None,
+    viz_out_path=None,
+    preprocessed_videos=preprocessed_videos,
 )

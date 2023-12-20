@@ -131,14 +131,15 @@ def post_process_timestmaps(timestamps):
                 mvg_avg = moving_average(time_remaining, window)
                 padded_avg = np.pad(mvg_avg, (window // 2, window - window // 2 - 1), mode='edge')
                 norm_diff = normalize(np.abs(time_remaining - padded_avg))
-                remove_indices = (norm_diff > 0.01).astype(int)
+                remove_indices = (norm_diff > 0.5).astype(int)
                 update_time_remaining(remove_indices, time_remaining)
 
         temp_interpolated = interpolate(time_remaining)
         delta = np.gradient(temp_interpolated)
         delta_inter = normalize(moving_average(abs(delta), 7))
-        remove_indices = (delta_inter > 0.1).astype(int)
+        remove_indices = (delta_inter > 0.25).astype(int)
         update_time_remaining(remove_indices, time_remaining)
+
         return time_remaining
     
     time_remaining = get_time_remaining_from_timestamps(timestamps)
