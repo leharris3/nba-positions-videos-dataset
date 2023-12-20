@@ -44,11 +44,31 @@ def get_unique_moments_from_statvu(statvu_log_path):
 def update_timestamps(timestamps, time_remaining):
     for k, v in enumerate(time_remaining):
         timestamps[str(k)]['time_remaining'] = v
-        return timestamps
+    return timestamps
+
+
+def get_time_remaining_from_timestamps(timestamps):
+    return np.array([v['time_remaining'] if v['time_remaining'] is not None else 0 for v in timestamps.values()])
 
 
 def post_process_timestmaps(timestamps):
 
+    timestamps = timestamps.copy()
+
+    def extend_timestamps(time_remaining):
+        """
+        Interpolate timestamps in-place.
+        """
+        time_remaining = time_remaining.copy()
+        last_time = None
+        for i in range(len(time_remaining)):
+            value = time_remaining[i]
+            if value:
+                last_time = value
+            else:
+                time_remaining[i] = last_time
+        return time_remaining
+    
     def interpolate(time_remaining):
 
         time_remaining = time_remaining.copy()
@@ -76,25 +96,6 @@ def post_process_timestmaps(timestamps):
 
         return time_remaining
 
-    def update_time_remaining(remove_indices, time_remaining):
-        for idx, remove in enumerate(remove_indices):
-            if remove:
-                # Find nearest neighbor with remove == 0
-                left_idx = idx - 1
-                right_idx = idx + 1
-                while left_idx >= 0 and remove_indices[left_idx]:
-                    left_idx -= 1
-                while right_idx < len(remove_indices) and remove_indices[right_idx]:
-                    right_idx += 1
-                # Choose the closest valid neighbor
-                if left_idx >= 0 and (right_idx >= len(remove_indices) or (idx - left_idx) <= (right_idx - idx)):
-                    time_remaining[idx] = time_remaining[left_idx]
-                elif right_idx < len(remove_indices):
-                    time_remaining[idx] = time_remaining[right_idx]
-
-    def get_time_remaining_from_timestamps(timestamps):
-        return np.array([v['time_remaining'] if v['time_remaining'] is not None else 0 for v in timestamps.values()])
-
     def moving_average(x, window):
         return np.convolve(x, np.ones(window), 'valid') / window
 
@@ -103,6 +104,7 @@ def post_process_timestmaps(timestamps):
         return (arr - _min) / (_max - _min)
 
     def denoise_time_remaining(time_remaining):
+
         def update_time_remaining(remove_indices, time_remaining):
             valid_indices = np.where(remove_indices == 0)[0]
             for idx in np.where(remove_indices)[0]:
@@ -137,13 +139,15 @@ def post_process_timestmaps(timestamps):
         delta_inter = normalize(moving_average(abs(delta), 7))
         remove_indices = (delta_inter > 0.1).astype(int)
         update_time_remaining(remove_indices, time_remaining)
-
         return time_remaining
     
     time_remaining = get_time_remaining_from_timestamps(timestamps)
-    denoised_time_remaining = denoise_time_remaining(time_remaining)
+    extended_time_remaining = extend_timestamps(time_remaining)
+    denoised_time_remaining = denoise_time_remaining(extended_time_remaining)
     interpolated_time_remaining = interpolate(denoised_time_remaining)
+
     timestamps = update_timestamps(
+        timestamps=timestamps,
         time_remaining=interpolated_time_remaining
     )
     return timestamps

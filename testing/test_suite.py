@@ -115,7 +115,7 @@ class TextExtractionTests(TestCase):
         image = Image.open(
             "testing/assets/example_cropped_rois/time_remaining/time_remaining_1.PNG")
         results = extract_text_with_paddle(image)
-        assert results == ["2:41"]
+        assert results == ["2:41"], f'Expected: {["2:41"]}, actual: {results}'
 
     def test_extract_text_with_paddle_blank(self):
 

@@ -5,19 +5,21 @@ import os
 import re
 import time
 import numpy as np
+import warnings
+
 from tqdm import tqdm
 from PIL import Image
 from typing import List
+
 from viz import visualize_timestamps
 from utilities.models import Models
 from utilities.constants import *
+from post_processing import *
 
-from concurrent.futures import ThreadPoolExecutor
-from concurrent.futures import ThreadPoolExecutor, as_completed
+warnings.filterwarnings("ignore")
+MAX_WORKERS = 1
 
-MAX_WORKERS = 8
-
-def process_video(video_title, video_dir, data_dir, viz_dir=None):
+def process_video(video_title: str, video_dir: str, data_dir: str, viz_dir):
     """
     Process a single video file.
     """
@@ -33,6 +35,7 @@ def process_video(video_title, video_dir, data_dir, viz_dir=None):
             viz_path = os.path.join(viz_dir, video_title.replace(".mp4", "_viz.avi"))
             visualize_timestamps(video_path, data_path, viz_path)
 
+        # end time
         end_time = time.time()
         elapsed_time = end_time - start_time
         print(f"{video_title} processed in {elapsed_time:.2f} seconds")
@@ -60,11 +63,18 @@ def process_dir(dir_path: str, data_out_path: str, viz_out_path=None, preprocess
             preprocessed_set = {line.replace('_viz.avi', '.mp4') for line in preprocessed_set}
 
     vids = [vid for vid in vids if vid not in preprocessed_set]
+    for vid in vids:
+        process_video(
+            vid,
+            dir_path,
+            data_out_path,
+            viz_out_path
+        )
 
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = [executor.submit(process_video, vid, dir_path, data_out_path, viz_out_path) for vid in vids]
-        for future in as_completed(futures):
-            pass
+    # with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+    #     futures = [executor.submit(process_video, vid, dir_path, data_out_path, viz_out_path) for vid in vids]
+    #     for future in as_completed(futures):
+    #         pass
 
 
 def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
@@ -84,7 +94,7 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
 
     print(f"Extracting timestamps for video at {video_path}")
     timestamps = {}
-    for frame_index in tqdm(range(frames_cnt)):
+    for frame_index in tqdm.tqdm(range(frames_cnt)):
         ret, frame = cap.read()
         if not ret:
             break
@@ -108,7 +118,9 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
         }
     cap.release()
 
-    timestamps = post_process_timestamps(timestamps)
+    # timestamps = extend_timestamps(timestamps)
+    # timestamps = post_process_timestmaps(timestamps)
+    
     with open(save_path, "w") as json_file:
         json.dump(timestamps, json_file, indent=4)
 
@@ -120,7 +132,7 @@ def extract_roi_from_video(video_path: str):
     ROI is found.
     """
 
-    SKIP_SECONDS = 30
+    SKIP_SECONDS = 120
     FPS = 30
 
     assert os.path.isfile(
@@ -137,10 +149,11 @@ def extract_roi_from_video(video_path: str):
     best_roi = None
     step = SKIP_SECONDS * FPS
 
-    for i in tqdm(range(frames_cnt)):
+    for i in tqdm.tqdm(range(frames_cnt)):
         ret, frame = cap.read()
         if not ret:
             break
+        # process frame
         if (i % step == 0):
             results = Models.yolo(frame, verbose=False)
             classes, conf, boxes = results[0].boxes.cls, results[0].boxes.conf, results[0].boxes.xyxy
@@ -187,11 +200,8 @@ def extract_time_remaining_from_image(image: Image.Image):
     returns either a valid formatted time-remaining str (ie '11:30')
     or None.
     """
-    rgb_img = None
-    if image is not None:
-        rgb_img = image.convert("RGB")
     results = extract_text_with_paddle(
-        rgb_img)
+        image)
     time_remaining = find_time_remaining_from_results(results)
     return time_remaining
 
@@ -205,7 +215,7 @@ def extract_text_with_paddle(image: Image.Image) -> List[str]:
     if image is None:
         return []
     image = image.convert("RGB")
-    ideal_height = 100
+    ideal_height = 85
     scale_factor = ideal_height / image.height
     new_size = (int(image.width * scale_factor),
                 int(image.height * scale_factor))
@@ -241,60 +251,3 @@ def convert_time_to_float(time_remaining):
     else:
         return None
     return (60.0 * minutes) + seconds
-
-
-def post_process_timestamps(timestamps):
-    """
-    Interpolate timestamps in-place.
-    """
-
-    def interpolate(data):
-
-        time_remaining = []
-        for k, v in data.items():
-            tr = v['time_remaining']
-            time_remaining.append(tr) if tr != None else time_remaining.append(0)
-
-        fps = 30
-        multiplier = 0
-        decreasing = False
-        last_index = len(time_remaining)
-        for i in range(last_index):
-            curr = time_remaining[i]
-            peak_value = time_remaining[i]
-            if curr == 0:
-                continue
-            if decreasing:
-                if multiplier == 30:
-                    multiplier = 0
-                    decreasing = False
-                else:
-                    time_remaining[i] -= round(((1/30) * multiplier), 2)
-                    multiplier += 1
-                    continue
-            if i < (last_index - fps):
-                peak_value = time_remaining[i + fps]
-            if peak_value < curr:
-                decreasing = True
-            else:
-                decreasing = False
-            if not decreasing:
-                time_remaining[i] = 0
-        
-        for k, v in data.items():
-            data[k]['time_remaining'] = time_remaining[int(k)] if time_remaining[int(k)] != 0 else None
-        return data
-
-    last_quarter, last_time = None, None
-    for key in timestamps:
-        quarter, time_remaining = timestamps[key]["quarter"], timestamps[key]["time_remaining"]
-        if quarter:
-            last_quarter = quarter
-        else:
-            timestamps[key]["quarter"] = last_quarter
-        if time_remaining:
-            last_time = time_remaining
-        else:
-            timestamps[key]["time_remaining"] = last_time
-
-    return timestamps

@@ -54,7 +54,7 @@ def visualize_timestamps(input_path, timestamps_path, output_path, tr_roi=None):
         img = Image.fromarray(frame)
         draw = ImageDraw.Draw(img)
         draw.text(
-            (10, 10), text=f"Q: {quarter} T: {minutes:02d}:{seconds:02d}.{decimal_seconds}", font=font, fill=(255, 255, 255))
+            (10, 10), text=f"Q: {quarter} T: {minutes:}:{seconds:}.{decimal_seconds}", font=font, fill=(255, 255, 255))
         frame = np.array(img)
         writer.write(frame)
 
