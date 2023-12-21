@@ -47,6 +47,12 @@ def update_timestamps(timestamps, time_remaining):
     return timestamps
 
 
+def get_time_remaining_from_timestamps_fp(fp):
+    with open(fp, 'r') as f:
+        timestamps = json.load(f)
+    return get_time_remaining_from_timestamps(timestamps)
+
+
 def get_time_remaining_from_timestamps(timestamps):
     return np.array([v['time_remaining'] if v['time_remaining'] is not None else 0 for v in timestamps.values()])
 
@@ -59,15 +65,13 @@ def post_process_timestmaps(timestamps):
         """
         Interpolate timestamps in-place.
         """
-        time_remaining = time_remaining.copy()
-        last_time = None
-        for i in range(len(time_remaining)):
-            value = time_remaining[i]
-            if value:
-                last_time = value
-            else:
-                time_remaining[i] = last_time
-        return time_remaining
+        _time_remaining = []
+        last_time = 0
+        for val in time_remaining:
+            if val != None and val > 1:
+                last_time = val
+            _time_remaining.append(last_time)
+        return _time_remaining
     
     def interpolate(time_remaining):
 
@@ -75,25 +79,18 @@ def post_process_timestmaps(timestamps):
         fps = 30
         multiplier = 0
         decreasing = False
-
         for i in range(len(time_remaining) - 1):
             current, next_value = time_remaining[i], time_remaining[i + 1]
             peak_value = time_remaining[min(i + fps, len(time_remaining) - 1)]
-
             if current == 0:
                 continue
-
             decreasing = peak_value < current
             if decreasing:
                 if multiplier > 30:
                     multiplier, decreasing = 0, False
                     continue
-
                 time_remaining[i] -= round((1/30) * multiplier, 2)
                 multiplier = 0 if next_value < current else multiplier + 1
-            # else:
-            #     time_remaining[i] = 0
-
         return time_remaining
 
     def moving_average(x, window):
@@ -111,6 +108,7 @@ def post_process_timestmaps(timestamps):
                 nearest_valid_index = valid_indices[np.argmin(np.abs(valid_indices - idx))]
                 time_remaining[idx] = time_remaining[nearest_valid_index]
 
+        # remove values that deviate too far from expected values
         time_remaining = np.array(time_remaining)
         time_remaining_og = time_remaining.copy()
         expected = np.linspace(0, 720, len(time_remaining), endpoint=False)[::-1]
@@ -118,6 +116,7 @@ def post_process_timestmaps(timestamps):
         remove_indices = (norm_expected_diff > 0.5).astype(int)
         update_time_remaining(remove_indices, time_remaining)
 
+        # convolve with shrinking window
         for window in [1000, 500]:
             if len(time_remaining) > window:
                 mvg_avg = moving_average(time_remaining, window)
@@ -126,6 +125,7 @@ def post_process_timestmaps(timestamps):
                 remove_indices = (norm_diff > 0.5).astype(int)
                 update_time_remaining(remove_indices, time_remaining)
 
+        # convolve with shrinking window
         for window in [50, 10, 5]:
             if len(time_remaining) > window:
                 mvg_avg = moving_average(time_remaining, window)
@@ -137,9 +137,8 @@ def post_process_timestmaps(timestamps):
         temp_interpolated = interpolate(time_remaining)
         delta = np.gradient(temp_interpolated)
         delta_inter = normalize(moving_average(abs(delta), 7))
-        remove_indices = (delta_inter > 0.25).astype(int)
+        remove_indices = (delta_inter > 0.1).astype(int)
         update_time_remaining(remove_indices, time_remaining)
-
         return time_remaining
     
     time_remaining = get_time_remaining_from_timestamps(timestamps)
