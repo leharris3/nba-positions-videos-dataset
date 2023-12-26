@@ -11,7 +11,7 @@ class Models:
         lang='en',
         show_log=False,
         det_db_score_mode='fast',
-        ocr_version='PP-OCRv4',
+        ocr_version='PP-OCRv3',
         rec_algorithm='SVTR_LCNet',
         drop_score=0.9,
     )

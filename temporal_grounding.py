@@ -6,6 +6,7 @@ import re
 import time
 import numpy as np
 import warnings
+import threading
 
 from tqdm import tqdm
 from PIL import Image
@@ -18,29 +19,36 @@ from post_processing import *
 
 warnings.filterwarnings("ignore")
 MAX_WORKERS = 1
+TIMEOUT = 8 * 60 # 8 minute timeout
 
 def process_video(video_title: str, video_dir: str, data_dir: str, viz_dir):
     """
     Process a single video file.
     """
-    try:
-        video_path = os.path.join(video_dir, video_title)
-        data_path = os.path.join(data_dir, video_title.replace(".mp4", ".json").replace(".avi", ".json"))
-        
-        # for benchmarking purposes
-        start_time = time.time()
 
-        extract_timestamps_from_video(video_path, data_path)
-        if viz_dir is not None:
-            viz_path = os.path.join(viz_dir, video_title.replace(".mp4", "_viz.avi"))
-            visualize_timestamps(video_path, data_path, viz_path)
+    def target():
+        try:
+            video_path = os.path.join(video_dir, video_title)
+            data_path = os.path.join(data_dir, video_title.replace(".mp4", ".json").replace(".avi", ".json"))
+            
+            start_time = time.time()
+            extract_timestamps_from_video(video_path, data_path)
+            if viz_dir is not None:
+                viz_path = os.path.join(viz_dir, video_title.replace(".mp4", "_viz.avi"))
+                visualize_timestamps(video_path, data_path, viz_path)
+            end_time = time.time()
+            elapsed_time = end_time - start_time
+            print(f"{video_title} processed in {elapsed_time:.2f} seconds")
+        except Exception as e:
+            print(f"Error processing {video_path}: {e}")
 
-        # end time
-        end_time = time.time()
-        elapsed_time = end_time - start_time
-        print(f"{video_title} processed in {elapsed_time:.2f} seconds")
-    except Exception as e:
-        print(f"Error processing {video_path}: {e}")
+    thread = threading.Thread(target=target)
+    thread.start()
+    thread.join(TIMEOUT)
+
+    if thread.is_alive():
+        print(f"Processing of {video_title} timed out after {TIMEOUT} seconds.")
+        thread._stop()  # Forcefully stop the thread
 
 
 def process_dir(dir_path: str, data_out_path: str, viz_out_path=None, preprocessed_videos=None) -> None:
@@ -70,11 +78,7 @@ def process_dir(dir_path: str, data_out_path: str, viz_out_path=None, preprocess
             data_out_path,
             viz_out_path
         )
-
-    # with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-    #     futures = [executor.submit(process_video, vid, dir_path, data_out_path, viz_out_path) for vid in vids]
-    #     for future in as_completed(futures):
-    #         pass
+    pass
 
 
 def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
@@ -85,9 +89,11 @@ def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
 
     assert os.path.exists(video_path)
     time_remaining_roi = extract_roi_from_video(video_path)
+
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
         raise Exception(f"Could not open video at: {video_path}")
+
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     quarter = video_path[-5]  # period_x.mp4
     step = 10
@@ -141,6 +147,9 @@ def extract_roi_from_video(video_path: str):
 
     print(f"Finding time-remaining ROI for video at {video_path}")
     cap = cv2.VideoCapture(video_path)
+    if not cap.isOpened():
+        raise Exception(f'Could not open video at: {video_path}')
+
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     time_remaining_roi = None
 
@@ -175,6 +184,8 @@ def extract_roi_from_video(video_path: str):
                         best_roi = row[2:].to(torch.int)
             if time_remaining_roi is not None:
                 break
+    cap.release()
+
     return best_roi
 
 
