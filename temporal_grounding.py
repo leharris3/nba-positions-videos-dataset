@@ -19,7 +19,7 @@ from post_processing import *
 
 warnings.filterwarnings("ignore")
 MAX_WORKERS = 1
-TIMEOUT = 8 * 60 # 8 minute timeout
+TIMEOUT = 60 * 60 # 8 minute timeout
 
 def process_video(video_title: str, video_dir: str, data_dir: str, viz_dir):
     """
@@ -72,13 +72,16 @@ def process_dir(dir_path: str, data_out_path: str, viz_out_path=None, preprocess
 
     vids = [vid for vid in vids if vid not in preprocessed_set]
     for vid in vids:
-        process_video(
-            vid,
-            dir_path,
-            data_out_path,
-            viz_out_path
-        )
-    pass
+        try:
+            process_video(
+                vid,
+                dir_path,
+                data_out_path,
+                viz_out_path
+            )
+        except:
+            print(f'Could not process video: {vid}.')
+            pass
 
 
 def extract_timestamps_from_video(video_path: str, save_path: str) -> None:
