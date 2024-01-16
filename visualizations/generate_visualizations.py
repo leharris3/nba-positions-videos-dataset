@@ -4,8 +4,7 @@ from datascience import *
 
 videos_dir = r"/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/game-replays/720"
 timestamps_dir = r"/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/timestamps/post-processed"
-
-# TODO: match quarters
+viz_dir = r'/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/timestamp-visualizations'
 
 timestamps_paths = {}
 game_ids = []
@@ -36,17 +35,16 @@ for vid in videos:
     game_ids.append(game_id)
     video_paths.append(fp)
 
+# table of 100 random timestamp video pairs
 table = Table().with_columns(
     'game_id', game_ids,
     'video_path', video_paths,
     'timestamps_path', timestamp_paths
 )
-table.where('timestamps_path', are.not_equal_to('')).sort('game_id')
+table.where('timestamps_path', are.not_equal_to('')).sort('game_id').shuffle().take(100)\
 
-viz_dir = '/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/timestamp-visualizations'
-
+# generate some viz
 for row in table.rows:
-
     try:
         video_path = row[1]
         timestamp_path = row[2]

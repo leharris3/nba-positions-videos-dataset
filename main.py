@@ -1,7 +1,7 @@
 import os
 import time
 from temporal_grounding import *
-from viz import *
+from visualizations.viz import *
 import argparse
 
 vids_dir = r"/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/game-replays/720"

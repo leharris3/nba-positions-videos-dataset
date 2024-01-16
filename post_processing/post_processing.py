@@ -47,9 +47,14 @@ def update_timestamps(timestamps, time_remaining):
     return timestamps
 
 
-def get_time_remaining_from_timestamps_fp(fp):
+def get_timestamps_from_fp(fp):
     with open(fp, 'r') as f:
         timestamps = json.load(f)
+    return timestamps
+
+
+def get_time_remaining_from_timestamps_fp(fp):
+    timestamps = get_timestamps_from_fp(fp)
     return get_time_remaining_from_timestamps(timestamps)
 
 
@@ -57,7 +62,7 @@ def get_time_remaining_from_timestamps(timestamps):
     return np.array([v['time_remaining'] if v['time_remaining'] is not None else 0 for v in timestamps.values()])
 
 
-def post_process_timestmaps(timestamps):
+def post_process_timestamps(timestamps):
 
     timestamps = timestamps.copy()
 
@@ -111,7 +116,7 @@ def post_process_timestmaps(timestamps):
         # remove values that deviate too far from expected values
         time_remaining = np.array(time_remaining)
         time_remaining_og = time_remaining.copy()
-        expected = np.linspace(0, 720, len(time_remaining), endpoint=False)[::-1]
+        expected = np.linspace(100, 720, len(time_remaining), endpoint=False)[::-1]
         norm_expected_diff = normalize(np.abs(expected - time_remaining_og))
         remove_indices = (norm_expected_diff > 0.5).astype(int)
         update_time_remaining(remove_indices, time_remaining)
@@ -141,16 +146,31 @@ def post_process_timestmaps(timestamps):
         update_time_remaining(remove_indices, time_remaining)
         return time_remaining
     
+    def remove_delta_zero(a, b):
+        if len(a) != len(b):
+            raise ValueError("The arrays 'a' and 'b' must be of equal length.")
+        # Iterate through the arrays
+        for i in range(len(a)):
+            if b[i] == 0:
+                a[i] = None
+        return a
+
     time_remaining = get_time_remaining_from_timestamps(timestamps)
     extended_time_remaining = extend_timestamps(time_remaining)
     denoised_time_remaining = denoise_time_remaining(extended_time_remaining)
     interpolated_time_remaining = interpolate(denoised_time_remaining)
+
+    # remove values where delta = 0
+    delta_time_remaining = np.gradient(interpolated_time_remaining)
+    remove_delta_zero(interpolated_time_remaining, delta_time_remaining)
 
     timestamps = update_timestamps(
         timestamps=timestamps,
         time_remaining=interpolated_time_remaining
     )
     return timestamps
+
+
 
 
 def map_frames_to_moments(data, moments_data):
@@ -187,7 +207,6 @@ def map_frames_to_moments(data, moments_data):
         if quarter_time_key:
             total_frames += 1
             quarter, time_remaining = map(float, quarter_time_key.split('_'))
-
             match_found = False
             if quarter in moments_dict:
                 closest_time = None
@@ -197,12 +216,15 @@ def map_frames_to_moments(data, moments_data):
                     if difference < min_difference:
                         min_difference = difference
                         closest_time = moment_time
-
-                if is_close(time_remaining, closest_time):
-                    frames_matched += 1
-                    match_found = True
-                    moment_key = f"{int(quarter)}_{closest_time}"
-                    frames_moments_map[frame_id] = moments_data[moment_key]
+                # shitty hack
+                try:
+                    if is_close(time_remaining, closest_time):
+                        frames_matched += 1
+                        match_found = True
+                        moment_key = f"{int(quarter)}_{closest_time}"
+                        frames_moments_map[frame_id] = moments_data[moment_key]
+                except:
+                    pass
             if not match_found:
                 frames_moments_map[frame_id] = None
         else:
