@@ -171,8 +171,6 @@ def post_process_timestamps(timestamps):
     return timestamps
 
 
-
-
 def map_frames_to_moments(data, moments_data):
     """
     Maps frames in 'data' to their corresponding moments in 'moments_data' based on time proximity.
