@@ -4,6 +4,8 @@ import torch
 import os
 import concurrent
 import logging
+import numpy as np
+import torchvision.transforms as transforms
 
 from tqdm import tqdm
 from PIL import Image
@@ -11,14 +13,19 @@ from transformers import logging
 
 from utils.constants import QUARTER_KEY, TIME_REMAINING_KEY, PAD, BREAK, CONF_THRESH
 from ocr.tr_ocr import extract_time_remaining_from_images_tr
+from ocr.paddle import extract_time_remaining_from_image_paddle
+from ocr.minicpm import extract_time_remaining_from_images_minicpm
 from ocr.helpers import convert_time_to_float
-from ocr.models import TrOCRModel, YOLOModel
+from ocr.models import TrOCRModel, YOLOModel, PaddleModel, MiniCPMModel
+
 
 logging.set_verbosity_error()
 
 MAX_GPUS = 8
 ROI_STEP = 5
-TIME_REMAINING_STEP = 1
+TIME_REMAINING_STEP = 30
+
+ROI_MODELS = {}
 MODELS = {}
 
 
@@ -29,10 +36,11 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
     """
 
     assert os.path.isdir(dir_path), f"Error: bad path to video directory: {dir_path}"
-    os.makedirs(data_out_path, exist_ok=True)
-    if viz_out_path is not None:
-        assert type(viz_out_path) is str, "Error: path links must be of type str."
-        os.makedirs(viz_out_path, exist_ok=True)
+
+    # os.makedirs(data_out_path, exist_ok=True)
+    # if viz_out_path is not None:
+    #     assert type(viz_out_path) is str, "Error: path links must be of type str."
+    #     os.makedirs(viz_out_path, exist_ok=True)
 
     valid_formats = ["avi", "mp4"]
     vids = os.listdir(dir_path)
@@ -87,10 +95,13 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
     # print(f"Extracting timestamps for video at {video_path} \n")
     tr_x1, tr_y1, tr_x2, tr_y2 = None, None, None, None
 
-    # TODO: All roi's extracted on device = 0
-    yolo_model = YOLOModel(device=device)
-    time_remaining_roi = extract_roi_from_video(video_path, yolo_model)
+    # create YOLO model
+    if str(device) not in ROI_MODELS:
+        model = YOLOModel(device=device)
+        ROI_MODELS[str(device)] = model
+    yolo_model = ROI_MODELS[str(device)]
 
+    time_remaining_roi = extract_roi_from_video(video_path, yolo_model, device=device)
     if time_remaining_roi is not None:
         tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
     cap = cv2.VideoCapture(video_path)
@@ -99,14 +110,41 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
     quarter = video_path[-5]  # period_x.mp4
     step = TIME_REMAINING_STEP
 
+    # create OCR model
     if str(device) not in MODELS:
-        model = TrOCRModel(device=device)
+        model = MiniCPMModel(device=device)
         MODELS[str(device)] = model
     model = MODELS[str(device)]
 
+    # for frame_index in range(frames_cnt):
+    #     ret, frame = cap.read()
+    #     if not ret:
+    #         break
+    #     time_remaining_img = None
+    #     time_remaining = None
+    #     if frame_index % step == 0:
+    #         if time_remaining_roi is not None:
+    #             assert tr_x1 and tr_y1 and tr_x2 and tr_y2
+    #             time_remaining_img = frame[
+    #                 tr_y1 - PAD : tr_y2 + 2 * PAD, tr_x1 - PAD : tr_x2 + 2 * PAD
+    #             ]
+    #         if time_remaining_img is not None:
+    #             time_remaining = ex(
+    #                 Image.fromarray(time_remaining_img),
+    #                 model=model,
+    #             )
+    #             time_remaining = convert_time_to_float(time_remaining)
+    #     timestamps[str(frame_index)] = {
+    #         "quarter": quarter,
+    #         "time_remaining": time_remaining,
+    #     }
+    #     if frame_index == BREAK:
+    #         break
+
+    ## BATCH IMG PROCESSING ##
+
     images = []
     frame_indices = []
-
     for frame_index in range(frames_cnt):
         ret, frame = cap.read()
         if not ret:
@@ -124,7 +162,7 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
             break
 
     if images:
-        time_remaining_list = extract_time_remaining_from_images_tr(
+        time_remaining_list = extract_time_remaining_from_images_minicpm(
             images, model=model, device=device
         )
         for idx, frame_index in enumerate(frame_indices):
@@ -137,7 +175,7 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
     return video_path, timestamps
 
 
-def extract_roi_from_video(video_path: str, model: YOLOModel):
+def extract_roi_from_video(video_path: str, model: YOLOModel, device:int=0):
     """
     Find time-remaining roi from video. Assumes static, naive approach.
     Returns a tensor with format: [x1, y1, x2, y2] or None if no
@@ -158,6 +196,7 @@ def extract_roi_from_video(video_path: str, model: YOLOModel):
 
     for i in range(frames_cnt):
         ret, frame = cap.read()
+        
         if not ret:
             break
         if i % step == 0:

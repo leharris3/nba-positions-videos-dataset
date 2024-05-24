@@ -1,7 +1,10 @@
 import numpy as np
+
 from PIL import Image
 from typing import List
-from models import PaddleModel
+
+from ocr.models import PaddleModel
+from ocr.helpers import find_time_remaining_from_results
 
 
 def extract_text_with_paddle(image: Image.Image, model: PaddleModel) -> List[str]:
@@ -17,7 +20,6 @@ def extract_text_with_paddle(image: Image.Image, model: PaddleModel) -> List[str
     new_size = (int(image.width * scale_factor), int(image.height * scale_factor))
     image = image.resize(new_size)
     img_arr = np.array(image)
-
     # cv2.imwrite("preprocessed_img.png", img_arr)
     results = []
 
@@ -28,3 +30,15 @@ def extract_text_with_paddle(image: Image.Image, model: PaddleModel) -> List[str
         word = pred[0]
         results.append(word)
     return results
+
+
+def extract_time_remaining_from_image_paddle(image: Image.Image, model: PaddleModel):
+    """
+    Given a PIL Image object,
+    returns either a valid formatted time-remaining str (e.g., '11:30')
+    or None.
+    """
+    rgb_img = image.convert("RGB")
+    results = extract_text_with_paddle(rgb_img, model=model)
+    time_remaining = find_time_remaining_from_results(results)
+    return time_remaining

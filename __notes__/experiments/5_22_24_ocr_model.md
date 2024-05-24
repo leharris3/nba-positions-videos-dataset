@@ -9,15 +9,15 @@
 
 ### Dependecies
 
-| ROI Det Library |
-| :---: | :---: |
-| YOLO-V8 |
+| ROI Det Library | Step Size | `CONF_THRESH` |
+| :---: | :---: | :---: |
+| YOLO-V8 | 5 | 0.1 |
 
-#### YOLO-V8 Config
+#### OCR Config
 
 | Step Size | Threshold |
 | :---: | :---: |
-| 5 | **TODO** |
+| 1 | **TODO** |
 
 ---
 
@@ -27,7 +27,8 @@
 
 | ROI Pad | Time Remaining Avg. Mean Abs Error |
 | :---: | :---: | 
-| `PP-OCRv4` | --- |
+| `PP-OCRv4` | 3.018 |
 | `trocr-small-printed` | 3.687 |
 | `trocr-large-printed` | 3.557 |
 | `trocr-base-stage1` | 3.550 |
+| `MiniCPM-V-2` | --- |

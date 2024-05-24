@@ -2,8 +2,8 @@ import torch
 
 from typing import List
 from PIL import Image
-from models import TrOCRModel
-from parse_tr import find_time_remaining_from_results
+from ocr.models import TrOCRModel
+from ocr.helpers import find_time_remaining_from_results
 
 
 def extract_text_with_tr_ocr(

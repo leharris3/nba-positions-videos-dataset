@@ -8,6 +8,7 @@ def find_time_remaining_from_results(results: List[str]):
     Matches any string showing a valid time remaining of 20 minutes or less
     assumes brodcasts use MM:SS for times > 1 minute, and SS.S for times < 1 minute
     """
+
     if results is None:
         return None
     time_remaining_regex = r"(20:00)|(0[0-9]?:[0-9][0-9](\.[0-9])?)|([1-9]:[0-5][0-9])|(1[0-9]:[0-5][0-9](\.[0-9])?)|([0-9]\.[0-9])|([1-5][0-9]\.[0-9])"
