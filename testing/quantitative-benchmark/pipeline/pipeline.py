@@ -37,11 +37,6 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
 
     assert os.path.isdir(dir_path), f"Error: bad path to video directory: {dir_path}"
 
-    # os.makedirs(data_out_path, exist_ok=True)
-    # if viz_out_path is not None:
-    #     assert type(viz_out_path) is str, "Error: path links must be of type str."
-    #     os.makedirs(viz_out_path, exist_ok=True)
-
     valid_formats = ["avi", "mp4"]
     vids = os.listdir(dir_path)
     for vid in vids:
@@ -116,61 +111,30 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         MODELS[str(device)] = model
     model = MODELS[str(device)]
 
-    # for frame_index in range(frames_cnt):
-    #     ret, frame = cap.read()
-    #     if not ret:
-    #         break
-    #     time_remaining_img = None
-    #     time_remaining = None
-    #     if frame_index % step == 0:
-    #         if time_remaining_roi is not None:
-    #             assert tr_x1 and tr_y1 and tr_x2 and tr_y2
-    #             time_remaining_img = frame[
-    #                 tr_y1 - PAD : tr_y2 + 2 * PAD, tr_x1 - PAD : tr_x2 + 2 * PAD
-    #             ]
-    #         if time_remaining_img is not None:
-    #             time_remaining = ex(
-    #                 Image.fromarray(time_remaining_img),
-    #                 model=model,
-    #             )
-    #             time_remaining = convert_time_to_float(time_remaining)
-    #     timestamps[str(frame_index)] = {
-    #         "quarter": quarter,
-    #         "time_remaining": time_remaining,
-    #     }
-    #     if frame_index == BREAK:
-    #         break
-
-    ## BATCH IMG PROCESSING ##
-
-    images = []
-    frame_indices = []
     for frame_index in range(frames_cnt):
         ret, frame = cap.read()
         if not ret:
             break
+        time_remaining_img = None
+        time_remaining = None
         if frame_index % step == 0:
             if time_remaining_roi is not None:
                 assert tr_x1 and tr_y1 and tr_x2 and tr_y2
                 time_remaining_img = frame[
                     tr_y1 - PAD : tr_y2 + 2 * PAD, tr_x1 - PAD : tr_x2 + 2 * PAD
                 ]
-                if time_remaining_img is not None:
-                    images.append(Image.fromarray(time_remaining_img))
-                    frame_indices.append(frame_index)
+            if time_remaining_img is not None:
+                time_remaining = extract_time_remaining_from_image_paddle(
+                    Image.fromarray(time_remaining_img),
+                    model=model,
+                )
+                time_remaining = convert_time_to_float(time_remaining)
+        timestamps[str(frame_index)] = {
+            "quarter": quarter,
+            "time_remaining": time_remaining,
+        }
         if frame_index == BREAK:
             break
-
-    if images:
-        time_remaining_list = extract_time_remaining_from_images_minicpm(
-            images, model=model, device=device
-        )
-        for idx, frame_index in enumerate(frame_indices):
-            time_remaining = convert_time_to_float(time_remaining_list[idx])
-            timestamps[str(frame_index)] = {
-                "quarter": quarter,
-                "time_remaining": time_remaining,
-            }
 
     return video_path, timestamps
 
