@@ -40,6 +40,28 @@ def extend_timestamps(timestamps):
             timestamps[key]["time_remaining"] = last_time
 
 
+def interpolate_time_remaining(time_remaining):
+
+    fps = 30
+    multiplier = 0
+    decreasing = False
+    for i in range(len(time_remaining) - 1):
+        current, next_value = time_remaining[i], time_remaining[i + 1]
+        if current == None or next_value == None:
+            continue
+        peak_value = time_remaining[min(i + fps, len(time_remaining) - 1)]
+        if current == 0:
+            continue
+        decreasing = peak_value < current
+        if decreasing:
+            if multiplier > 30:
+                multiplier, decreasing = 0, False
+                continue
+            time_remaining[i] -= round((1 / 30) * multiplier, 2)
+            multiplier = 0 if next_value < current else multiplier + 1
+    return time_remaining
+
+
 def post_process_timestamps(timestamps):
 
     timestamps = timestamps.copy()

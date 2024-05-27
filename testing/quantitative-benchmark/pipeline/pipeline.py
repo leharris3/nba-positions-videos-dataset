@@ -1,33 +1,30 @@
+import time
 import concurrent.futures
 import cv2
 import torch
 import os
 import concurrent
 import logging
-import numpy as np
-import torchvision.transforms as transforms
+import subprocess
+import threading
+import shutil
 
 from tqdm import tqdm
 from PIL import Image
 from transformers import logging
 
 from utils.constants import QUARTER_KEY, TIME_REMAINING_KEY, PAD, BREAK, CONF_THRESH
-from ocr.tr_ocr import extract_time_remaining_from_images_tr
-from ocr.paddle import extract_time_remaining_from_image_paddle
-from ocr.minicpm import extract_time_remaining_from_images_minicpm
-from ocr.helpers import convert_time_to_float
-from ocr.models import TrOCRModel, YOLOModel, PaddleModel, MiniCPMModel
-
+from ocr.helpers import convert_time_to_float, find_time_remaining_from_results
+from ocr.models import YOLOModel
 
 logging.set_verbosity_error()
 
 MAX_GPUS = 8
-ROI_STEP = 5
-TIME_REMAINING_STEP = 30
+ROI_STEP = 15
+TIME_REMAINING_STEP = 1
 
 ROI_MODELS = {}
 MODELS = {}
-
 
 def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
     """
@@ -45,7 +42,7 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
             vids.remove(vid)
 
     timestamps = {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_GPUS) as executor:
+    with concurrent.futures.ProcessPoolExecutor(max_workers=MAX_GPUS) as executor:
         with tqdm(total=len(vids), desc="Processing Videos") as pbar:
             while len(vids) > 0:
                 processes = []
@@ -63,8 +60,8 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
                     process = executor.submit(
                         extract_timestamps_from_video,
                         video_path,
-                        # data_path,
                         device=device,
+                        # data_path,
                     )
                     processes.append(process)
                     video_paths.append(video_path)
@@ -87,10 +84,9 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
 
     assert os.path.exists(video_path)
 
-    # print(f"Extracting timestamps for video at {video_path} \n")
     tr_x1, tr_y1, tr_x2, tr_y2 = None, None, None, None
 
-    # create YOLO model
+    # create ROT det. model
     if str(device) not in ROI_MODELS:
         model = YOLOModel(device=device)
         ROI_MODELS[str(device)] = model
@@ -99,41 +95,78 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
     time_remaining_roi = extract_roi_from_video(video_path, yolo_model, device=device)
     if time_remaining_roi is not None:
         tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
-    cap = cv2.VideoCapture(video_path)
-    frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     timestamps = {}
     quarter = video_path[-5]  # period_x.mp4
-    step = TIME_REMAINING_STEP
 
-    # create OCR model
-    if str(device) not in MODELS:
-        model = MiniCPMModel(device=device)
-        MODELS[str(device)] = model
-    model = MODELS[str(device)]
+    temp_name = f"temp_{os.path.basename(video_path)}"
+    os.mkdir(temp_name)
+    temp_dir_path = os.path.join(os.getcwd(), temp_name)
 
-    for frame_index in range(frames_cnt):
-        ret, frame = cap.read()
-        if not ret:
-            break
-        time_remaining_img = None
-        time_remaining = None
-        if frame_index % step == 0:
-            if time_remaining_roi is not None:
-                assert tr_x1 and tr_y1 and tr_x2 and tr_y2
-                time_remaining_img = frame[
-                    tr_y1 - PAD : tr_y2 + 2 * PAD, tr_x1 - PAD : tr_x2 + 2 * PAD
-                ]
-            if time_remaining_img is not None:
-                time_remaining = extract_time_remaining_from_image_paddle(
-                    Image.fromarray(time_remaining_img),
-                    model=model,
-                )
-                time_remaining = convert_time_to_float(time_remaining)
-        timestamps[str(frame_index)] = {
+    def save_frame(frame, path):
+        cv2.imwrite(path, frame)
+
+    def save_all_images(vid_path: str, dst_dir: str):
+        if not os.path.exists(dst_dir):
+            os.makedirs(dst_dir)
+        
+        cap = cv2.VideoCapture(vid_path)
+        if not cap.isOpened():
+            print(f"Error opening video file: {vid_path}")
+            return
+        
+        frame_number = 0
+        threads = []
+        
+        while True:
+            ret, frame = cap.read()
+            if not ret:
+                break
+            frame = frame[tr_y1:tr_y2, tr_x1:tr_x2]
+            frame_filename = os.path.join(dst_dir, f"{frame_number:05d}.png")
+            thread = threading.Thread(target=save_frame, args=(frame, frame_filename))
+            threads.append(thread)
+            thread.start()
+            
+            frame_number += 1
+        
+        for thread in threads:
+            thread.join()
+        
+        cap.release()
+        # print(f"Saved {frame_number} frames to {dst_dir}")
+
+    # save all frames to a temp dir
+    save_all_images(video_path, temp_dir_path)
+
+    paddle_dir = "/playpen-storage/levlevi/nba-positions-videos-dataset/testing/quantitative-benchmark/pipeline/PaddleOCR"
+    os.chdir(paddle_dir)
+
+    # batch infer w/ paddel
+    predict_command = [
+        "python3", "tools/infer/predict_rec.py",
+        f"--image_dir={temp_dir_path}",
+        "--rec_model_dir=./en_PP-OCRv4_rec_infer/",
+        "--rec_char_dict_path=ppocr/utils/en_dict.txt"
+    ]
+
+    result = subprocess.run(predict_command, capture_output=True, text=True)
+
+    shutil.rmtree(temp_dir_path)
+
+    output = result.stdout
+    output_arr = output.split(":('")
+    preds = [x.split('\n[')[0].replace(")", "").replace("'", "").split(", ") for x in output_arr][1:]
+
+    for frame_idx, pred in enumerate(preds):
+        time_remaining, conf = pred[0], pred[1]
+        time_remaining = find_time_remaining_from_results([time_remaining])
+        time_remaining = convert_time_to_float(time_remaining)
+        timestamps[str(frame_idx)] = {
             "quarter": quarter,
             "time_remaining": time_remaining,
+            "conf": conf
         }
-        if frame_index == BREAK:
+        if frame_idx == BREAK:
             break
 
     return video_path, timestamps
@@ -147,9 +180,7 @@ def extract_roi_from_video(video_path: str, model: YOLOModel, device:int=0):
     """
 
     assert os.path.isfile(video_path), f"Error: bad path to video {video_path}."
-    # assert video_path[-4:] == '.mp4'
-
-    # print(f"Finding time-remaining ROI for video at {video_path}")
+    
     cap = cv2.VideoCapture(video_path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     time_remaining_roi = None
@@ -158,6 +189,8 @@ def extract_roi_from_video(video_path: str, model: YOLOModel, device:int=0):
     best_roi = None
     step = ROI_STEP
 
+    # TODO: batch process ROIs
+    start = time.time()
     for i in range(frames_cnt):
         ret, frame = cap.read()
         
@@ -188,4 +221,6 @@ def extract_roi_from_video(video_path: str, model: YOLOModel, device:int=0):
                         best_roi = row[2:].to(torch.int)
             if time_remaining_roi is not None:
                 break
+    end = time.time()
+    # print(f"ROI extraction time: {end - start}")
     return best_roi

@@ -25,6 +25,7 @@ def extract_text_with_paddle(image: Image.Image, model: PaddleModel) -> List[str
 
     # pred w/ paddleocr
     raw_result = model.model(img_arr)
+
     text_arr = raw_result[1]
     for pred in text_arr:
         word = pred[0]
