@@ -6,22 +6,20 @@ import os
 import concurrent
 import logging
 import subprocess
-import threading
 import shutil
 
 from tqdm import tqdm
-from PIL import Image
 from transformers import logging
 
-from utils.constants import QUARTER_KEY, TIME_REMAINING_KEY, PAD, BREAK, CONF_THRESH
+from utils.constants import QUARTER_KEY, TIME_REMAINING_KEY, BREAK, CONF_THRESH
 from ocr.helpers import convert_time_to_float, find_time_remaining_from_results
 from ocr.models import YOLOModel
 
 logging.set_verbosity_error()
 
 MAX_GPUS = 8
-ROI_STEP = 15
-TIME_REMAINING_STEP = 1
+ROI_STEP = 5
+TIME_REMAINING_STEP = 5
 
 ROI_MODELS = {}
 MODELS = {}
@@ -36,10 +34,19 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
 
     valid_formats = ["avi", "mp4"]
     vids = os.listdir(dir_path)
+    vids.sort()
+
+    mp4_vids = []
     for vid in vids:
-        extension = vid.split(".")[1]
-        if extension not in valid_formats:
-            vids.remove(vid)
+        for format in valid_formats:
+            if vid.endswith(format):
+                mp4_vids.append(vid)
+                break
+
+    vids = mp4_vids
+
+    # NBA video idxs.
+    vids = vids[0: 2648]
 
     timestamps = {}
     with concurrent.futures.ProcessPoolExecutor(max_workers=MAX_GPUS) as executor:
@@ -52,16 +59,10 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
                         break
                     video_path = os.path.join(dir_path, vids[0])
 
-                    # data_path = os.path.join(
-                    #     data_out_path,
-                    #     vids[0].replace(".mp4", ".json").replace(".avi", ".json"),
-                    # )
-
                     process = executor.submit(
                         extract_timestamps_from_video,
                         video_path,
                         device=device,
-                        # data_path,
                     )
                     processes.append(process)
                     video_paths.append(video_path)
@@ -83,7 +84,6 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
     """
 
     assert os.path.exists(video_path)
-
     tr_x1, tr_y1, tr_x2, tr_y2 = None, None, None, None
 
     # create ROT det. model
@@ -102,8 +102,13 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
     os.mkdir(temp_name)
     temp_dir_path = os.path.join(os.getcwd(), temp_name)
 
-    def save_frame(frame, path):
-        cv2.imwrite(path, frame)
+    def save_frame(image, path):
+        original_height, original_width = image.shape[:2]
+        new_height = 100
+        aspect_ratio = original_width / original_height
+        new_width = int(new_height * aspect_ratio)
+        resized_image = cv2.resize(image, (new_width, new_height))
+        cv2.imwrite(path, resized_image)
 
     def save_all_images(vid_path: str, dst_dir: str):
         if not os.path.exists(dst_dir):
@@ -115,22 +120,20 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
             return
         
         frame_number = 0
-        threads = []
-        
-        while True:
-            ret, frame = cap.read()
-            if not ret:
-                break
-            frame = frame[tr_y1:tr_y2, tr_x1:tr_x2]
-            frame_filename = os.path.join(dst_dir, f"{frame_number:05d}.png")
-            thread = threading.Thread(target=save_frame, args=(frame, frame_filename))
-            threads.append(thread)
-            thread.start()
-            
-            frame_number += 1
-        
-        for thread in threads:
-            thread.join()
+        frame_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
+            while frame_number < frame_cnt:
+                ret, frame = cap.read()
+                if frame_number % TIME_REMAINING_STEP != 0:
+                    frame_number += 1
+                    continue
+                if not ret:
+                    break
+                frame = frame[tr_y1:tr_y2, tr_x1:tr_x2]
+                frame_filename = os.path.join(dst_dir, f"{frame_number:05d}.png")
+                executor.submit(save_frame, frame, frame_filename)
+                frame_number += 1
         
         cap.release()
         # print(f"Saved {frame_number} frames to {dst_dir}")
@@ -146,16 +149,39 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         "python3", "tools/infer/predict_rec.py",
         f"--image_dir={temp_dir_path}",
         "--rec_model_dir=./en_PP-OCRv4_rec_infer/",
-        "--rec_char_dict_path=ppocr/utils/en_dict.txt"
+        "--rec_char_dict_path=ppocr/utils/en_dict.txt",
+        "--use_gpu=True",
     ]
 
     result = subprocess.run(predict_command, capture_output=True, text=True)
-
     shutil.rmtree(temp_dir_path)
 
     output = result.stdout
     output_arr = output.split(":('")
     preds = [x.split('\n[')[0].replace(")", "").replace("'", "").split(", ") for x in output_arr][1:]
+
+    def interpolate_missing_frames(preds):
+
+        preds = preds.copy()
+        preds_extended = []
+        last = None
+
+        i = 0
+        for curr in preds:
+            curr = preds[i]
+            if i % TIME_REMAINING_STEP == 0:
+                last = [curr]
+                preds_extended.append(curr)
+                i += 1
+                continue
+            else:
+                # print(last * (ROI_STEP - 1))
+                for item in last * (ROI_STEP):
+                    preds_extended.append(item)
+
+        return preds_extended
+
+    preds = interpolate_missing_frames(preds)
 
     for frame_idx, pred in enumerate(preds):
         time_remaining, conf = pred[0], pred[1]
