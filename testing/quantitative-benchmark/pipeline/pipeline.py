@@ -19,7 +19,7 @@ logging.set_verbosity_error()
 
 MAX_GPUS = 8
 ROI_STEP = 5
-TIME_REMAINING_STEP = 5
+TIME_REMAINING_STEP = 2
 
 ROI_MODELS = {}
 MODELS = {}
@@ -162,25 +162,32 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
 
     def interpolate_missing_frames(preds):
 
-        preds = preds.copy()
         preds_extended = []
-        last = None
+        preds = preds.copy()
+        last_frame = None
+        original_size = len(preds)
+        extended_size = TIME_REMAINING_STEP * original_size
 
-        i = 0
-        for curr in preds:
-            curr = preds[i]
-            if i % TIME_REMAINING_STEP == 0:
-                last = [curr]
-                preds_extended.append(curr)
+        i = 0  # index for preds
+        j = 0  # index for preds_extended
+
+        while j < extended_size:
+            if (j) % TIME_REMAINING_STEP == 0 and i < original_size:
+                # Read frame based on TIME_REMAINING_STEP condition
+                last_frame = preds[i]
+                preds_extended.append(last_frame)
                 i += 1
-                continue
             else:
-                # print(last * (ROI_STEP - 1))
-                for item in last * (ROI_STEP):
-                    preds_extended.append(item)
+                # Use the last read frame to fill unread frames
+                if last_frame is not None:
+                    preds_extended.append(last_frame)
+                else:
+                    # If no last_frame is available (initial case), append a placeholder or empty value
+                    preds_extended.append(None)  # Assuming None as a placeholder for unread frames
+            j += 1
 
         return preds_extended
-
+    
     preds = interpolate_missing_frames(preds)
 
     for frame_idx, pred in enumerate(preds):
