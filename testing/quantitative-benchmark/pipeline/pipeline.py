@@ -18,8 +18,8 @@ from ocr.models import YOLOModel
 logging.set_verbosity_error()
 
 MAX_GPUS = 8
-ROI_STEP = 5
-TIME_REMAINING_STEP = 2
+ROI_STEP = 30
+TIME_REMAINING_STEP = 3
 
 ROI_MODELS = {}
 MODELS = {}
@@ -49,7 +49,7 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
     vids = vids[0: 2648]
 
     timestamps = {}
-    with concurrent.futures.ProcessPoolExecutor(max_workers=MAX_GPUS) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_GPUS) as executor:
         with tqdm(total=len(vids), desc="Processing Videos") as pbar:
             while len(vids) > 0:
                 processes = []
@@ -104,7 +104,7 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
 
     def save_frame(image, path):
         original_height, original_width = image.shape[:2]
-        new_height = 100
+        new_height = 50
         aspect_ratio = original_width / original_height
         new_width = int(new_height * aspect_ratio)
         resized_image = cv2.resize(image, (new_width, new_height))
@@ -122,7 +122,7 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         frame_number = 0
         frame_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=16) as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=64) as executor:
             while frame_number < frame_cnt:
                 ret, frame = cap.read()
                 if frame_number % TIME_REMAINING_STEP != 0:
@@ -136,7 +136,6 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
                 frame_number += 1
         
         cap.release()
-        # print(f"Saved {frame_number} frames to {dst_dir}")
 
     # save all frames to a temp dir
     save_all_images(video_path, temp_dir_path)
