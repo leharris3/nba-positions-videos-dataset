@@ -53,4 +53,16 @@
 | Concurrent Type | Total Time (Seconds) | Mean Err (Seconds) | Mean Recall |
 | :---: | :---: | :---: | :---: |
 | Process Pool | 83.0 | 0.0815 | 0.998 |
-| **Thread Pool** | **46.0** | **0.0815** | **0.998** |
+| **Thread Pool** | **45.0** | **0.0815** | **0.998** |
+
+#### Queue Blocking
+
+| Queue Blocking Enabled | Total Time (Seconds) | Mean Err (Seconds) | Mean Recall |
+| :---: | :---: | :---: | :---: |
+| True | 45.0 | 0.0815 | 0.998 |
+| **False** | **41.0** | **0.0815** | **0.998** |
+
+#### Model Variants
+
+| Model Varient |
+| PaddleOCR-V4 En. |

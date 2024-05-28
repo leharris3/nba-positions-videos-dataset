@@ -10,6 +10,8 @@ import shutil
 
 from tqdm import tqdm
 from transformers import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from collections import deque
 
 from utils.constants import QUARTER_KEY, TIME_REMAINING_KEY, BREAK, CONF_THRESH
 from ocr.helpers import convert_time_to_float, find_time_remaining_from_results
@@ -19,6 +21,8 @@ logging.set_verbosity_error()
 
 MAX_GPUS = 8
 ROI_STEP = 30
+ROI_MAX_BATCH_SIZE = 1000
+
 TIME_REMAINING_STEP = 3
 
 ROI_MODELS = {}
@@ -49,31 +53,31 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
     vids = vids[0: 2648]
 
     timestamps = {}
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_GPUS) as executor:
-        with tqdm(total=len(vids), desc="Processing Videos") as pbar:
-            while len(vids) > 0:
-                processes = []
-                video_paths = []
-                for device in range(MAX_GPUS):
-                    if len(vids) == 0:
-                        break
-                    video_path = os.path.join(dir_path, vids[0])
 
-                    process = executor.submit(
-                        extract_timestamps_from_video,
-                        video_path,
-                        device=device,
-                    )
-                    processes.append(process)
-                    video_paths.append(video_path)
-                    vids.remove(vids[0])
-                for process, video_path in zip(
-                    concurrent.futures.as_completed(processes), video_paths
-                ):
-                    vp, ts = process.result()
+    with ThreadPoolExecutor(max_workers=MAX_GPUS) as executor:
+        with tqdm(total=len(vids), desc="Processing Videos") as pbar:
+            vid_queue = deque(vids)
+            future_to_video_path = {}
+
+            # Start initial batch of tasks
+            for _ in range(min(MAX_GPUS, len(vids))):
+                video_path = os.path.join(dir_path, vid_queue.popleft())
+                future = executor.submit(extract_timestamps_from_video, video_path, device=_)
+                future_to_video_path[future] = video_path
+
+            while future_to_video_path:
+                # Wait for the next future to complete
+                for future in as_completed(future_to_video_path):
+                    video_path = future_to_video_path.pop(future)
+                    vp, ts = future.result()
                     timestamps[vp] = ts
                     pbar.update(1)
-
+                    
+                    # Submit a new task if there are still videos left to process
+                    if vid_queue:
+                        video_path = os.path.join(dir_path, vid_queue.popleft())
+                        future = executor.submit(extract_timestamps_from_video, video_path, device=_)
+                        future_to_video_path[future] = video_path
     return timestamps
 
 
@@ -99,7 +103,8 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
     quarter = video_path[-5]  # period_x.mp4
 
     temp_name = f"temp_{os.path.basename(video_path)}"
-    os.mkdir(temp_name)
+    if not os.path.isdir(temp_name):
+        os.mkdir(temp_name)
     temp_dir_path = os.path.join(os.getcwd(), temp_name)
 
     def save_frame(image, path):
@@ -112,8 +117,8 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
 
     def save_all_images(vid_path: str, dst_dir: str):
         if not os.path.exists(dst_dir):
-            os.makedirs(dst_dir)
-        
+            os.makedirs(dst_dir, exist_ok=True)
+    
         cap = cv2.VideoCapture(vid_path)
         if not cap.isOpened():
             print(f"Error opening video file: {vid_path}")
@@ -121,19 +126,20 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         
         frame_number = 0
         frame_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-
-        with concurrent.futures.ThreadPoolExecutor(max_workers=64) as executor:
+        
+        max_workers = min(16, os.cpu_count())
+        with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = []
             while frame_number < frame_cnt:
                 ret, frame = cap.read()
-                if frame_number % TIME_REMAINING_STEP != 0:
-                    frame_number += 1
-                    continue
                 if not ret:
                     break
-                frame = frame[tr_y1:tr_y2, tr_x1:tr_x2]
-                frame_filename = os.path.join(dst_dir, f"{frame_number:05d}.png")
-                executor.submit(save_frame, frame, frame_filename)
+                if frame_number % TIME_REMAINING_STEP == 0:
+                    frame = frame[tr_y1:tr_y2, tr_x1:tr_x2]
+                    frame_filename = os.path.join(dst_dir, f"{frame_number:05d}.png")
+                    futures.append(executor.submit(save_frame, frame, frame_filename))
                 frame_number += 1
+            concurrent.futures.wait(futures)
         
         cap.release()
 
@@ -150,6 +156,7 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         "--rec_model_dir=./en_PP-OCRv4_rec_infer/",
         "--rec_char_dict_path=ppocr/utils/en_dict.txt",
         "--use_gpu=True",
+        # "--use_tensorrt=True",
     ]
 
     result = subprocess.run(predict_command, capture_output=True, text=True)
