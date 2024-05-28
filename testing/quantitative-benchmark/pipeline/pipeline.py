@@ -1,3 +1,4 @@
+import json
 import time
 import concurrent.futures
 import cv2
@@ -88,6 +89,11 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
     """
 
     assert os.path.exists(video_path)
+
+
+    timestamp_dir = "/playpen-storage/levlevi/nba-positions-videos-dataset/testing/quantitative-benchmark/data/nba-15-16-timestamps"
+    timestamp_out_path = os.path.join(timestamp_dir, f"{os.path.basename(video_path)}.json")
+
     tr_x1, tr_y1, tr_x2, tr_y2 = None, None, None, None
 
     # create ROT det. model
@@ -127,7 +133,7 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         frame_number = 0
         frame_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
         
-        max_workers = min(16, os.cpu_count())
+        max_workers = 64
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = []
             while frame_number < frame_cnt:
@@ -156,7 +162,7 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         "--rec_model_dir=./en_PP-OCRv4_rec_infer/",
         "--rec_char_dict_path=ppocr/utils/en_dict.txt",
         "--use_gpu=True",
-        # "--use_tensorrt=True",
+        # f"--device_id={device}"
     ]
 
     result = subprocess.run(predict_command, capture_output=True, text=True)
@@ -207,6 +213,9 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         }
         if frame_idx == BREAK:
             break
+
+    with open(timestamp_out_path, "w") as f:
+        json.dump(timestamps, f)
 
     return video_path, timestamps
 
