@@ -1,26 +1,25 @@
-import json
 import time
 import concurrent.futures
 import cv2
 import torch
 import os
 import concurrent
-import logging
 import subprocess
 import shutil
+import json
 
 from tqdm import tqdm
-from transformers import logging
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import as_completed
 from collections import deque
 
 from utils.constants import QUARTER_KEY, TIME_REMAINING_KEY, BREAK, CONF_THRESH
 from ocr.helpers import convert_time_to_float, find_time_remaining_from_results
 from ocr.models import YOLOModel
 
-logging.set_verbosity_error()
 
+MAX_THREADS = 8
 MAX_GPUS = 8
+
 ROI_STEP = 30
 ROI_MAX_BATCH_SIZE = 1000
 
@@ -54,16 +53,15 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
     vids = vids[0: 2648]
 
     timestamps = {}
-
-    with ThreadPoolExecutor(max_workers=MAX_GPUS) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
         with tqdm(total=len(vids), desc="Processing Videos") as pbar:
             vid_queue = deque(vids)
             future_to_video_path = {}
 
             # Start initial batch of tasks
-            for _ in range(min(MAX_GPUS, len(vids))):
+            for device in range(min(MAX_GPUS, len(vids))):
                 video_path = os.path.join(dir_path, vid_queue.popleft())
-                future = executor.submit(extract_timestamps_from_video, video_path, device=_)
+                future = executor.submit(extract_timestamps_from_video, video_path, device=device)
                 future_to_video_path[future] = video_path
 
             while future_to_video_path:
@@ -71,13 +69,16 @@ def process_dir(dir_path: str, data_out_path=None, viz_out_path=None):
                 for future in as_completed(future_to_video_path):
                     video_path = future_to_video_path.pop(future)
                     vp, ts = future.result()
-                    timestamps[vp] = ts
+                    if vp != None:
+                        timestamps[vp] = ts
+                    
+                    # update progress bar
                     pbar.update(1)
                     
                     # Submit a new task if there are still videos left to process
                     if vid_queue:
                         video_path = os.path.join(dir_path, vid_queue.popleft())
-                        future = executor.submit(extract_timestamps_from_video, video_path, device=_)
+                        future = executor.submit(extract_timestamps_from_video, video_path, device=device)
                         future_to_video_path[future] = video_path
     return timestamps
 
@@ -90,19 +91,20 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
 
     assert os.path.exists(video_path)
 
-
     timestamp_dir = "/playpen-storage/levlevi/nba-positions-videos-dataset/testing/quantitative-benchmark/data/nba-15-16-timestamps"
     timestamp_out_path = os.path.join(timestamp_dir, f"{os.path.basename(video_path)}.json")
-
-    tr_x1, tr_y1, tr_x2, tr_y2 = None, None, None, None
-
-    # create ROT det. model
+    if os.path.isfile(timestamp_out_path):
+        # print(f"Skipping {video_path}. Already processed.")
+        return None, None
+    
+    # create ROI det. model
     if str(device) not in ROI_MODELS:
         model = YOLOModel(device=device)
         ROI_MODELS[str(device)] = model
     yolo_model = ROI_MODELS[str(device)]
 
     time_remaining_roi = extract_roi_from_video(video_path, yolo_model, device=device)
+    tr_x1, tr_y1, tr_x2, tr_y2 = None, None, None, None
     if time_remaining_roi is not None:
         tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
     timestamps = {}
@@ -133,7 +135,7 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         frame_number = 0
         frame_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
         
-        max_workers = 64
+        max_workers = 8
         with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = []
             while frame_number < frame_cnt:
@@ -162,7 +164,10 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
         "--rec_model_dir=./en_PP-OCRv4_rec_infer/",
         "--rec_char_dict_path=ppocr/utils/en_dict.txt",
         "--use_gpu=True",
-        # f"--device_id={device}"
+        "--use_mp=True",
+        "--rec_batch_num=2056",
+        f"--gpu_id={device}",
+        "--gpu_mem=5000",
     ]
 
     result = subprocess.run(predict_command, capture_output=True, text=True)

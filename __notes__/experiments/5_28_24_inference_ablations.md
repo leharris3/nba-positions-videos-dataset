@@ -62,7 +62,3 @@
 | True | 45.0 | 0.0815 | 0.998 |
 | **False** | **41.0** | **0.0815** | **0.998** |
 
-#### Model Variants
-
-| Model Varient |
-| PaddleOCR-V4 En. |
