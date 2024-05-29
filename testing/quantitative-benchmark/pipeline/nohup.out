@@ -1,1 +1,15 @@
-Processing Videos:   0%|          | 0/2648 [00:00<?, ?it/s]Processing Videos:   0%|          | 0/2648 [00:00<?, ?it/s]
+Processing Videos:   0%|          | 0/2648 [00:00<?, ?it/s]Processing Videos:   0%|          | 0/2648 [00:00<?, ?it/s]Processing Videos:  19%|█▉        | 503/2648 [09:03<38:39,  1.08s/it]Processing Videos:  19%|█▉        | 504/2648 [10:26<46:50,  1.31s/it]Processing Videos:  19%|█▉        | 511/2648 [16:48<1:39:00,  2.78s/it]Processing Videos:  19%|█▉        | 512/2648 [17:09<1:42:34,  2.88s/it]Processing Videos:  19%|█▉        | 513/2648 [17:39<1:50:14,  3.10s/it]Processing Videos:  19%|█▉        | 514/2648 [17:59<1:56:59,  3.29s/it]Processing Videos:  19%|█▉        | 515/2648 [18:04<1:57:31,  3.31s/it]Processing Videos:  19%|█▉        | 516/2648 [18:22<2:08:54,  3.63s/it]Processing Videos:  20%|█▉        | 517/2648 [18:50<2:35:03,  4.37s/it]Processing Videos:  20%|█▉        | 518/2648 [18:57<2:39:02,  4.48s/it]Processing Videos:  20%|█▉        | 519/2648 [22:42<9:59:46, 16.90s/it]Processing Videos:  20%|█▉        | 520/2648 [24:47<14:42:52, 24.89s/it]Processing Videos:  20%|█▉        | 523/2648 [25:19<12:41:41, 21.51s/it]Processing Videos:  20%|█▉        | 524/2648 [26:15<14:46:09, 25.03s/it]Processing Videos:  20%|█▉        | 525/2648 [26:32<14:08:57, 23.99s/it]Processing Videos:  20%|█▉        | 526/2648 [26:41<12:43:59, 21.60s/it]
+
+--------------------------------------
+C++ Traceback (most recent call last):
+--------------------------------------
+No stack trace in paddle, may be caused by external reasons.
+
+----------------------
+Error Message Summary:
+----------------------
+FatalError: `Termination signal` is detected by the operating system.
+  [TimeInfo: *** Aborted at 1717000453 (unix time) try "date -d @1717000453" if you are using GNU date ***]
+  [SignalInfo: *** SIGTERM (@0x5190e0001c5d3) received by PID 161871 (TID 0x7f917255b740) from PID 116179 ***]
+
+Processing Videos:  20%|█▉        | 527/2648 [28:58<25:04:30, 42.56s/it]Processing Videos:  20%|█▉        | 528/2648 [31:30<38:19:43, 65.09s/it]Processing Videos:  20%|██        | 530/2648 [32:26<30:14:05, 51.39s/it]Processing Videos:  20%|██        | 531/2648 [32:43<26:02:06, 44.27s/it]Processing Videos:  20%|██        | 532/2648 [32:46<20:23:47, 34.70s/it]Processing Videos:  20%|██        | 533/2648 [33:58<25:44:59, 43.83s/it]Processing Videos:  20%|██        | 534/2648 [34:55<27:50:05, 47.40s/it]Processing Videos:  20%|██        | 535/2648 [35:04<21:36:46, 36.82s/it]Processing Videos:  20%|██        | 536/2648 [39:37<60:24:27, 102.97s/it]Processing Videos:  20%|██        | 539/2648 [39:47<28:28:11, 48.60s/it] Processing Videos:  20%|██        | 540/2648 [39:50<22:58:06, 39.23s/it]
