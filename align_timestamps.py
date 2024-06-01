@@ -1,73 +1,113 @@
-import os
 import json
-import yaml
+import pandas as pd
+from pathlib import Path
+from post_processing.post_processing import get_unique_moments_from_statvu, map_frames_to_moments
+import logging
+from concurrent.futures import ProcessPoolExecutor, as_completed
+from tqdm import tqdm
 
-from datascience import *
-from post_processing.post_processing import *
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-timestamps_dir = r"/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/timestamps/post-processed"
-statvu_dir = r"/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/statvu-game-logs/"
-out_dir = r"/Users/leviharris/Library/CloudStorage/GoogleDrive-leviharris555@gmail.com/Other computers/mac_new/NBA_HUDL_data/nba-plus-statvu-dataset/2d-player-positions"
+def define_paths():
+    """Define and return the paths for the directories."""
+    timestamps_dir = Path("/playpen-storage/levlevi/nba-positions-videos-dataset/testing/quantitative-benchmark/data/nba-15-16-timestamps-post-processed")
+    statvu_dir = Path("/mnt/sun/levlevi/nba-plus-statvu-dataset/statvu-game-logs")
+    out_dir = Path("/mnt/sun/levlevi/nba-plus-statvu-dataset/2d-player-positions")
+    
+    assert timestamps_dir.exists() and timestamps_dir.is_dir(), f"Directory not found: {timestamps_dir}"
+    assert statvu_dir.exists() and statvu_dir.is_dir(), f"Directory not found: {statvu_dir}"
+    assert out_dir.exists() and out_dir.is_dir(), f"Directory not found: {out_dir}"
+    
+    return timestamps_dir, statvu_dir, out_dir
 
-statvu_paths = [os.path.join(statvu_dir, f) for f in os.listdir(statvu_dir)]
-timestamps_paths = [os.path.join(timestamps_dir, f) for f in os.listdir(timestamps_dir)]
-statvu_matched_paths = []  # paths to all statvu files with a matching timestamp file
+def load_data(timestamps_dir, statvu_dir):
+    """Load data from the given directories and return the file paths."""
+    statvu_paths = list(statvu_dir.glob('*'))
+    timestamps_paths = list(timestamps_dir.glob('*'))
+    
+    assert len(statvu_paths) > 0, f"No files found in directory: {statvu_dir}"
+    assert len(timestamps_paths) > 0, f"No files found in directory: {timestamps_dir}"
+    
+    timestamp_ids = {fp.stem.split("_")[0]: fp for fp in timestamps_paths}
+    return statvu_paths, timestamp_ids
 
-# find all statvu files with a matching timestamp path
-found = False
-for fp in timestamps_paths:
-    id = fp.split("/")[12].split("_")[0]
+
+def match_paths(statvu_paths, timestamp_ids):
+    """
+    Match statvu paths with timestamp paths based on file stem ids.
+    
+    Parameters:
+        statvu_paths (list): List of statvu paths.
+        timestamp_ids (dict): Dictionary of timestamp ids and their corresponding paths.
+    
+    Returns:
+        pd.DataFrame: DataFrame containing matched timestamp and statvu paths.
+    """
+
+    statvu_matched_paths = []
     for sv_path in statvu_paths:
-        if id in sv_path:
-            statvu_matched_paths.append(sv_path)
-            found = True
-            break
-    if not found:
-        statvu_matched_paths.append("")
-    found = False
+        if len(sv_path.suffix.split('.')) > 1:
+            game_id = sv_path.suffix.split('.')[1]
+            if game_id in timestamp_ids:
+                statvu_matched_paths.append(sv_path)
+    
+    matched_data = {
+        "timestamp_path": [timestamp_ids[sv_path.suffix.split('.')[1]] for sv_path in statvu_matched_paths],
+        "statvu_dir_path": statvu_matched_paths
+    }
+    
+    return pd.DataFrame(matched_data)
 
-path_map = (
-    Table()
-    .with_columns(
-        "timestamp_path", timestamps_paths, "statvu_dir_path", statvu_matched_paths
-    )
-    .where("statvu_dir_path", are.not_equal_to(""))
-)
 
-print(f"Processing {path_map.num_rows} files.")
-print(f"Eta: {20 * path_map.num_rows} seconds!")
-
-# generate mapped player position files to outdir
-for row in path_map.rows:
-    timestamp_path = row[0]
-    statvu_dir = row[1]
-    statvu_path = ""
-    # try:
-    # kind of dumb, each stavu file is kept in a one file dir, idk
-
+def process_file(row, out_dir):
+    """
+    Process a single file row and save the output to the specified directory.
+    
+    Parameters:
+        row (pd.Series): A row containing paths for timestamp and statvu directories.
+        out_dir (Path): The directory to save the processed file.
+    """
+    timestamp_path = Path(row['timestamp_path'])
+    statvu_dir_path = Path(row['statvu_dir_path'])
+    
+    assert timestamp_path.exists(), f"Timestamp file not found: {timestamp_path}"
+    assert statvu_dir_path.exists(), f"Statvu directory not found: {statvu_dir_path}"
+    
     try:
-        for f in os.listdir(statvu_dir):
-            f = f.decode()
-            if ".json" in f:
-                statvu_path = os.path.join(statvu_dir, f)
-                break
-        game_id = statvu_dir.split("/")[-1]
-        quarter = timestamp_path.split("/")[-1].split("_period")[-1][0]
-        new_name = game_id + "." + "Q" + quarter + "." + "2D-POS" + ".json"
-        new_path = os.path.join(out_dir, new_name)
-        moments = get_unique_moments_from_statvu(
-            statvu_path
-        )  # load in all raw player positions
-        # open timestamps
+        statvu_path = next(statvu_dir_path.glob("*.json"), None)
+        if not statvu_path:
+            logging.warning(f"No JSON file found in {statvu_dir_path}")
+            return
+        
+        game_id = statvu_dir_path.stem
+        quarter = timestamp_path.stem.split("_period")[-1][0]
+        new_name = f"{game_id}.Q{quarter}.2D-POS.json"
+        new_path = out_dir / new_name
+
+        moments = get_unique_moments_from_statvu(statvu_path)
+        
         with open(timestamp_path, "r") as f:
             timestamp_data = json.load(f)
-        # generate a player positions file
-        mapped_data = map_frames_to_moments(
-            timestamp_data,
-            moments,
-        )
-        # save player positions file
+        
+        mapped_data = map_frames_to_moments(timestamp_data, moments)
+        
         with open(new_path, "w") as f:
-            json.dump(mapped_data, f)
-    except:
-        print(f"error: could not process video at: {timestamp_path}")
+            json.dump(mapped_data, f, indent=4)
+    except Exception as e:
+        logging.error(f"Error: could not process video at {timestamp_path} due to {e}")
+
+
+def main():
+    timestamps_dir, statvu_dir, out_dir = define_paths()
+    statvu_paths, timestamp_ids = load_data(timestamps_dir, statvu_dir)
+    path_map = match_paths(statvu_paths, timestamp_ids)
+    
+    logging.info(f"Processing {len(path_map)} files.")
+    logging.info(f"Estimated time: {20 * len(path_map)} seconds!")
+
+    for _, row in tqdm(path_map.iterrows(), total=path_map.shape[0], desc="Processing files"):
+        process_file(row, out_dir)
+
+if __name__ == "__main__":
+    main()

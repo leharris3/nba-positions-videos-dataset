@@ -13,6 +13,8 @@ def find_time_remaining_from_results(results: List[str]):
         return None
     time_remaining_regex = r"(20:00)|(0[0-9]?:[0-9][0-9](\.[0-9])?)|([1-9]:[0-5][0-9])|(1[0-9]:[0-5][0-9](\.[0-9])?)|([0-9]\.[0-9])|([1-5][0-9]\.[0-9])"
     for result in results:
+        if result is None:
+            continue
         result = result.replace(" ", "")
         match = re.match(time_remaining_regex, result)
         if match is not None and match[0] == result:

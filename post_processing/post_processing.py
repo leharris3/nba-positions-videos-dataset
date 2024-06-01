@@ -1,6 +1,5 @@
 import json
-import tqdm
-import math
+import bisect
 import numpy as np
 
 def get_unique_moments_from_statvu(statvu_log_path):
@@ -26,7 +25,7 @@ def get_unique_moments_from_statvu(statvu_log_path):
             if moment_identifier not in unique_quarter_time_combinations:
                 player_positions = [
                     {'team_id': player_data[0], 'player_id': player_data[1], 
-                     'x_position': player_data[2], 'y_position': player_data[3], 'z_position': player_data[4]}
+                    'x_position': player_data[2], 'y_position': player_data[3], 'z_position': player_data[4]}
                     for player_data in positions
                 ]
                 processed_moments[moment_identifier] = {
@@ -39,7 +38,6 @@ def get_unique_moments_from_statvu(statvu_log_path):
                 unique_quarter_time_combinations.add(moment_identifier)
 
     return processed_moments
-
 
 def update_timestamps(timestamps, time_remaining):
     for k, v in enumerate(time_remaining):
@@ -185,48 +183,65 @@ def map_frames_to_moments(data, moments_data):
     dict: A dictionary mapping frame identifiers to corresponding moments in 'moments_data'.
     """
 
-    def is_close(time1, time2, tolerance=0.2 ):
-        """Check if two time values are within a given tolerance."""
-        return abs(time1 - time2) <= tolerance
-
-    frames_matched = 0
-    total_frames = 0
-    frames_moments_map = {}
-
+    # Pre-process moments_data into a dictionary with lists of times for each quarter
     moments_dict = {}
-    for moment_key in moments_data:
+    moments_values = {}
+    for moment_key, moment_value in moments_data.items():
         quarter, time_remaining = map(float, moment_key.split('_'))
+        quarter = str(int(quarter))
         if quarter not in moments_dict:
             moments_dict[quarter] = []
         moments_dict[quarter].append(time_remaining)
+        moments_values[(quarter, time_remaining)] = moment_value
 
-    for frame_id in tqdm.tqdm(data):
-        quarter_time_key = str(data[frame_id]['quarter']) + '_' + str(data[frame_id]['time_remaining']) if data[frame_id]['time_remaining'] != None else None
-        if quarter_time_key:
-            total_frames += 1
-            quarter, time_remaining = map(float, quarter_time_key.split('_'))
-            match_found = False
-            if quarter in moments_dict:
-                closest_time = None
-                min_difference = float('inf')
-                for moment_time in moments_dict[quarter]:
-                    difference = abs(time_remaining - moment_time)
-                    if difference < min_difference:
-                        min_difference = difference
-                        closest_time = moment_time
-                # shitty hack
-                try:
-                    if is_close(time_remaining, closest_time):
-                        frames_matched += 1
-                        match_found = True
-                        moment_key = f"{int(quarter)}_{closest_time}"
-                        frames_moments_map[frame_id] = moments_data[moment_key]
-                except:
-                    pass
-            if not match_found:
-                frames_moments_map[frame_id] = None
-        else:
+    # Sort the lists of times for each quarter to allow binary search
+    for quarter in moments_dict:
+        moments_dict[quarter].sort()
+
+    frames_moments_map = {}
+    frames_matched = 0
+    total_frames = 0
+
+    for frame_id, frame_data in data.items():
+        quarter = str(frame_data['quarter'])
+        time_remaining = frame_data.get('time_remaining')
+        conf = frame_data.get('conf')
+        moment = None
+
+        if time_remaining is None:
             frames_moments_map[frame_id] = None
+            continue
+        if quarter not in moments_dict:
+            raise ValueError(f"Invalid quarter: {quarter}")
 
-    print(frames_matched, '/', total_frames)
+        time_remaining = float(time_remaining)
+        total_frames += 1
+
+        moment_times = moments_dict[quarter]
+        pos = bisect.bisect_left(moment_times, time_remaining)
+
+        closest_time = None
+        min_difference = float('inf')
+
+        if pos < len(moment_times):
+            if abs(time_remaining - moment_times[pos]) < min_difference:
+                min_difference = abs(time_remaining - moment_times[pos])
+                closest_time = moment_times[pos]
+        if pos > 0:
+            if abs(time_remaining - moment_times[pos - 1]) < min_difference:
+                min_difference = abs(time_remaining - moment_times[pos - 1])
+                closest_time = moment_times[pos - 1]
+
+        if closest_time is not None:
+            frames_matched += 1
+            moment = moments_values[(quarter, closest_time)]
+
+        entry = {
+            'conf': conf,
+            'pred_time_remaining': time_remaining,
+            'pred_quarter': quarter,
+            'moment': moment
+        }
+        frames_moments_map[frame_id] = entry
+
     return frames_moments_map

@@ -12,11 +12,10 @@ def update_timestamps(timestamps, time_remaining):
 def get_time_remaining_from_timestamps(timestamps):
     return np.array(
         [
-            v["time_remaining"] if v["time_remaining"] is not None else 0
-            for v in timestamps.values()
+            timestamps[k]["time_remaining"] if timestamps[k]["time_remaining"] is not None else None
+            for k in timestamps
         ]
     )
-
 
 def extend_timestamps(timestamps):
     """
@@ -39,6 +38,8 @@ def extend_timestamps(timestamps):
         else:
             timestamps[key]["time_remaining"] = last_time
 
+    return timestamps
+
 
 def interpolate_time_remaining(time_remaining):
 
@@ -59,6 +60,7 @@ def interpolate_time_remaining(time_remaining):
                 continue
             time_remaining[i] -= round((1 / 30) * multiplier, 2)
             multiplier = 0 if next_value < current else multiplier + 1
+
     return time_remaining
 
 

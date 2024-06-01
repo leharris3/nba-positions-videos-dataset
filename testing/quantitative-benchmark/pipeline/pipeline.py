@@ -208,7 +208,10 @@ def extract_timestamps_from_video(video_path: str, device: int = 0):
     preds = interpolate_missing_frames(preds)
 
     for frame_idx, pred in enumerate(preds):
-        time_remaining, conf = pred[0], pred[1]
+        if pred == None or len(preds) != 2:
+            time_remaining, conf = None, None
+        else:
+            time_remaining, conf = pred[0], pred[1]
         time_remaining = find_time_remaining_from_results([time_remaining])
         time_remaining = convert_time_to_float(time_remaining)
         timestamps[str(frame_idx)] = {
