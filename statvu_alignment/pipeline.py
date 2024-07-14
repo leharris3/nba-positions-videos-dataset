@@ -13,9 +13,11 @@ from pathlib import Path
 from tqdm import tqdm
 from glob import glob
 from concurrent.futures import ThreadPoolExecutor, as_completed, ProcessPoolExecutor
+
 from utils._models import YOLOModel
 from utils.extract_roi import extract_roi_from_video
 from utils.extract_time_remaining import FlorenceModel, ocr
+from utils._grab_frames import video_to_frames
 
 logger = logging.getLogger(__name__)
 
@@ -103,15 +105,6 @@ def extract_timestamps_from_video(config: Dict, video_path: Path) -> Optional[Di
     return results
 
 
-# TODO: unacceptably slow
-def process_frame(frame_data):
-    frame_number, frame, bbox, output_path = frame_data
-    x1, y1, x2, y2 = bbox
-    frame = frame[y1:y2, x1:x2]
-    output_file = output_path / f"{frame_number:05d}.jpg"
-    frame.tofile(str(output_file))
-
-
 def save_frames(video_path: Path, temp_dir: Path, bbox: List[int], step: int) -> None:
     """
     Save frames from a video to a temporary directory.
@@ -122,24 +115,7 @@ def save_frames(video_path: Path, temp_dir: Path, bbox: List[int], step: int) ->
         bbox (List[int]): ROI coordinates [x1, y1, x2, y2].
         step (int): Frame step for saving.
     """
-    with av.open(str(video_path)) as container:
-        video = next(s for s in container.streams if s.type == "video")
-        total_frames = video.frames
-        frames_to_process = []
-        for frame_number, frame in enumerate(
-            tqdm(container.decode(video), total=total_frames, desc="Extracting frames")
-        ):
-            if frame_number % step == 0:
-                np_frame = np.array(frame.to_image())
-                frames_to_process.append((frame_number, np_frame, bbox, temp_dir))
-    with ProcessPoolExecutor(max_workers=os.cpu_count()) as executor:
-        list(
-            tqdm(
-                executor.map(process_frame, frames_to_process),
-                total=len(frames_to_process),
-                desc="Saving frames",
-            )
-        )
+    video_to_frames(video_path, temp_dir, bbox, every=step)
 
 
 def load_config(config_path: str) -> Dict:
