@@ -1,0 +1,35 @@
+# config.yaml
+input_dir: "/playpen-storage/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/game-replays"
+output_dir: "path/to/output/results"
+log_level: "INFO"
+device: 0
+time_remaining_step: 1
+
+# florence
+compile_model: "True"
+model_variant: "large"
+half: "True"
+
+# ocr
+batch_size: 90
+new_max_tokens: 5
+num_workers: 1
+num_bootstraps: 1
+do_sample: False
+early_stopping: False
+prompt: """Analyze the NBA video frame and extract the time remaining from the on-screen broadcast clock. Follow these guidelines:
+
+1. Locate the digital clock display, typically in the top or bottom corner of the frame.
+2. If a clock is visible, return the time in MM:SS format (e.g., 08:45, 00:33).
+3. Use leading zeros for single-digit minutes or seconds (e.g., 09:05, not 9:5).
+4. If less than a minute remains, still use two digits for minutes (e.g., 00:45).
+5. If no clock is visible or the time cannot be determined, return None.
+
+Special cases:
+- If the clock shows a timeout, return "TIMEOUT"
+- If the clock shows the end of a quarter or game, return "END"
+- If the clock is stopped (e.g., during free throws), still return the time shown
+
+Output only the time or special case indicator, nothing else:
+<time_remaining>
+[EOS]"""
