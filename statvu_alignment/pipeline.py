@@ -8,7 +8,7 @@ import json
 import av
 import numpy as np
 
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Any
 from pathlib import Path
 from tqdm import tqdm
 from glob import glob
@@ -16,7 +16,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed, ProcessPoolExec
 
 from utils._models import YOLOModel
 from utils.extract_roi import extract_roi_from_video
-from utils.extract_time_remaining import FlorenceModel, ocr
+from utils.extract_time_remaining import ocr
 from utils._grab_frames import video_to_frames
 
 logger = logging.getLogger(__name__)
@@ -38,6 +38,17 @@ def setup_logging(log_level: str) -> None:
     )
 
 
+class NumpyEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        elif isinstance(obj, np.floating):
+            return float(obj)
+        elif isinstance(obj, np.ndarray):
+            return obj.tolist()
+        return super(NumpyEncoder, self).default(obj)
+
+
 def process_directory(config: Dict) -> None:
     """
     Process all videos in a directory and extract timestamps.
@@ -56,7 +67,7 @@ def process_directory(config: Dict) -> None:
         if results:
             output_file = out_dir / f"{video_path.name}.json"
             with output_file.open("w") as f:
-                json.dump(results, f, indent=4)
+                json.dump(results, f, indent=4, cls=NumpyEncoder)
         # MARK: BREAK
         break
 
@@ -94,10 +105,9 @@ def extract_timestamps_from_video(config: Dict, video_path: Path) -> Optional[Di
     temp_dir.mkdir(exist_ok=True)
     logger.info(f"Extracting frames from: {video_path}")
     save_frames(video_path, temp_dir, bbox, config["time_remaining_step"])
-    florence_model, processor = FlorenceModel.load_model_and_tokenizer(config)
     image_paths = list(temp_dir.glob("*.jpg"))
     logger.info(f"Extracting time remaining from: {video_path}")
-    results = ocr(config, image_paths, florence_model, processor)
+    results = ocr(config, image_paths)
     # clean up temporary directory
     for file in temp_dir.glob("*"):
         file.unlink()
