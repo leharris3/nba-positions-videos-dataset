@@ -2,21 +2,14 @@ import cv2
 import torch
 import os
 
-from utils._constants import QUARTER_KEY, TIME_REMAINING_KEY, CONF_THRESH
-from utils._models import YOLOModel
+from tqdm import tqdm
+from typing import Dict
+from ultralytics import YOLO
 
-MAX_THREADS = 8
-MAX_GPUS = 8
+QUARTER_KEY = 0
+TIME_REMAINING_KEY = 1
 
-ROI_STEP = 30
-ROI_MAX_BATCH_SIZE = 1000
-
-TIME_REMAINING_STEP = 3
-
-ROI_MODELS = {}
-MODELS = {}
-
-def extract_roi_from_video(video_path: str, model: YOLOModel, device:int=0):
+def extract_roi_from_video(config: Dict, video_path: str, model: YOLO):
     """
     Find time-remaining roi from video. Assumes static, naive approach.
     Returns a tensor with format: [x1, y1, x2, y2] or None if no
@@ -24,21 +17,21 @@ def extract_roi_from_video(video_path: str, model: YOLOModel, device:int=0):
     """
 
     assert os.path.isfile(video_path), f"Error: bad path to video {video_path}."
-    
+    device = config["device"]
     cap = cv2.VideoCapture(video_path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     time_remaining_roi = None
 
     highest_conf = 0.0
     best_roi = None
-    step = ROI_STEP
+    step = config['yolo']["roi_step"]
 
-    for i in range(frames_cnt):
+    for i in tqdm(range(frames_cnt), desc=f"Extractin ROI"):
         ret, frame = cap.read()
         if not ret:
             break
         if i % step == 0:
-            results = model.model(frame, verbose=False)
+            results = model(frame, verbose=False)
             classes, conf, boxes = (
                 results[0].boxes.cls,
                 results[0].boxes.conf,
@@ -46,7 +39,7 @@ def extract_roi_from_video(video_path: str, model: YOLOModel, device:int=0):
             )
             classes_conf = torch.stack((classes, conf), dim=1)
             predictions = torch.cat((classes_conf, boxes), dim=1)
-            conf_mask = predictions[:, 1] > CONF_THRESH
+            conf_mask = predictions[:, 1] > config['yolo']['roi_conf_thresh']
             pred_thresh = predictions[conf_mask]
             for row in pred_thresh:
                 if row[0] == QUARTER_KEY:

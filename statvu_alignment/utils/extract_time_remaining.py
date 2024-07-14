@@ -2,6 +2,7 @@ import torch
 import logging
 import warnings
 
+from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor
 from typing import Optional, List, Tuple
 from PIL import Image
@@ -10,7 +11,7 @@ from typing import Dict
 
 warnings.simplefilter("ignore", FutureWarning)
 logging.basicConfig(
-    level=logging.DEBUG, format="%(asctime)s - %(levelname)s - %(message)s"
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 logger = logging.getLogger(__name__)
 
@@ -33,14 +34,14 @@ class FlorenceModel:
         if (
             FlorenceModel._model is not None
             and FlorenceModel._processor is not None
-            and FlorenceModel._compile_model == config["compile_model"]
-            and FlorenceModel._model_variant == config["model_variant"]
-            and FlorenceModel._half == config["half"]
+            and FlorenceModel._compile_model == config['florence']["compile_model"]
+            and FlorenceModel._model_variant == config['florence']["model_variant"]
+            and FlorenceModel._half == config['florence']["half"]
         ):
             return FlorenceModel._model, FlorenceModel._processor
-        compile_model = config["compile_model"]
-        model_variant = config["model_variant"]
-        half = config["half"]
+        compile_model = config['florence']["compile_model"]
+        model_variant = config['florence']["model_variant"]
+        half = config['florence']["half"]
         try:
             logger.info("Loading model and tokenizer...")
             model = AutoModelForCausalLM.from_pretrained(
@@ -97,14 +98,14 @@ def ocr(
         return None
     logger.debug("Images loaded successfully")
     # define batch size
-    batch_size = config["batch_size"]
+    batch_size = config['ocr']["batch_size"]
     total_batches = (len(images) + batch_size - 1) // batch_size
     # process images in batches
-    for batch_idx in range(total_batches):
+    for batch_idx in tqdm(range(total_batches), desc="Performing OCR on images"):
         start_idx = batch_idx * batch_size
         end_idx = min((batch_idx + 1) * batch_size, len(images))
         batch_images = images[start_idx:end_idx]
-        prompts = [config["prompt"]] * len(batch_images)
+        prompts = [config['ocr']["prompt"]] * len(batch_images)
         logger.debug(f"Processing batch {batch_idx + 1}/{total_batches}")
         inputs = processor(text=prompts, images=batch_images, return_tensors="pt")
         input_ids = inputs["input_ids"].to(device, non_blocking=True)
@@ -116,11 +117,11 @@ def ocr(
             generated_ids = model.generate(
                 input_ids=input_ids,
                 pixel_values=pixel_values,
-                max_new_tokens=config["new_max_tokens"],
-                do_sample=config["do_sample"],
-                early_stopping=config["early_stopping"],
-                num_beams=config["num_bootstraps"],
-                num_return_sequences=config["num_bootstraps"],
+                max_new_tokens=config['ocr']["new_max_tokens"],
+                do_sample=config['ocr']["do_sample"],
+                early_stopping=config['ocr']["early_stopping"],
+                num_beams=config['ocr']["num_bootstraps"],
+                num_return_sequences=config['ocr']["num_bootstraps"],
             )
         logger.debug("Model generation completed")
         generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)

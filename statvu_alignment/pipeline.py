@@ -4,17 +4,15 @@ import yaml
 import argparse
 import os
 import logging
-import concurrent.futures
 import json
+import av
+import numpy as np
+
 from typing import Dict, List, Optional, Tuple
 from pathlib import Path
-
-import cv2
 from tqdm import tqdm
-
 from glob import glob
-from tqdm import tqdm
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed, ProcessPoolExecutor
 from utils._models import YOLOModel
 from utils.extract_roi import extract_roi_from_video
 from utils.extract_time_remaining import FlorenceModel, ocr
@@ -35,7 +33,6 @@ def setup_logging(log_level: str) -> None:
     logging.basicConfig(
         level=numeric_level,
         format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
-        filename="video_processor.log",
     )
 
 
@@ -52,12 +49,14 @@ def process_directory(config: Dict) -> None:
         raise ValueError(f"Error: Invalid video directory: {src_dir}")
     video_file_paths = list(src_dir.glob("*.mp4"))
     for video_path in video_file_paths:
-        logger.info(f"Processing video: {video_path}")
+        logger.info(f"Extracting timestamps from video: {video_path}")
         results = extract_timestamps_from_video(config, video_path)
         if results:
             output_file = out_dir / f"{video_path.name}.json"
             with output_file.open("w") as f:
                 json.dump(results, f)
+        # MARK: BREAK
+        break
 
 
 def extract_timestamps_from_video(config: Dict, video_path: Path) -> Optional[Dict]:
@@ -75,61 +74,72 @@ def extract_timestamps_from_video(config: Dict, video_path: Path) -> Optional[Di
     if not video_path.exists():
         raise FileNotFoundError(f"Error: Video file not found: {video_path}")
     output_dir = Path(config["output_dir"])
-    timestamp_out_path = output_dir / f"{video_path.name}.json"
+    timestamp_out_path = Path(output_dir / f"{video_path.name}.json")
     if timestamp_out_path.is_file():
         logging.info(f"Skipping already processed video: {video_path}")
         return None
-    yolo_model = YOLOModel.get_model(config["device"])
-    time_remaining_roi = extract_roi_from_video(
-        video_path, yolo_model, device=config["device"]
-    )
+    logger.info("Loading YOLO model...")
+    yolo_model = YOLOModel.get_model(config)
+    logger.info(f"Extracting roi from video: {video_path}")
+    time_remaining_roi = extract_roi_from_video(config, video_path, yolo_model)
     if time_remaining_roi is None:
         logging.warning(f"Could not extract ROI from video: {video_path}")
         return None
-    tr_x1, tr_y1, tr_x2, tr_y2 = time_remaining_roi
-    temp_dir = Path(f"temp_{video_path.stem}")
+    # bbox format: x1, y1, x2, y2
+    bbox = time_remaining_roi.tolist()
+    # create tmp dir to save tracklet frames to
+    temp_dir = Path(config["temp_frames_dir"]) / video_path.name
     temp_dir.mkdir(exist_ok=True)
-    save_frames(
-        video_path, temp_dir, tr_x1, tr_y1, tr_x2, tr_y2, config["time_remaining_step"]
-    )
+    logger.info(f"Extracting frames from: {video_path}")
+    save_frames(video_path, temp_dir, bbox, config["time_remaining_step"])
     florence_model, processor = FlorenceModel.load_model_and_tokenizer(config)
     image_paths = list(temp_dir.glob("*.png"))
+    logger.info(f"Extracting time remaining from: {video_path}")
     results = ocr(config, image_paths, florence_model, processor)
-    # Clean up temporary directory
+    # clean up temporary directory
     for file in temp_dir.glob("*"):
         file.unlink()
     temp_dir.rmdir()
     return results
 
 
-def save_frames(
-    video_path: Path, temp_dir: Path, x1: int, y1: int, x2: int, y2: int, step: int
-) -> None:
+# TODO: unacceptably slow
+def process_frame(frame_data):
+    frame_number, frame, bbox, output_path = frame_data
+    x1, y1, x2, y2 = bbox
+    frame = frame[y1:y2, x1:x2]
+    output_file = output_path / f"{frame_number:05d}.jpg"
+    frame.tofile(str(output_file))
+
+
+def save_frames(video_path: Path, temp_dir: Path, bbox: List[int], step: int) -> None:
     """
     Save frames from a video to a temporary directory.
 
     Args:
         video_path (Path): Path to the video file.
         temp_dir (Path): Path to the temporary directory.
-        x1, y1, x2, y2 (int): ROI coordinates.
+        bbox (List[int]): ROI coordinates [x1, y1, x2, y2].
         step (int): Frame step for saving.
     """
-    cap = cv2.VideoCapture(str(video_path))
-    if not cap.isOpened():
-        raise IOError(f"Error opening video file: {video_path}")
-    frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-    with concurrent.futures.ThreadPoolExecutor(max_workers=os.cpu_count()) as executor:
-        futures = []
-        for frame_number in range(0, frame_count, step):
-            cap.set(cv2.CAP_PROP_POS_FRAMES, frame_number)
-            ret, frame = cap.read()
-            if not ret:
-                break
-            frame = frame[y1:y2, x1:x2]
-            frame_filename = temp_dir / f"{frame_number:05d}.png"
-            futures.append(executor.submit(cv2.imwrite, str(frame_filename), frame))
-        concurrent.futures.wait(futures)
-    cap.release()
+    with av.open(str(video_path)) as container:
+        video = next(s for s in container.streams if s.type == "video")
+        total_frames = video.frames
+        frames_to_process = []
+        for frame_number, frame in enumerate(
+            tqdm(container.decode(video), total=total_frames, desc="Extracting frames")
+        ):
+            if frame_number % step == 0:
+                np_frame = np.array(frame.to_image())
+                frames_to_process.append((frame_number, np_frame, bbox, temp_dir))
+    with ProcessPoolExecutor(max_workers=os.cpu_count()) as executor:
+        list(
+            tqdm(
+                executor.map(process_frame, frames_to_process),
+                total=len(frames_to_process),
+                desc="Saving frames",
+            )
+        )
 
 
 def load_config(config_path: str) -> Dict:
@@ -155,10 +165,7 @@ def main() -> None:
     config = load_config(args.config)
     setup_logging(config["log_level"])
     logging.info(f"Starting video processing with input: {config['input_dir']}")
-    try:
-        process_directory(config)
-    except Exception as e:
-        logging.error(f"An error occurred during execution: {str(e)}")
+    process_directory(config)
     logging.info("Script execution completed")
 
 
