@@ -56,7 +56,7 @@ def process_directory(config: Dict) -> None:
         if results:
             output_file = out_dir / f"{video_path.name}.json"
             with output_file.open("w") as f:
-                json.dump(results, f)
+                json.dump(results, f, indent=4)
         # MARK: BREAK
         break
 
@@ -95,7 +95,7 @@ def extract_timestamps_from_video(config: Dict, video_path: Path) -> Optional[Di
     logger.info(f"Extracting frames from: {video_path}")
     save_frames(video_path, temp_dir, bbox, config["time_remaining_step"])
     florence_model, processor = FlorenceModel.load_model_and_tokenizer(config)
-    image_paths = list(temp_dir.glob("*.png"))
+    image_paths = list(temp_dir.glob("*.jpg"))
     logger.info(f"Extracting time remaining from: {video_path}")
     results = ocr(config, image_paths, florence_model, processor)
     # clean up temporary directory

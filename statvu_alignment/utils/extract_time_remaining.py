@@ -16,6 +16,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+# TODO: save models as onnx files
 class FlorenceModel:
 
     # ensure we only load our model into memory once
@@ -34,16 +35,29 @@ class FlorenceModel:
         if (
             FlorenceModel._model is not None
             and FlorenceModel._processor is not None
-            and FlorenceModel._compile_model == config['florence']["compile_model"]
-            and FlorenceModel._model_variant == config['florence']["model_variant"]
-            and FlorenceModel._half == config['florence']["half"]
+            and FlorenceModel._compile_model == config["florence"]["compile_model"]
+            and FlorenceModel._model_variant == config["florence"]["model_variant"]
+            and FlorenceModel._half == config["florence"]["half"]
         ):
             return FlorenceModel._model, FlorenceModel._processor
-        compile_model = config['florence']["compile_model"]
-        model_variant = config['florence']["model_variant"]
-        half = config['florence']["half"]
+        compile_model = config["florence"]["compile_model"]
+        model_variant = config["florence"]["model_variant"]
+        half = config["florence"]["half"]
         try:
             logger.info("Loading model and tokenizer...")
+            if (
+                config["florence"]["model_path"] is not None
+                and config["florence"]["processor_path"] is not None
+            ):
+                model_path = config["florence"]["model_path"]
+                processor_path = config["florence"]["processor_path"]
+                model = AutoModelForCausalLM.from_pretrained(
+                    model_path, trust_remote_code=True
+                )
+                processor = AutoProcessor.from_pretrained(
+                    processor_path, trust_remote_code=True
+                )
+                return model.to(config["device"]), processor
             model = AutoModelForCausalLM.from_pretrained(
                 f"microsoft/Florence-2-{model_variant}-ft",  # either 'base' or 'large'
                 trust_remote_code=True,
@@ -62,7 +76,7 @@ class FlorenceModel:
             FlorenceModel._compile_model = compile_model
             FlorenceModel._model_variant = model_variant
             FlorenceModel._half = half
-            return model, processor
+            return model.to(config["device"]), processor
         except Exception as e:
             logger.error(f"Failed to load model or tokenizer: {e}")
             raise e
@@ -98,14 +112,14 @@ def ocr(
         return None
     logger.debug("Images loaded successfully")
     # define batch size
-    batch_size = config['ocr']["batch_size"]
+    batch_size = config["ocr"]["batch_size"]
     total_batches = (len(images) + batch_size - 1) // batch_size
     # process images in batches
     for batch_idx in tqdm(range(total_batches), desc="Performing OCR on images"):
         start_idx = batch_idx * batch_size
         end_idx = min((batch_idx + 1) * batch_size, len(images))
         batch_images = images[start_idx:end_idx]
-        prompts = [config['ocr']["prompt"]] * len(batch_images)
+        prompts = [config["ocr"]["prompt"]] * len(batch_images)
         logger.debug(f"Processing batch {batch_idx + 1}/{total_batches}")
         inputs = processor(text=prompts, images=batch_images, return_tensors="pt")
         input_ids = inputs["input_ids"].to(device, non_blocking=True)
@@ -117,11 +131,11 @@ def ocr(
             generated_ids = model.generate(
                 input_ids=input_ids,
                 pixel_values=pixel_values,
-                max_new_tokens=config['ocr']["new_max_tokens"],
-                do_sample=config['ocr']["do_sample"],
-                early_stopping=config['ocr']["early_stopping"],
-                num_beams=config['ocr']["num_bootstraps"],
-                num_return_sequences=config['ocr']["num_bootstraps"],
+                max_new_tokens=config["ocr"]["new_max_tokens"],
+                do_sample=config["ocr"]["do_sample"],
+                early_stopping=config["ocr"]["early_stopping"],
+                num_beams=config["ocr"]["num_bootstraps"],
+                num_return_sequences=config["ocr"]["num_bootstraps"],
             )
         logger.debug("Model generation completed")
         generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)
