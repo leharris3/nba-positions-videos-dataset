@@ -62,14 +62,20 @@ class NBAClockDataset(Dataset):
         annotation = self.annotations[image_path]
         image = Image.open(image_path).convert("RGB")
         prompt = "<OCR>"
-        ground_truth_text = NBAClockDataset.format_nba_clock_time(
-            annotation["time_remaining"]
-        )
-        label = f"{'<OCR>': '{ground_truth_text}'}"
+        time_on_clock = annotation.get("time_on_clock")
+        if time_on_clock is not None:
+            try:
+                ground_truth_text = self.format_nba_clock_time(float(time_on_clock))
+            except ValueError as e:
+                print(f"Error formatting time: {e}")
+                ground_truth_text = "ERROR"
+        else:
+            ground_truth_text = "N/A"
+        label = f"<OCR>: {ground_truth_text}"
         return prompt, label, image
 
-    @classmethod
-    def format_nba_clock_time(seconds: float) -> str:
+    @staticmethod
+    def format_nba_clock_time(seconds) -> str:
         """
         Convert a float number of seconds to a string formatted as an NBA clock time.
 
@@ -79,6 +85,8 @@ class NBAClockDataset(Dataset):
         Returns:
         str: Formatted time string (MM:SS, M:SS, SS.DS, or S.DS)
         """
+        if seconds is None:
+            return "N/A"
         if seconds < 0:
             raise ValueError("Time cannot be negative")
         minutes, seconds = divmod(seconds, 60)
@@ -89,7 +97,7 @@ class NBAClockDataset(Dataset):
             # Format as SS.DS or S.DS
             return f"{seconds:.1f}"
 
-    @classmethod
+    @staticmethod
     def collate_fn(batch):
         questions, answers, images = zip(*batch)
         inputs = NBAClockDataset._processor(
@@ -112,7 +120,7 @@ def get_model_and_processor(config: Dict):
 
 def main(config):
     # train dataset + dataloader
-    train_dataset = NBAClockDataset(config["annotations_fp"])
+    train_dataset = NBAClockDataset(config)
     train_dataloader = DataLoader(
         train_dataset,
         batch_size=config["batch_size"],
@@ -120,7 +128,9 @@ def main(config):
     )
     logger.info(f"Created dataset with {len(train_dataset)} samples")
 
-    optimizer = AdamW(NBAClockDataset._model.parameters(), lr=config["learning_rate"])
+    optimizer = AdamW(
+        NBAClockDataset._model.parameters(), lr=float(config["learning_rate"])
+    )
     num_training_steps = config["num_epochs"] * len(train_dataloader)
     lr_scheduler = get_scheduler(
         name="linear",
@@ -128,18 +138,24 @@ def main(config):
         num_warmup_steps=config["num_warmup_steps"],
         num_training_steps=num_training_steps,
     )
-    
+
     for epoch in range(config["num_epochs"]):
-        break 
-        NBAClockDataset._model.train() 
+        NBAClockDataset._model.train()
         train_loss = 0
         i = -1
-        for inputs, answers in tqdm(train_dataloader, desc=f"Training Epoch {epoch + 1}/{config["num_epochs"]}"):
+        for inputs, answers in tqdm(train_dataloader):
             i += 1
             input_ids = inputs["input_ids"]
-            pixel_values = inputs["pixel_values"] 
-            labels = NBAClockDataset._processor.tokenizer(text=answers, return_tensors="pt", padding=True, return_token_type_ids=False).input_ids.to(config["device"])
-            outputs = NBAClockDataset._model(input_ids=input_ids, pixel_values=pixel_values, labels=labels)
+            pixel_values = inputs["pixel_values"]
+            labels = NBAClockDataset._processor.tokenizer(
+                text=answers,
+                return_tensors="pt",
+                padding=True,
+                return_token_type_ids=False,
+            ).input_ids.to(config["device"])
+            outputs = NBAClockDataset._model(
+                input_ids=input_ids, pixel_values=pixel_values, labels=labels
+            )
             loss = outputs.loss
             loss.backward()
             optimizer.step()
@@ -151,6 +167,7 @@ def main(config):
 
     NBAClockDataset._model.save_pretrained(config["model_output_dir"])
     NBAClockDataset._processor.save_pretrained(config["processor_output_dir"])
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
