@@ -14,7 +14,7 @@ time_remaining_step: 1
 
 yolo:
   verbose: false
-  roi_step: 30
+  roi_step: 5
   roi_conf_thresh: 0.90
 
 # florence model settings

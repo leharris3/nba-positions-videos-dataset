@@ -26,7 +26,7 @@ def extract_roi_from_video(config: Dict, video_path: str, model: YOLO):
     best_roi = None
     step = config['yolo']["roi_step"]
 
-    for i in tqdm(range(frames_cnt), desc=f"Extractin ROI"):
+    for i in tqdm(range(frames_cnt), desc=f"Extracting ROI"):
         ret, frame = cap.read()
         if not ret:
             break

@@ -93,7 +93,7 @@ def extract_frames(video_path, frames_dir, bbox, overwrite=False, start=-1, end=
         ):  # if this is a frame we want to write out based on the 'every' argument
             while_safety = 0  # reset the safety count
             save_path = os.path.join(
-                frames_dir, "{:010d}.jpg".format(frame)
+                frames_dir, "{:06d}.jpg".format(frame)
             )  # create the save path
             if (
                 not os.path.exists(save_path) or overwrite
@@ -122,7 +122,7 @@ def video_to_frames(video_path, frames_dir, bbox, overwrite=False, every=1, chun
     video_path = os.path.normpath(video_path)  # make the paths OS (Windows) compatible
     frames_dir = os.path.normpath(frames_dir)  # make the paths OS (Windows) compatible
 
-    video_dir, video_filename = os.path.split(
+    _, video_filename = os.path.split(
         video_path
     )  # get the video path and filename from the path
 

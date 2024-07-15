@@ -1,0 +1,20 @@
+# model and data parameters
+annotations_fp: "/playpen-storage/levlevi/nba-positions-videos-dataset/statvu_alignment/assets/fine-tunning-set/annotations.json"
+model_name: "microsoft/Florence-2-base-ft"
+
+model_output_dir: "/playpen-storage/levlevi/nba-positions-videos-dataset/florence_ft/results/model"
+processor_output_dir: "/playpen-storage/levlevi/nba-positions-videos-dataset/florence_ft/results/processor"
+
+# training parameters
+device: 0
+output_dir: "./results"
+num_epochs: 7
+num_workers: 0
+num_warmup_steps: 0
+batch_size: 6
+learning_rate: 1e-6
+weight_decay: 0.01
+
+# logging parameters
+logging_dir: "./logs"
+logging_steps: 10

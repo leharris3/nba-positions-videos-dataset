@@ -93,7 +93,7 @@ def extract_timestamps_from_video(config: Dict, video_path: Path) -> Optional[Di
         return None
     logger.info("Loading YOLO model...")
     yolo_model = YOLOModel.get_model(config)
-    logger.info(f"Extracting roi from video: {video_path}")
+    logger.info(f"Extracting ROI from video: {video_path}")
     time_remaining_roi = extract_roi_from_video(config, video_path, yolo_model)
     if time_remaining_roi is None:
         logging.warning(f"Could not extract ROI from video: {video_path}")
