@@ -7,14 +7,8 @@ processor_output_dir: "/playpen-storage/levlevi/nba-positions-videos-dataset/flo
 
 # training parameters
 device: 0
-output_dir: "./results"
 num_epochs: 7
 num_workers: 0
 num_warmup_steps: 0
-batch_size: 6
+batch_size: 12
 learning_rate: 1e-6
-weight_decay: 0.01
-
-# logging parameters
-logging_dir: "./logs"
-logging_steps: 10

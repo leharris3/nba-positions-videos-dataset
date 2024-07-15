@@ -6,7 +6,7 @@
 
 # hugging face ft config
 # 8xH100 (80GB)
-# batch-size: 64
+# batch-size: 64
 # full-ft
 
 # our config
@@ -15,12 +15,22 @@
 # full-ft
 # lr: 1e-6
 
+# TODO:
+# 1. multi-gpu support
+# 2. slurm script
+
+# multiprocess example: https://github.com/pytorch/examples/blob/main/distributed/ddp-tutorial-series/multigpu.py
 import torch
+import torch.nn.functional as F
+import torch.multiprocessing as mp
+from torch.utils.data.distributed import DistributedSampler
+from torch.nn.parallel import DistributedDataParallel as DDP
+from torch.distributed import init_process_group, destroy_process_group
+
 import json
 import os
 import logging
 import argparse
-import numpy as np
 import yaml
 
 from typing import Dict
@@ -28,7 +38,7 @@ from tqdm import tqdm
 from PIL import Image
 from torch.utils.data import DataLoader
 from torch.utils.data import Dataset
-from transformers import AutoModelForCausalLM, AutoProcessor, TrainingArguments, Trainer
+from transformers import AutoModelForCausalLM, AutoProcessor
 from transformers import AdamW, get_scheduler
 
 
@@ -36,6 +46,20 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 logger = logging.getLogger(__name__)
+
+def ddp_setup(rank, world_size):
+    
+    """
+    Args:
+        rank: Unique identifier of each process
+        world_size: Total number of processes
+    """
+    os.environ["MASTER_ADDR"] = "localhost"
+    os.environ["MASTER_PORT"] = "12355"
+    init_process_group(backend="nccl", rank=rank, world_size=world_size)
+    torch.cuda.set_device(rank)
+
+
 
 
 class NBAClockDataset(Dataset):
@@ -129,7 +153,9 @@ def main(config):
     logger.info(f"Created dataset with {len(train_dataset)} samples")
 
     optimizer = AdamW(
-        NBAClockDataset._model.parameters(), lr=float(config["learning_rate"])
+        NBAClockDataset._model.parameters(),
+        lr=float(config["learning_rate"]),
+        no_deprecation_warning=True,
     )
     num_training_steps = config["num_epochs"] * len(train_dataloader)
     lr_scheduler = get_scheduler(
@@ -162,11 +188,26 @@ def main(config):
             lr_scheduler.step()
             optimizer.zero_grad()
             train_loss += loss.item()
-        avg_train_loss = train_loss / len(train_dataloader)
-        print(f"Average Training Loss: {avg_train_loss}")
+            if i % 10 == 0:
+                logger.info(f"Training loss at step {i}: {loss.item()}")
 
-    NBAClockDataset._model.save_pretrained(config["model_output_dir"])
-    NBAClockDataset._processor.save_pretrained(config["processor_output_dir"])
+        avg_train_loss = train_loss / len(train_dataloader)
+        logger.info(f"Average Training Loss: {avg_train_loss}")
+
+        # save checkpoint to an epoch specific sub-directory
+        subdir_path = os.path.join(
+            config["model_output_dir"], f"checkpoint_epoch_{epoch}"
+        )
+
+        # make folder if it doesn't exist
+        os.makedirs(subdir_path, exist_ok=True)
+        # make model and processor checkpoint subdirs
+        model_subdir = os.path.join(subdir_path, "model")
+        os.makedirs(model_subdir, exist_ok=True)
+        processor_subdir = os.path.join(subdir_path, "processor")
+        os.makedirs(processor_subdir, exist_ok=True)
+        NBAClockDataset._model.save_pretrained(model_subdir)
+        NBAClockDataset._processor.save_pretrained(processor_subdir)
 
 
 if __name__ == "__main__":
