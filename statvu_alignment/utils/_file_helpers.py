@@ -21,7 +21,7 @@ def get_timestamps(timestamps_fp: str):
     with open(timestamps_fp, "r") as f:
         timestamps = json.load(f)
 
-    replace_str = "/mnt/opr/"
+    replace_str = "/playpen-storage/levlevi/"
     with_str = "/playpen-storage/"
 
     for k in list(timestamps.keys()):
