@@ -3,6 +3,8 @@ import json
 
 from PIL import Image
 from torch.utils.data import Dataset
+from torch.utils.data import DataLoader
+from torch.utils.data.distributed import DistributedSampler
 
 
 class NBAClockDataset(Dataset):
@@ -52,3 +54,9 @@ class NBAClockDataset(Dataset):
         else:
             # Format as SS.DS or S.DS
             return f"{seconds:.1f}"
+
+
+def prepare_dataloader(args, dataset: NBAClockDataset):
+    return DataLoader(
+        dataset, batch_size=args.batch_size, sampler=DistributedSampler(dataset)
+    )
