@@ -1,3 +1,5 @@
+# stolen from: https://github.com/andimarafioti/florence2-finetuning
+
 import yaml
 import argparse
 import os
@@ -10,13 +12,15 @@ import wandb
 import warnings
 
 from PIL import Image
+from tqdm import tqdm
 from functools import partial
 from torch.utils.data import Dataset
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.utils.data import DataLoader
 from torch.utils.data.distributed import DistributedSampler
-from tqdm import tqdm
 from transformers import AdamW, AutoModelForCausalLM, AutoProcessor, get_scheduler
+from transformers import logging as transformers_logging
+
 
 wandb.login(key="3d8c09b359c1abc995fd03c27398c41afce857c1")
 warnings.filterwarnings(
@@ -118,7 +122,6 @@ def create_data_loaders(
     train_sampler = DistributedSampler(
         train_dataset, num_replicas=world_size, rank=rank
     )
-
     train_loader = DataLoader(
         train_dataset,
         batch_size=batch_size,
@@ -126,29 +129,7 @@ def create_data_loaders(
         num_workers=num_workers,
         sampler=train_sampler,
     )
-
     return train_loader
-
-
-def evaluate_model(
-    rank,
-    world_size,
-    model,
-    device,
-    train_loss,
-    processor,
-    global_step,
-    batch_size,
-    max_val_item_count,
-):
-    if rank == 0:
-        avg_train_loss = train_loss / (global_step * batch_size * world_size)
-        wandb.log({"step": global_step, "train_loss": avg_train_loss})
-        print(f"Rank {rank} - Average Training Loss: {avg_train_loss}")
-
-    # TODO: no val set atm
-    model.eval()
-    model.train()
 
 
 def train_model(
@@ -181,7 +162,6 @@ def train_model(
 
     # train dataset
     train_dataset = NBAClockDataset(config)
-
     # Load the model and processor
     model = AutoModelForCausalLM.from_pretrained(
         "andito/Florence-2-large-ft", trust_remote_code=True
@@ -267,7 +247,7 @@ def train_model(
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Train Florence-2 model on specified dataset"
+        description="Fine-tune florence-2 on Clock OCR dataset"
     )
     parser.add_argument("--config", type=str, required=True, help="Config file path")
     parser.add_argument(
