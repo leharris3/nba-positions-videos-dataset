@@ -2,14 +2,14 @@
 
 # input and output directories
 # input_dir: "/playpen-storage/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/game-replays"
+
 # test dir
-input_dir: "/playpen-storage/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/clips/707/period1"
-output_dir: "/playpen-storage/levlevi/nba-positions-videos-dataset/statvu_alignment/data"
-temp_frames_dir: "/playpen-storage/levlevi/nba-positions-videos-dataset/statvu_alignment/data/temp"
+input_dir: "/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/clips/707/period1"
+output_dir: "/mnt/arc/levlevi/nba-positions-videos-dataset/statvu_alignment/data/results"
+temp_frames_dir: "/mnt/arc/levlevi/nba-positions-videos-dataset/statvu_alignment/data/temp"
 
 # logging and device settings
 log_level: "DEBUG"
-device: 1
 time_remaining_step: 1
 
 yolo:
@@ -17,11 +17,13 @@ yolo:
   roi_step: 5
   roi_conf_thresh: 0.90
 
-# florence model settings
-florence:
-  compile_model: true
-  model_variant: "large"
-  half: true
+yolo_model_path: "/mnt/arc/levlevi/nba-positions-videos-dataset/statvu_alignment/models/yolo/weights/tr_roi_finetune_60_large.pt"
+
+# florence config
+model_path: "/mnt/arc/levlevi/nba-positions-videos-dataset/florence_ft/model_checkpoints/muddy_garnet/epoch_1"
+processor_path: "/mnt/arc/levlevi/nba-positions-videos-dataset/florence_ft/model_checkpoints/muddy_garnet/epoch_1"
+use_half_precision: "True"
+compile_model: "True"
 
 # OCR settings
 ocr:

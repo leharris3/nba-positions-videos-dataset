@@ -17,7 +17,6 @@ def extract_roi_from_video(config: Dict, video_path: str, model: YOLO):
     """
 
     assert os.path.isfile(video_path), f"Error: bad path to video {video_path}."
-    device = config["device"]
     cap = cv2.VideoCapture(video_path)
     frames_cnt = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     time_remaining_roi = None
