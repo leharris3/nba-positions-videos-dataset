@@ -30,14 +30,8 @@ ocr:
   batch_size: 90
   new_max_tokens: 1028
   num_workers: 1
-  num_bootstraps: 9
+  num_bootstraps: 1
   do_sample: false
   early_stopping: false
   prompt: |
-    1. Extract the time remaining from the on-screen clock in an NBA video frame:
-    2. If visible, return time in MM:SS format with leading zeros.
-    3. Return special cases:
-      - Return None if no clock is visible or time can't be determined.
-    Output only the time remaining:
-    <time_remaining>
-    [EOS]
+    <OCR>

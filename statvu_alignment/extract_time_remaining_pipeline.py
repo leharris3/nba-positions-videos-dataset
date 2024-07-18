@@ -5,6 +5,7 @@ import argparse
 import os
 import logging
 import json
+import shutil
 import av
 import numpy as np
 import torch
@@ -60,7 +61,7 @@ def extract_timestamps_from_video(
         video_to_frames(video_path, temp_dir, bbox, every=step)
 
     output_dir = Path(config["output_dir"])
-    timestamp_out_path = Path(output_dir / f"{video_path.name}.json")
+    timestamp_out_path = Path(output_dir / f"{video_path.name.replace('mp4', '')}")
 
     if not video_path.exists():
         raise FileNotFoundError(f"Error: Video file not found: {video_path}")
@@ -89,9 +90,7 @@ def extract_timestamps_from_video(
     results = ocr(rank, config, image_paths, florence_model, florence_processor)
 
     # clean up temporary directory
-    for file in temp_dir.glob("*"):
-        file.unlink()
-    temp_dir.rmdir()
+    shutil.rmtree(temp_dir)
     return results
 
 
@@ -119,6 +118,7 @@ def process_directory(rank: int, config) -> None:
         tmp_dir_basenames = set(
             list(os.path.basename(fp) for fp in glob(temp_frames_dir + "/*"))
         )
+        
         processed_files = results_basenames | tmp_dir_basenames
         remaining_file_paths = []
         for fp in glob(all_vids_dir + "/*.mp4"):
@@ -145,7 +145,7 @@ def process_directory(rank: int, config) -> None:
             rank, config, next_fp, yolo_model, florence_model, florence_processor
         )
         if results:
-            output_file = out_dir / f"{next_fp.name}.json"
+            output_file = out_dir / f"{next_fp.name.replace('.mp4', '')}.json"
             with output_file.open("w") as f:
                 json.dump(results, f, indent=4, cls=NumpyEncoder)
 
@@ -186,6 +186,9 @@ def main() -> None:
     
     setup_logging(config["log_level"])
     logging.info(f"Starting video processing with input: {config['input_dir']}")
+    
+    # free any memory we can
+    torch.cuda.empty_cache()
     
     # spawn process dir jobs
     mp.spawn(

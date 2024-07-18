@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export CUDA_VISIBLE_DEVICES=0
+export CUDA_VISIBLE_DEVICES=1
 
 # set strict mode
 cd /mnt/arc/levlevi/nba-positions-videos-dataset/statvu_alignment
