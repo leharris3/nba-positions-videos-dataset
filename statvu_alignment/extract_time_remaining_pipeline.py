@@ -60,6 +60,15 @@ def extract_timestamps_from_video(
         """
         video_to_frames(video_path, temp_dir, bbox, every=step)
 
+    def rmdir(directory):
+        directory = Path(directory)
+        for item in directory.iterdir():
+            if item.is_dir():
+                rmdir(item)
+            else:
+                item.unlink()
+        directory.rmdir()
+
     output_dir = Path(config["output_dir"])
     timestamp_out_path = Path(output_dir / f"{video_path.name.replace('mp4', '')}")
 
@@ -90,7 +99,12 @@ def extract_timestamps_from_video(
     results = ocr(rank, config, image_paths, florence_model, florence_processor)
 
     # clean up temporary directory
-    shutil.rmtree(temp_dir)
+    if config["remove_tmp_dirs"] == "False":
+        return results
+    try:
+        rmdir(temp_dir)
+    except Exception as e:
+        print(e)
     return results
 
 
@@ -118,7 +132,7 @@ def process_directory(rank: int, config) -> None:
         tmp_dir_basenames = set(
             list(os.path.basename(fp) for fp in glob(temp_frames_dir + "/*"))
         )
-        
+
         processed_files = results_basenames | tmp_dir_basenames
         remaining_file_paths = []
         for fp in glob(all_vids_dir + "/*.mp4"):
@@ -144,10 +158,12 @@ def process_directory(rank: int, config) -> None:
         results = extract_timestamps_from_video(
             rank, config, next_fp, yolo_model, florence_model, florence_processor
         )
-        if results:
-            output_file = out_dir / f"{next_fp.name.replace('.mp4', '')}.json"
-            with output_file.open("w") as f:
-                json.dump(results, f, indent=4, cls=NumpyEncoder)
+        output_file = out_dir / f"{next_fp.name.replace('.mp4', '')}.json"
+        # so that we don't get stuck on videos w/o a valid roi
+        if results == None:
+            results = {}
+        with output_file.open("w") as f:
+            json.dump(results, f, indent=4, cls=NumpyEncoder)
 
 
 def main() -> None:
@@ -179,17 +195,17 @@ def main() -> None:
         default="config.yaml",
         help="Path to the configuration file",
     )
-    
+
     args = parser.parse_args()
     with open(args.config, "r") as f:
         config = yaml.safe_load(f)
-    
+
     setup_logging(config["log_level"])
     logging.info(f"Starting video processing with input: {config['input_dir']}")
-    
+
     # free any memory we can
     torch.cuda.empty_cache()
-    
+
     # spawn process dir jobs
     mp.spawn(
         process_directory,

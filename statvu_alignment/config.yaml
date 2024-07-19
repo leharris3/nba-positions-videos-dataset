@@ -1,5 +1,4 @@
 # config.yaml
-
 # input and output directories
 # input_dir: "/playpen-storage/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/game-replays"
 
@@ -11,6 +10,7 @@ temp_frames_dir: "/mnt/arc/levlevi/nba-positions-videos-dataset/statvu_alignment
 # logging and device settings
 log_level: "DEBUG"
 time_remaining_step: 1
+remove_tmp_dirs: "False"
 
 yolo:
   verbose: false
@@ -20,18 +20,17 @@ yolo:
 yolo_model_path: "/mnt/arc/levlevi/nba-positions-videos-dataset/statvu_alignment/models/yolo/weights/tr_roi_finetune_60_large.pt"
 
 # florence config
-model_path: "/mnt/arc/levlevi/nba-positions-videos-dataset/florence_ft/model_checkpoints/muddy_garnet/epoch_1"
-processor_path: "/mnt/arc/levlevi/nba-positions-videos-dataset/florence_ft/model_checkpoints/muddy_garnet/epoch_1"
-use_half_precision: "True"
-compile_model: "True"
+model_path: "/mnt/arc/levlevi/nba-positions-videos-dataset/florence_ft/model_checkpoints/tame_angelfish/epoch_2"
+processor_path: "/mnt/arc/levlevi/nba-positions-videos-dataset/florence_ft/model_checkpoints/tame_angelfish/epoch_2"
+use_half_precision: "False"
+compile_model: "False"
 
 # OCR settings
 ocr:
-  batch_size: 90
+  batch_size: 16
   new_max_tokens: 1028
   num_workers: 1
   num_bootstraps: 1
   do_sample: false
   early_stopping: false
-  prompt: |
-    <OCR>
+  prompt: <OCR>

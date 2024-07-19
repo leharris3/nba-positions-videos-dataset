@@ -12,10 +12,12 @@ import json
 import wandb
 import warnings
 import numpy as np
+import sys
 
 from PIL import Image
 from tqdm import tqdm
 from functools import partial
+
 from torch.utils.data import Dataset
 from torch.nn.parallel import DistributedDataParallel as DDP
 from torch.utils.data import DataLoader
@@ -23,8 +25,7 @@ from torch.utils.data.distributed import DistributedSampler
 from transformers import AdamW, AutoModelForCausalLM, AutoProcessor, get_scheduler
 from transformers import logging as transformers_logging
 
-CHECKPOINT = "microsoft/Florence-2-base-ft"
-REVISION = 'refs/pr/6'
+CHECKPOINT = "andito/Florence-2-large-ft"
 
 wandb.login(key="3d8c09b359c1abc995fd03c27398c41afce857c1")
 warnings.filterwarnings(
@@ -192,10 +193,10 @@ def train_model(
     
     # Load the model and processor
     model = AutoModelForCausalLM.from_pretrained(
-        CHECKPOINT, trust_remote_code=True, revision=REVISION).to(device)
+        CHECKPOINT, trust_remote_code=True,).to(device)
     processor = AutoProcessor.from_pretrained(
-        CHECKPOINT, trust_remote_code=True, revision=REVISION)
-
+        CHECKPOINT, trust_remote_code=True,)
+    
     model = DDP(model, device_ids=[rank])
 
     # Create DataLoaders

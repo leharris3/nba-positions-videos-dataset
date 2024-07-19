@@ -1,19 +1,16 @@
 #!/bin/bash
 
-export CUDA_VISIBLE_DEVICES=1
-
-# set strict mode
-cd /mnt/arc/levlevi/nba-positions-videos-dataset/statvu_alignment
-set -euo pipefail
+export CUDA_VISIBLE_DEVICES=4
 
 # configuration
 PYTHON_EXECUTABLE="python3"
+CONDA_PATH=/mnt/opr/levlevi/anaconda3/etc/profile.d/conda.sh
 SCRIPT_NAME="extract_time_remaining_pipeline.py"
 CONFIG_FILE="config.yaml"
 VENV_NAME="hplr"
 
 # cd into the project root
-source /playpen-storage/levlevi/anaconda3/etc/profile.d/conda.sh
+source $CONDA_PATH
 
 # activate virtual environment
 conda activate $VENV_NAME

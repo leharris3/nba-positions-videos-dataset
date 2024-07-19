@@ -15,6 +15,10 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
+HEIGHT = 40
+WIDTH = 112
+
+
 def ocr(
     rank,
     config,
@@ -26,6 +30,7 @@ def ocr(
         logger.debug(f"Loading image {fp}")
         try:
             image = Image.open(fp)
+            image.resize((WIDTH, HEIGHT))
             image.load()
             logger.debug(f"Successfully loaded image {fp}")
             return image
