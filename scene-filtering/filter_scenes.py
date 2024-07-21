@@ -2,12 +2,14 @@ import cv2
 import os
 import json
 
+from tqdm import tqdm
 from glob import glob
 from scenedetect import detect
 from statistics import mean
 from typing import List, Tuple
 from scenedetect import detect, AdaptiveDetector, split_video_ffmpeg, ContentDetector
 from scenedetect.frame_timecode import FrameTimecode
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
 
 MIN_SCENE_LEN = 2 * 30
@@ -34,6 +36,7 @@ def parse_scene(video_fp: str) -> List[Tuple]:
         # Return the original tuple with the frame length appended
         return (start_info, end_info, length_in_frames)
 
+    print(f"parsing {video_fp}")
     scene_list = detect(video_fp, detector)
     return [add_frame_length_info(interval) for interval in scene_list]
 
@@ -105,7 +108,9 @@ def create_new_clip(video_path: str, dst_path: str, scene):
     # save a new clip
     start_frame = scene[0].frame_num
     end_frame = scene[1].frame_num
-    cmd = f"ffmpeg -hide_banner -loglevel error -i {video_path} -ss {start_frame} -to {end_frame} -c:v libx264 -crf 23 -preset medium -c:a copy {dst_path}"
+    start_sec = start_frame / FPS
+    end_sec = end_frame / FPS
+    cmd = f"ffmpeg -hide_banner -loglevel error -i {video_path} -ss {start_sec} -to {end_sec} -c:v libx264 -crf 23 -preset medium -c:a copy {dst_path}"
     os.system(cmd)
 
 
@@ -129,16 +134,49 @@ def create_new_annotation(annotation_path: str, dst_path: str, scene):
         json.dump(new_annotation, f, indent=4)
 
 
+def process_clip(fp):
+    scenes = parse_scene(fp)
+    filtered_scenes = filter_scenes(fp, scenes)
+
+    video_dst_path = fp.replace("clips", "filtered-clips")
+    video_dst_dir = os.path.dirname(video_dst_path)
+    print(f"video_dst_dir: {video_dst_dir}")
+
+    # find annotation file
+    annotation_path = fp.replace("clips", "clip-annotations").replace(
+        ".mp4", "_annotation.json"
+    )
+    annotation_dst_path = fp.replace("clips", "filtered-clip-annotations").replace(
+        ".mp4", "_annotation.json"
+    )
+    annotation_dst_dir = os.path.dirname(annotation_dst_path)
+
+    # recursive create dirs if doesn't exist
+    os.makedirs(video_dst_dir, exist_ok=True)
+    os.makedirs(annotation_dst_dir, exist_ok=True)
+
+    for scene_num, scene in enumerate(filtered_scenes):
+        video_dst_path = video_dst_path.replace(".mp4", f"_{scene_num}.mp4")
+        annotation_dst_path = annotation_dst_path.replace(".json", f"_{scene_num}.json")
+        create_new_clip(fp, video_dst_path, scene)
+        create_new_annotation(annotation_path, annotation_dst_path, scene)
+        print(f"created {video_dst_path} and \n{annotation_dst_path}")
+
+
 def main():
 
     all_clip_file_paths = glob(
         "/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/clips"
         + "/*/*/*.mp4"
     )
+    print(f"found {len(all_clip_file_paths)} clips")
+
     all_annotations_paths = glob(
         "/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/clip-annotations"
         + "/*/*/*.json"
     )
+    print(f"found {len(all_annotations_paths)} annotations")
+
     all_annotation_basenames = set(
         list(
             os.path.basename(fp).replace(".json", ".mp4").replace("_annotation", "")
@@ -151,35 +189,14 @@ def main():
         if os.path.basename(fp) in all_annotation_basenames
     ]
 
-    for fp in clips_w_ann_file_paths:
-        scenes = parse_scene(fp)
-        filtered_scenes = filter_scenes(fp, scenes)
+    # create a progress bar object
+    progress_bar = tqdm(total=len(clips_w_ann_file_paths))
 
-        video_dst_path = fp.replace("clips", "filtered-clips")
-        video_dst_dir = os.path.dirname(video_dst_path)
-        print(f"video_dst_dir: {video_dst_dir}")
-
-        # find annotation file
-        annotation_path = fp.replace("clips", "clip-annotations").replace(
-            ".mp4", "_annotation.json"
-        )
-        annotation_dst_path = fp.replace("clips", "filtered-clip-annotations").replace(
-            ".mp4", "_annotation.json"
-        )
-        annotation_dst_dir = os.path.dirname(annotation_dst_path)
-
-        # recursive create dirs if doesn't exist
-        os.makedirs(video_dst_dir, exist_ok=True)
-        os.makedirs(annotation_dst_dir, exist_ok=True)
-
-        for scene_num, scene in enumerate(filtered_scenes):
-            video_dst_path = video_dst_path.replace(".mp4", f"_{scene_num}.mp4")
-            annotation_dst_path = annotation_dst_path.replace(
-                ".json", f"_{scene_num}.json"
-            )
-            create_new_clip(fp, video_dst_path, scene)
-            create_new_annotation(annotation_path, annotation_dst_path, scene)
-            print(f"created {video_dst_path} and \n{annotation_dst_path}")
+    with ProcessPoolExecutor(max_workers=64) as executor:
+        executor.map(process_clip, clips_w_ann_file_paths)
+        # update progress bar
+        for _ in as_completed(executor):
+            progress_bar.update(1)
 
 
 if __name__ == "__main__":
