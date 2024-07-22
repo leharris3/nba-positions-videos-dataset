@@ -4,14 +4,13 @@ import json
 import logging
 import subprocess
 
-from tqdm import tqdm
 from glob import glob
 from scenedetect import detect
 from statistics import mean
 from typing import List, Tuple
 from scenedetect import detect, HashDetector
 from scenedetect.frame_timecode import FrameTimecode
-from concurrent.futures import ProcessPool, as_completed
+from concurrent.futures import ProcessPoolExecutor, as_completed
 
 # TODO: where da' bugs at?!
 
@@ -22,8 +21,10 @@ THRESHOLD = 0.3
 MIN_CONTENT_VAL = 5
 FPS = 30
 
-# setup logging
-logging.basicConfig(level=logging.DEBUG)
+# setup logging and log formatting
+logging.basicConfig(
+    level=logging.ERROR, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 logger = logging.getLogger(__name__)
 
 
@@ -221,7 +222,7 @@ def _process_clip(fp: str) -> None:
     if len(filtered_scenes) == 0:
         return
 
-    video_dst_path = fp.replace("clips", "filtered-clips")
+    video_dst_path = fp.replace("clips", "filtered-clips-bu")
 
     video_dst_dir = os.path.dirname(video_dst_path)
     os.makedirs(video_dst_dir, exist_ok=True)
@@ -235,7 +236,7 @@ def _process_clip(fp: str) -> None:
     annotation_path = fp.replace("clips", "clip-annotations").replace(
         ".mp4", "_annotation.json"
     )
-    annotation_dst_path = fp.replace("clips", "filtered-clip-annotations").replace(
+    annotation_dst_path = fp.replace("clips", "filtered-clip-annotations-bu").replace(
         ".mp4", "_annotation.json"
     )
     annotation_dst_dir = os.path.dirname(annotation_dst_path)
@@ -285,12 +286,8 @@ def main():
         if os.path.basename(fp) in all_annotation_basenames
     ]
 
-    for fp in tqdm(
-        clips_w_ann_file_paths,
-        total=len(clips_w_ann_file_paths),
-        desc="filtering clips",
-    ):
-        _process_clip(fp)
+    with ProcessPoolExecutor(max_workers=64) as pool:
+        pool.map(_process_clip, clips_w_ann_file_paths)
 
 
 if __name__ == "__main__":
