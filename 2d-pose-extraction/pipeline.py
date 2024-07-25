@@ -15,6 +15,7 @@ do we need a 2-stage approach for max batch processing?
 """
 
 import argparse
+import concurrent.futures
 import json
 import yaml
 import logging
@@ -26,8 +27,10 @@ import os
 import typing
 import time
 import torch
+import gc
 import concurrent
 
+from multiprocessing import Pool
 from typing import List
 from glob import glob
 from huggingface_hub import hf_hub_download
@@ -71,10 +74,10 @@ def get_unique_frame_ids(annotations):
     return unique_ids
 
 
-def process_image(img, model):
-    
+def pre_process_image(img, model):
+
     # TODO: we are gettting occasional ZeroDivisionError errors
-            # using a pretty shitty workaround atm
+    # using a pretty shitty workaround atm
     try:
         img, _ = pad_image(img, 3 / 4)
         img_input, org_h, org_w = model.pre_img(img)
@@ -87,33 +90,43 @@ def process_image(img, model):
     return img_input, (org_h, org_w)
 
 
+def post_process_image(i, org_w, org_h, heatmaps, model):
+    heatmap = np.expand_dims(heatmaps[i, :, :, :], axis=0)
+    return model.postprocess(heatmap, org_w, org_h)[0]
+
+
 def process_bbxs(config, model: VitInference, bbxs: List):
     """
-    Predict the keypoints for all bounding boxes in a single frame.
+    Predict the keypoints for a batch of bounding boxes.
     """
 
     @torch.no_grad()
     def _batch_inference_torch(imgs: List[np.ndarray]) -> List[np.ndarray]:
+        """
+        Process a list of cropped image arrays and return post-processed results.
+        """
 
         og_dims = []
         batch = []
-        
-        # using threadpool for now
+
         start = time.time()
-        with concurrent.futures.ThreadPoolExecutor(max_workers=1024) as executor:
-            future_to_img = {executor.submit(process_image, img, model): img for img in imgs}
+        # must use a threadpool
+        with concurrent.futures.ThreadPoolExecutor(max_workers=1028) as executor:
+            future_to_img = {
+                executor.submit(pre_process_image, img, model): img for img in imgs
+            }
             for future in concurrent.futures.as_completed(future_to_img):
                 img_input, dims = future.result()
                 batch.append(img_input)
                 og_dims.append(dims)
-                
+
         # stack imgs in batch
         batch = np.concatenate(batch, axis=0)
         logger.debug(f"pre-processing took {time.time() - start} seconds")
 
         # copy tensor -> cuda
         batch = torch.from_numpy(batch).to(torch.device(model.device))
-        
+
         # forward pass
         # TODO: when using a compiled model, we seem to get "hung up" on previously unseen batch sizes
         # this is not an issue on subsequent batches
@@ -121,35 +134,40 @@ def process_bbxs(config, model: VitInference, bbxs: List):
         heatmaps = model._vit_pose(batch).detach().cpu().numpy()
         logger.debug(f"forward pass took {time.time() - start} seconds")
 
-        # post process results
         start = time.time()
-        post_processed_imgs = []
-        for i, (org_h, org_w) in enumerate(og_dims):
-            heatmap = heatmaps[i, :, :, :]
-            heatmap = np.expand_dims(heatmap, axis=0)
-            post_processed_imgs.append(model.postprocess(heatmap, org_w, org_h)[0])
+        # post process results
+        post_processed_imgs = [None] * len(og_dims)
+
+        # must use a threadpool
+        # TODO: post-processing is still very expensive (~4s+)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=1028) as executor:
+            futures = [
+                executor.submit(post_process_image, i, org_w, org_h, heatmaps, model)
+                for i, (org_h, org_w) in enumerate(og_dims)
+            ]
+            for i, future in enumerate(futures):
+                post_processed_imgs[i] = future.result()
         logger.debug(f"post processing imgs took {time.time() - start} seconds")
-        
         return post_processed_imgs
 
     batches = []
     results = []
-    
-    # TODO: a batch size of 512 only uses ~1/4 GPU memory
-    # we can fit multiple clips into mem at once
-    batch_size = 1024
-    
+
+    # TODO: batch size of 96 is optimal on A6000s
+    batch_size = 96
+
     # generate batches
     for i in range(0, len(bbxs), batch_size):
         batches.append(bbxs[i : i + batch_size])
-        
     for batch in tqdm(batches, desc="generating keypoints for bounding boxes"):
         results.extend(_batch_inference_torch(batch))
+    del batches
+
     return results
 
 
 def process_video(config, annotation_path: str, model: VitInference):
-    
+
     # load annotations
     with open(annotation_path, "r") as f:
         annotations = json.load(f)
@@ -166,10 +184,6 @@ def process_video(config, annotation_path: str, model: VitInference):
     frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     bounding_boxes = []
     bounding_box_map = {}
-    
-    # optimize these values
-    x_pad = 15
-    y_pad = 15
 
     # 1. load all frames from a clip into memory
     # 2. create a list of bbxs for entire clip [bbx1, bbx2, ...]
@@ -177,7 +191,8 @@ def process_video(config, annotation_path: str, model: VitInference):
     # 4. process bbxs in batches of 64, get [results1, results2, ...]
     # 5. update annotations file
     # 6. write results
-    
+
+    # TODO: figure a faster loading scheme, even though this takes only ~.15s
     start = time.time()
     frame_idx = 0
     for i, frame_idx in zip(range(frame_count), unique_frame_ids.keys()):
@@ -188,30 +203,26 @@ def process_video(config, annotation_path: str, model: VitInference):
         for bbx_frame_obj_idx, bbx in enumerate(frame_obj["bbox"]):
             # crop frame
             x, y, width, height = (
-                min(int(bbx["x"]) - x_pad, 0),
-                min(int(bbx["y"]) - y_pad, 0),
-                int(bbx["width"]) + (2 * x_pad),
-                int(bbx["height"]) + (2 * y_pad),
+                int(bbx["x"]),
+                int(bbx["y"]),
+                int(bbx["width"]),
+                int(bbx["height"]),
             )
-            
-            # occasionally we run into imgs of size 0
-            # a simple but non-cost efficient fix:
-            width += 1
-            height += 1
-                
             cropped_frame = frame[y : y + height, x : x + width]
             bounding_boxes.append(cropped_frame)
             bbx_idx = len(bounding_boxes) - 1
             bounding_box_map[bbx_idx] = (i, bbx_frame_obj_idx)
-            
+
     end = time.time()
     logger.debug(f"loading frames took {end - start} seconds")
-        
+
     results = process_bbxs(config, model, bounding_boxes)
     for idx, result in enumerate(results):
         frame_idx, bbx_frame_obj_idx = bounding_box_map[idx]
-        annotations["frames"][frame_idx]["bbox"][bbx_frame_obj_idx]["keypoints"] = result
-        
+        annotations["frames"][frame_idx]["bbox"][bbx_frame_obj_idx][
+            "keypoints"
+        ] = result
+
     # write results
     out_fp = (
         config["results_dir"]
@@ -224,18 +235,14 @@ def process_video(config, annotation_path: str, model: VitInference):
     logger.info(f"writing results to {out_fp}")
     with open(out_fp, "w") as f:
         json.dump(annotations, f, indent=4, cls=NumpyEncoder)
+
+    gc.collect()
     return True
 
 
-def main(config):
-    # TODO: distribute across gpus
-    # q: how much memory are we currently using with bs = 1?
-
-    model_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME)
-    yolo_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME_YOLO)
-    logger.info(f"loading model from {model_path}")
-
-    # could yolo size be reduced?
+def worker(annotation_file_paths, model_path, yolo_path, config, device: str):
+    # process we run multiple times on the same gpu
+    # load model in each process
     model = VitInference(
         model_path,
         yolo_path,
@@ -243,18 +250,59 @@ def main(config):
         dataset=DATASET,
         yolo_size=320,
         is_video=False,
+        device=device,
     )
-
-    annotation_file_paths = glob(config["clips_annotations_dir"] + "/*/*/*.json")
-    
     files_processed = 0
     for annotation_file_path in annotation_file_paths:
         result = process_video(config, annotation_file_path, model)
         if not result:
             continue
         files_processed += 1
+        # TODO: stopping short rn like Frank Costanza
         if files_processed % 5 == 0:
             break
+    return files_processed
+
+
+def main(config):
+
+    # TODO: distribute across gpus
+    # q: how much memory are we currently using with bs = 1?
+    model_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME)
+    yolo_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME_YOLO)
+    logger.info(f"loading model from {model_path}")
+
+    # TODO: we can break up this file and distribute across a few subprocesses on the same gpu
+    # each process will need it's own copy of the model
+    annotation_file_paths = glob(config["clips_annotations_dir"] + "/*/*/*.json")
+
+    # fairly sure num_proc=8 per gpuis best
+    num_gpus = torch.cuda.device_count()
+    num_workers_per_gpu = 8
+    total_workers = num_gpus * num_workers_per_gpu
+
+    # split annotation file paths among worker processes
+    file_chunks = [
+        annotation_file_paths[i::total_workers] for i in range(total_workers)
+    ]
+
+    # create pool of workers
+    processes = []
+    for gpu_id in range(num_gpus):
+        for worker_id in range(num_workers_per_gpu):
+            chunk_id = gpu_id * num_workers_per_gpu + worker_id
+            p = mp.Process(
+                target=worker,
+                args=(file_chunks[chunk_id], model_path, yolo_path, config, gpu_id),
+            )
+            p.start()
+            processes.append(p)
+
+    # wait for workers to finish
+    for p in processes:
+        p.join()
+    total_files_processed = sum([p.exitcode for p in processes])
+    logger.info(f"Total files processed: {total_files_processed}")
 
 
 if __name__ == "__main__":
