@@ -258,9 +258,6 @@ def worker(annotation_file_paths, model_path, yolo_path, config, device: str):
         if not result:
             continue
         files_processed += 1
-        # TODO: stopping short rn like Frank Costanza
-        if files_processed % 5 == 0:
-            break
     return files_processed
 
 
@@ -287,6 +284,7 @@ def main(config):
     ]
 
     # create pool of workers
+    # TODO: we should be using torch mp, no?
     processes = []
     for gpu_id in range(num_gpus):
         for worker_id in range(num_workers_per_gpu):
@@ -301,6 +299,7 @@ def main(config):
     # wait for workers to finish
     for p in processes:
         p.join()
+        
     total_files_processed = sum([p.exitcode for p in processes])
     logger.info(f"Total files processed: {total_files_processed}")
 
