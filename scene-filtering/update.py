@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-annotations_dir = "/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/filtered-clip-annotations-bu"
+annotations_dir = "/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/filtered-clip-annotations"
 all_annotation_fps = glob(annotations_dir + "/*/*/*.json")
 root_dir = "/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset"
 
