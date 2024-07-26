@@ -7,7 +7,7 @@ import os
 import ujson as json
 
 from glob import glob
-from typing import List, Dict
+from typing import List, Dict, Optional
 from torch.utils.data import Dataset
 from mypath import Path
 from tqdm import trange
@@ -46,18 +46,24 @@ class NBAClips(Dataset):
         self.bbx_map = {}
         # current video frame tensors
         self.current_vid_frames = None
-        # pointers to current bbx and frame within annotation file
+        
+        # current annotation obj and bbx
         self.current_annotations = None
+        self.current_bbx = None
+        
+        # abs idx of the current annotation file loaded
         self.current_annotation_fp_idx = 0
         self.current_frame_idx = 0
-        self.current_bbx_idx = 0
         
-    def __getitem__(self, index) -> List[str]:
+        # within an annotation file
+        self.current_rel_bbx_idx = 0
+        # global pointer
+        self.current_abs_bbx_idx = 0
         
-        # TODO: how can we know ahead of time if we are at the end of an annotations file?
+    def __getitem__(self, index):
         
         # TODO: load video from mem + annotations obj from mem, del everything else
-        if index not in self.bbx_map:
+        if self.current_annotations is None:
             # congrats, we reached the end of the dataset
             if self.current_annotation_fp_idx >= len(self.annotation_file_paths):
                 return None
@@ -75,34 +81,51 @@ class NBAClips(Dataset):
 
             # reset pointers
             self.current_frame_idx = 0
-            self.current_bbx_idx = 0
+            self.current_rel_bbx_idx = 0
             
-            # TODO: this is the wrong place to increment this counter
-            self.current_annotation_fp_idx += 1
-            
-        # get next bbx
-
+        # load the next bounding box
+        self.current_bbx = self.current_annotations["frames"][self.current_frame_idx]["bbox"][self.current_rel_bbx_idx]
+        x, y, w, h = self.current_bbx['x'], self.current_bbx['y'], self.current_bbx['width'], self.current_bbx['height']
         
-        # update pointers
-        self.current_frame_idx += 1
-        self.current_bbx_idx += 1
+        # load the current cropped frame
+        curr_frame = self.current_vid_frames[self.current_frame_idx][y:y+h, x:x+w]
+        # next obj to be returned
+        # TODO: this needs to be a tensor copied to the same GPU device
+        curr_data_item = (self.current_annotation_fp_idx, self.current_frame_idx, self.current_rel_bbx_idx, curr_frame)
         
-        # if EOF -> increment annotations fp counter
+        # update bbx pointers
+        # always need to do this before checking for EOF
+        self.current_abs_bbx_idx += 1
+        self.current_rel_bbx_idx += 1
         
-        pass
-        
+        # check for EOF
+        total_frames = len(self.current_annotations["frames"])
+        num_bbxs_in_current_frames = len(self.current_annotations["frames"][self.current_frame_idx]["bbox"])
+        if self.current_bbx_idx >= num_bbxs_in_current_frames:
+            # we've reached the end of the current annotation file
+            if self.current_frame_idx >= total_frames:
+                self.current_annotation_fp_idx += 1
+            else:
+                # move to next frame
+                self.current_rel_bbx_idx = 0
+                self.current_frame_idx += 1
+                
+        return curr_data_item
+                
     def __len__(self) -> int:
         return len(self.annotation_file_paths)
     
     @staticmethod
-    def load_annotations(fp:str):
-        # slightly faster way to read a json
+    def load_annotations(fp:str) -> Dict:
+        # slightly faster way to read a json file
         with open(fp, 'rb') as f:
             return json.load(f)
         
-    @staticmethod
-    def get_video_fp(annotations_fp:str):
-        pass
+    def get_video_fp(self, root_dir:str) -> Optional[str]:
+        video_path = root_dir + self.current_annotations["video_path"]
+        if not os.path.exists(video_path):
+            return None
+        return video_path
         
     def get_annotation_file_paths(self) -> List[str]:
         """
