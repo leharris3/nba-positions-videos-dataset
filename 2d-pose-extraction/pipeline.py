@@ -17,6 +17,9 @@ do we need a 2-stage approach for max batch processing?
 import argparse
 import concurrent.futures
 import json
+import torch.utils
+import torch.utils.data
+import torch.utils.data.dataloader
 import yaml
 import logging
 import torch.multiprocessing as mp
@@ -30,6 +33,7 @@ import torch
 import gc
 import concurrent
 
+from torch.utils.data import Dataset, DataLoader
 from multiprocessing import Pool
 from typing import List
 from glob import glob
@@ -38,7 +42,10 @@ from easy_ViTPose.vit_utils.inference import pad_image
 from easy_ViTPose import VitInference
 from tqdm import tqdm
 from concurrent.futures import ProcessPoolExecutor, as_completed
+from utils.image_processing import pre_process_image, post_process_image
 
+# to avoid an error we get when calling torch.compile
+torch.set_float32_matmul_precision('high')
 
 EXT = ".pth"
 EXT_YOLO = ".pt"
@@ -57,13 +64,41 @@ logging.basicConfig(
     level=logging.DEBUG, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 )
 logger = logging.getLogger(__name__)
+    
+class ViTPoseCustom():
+    """
+    Custom model class for a easy_vit keypoint detection model.
+    """
+    
+    def __init__(self, model:torch.nn.Module, device:int):
+        self.model = model.to(device)
+    
 
-
-class NumpyEncoder(json.JSONEncoder):
-    def default(self, obj):
-        if isinstance(obj, np.ndarray):
-            return obj.tolist()
-        return super().default(obj)
+class ClipDataLoader(torch.utils):
+    """
+    Data loader class for a group of clips.
+    MOTIVATION: we want to be able to max out bs on a single proc.
+    """
+    
+    def __init__(self, annotations_dir: str) -> None:
+        self.dataset = torch.utils.data.dataloader.Dataset(
+            
+        )
+    
+    # what is the ideal format for our data?
+    # [frame[bbx], og_annotation_fp, frame_idx (relative), bbx_idx]
+    
+    # how should we handle loading multiple / overlapping clips?
+    # that is, when/how should we write results
+        # writing results is extreamly fast, just do it after each batch is parallel
+        
+    # 1. load a fixed batch of samples
+        # a. use a torch video loader obj to quickly load vids into tensors
+    # 2. pre-process and predict on entire batch
+    # 3. have some fast write func that can handle multiple fps
+    # 4. del previous batch from mem
+    
+    pass
 
 
 def get_unique_frame_ids(annotations):
@@ -72,27 +107,6 @@ def get_unique_frame_ids(annotations):
         frame_id = frame["frame_id"]
         unique_ids[frame_id] = index
     return unique_ids
-
-
-def pre_process_image(img, model):
-
-    # TODO: we are gettting occasional ZeroDivisionError errors
-    # using a pretty shitty workaround atm
-    try:
-        img, _ = pad_image(img, 3 / 4)
-        img_input, org_h, org_w = model.pre_img(img)
-    except Exception as e:
-        logger.error(f"Failed to pad image with shape {img.shape}, error: {e}")
-        # use a dummy image
-        img = np.zeros((256, 192, 3), dtype=np.uint8)
-        img, _ = pad_image(img, 3 / 4)
-        img_input, org_h, org_w = model.pre_img(img)
-    return img_input, (org_h, org_w)
-
-
-def post_process_image(i, org_w, org_h, heatmaps, model):
-    heatmap = np.expand_dims(heatmaps[i, :, :, :], axis=0)
-    return model.postprocess(heatmap, org_w, org_h)[0]
 
 
 def process_bbxs(config, model: VitInference, bbxs: List):
@@ -167,6 +181,12 @@ def process_bbxs(config, model: VitInference, bbxs: List):
 
 
 def process_video(config, annotation_path: str, model: VitInference):
+    
+    class NumpyEncoder(json.JSONEncoder):
+        def default(self, obj):
+            if isinstance(obj, np.ndarray):
+                return obj.tolist()
+            return super().default(obj)
 
     # load annotations
     with open(annotation_path, "r") as f:
@@ -192,7 +212,10 @@ def process_video(config, annotation_path: str, model: VitInference):
     # 5. update annotations file
     # 6. write results
 
-    # TODO: figure a faster loading scheme, even though this takes only ~.15s
+    # TODO: loading speed is not really a significant concern atm
+    # TODO: data loading should be an async operation, that is we are always using extra CPU to fetch more clip bbxs in the bg
+    # TODO: why don't we just load all frames into mem, load bbx objs and crop on-demand?
+    
     start = time.time()
     frame_idx = 0
     for i, frame_idx in zip(range(frame_count), unique_frame_ids.keys()):
@@ -241,9 +264,10 @@ def process_video(config, annotation_path: str, model: VitInference):
 
 
 def worker(annotation_file_paths, model_path, yolo_path, config, device: str):
+    
     # process we run multiple times on the same gpu
     # load model in each process
-    model = VitInference(
+    infer_model_obj = VitInference(
         model_path,
         yolo_path,
         MODEL_SIZE,
@@ -252,6 +276,10 @@ def worker(annotation_file_paths, model_path, yolo_path, config, device: str):
         is_video=False,
         device=device,
     )
+    
+    # create a custom model object
+    model = ViTPoseCustom(infer_model_obj._vit_pose)
+    
     files_processed = 0
     for annotation_file_path in annotation_file_paths:
         result = process_video(config, annotation_file_path, model)
@@ -264,6 +292,8 @@ def worker(annotation_file_paths, model_path, yolo_path, config, device: str):
 def main(config):
 
     # TODO: distribute across gpus
+    # TODO: use a proper dataloader
+    
     # q: how much memory are we currently using with bs = 1?
     model_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME)
     yolo_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME_YOLO)
@@ -272,6 +302,17 @@ def main(config):
     # TODO: we can break up this file and distribute across a few subprocesses on the same gpu
     # each process will need it's own copy of the model
     annotation_file_paths = glob(config["clips_annotations_dir"] + "/*/*/*.json")
+    logger.info(f"{len(annotation_file_paths)} total files to process")
+    dst_dir = "/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/2d-poses-raw/filtered-clips"
+    
+    to_process_names = {'_'.join(os.path.basename(x).split('_')[0: -2]): x for x in annotation_file_paths}
+    already_processed_names = ['_'.join(os.path.basename(x).split('_')[0: -2]) for x in glob(dst_dir + "/*/*/*.json")]
+    
+    for name in already_processed_names: 
+        if name in to_process_names:
+            del to_process_names[name]
+    annotation_file_paths = list(to_process_names.values())
+    logger.info(f"{len(annotation_file_paths)} files remaining to process")
 
     # fairly sure num_proc=8 per gpuis best
     num_gpus = torch.cuda.device_count()
