@@ -28,9 +28,10 @@ from typing import List, Dict, Optional
 from glob import glob
 from huggingface_hub import hf_hub_download
 from tqdm import tqdm
-from concurrent.futures import ProcessPoolExecutor, as_completed
+from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor, as_completed
+
+from easy_ViTPose.vit_utils.top_down_eval import keypoints_from_heatmaps
 from easy_ViTPose import VitInference
-from utils.image_processing import pre_process_image, post_process_image
 from utils.data import NBAClips
 
 # to avoid an error we get when calling torch.compile
@@ -62,7 +63,34 @@ class ViTPoseCustom:
 
     def __init__(self, model: torch.nn.Module, device: int):
         self.model = model.to(device).eval()
-        self.model = torch.compile(self.model).half()
+        self.model = torch.compile(self.model)
+
+
+def postprocess(heatmaps, org_w, org_h):
+    """
+    Postprocess the heatmaps to obtain keypoints and their probabilities.
+
+    Args:
+        heatmaps (ndarray): Heatmap predictions from the model.
+        org_w (int): Original width of the image.
+        org_h (int): Original height of the image.
+
+    Returns:
+        ndarray: Processed keypoints with probabilities.
+    """
+    points, prob = keypoints_from_heatmaps(
+        heatmaps=heatmaps,
+        center=np.array([[org_w // 2, org_h // 2]]),
+        scale=np.array([[org_w, org_h]]),
+        unbiased=True,
+        use_udp=True,
+    )
+    return np.concatenate([points[:, :, ::-1], prob], axis=2)
+
+
+def process_hm(args):
+    hm, w, h = args
+    return postprocess(hm[np.newaxis], w, h)
 
 
 def worker(device: str, config: Dict, annotation_fps: List[str]) -> None:
@@ -77,14 +105,13 @@ def worker(device: str, config: Dict, annotation_fps: List[str]) -> None:
         is_video=False,
         device="cpu",
     )
-
     # create a custom model object
     model: ViTPoseCustom = ViTPoseCustom(infer_model_obj._vit_pose, device)
     del infer_model_obj
-
+    # create dataset
     logger.info(f"Creating dataset")
     dataset = NBAClips(config, annotation_fps, device)
-
+    # create dataloader
     logger.info(f"Creating dataloader")
     dataloader = DataLoader(
         dataset,
@@ -92,8 +119,7 @@ def worker(device: str, config: Dict, annotation_fps: List[str]) -> None:
         num_workers=config["num_workers"],
         pin_memory=False,
     )
-
-    # lil test for now
+    # torch.no_grad() needed to get massive memory savings
     with torch.no_grad():
         for i, (
             batch,
@@ -105,25 +131,32 @@ def worker(device: str, config: Dict, annotation_fps: List[str]) -> None:
         ) in enumerate(dataloader):
             print(curr_annotation_fp_idx)
             start = time.time()
-
             # copy -> gpu
             batch = batch.to(device)
             # forward pass
-            _ = model.model(batch)
-
+            # result = (B, H, W, 3)
+            heatmaps = model.model(batch).detach().cpu().numpy()
+            og_h = og_h.tolist()
+            og_w = og_w.tolist()
+            print(heatmaps.shape)
+            logger.info(f"post processing batch {i}")
+            start_post = time.time()
+            # TODO: support for batch processing
+            # TODO: parallel processing
+            args_list = list(zip(heatmaps, og_w, og_h))
+            with ThreadPoolExecutor() as executor:
+                results = list(executor.map(process_hm, args_list))
+            results = np.array(results)
+            logger.info(f"post processing took {time.time() - start_post} seconds")
             # logging
             end = time.time()
             logger.info(f"batch {i} took {end - start} seconds")
-
             # cleanup
             del batch
             gc.collect()
 
-            # TODO: post-processing
-
 
 def main(config):
-
     # initally load model
     model_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME)
     yolo_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME_YOLO)
@@ -131,18 +164,14 @@ def main(config):
 
     config["model_path"] = model_path
     config["yolo_path"] = yolo_path
-
     # all annotation paths
     annotation_file_paths = glob(config["clips_annotations_dir"] + "/*/*/*.json")
     logger.info(f"{len(annotation_file_paths)} total files to process")
-
     # fairly sure num_proc=8 per gpus best
     num_gpus = torch.cuda.device_count()
     num_gpus = 1
-
     # split annotation file paths among workerss
     file_chunks = [annotation_file_paths[i::num_gpus] for i in range(num_gpus)]
-
     # create pool of workers
     # don't need a manager atm
     manager = mp.Manager()

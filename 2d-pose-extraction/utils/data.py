@@ -109,7 +109,7 @@ class NBAClips(Dataset):
         curr_frame_pre_processed, og_h, og_w = NBAClips.pre(np.array(curr_frame_cropped))
         
         # copy tensor -> GPU
-        curr_frame_pre_processed = torch.tensor(curr_frame_pre_processed).squeeze().half()
+        curr_frame_pre_processed = torch.tensor(curr_frame_pre_processed).squeeze()
 
         # curr obj to be returned
         curr_data_item = (
