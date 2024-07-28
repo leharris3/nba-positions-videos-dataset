@@ -1,10 +1,12 @@
 #!/bin/bash
 #SBATCH --partition=a6000
-#SBATCH --nodelist=megatron.ib
+#SBATCH --nodelist=mirage.ib
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=16
 #SBATCH --gres=gpu:8
 #SBATCH --time=24:00:00
+
+export OMP_NUM_THREADS=32
 
 VENV_NAME="2dpose"
 PROJ_ROOT=$ENDPOINT/nba-positions-videos-dataset/2d-pose-extraction

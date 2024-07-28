@@ -5,37 +5,38 @@
 """
 
 import argparse
-import concurrent.futures
-import json
 import torch.utils
 import torch.utils.data
 import torch.utils.data.dataloader
 import yaml
 import logging
 import torch.multiprocessing as mp
-import cv2
 import numpy as np
-import json
 import os
 import time
 import torch
 import gc
-import concurrent
 
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import DataLoader
 from multiprocessing import Pool
 from typing import List, Dict, Optional
 from glob import glob
 from huggingface_hub import hf_hub_download
 from tqdm import tqdm
-from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
 
-from easy_ViTPose.vit_utils.top_down_eval import keypoints_from_heatmaps
 from easy_ViTPose import VitInference
 from utils.data import NBAClips
+from utils.model import ViTPoseCustom
+from utils.post_processing import (
+    process_hm,
+    update_results,
+)
 
 # to avoid an error we get when calling torch.compile
 torch.set_float32_matmul_precision("high")
+torch.jit.enable_onednn_fusion(True)
+
 
 EXT = ".pth"
 EXT_YOLO = ".pt"
@@ -56,62 +57,25 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-class ViTPoseCustom:
+@torch.no_grad()
+def worker(
+    device: str, config: Dict, model_loader: ViTPoseCustom, annotation_fps: List
+) -> None:
     """
-    Custom model class for a easy_vit keypoint detection model.
+    Single worker process for a GPU.
+    Represents one instance of a dataset a model.
+    PyTorch best practices for inference workloads: https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html
     """
 
-    def __init__(self, model: torch.nn.Module, device: int):
-        self.model = model.to(device).eval()
-        self.model = torch.compile(self.model)
+    model = model_loader.get_model(device)
+    annotation_fps = annotation_fps[int(device)]
 
-
-def postprocess(heatmaps, org_w, org_h):
-    """
-    Postprocess the heatmaps to obtain keypoints and their probabilities.
-
-    Args:
-        heatmaps (ndarray): Heatmap predictions from the model.
-        org_w (int): Original width of the image.
-        org_h (int): Original height of the image.
-
-    Returns:
-        ndarray: Processed keypoints with probabilities.
-    """
-    points, prob = keypoints_from_heatmaps(
-        heatmaps=heatmaps,
-        center=np.array([[org_w // 2, org_h // 2]]),
-        scale=np.array([[org_w, org_h]]),
-        unbiased=True,
-        use_udp=True,
-    )
-    return np.concatenate([points[:, :, ::-1], prob], axis=2)
-
-
-def process_hm(args):
-    hm, w, h = args
-    return postprocess(hm[np.newaxis], w, h)
-
-
-def worker(device: str, config: Dict, annotation_fps: List[str]) -> None:
-    # process we run multiple times on the same gpu
-    # load model in each process
-    infer_model_obj = VitInference(
-        config["model_path"],
-        config["yolo_path"],
-        MODEL_SIZE,
-        dataset=DATASET,
-        yolo_size=320,
-        is_video=False,
-        device="cpu",
-    )
-    # create a custom model object
-    model: ViTPoseCustom = ViTPoseCustom(infer_model_obj._vit_pose, device)
-    del infer_model_obj
     # create dataset
     logger.info(f"Creating dataset")
     dataset = NBAClips(config, annotation_fps, device)
+
     # create dataloader
+    # pinning data to gpu is mainly important in training workloads
     logger.info(f"Creating dataloader")
     dataloader = DataLoader(
         dataset,
@@ -119,69 +83,103 @@ def worker(device: str, config: Dict, annotation_fps: List[str]) -> None:
         num_workers=config["num_workers"],
         pin_memory=False,
     )
-    # torch.no_grad() needed to get massive memory savings
-    with torch.no_grad():
-        for i, (
-            batch,
-            curr_annotation_fp_idx,
-            curr_frame_idx,
-            curr_rel_bbx_idx,
-            og_h,
-            og_w,
-        ) in enumerate(dataloader):
-            print(curr_annotation_fp_idx)
-            start = time.time()
-            # copy -> gpu
-            batch = batch.to(device)
-            # forward pass
-            # result = (B, H, W, 3)
-            heatmaps = model.model(batch).detach().cpu().numpy()
-            og_h = og_h.tolist()
-            og_w = og_w.tolist()
-            print(heatmaps.shape)
-            logger.info(f"post processing batch {i}")
-            start_post = time.time()
-            # TODO: support for batch processing
-            # TODO: parallel processing
-            args_list = list(zip(heatmaps, og_w, og_h))
-            with ThreadPoolExecutor() as executor:
-                results = list(executor.map(process_hm, args_list))
-            results = np.array(results)
-            logger.info(f"post processing took {time.time() - start_post} seconds")
-            # logging
-            end = time.time()
-            logger.info(f"batch {i} took {end - start} seconds")
-            # cleanup
-            del batch
-            gc.collect()
+
+    # main infer loop
+    # torch.no_grad() saves lots and lots of mem
+    for i, (
+        batch,
+        curr_annotation_fp_idx,
+        curr_frame_idx,
+        curr_rel_bbx_idx,
+        og_h,
+        og_w,
+    ) in enumerate(dataloader):
+        start = time.time()
+        # copy -> gpu
+        batch = batch.to(device)
+
+        # forward pass
+        # result = (B, H, W, 3)
+        # convert to from fp16 -> f32
+        if config["use_half_precision"] == "True":
+            logger.debug("Casting heatmaps from fp16 -> f32")
+            heatmaps = model(batch).float().detach().cpu().numpy()
+        else:
+            heatmaps = model(batch).detach().cpu().numpy()
+
+        og_h = og_h.tolist()
+        og_w = og_w.tolist()
+
+        logger.debug(f"post processing batch {i}")
+        start_post = time.time()
+        args_list = list(zip(heatmaps, og_w, og_h))
+        with ThreadPoolExecutor() as executor:
+            results = list(executor.map(process_hm, args_list))
+
+        # remove errored results
+        results = [res for res in results if res is not None]
+
+        # write results to out
+        update_results(
+            config,
+            results,
+            annotation_fps,
+            curr_annotation_fp_idx.tolist(),
+            curr_frame_idx.tolist(),
+            curr_rel_bbx_idx.tolist(),
+        )
+
+        logger.debug(f"post processing took {time.time() - start_post} seconds")
+        end = time.time()
+        logger.debug(f"batch {i} took {end - start} seconds")
+
+        # cleanup
+        del batch
+        gc.collect()
 
 
 def main(config):
+
     # initally load model
     model_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME)
     yolo_path = hf_hub_download(repo_id=REPO_ID, filename=FILENAME_YOLO)
-    logger.info(f"loading model from {model_path}")
 
+    # easy ViTPose inference onj
+    infer_model_obj = VitInference(
+        model_path,
+        yolo_path,
+        MODEL_SIZE,
+        dataset=DATASET,
+        yolo_size=320,
+        is_video=False,
+        device="cpu",
+    )
+    # create a custom model object
+    model_loader: ViTPoseCustom = ViTPoseCustom(
+        config=config, model=infer_model_obj._vit_pose
+    )
+
+    logger.info(f"loading model from {model_path}")
     config["model_path"] = model_path
     config["yolo_path"] = yolo_path
+
     # all annotation paths
     annotation_file_paths = glob(config["clips_annotations_dir"] + "/*/*/*.json")
     logger.info(f"{len(annotation_file_paths)} total files to process")
+
     # fairly sure num_proc=8 per gpus best
-    num_gpus = torch.cuda.device_count()
-    num_gpus = 1
+    num_gpus = config["num_gpus"]
+
     # split annotation file paths among workerss
     file_chunks = [annotation_file_paths[i::num_gpus] for i in range(num_gpus)]
+
     # create pool of workers
-    # don't need a manager atm
-    manager = mp.Manager()
-    for gpu_id in range(num_gpus):
-        mp.spawn(
-            worker,
-            args=(config, file_chunks[gpu_id]),
-            nprocs=1,
-            join=True,
-        )
+    mp.spawn(
+        worker,
+        args=(config, model_loader, file_chunks),
+        nprocs=config["num_gpus"],
+        join=True,
+    )
 
 
 if __name__ == "__main__":

@@ -36,8 +36,9 @@ class NBAClips(Dataset):
         # map of {abs_bbx_idx: BoundingBox}
         # how big is the obj. going to be?
         self.bbx_map = {}
-        
+
         # current video capture
+        # TODO: use torch vision dataloader instead
         self.cap = None
         self.curr_frame = None
 
@@ -51,7 +52,7 @@ class NBAClips(Dataset):
 
         # within an annotation file
         self.current_rel_bbx_idx = 0
-        
+
         # global bounding box pointer
         self.current_abs_bbx_idx = 0
 
@@ -85,10 +86,33 @@ class NBAClips(Dataset):
             self.current_frame_idx = 0
             self.current_rel_bbx_idx = 0
 
+            # check for EOF
+
+        # check for EOF
+        total_frames = len(self.current_annotations["frames"])
+        num_bbxs_in_current_frames = len(
+            self.current_annotations["frames"][self.current_frame_idx]["bbox"]
+        )
+        #
+        if self.current_rel_bbx_idx >= num_bbxs_in_current_frames:
+            self.current_rel_bbx_idx = 0
+            self.current_frame_idx += 1
+            self.curr_frame = self.cap.read()[1]
+            if self.current_frame_idx >= total_frames or self.curr_frame is None:
+                self.current_frame_idx = 0
+                self.current_annotation_fp_idx += 1
+                self.current_annotations = None
+                return self.__getitem__(index)
+
         # load the next bounding box
-        self.current_bbx = self.current_annotations["frames"][self.current_frame_idx][
-            "bbox"
-        ][self.current_rel_bbx_idx]
+        try:
+            self.current_bbx = self.current_annotations["frames"][
+                self.current_frame_idx
+            ]["bbox"][self.current_rel_bbx_idx]
+        except IndexError:
+            self.current_frame_idx += 1
+            self.current_rel_bbx_idx = 0
+            return self.__getitem__(index)
 
         x, y, w, h = map(
             int,
@@ -101,15 +125,19 @@ class NBAClips(Dataset):
         )
 
         # crop the current frame
-        curr_frame_cropped = self.curr_frame[
-            y : y + h, x : x + w
-        ]
+        curr_frame_cropped = self.curr_frame[y : y + h, x : x + w]
 
         # resize + normalize
-        curr_frame_pre_processed, og_h, og_w = NBAClips.pre(np.array(curr_frame_cropped))
-        
+        curr_frame_pre_processed, og_h, og_w = NBAClips.pre(
+            np.array(curr_frame_cropped)
+        )
+
         # copy tensor -> GPU
         curr_frame_pre_processed = torch.tensor(curr_frame_pre_processed).squeeze()
+
+        # cast to fp16
+        if self.config["use_half_precision"] == "True":
+            curr_frame_pre_processed = curr_frame_pre_processed.half()
 
         # curr obj to be returned
         curr_data_item = (
@@ -125,20 +153,6 @@ class NBAClips(Dataset):
         # always need to do this before checking for EOF
         self.current_abs_bbx_idx += 1
         self.current_rel_bbx_idx += 1
-
-        # check for EOF
-        total_frames = len(self.current_annotations["frames"])
-        num_bbxs_in_current_frames = len(
-            self.current_annotations["frames"][self.current_frame_idx]["bbox"]
-        )
-        if self.current_rel_bbx_idx >= num_bbxs_in_current_frames:
-            self.current_rel_bbx_idx = 0
-            self.current_frame_idx += 1
-            self.curr_frame = self.cap.read()[1]
-            if self.current_frame_idx >= total_frames or self.curr_frame is None:
-                self.current_frame_idx = 0
-                self.current_annotation_fp_idx += 1
-                self.current_annotations = None
 
         # print(f"time to get item: {time.time() - start}")
         return curr_data_item
@@ -166,14 +180,18 @@ class NBAClips(Dataset):
     def pre(img):
         try:
             org_h, org_w = img.shape[:2]
-            img_input = cv2.resize(img, TARGET_SIZE, interpolation=cv2.INTER_LINEAR) / 255
+            img_input = (
+                cv2.resize(img, TARGET_SIZE, interpolation=cv2.INTER_LINEAR) / 255
+            )
             img_input = (
                 ((img_input - MEAN) / STD).transpose(2, 0, 1)[None].astype(np.float32)
             )
         except:
             img = np.zeros((TARGET_SIZE[1], TARGET_SIZE[0], 3))
             org_h, org_w = img.shape[:2]
-            img_input = cv2.resize(img, TARGET_SIZE, interpolation=cv2.INTER_LINEAR) / 255
+            img_input = (
+                cv2.resize(img, TARGET_SIZE, interpolation=cv2.INTER_LINEAR) / 255
+            )
             img_input = (
                 ((img_input - MEAN) / STD).transpose(2, 0, 1)[None].astype(np.float32)
             )
