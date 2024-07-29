@@ -2,7 +2,9 @@ import json
 import logging
 import numpy as np
 import os
+import torch
 
+from concurrent.futures import ThreadPoolExecutor
 from typing import Dict, List, Optional
 from utils.data import NBAClips
 from utils.model import ViTPoseCustom
@@ -15,14 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-class NumpyEncoder(json.JSONEncoder):
-    def default(self, obj):
-        if isinstance(obj, np.ndarray):
-            return obj.tolist()
-        return super().default(obj)
-
-
-def postprocess(heatmaps, org_w, org_h):
+def postprocess(heatmaps, org_w, org_h) -> np.ndarray:
     """
     Postprocess the heatmaps to obtain keypoints and their probabilities.
 
@@ -34,6 +29,10 @@ def postprocess(heatmaps, org_w, org_h):
     Returns:
         ndarray: Processed keypoints with probabilities.
     """
+
+    # TODO: parallel post-processing
+    # TODO: not doing post-processing ATM
+    # post-processing smooths results for the same person, but also dramtically increases processing time
     points, prob = keypoints_from_heatmaps(
         heatmaps=heatmaps,
         center=np.array([[org_w // 2, org_h // 2]]),
@@ -44,16 +43,69 @@ def postprocess(heatmaps, org_w, org_h):
     return np.concatenate([points[:, :, ::-1], prob], axis=2)
 
 
-def process_hm(args):
+def process_hm(args) -> Optional[np.ndarray]:
+    """
+    Process a single heatmap.
+    """
+
     hm, w, h = args
     try:
         return postprocess(hm[np.newaxis], w, h)
-    except:
-        logger.error(f"Error processing: {args}")
+    except Exception as e:
+        logger.error(f"Error processing: {hm.shape}, {w}, {h}")
+        logger.error(e)
         return None
 
 
+def post_process_results(
+    heatmaps, og_w: torch.Tensor, og_h: torch.Tensor, device
+) -> List[np.ndarray]:
+    """
+    Postprocess the heatmaps to obtain keypoints and their probabilities.
+
+    Args:
+        heatmaps (List[ndarray]): Heatmap predictions from the model.
+        og_w (int): Original width of the image.
+        og_h (int): Original height of the image.
+
+    Returns:
+        List[ndarray]: Processed keypoints with probabilities.
+    """
+
+    # og_w, og_h = og_w.tolist(), og_h.tolist()
+    # args_list = list(zip(heatmaps, og_w, og_h))
+    # with ThreadPoolExecutor() as executor:
+    #     results = list(executor.map(process_hm, args_list))
+
+    # TODO: default batch post-processing is ungodly slow!!!
+    logger.debug(f"Postprocessing {heatmaps.shape} heatmaps")
+    logger.debug(f"og_w: {og_w.shape}, og_h: {og_h.shape}")
+    logger.debug(f"og_w: {og_w}, og_h: {og_h}")
+
+    centers_arr = np.array([[x1, y1] for x1, y1 in zip(og_w // 2, og_h // 2)])
+    scales_arr = np.array([[x1, y1] for x1, y1 in zip(og_w, og_h)])
+
+    # TODO: will setting unbiased=False and/or use_udp=False fuck my shit up????
+    points, prob = keypoints_from_heatmaps(
+        heatmaps=heatmaps,
+        center=centers_arr,
+        scale=scales_arr,
+        unbiased=True,
+        use_udp=True,
+        device=device,
+    )
+    # TODO: is return type okay?
+    return list(np.concatenate([points[:, :, ::-1], prob], axis=2))
+
+
 def write_results(out_fp: str, results: Dict):
+
+    class NumpyEncoder(json.JSONEncoder):
+        def default(self, obj):
+            if isinstance(obj, np.ndarray):
+                return obj.tolist()
+            return super().default(obj)
+
     with open(out_fp, "w") as f:
         json.dump(results, f, indent=4, cls=NumpyEncoder)
 

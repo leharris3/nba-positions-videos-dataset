@@ -20,6 +20,8 @@ class ViTPoseCustom:
 
         # set to infer mode
         self.model.eval()
+
+        # TODO: order matters
         if config["use_half_precision"] == "True":
             self.model = self.model.half()
         if config["compile_model"] == "True":

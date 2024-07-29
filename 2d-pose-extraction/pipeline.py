@@ -29,18 +29,20 @@ from easy_ViTPose import VitInference
 from utils.data import NBAClips
 from utils.model import ViTPoseCustom
 from utils.post_processing import (
-    process_hm,
+    post_process_results,
     update_results,
 )
 
 # to avoid an error we get when calling torch.compile
 torch.set_float32_matmul_precision("high")
 torch.jit.enable_onednn_fusion(True)
+# run a quick benchmark to find the best backend for convolutions
+torch.backends.cudnn.benchmark = True
 
 
 EXT = ".pth"
 EXT_YOLO = ".pt"
-MODEL_SIZE = "h"
+MODEL_SIZE = "b"
 YOLO_SIZE = "s"
 DATASET = "wholebody"
 MODEL_TYPE = "torch"
@@ -57,7 +59,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-@torch.no_grad()
+@torch.inference_mode()
 def worker(
     device: str, config: Dict, model_loader: ViTPoseCustom, annotation_fps: List
 ) -> None:
@@ -94,32 +96,37 @@ def worker(
         og_h,
         og_w,
     ) in enumerate(dataloader):
-        start = time.time()
+
         # copy -> gpu
+        start = time.time()
         batch = batch.to(device)
 
         # forward pass
         # result = (B, H, W, 3)
         # convert to from fp16 -> f32
+        forward_start = time.time()
         if config["use_half_precision"] == "True":
             logger.debug("Casting heatmaps from fp16 -> f32")
             heatmaps = model(batch).float().detach().cpu().numpy()
         else:
             heatmaps = model(batch).detach().cpu().numpy()
+        logger.debug(f"forward pass took {time.time() - forward_start} seconds")
 
-        og_h = og_h.tolist()
-        og_w = og_w.tolist()
-
-        logger.debug(f"post processing batch {i}")
+        # post process all results
+        logger.debug(f"post-processing batch {i}")
         start_post = time.time()
-        args_list = list(zip(heatmaps, og_w, og_h))
-        with ThreadPoolExecutor() as executor:
-            results = list(executor.map(process_hm, args_list))
+        
+        # TODO: optimize (7s+ per batch)
+        results = post_process_results(heatmaps, og_w, og_h, device=device)
+        logger.debug(f"post-processing took {time.time() - start_post} seconds")
 
         # remove errored results
         results = [res for res in results if res is not None]
 
+        write_start = time.time()
+        
         # write results to out
+        # TODO: optimize (~5-7s per batch)
         update_results(
             config,
             results,
@@ -128,8 +135,8 @@ def worker(
             curr_frame_idx.tolist(),
             curr_rel_bbx_idx.tolist(),
         )
+        logger.debug(f"writing results took {time.time() - write_start} seconds")
 
-        logger.debug(f"post processing took {time.time() - start_post} seconds")
         end = time.time()
         logger.debug(f"batch {i} took {end - start} seconds")
 
@@ -163,8 +170,17 @@ def main(config):
     config["model_path"] = model_path
     config["yolo_path"] = yolo_path
 
-    # all annotation paths
-    annotation_file_paths = glob(config["clips_annotations_dir"] + "/*/*/*.json")
+    # TODO: cheap lil hack for now
+    # annotation_file_paths = glob(config["clips_annotations_dir"] + "/*/*/*.json")[::-1]
+    src_dir = '/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/filtered-clip-annotations'
+    dst_dir = '/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/2d-poses-raw/'
+    dsts = [os.path.basename(fp) for fp in glob(dst_dir + '/*/*/*.json')]
+    annotation_file_paths = [fp for fp in glob(src_dir + '/*/*/*.json') if os.path.basename(fp) not in dsts]
+    
+    # use only second half of files
+    # annotation_file_paths = annotation_file_paths[len(annotation_file_paths) // 2:]
+    # annotation_file_paths = annotation_file_paths[:len(annotation_file_paths) // 2]
+    
     logger.info(f"{len(annotation_file_paths)} total files to process")
 
     # fairly sure num_proc=8 per gpus best
