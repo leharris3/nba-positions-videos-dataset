@@ -57,38 +57,18 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-@torch.inference_mode()
-def worker(
-    device: str, config: Dict, model_loader: ViTPoseCustom, annotation_fps: List
-) -> None:
-    """
-    Single worker process for a GPU.
-    Represents one instance of a dataset a model.
-    PyTorch best practices for inference workloads: https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html
-    """
-
-    model = model_loader.get_model(device)
-    annotation_fps = annotation_fps[int(device)]
-
-    # create dataset
-    logger.info(f"Creating dataset")
-    dataset = NBAClips(config, annotation_fps, device)
-
-    # create dataloader
-    # pinning data to gpu is mainly important in training workloads
-    logger.info(f"Creating dataloader")
-    dataloader = DataLoader(
-        dataset,
-        batch_size=config["batch_size"],
-        num_workers=config["num_workers"],
-        pin_memory=False,
-    )
-
-    # for writing results to files async
-    background_tasks = set()
-
+async def run_inference(
+    device: str,
+    config: Dict,
+    model_loader: ViTPoseCustom,
+    annotation_fps: List,
+    dataloader: torch.utils.data.dataloader,
+    model,
+):
     # main infer loop
     # torch.no_grad() saves lots and lots of mem
+    
+    write_tasks = []
     for i, (
         batch,
         curr_annotation_fp_idx,
@@ -110,7 +90,7 @@ def worker(
         # faster to keep tensor on GPU and use pytorch ops for post-processing, then copy to cpu later
         if config["use_half_precision"] == "True":
             logger.debug("Casting heatmaps from fp16 -> f32")
-            heatmaps = model(batch).float() # .detach().cpu().numpy()
+            heatmaps = model(batch).float()  # .detach().cpu().numpy()
         else:
             heatmaps = model(batch)  # .detach().cpu().numpy()
         logger.debug(f"forward pass took {time.time() - forward_start} seconds")
@@ -150,14 +130,15 @@ def worker(
         # write results to out
         # TODO: optimize (~5-7s per batch)
         write_start = time.time()
-        update_results(
+        task = asyncio.create_task(update_results(
             config,
             results,
             annotation_fps,
             curr_annotation_fp_idx.tolist(),
             curr_frame_idx.tolist(),
             curr_rel_bbx_idx.tolist(),
-        )
+        ))
+        write_tasks.append(task)
 
         logger.debug(f"writing results took {time.time() - write_start} seconds")
         end = time.time()
@@ -166,6 +147,40 @@ def worker(
         # cleanup
         del batch
         gc.collect()
+        
+    await asyncio.gather(*write_tasks)
+
+
+@torch.inference_mode()
+def worker(
+    device: str, config: Dict, model_loader: ViTPoseCustom, annotation_fps: List
+) -> None:
+    """
+    Single worker process for a GPU.
+    Represents one instance of a dataset a model.
+    PyTorch best practices for inference workloads: https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html
+    """
+
+    model = model_loader.get_model(device)
+    annotation_fps = annotation_fps[int(device)]
+
+    # create dataset
+    logger.info(f"Creating dataset")
+    dataset = NBAClips(config, annotation_fps, device)
+
+    # create dataloader
+    # pinning data to gpu is mainly important in training workloads
+    logger.info(f"Creating dataloader")
+    dataloader = DataLoader(
+        dataset,
+        batch_size=config["batch_size"],
+        num_workers=config["num_workers"],
+        pin_memory=False,
+    )
+
+    asyncio.run(
+        run_inference(device, config, model_loader, annotation_fps, dataloader, model)
+    )
 
 
 def main(config):
