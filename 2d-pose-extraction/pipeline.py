@@ -32,6 +32,7 @@ from utils.post_processing import (
     post_process_results,
     update_results,
 )
+from utils.results import update_results
 
 # to avoid an error we get when calling torch.compile
 torch.set_float32_matmul_precision("high")
@@ -119,16 +120,15 @@ def worker(
         start_post = time.time()
 
         # TODO: optimize (7s+ per batch)
-        # try:
-        #     results = post_process_results(heatmaps, og_w, og_h, device=device)
-        # except Exception as e:
-        #     logger.error(
-        #         f"Error post-processing batch: {heatmaps.shape}, {og_w}, {og_h}"
-        #     )
-        #     logger.error(e)
-        #     continue
+        try:
+            results = post_process_results(heatmaps, og_w, og_h, device=device)
+        except Exception as e:
+            logger.error(
+                f"Error post-processing batch: {heatmaps.shape}, {og_w}, {og_h}"
+            )
+            logger.error(e)
+            continue
         
-        results = post_process_results(heatmaps, og_w, og_h, device=device)    
         logger.debug(f"post-processing took {time.time() - start_post} seconds")
 
         # remove errored results
