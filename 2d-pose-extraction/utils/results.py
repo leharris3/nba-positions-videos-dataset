@@ -47,7 +47,7 @@ def group_result(annotation_fps, grouped_results, result, fp_idx, frame_idx, rel
     grouped_results[fp].append((result, frame_idx, rel_bbx_idx))
 
 
-async def update_results(
+def update_results(
     config: Dict,
     results: List,
     annotation_fps: List[str],

@@ -56,8 +56,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-
-async def run_inference(
+@torch.inference_mode()
+def run_inference(
     device: str,
     config: Dict,
     model_loader: ViTPoseCustom,
@@ -68,7 +68,6 @@ async def run_inference(
     # main infer loop
     # torch.no_grad() saves lots and lots of mem
     
-    write_tasks = []
     for i, (
         batch,
         curr_annotation_fp_idx,
@@ -130,15 +129,14 @@ async def run_inference(
         # write results to out
         # TODO: optimize (~5-7s per batch)
         write_start = time.time()
-        task = asyncio.create_task(update_results(
+        update_results(
             config,
             results,
             annotation_fps,
             curr_annotation_fp_idx.tolist(),
             curr_frame_idx.tolist(),
             curr_rel_bbx_idx.tolist(),
-        ))
-        write_tasks.append(task)
+        )
 
         logger.debug(f"writing results took {time.time() - write_start} seconds")
         end = time.time()
@@ -147,8 +145,6 @@ async def run_inference(
         # cleanup
         del batch
         gc.collect()
-        
-    await asyncio.gather(*write_tasks)
 
 
 @torch.inference_mode()
@@ -178,9 +174,7 @@ def worker(
         pin_memory=False,
     )
 
-    asyncio.run(
-        run_inference(device, config, model_loader, annotation_fps, dataloader, model)
-    )
+    run_inference(device, config, model_loader, annotation_fps, dataloader, model)
 
 
 def main(config):
