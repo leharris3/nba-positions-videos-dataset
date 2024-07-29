@@ -75,4 +75,5 @@ def update_results(
     with ThreadPoolExecutor() as executor:
         for fp, file_results in grouped_results.items():
             executor.submit(process_grouped_result, config, fp, file_results)
+        return # no need to wait around for the results
        

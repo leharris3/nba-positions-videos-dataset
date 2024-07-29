@@ -11,26 +11,23 @@ import torch.utils.data.dataloader
 import yaml
 import logging
 import torch.multiprocessing as mp
-import numpy as np
 import os
 import time
 import torch
 import gc
+import asyncio
 
 from torch.utils.data import DataLoader
 from multiprocessing import Pool
 from typing import List, Dict, Optional
 from glob import glob
 from huggingface_hub import hf_hub_download
-from tqdm import tqdm
-from concurrent.futures import ThreadPoolExecutor
 
 from easy_ViTPose import VitInference
 from utils.data import NBAClips
 from utils.model import ViTPoseCustom
 from utils.post_processing import (
     post_process_results,
-    update_results,
 )
 from utils.results import update_results
 
@@ -87,6 +84,9 @@ def worker(
         pin_memory=False,
     )
 
+    # for writing results to files async
+    background_tasks = set()
+
     # main infer loop
     # torch.no_grad() saves lots and lots of mem
     for i, (
@@ -112,7 +112,7 @@ def worker(
             logger.debug("Casting heatmaps from fp16 -> f32")
             heatmaps = model(batch).float() # .detach().cpu().numpy()
         else:
-            heatmaps = model(batch) # .detach().cpu().numpy()
+            heatmaps = model(batch)  # .detach().cpu().numpy()
         logger.debug(f"forward pass took {time.time() - forward_start} seconds")
 
         # post process all results
@@ -128,7 +128,7 @@ def worker(
             )
             logger.error(e)
             continue
-        
+
         logger.debug(f"post-processing took {time.time() - start_post} seconds")
 
         # remove errored results
@@ -150,19 +150,14 @@ def worker(
         # write results to out
         # TODO: optimize (~5-7s per batch)
         write_start = time.time()
-        try:
-            update_results(
-                config,
-                results,
-                annotation_fps,
-                curr_annotation_fp_idx.tolist(),
-                curr_frame_idx.tolist(),
-                curr_rel_bbx_idx.tolist(),
-            )
-        except Exception as e:
-            logger.error(f"Error writing results: {heatmaps.shape}, {og_w}, {og_h}")
-            logger.error(e)
-            continue
+        update_results(
+            config,
+            results,
+            annotation_fps,
+            curr_annotation_fp_idx.tolist(),
+            curr_frame_idx.tolist(),
+            curr_rel_bbx_idx.tolist(),
+        )
 
         logger.debug(f"writing results took {time.time() - write_start} seconds")
         end = time.time()
@@ -189,7 +184,7 @@ def main(config):
         is_video=False,
         device="cpu",
     )
-    
+
     # create a custom model object
     model_loader: ViTPoseCustom = ViTPoseCustom(
         config=config, model=infer_model_obj._vit_pose
