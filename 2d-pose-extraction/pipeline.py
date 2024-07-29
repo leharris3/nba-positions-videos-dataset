@@ -97,7 +97,7 @@ def worker(
         og_w,
     ) in enumerate(dataloader):
 
-        # copy -> gpu
+        # copy tesnor cpu -> gpu
         start = time.time()
         batch = batch.to(device)
 
@@ -105,38 +105,66 @@ def worker(
         # result = (B, H, W, 3)
         # convert to from fp16 -> f32
         forward_start = time.time()
+        # TODO: we expect that heatmaps is going to be an extreamly large tensor
+        # faster to keep tensor on GPU and use pytorch ops for post-processing, then copy to cpu later
         if config["use_half_precision"] == "True":
             logger.debug("Casting heatmaps from fp16 -> f32")
-            heatmaps = model(batch).float().detach().cpu().numpy()
+            heatmaps = model(batch).float() # .detach().cpu().numpy()
         else:
-            heatmaps = model(batch).detach().cpu().numpy()
+            heatmaps = model(batch) # .detach().cpu().numpy()
         logger.debug(f"forward pass took {time.time() - forward_start} seconds")
 
         # post process all results
         logger.debug(f"post-processing batch {i}")
         start_post = time.time()
-        
+
         # TODO: optimize (7s+ per batch)
-        results = post_process_results(heatmaps, og_w, og_h, device=device)
+        # try:
+        #     results = post_process_results(heatmaps, og_w, og_h, device=device)
+        # except Exception as e:
+        #     logger.error(
+        #         f"Error post-processing batch: {heatmaps.shape}, {og_w}, {og_h}"
+        #     )
+        #     logger.error(e)
+        #     continue
+        
+        results = post_process_results(heatmaps, og_w, og_h, device=device)    
         logger.debug(f"post-processing took {time.time() - start_post} seconds")
 
         # remove errored results
         results = [res for res in results if res is not None]
+        if len(results) == 0:
+            logger.info(
+                "-------------------------------------------------------------------------------------------"
+            )
+            logger.info(
+                f"No valid results in batch for device: {device}, assuming we are done processing all files!"
+            )
+            logger.info(
+                "-------------------------------------------------------------------------------------------"
+            )
+            del batch
+            gc.collect()
+            return
 
-        write_start = time.time()
-        
         # write results to out
         # TODO: optimize (~5-7s per batch)
-        update_results(
-            config,
-            results,
-            annotation_fps,
-            curr_annotation_fp_idx.tolist(),
-            curr_frame_idx.tolist(),
-            curr_rel_bbx_idx.tolist(),
-        )
-        logger.debug(f"writing results took {time.time() - write_start} seconds")
+        write_start = time.time()
+        try:
+            update_results(
+                config,
+                results,
+                annotation_fps,
+                curr_annotation_fp_idx.tolist(),
+                curr_frame_idx.tolist(),
+                curr_rel_bbx_idx.tolist(),
+            )
+        except Exception as e:
+            logger.error(f"Error writing results: {heatmaps.shape}, {og_w}, {og_h}")
+            logger.error(e)
+            continue
 
+        logger.debug(f"writing results took {time.time() - write_start} seconds")
         end = time.time()
         logger.debug(f"batch {i} took {end - start} seconds")
 
@@ -161,6 +189,7 @@ def main(config):
         is_video=False,
         device="cpu",
     )
+    
     # create a custom model object
     model_loader: ViTPoseCustom = ViTPoseCustom(
         config=config, model=infer_model_obj._vit_pose
@@ -170,20 +199,19 @@ def main(config):
     config["model_path"] = model_path
     config["yolo_path"] = yolo_path
 
-    # TODO: cheap lil hack for now
-    # annotation_file_paths = glob(config["clips_annotations_dir"] + "/*/*/*.json")[::-1]
-    src_dir = '/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/filtered-clip-annotations'
-    dst_dir = '/mnt/arc/levlevi/nba-positions-videos-dataset/nba-plus-statvu-dataset/2d-poses-raw/'
-    dsts = [os.path.basename(fp) for fp in glob(dst_dir + '/*/*/*.json')]
-    annotation_file_paths = [fp for fp in glob(src_dir + '/*/*/*.json') if os.path.basename(fp) not in dsts]
-    
-    # use only second half of files
-    # annotation_file_paths = annotation_file_paths[len(annotation_file_paths) // 2:]
-    # annotation_file_paths = annotation_file_paths[:len(annotation_file_paths) // 2]
-    
-    logger.info(f"{len(annotation_file_paths)} total files to process")
+    # get all remaining annotation fps to process
+    src_dir = config["clips_annotations_dir"]
+    dst_dir = config["results_dir"]
+    annotation_file_paths = glob(os.path.join(src_dir, "*/*/*.json"))
+    processed_annotations = set(
+        [
+            fp.replace(dst_dir, src_dir)
+            for fp in glob(os.path.join(dst_dir, "*/*/*.json"))
+        ]
+    )
+    annotation_file_paths = list(set(annotation_file_paths) - processed_annotations)
+    logger.info(f"{len(annotation_file_paths)} total remaining files to process")
 
-    # fairly sure num_proc=8 per gpus best
     num_gpus = config["num_gpus"]
 
     # split annotation file paths among workerss

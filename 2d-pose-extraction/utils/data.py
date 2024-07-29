@@ -114,10 +114,10 @@ class NBAClips(Dataset):
         total_frames_cap = int(self.cap.get(cv2.CAP_PROP_FRAME_COUNT))
         
         # TODO: this bug would imply there is a fundamental error in the way we construct annotations
-        try:
-            assert total_frames == total_frames_cap
-        except:
-            logger.warning(f'annotations and video have different number of frames: {total_frames} != {total_frames_cap}')
+        # try:
+        #     assert total_frames == total_frames_cap - 1
+        # except:
+        #     logger.warning(f'annotations and video have different number of frames: {total_frames} != {total_frames_cap}')
         
         # frame idx is out of range of current annotations -> load new video
         if self.current_frame_idx >= total_frames:
@@ -130,7 +130,7 @@ class NBAClips(Dataset):
             if self.current_rel_bbx_idx >= num_bbxs_in_current_frames:
                 self.current_rel_bbx_idx = 0
                 self.current_frame_idx += 1
-                ret, self.curr_frameframe = self.curr_frame = self.cap.read()
+                ret, self.curr_frame = self.cap.read()
                 # corrupt vid -> load new video
                 if not ret:
                     self.reset()
@@ -166,10 +166,13 @@ class NBAClips(Dataset):
         # crop the current frame
         try:
             curr_frame_cropped = self.curr_frame[y : y + h, x : x + w]
-        except:
+        except Exception as e:
             logger.error(f"Failed to crop frame: {self.current_video_fp}")
             logger.error(f"bbx: {self.current_bbx}")
+            logger.error(f"frame shape: {self.curr_frame.shape}")
+            logger.error(e)
             self.current_rel_bbx_idx += 1
+            assert False
             return self.__getitem__(index)
 
         # resize + normalize

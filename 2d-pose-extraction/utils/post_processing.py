@@ -58,7 +58,7 @@ def process_hm(args) -> Optional[np.ndarray]:
 
 
 def post_process_results(
-    heatmaps, og_w: torch.Tensor, og_h: torch.Tensor, device
+    heatmaps: torch.Tensor, og_w: torch.Tensor, og_h: torch.Tensor, device
 ) -> List[np.ndarray]:
     """
     Postprocess the heatmaps to obtain keypoints and their probabilities.
@@ -71,11 +71,9 @@ def post_process_results(
     Returns:
         List[ndarray]: Processed keypoints with probabilities.
     """
-
-    # og_w, og_h = og_w.tolist(), og_h.tolist()
-    # args_list = list(zip(heatmaps, og_w, og_h))
-    # with ThreadPoolExecutor() as executor:
-    #     results = list(executor.map(process_hm, args_list))
+    
+    # heatmaps is a torch tensor copied to `device`
+    # og_w and og_h are torch tensors on the CPU
 
     # TODO: default batch post-processing is ungodly slow!!!
     logger.debug(f"Postprocessing {heatmaps.shape} heatmaps")
@@ -85,7 +83,7 @@ def post_process_results(
     centers_arr = np.array([[x1, y1] for x1, y1 in zip(og_w // 2, og_h // 2)])
     scales_arr = np.array([[x1, y1] for x1, y1 in zip(og_w, og_h)])
 
-    # TODO: will setting unbiased=False and/or use_udp=False fuck my shit up????
+    # TODO: unbiased and use_udp must be set to `True`
     points, prob = keypoints_from_heatmaps(
         heatmaps=heatmaps,
         center=centers_arr,
@@ -94,7 +92,8 @@ def post_process_results(
         use_udp=True,
         device=device,
     )
-    # TODO: is return type okay?
+    # probs need to be copied -> CPU
+    points, prob = points, prob.cpu().numpy()
     return list(np.concatenate([points[:, :, ::-1], prob], axis=2))
 
 
