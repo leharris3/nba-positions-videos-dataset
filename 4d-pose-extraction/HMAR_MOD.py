@@ -61,6 +61,11 @@ class HMAR(nn.Module):
         self.load_state_dict(state_dict_filt, strict=False)
 
     def forward(self, x):
+        """
+        HMAR forward pass.
+        Do we support multiple images in a batch?
+        """
+        
         feats, skips = self.backbone(x)
         flow = self.texture_head(skips)
         uv_image = self.flow_to_texture(flow, x)
