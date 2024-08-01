@@ -17,11 +17,53 @@ class NumpyEncoder(json.JSONEncoder):
         if isinstance(obj, np.ndarray):
             return obj.tolist()
         return super().default(obj)
+    
+
+def compress_json_file(input_file: str, scale_factor: int = 100):
+    
+    with open(input_file, 'rb') as f:
+        try:
+            data = json.loads(f.read())
+        except:
+            print(f"error reading: {input_file}")
+            return
+    
+    for frame in data['frames']:
+        for bbx in frame['bbox']:
+            bbx['x'] = int(bbx['x'])
+            bbx['y'] = int(bbx['y'])
+            bbx['width'] = int(bbx['width'])
+            bbx['height'] = int(bbx['height'])
+            bbx['confidence'] = int(bbx['confidence'] * scale_factor)
+            if 'keypoints' in bbx:
+                if len(bbx['keypoints']) > 1:
+                    for kp in bbx['keypoints']:
+                        try:
+                            kp[0] = int(kp[0])
+                            kp[1] = int(kp[1])
+                            kp[2] = int(kp[2] * scale_factor)
+                        except Exception as e:
+                            print(f"error: {kp}")
+                            print(e)
+                            pass
+                else:
+                    for kp in bbx['keypoints'][0]:
+                        try:
+                            kp[0] = int(kp[0])
+                            kp[1] = int(kp[1])
+                            kp[2] = int(kp[2] * scale_factor)
+                        except Exception as e:
+                            print(f"error: {kp}")
+                            print(e)
+                            
+    with open(input_file, 'wb') as f:
+        f.write(json.dumps(data))
 
 
 def write_results(out_fp: str, results: Dict):
     with open(out_fp, "w") as f:
         json.dump(results, f, cls=NumpyEncoder, indent=4)
+        compress_json_file(out_fp)
         
         
 def process_grouped_result(config, fp, file_results):

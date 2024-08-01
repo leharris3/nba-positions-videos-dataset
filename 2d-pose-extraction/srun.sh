@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --partition=h100
-#SBATCH --nodelist=bumblebee.ib
+#SBATCH --partition=a6000
+#SBATCH --nodelist=mirage.ib
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=8
 #SBATCH --gres=gpu:8

@@ -33,8 +33,9 @@ def main(config: Dict):
     Main process.
     """
     
-    # 1. get all fps
+    # 1. get all fps (annotation paths)
     # 2. get one copy of vitdet in shared mem
+    
     pass
 
 if __name__ == '__main__':
