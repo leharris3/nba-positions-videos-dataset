@@ -64,7 +64,35 @@ class NBAClips(Dataset):
 
     # TODO: ~.19s/16 elements
     def __getitem__(self, index):
-
+        
+        # TODO: new output format
+        
+        #    pred_bbox,  # [[x1, y1, x2, y2]] -- (NUM_BBXS, 4)
+        #         pred_bbox_pad,  # IDENTICAL TO `pred_bbox`
+        #         pred_masks,  # (NUM_BBXS, H, W) [False if out of BBX, True if in BBX]
+        #         pred_scores,  # [ 1. ] * NUM_BBXS
+        #         pred_classes,  # [0] * NUM_BBXS
+        #         gt_tids,  # [1] * NUM_BBXS
+        #         gt_annots,  # [[]] * NUM_BBXS
+        
+        # TODO: COMPLETE OUTPUT FORMAT
+        # how long does a single forward pass take
+        # i.e. do we need batch processing?
+        
+        # N: # BBXS
+        #     image_frame,       (N, H, W, 3) # TODO: how do we handle duplicate frames efficently, using a dict (duh!)
+        #     pred_masks,        (N, H, W) 
+        #     pred_bbox,         (N, 4)
+        #     pred_bbox_pad,     (N, 4)
+        #     pred_scores,       (1.0) * N
+        #     frame_name,        (None) * N
+        #     pred_classes,      (0) * N
+        #     frame_idx,         (INT) * N
+        #     measurments,       (N, 5)
+        #     gt_tids,           (1) * N
+        #     gt_annots,         (()) * N
+        #     extra_data,        list(range(len(pred_scores))) * N
+    
         # no annoations file loaded -> new video from mem
         if self.current_annotations is None:
             # TODO: end of the dataset
@@ -120,6 +148,7 @@ class NBAClips(Dataset):
         #     logger.warning(f'annotations and video have different number of frames: {total_frames} != {total_frames_cap}')
         
         # frame idx is out of range of current annotations -> load new video
+        
         if self.current_frame_idx >= total_frames:
             self.reset()
             self.current_annotation_fp_idx += 1
@@ -276,6 +305,7 @@ class NBAClips(Dataset):
                 for fp in glob(os.path.join(self.results_dir, "*/*/*.json"))
             ]
         )
+        
         self.annotation_file_paths = list(
             set(self.annotation_file_paths) - processed_annotations
         )

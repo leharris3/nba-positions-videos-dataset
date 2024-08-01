@@ -29,21 +29,18 @@ from typing import List, Dict
 
 
 
-def worker(rank, config: Dict, hydra_config: DictConfig, model, file_paths: List[str]):
+def worker(rank, config: Dict, hydra_config: DictConfig, file_paths: List[str]):
     """
     One torch worker.
     """
     
-    # TODO: we will to match the input format of the VitDetDataset to use model forward oob
-    # 1. get dataset and dataloader
-        # dataloader
-            # (bbx_tensors, annotation_fp, frame_idx, bbx_idx)
-    # 2. copy model to gpu
-    # 3. for batch in dataloader: predict -> post-process -> write
+    # select subset of fps for this device
+    file_paths = file_paths[rank]
     
+    # make a phalp tracker obj
     phalp_tracker = PHALP(hydra_config)
     dataset = NBAClips(config, file_paths, rank)
-    dataloader = DataLoader(dataset, batch_size=1, num_workers=0)
+    dataloader = DataLoader(dataset, batch_size=config['batch_size'], num_workers=0)
     
     # # TODO: skeleton
     # for batch in dataloader:
