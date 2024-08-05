@@ -1,3 +1,4 @@
+import shutil
 import os
 import traceback
 import warnings
@@ -41,13 +42,17 @@ from phalp.utils.utils_download import cache_url
 from phalp.visualize.postprocessor import Postprocessor
 from phalp.visualize.visualizer import Visualizer
 
+torch.set_float32_matmul_precision("high")
 log = get_pylogger(__name__)
+BREAK=10
 
 
 class PHALP(nn.Module):
 
     def __init__(self, cfg):
         super(PHALP, self).__init__()
+        
+        log.info("Setting up custom PHALP...")
 
         self.cfg = cfg
         self.device = torch.device(self.cfg.device)
@@ -167,9 +172,11 @@ class PHALP(nn.Module):
         except:
             pass
 
-    def track(self):
+    def track(self, video_fp:str=None, pkl_out_fp:str=None):
 
-        log.info("We tracking some shit type shit")
+        # create new tmp dir
+        if video_fp is None:
+            self.cfg.video.output_dir = os.path.basename(video_fp).replace(".mp4", "")
 
         eval_keys = ["tracked_ids", "tracked_bbox", "tid", "bbox", "tracked_time"]
         history_keys = ["appe", "loca", "pose", "uv"] if self.cfg.render.enable else []
@@ -203,12 +210,14 @@ class PHALP(nn.Module):
 
         # process the source video and return a list of frames
         # source can be a video file, a youtube link or a image folder
-        io_data = self.io_manager.get_frames_from_source()
+        io_data = self.io_manager.get_frames_from_source(video_fp=video_fp)
         list_of_frames, additional_data = (
             io_data["list_of_frames"],
             io_data["additional_data"],
         )
         self.cfg.video_seq = io_data["video_name"]
+        
+        # custom pkl out path
         pkl_path = (
             self.cfg.video.output_dir
             + "/results/"
@@ -216,7 +225,8 @@ class PHALP(nn.Module):
             + "_"
             + str(self.cfg.video_seq)
             + ".pkl"
-        )
+        ) if pkl_out_fp is None else pkl_out_fp
+        
         video_path = (
             self.cfg.video.output_dir
             + "/"
@@ -425,6 +435,10 @@ class PHALP(nn.Module):
                     for tkey_ in tmp_keys_:
                         del final_visuals_dic[frame_key][tkey_]
 
+            # stop short
+            if t_ == BREAK:
+                break
+            
         joblib.dump(final_visuals_dic, pkl_path, compress=3)
         self.io_manager.close_video()
         if self.cfg.use_gt:
@@ -438,6 +452,9 @@ class PHALP(nn.Module):
                 + "_distance.pkl",
             )
 
+
+        # clean up tmp dir
+        shutil.rmtree(self.cfg.video.output_dir, ignore_errors=True)
         return final_visuals_dic, pkl_path
 
     def get_detections(
@@ -623,7 +640,7 @@ class PHALP(nn.Module):
             rles_list.append(rles)
             selected_ids.append(p_)
 
-        log.info("PHALP: masked_image_list {}".format(len(masked_image_list)))
+        # log.info("PHALP: masked_image_list {}".format(len(masked_image_list)))
 
         if len(masked_image_list) == 0:
             return []
@@ -635,9 +652,9 @@ class PHALP(nn.Module):
         with torch.no_grad():
             extra_args = {}
 
-            log.info("Calculating HMAR forward pass")
+            # log.info("Calculating HMAR forward pass")
             hmar_out = self.HMAR(masked_image_list.cuda(), **extra_args)
-            log.info("PHALP: hmar_out {}".format(hmar_out.keys()))
+            # log.info("PHALP: hmar_out {}".format(hmar_out.keys()))
 
             uv_vector = hmar_out["uv_vector"]
             appe_embedding = self.HMAR.autoencoder_hmar(uv_vector, en=True)

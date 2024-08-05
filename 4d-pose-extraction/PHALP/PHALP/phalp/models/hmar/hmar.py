@@ -43,6 +43,9 @@ class HMAR(nn.Module):
                                         input_dim=cfg.MODEL.SMPL_HEAD.IN_CHANNELS,
                                         pool='pooled')
         
+        print("Compiling all HMAR modules...")
+        self.compile()
+        
     def load_weights(self, path):
         checkpoint_file = torch.load(path)
         state_dict_filt = {}

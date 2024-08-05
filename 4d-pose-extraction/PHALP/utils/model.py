@@ -22,10 +22,10 @@ class ViTPoseCustom:
         self.model.eval()
 
         # TODO: order matters
-        if config["use_half_precision"] == "True":
-            self.model = self.model.half()
-        if config["compile_model"] == "True":
-            self.model = torch.compile(self.model)
+        # if config["use_half_precision"] == "True":
+        #     self.model = self.model.half()
+        # if config["compile_model"] == "True":
+        #     self.model = torch.compile(self.model)
 
     def get_model(self, device: int) -> torch.nn.Module:
         """

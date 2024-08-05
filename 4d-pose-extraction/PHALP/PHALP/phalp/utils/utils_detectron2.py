@@ -192,6 +192,10 @@ class DefaultPredictor_Lazy:
             self.input_format = mapper.image_format
 
         self.model.eval().cuda()
+        
+        print("Compiling detectron model...")
+        self.model = torch.compile(self.model)
+        
         if test_dataset:
             self.metadata = MetadataCatalog.get(test_dataset)
         assert self.input_format in ["RGB", "BGR"], self.input_format

@@ -21,7 +21,7 @@ class IO_Manager():
         self.output_fps = cfg.render.fps
         self.video = None
 
-    def get_frames_from_source(self):
+    def get_frames_from_source(self, video_fp:str=None):
 
         # source path can be a video, or a directory of images, youtube link, or a pkl file with keys as frames
         source_path = self.cfg.video.source
@@ -42,7 +42,10 @@ class IO_Manager():
             youtube_video.streams.get_highest_resolution().download(output_path = self.cfg.video.output_dir + "/_DEMO/" + video_name, filename="youtube.mp4")
             source_path = self.cfg.video.output_dir + "/_DEMO/" + video_name + "/youtube.mp4"
 
-
+        # optionally pass in an explicit video path
+        if video_fp is not None:
+            source_path = video_fp
+        
         if(source_path.endswith(".mp4")):
             # find a proper video name based on the source path
             video_name = source_path.split('/')[-1].split('.')[0]
